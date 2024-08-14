@@ -1,7 +1,7 @@
 ---
 title: "Quick & Simple Guide: How to Restore Lost iPhone Contact Information Without a Backup"
-date: 2024-08-12 22:41:40
-updated: 2024-08-14 11:54:11
+date: 2024-08-13T23:53:44.364Z
+updated: 2024-08-14T23:53:44.364Z
 tags:
   - ios-recovery
 categories:
@@ -42,6 +42,9 @@ Summary
 * [Part 2. How to fix a water damaged iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 * [Part 3. 3 ways to get back data if you drop your iPhone in water (with or without backup)](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to tell/know if your iPhone is water damaged or not
 
  If your iPhone X/8/7/SE/6/5/5c/4S/4 got wet, first, you may think whether your iPhone has water damaged or not? Please use iPhone Liquid Contact Indicators (Lcls) to check it. The liquid indicators are shown as the picture below.
@@ -54,6 +57,9 @@ Summary
 
 The picture is from Support.Apple.com
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to fix a water damaged iPhone
 
  To be safe, you should get your iPhone away from water and power it off immediately.
@@ -71,6 +77,9 @@ The picture is from Support.Apple.com
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 ![Fix Disabled or Frozen iPhone to Normal](https://www.aiseesoft.com/images/youtube-video/video-fix-disabled-frozen-iphone-to-normal.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1 Run iOS System Recovery
 
@@ -90,6 +99,9 @@ Step 3 Fix iPhone water damaged
 
 ![Fix iPhone Red Screen to Normal](https://www.aiseesoft.com/images/iphone-data-recovery/fix/repairing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Easiest way to get back data if you drop your iPhone in water (with or without backup)
 
  When you have repaired your iPhone, is there a good idea to recover lost data from water damaged iPhone ?
@@ -118,6 +130,9 @@ Step 3 Fix iPhone water damaged
 Step 1 Install the software and launch it on your computer.
 
 ![Getting Started FoneLab](https://www.aiseesoft.com/images/iphone-data-recovery/getting-started.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 
 Step 2 Scan the water damaged iPhone.
 
@@ -130,9 +145,15 @@ Step 3 Select the data you want to recover.
  When the scan procedure is done, all the contents will be shown. You are provided to choose the category you would like to restore, and preview all the contents under this category.
 
 ![Choose Category from FoneLab](https://www.aiseesoft.com/images/iphone-data-recovery/choose-category-from-fonelab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For example, if you want to recover photos in Camera Roll, click Camera Roll on the left, then check photos you want and click Recover. Now you have recovered photos from your water damaged iPhone. If you want to recover all scanned data to computer, choose all and then click Recover to[back up iPhone to external drive](https://tools.techidaily.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Way 2\. Restore files from iTunes backup when water damaged iPhone won't turn on
 
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
@@ -149,6 +170,9 @@ Step 2 After scanning, all iPhone data categories will be listed on the left con
 
 ![Retrieve Deleted iMessages from iTunes Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-imessage-from-itunes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Way 3\. Retrieve data from iCloud backup when iTunes backup is gone and iPhone is dead
 
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
@@ -160,10 +184,16 @@ Step 1 Again, launch this utility on your computer.
  iPhone Data Recovery will protect your privacy and never remember any personal information.
 
 ![Sign into Your iCloud Account](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-sign-into-icloud-account.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
 Step 2 After logging, you can select the data type you want to recover and then click "Start" to move on.
 
 ![Select Data Type to Recover](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-select-data-type-from-icloud-for-scanning.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 3 After the scan process is done, you can view the data types as above, tick the data and click "Recover" button to save the lost data from iCloud backup to computer safely.
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing Cracked Smartphone Displays & Safeguarding Your Information"
-date: 2024-08-12 17:13:35
-updated: 2024-08-14 10:40:44
+date: 2024-08-13T23:53:51.863Z
+updated: 2024-08-14T23:53:51.863Z
 tags:
   - fix-android-problems
 categories:
@@ -25,6 +25,9 @@ _My phone won't turn on? How to fix it?_
 * [Part 4. Do a factory reset from recovery mode](https://tools.techidaily.com/)
 * [Part 5. Best way to fix your phone that won't turn on](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Part 1\. Charge your Android phone for a few minutes
 
  There is no simply way to directly determine what the cause really is. Nor is there an ultimate solution to fix "my phone won't turn on'' issue. When your Android phone refuses to turn on, it is most likely an accessory or hardware issue. So you should first make sure if there is a battery or charger problem.
@@ -41,6 +44,9 @@ _My phone won't turn on? How to fix it?_
 
  For those phone whose batteries cannot be removed, you'll have to long-press the Power button. Press your device's Power button and hold it down for 10 seconds. The time may be longer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Perform a hard reset to turn on your phone
 
  "My phone won't turn on and it's full charged. I try a new battery in my phone and it still doesn't work. It has never touched water and has no cracks at all. Is there any way to bring my phone back to normal?"
@@ -58,6 +64,9 @@ Step 3 Choose**wipe data/factory reset** . You can use Volume button to scroll a
 Step 4 Select**Yes - delete all user data** option.
 
 ![Yes - delete all user data](https://www.aiseesoft.com/images/ios-system-recovery/delete-all-user-data.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 5 Press**Power** button to enter**Reboot system now** .
 
@@ -73,6 +82,9 @@ Step 5 Press**Power** button to enter**Reboot system now** .
 
 ► Hold Volume Up + Camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part 4\. Enter recovery mode to turn on your phone
 
  You can also put your Android phone into[recovery mode](https://tools.techidaily.com/) to fix the "my phone won't turn on'' issue. To boot your phone in recovery, you can follow these steps:
@@ -91,6 +103,9 @@ Step 5 Press the**Power** button to confirm the operation.
 
  Your Android device will automatically restart. After that, your phone will turn on and work normally.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Best way to fix my phone that won't turn on
 
  If you find out that it is the software issue that cause your Android phone won't turn on, you can rely on the professional[Broken Android Data Extraction](https://tools.techidaily.com/aiseesoft-android-data-recovery/) to help you solve the problem. First, you can free download and install it on your computer.
@@ -115,6 +130,9 @@ Step 2 Select the issue you encounter
  Then you'll need to choose the issue type you are running into. The program supports getting your Android phone fixed when it has virus attack, system crash, black screen, phone frozen, phone drown or password forgotten, etc. Here you can choose**Black Screen** to continue. Click the**Next** button then.
 
 ![Broken Android Issues](https://www.aiseesoft.com/images/broken-android-data-recovery/broken-android-issue.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 Choose the Android model
 
@@ -127,6 +145,9 @@ Step 4 Download firmware and fix Android phone that won't turn on
  The software will soon**download the firmware** that suits your Android phone and**repair** it. Quickly, your phone will back to normal condition. What's more, this software enables you to recover the lost/deleted Android data, you can free download it and have a try.
 
 ![Fix My Phone Wont Turn On](https://www.aiseesoft.com/images/broken-android-data-recovery/downloading.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn the steps from the video below:
 

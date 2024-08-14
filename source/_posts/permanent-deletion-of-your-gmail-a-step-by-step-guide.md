@@ -1,7 +1,7 @@
 ---
 title: "Permanent Deletion of Your Gmail: A Step-by-Step Guide"
-date: 2024-08-11 18:28:56
-updated: 2024-08-14 10:56:21
+date: 2024-08-13T23:53:51.976Z
+updated: 2024-08-14T23:53:51.976Z
 tags:
   - fix-android-problems
 categories:
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 Fix Broken Phone
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Phone screen is broken, repair it with money
 
 ### Situation 1\. Check phone screen
@@ -46,6 +49,9 @@ So if your money on your pocket allows, you can replace the screen.
 ### Situation 3\. DIY: Fix the broken screen phone at home
 
 ![Fix Broken Screen DIY](https://www.aiseesoft.com/images/article/broken-screen/diy-fix-broken-phone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
 The cheapest way to fix your broken screen phone is by yourself at home.
 
@@ -53,6 +59,9 @@ The cheapest way to fix your broken screen phone is by yourself at home.
 
  When you decide to repair screen in this way, you must know that the risk of doing by yourself. Otherwise, you may get your broken screen phone to brick.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 2\. Broken screen fails to operate? Access data from broken screen phone
 
  Fixing the phone screen may take several days. If you are urgent for using data on the phone, but touching screen is not responsive, then you can consider extracting the data from the broken screen phone. Or, if you give up the broken screen replacement, you may wonder extracting important data from it. And fixing the broken screen phone may just replace your phone screen. However, any accident may lead to your data on phone to be lost. Follow the steps as bellow to access data from broken screen.
@@ -64,6 +73,9 @@ The cheapest way to fix your broken screen phone is by yourself at home.
 Step 1 Connect your broken screen phone to computer, and run this software on your PC. Choose "Start".
 
 ![Broken Android Data Recovery](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/start-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2 Select your phone name and model to check if your phone can be fixed in this software and click "Confirm" for the next process.
 
@@ -87,6 +99,9 @@ Tip
 
  This way is applied when you cannot touch your phone screen like password-forgot, phone screen is totally broken, etc. so that you can see your phone screen on computer.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. FAQs of fixing broken phone screen
 
 Will Apple fix my screen?
@@ -106,6 +121,9 @@ Will Apple fix my screen?
 You can learn the steps from the video below:
 
 ![Video Fix Password Forgotten Android](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 What do you think of this post?
 

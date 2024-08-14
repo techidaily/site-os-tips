@@ -1,7 +1,7 @@
 ---
 title: Find & Track Lost Android Devices with Android Device Manager
-date: 2024-08-13 21:35:42
-updated: 2024-08-14 11:12:19
+date: 2024-08-13T23:53:52.138Z
+updated: 2024-08-14T23:53:52.138Z
 tags:
   - fix-android-problems
 categories:
@@ -25,14 +25,24 @@ _My phone won't turn on? How to fix it?_
 * [Part 4. Do a factory reset from recovery mode](https://tools.techidaily.com/)
 * [Part 5. Best way to fix your phone that won't turn on](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Part 1\. Charge your Android phone for a few minutes
 
  There is no simply way to directly determine what the cause really is. Nor is there an ultimate solution to fix "my phone won't turn on'' issue. When your Android phone refuses to turn on, it is most likely an accessory or hardware issue. So you should first make sure if there is a battery or charger problem.
 
 ![Charge Android to Fix My Phone that Won't Turn On](https://www.aiseesoft.com/images/ios-system-recovery/charge-android.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When your Android phone's batter is running out of power, you' ll get an "Low Power" or "Empty Battery" indicator on the screen when you attempt to turn it on. If the batter is dead completely, you have no chance to turn on the Android phone. To fix the issue, just plug your Android phone into a wall charger to charge it. You should not turn on your Android phone immediately when charge the device, getting it charged for a few minutes. Then come back and try to turn on your Android phone with pressing the Power button. If it doesn't work at all, try charging the Androidd phone with a different cable and charger. The charger or cable you used might be broken.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2\. Check the battery and turn on your phone
 
 ![Pull out Android Battery to Fix My Phone that Won't Turn On](https://www.aiseesoft.com/images/ios-system-recovery/android-battery.jpg)
@@ -54,10 +64,17 @@ Step 2 Press and hold**Volume Down** ,**Home** and**Power** buttons at the same 
 Step 3 Choose**wipe data/factory reset** . You can use Volume button to scroll and confirm your operations.
 
 ![Wipe Data/Factory Reset](https://www.aiseesoft.com/images/ios-system-recovery/wipe-data-factory-reset.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 
 Step 4 Select**Yes - delete all user data** option.
 
 ![Yes - delete all user data](https://www.aiseesoft.com/images/ios-system-recovery/delete-all-user-data.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 5 Press**Power** button to enter**Reboot system now** .
 
@@ -84,6 +101,9 @@ Step 2 When the phone vibrates,**release Power** .
 Step 3 **Release Home and Power** buttons when you see the Android System Recovery screen appears.
 
 ![Wipe Cache Partition](https://www.aiseesoft.com/images/ios-system-recovery/wipe-cache-partition.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 
 Step 4 Select**wipe cache partition** option by using the "Volume" key.
 
@@ -131,6 +151,9 @@ Step 4 Download firmware and fix Android phone that won't turn on
 You can learn the steps from the video below:
 
 ![Fix Password Forgotten Android Phone](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this post, we mainly talk about how to fix**my phone won't turn on** problem. If you are facing the issue, you can use the recommended methods to boot your phone. Hope you can easily solve the problem after reading this post.
 

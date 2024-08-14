@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Not Responding' Issue with Spotlight Search on Your iPhone (iOS 13 and 14)
-date: 2024-08-12 12:50:58
-updated: 2024-08-14 10:27:45
+date: 2024-08-13T23:53:56.938Z
+updated: 2024-08-14T23:53:56.938Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 * [Part 3: 3 methods to backup iPhone files](https://tools.techidaily.com/)
 * [Part 4: Ultimate solution to fix iPhone issues](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Part 1: 6 methods to delete unnecessary files
 
  Just delete some unnecessary files is the most efficient method to fix iPhone not enough storage problems. What should be the unnecessary files of iPhone and how to remove these files? Here are the 6 methods you should know.
@@ -40,7 +43,13 @@ Step 2 Tap the "Clear History and Website Data" option under Privacy.
 Step 3 Confirm the "Clear History and Data" to clear cache on your iPhone.
 
 ![Clear Safari Cache](https://www.aiseesoft.com/images/solution/iphone-storage-full/clear-safari-cache-on-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Solution 2: Clean app cache on iPhone
 
  Similar to the browsing cache, you can clear the app cache on iPhone to release up more space. You can locate the storage space for each program and clean the one with largest size for iPhone not enough storage.
@@ -53,6 +62,9 @@ Step 3 Tap the "Manage Storage" option of Storage menu and tap the "Delete" butt
 
 ![Manage APP Cache](https://www.aiseesoft.com/images/solution/iphone-storage-full/manage-app-cache-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 3: Offload the unused apps
 
  When you offload some unused apps on iPhone, you can still preserve the documents and data. Of course, if you do not need the app any more, you can also delete the app to fix iPhone storage full issues.
@@ -64,6 +76,9 @@ Step 2 Go to "General" > "iPhone Storage" and select the desired app.
 Step 3 Tap "Offload App" to offload the unused app or "Delete App" option remove the app from iPhone.
 
 ![Offload Unused APP](https://www.aiseesoft.com/images/solution/iphone-storage-full/offload-unused-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ### Solution 4: Delete mail cache of iPhone
 
@@ -88,6 +103,9 @@ Step 2 Just tap and drag your finger across the screen to select adjacent photos
 Step 3 Once you choose all the photos, you can tap the trash icon.
 
 ![Delete Photos](https://www.aiseesoft.com/images/solution/iphone-storage-full/delete-photos-videos-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 ### Solution 6: Delete old conversations on iPhone
 
@@ -100,6 +118,9 @@ Step 2 Choose the "Manage History" and tap "Keep Messages".
 Step 3 After that you can select the "30 Days" option to release up space for iPhone storage full.
 
 ![Keep Messages iPhone](https://www.aiseesoft.com/images/solution/iphone-storage-full/keep-messages-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: 4 methods to change the setting of iPhone
 
@@ -116,6 +137,9 @@ Step 2 Go to the "Camera" option and check the "Keep Normal Photos".
 Step 3 Now you can take photos with a small size to avoid messages for iPhone storage full message.
 
 ![Keep Normal Photos](https://www.aiseesoft.com/images/solution/iphone-storage-full/keep-normal-photos.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 8: Change record video resolution
 
@@ -129,6 +153,9 @@ Step 3 Choose the "720p HD at 30 fps" if you do not care about the quality.
 
 ![Record Resolution Video](https://www.aiseesoft.com/images/solution/iphone-storage-full/record-resolution-video-on-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 9: Optimize Apple music storage
 
  If you are using Apple Music, you are able to limit the maximum storage downloaded songs from Apple Music can take up. As for the method, you are able to fix iPhone storage full starting from 2GB going up.
@@ -152,11 +179,17 @@ Step 2 Tap on the "iCloud" account and go to "Photos".
 Step 3 Turn off the switch for "Photo Stream" and switch off the "Photo Sharing" option.
 
 ![Turn Off My Photo Stream](https://www.aiseesoft.com/images/solution/iphone-storage-full/turn-off-my-photo-stream.png)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: 3 methods to backup iPhone files
 
  The cache files might not take a large size of your iPhone if you get the iPhone storage full message frequently. As for the case, you have to backup files of iPhone to iCloud, iTunes or computer instead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Solution 11: Sync iPhone content to iCloud
 
  Apple provides a default solution to backup iPhone contents to iCloud. Once you save the files to iCloud, you can delete the files from iPhone if iPhone does not have enough storage space.
@@ -168,6 +201,18 @@ Step 2 Scroll down and tap on the "Backup" option and turn on the "iCloud on" to
 Step 3 Tap on the "Back Up Now" to save iPhone content to iCloud.
 
 ![iCloud Backup iPhone](https://www.aiseesoft.com/images/solution/iphone-storage-full/icloud-backup-iphone.jpg)
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 12: Save iPhone data to iTunes
 
@@ -180,6 +225,9 @@ Step 2 Select the "Summary" from the sidebar and select "Back Up Now".
 Step 3 Click the "Done" option to save the iPhone content to iTunes.
 
 ![iTunes Backups](https://www.aiseesoft.com/images/solution/iphone-storage-full/itunes-backups.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 13: Backup iPhone files to computer
 
@@ -188,6 +236,9 @@ Step 3 Click the "Done" option to save the iPhone content to iTunes.
 Step 1 Download and install FoneTrans on computer. Connect the iPhone with USB cable to computer. As for the method, you can[backup iPhone to Mac](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) or Windows.
 
 ![Interface](https://www.aiseesoft.com/images/ios-transfer/interface.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
 Step 2 Click the "Music" or other file formats from the main interface to[transfer iPhone music](https://tools.techidaily.com/) . You can also select more other file formats.
 
@@ -216,7 +267,13 @@ Step 2 Choose the erasing levels. Even if you iPhone is full of storage, you can
 Step 3 Click the "Start" button to erase content and settings on iPhone. It is a deep clean and optimize to iPhone full of storage. You can get all the cache files by recovering the desired files from backups.
 
 ![Start Erasing](https://www.aiseesoft.com/images/iphone-data-eraser/start-erasing.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
  When iPhone says storage is full, you have to delete some unnecessary files, change the settings to avoid files with large size, backup some files to cloud service/computer, or have a deep clean for iPhone. The article is an ultimate guide to fix iPhone not enough storage issues. If you have any other query about the full storage of iPhone, you can share more detailed information in the comments.

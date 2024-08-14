@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Securely & Simply Rooting Your Android Phone Using Root Genius"
-date: 2024-08-11 23:53:26
-updated: 2024-08-14 10:18:23
+date: 2024-08-13T23:53:51.356Z
+updated: 2024-08-14T23:53:51.356Z
 tags:
   - fix-android-problems
 categories:
@@ -25,6 +25,9 @@ _My phone won't turn on? How to fix it?_
 * [Part 4. Do a factory reset from recovery mode](https://tools.techidaily.com/)
 * [Part 5. Best way to fix your phone that won't turn on](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Charge your Android phone for a few minutes
 
  There is no simply way to directly determine what the cause really is. Nor is there an ultimate solution to fix "my phone won't turn on'' issue. When your Android phone refuses to turn on, it is most likely an accessory or hardware issue. So you should first make sure if there is a battery or charger problem.
@@ -33,14 +36,23 @@ _My phone won't turn on? How to fix it?_
 
  When your Android phone's batter is running out of power, you' ll get an "Low Power" or "Empty Battery" indicator on the screen when you attempt to turn it on. If the batter is dead completely, you have no chance to turn on the Android phone. To fix the issue, just plug your Android phone into a wall charger to charge it. You should not turn on your Android phone immediately when charge the device, getting it charged for a few minutes. Then come back and try to turn on your Android phone with pressing the Power button. If it doesn't work at all, try charging the Androidd phone with a different cable and charger. The charger or cable you used might be broken.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Check the battery and turn on your phone
 
 ![Pull out Android Battery to Fix My Phone that Won't Turn On](https://www.aiseesoft.com/images/ios-system-recovery/android-battery.jpg)
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 
  Like other operating systems, Android OS can also be get a hard-freeze and refuse to turn on sometimes. If[Android gets completely frozen](https://tools.techidaily.com/) , it is difficult for you to turn on Android phone as the operating system seems dead and not responding regardless of which button you press. Try pulling out the battery and then reboot the Android phone. On a phone with a removable battery, you can directly pull out the battery, wait about 10-15 seconds, and then plug in the battery back in and reboot the phone.
 
  For those phone whose batteries cannot be removed, you'll have to long-press the Power button. Press your device's Power button and hold it down for 10 seconds. The time may be longer.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Perform a hard reset to turn on your phone
 
  "My phone won't turn on and it's full charged. I try a new battery in my phone and it still doesn't work. It has never touched water and has no cracks at all. Is there any way to bring my phone back to normal?"
@@ -73,6 +85,10 @@ Step 5 Press**Power** button to enter**Reboot system now** .
 
 ► Hold Volume Up + Camera.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 4\. Enter recovery mode to turn on your phone
 
  You can also put your Android phone into[recovery mode](https://tools.techidaily.com/) to fix the "my phone won't turn on'' issue. To boot your phone in recovery, you can follow these steps:
@@ -115,6 +131,9 @@ Step 2 Select the issue you encounter
  Then you'll need to choose the issue type you are running into. The program supports getting your Android phone fixed when it has virus attack, system crash, black screen, phone frozen, phone drown or password forgotten, etc. Here you can choose**Black Screen** to continue. Click the**Next** button then.
 
 ![Broken Android Issues](https://www.aiseesoft.com/images/broken-android-data-recovery/broken-android-issue.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 3 Choose the Android model
 
@@ -131,6 +150,9 @@ Step 4 Download firmware and fix Android phone that won't turn on
 You can learn the steps from the video below:
 
 ![Fix Password Forgotten Android Phone](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  In this post, we mainly talk about how to fix**my phone won't turn on** problem. If you are facing the issue, you can use the recommended methods to boot your phone. Hope you can easily solve the problem after reading this post.
 

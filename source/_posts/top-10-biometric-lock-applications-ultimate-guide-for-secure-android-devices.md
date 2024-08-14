@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Biometric Lock Applications: Ultimate Guide for Secure Android Devices"
-date: 2024-08-11 11:35:22
-updated: 2024-08-14 12:34:18
+date: 2024-08-13T23:53:51.479Z
+updated: 2024-08-14T23:53:51.479Z
 tags:
   - fix-android-problems
 categories:
@@ -26,12 +26,22 @@ Fix Cracked Phone Screen
 * [Part 1. What to do with cracked phone screen?](https://tools.techidaily.com/)
 * [Part 2. How to access Android phone with broken screen](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Part 1\. What to do with cracked phone screen?
 
  If you've got a broken phone screen, first you should assess how bad the damage is. You might be able to live with small cracks that don't block your view too much, but larger cracks should probably be dealt with immediately. For example, if the colors on your screen are abnormal or some pixels are no longer displaying, the damage has gone much further than the glass on top and has affected the LCD panel beneath.
 
  If you cannot live with a broken phone screen and decide to repair it, there are two methods you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Method 1\. DIY: Fix a cracked phone screen at home
 
  The cheapest way to[fix your broken screen phone](https://tools.techidaily.com/) is by yourself at home.
@@ -42,12 +52,18 @@ Fix Cracked Phone Screen
 
  Of course, not all of us have the skills or time to fix broken phone screen. When you decide to repair screen in this way, you must be aware that you may get your broken screen phone to brick. If you can take that risk, move one…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2\. Get the mobile provider/phone manufacturer to fix cracked phone screen
 
  If you cracked your phone screen during your manufacturer's warranty period, you should be able to get it fixed for free and within a few hours' time. (Bear in mind, though, that the standard limited warranties of many manufacturers, such as Samsung, do not cover accidents.) Out-of-warranty screen repairs cost upwards of $100.
 
  Otherwise, a quick Internet search should give you a list of phone screen repair stores around your area. Just make sure your phone is protected by a password before you hand it off to a stranger.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to access Android phone with broken screen
 
  The most important thing people care about when phone screen is shattered would be their Android data. It may be easy to replace a new phone, but that can't get you back all the important files. Don't worry, even if you give up the broken screen replacement, there are still methods to help you extract data from the cracked phone.
@@ -59,6 +75,10 @@ Fix Cracked Phone Screen
 Step 1 Connect your broken screen phone to computer, and run this software on your PC. Choose "Start".
 
 ![Broken Android Data Recovery](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/start-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
 Step 2 Select your phone name and model to check if your phone can be fixed in this software and click "Confirm" for the next process.
 
@@ -77,6 +97,9 @@ Step 4 After fixing your phone, this program will scan your phone data automatic
 You can learn the steps from the video below:
 
 ![Fix and Extract Data from Disabled/Password-Forgotten Android Phone ](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 What do you think of this post?
 

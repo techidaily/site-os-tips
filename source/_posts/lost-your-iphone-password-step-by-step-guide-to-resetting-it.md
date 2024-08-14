@@ -1,7 +1,7 @@
 ---
 title: Lost Your iPhone Password? Step-by-Step Guide to Resetting It
-date: 2024-08-13 20:33:46
-updated: 2024-08-14 11:26:49
+date: 2024-08-13T23:54:00.081Z
+updated: 2024-08-14T23:54:00.081Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -41,6 +41,9 @@ Step 2.
  On theLocation Services screen, tapShare My Location to enter theFind My screen. The first thing is to tapFind My iPhone , and turn theFind My iPhone toggle on. Next, back toFind My screen, tap theShare My Location toggle on.
 
 ![Turn on](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/turn-on-share-my-location.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Check to see if the issue is resolved. If you still get the message of "Online, not sharing location", try the next way.
 
@@ -57,7 +60,13 @@ Step 2.
  TapFind My and chooseAsk Next Time orWhen Using the APP .
 
 ![Allow](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/allow-location-access.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3\. Sign in to Your iCloud Account
 
  The basic requirement for being able to use Find My iPhone is that iCloud has to be enabled on the device for locating your iPhone. So when the error message "Online, not sharing location" occurs, you might sign out of your iCloud account. Now follow the steps below to sign in to your iCloud account.
@@ -71,11 +80,17 @@ Step 2.
  Enter your Apple ID and password to sign in to your iCloud.
 
 ![Sign](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/sign-in-apple-id.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 
 ## Way 4\. Fix Find My iPhone Online Not Sharing Location without Data Loss (Recommended)
 
  After checking the above settings, if Find My iPhone still shows "Online, not sharing location", your iPhone's system might go wrong. You should try fixing your iPhone system with a professional tool. Here you can use[iOS System Recovery](https://tools.techidaily.com/aiseesoft/ios-system-recovery/) to upgrade or downgrade your iPhone's system to the ideal version, even the beta version, so that your iPhone can return to the normal state. Then your issue of Find My iPhone online not sharing location could be solved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Can iOS System Recovery Do for You?
 
 ![Aiseesoft iOS System Recovery](https://www.aiseesoft.com/images/ios-system-recovery/box-1.png)
@@ -104,12 +119,18 @@ Step 1.
  Free download and install iOS System Recovery. Launch it and chooseiOS System Recovery . Connect your iPhone to the computer with USB cable. After your device is detected, it will remind you to tap "Trust" on your iPhone.
 
 ![Interface](https://www.aiseesoft.com/images/ios-system-recovery/ios-system-recovery-800.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 
 Step 2.
 
  ClickStart at the bottom right corner to continue the process.
 
 ![Detect Issue](https://www.aiseesoft.com/images/ios-system-recovery/detect-iphone-abnormal-issue.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3.
 
@@ -131,6 +152,9 @@ Step 5.
 
  When the download is finished, open your iPhone and try again to check if the issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 5\. Restore iPhone to Factory Settings (Not Recommended)
 
  If the above steps don't help you resolve the issue of Find My iPhone Online Not Sharing Location, the last way is to[restore](https://tools.techidaily.com/) iPhone to factory settings. Because it will cause the loss of all data and settings, you'd better[backup important data to iTunes](https://tools.techidaily.com/) or iCloud before resetting your iPhone. Or you can downloadiOS Data Backup and Restore to backup all iPhone data to your PC or Mac.
@@ -142,6 +166,9 @@ Step 5.
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
  After backing up your data, you can start restoring your iPhone to the factory settings. Open your iPhone and navigate toSettings \>General \>Reset , and tapErase All Content and Settings . Then your iPhone will be reset.
 
@@ -149,6 +176,9 @@ Step 5.
 
  After resetting, you can[restore your iPhone from backup](https://tools.techidaily.com/) . Then open Find My iPhone to check whether the issue of Online Not Sharing Location is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Final Words
 
  Normally, you can fix the error message of "Online, not sharing location" by setting iCloud and Find My iPhone to be enabled on the device and allowing Find My iPhone to get access to your location. When the above solutions can't resolve the issue, you can use iOS System Recovery to fix the issue of Online Not Sharing Location. If this error still exists, the last method you could try is to restore your iPhone to factory settings. Note that resetting your iPhone will cause the loss of all data and settings. So it is best to backup your iPhone data before resetting your iPhone.
@@ -183,6 +213,9 @@ More Reading
  How to share your iPhone location on iPhone? This page tells you to use iPhone location services to find your iPhone or navigate your location easily.
 
 ![Disqus Icon](https://www.aiseesoft.com/images/article/disqus-icon.png) Leave your comment and join our discussion
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"

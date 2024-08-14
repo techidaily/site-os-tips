@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Effective Ways to Backup a Locked iPhone Step by Step"
-date: 2024-08-13 10:54:55
-updated: 2024-08-14 11:50:56
+date: 2024-08-13T23:53:47.775Z
+updated: 2024-08-14T23:53:47.775Z
 tags:
   - backup-ios-data
 categories:
@@ -67,6 +67,9 @@ Step 2 Use iCloud to backup iPhone without a computer
  Choose "Backup" or "iCloud Backup" button. Make sure that iCloud backup option is being turned on. Tap "OK" when you are asked to start iCloud backup or not. Press "Back Up Now" to backup iPhone to iCloud automatically. Turn off iCloud backup option if you need to backup iPhone to iCloud for one time only.
 
 ![Backup iPhone Voice Memeo Using iCloud](https://www.aiseesoft.com/images/solution/iphone-external-storage/iphone-backup-icloud.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
 ## Part 3 . How to Backup iPhone to Computer without iTunes
 
@@ -86,6 +89,9 @@ Step 1 Open iOS Data Backup & Restore
  Download and install the backup iPhone to computer program. Choose "iOS Data Backup & Restore" to back up an iPhone to Windows/Mac PC.
 
 ![FoneLab Interface](https://www.aiseesoft.com/images/ios-data-backup-and-restore/fonelab-main-interface.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 
 Step 2 Enter iOS Data Backup page
 
@@ -98,22 +104,34 @@ Step 3 Choose standard or encrypted backup mode
  FoneLab iOS Data Backup & Restore can detect your iPhone automatically. Wait until the process ends, choose "Standard backup" by default and hit "Start" to move on. If you have something private need to be backed up, you can select "Encrypted backup" to get an iPhone encryption backup.
 
 ![Choose iPhone file types](https://www.aiseesoft.com/images/ios-data-backup-and-restore/select-file-type.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 4 Select iPhone backup file types
 
  There are photos, App data, contacts, Safari history and many other data types you can choose to back up an iPhone to a computer without data loss. As a result, there is no need to backup unnecessary iPhone files entirely.
 
 ![Backup an iPhone](https://www.aiseesoft.com/images/ios-data-backup-and-restore/ios-backup-process.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5 Back up iPhone to PC in one click
 
  Press "Next" button and set a destination folder on your Windows or Mac computer. Later, iOS Data Backup will start backing up iPhone to computer without iCloud or iTunes quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 4 . How to Backup iPhone to Computer with Google Drive
 
  You can also backup iPhone to PC with the help of Google Drive, thus you are able to access iPhone data through Google on PC. But like iTunes, Google Drive will fullly backup your iPhone data. Your iPhone emails, calendars and contacts have been online already.
 
 ![Backup iPhone to Computer](https://www.aiseesoft.com/images/ios-data-backup-and-restore/backup-iphone-to-google-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 1 Run Google Drive on your iPhone
 

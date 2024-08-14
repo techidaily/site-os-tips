@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Effortlessly Unlocking Your Android Device with a Quick Jailbreak"
-date: 2024-08-12 10:39:20
-updated: 2024-08-14 12:34:25
+date: 2024-08-13T23:53:52.350Z
+updated: 2024-08-14T23:53:52.350Z
 tags:
   - fix-android-problems
 categories:
@@ -26,6 +26,9 @@ Fix Cracked Phone Screen
 * [Part 1. What to do with cracked phone screen?](https://tools.techidaily.com/)
 * [Part 2. How to access Android phone with broken screen](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. What to do with cracked phone screen?
 
  If you've got a broken phone screen, first you should assess how bad the damage is. You might be able to live with small cracks that don't block your view too much, but larger cracks should probably be dealt with immediately. For example, if the colors on your screen are abnormal or some pixels are no longer displaying, the damage has gone much further than the glass on top and has affected the LCD panel beneath.
@@ -39,9 +42,15 @@ Fix Cracked Phone Screen
  You can buy the Android or iPhone screen from eBay, Amazon, and other sites. Also, make sure you buy the tools to complete the replacement, and follow the online guide to fix the broken screen. Still there are some guides that tell you to fix the phone screen with toothpaste.
 
 ![Fix Broken Screen DIY](https://www.aiseesoft.com/images/article/broken-screen/diy-fix-broken-phone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, not all of us have the skills or time to fix broken phone screen. When you decide to repair screen in this way, you must be aware that you may get your broken screen phone to brick. If you can take that risk, move one…
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2\. Get the mobile provider/phone manufacturer to fix cracked phone screen
 
  If you cracked your phone screen during your manufacturer's warranty period, you should be able to get it fixed for free and within a few hours' time. (Bear in mind, though, that the standard limited warranties of many manufacturers, such as Samsung, do not cover accidents.) Out-of-warranty screen repairs cost upwards of $100.
@@ -63,6 +72,9 @@ Step 1 Connect your broken screen phone to computer, and run this software on yo
 Step 2 Select your phone name and model to check if your phone can be fixed in this software and click "Confirm" for the next process.
 
 ![Select Phone Model](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/select-phone-model.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 
 Step 3 Follow the three steps as the interface tells to put your phone into Download mode. After doing that click "Start" to fix your phone.
 
@@ -71,12 +83,18 @@ Step 3 Follow the three steps as the interface tells to put your phone into Down
 Step 4 After fixing your phone, this program will scan your phone data automatically. Select what data type that you want to access, and click "Recover" to save the data from your broken screen phone to computer.
 
 ![Recover](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/extract-data-from-broken-phone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  In this article, we mainly talked about some methods to deal with cracked phone screen, and how to access Android phone with a broken screen. Still have more questions about cracked phone screen? Feel free to leave your comments down below.
 
 You can learn the steps from the video below:
 
 ![Fix and Extract Data from Disabled/Password-Forgotten Android Phone ](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 What do you think of this post?
 

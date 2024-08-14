@@ -1,7 +1,7 @@
 ---
 title: Lost Your Android Lock Screen Code? Easy Steps to Regain Access!
-date: 2024-08-13 23:48:22
-updated: 2024-08-14 10:20:41
+date: 2024-08-13T23:53:52.547Z
+updated: 2024-08-14T23:53:52.547Z
 tags:
   - fix-android-problems
 categories:
@@ -23,19 +23,31 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
 Fix Broken Phone
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Phone screen is broken, repair it with money
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Situation 1\. Check phone screen
 
  After phone screen is broken, you should pick up your phone firstly to check if the screen is broken, and other functions are still workable.
 
  Clean the screen as best you can and then place a wide piece of packaging tape over the screen. Trim off any excess tap and you should be able to continue using the phone. This will prevent the crack from growing and parts of the glass from falling off onto your lap or into your finger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Situation 2\. Contact manufacturer for repair
 
  If your phone screen is broken badly, and you decide to replace a new one, then you have to contact your mobile phone manufacturer, and go to the latest support repair store. At this step, the important thing you will care about is how much does it cost to[repair the cracked screen](https://tools.techidaily.com/) . Commonly, the cost for fixing the phone is $129 - $149\. Check the following iPhone screen reapir cost.
 
 ![Broken Screen Repair Cost](https://www.aiseesoft.com/images/article/broken-screen/iphone-screen-repair-cost.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The cost for Samsung mobile phone will be about $79 - $270\. Like the repair cost of Samsung Galaxy S7 Edge is $208.
 
@@ -53,6 +65,9 @@ The cheapest way to fix your broken screen phone is by yourself at home.
 
  When you decide to repair screen in this way, you must know that the risk of doing by yourself. Otherwise, you may get your broken screen phone to brick.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Broken screen fails to operate? Access data from broken screen phone
 
  Fixing the phone screen may take several days. If you are urgent for using data on the phone, but touching screen is not responsive, then you can consider extracting the data from the broken screen phone. Or, if you give up the broken screen replacement, you may wonder extracting important data from it. And fixing the broken screen phone may just replace your phone screen. However, any accident may lead to your data on phone to be lost. Follow the steps as bellow to access data from broken screen.
@@ -87,6 +102,9 @@ Tip
 
  This way is applied when you cannot touch your phone screen like password-forgot, phone screen is totally broken, etc. so that you can see your phone screen on computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Part 3\. FAQs of fixing broken phone screen
 
 Will Apple fix my screen?

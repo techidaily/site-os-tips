@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Transferring and Saving Your WhatsApp Group Contacts"
-date: 2024-08-13 23:31:40
-updated: 2024-08-14 12:58:42
+date: 2024-08-13T23:53:47.702Z
+updated: 2024-08-14T23:53:47.702Z
 tags:
   - backup-ios-data
 categories:
@@ -47,11 +47,17 @@ Step 1 Update iTunes and connect with iPhone
  Install the latest iTunes on your Windows PC. Launch iTunes and use a lightning USB cable to connect iPhone to the computer. If it is the first time you link iPhone to iTunes, then you need to enter the iPhone password and unlock the iOS device. Choose the iPhone device button after iTunes has detected your Apple iPhone or iPad.
 
 ![Backup iPhone to PC Using iTunes](https://www.aiseesoft.com/images/ios-system-recovery/back-up-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2 Back up an iPhone using iTunes
 
  Click "Summary" in the left panel, and then move to "Backups" section. Tick "This computer" and "Encrypt iPhone Backup" below if you want to make an encrypted backup. Tap "Back Up Now" to start backing up iPhone to a computer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 . How to Backup iPhone without Computer
 
  If you want to maintain a regular backup routine, then you can backup iPhone to iCloud wirelessly. The supported iPhone files are Camera Roll photos/videos, app data, device settings, messages, ringtones, etc. In addition, there is 5 GB free cloud storage space you can manage.
@@ -67,7 +73,13 @@ Step 2 Use iCloud to backup iPhone without a computer
  Choose "Backup" or "iCloud Backup" button. Make sure that iCloud backup option is being turned on. Tap "OK" when you are asked to start iCloud backup or not. Press "Back Up Now" to backup iPhone to iCloud automatically. Turn off iCloud backup option if you need to backup iPhone to iCloud for one time only.
 
 ![Backup iPhone Voice Memeo Using iCloud](https://www.aiseesoft.com/images/solution/iphone-external-storage/iphone-backup-icloud.jpg)
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Part 3 . How to Backup iPhone to Computer without iTunes
 
  Aiseesoft[iOS Data Backup & Restore](https://tools.techidaily.com/aiseesoft/ios-data-backup-and-restore/) is your best choice to backup iPhone, iPad and iPod to Windows or Mac PC in one click. You are allowed to preview data after backup or before restoring data. Furthermore, iOS Data Backup & Restore enables users to restore from the backup selectively, which can do a better job than iTunes and iCloud.
@@ -92,6 +104,9 @@ Step 2 Enter iOS Data Backup page
  Connect iPhone to your computer via a USB cable. Click "iOS Data Backup" to enter its main interface to back up an iPhone to a computer without iTunes.
 
 ![Launch iOS Data Backup](https://www.aiseesoft.com/images/ios-data-backup-and-restore/ios-data-backup-restore-main-interface.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 3 Choose standard or encrypted backup mode
 
@@ -114,6 +129,9 @@ Step 5 Back up iPhone to PC in one click
  You can also backup iPhone to PC with the help of Google Drive, thus you are able to access iPhone data through Google on PC. But like iTunes, Google Drive will fullly backup your iPhone data. Your iPhone emails, calendars and contacts have been online already.
 
 ![Backup iPhone to Computer](https://www.aiseesoft.com/images/ios-data-backup-and-restore/backup-iphone-to-google-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1 Run Google Drive on your iPhone
 

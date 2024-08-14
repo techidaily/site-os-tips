@@ -1,7 +1,7 @@
 ---
 title: How to Clear WhatsApp Media Files Effectively - 5 Step-by-Step Tips for iOS and Android Devices
-date: 2024-08-13 15:26:58
-updated: 2024-08-14 12:43:36
+date: 2024-08-13T23:54:00.413Z
+updated: 2024-08-14T23:54:00.413Z
 tags:
   - delete-android-data
 categories:
@@ -22,10 +22,16 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 * [Part 3. How to Delete WhatsApp Pictures Using a Computer](https://tools.techidaily.com/)
 * [Part 4. FAQs about Deleting WhatsApp Images](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Delete Photos from WhatsApp \[3 Ways\]
 
  The common way to delete files can be found within the messaging app, and you can typically delete texts, photos, and videos there. The best part is there are three ways to remove the files from a chat, and you can try them with the following demonstrations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### From the Chat
 
 Step 1:
@@ -49,6 +55,9 @@ Step 1:
  The Search feature allows you to delete individual files from a chat. Tap theMagnifying icon, then choose the Photos, Videos, or Documents option.
 
 ![WhatsApp Search Feature](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/whatsapp-search-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 
 Step 2:
 
@@ -70,6 +79,9 @@ Step 3:
 
  You can delete individual or multiple files by pressing theSelect button, thenSelect All option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Remove WhatsApp Images from the Gallery or Photos App
 
  If you turn on the Auto-download from WhatsApp, the images on the chat will be saved on your gallery. This will likely consume a huge amount of space on your smartphone, affecting the device’s performance. Let’s see how to delete WhatsApp images on iPhone and Android.
@@ -89,6 +101,9 @@ Step 3:
  Tap theMove to Trash button. You can permanently delete files from the Trash menu. Alternatively, you can use this instruction on the Google Photos app.
 
 ![Android WhatsApp Gallery Delete WhatsApp Photos](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/android-whatsapp-gallery-delete-whatsapp-photos.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ### For iPhone Users
 
@@ -104,11 +119,17 @@ Step 2:
 
  Deleteing the WhatsApp images on iPhone enables you to withdraw the actions if you accidentally delete something you want to keep. But the withdraw can only work if you have[backed up your WhatsApp on iCloud](https://tools.techidaily.com/) for all you messages, data, information, and photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 3\. How to Delete WhatsApp Pictures Using a Computer
 
  If you don’t want to go through all of your files to free up space, use Aiseesoft iPhone Cleaner on Windows or Mac. The desktop offers a user-friendly UI to quickly scan your phone and erase unwanted files, providing the exact amount of storage space you can free up and boost the device’s performance. Moreover, it allows you to selectively uninstall unused apps, documents, photos, and large files to organize the whole list. It is the best choice for a quicker iPhone cleaning.
 
 ![iPhone Cleaner](https://www.aiseesoft.com/images/iphone-cleaner/box-2.png)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _1_ _1_ _4_ _,_ _3_ _9_ _7_  Downloads
 
@@ -122,6 +143,9 @@ _1_ _1_ _4_ _,_ _3_ _9_ _7_  Downloads
 [Free Download For Windows](https://secure.2checkout.com/order/cart.php?PRODS=34015782&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=35345930&QTY=1&AFFILIATE=108875)
 
@@ -150,9 +174,15 @@ Step 4:
  If you wish to compress and export the WhatsApp photos from the iPhone, go to theClean Up Photos menu. Click theBackup & Compress button for lossless compression. Choose theExport & Delete option to transfer pictures to the PC and delete them from the smartphone.
 
 ![Aiseesoft iPhone Cleaner Backup Compress](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/aiseesoft-iphone-cleaner-back-up-compress.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Apart from executing such delicate actions like removing WhatsApp images from your iPhone, iPhone Cleaner lets you easily[get rid of other unwanted apps on iPhone](https://tools.techidaily.com/aiseesoft/erase-iphone/) , including your WhatsApp, which can be a great way to free up some iPhone storage or fixing the app glitches issue.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. FAQs about Deleting WhatsApp Images
 
 How do I clear my WhatsApp storage?

@@ -1,7 +1,7 @@
 ---
 title: Fixing a Broken Android Smartphone with Google Cloud Backup Restoration Tips
-date: 2024-08-13 11:55:43
-updated: 2024-08-14 12:17:33
+date: 2024-08-13T23:53:46.729Z
+updated: 2024-08-14T23:53:46.729Z
 tags:
   - backup-android-data
 categories:
@@ -24,6 +24,9 @@ Backup Pictures
 * [Part 1. Backup pictures with Google auto backup](https://tools.techidaily.com/)
 * [Part 2. Backup pictures with Android Backup tool](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Backup pictures with Google auto backup
 
  Google Photos is a great option to backup and manage pictures from Android devices. It provides unlimited cloud storage for everything you shoot. More importantly, the "auto backup" features can help you automatically backup Android photos with ease. Now follow the steps below and do**Android pictures auto backup** .
@@ -35,10 +38,16 @@ Step 2 Launch the app in your Android device. Slide out the menu at the left sid
 Step 3 Under the "**Backup & Sync** " menu, tab "**Choose folder to backup** ", and you'll see all the folder contains picture files stored in your phone. Select any folder and you can backup pictures from Android to Google Photos manually.
 
 ![Backup Pictures Google Photos](https://www.aiseesoft.com/images/android-data-backup-and-restore/back-up-pictures-google-photos.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 4 On your computer, open Google Photos website, and sign in the Google account that you've backed up the pictures. Then you can check all the images you transferred from Android to the app. You can also download pictures to computer as you like.
 
 ![Check Google Photo on Web](https://www.aiseesoft.com/images/android-data-backup-and-restore/check-google-photo-on-web.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Similarly, you can also backup pictures to Dropbox or other cloud storage service. You can check your photos anytime and anywhere. However, to fully protect your pictures, we suggest you to have another copy on your computer.
 
@@ -60,6 +69,9 @@ Key features:
 
  Now free download the program and learn how to backup pictures following the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to backup pictures on Android phone?
 
 Step 1 Choose Device Data Backup
@@ -67,6 +79,9 @@ Step 1 Choose Device Data Backup
  Open FoneLab for Android, choose**Android Data Backup & Restore** feature in the left panel, and then select**Device Data Backup** on the main interface. Connect your Android phone to computer via USB cable.
 
 ![Choose Device Data Backup](https://www.aiseesoft.com/images/android-data-backup-and-restore/choose-device-data-backup.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2 Select Data type (Gallery)
 
@@ -81,6 +96,9 @@ Step 3 Backup pictures on Android
  Click "Start" button, then you'll see a "Backup File Output" pop-up. Confirm the backup folder, and click OK button. Wait for seconds, then you'll see the pictures all backed up in your computer.
 
 ![Restore Completed](https://www.aiseesoft.com/images/android-data-backup-and-restore/restore-completed.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 
  If you want to check or restore your pictures backup, go back to**Android Data Backup & Restore** , and select**Device data Restore** . Then you can preview pictures in the backup and selectively restore any picture you want.
 

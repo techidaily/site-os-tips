@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: How to Back Up & Recover Contacts, Photos on Your HTC Device"
-date: 2024-08-12 12:33:35
-updated: 2024-08-14 10:10:25
+date: 2024-08-13T23:53:46.668Z
+updated: 2024-08-14T23:53:46.668Z
 tags:
   - backup-android-data
 categories:
@@ -35,13 +35,22 @@ Step 2 Launch the app in your Android device. Slide out the menu at the left sid
 Step 3 Under the "**Backup & Sync** " menu, tab "**Choose folder to backup** ", and you'll see all the folder contains picture files stored in your phone. Select any folder and you can backup pictures from Android to Google Photos manually.
 
 ![Backup Pictures Google Photos](https://www.aiseesoft.com/images/android-data-backup-and-restore/back-up-pictures-google-photos.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4 On your computer, open Google Photos website, and sign in the Google account that you've backed up the pictures. Then you can check all the images you transferred from Android to the app. You can also download pictures to computer as you like.
 
 ![Check Google Photo on Web](https://www.aiseesoft.com/images/android-data-backup-and-restore/check-google-photo-on-web.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Similarly, you can also backup pictures to Dropbox or other cloud storage service. You can check your photos anytime and anywhere. However, to fully protect your pictures, we suggest you to have another copy on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Backup pictures with Android Backup tool
 
  When it comes to backing up pictures from Android to PC,[FoneLab for Android](https://tools.techidaily.com/aiseesoft-android-data-recovery/) would be your best option. As the most professional Android management tool, FoneLab for Android provides you many powerful functions, including**Android Data Backup & Restore** , which helps you to backup pictures or other data easily.
@@ -60,6 +69,9 @@ Key features:
 
  Now free download the program and learn how to backup pictures following the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to backup pictures on Android phone?
 
 Step 1 Choose Device Data Backup
@@ -67,12 +79,18 @@ Step 1 Choose Device Data Backup
  Open FoneLab for Android, choose**Android Data Backup & Restore** feature in the left panel, and then select**Device Data Backup** on the main interface. Connect your Android phone to computer via USB cable.
 
 ![Choose Device Data Backup](https://www.aiseesoft.com/images/android-data-backup-and-restore/choose-device-data-backup.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2 Select Data type (Gallery)
 
  Wait until your Android phone was detected automatically. Then you'll be asked to select data type to back up. Here you need to select**Gallery** .
 
 ![Choose Gallery](https://www.aiseesoft.com/images/android-data-backup-and-restore/choose-data-type.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note : You can also check "Encrypted Backup" option if you want to better protect your contacts backup.
 

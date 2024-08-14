@@ -1,7 +1,7 @@
 ---
 title: Garuda -
-date: 2024-08-12 10:51:54
-updated: 2024-08-14 11:56:44
+date: 2024-08-13T23:53:56.179Z
+updated: 2024-08-14T23:53:56.179Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -40,6 +40,9 @@ _What should you do when your iPhone screen is not working?_
  In most cases, a simple reboot of iPhone/iPad can deal with the touch screen not working issue, as there are too many programs running at the same time and you cannot shut down them. But if the physical key still works, you can try to restart the iPhone or iPad.
 
 ![Restart iPhone](https://www.aiseesoft.com/images/iphone-data-eraser/restart-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1 Press and hold the**Sleep/Power** (On/Off) button of the iOS device until the red slider bar appears.
 
@@ -47,29 +50,45 @@ Step 2 **Slide to power off** iPhone.
 
 Step 3 For seconds, press and hold the Sleep/Power button again and**restart iPhone** . Check whether the iPhone/iPad screen not responding issue is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Clean your iPhone/iPad screen
 
  If the problem of iPhone/iPad touch screen not working is caused by the dirty screen, you can attempt to[clean your iPhone/iPad screen](https://tools.techidaily.com/) . The screen can get the accumulation of grease, dirt and other physical materials. Here are some tips for iPhone/iPad touch screen cleaning.
 
 ![Clean iPhone](https://www.aiseesoft.com/images/iphone-data-eraser/clean-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  ◆ You'd better power off your iPhone/iPad in case of a permanent damage.  
  ◆ Use a microfiber cloth or a lint-free cloth. Never use a towel or something that can damage the screen.  
  ◆ You can spray the cleaner on the soft cloth and clean the screen then. Don't spray the iPhone/iPad screen.  
  ◆ Never press the screen too hard.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Remove the iPhone/iPad screen protector
 
  Your iPhone/iPad screen may not detect your finger tap because of the screen protector. You are able to remove the iPhone/iPad screen protector and try to tap on the screen to see the iPhone/iPad touch screen not working has been solved or not.
 
 ![Remove Screen Protector](https://www.aiseesoft.com/images/iphone-data-eraser/remove-screen-protector.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 4\. Use the original charger of iPhone/iPad
 
  Do you use the original charger when you charge iPhone/iPad? The non-original charger can lead to the unresponsive iPhone/iPad screen, as it may have no MFI certificate. MFI is abbreviation of Made For iPhone/iPad/iPod, and this program is a licensing one from Apple. Non-original charger may destructive. Turn to use an original charger for your iPhone/iPad and see the touch screen get any responding.
 
 ![Original Charger](https://www.aiseesoft.com/images/iphone-data-eraser/original-charger.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Restore/reset iPhone/iPad
 
  This way might be your last choice if you've tried the previous methods. Before you want to get your iPhone restored, you'd better back up your iPhone to iCloud or computer. Then you can[hard reset iPhone](https://tools.techidaily.com/) via iTunes, device settings or a reputable iPhone reset software.
@@ -87,6 +106,9 @@ Step 3 Choose a proper iTunes backup file and click "Restore".
 #### Reset your iPhone to factory settings
 
 ![Reset iPhone to Factory Settings](https://www.aiseesoft.com/images/resource/erase-all-content-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
 Step 1 Unlock your iPhone/iPad, and navigate to**Settings** \>**General** \>**Reset** \>**Erase All Contents and Settings** .
 
@@ -101,6 +123,9 @@ Step 2 Hit "OK" and confirm to hard reset iPhone to factory settings.
 Step 1 Launch FoneEraser and plug your iPhone to computer via USB cable.
 
 ![Reset iPhone to Factory Settings](https://www.aiseesoft.com/images/iphone-data-eraser/connect-ipad.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
 Step 2 Three erasing level (Low, Medium and High) are available to choose from.
 
@@ -109,6 +134,9 @@ Step 2 Three erasing level (Low, Medium and High) are available to choose from.
 Step 3 Click the button of "Start" and prepare to erase everything from your iPhone.
 
 ![Reset iPhone to Factory Settings](https://www.aiseesoft.com/images/iphone-data-eraser/erase-ipad-history-and-cookies.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Find a iOS system recovery tool
 
@@ -127,6 +155,10 @@ Step 2 Lead iPhone into Recovery or DFU mode
  Click "Question" button and follow the guide to turn your iPhone into Recovery or[DFU mode](https://tools.techidaily.com/) . Here we put disabled iPhone into DFU mode.
 
 ![Led iPhone into DFU](https://www.aiseesoft.com/images/iphone-data-recovery/fix/into-dfu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 
 Step 3 Fix disabled iPhone
 

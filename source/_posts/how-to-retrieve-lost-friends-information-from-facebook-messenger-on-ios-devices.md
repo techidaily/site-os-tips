@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve Lost Friends' Information From Facebook Messenger on iOS Devices
-date: 2024-08-11 22:25:15
-updated: 2024-08-14 11:52:25
+date: 2024-08-13T23:53:45.382Z
+updated: 2024-08-14T23:53:45.382Z
 tags:
   - ios-recovery
 categories:
@@ -36,12 +36,18 @@ Step 1 **Scan iPhone MMS**
  Connect your iPhone to computer via USB cable, choose "Recover from iOS Device", and click "Start Scan" button in the interface.
 
 ![Scan iPhone Safari Bookmark](https://www.aiseesoft.com/images/iphone-data-recovery/scan-iphone-safari-bookmark.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2 **Recover MMS from iPhone**
 
  After finishing the canning process, click "Message Attachments" on the left sidebar. Switch on the "Only display the deleted item(s)" toggle to display the deleted MMS attachments only. Also, repeat the operation to view your deleted messaging text. Select the deleted MMS (including messages and attachments) you want to recover and click "Recover" to get your lost MMS back.
 
 ![Recover SMS from iTunes](https://www.aiseesoft.com/images/iphone-data-recovery/recover-sms-from-itunes.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
  When you use this mode to recover your iPhone MMS, you should pay attention to the following tips:  
  • If your iPhone is iPhone 4 or iPhone 3GS, then you need extra more steps to scan your iPhone.  
@@ -61,6 +67,9 @@ Step 1 **Scan iTunes backup**
  Under the "Recover from iTunes Backup File" mode, select the latest backup file name and click "Start Scan". The program will scan the iTunes backup instantly.
 
 ![Recover from iTunes](https://www.aiseesoft.com/images/iphone-data-recovery/recover-from-itunes.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 
 Step 2 **Restore MMS from iTunes backup**
 
@@ -77,10 +86,17 @@ Step 1 **Download iCloud backup**
  Select the mode of Recover from iCould, then sign in with your Apple ID and Password.
 
 ![Recover from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-sign-into-icloud-account.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  There will be 2 ways for you to scan and recover deleted data from iCloud. You can choose to recover specific data type you want from iCloud like Contacts, Notes, Reminders, Photos, etc.
 
 ![Fonelab Select Data Type from iCloud for Scanning](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-select-data-type-from-icloud-for-scanning.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 
  You can also choose to recover from iCloud backup files. If so, please click the iCloud backup option. Find the latest backup, and click "Download" to access iCloud backup to your computer.
 
@@ -104,6 +120,9 @@ Step 2 **Recover MMS from iCloud backup**
 You can learn the steps from the video below:
 
 ![Video Recover Deleted iPhone Data](https://www.aiseesoft.com/images/youtube-video/video-recover-deleted-iphone-data.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 What do you think of this post?
 

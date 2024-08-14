@@ -1,7 +1,7 @@
 ---
 title: "Remove Pictures From Your WhatsApp Chat: Top 5 Easy Methods for iPhone & Android Users"
-date: 2024-08-11 18:34:30
-updated: 2024-08-14 11:11:58
+date: 2024-08-13T23:54:00.450Z
+updated: 2024-08-14T23:54:00.450Z
 tags:
   - delete-android-data
 categories:
@@ -22,10 +22,25 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 * [Part 3. How to Delete WhatsApp Pictures Using a Computer](https://tools.techidaily.com/)
 * [Part 4. FAQs about Deleting WhatsApp Images](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Delete Photos from WhatsApp \[3 Ways\]
 
  The common way to delete files can be found within the messaging app, and you can typically delete texts, photos, and videos there. The best part is there are three ways to remove the files from a chat, and you can try them with the following demonstrations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### From the Chat
 
 Step 1:
@@ -65,11 +80,17 @@ Step 2:
  Go to theStorage and Data menu and proceed to theManage Storage option. Review the files and see which files are forwarded too many times.
 
 ![WhatsApp Settings Manage Storage](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/whatsapp-settings-manage-storage.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 3:
 
  You can delete individual or multiple files by pressing theSelect button, thenSelect All option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Remove WhatsApp Images from the Gallery or Photos App
 
  If you turn on the Auto-download from WhatsApp, the images on the chat will be saved on your gallery. This will likely consume a huge amount of space on your smartphone, affecting the device’s performance. Let’s see how to delete WhatsApp images on iPhone and Android.
@@ -89,6 +110,9 @@ Step 3:
  Tap theMove to Trash button. You can permanently delete files from the Trash menu. Alternatively, you can use this instruction on the Google Photos app.
 
 ![Android WhatsApp Gallery Delete WhatsApp Photos](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/android-whatsapp-gallery-delete-whatsapp-photos.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ### For iPhone Users
 
@@ -104,11 +128,17 @@ Step 2:
 
  Deleteing the WhatsApp images on iPhone enables you to withdraw the actions if you accidentally delete something you want to keep. But the withdraw can only work if you have[backed up your WhatsApp on iCloud](https://tools.techidaily.com/) for all you messages, data, information, and photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. How to Delete WhatsApp Pictures Using a Computer
 
  If you don’t want to go through all of your files to free up space, use Aiseesoft iPhone Cleaner on Windows or Mac. The desktop offers a user-friendly UI to quickly scan your phone and erase unwanted files, providing the exact amount of storage space you can free up and boost the device’s performance. Moreover, it allows you to selectively uninstall unused apps, documents, photos, and large files to organize the whole list. It is the best choice for a quicker iPhone cleaning.
 
 ![iPhone Cleaner](https://www.aiseesoft.com/images/iphone-cleaner/box-2.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 
 _1_ _1_ _4_ _,_ _3_ _9_ _7_  Downloads
 
@@ -122,10 +152,16 @@ _1_ _1_ _4_ _,_ _3_ _9_ _7_  Downloads
 [Free Download For Windows](https://secure.2checkout.com/order/cart.php?PRODS=34015782&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=35345930&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1:
 
@@ -201,6 +237,10 @@ More Reading
  iPhone running slow? Too many junk files on your iPhone? Here we introduce 5 popular iPhone cleaners to remove clutter from your iPhone and speed up your system.
 
 ![Disqus Icon](https://www.aiseesoft.com/images/article/disqus-icon.png) Leave your comment and join our discussion
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"

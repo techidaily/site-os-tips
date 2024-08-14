@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling WhatsApp Auto-Backups on Android & iOS Devices"
-date: 2024-08-12 16:41:19
-updated: 2024-08-14 10:19:19
+date: 2024-08-13T23:53:48.688Z
+updated: 2024-08-14T23:53:48.688Z
 tags:
   - backup-ios-data
 categories:
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 * [Part 2. How to recover iTunes passcord with iPhone backup recovery tool](https://tools.techidaily.com/)
 * [Part 3. How to erase all password on your iPhone](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to backup data on locked iPhone X/8/7/SE/6/5/4
 
  Before we show you how to recover or remove your iPhone backup password, it's necessary for you to backup all important iOS files first. Because you don't remember the password, here we sincerely recommend the professional[iOS Data Backup & Restore](https://tools.techidaily.com/aiseesoft/ios-data-backup-and-restore/) to back up data on your locked iOS device. You can free download it and have a try.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 Step 1 Download, install and launch FoneLab on computer and choose iOS Data Backup & Restore option in the main interface.
 
 ![iOS Data Backup & Restore](https://www.aiseesoft.com/images/ios-data-backup-and-restore/fonelab-main-interface.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
 Step 2 Connect your locked iPhone to computer with USB cable, and then choose the iOS data Backup option.
 
@@ -47,6 +53,9 @@ Step 4 click Backup button to backup all selected data on iPhone to your PC or M
 
  With this method, you can easily make an iPhone backup without inputting iPhone or iTunes backup password. Moreover, you can check the details of each data and then back up all the important iPhone files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best iOS Transfer you may want to know
 
 [Aiseesoft FoneTrans - iOS Transfer](https://tools.techidaily.com/aiseesoft/ios-transfer/) [For Mac](https://tools.techidaily.com/aiseesoft/ios-transfer/)
@@ -60,6 +69,9 @@ Step 4 click Backup button to backup all selected data on iPhone to your PC or M
 
 [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4626213&QTY=1&AFFILIATE=108875) [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4630131&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to recover iTunes passcord with iPhone backup recovery tool
 
  When you forgot iphone backup password, you can also rely on the recovery tool to regain your iTunes backup password.[iPhone Backup Password Recovery](https://www.iseepassword.com/itunes-password-recovery.html) can help you do that with ease. Two recovery ways are offered to help you crack iTunes backup password, including Brute-force Attack and Brute-force with Mask Attack. It claims that it has 86% decryption. You can download it and give it a try.
@@ -69,6 +81,9 @@ Step 1 Run iPhone Backup Password Recovery
  After downloading, install and run this iPhone backup password unlocker on your computer. It can automatically detect your iPhone and list all iTunes backup files you ever madeon this computer . Choose the backup that you forget password and then click 'Next' button to continue.
 
 ![iPhone Backup Password Recovery](https://www.aiseesoft.com/images/iphone-backup-password/pick-backup-files.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 2 Select the Appropriate Attack Type
 
@@ -99,6 +114,9 @@ Step 2 Tap Settings General Reset to enter the Reset interface.
 Step 3 TapErase all content and settings to remove all data and backup password from your iPhone.
 
 ![Erase All Content and Settings](https://www.aiseesoft.com/images/iphone-data-recovery/erase-all-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also try the powerful[iPhone Eraser](https://tools.techidaily.com/aiseesoft/fone-eraser/) to get rid of the iPhone backup password.
 

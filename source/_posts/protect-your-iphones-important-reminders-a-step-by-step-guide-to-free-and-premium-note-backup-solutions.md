@@ -1,7 +1,7 @@
 ---
 title: "Protect Your iPhone's Important Reminders: A Step-by-Step Guide to Free and Premium Note-Backup Solutions"
-date: 2024-08-12 15:20:23
-updated: 2024-08-14 10:32:22
+date: 2024-08-13T23:53:48.437Z
+updated: 2024-08-14T23:53:48.437Z
 tags:
   - backup-ios-data
 categories:
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 * [Part 2. How to recover iTunes passcord with iPhone backup recovery tool](https://tools.techidaily.com/)
 * [Part 3. How to erase all password on your iPhone](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to backup data on locked iPhone X/8/7/SE/6/5/4
 
  Before we show you how to recover or remove your iPhone backup password, it's necessary for you to backup all important iOS files first. Because you don't remember the password, here we sincerely recommend the professional[iOS Data Backup & Restore](https://tools.techidaily.com/aiseesoft/ios-data-backup-and-restore/) to back up data on your locked iOS device. You can free download it and have a try.
@@ -40,10 +43,16 @@ Step 2 Connect your locked iPhone to computer with USB cable, and then choose th
 Step 3 All types of iPhone data can be backed up, including photos, messages, videos, audios, call logs, contacts, calendar, notes and more. Choose the file type and click on "Next" button.
 
 ![iPhone Backup](https://www.aiseesoft.com/images/ios-data-backup-and-restore/select-file-type.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 4 click Backup button to backup all selected data on iPhone to your PC or Mac.
 
 ![Backup iPhone Data](https://www.aiseesoft.com/images/ios-data-backup-and-restore/backup-completed.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 
  With this method, you can easily make an iPhone backup without inputting iPhone or iTunes backup password. Moreover, you can check the details of each data and then back up all the important iPhone files.
 
@@ -79,12 +88,18 @@ Step 2 Select the Appropriate Attack Type
  The Brute-force with Mack Attack mode is recommended if you remember part of the password. This way will take less time to make the iPhone backup password recovery process.
 
 ![Less iPhone Backup Password Time](https://www.aiseesoft.com/images/iphone-backup-password/itunes-backup-password-recovery.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 Decrypt iTunes backup password
 
  Click Start button to recover your iPhone backup password. It will take times to complete the whole process. You need to wait patiently.
 
 ![Decrypt iTunes Backup Password](https://www.aiseesoft.com/images/iphone-backup-password/recover-iphone-backup-password.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It may take minutes, hours or days to make the iTunes backup password recovery based on your password length and complex. Moreover, iPhone Backup Password Recovery can't guarantee 100% find your password.
 
@@ -99,6 +114,9 @@ Step 2 Tap Settings General Reset to enter the Reset interface.
 Step 3 TapErase all content and settings to remove all data and backup password from your iPhone.
 
 ![Erase All Content and Settings](https://www.aiseesoft.com/images/iphone-data-recovery/erase-all-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also try the powerful[iPhone Eraser](https://tools.techidaily.com/aiseesoft/fone-eraser/) to get rid of the iPhone backup password.
 

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Simple Fixes to Revive a Nonfunctional External Storage Device
-date: 2024-08-12 12:11:30
-updated: 2024-08-14 12:21:24
+date: 2024-08-13T23:54:00.603Z
+updated: 2024-08-14T23:54:00.603Z
 tags:
   - fix-windows-problems
 categories:
@@ -30,6 +30,9 @@ If you suffer a lot from the issue, this page can help you exactly.
 ## 1 Check the SD card container
 
 ![Check the SD card container](https://www.aiseesoft.com/images/data-recovery/sd-card-check.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  SD card container is the device that put SD card. The SD card reader, phone or camera can be the container.
 
@@ -39,6 +42,9 @@ You can change a SD card reader to read it again on your computer.
 
  For some laptop computer or desktop computer with the built-in memory card reader, you need to have an authorized service center look at and repair or replace the memory card reader in your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Check the USB adapters (for computer)
 
 ![Check the USB adapters](https://www.aiseesoft.com/images/data-recovery/check-usb.jpg)
@@ -49,6 +55,9 @@ You can change a SD card reader to read it again on your computer.
 
  Change the USB ports for your SD reader. You can try both the front and back USB ports for connection.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disconnect and reconnect USB cable
 
 The loose USB connection may lead to the failure of workable SD card.
@@ -104,10 +113,19 @@ Drive is outdated?
 3 Find and select your USB device, right click and first choose "Uninstall" and then choose "Scan for hardware changes" to refresh the drivers.
 
 ![Fix SD card in the slot](https://www.aiseesoft.com/images/data-recovery/update-usb-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6 Check write-protection
 
 ![Check write-protection](https://www.aiseesoft.com/images/data-recovery/write-protection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Write-protection for some SD cards will disable files to be modified.
 
@@ -118,6 +136,9 @@ Write-protection for some SD cards will disable files to be modified.
 ## 7 Improperly formatted SD card
 
 ![Improperly formatted SD card](https://www.aiseesoft.com/images/data-recovery/format-sd-card.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With some card readers that use and store data on the SD card, the card is formatted much like how a disk drive is formatted when first used in a computer.
 
@@ -127,6 +148,9 @@ For reading SD cards again, you need to reformat the SD card.
 
  Note: Formatting a SD card will erase all contents, and you have to[recover data from formatted SD card](https://tools.techidaily.com/) in the last part in this page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8 Repair corrupted/unreadable SD card
 
  If your SD card is attacked by virus or malware, then SD card will not be showing up.
@@ -142,7 +166,13 @@ For removing the trouble, you can do as following:
 For example, "attrib -h -r -s /s /d G:\\\*.\*".
 
 ![Improperly formatted SD card](https://www.aiseesoft.com/images/data-recovery/sd-card-virus.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## 9 Force SD card show up
 
 You can try the way to let your SD card show up forcibly.
@@ -153,6 +183,9 @@ You can try the way to let your SD card show up forcibly.
 
 ![Force SD card show up](https://www.aiseesoft.com/images/data-recovery/force-read-sd-card.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## 10 Wrong data transfer mode on Android
 
 ![Wrong data transfer mode on Android](https://www.aiseesoft.com/images/data-recovery/media-transfer.jpg)
@@ -164,6 +197,9 @@ You can try the way to let your SD card show up forcibly.
 ## 11 Phone apps fail to read
 
 ![Phone apps fail to read](https://www.aiseesoft.com/images/data-recovery/set-app-destination.jpg)
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 
  Particular Android software won't recognize an SD card. Other apps read the SD card and write data on it no problem.
 
@@ -175,6 +211,9 @@ You can try the way to let your SD card show up forcibly.
 
  For fixing the damaged SD card, you can jump to this post to get the detailed steps:[How to fix damaged SD card](https://tools.techidaily.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Tip Recover data from formatted/corrupted SD card
 
  The above solutions focus on fixing the issue of SD card is not reading. If your SD card can show up, but the data are gone for formatting or being corrupted, how to do?
@@ -202,6 +241,9 @@ Aiseesoft Data Recovery is the exact remedy.
  In the main interface, you need to select the data type to recover. Then click "Scan" to start to scan your SD card.
 
 ![Scan Data from Micro SD Card](https://www.aiseesoft.com/images/data-recovery/removable-device.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 
 2 Recover data from SD card
 
@@ -223,6 +265,9 @@ Tips
 
 ![recover various lost data from Windows Hard Drive and Memory Card, etc. ](https://www.aiseesoft.com/images/youtube-video/video-recover-lost-data-from-hard-drive.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  This article aims at showing you how to fix SD card is not reading or being detected when you are using it. 12 solutions are for you and pick up the best one by yourself. Still, when you lost data from the SD card, you can learn from the bonus tip to get the solution easily.

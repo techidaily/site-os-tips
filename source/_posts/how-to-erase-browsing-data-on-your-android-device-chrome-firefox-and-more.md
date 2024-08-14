@@ -1,7 +1,7 @@
 ---
 title: How to Erase Browsing Data on Your Android Device - Chrome, Firefox & More
-date: 2024-08-11 15:42:34
-updated: 2024-08-14 10:44:15
+date: 2024-08-13T23:54:00.436Z
+updated: 2024-08-14T23:54:00.436Z
 tags:
   - delete-android-data
 categories:
@@ -28,6 +28,9 @@ How to Clear History on Android
 * [Part 5. How to clear app data/history with one click](https://tools.techidaily.com/)
 * [Part 6. How to recover deleted history on Android](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to clear browsing history on Android
 
  As different people have different choices for browsers on Android, here we list the main browsers to let you know how to clear browsing history on Android, including Google Chrome, Mozilla Firefox, Opera mini, Dolphin, internet (stock browser), and UC Browser.
@@ -43,7 +46,13 @@ Step 2 Tap on the button with three dots and choose "History".
 Step 3 When you enter the History page, select "Clear Browsing Data", and you can choose what you want to delete, including browsing history, cookies and site data, cached images and files and more. After your choice, you can tap on "Clear Data" button to delete the Google Chrome browsing history with ease.
 
 ![Clear Google Chrome Browsing History on Android](https://www.aiseesoft.com/images/android-data-recovery/clear-chrome-history.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to clear history on Android (Mozilla Firefox)
 
  It is a very simple and similar process to clear Firefox browsing history on Android.
@@ -58,16 +67,25 @@ Step 3 For clearing cookies and cache, go to "Settings" > "Privacy", and you can
 
 ![Clear Moz Apps](https://www.aiseesoft.com/images/android-data-recovery/clear-firefox-cache.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to clear history on Android (Opera mini)
 
  The Opera Mini browser has a loyal user base, but it pales into insignificance in terms of user numbers; it only holds about 1.6 percent of the Android market.
 
 ![Clear Opera mini Browsing History on Android](https://www.aiseesoft.com/images/android-data-recovery/delete-opera-history.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 1 Open Opera mini browser on your Android. When your browser is open, tap on Opera logo in the bottom-right corner. A small window will pop up. Tap on the "Gear" icon to enter the browser's settings.
 
 Step 2 Scroll down until you see "Clear Browsing Data" option. Tap on it, and check the boxes next to the data you want to clear. You can choose "Clear Saved Passwords", "Clear Browsing History", and "Clear Cookies and Data". Tap "OK" finally.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to clear history on Android (Dolphin)
 
 Step 1 Launch Dolphin on Android.
@@ -85,12 +103,21 @@ Step 1 Open your built-in browser on your Android device.
 Step 2 Go to "Settings" > "Privacy Settings". As you always do, choose one or two items you want to delete to clear stock browser history.
 
 ![Clear internet/Stock Browser History on Android](https://www.aiseesoft.com/images/android-data-recovery/clear-stock-browser-history.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to clear history on Android (UC Browser)
 
  UC Browser is not very popular among the Android users, but it has high reputation from 14 million reviews on the Google Play Store. If you want to know how to clear UC browsing history on Android, go ahead:
 
 ![Clear UC Browsing History on Android](https://www.aiseesoft.com/images/android-data-recovery/clear-uc-history-android.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1 To begin with, tap on the three horizontal lines at the bottom from UC. Select the yellow icon that is labeled "History and Bookmarks" from the pop-up menu.
 
@@ -119,6 +146,9 @@ Step 3 Now, you will find an icon similar to gear, click it to open "History" pa
  The process of deleting YouTube Watch/Search history is similar. So you can go to YouTube app from Android, find its settings, and then clear YouTube Search history according to the process of Google's.
 
 ![Clear YouTube search history on Android](https://www.aiseesoft.com/images/iphone-data-eraser/clear-youtube-history-on-mobile.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 1 Launch the YouTube app on your Android phone, and then sign into it with your account ID and password.
 
@@ -126,11 +156,17 @@ Step 2 Tap on the three-line icon near the red YouTube "Play" icon. You 'll find
 
 Step 3 Now you can select history option from "Privacy" in settings. And here, you are able to clear or pause YouTube watch history as well as search history on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4\. How to clear call history on Android Phone
 
  How to clear call history on Android? Clearing call history is a very easy process on Android. Just go through the following tutorial in order to clear call history on Android.
 
 ![Clear Call History on Android](https://www.aiseesoft.com/images/resource/clear-cache-android/clear-call-history-android.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1 Tap the Call app on Android. There you will see all the call logs listed by date.
 
@@ -158,6 +194,9 @@ Step 2 Once your device is detected by the program, you can click the "Erase All
 
 Step 3 Tape on "Delete" button > "Erase Now" to clear history on Andorid.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6\. Recover deleted history on Android
 
  Sometimes, when you have deleted the histories of your Android, suddenly you find you have lost the important data. So how to recover deleted history or app data from Android? We recommend you[Android Data Recovery](https://tools.techidaily.com/aiseesoft-android-data-recovery/) , one top Android files recovery software to help you recover lost data from Android. With this data recovery, you can not only recover browsing history and app data, but also you can[recover deleted contacts](https://tools.techidaily.com/aiseesoft-android-data-recovery/) , messages, photos, videos and more. Just download and try it for free!

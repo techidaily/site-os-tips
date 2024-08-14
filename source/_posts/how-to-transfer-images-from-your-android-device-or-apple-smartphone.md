@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Images From Your Android Device or Apple Smartphone
-date: 2024-08-13 20:50:44
-updated: 2024-08-14 11:38:39
+date: 2024-08-13T23:53:47.452Z
+updated: 2024-08-14T23:53:47.452Z
 tags:
   - backup-android-data
 categories:
@@ -24,6 +24,9 @@ Backup Pictures
 * [Part 1. Backup pictures with Google auto backup](https://tools.techidaily.com/)
 * [Part 2. Backup pictures with Android Backup tool](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Backup pictures with Google auto backup
 
  Google Photos is a great option to backup and manage pictures from Android devices. It provides unlimited cloud storage for everything you shoot. More importantly, the "auto backup" features can help you automatically backup Android photos with ease. Now follow the steps below and do**Android pictures auto backup** .
@@ -35,10 +38,16 @@ Step 2 Launch the app in your Android device. Slide out the menu at the left sid
 Step 3 Under the "**Backup & Sync** " menu, tab "**Choose folder to backup** ", and you'll see all the folder contains picture files stored in your phone. Select any folder and you can backup pictures from Android to Google Photos manually.
 
 ![Backup Pictures Google Photos](https://www.aiseesoft.com/images/android-data-backup-and-restore/back-up-pictures-google-photos.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4 On your computer, open Google Photos website, and sign in the Google account that you've backed up the pictures. Then you can check all the images you transferred from Android to the app. You can also download pictures to computer as you like.
 
 ![Check Google Photo on Web](https://www.aiseesoft.com/images/android-data-backup-and-restore/check-google-photo-on-web.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 
  Similarly, you can also backup pictures to Dropbox or other cloud storage service. You can check your photos anytime and anywhere. However, to fully protect your pictures, we suggest you to have another copy on your computer.
 
@@ -60,6 +69,9 @@ Key features:
 
  Now free download the program and learn how to backup pictures following the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### How to backup pictures on Android phone?
 
 Step 1 Choose Device Data Backup
@@ -73,6 +85,9 @@ Step 2 Select Data type (Gallery)
  Wait until your Android phone was detected automatically. Then you'll be asked to select data type to back up. Here you need to select**Gallery** .
 
 ![Choose Gallery](https://www.aiseesoft.com/images/android-data-backup-and-restore/choose-data-type.jpg)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note : You can also check "Encrypted Backup" option if you want to better protect your contacts backup.
 
@@ -81,6 +96,9 @@ Step 3 Backup pictures on Android
  Click "Start" button, then you'll see a "Backup File Output" pop-up. Confirm the backup folder, and click OK button. Wait for seconds, then you'll see the pictures all backed up in your computer.
 
 ![Restore Completed](https://www.aiseesoft.com/images/android-data-backup-and-restore/restore-completed.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to check or restore your pictures backup, go back to**Android Data Backup & Restore** , and select**Device data Restore** . Then you can preview pictures in the backup and selectively restore any picture you want.
 

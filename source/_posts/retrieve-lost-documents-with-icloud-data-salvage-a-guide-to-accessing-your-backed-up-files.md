@@ -1,7 +1,7 @@
 ---
 title: Retrieve Lost Documents with iCloud Data Salvage - A Guide to Accessing Your Backed-Up Files
-date: 2024-08-12 13:53:50
-updated: 2024-08-14 12:49:27
+date: 2024-08-13T23:53:45.967Z
+updated: 2024-08-14T23:53:45.967Z
 tags:
   - ios-recovery
 categories:
@@ -45,6 +45,9 @@ How to Recover Deleted Data from iPhone
 * [How to Recover Deleted Data from iphone Using iTunes Backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 * [How to Recover Deleted Data from iphone Using iCloud Backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## How to Recover Deleted Data Directly from iPhone
 
  Taking recovering iPhone text messages as an example, let's see how FoneLab iPhone Data Recovery can do for you:
@@ -64,12 +67,18 @@ Step 3 Start to scan iPhone
  Click "**Start Scan** " button to scan all your iPhone data. Soon, the software will show you how many existing and deleted files have been found.
 
 ![Connect iPhone to computer](https://www.aiseesoft.com/images/iphone-data-recovery/connecting.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4 Preview deleted texts on iPhone (WhatsApp messages included)
 
  All iPhone files are listed as different categories on the left. Check "Messages", "WhatsApp" or "Messages Attachments" button to preview all text messages on the main screen. The deleted ones will be marked as red while the existing ones are black. You can also toggle "Only display the deleted item(s)" on to view deleted texts only.
 
 ![Recover Text Messages from iPhone](https://www.aiseesoft.com/images/iphone-data-recovery/recover-text-messages-from-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
 Step 5 Recover deleted text messages
 
@@ -77,6 +86,9 @@ Step 5 Recover deleted text messages
 
  That's it! Now you can check all the deleted messages on your computer. As you can see, this method is easy to operate, and it causes no data loss at all. Apart from recovering deleted text messages on your iPhone 15/14/13/12/11/XS/XR/X/8/7/SE/6/5/4, you can also simply use iPhone Data Recovery to transfer existing messages from iPhone to computer for backup, along with other files including contacts, call history, photos, notes, calendar, safari history, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Recover lost iPhone data with iTunes backup
 
  There is another worse situation when you lost the valuable data without backup files. Here we suggest you a powerful[FoneLab - iPhone data recovery](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) to help you recover your deleted/lost data and better protect your files. First, download and install it on your PC/Mac.
@@ -123,6 +135,9 @@ Step 5 Select the backup you want to restore, and then click "Restore".
 
  2\. This method can only retrieve the contacts, calendars, notes, text messages, and settings. It can't recover your iPhone firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## How to Recover Deleted Data from iPhone Using iCloud Backup
 
  In the main interface, then choose "**Recover from iCloud Backup File** " mode from the left panel. For recovering files from iCloud backup, you need to log in iCloud. iPhone Data Recovery should be your reliable software as it will never record the information. Follow the instructions to sign in to iCloud with Apple ID and password.
@@ -132,12 +147,20 @@ Step 5 Select the backup you want to restore, and then click "Restore".
  After signing in your account, you can see 2 ways of scanning and recovering deleted data from iCloud. You can either select the data type you want to recover from iCloud or choose to scan from iCloud Backup.
 
 ![Select iPhone Data Type from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-select-data-type-from-icloud-for-scanning.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Step 2 Scan iCloud backup
 
  If you choose to scan from iCloud backup files, all iCloud backup files will be displayed with the badckup name, date and iCloud account. Choose the iCloud backup file from the list, and then click "**Download** " button to scan iCloud backup. Afterwards, you need to choose the file type to scan. Choose what you you want to recover to save the scanning time.
 
 ![iCloud Backup Download](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-download-icloud-backup-file.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 
 Step 3 View from the iCloud backup
 

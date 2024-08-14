@@ -1,7 +1,7 @@
 ---
 title: Fenrir -
-date: 2024-08-12 10:50:59
-updated: 2024-08-14 10:28:20
+date: 2024-08-13T23:53:58.499Z
+updated: 2024-08-14T23:53:58.499Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -31,10 +31,16 @@ _What should you do when your iPhone screen is not working?_
  ➤ Too many frequent taps on iPhone/iPad screen.  
  ➤ Touch screen got physically damaged.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to fix iPhone/iPad screen not working
 
  In this part, we will show you several effective solutions and help you deal with iPhone screen not working issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 1\. Restart the iPhone
 
  In most cases, a simple reboot of iPhone/iPad can deal with the touch screen not working issue, as there are too many programs running at the same time and you cannot shut down them. But if the physical key still works, you can try to restart the iPhone or iPad.
@@ -47,6 +53,9 @@ Step 2 **Slide to power off** iPhone.
 
 Step 3 For seconds, press and hold the Sleep/Power button again and**restart iPhone** . Check whether the iPhone/iPad screen not responding issue is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Clean your iPhone/iPad screen
 
  If the problem of iPhone/iPad touch screen not working is caused by the dirty screen, you can attempt to[clean your iPhone/iPad screen](https://tools.techidaily.com/) . The screen can get the accumulation of grease, dirt and other physical materials. Here are some tips for iPhone/iPad touch screen cleaning.
@@ -63,12 +72,19 @@ Step 3 For seconds, press and hold the Sleep/Power button again and**restart iPh
  Your iPhone/iPad screen may not detect your finger tap because of the screen protector. You are able to remove the iPhone/iPad screen protector and try to tap on the screen to see the iPhone/iPad touch screen not working has been solved or not.
 
 ![Remove Screen Protector](https://www.aiseesoft.com/images/iphone-data-eraser/remove-screen-protector.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 
 ### 4\. Use the original charger of iPhone/iPad
 
  Do you use the original charger when you charge iPhone/iPad? The non-original charger can lead to the unresponsive iPhone/iPad screen, as it may have no MFI certificate. MFI is abbreviation of Made For iPhone/iPad/iPod, and this program is a licensing one from Apple. Non-original charger may destructive. Turn to use an original charger for your iPhone/iPad and see the touch screen get any responding.
 
 ![Original Charger](https://www.aiseesoft.com/images/iphone-data-eraser/original-charger.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ### 5\. Restore/reset iPhone/iPad
 
@@ -105,11 +121,20 @@ Step 1 Launch FoneEraser and plug your iPhone to computer via USB cable.
 Step 2 Three erasing level (Low, Medium and High) are available to choose from.
 
 ![Reset iPhone to Factory Settings](https://www.aiseesoft.com/images/iphone-data-eraser/select-erasing-level.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 
 Step 3 Click the button of "Start" and prepare to erase everything from your iPhone.
 
 ![Reset iPhone to Factory Settings](https://www.aiseesoft.com/images/iphone-data-eraser/erase-ipad-history-and-cookies.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Find a iOS system recovery tool
 
  Last but not least, if the unresponsive iPhone/iPad screen is caused by iOS system issue, you are able to use[iOS System Recovery](https://tools.techidaily.com/aiseesoft/ios-system-recovery/) to help you. With clicks, you can let your iPhone/iPad turn to normal.
@@ -121,6 +146,10 @@ Step 1 Launch iOS System Recovery
  Launch iOS System Recovery and connect your iPhone to it with USB cable. Click "More tools" from left and then choose the "iOS System Recovery" on the preview window. Click "Start" button.
 
 ![launch Fonelab](https://www.aiseesoft.com/images/iphone-data-recovery/fix/interface.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 
 Step 2 Lead iPhone into Recovery or DFU mode
 
@@ -137,6 +166,9 @@ Step 3 Fix disabled iPhone
  You can watch the video to learn more about iOS System Recovery:
 
 ![Video Fix Disabled Frozen-iPhone to Normal](https://www.aiseesoft.com/images/youtube-video/video-fix-disabled-frozen-iphone-to-normal.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 
  In this article, we mainly show you several solutions if you encounter the issue of**iPhone screen not working** . If you have any better methods, welcome to tell us.
 
