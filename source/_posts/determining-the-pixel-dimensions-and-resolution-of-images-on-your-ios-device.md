@@ -1,0 +1,56 @@
+---
+title: Determining the Pixel Dimensions and Resolution of Images on Your iOS Device
+date: 2024-08-28 10:17:42
+updated: 2024-08-29 10:28:21
+tags:
+  - ios
+categories:
+  - tech
+thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53228263785_d6a13719c0_o.jpg
+---
+
+## Determining the Pixel Dimensions and Resolution of Images on Your iOS Device
+
+### Quick Links
+
+* [Check Photo Resolution on iPhone](https://screen-capture.techidaily.com/2024-approved-synchronous-capture-for-webcam-and-display/)
+
+### Key Takeaways
+
+* To check the resolution of a photo on your iPhone, open the Photos app and tap on the desired photo in thumbnail view. Swipe upward on the photo or tap the "Info" button (i in a circle) to see photo metadata, including image resolution and dimensions.
+* The image resolution is displayed in megapixels (MP) and the dimensions given as width x height, in pixels.
+
+ Every digital photo on your iPhone has a [resolution](https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-reno-11f-5g-location-drfone-by-drfone-virtual-android/) defined by the number of pixels in the image. The more pixels each images has, the more detail the photo can potentially store. If you're running [iOS 15](https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-5-emulators-transforming-old-ps1-games-on-pcs/) or higher, here's how to see the size of an image (in pixel dimensions) in the Photos app on your iPhone.
+
+##  Check Photo Resolution on iPhone
+
+ First, launch the Photos app. In the thumbnail view, tap the photo you want to find the resolution of.
+
+![Select a picture from your photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-5.png) 
+
+ While examining the photo in detail, swipe upward on the photo image, or tap the "Info" button,which looks like a lowercase "i" in a circle.
+
+![Tap the "i" button to open photo info.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-3.png) 
+
+ After tapping the Info button, a small box will appear on the lower portion of the screen that includes photo metadata. You can see the image resolution and image dimensions on the second line, such as "12 MP" and "4032 x 3024".
+
+ In this case, "12 MP" means 12 megapixels, the approximate [pixel count](https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-reno-11f-5g-location-drfone-by-drfone-virtual-android/) of the image, and "4032 x 3024" means the image is 4032 pixels wide by 3024 pixels tall.
+
+![The image resolution and pixel dimensions in Photos on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/photos_image_resolution.jpg) 
+
+ To close the info box, tap the Info button again. You can repeat this with any other image in your Photos library that you'd like to find the resolution and pixel dimensions for. Happy browsing!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>

@@ -1,0 +1,39 @@
+---
+title: Apple's iPhone 15 Features Regular USB-C Port as Predicted by Rumors; No Restrictions on MFi Certification
+date: 2024-08-26 16:23:56
+updated: 2024-08-29 11:37:19
+tags:
+  - ios
+categories:
+  - tech
+thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_usb_c_featured.png
+---
+
+## Apple's iPhone 15 Features Regular USB-C Port as Predicted by Rumors; No Restrictions on MFi Certification
+
+The iPhone 15's headlining feature is its [USB-C connector](https://fox-access.techidaily.com/2024-approved-the-science-and-magic-behind-full-circle-films/). Of course, we first learned about this feature in [late 2022](https://youtube-lab.techidaily.com/eviving-old-youtube-videos-steps-for-online-reclamation/), when Apple plainly confirmed that it would switch to USB-C in compliance with upcoming EU regulations. Most people celebrated the 2022 announcement, but others have spent the last year wondering how Apple would inevitably screw things up—an incomplete version of the USB-C standard, for instance, or an [authentication system](https://www.macrumors.com/2023/02/10/apple-planning-to-limit-iphone-15-usb-c-port/) that forces you to use expensive Apple-certified charging cables.
+
+ Well, as it turns out, Apple's implementation of USB-C is totally normal. There's nothing special or strange about the iPhone 15's USB-C port, and _Ars Technica_ confirms that it "works just fine with all existing USB 3 and USB-PD (Power Delivery) compliant cables, chargers, and accessories." In fact, all of the [USB-C cables](https://www.apple.com/shop/accessories/all/power-cables?f=iphone15) listed on Apple's website (including those from Belkin and Mophie) are listed as iPhone 15-compatible. They're just boring old USB-C cables; they've been around for years, and they don't contain an authentication chip (à la Lightning cable).
+
+ Rumors suggested that the iPhone 15 would charge at a reduced speed when paired with an "unauthorized" USB-C cable. And this idea was somewhat believable. Previously, Apple's MFi certification program forced customers to shop for expensive "MFi authorized" Lightning cables that contain special integrated circuit chips. The iPad and Mac didn't enforce this kind of system when they adopted USB-C, but many believed that iPhone 15 would be an exception—now we know that it isn't.
+
+ The only oddity here is Apple's attempt to upsell the iPhone 15 Pro. While the iPhone 15 and 15 Plus [use the slow USB 2.0 standard](https://extra-resources.techidaily.com/magix-image-suite-assessment/), Apple's iPhone 15 Pro and Pro Max offer USB 3.0 speeds (when paired with an equally powerful USB-C cable). It's a strange and frustrating discretion, but it only affects people who regularly transfer files from their iPhone to a computer over a _wired_ connection. The average iPhone owner won't know the difference.
+
+ You can [order an iPhone 15](https://www.apple.com/iphone-15/) today starting at $799\. Along with the new USB-C charging port, Apple is providing upgraded cameras, a new glassy build material, and several other improvements. For more information, check out [what's new in the iPhone 15 and 15 Pro](https://unlock-android.techidaily.com/how-to-reset-your-infinix-hot-40-pro-lock-screen-password-by-drfone-android/).
+
+ Source: [Ars Technica](https://arstechnica.com/gadgets/2023/09/contrary-to-rumors-the-iphone-15-has-a-standard-by-the-book-usb-c-port/) via [9to5Mac](https://9to5mac.com/2023/09/15/iphone-15-usb-c-port-compatibility/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
