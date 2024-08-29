@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts
-date: 2024-08-27 11:32:17
-updated: 2024-08-29 10:44:38
+date: 2024-08-28T04:06:37.801Z
+updated: 2024-08-29T04:06:37.801Z
 tags:
   - ios
 categories:
@@ -22,6 +22,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  iPhone text messages---including [iMessage](https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-max-by-drfone-ios/)\---live on your iPhone or [Mac](https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-12plus-5g-frp-bypass-by-drfone-android/). If you want to get those messages into the real world---either for court or personal records---you'll need to get creative. We'll show you two ways to print text messages on iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Print iPhone Text Messages Screenshots
 
  The best way to preserve and print the authentic look of iPhone text messages is by taking screenshots. Printing screenshots isn't the most elegant solution, but it does work.
@@ -36,14 +39,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the &quot;Photos&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-54-31.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Go to the "Albums" tab and scroll down to select "Screenshots."
 
 ![Go to &quot;Screenshots.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-55-05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  Next, tap "Select" at the top of the screen and choose all the screenshots you'd like to print.
 
 ![Tap &quot;Select&quot; and choose screenshots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-56-16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
  With the screenshots selected, tap the share icon (square with arrow pointing up) in the bottom left.
 
 ![Tap the share button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-57-21.png) 
@@ -64,6 +76,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_15-34-00.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  This method isn't the greatest if you have a lot of screenshots to print since it puts each screenshot on its own page. However, it's easy, and it gets the job done.
 
 ##  How to Print an iPhone Text Message Transcript
@@ -76,6 +91,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to &quot;Messages.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-15-37.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You'll see all of the conversations from your iPhone appear. Check the box next to the conversation you'd like to print.
 
 ![Select a conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-17-25.png) 
@@ -84,6 +102,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Click the &quot;Print&quot; button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-18-21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A window with a print preview will appear. Tap "Print Now" to continue.
 
 ![Select &quot;Print Now.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-19-04.png) 
@@ -92,6 +113,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Choose printer settings and click &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-20-58.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You're all set! The transcript is a much neater presentation, but it does come with the downside of appearing more easily editable. That's something to consider if you need the text messages for legal purposes.
 
 ---
@@ -112,3 +136,68 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-detailed-exploration-youtubes-visionary-suite/"><u>[New] 2024 Approved  A Detailed Exploration  YouTube's Visionary Suite</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-race-sims-ultimate-selection/"><u>[New] Elite Race Sims  Ultimate Selection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-the-musical-maze-copyright-rules-for-insta-users/"><u>[New] In 2024, Navigating the Musical Maze  Copyright Rules for Insta Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-rated-shot-recording-gear-for-the-hunter/"><u>[New] Top-Rated Shot-Recording Gear for the Hunter</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-list-5-premium-live-stream-recorders/"><u>[Updated] 2024 Approved  The Ultimate List  5 Premium Live Stream Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-igtv-presence-with-effective-title-and-summary-tweaks-for-2024/"><u>[Updated] Boost Your IGTV Presence with Effective Title & Summary Tweaks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-youtube-projects-with-enhancements-for-2024/"><u>[Updated] Elevating Your YouTube Projects with Enhancements for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-leading-choices-elite-android-call-alerts/"><u>[Updated] In 2024, Leading Choices  Elite Android Call Alerts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-soundscapes-unleashed-a-guide-to-professional-audio-recording/"><u>[Updated] Soundscapes Unleashed  A Guide to Professional Audio Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-angles-strategic-composition-tips-for-iphone-photography/"><u>[Updated] Unveiling Angles  Strategic Composition Tips for iPhone Photography</u></a></li>
+<li><a href="https://os-tips.techidaily.com/15-effective-ways-to-troubleshoot-and-repair-your-iphones-malfunctioning-gps-featuring-the-latest-iphone-12/"><u>15 Effective Ways to Troubleshoot and Repair Your iPhone's Malfunctioning GPS, Featuring the Latest iPhone 12</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-camera-savvy-image-optimization-secrets/"><u>2024 Approved  IPhone Camera Savvy  Image Optimization Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mobile-magic-no-cost-image-transformation-tool/"><u>2024 Approved  Mobile Magic  No-Cost Image Transformation Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-prosperity-startups-the-13-least-experience-demanding-reddit-techniques/"><u>2024 Approved  Prosperity Startups  The 13 Least Experience-Demanding Reddit Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-visual-treats-free-video-to-gif-transformation/"><u>2024 Approved  Twitter's Visual Treats  Free Video to Gif Transformation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-unfreezing-your-ipod-or-ipod-touch-a-step-by-step-visual-tutorial/"><u>Complete Guide: Unfreezing Your iPod or iPod Touch - A Step-by-Step Visual Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-checklist-for-preparing-to-sell-your-iphone-successfully/"><u>Comprehensive Checklist for Preparing to Sell Your iPhone Successfully</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-tips-for-resetting-your-ipod-device-solutions-included/"><u>Comprehensive Troubleshooting Tips for Resetting Your iPod Device - Solutions Included</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-instagram-stories-polls-your-complete-playbook-for-2024/"><u>Crafting Instagram Stories Polls - Your Complete Playbook for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-refuses-to-chargers-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Refuses to Chargers: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-resolve-iphone-models-15-11-and-x-echo-issues-with-these-4-steps/"><u>Effortless Solutions: Resolve iPhone (Models 15-11 & X) Echo Issues with These 4 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-verify-your-devices-imei-without-using-the-phone/"><u>Effortless Ways to Verify Your Device's IMEI Without Using the Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-music-playback-problems-on-iphones-top-techniques-for-models-iphone-11x8765/"><u>Fix Your Music Playback Problems on iPhones: Top Techniques for Models iPhone 11/X/8/7/6/5</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-securely-restoring-the-control-center-button-on-your-iphone/"><u>Guide: Securely Restoring the Control Center Button on Your iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-edge-40-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Motorola Edge 40 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-the-mss3ndll-not-found-hurdle-on-pc/"><u>How To Overcome The 'mss3n.dll Not Found' Hurdle on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-lava-yuva-2-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Lava Yuva 2 on Windows??</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-not-responding-issue-with-spotlight-search-on-your-iphone-ios-13-and-14/"><u>How to Resolve 'Not Responding' Issue with Spotlight Search on Your iPhone (iOS 13 and 14)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-s23-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-t2x-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo T2x 5G Face Lock?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-your-iphone-security-unlock-techniques-and-protective-apps-for-the-lock-screen/"><u>Master Your iPhone Security: Unlock Techniques & Protective Apps for the Lock Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-iphones-latest-feature-a-step-by-step-guide-to-using-the-built-in-document-scanner/"><u>Mastering Your iPhone's Latest Feature: A Step-by-Step Guide to Using the Built-In Document Scanner</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/power-up-revenue-choose-the-best-15-facebook-insights-for-sale-boosting-for-2024/"><u>Power Up Revenue  Choose the Best 15 Facebook Insights for Sale Boosting for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/preserving-the-jailbreak-effective-methods-for-reviving-a-jailbroken-iphone-without-data-loss/"><u>Preserving the Jailbreak: Effective Methods for Reviving a Jailbroken iPhone Without Data Loss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/professionelle-videokompression-von-mp4-bis-mkv-die-fuhrenden-kompressorlosungen/"><u>Professionelle Videokompression Von MP4 Bis MKV - Die Führenden Kompressorlösungen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-find-someone-elses-iphone-using-only-the-contact-details/"><u>Quick Guide: Find Someone Else's iPhone Using Only the Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-stuck-iphone-proven-strategies-to-overcome-power-issues/"><u>Revive Your Stuck iPhone: Proven Strategies to Overcome Power Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safely-recovering-touch-id-and-settings-icons-on-an-iphone-a-step-by-step-tutorial/"><u>Safely Recovering Touch ID and Settings Icons on an iPhone: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-tips-for-dealing-with-iphone-display-flickering-and-lag/"><u>Simple Troubleshooting Tips for Dealing with iPhone Display Flickering & Lag</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-iphone-has-no-service-dilemma-discover-14-effective-fixes/"><u>Solving the 'iPhone Has No Service' Dilemma: Discover 14 Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stalled-ipads-displaying-apple-symbols-effective-techniques-for-resolution-and-restarting/"><u>Stalled iPads Displaying Apple Symbols: Effective Techniques for Resolution and Restarting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-inaccessible-voicemails-from-an-ios-device/"><u>Step-by-Step Guide: Clearing Inaccessible Voicemails From an iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-why-wont-my-iphone-pair-with-itunes-and-how-to-repair-the-link/"><u>Step-by-Step Solution: Why Won’t My iPhone Pair with iTunes & How to Repair the Link</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-resolving-windows-update-defeat-error-0x800736cc/"><u>Swiftly Resolving Windows Update: Defeat Error 0X800736CC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-encyclopedia-britannica-garuda-online-available-at-((httpswwwhrenology)-the-study-of-cranial-measurements-to-determine-intelligence-and-personality-trai6/"><u>The Encyclopedia Britannica – Garuda [Online] Available At: <<Https://Wwwhrenology>, the Study of Cranial Measurements to Determine Intelligence and Personality Traits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-itunes-error-2-across-different-windows-versions-including-11-8-7-vista-and-xp/"><u>Troubleshooting iTunes Error 2 Across Different Windows Versions Including 11, 8, 7, Vista, and XP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trust-in-ai-conversations-evaluating-the-veracity-of-chatgpts-answers/"><u>Trust in AI Conversations: Evaluating the Veracity of ChatGPT's Answers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-fixes-for-when-you-cant-access-your-snapchat-account/"><u>Ultimate Fixes for When You Can’t Access Your Snapchat Account</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-notch-apps-to-bypass-icloud-security-and-free-your-device/"><u>Ultimate Guide: Top-Notch Apps to Bypass iCloud Security and Free Your Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultra-clarity-the-new-era-of-hd-monitors-envy-27-for-2024/"><u>Ultra Clarity  The New Era of HD Monitors - Envy 27 for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-causes-of-error-53-step-by-step-remedies-for-safe-repair/"><u>Understanding the Causes of Error 53: Step-by-Step Remedies for Safe Repair</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secrets-of-animoji-mastering-face-mapping-on-your-iphone-x/"><u>Unlock the Secrets of Animoji: Mastering Face Mapping on Your iPhone X</u></a></li>
+</ul></div>

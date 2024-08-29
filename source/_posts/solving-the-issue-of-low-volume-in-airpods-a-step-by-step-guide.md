@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue of Low Volume in AirPods: A Step-by-Step Guide"
-date: 2024-08-26 22:40:48
-updated: 2024-08-29 10:50:44
+date: 2024-08-28T04:11:17.284Z
+updated: 2024-08-29T04:11:17.284Z
 tags:
   - ios
 categories:
@@ -39,6 +39,9 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
 
  Checking whether your AirPods are responding to the volume buttons is important because it helps us understand whether it's the volume buttons or the AirPods that aren't working properly. If you have tried all the ways to increase the volume and yet your AirPods feel exceptionally quiet, here's what you can do next.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Clean Your AirPods
 
  If you haven't [cleaned your AirPods](https://on-screen-recording.techidaily.com/new-essential-tools-for-effective-adobe-presentation-recordings/) in a while, this is the first thing you should do. Since your AirPods spend most of their time in your ears, they can accumulate earwax, dust, and dirt. While it might not affect the sound quality initially, excessive debris (in the openings through which the driver fires sound) can easily impact the loudness, resulting in AirPods that don't sound as good.
@@ -69,12 +72,18 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the AirPods settings menu with an arrow next to the Ear Tip Fit Test option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  Hit "Continue" and then hit the play button on the next screen.
 
 ![Screenshot of the play button at the bottom of the screen while taking the ear tip fit test on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  If the test suggests that the ear tips you're using are a good fit, that's good. Otherwise, try using a different ear tip as per the recommendation.
@@ -95,6 +104,9 @@ Shikhar Mehrotra / How-To Geek
 
  On a Mac you'll find this option in the top-right corner of the screen, just click on your AirPods under "Sound" and choose which listening mode you want to use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Turn Off Headphone Safety
 
  Headphone Safety is enabled on all iPhones with iOS 14\. It automatically measures audio levels to protect your hearing. If you exceed the recommended seven-day limit (based on the safe listening guidelines set by the World Health Organization), the feature sends you a notification. Along with the loudness alert, [the feature also lowers the overall volume](https://video-capture.techidaily.com/new-enhancing-video-quality-callout-techniques-for-engaging-edits-for-2024/) to a particular decibel level. By default, the audio level is reduced to 85 decibels, about as loud as heavy street traffic.
@@ -107,12 +119,18 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Settings app with an arrow next to the Sounds & Haptics menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  Hit "Headphone Safety."
 
 ![Screenshot of the Sounds & Haptics menu with an arrow next to the Headphone Safety option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  Turn off "Headphone Notifications" and "Reduce Loud Audio."
@@ -141,12 +159,18 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Dolby Atmos menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  In the same menu, turn off "Sound Check."
 
 ![Screenshot of the Sound Check option in the Apple Music settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  If you're using your AirPods with a Mac, go to Music > Settings > Playback and disable "Sound Enhancer" and "Sound Check."
@@ -165,6 +189,9 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Settings app with an arrow next to the Accessibility option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  Scroll down and tap "Audio & Visual."
@@ -177,14 +204,23 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the audio balance slider in Audio & Visual menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Recalibrate Your AirPods' Volume
 
 [Using your AirPods with different devices](https://facebook-record-videos.techidaily.com/new-critical-channels-for-asmr-lovers-for-2024/), such as your iPhone, iPad, and MacBook, might lead to a mismatch in the maximum and minimum volume levels. However, you can recalibrate your AirPods to get the maximum loudness.
 
  When your AirPods are connected to your iPhone, play something on a music streaming app. As the audio track plays, press the volume down button until muted. Now, disconnect your AirPods by disabling Bluetooth through the Control Center. Now, replay the music (it should come from your iPhone's speakers). Again, turn down the volume to zero. Now, open the Control Center, enable Bluetooth, and reconnect your AirPods.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Reset AirPods and Re-Pair With Your iPhone
 
  If nothing works, it is time to [reset your AirPods to factory settings](https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-5-v-by-fonelab-android-recover-video/). For this, insert your AirPods in their charging case and shut the lid. Wait for about 30 seconds, then take the AirPods out of their case and put them in your ears. Now, go to Settings > Bluetooth > \[Your\] AirPods, hit the info icon, and then select "Forget This Device." Tap on Confirm to initiate the process.
@@ -213,3 +249,47 @@ Kris Wouk / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-edit-the-length-of-a-video-on-youtube/"><u>[New] 2024 Approved  How to Edit the Length of a Video on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>[New] In 2024, Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-prime-image-archive-platforms/"><u>[New] In 2024, Prime Image Archive Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-review-comparing-screen-recorders-for-professionals-for-2024/"><u>[New] The Ultimate Review  Comparing Screen Recorders for Professionals for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-build-a-fortified-mc-base-plan-6-10/"><u>[Updated] Build a Fortified MC Base  Plan #6-10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715859706988-updated-capture-share-enjoy/"><u>[Updated] Capture, Share, Enjoy!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-premium-image-editing-overlays-free-for-android-and-iphone-users-for-2024/"><u>10 Premium Image Editing Overlays Free for Android & iPhone Users for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-maximize-your-gains-highest-earning-instagram-tactics/"><u>2024 Approved  Maximize Your Gains  Highest Earning Instagram Tactics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/4-simple-methods-to-securely-sync-and-backup-your-iphone-data-with-icloud-itunes-and-computer/"><u>4 Simple Methods to Securely Sync and Backup Your iPhone Data with iCloud, iTunes & Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-list-of-top-5-complimentary-iphone-backup-retrieval-software-options/"><u>Discover the Ultimate List of Top 5 Complimentary iPhone Backup Retrieval Software Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-text-preservation-a-user-friendly-approach-to-sms-data-backup-solutions/"><u>Effortless Text Preservation: A User-Friendly Approach to SMS Data Backup Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-overcoming-iphone-backup-restoration-problems-on-models-7-8-and-8plus/"><u>Expert Tips for Overcoming iPhone Backup Restoration Problems on Models 7, 8 & 8+</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-recover-text-messages-and-media-files-from-an-ios-devices-itunes-backup/"><u>How to Recover Text Messages and Media Files From an iOS Device's iTunes Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-archive-your-messages-comprehensive-guide-to-sms-backup-for-iphone-and-android-devices/"><u>How to Securely Archive Your Messages: Comprehensive Guide to SMS Backup for iPhone and Android Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-12-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 12 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-x9a-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor X9a to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-v29e-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo V29e Easily?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-safeguarding-voice-memos-on-iphone-a-guide-to-4-reliable-backup-techniques/"><u>Master the Art of Safeguarding Voice Memos on iPhone: A Guide to 4 Reliable Backup Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-iphone-image-preservation-key-techniques-for-ios-1314-photo-backup-mastery/"><u>Mastering iPhone Image Preservation: Key Techniques for iOS 13/14 Photo Backup Mastery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/output-maximization/"><u>Output Maximization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-communications-easy-steps-for-archiving-text-messages-on-ios-and-android-phones/"><u>Protect Your Communications: Easy Steps for Archiving Text Messages on iOS & Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safeguard-your-important-ios-content-by-learning-to-use-itunes-for-iphone-backups/"><u>Safeguard Your Important iOS Content by Learning to Use iTunes for iPhone Backups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-to-boot-your-ipad-without-pressing-the-power-button/"><u>Simple Steps to Boot Your iPad Without Pressing the Power Button</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-mastering-the-art-of-syncing-your-ipad-with-itunes/"><u>Simple Steps: Mastering the Art of Syncing Your iPad with iTunes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-strategies-how-to-seamlessly-save-your-iphones-sms-with-minimal-hassle/"><u>Simple Strategies: How to Seamlessly Save Your iPhone's SMS with Minimal Hassle</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-air-with-icloud/"><u>Step-by-Step Guide: Securely Syncing Your iPad (Pro, Mini, Air) with iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-comprehensive-step-by-step-tutorial-on-retrieving-data-from-iphoneandroid-device-backups/"><u>The Comprehensive Step-by-Step Tutorial on Retrieving Data From iPhone/Android Device Backups</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming/"><u>The Perfect Pairing of Xbox and Zooming Techniques for Gaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-top-8-ios-backup-solutions-for-safeguarding-your-precious-information/"><u>The Ultimate List of Top 8 iOS Backup Solutions for Safeguarding Your Precious Information</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-resource-navigating-icloud-backup-with-ease-and-expertise/"><u>The Ultimate Resource: Navigating iCloud Backup with Ease and Expertise</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-k11-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo K11 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-applications-for-viewing-and-analyzing-your-iphones-backup-data/"><u>Top Rated Applications for Viewing and Analyzing Your iPhone's Backup Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-iphones-icloud-backup-restoration/"><u>Troubleshooting Steps: Resolving Issues with iPhone's iCloud Backup Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-backup-strategies-for-your-iphone-mastering-pciclouditunes-techniques-with-simple-steps/"><u>Ultimate Backup Strategies for Your iPhone : Mastering PC/iCloud/iTunes Techniques with Simple Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-8-proven-methods-for-securely-preserving-iphone-contact-information/"><u>Ultimate Guide: 8 Proven Methods for Securely Preserving iPhone Contact Information</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-5-methods-for-saving-and-moving-your-iphones-sms/"><u>Ultimate Guide: Top 5 Methods for Saving & Moving Your iPhone's SMS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620204669-ultimate-tutorial-on-securely-backing-up-your-iphone-to-a-computer-itunes-optional/"><u>Ultimate Tutorial on Securely Backing Up Your iPhone to a Computer, ITunes Optional</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-on-securely-backing-up-your-iphone-to-a-computer-itunes-optional/"><u>Ultimate Tutorial on Securely Backing Up Your iPhone to a Computer, ITunes Optional!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-secrets-of-complete-icloud-backup-mastery-in-one-essential-guide/"><u>Unraveling the Secrets of Complete iCloud Backup Mastery in One Essential Guide</u></a></li>
+</ul></div>

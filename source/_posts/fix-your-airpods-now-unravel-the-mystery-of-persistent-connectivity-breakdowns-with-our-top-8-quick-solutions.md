@@ -1,7 +1,7 @@
 ---
 title: Fix Your AirPods Now! Unravel the Mystery of Persistent Connectivity Breakdowns with Our Top 8 Quick Solutions
-date: 2024-08-27 21:42:54
-updated: 2024-08-29 11:44:35
+date: 2024-08-28T04:07:59.547Z
+updated: 2024-08-29T04:07:59.547Z
 tags:
   - ios
 categories:
@@ -45,10 +45,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap on the "Wireless Audio" option in the Now Playing box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/now_playing_wireless.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From here, tap on your AirPods to route audio to them.
 
 ![Tap on your AirPods in Control Center to connect to them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/airpods_connect.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you're using a Mac, click on Control Center at the top of your screen, then the wireless audio icon under "Sound." You can then select your AirPods from the list of options.
 
 ![Select AirPods in macOS Control Center under the "Sound" settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-05-at-11-09-57.png) 
@@ -67,12 +73,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![View AirPods remaining battery by opening them near your iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/airpods_battery.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  Poor battery life will become a problem for AirPods as they age. Eventually, your AirPods will lose a significant percentage of their total charge and require more frequent charging.
 
  Apple runs a battery service program for AirPods that [costs around the same price as replacing the earbuds themselves](https://tiktok-video-recordings.techidaily.com/how-to-make-a-best-tiktok-intro-video-on-mac-in-2024/). This is arguably one of the [biggest problems with Apple's wireless earbuds](https://android-location-track.techidaily.com/in-2024-top-9-lava-storm-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/).
 
  If your AirPods keep disconnecting with a full battery, you can try the additional fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Disable Automatic Switching Between Devices
 
  AirPods will automatically switch between devices based on what you're currently using. While this behavior is supposed to be intelligent, it doesn't always work quite as expected.
@@ -91,6 +103,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![AirPods settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-05-at-11-12-25.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Disable Automatic Ear Detection
 
  Automatic Ear Detection is another smart AirPods feature that can help save you battery life, especially if you're prone to leaving your AirPods out of the case. The feature uses sensors on the AirPods themselves to detect when they're in your ears and then uses this information to put your AirPods to sleep and pause what you're listening to.
@@ -111,6 +126,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Restart iPhone with Siri](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/restart_iphone_with_siri.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  Alternatively, you can [use a combination of button presses to turn off your iPhone and then turn it on again](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/). The same goes [for iPad](https://win-amazing.techidaily.com/instant-access-to-thrustmaster-t150-drivers-user-friendly-guide-on-swift-software-setup/) and [Mac](https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p55-drfone-by-drfone-virtual-android/).
 
 ##  Update Your iPhone, iPad, or Mac
@@ -123,8 +141,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Software update screen on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Software-Update-Mac.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  Additionally, you can [try triggering an AirPods firmware update manually](https://twitter-clips.techidaily.com/in-2024-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen/) by placing your AirPods in the case, near the paired iPhone that's connected to Wi-Fi. Open the case, dismiss the battery alert, and wait.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reset or Pair Your AirPods Again
 
 [Resetting your AirPods](https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-5-v-by-fonelab-android-recover-video/) will return them to factory settings, and it's the logical next step to try if you haven't had any luck thus far. When you reset your AirPods, they will still be linked to your Apple ID (which means they'll still appear under the Find My app).
@@ -133,6 +157,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![AirPods Pro inside charging case with white status light.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/airpods-pro-inside-charging-case-with-white-status-light.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 Dan Helyer / How-To Geek
 
  A more drastic step is to forget your AirPods and then pair them again, especially if you can't connect at all. To do this on your iPhone or iPad, first "Forget" your AirPods under Settings > Bluetooth by tapping the "i" button next to your AirPods, then using the "Forget This Device" option at the bottom.
@@ -145,6 +173,9 @@ Dan Helyer / How-To Geek
 
 !["Forget this Device" in AirPods settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-05-at-11-16-47.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  To pair your AirPods, place them in the charging case and open the lid. Go to System Settings > Bluetooth. Then, press and hold the setup button on the back of the case. Select your AirPods from the My Devices list and click "Connect."
 
  When you pair your AirPods, they pair with the Apple ID linked to that device. Any other devices that use the same Apple ID (Mac, iPad, Apple Watch, Apple TV, and so on) will automatically pair, so you only need to do this once.
@@ -177,3 +208,62 @@ Dan Helyer / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-tips-to-take-your-lunapic-skills-up/"><u>[New] Transformative Tips to Take Your LunaPic Skills Up</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-the-secrets-to-sharing-videos-on-instagram/"><u>[New] Unlocking the Secrets to Sharing Videos on Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012403280-solved-sekiro-crashing-issues-quickly-and-easily/"><u>[Solved] Sekiro Crashing Issues – Quickly & Easily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-enhancing-multilingual-reach-adding-subtitles-in-vimeo/"><u>[Updated] 2024 Approved  Enhancing Multilingual Reach  Adding Subtitles in Vimeo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-front-to-back-a-step-by-step-guide-to-creating-engaging-angles-in-photography-for-instagram-triumphs/"><u>[Updated] From Front to Back  A Step-by-Step Guide to Creating Engaging Angles in Photography for Instagram Triumphs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-optimal-flight-the-lipo-selection-saga/"><u>2024 Approved  Unlocking Optimal Flight  The LiPo Selection Saga</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vector-magic-discovering-the-10-software-picks-you-need/"><u>2024 Approved  Vector Magic  Discovering the 10 Software Picks You Need</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-excel-formulas-techniques-for-merging-data-across-two-columns-seamlessly/"><u>Advanced Excel Formulas: Techniques for Merging Data Across Two Columns Seamlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-iphone-cleaning-apps-top-4-picks-for-optimizing-performance/"><u>Best Free iPhone Cleaning Apps: Top 4 Picks for Optimizing Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242101-boost-your-iphones-speed-and-storage-with-these-4-best-free-cleanse-applications/"><u>Boost Your iPhone's Speed & Storage with These 4 Best Free Cleanse Applications!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-speed-effective-remedies-for-unfreezing-and-enhancing-responsiveness/"><u>Boost Your iPhone's Speed: Effective Remedies for Unfreezing & Enhancing Responsiveness</u></a></li>
+<li><a href="https://win-forum.techidaily.com/browser-hygiene-a-detailed-walkthrough-for-deleting-trackers-in-windows-11android-os/"><u>Browser Hygiene: A Detailed Walkthrough for Deleting Trackers in Windows 11/Android OS</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-your-script-crisis-essential-solutions-for-windows-errors/"><u>Clear Your Script Crisis: Essential Solutions for Windows Errors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-out-voicemail-entries-from-your-iphone-contact-list/"><u>Clearing Out Voicemail Entries From Your iPhone Contact List</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-amazon-kindles-value-in-2019-reliable-and-affordable-reading-essentials/"><u>Discovering the Amazon Kindle's Value in 2019 - Reliable and Affordable Reading Essentials</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-for-managing-and-cleared-iphoneipad-battery-statistics/"><u>Easy Steps for Managing and Cleared iPhone/iPad Battery Statistics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-wipe-out-all-message-data-from-your-iphone-once-and-forall/"><u>Effective Strategies: How to Wipe Out All Message Data From Your iPhone Once and ForAll</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-steps-to-delete-your-youtube-browsing-and-search-logs/"><u>Effortless Steps to Delete Your YouTube Browsing and Search Logs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-erase-apple-device-maps-history-secrets-for-a-total-wipeout/"><u>Effortlessly Erase Apple Device Maps History: Secrets for a Total Wipeout</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-on-cleaning-and-sanitizing-your-iphone-before-a-new-owner/"><u>Expert Tips on Cleaning and Sanitizing Your iPhone Before a New Owner</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/explore-these-6-powerful-instagram-reel-tools/"><u>Explore These 6 Powerful Instagram Reel Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-the-locator-a-comprehensive-tutorial-on-rebooting-your-iphones-positioning-functionality/"><u>Fixing the Locator: A Comprehensive Tutorial on Rebooting Your iPhone's Positioning Functionality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2000 files</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-x-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone X Apple ID on MacBook</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-perform-a-full-format-on-your-iphone-step-by-step-guide-to-restoring-original-settings/"><u>How to Perform a Full Format on Your iPhone: Step-by-Step Guide to Restoring Original Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-set-up-your-brother-all-in-one-printer-on-modern-windows-platforms-vista-and-beyond/"><u>How to Set Up Your Brother All-in-One Printer on Modern Windows Platforms (Vista & Beyond)</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-infinix-note-30-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Infinix Note 30 5G Is Unlocked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insiders-look-at-macos-11-big-sur-journey/"><u>In 2024, Insider's Look at macOS 11 Big Sur Journey</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-se-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone SE iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-premier-video-call-alternatives-zooms-rivalry-explained/"><u>In 2024, Premier Video Call Alternatives  Zoom's Rivalry Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-v30-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo V30 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-insights-into-data-wipe-excellence-with-dr-fone-data-eraser-by-wondershare-the-ios-edition/"><u>In-Depth Insights Into Data Wipe Excellence with Dr. Fone Data Eraser by Wondershare - The iOS Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-friendly-top-4-methods-to-transfer-music-from-your-ipod-shuffle-or-nano-without-using-itunes/"><u>IPad-Friendly: Top 4 Methods to Transfer Music From Your iPod, Shuffle or Nano Without Using iTunes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-security-alert-comprehensive-tutorial-on-identifying-and-cleaning-ios-infections/"><u>IPhone Security Alert: Comprehensive Tutorial on Identifying and Cleaning iOS Infections</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-clean-up-how-to-permanently-erase-information-off-your-iphone/"><u>Master Clean-Up: How to Permanently Erase Information Off Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-iphone-capacity-effortless-ways-to-clear-a-packed-memory/"><u>Maximize Your iPhone Capacity: Effortless Ways to Clear a Packed Memory</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242376-maximize-your-iphones-performance-and-memory-with-a-simple-trick-eliminating-app-cache-for-zero-cost/"><u>Maximize Your iPhone's Performance and Memory with a Simple Trick: Eliminating App Cache for Zero Cost!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-s24-ultra-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy S24 Ultra Phone Now with These Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-removal-of-your-iphones-google-location-data-a-step-by-step-guide/"><u>Permanent Removal of Your iPhone's Google Location Data: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-methods-to-completely-remove-songs-from-your-iphone/"><u>Quick & Easy Methods to Completely Remove Songs From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-techniques-to-remove-cookies-and-browsing-records-in-safari-on-ios-devices/"><u>Simple Techniques to Remove Cookies and Browsing Records in Safari on iOS Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/snapsnatcher-fb-media-extraction-for-2024/"><u>SnapSnatcher  FB Media Extraction for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-completely-remove-your-apple-mail-accounts-from-iphone-and-ipad/"><u>Step-by-Step Guide: Completely Remove Your Apple Mail Accounts From iPhone and iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-deleting-your-whatsapp-conversations-and-messages/"><u>Step-by-Step Guide: Deleting Your WhatsApp Conversations & Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-to-successfully-remove-an-icloud-email-account/"><u>Step-by-Step Strategies to Successfully Remove an iCloud Email Account</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-top-3-methods-for-completely-resetting-your-ipad-passcode-free-and-secure/"><u>The Top 3 Methods for Completely Resetting Your iPad: Passcode-Free and Secure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-secure-removal-of-sms-messages-in-ios-devices/"><u>The Ultimate Tutorial: Secure Removal of SMS Messages in iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-deleting-files-and-personal-information-from-your-iphone/"><u>Top Strategies for Deleting Files & Personal Information From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-erasing-all-data-from-your-ipad-safely-including-tips-without-a-password/"><u>Ultimate Guide: Erasing All Data From Your iPad Safely, Including Tips Without a Password</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-instructions-for-removing-your-snapchat-images-from-conversations-and-memories/"><u>Ultimate Instructions for Removing Your Snapchat Images From Conversations & Memories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-how-to-empty-your-facebook-cache-across-all-devices-windows-mac-android-ios/"><u>Ultimate Step-by-Step Tutorial: How to Empty Your Facebook Cache Across All Devices (Windows, Mac, Android, iOS)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-mastering-the-art-of-deleting-images-from-your-iphone/"><u>Ultimate Tutorial: Mastering the Art of Deleting Images From Your iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-final-cut-pro-2023-color-correction-secrets-for-filmmakers/"><u>Updated 2024 Approved Final Cut Pro 2023 Color Correction Secrets for Filmmakers</u></a></li>
+</ul></div>

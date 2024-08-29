@@ -1,7 +1,7 @@
 ---
 title: "Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!"
-date: 2024-08-28 11:38:45
-updated: 2024-08-29 11:47:15
+date: 2024-08-28T04:10:36.940Z
+updated: 2024-08-29T04:10:36.940Z
 tags:
   - ios
 categories:
@@ -45,10 +45,16 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
@@ -57,20 +63,32 @@ Justin Duino / How-To Geek
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
  Head to Settings > Accessibility > Touch, and select "Back Tap."
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
  If you've followed all the steps correctly, double-taping the back of your iPhone will trigger the shortcut. This will take a screenshot and use Google's visual search feature to fetch more information about whatever is on your screen. That's essentially how the Circle to Search feature works.
@@ -99,3 +117,42 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-youtube-images-download-without-any-cost/"><u>[New] 2024 Approved  High-Quality YouTube Images  Download Without Any Cost</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maximize-learning-free-tools-for-online-video-texts/"><u>[New] 2024 Approved  Maximize Learning  Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-practices-for-drone-cinematography/"><u>[New] Best Practices for Drone Cinematography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-face-makeovers-simplified-best-apps-for-ios-and-android/"><u>[New] Face Makeovers Simplified  Best Apps for iOS and Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-imaging-warfare-djis-pro-vs-gopro-k20/"><u>Aerial Imaging Warfare  DJI's Pro Vs GoPro K20</u></a></li>
+<li><a href="https://os-tips.techidaily.com/altering-iphone-web-browser-preferences-a-comprehensive-tutorial-for-google-chrome-apple-safari-and-opera-touch-users/"><u>Altering iPhone Web Browser Preferences: A Comprehensive Tutorial for Google Chrome, Apple Safari, and Opera Touch Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphone-experience-seamlessly-zooming-in-and-out-using-these-5-effective-strategies/"><u>Boost Your iPhone Experience: Seamlessly Zooming in and Out Using These 5 Effective Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-sharing-your-creations-with-ease-a-step-by-step-instagram-posting-tutorial/"><u>Complete Guide: Sharing Your Creations with Ease - A Step-by-Step Instagram Posting Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-mastering-autofill-feature-for-iphone-passwords/"><u>Comprehensive Tutorial: Mastering AutoFill Feature for iPhone Passwords</u></a></li>
+<li><a href="https://os-tips.techidaily.com/create-custom-iphone/"><u>Create Custom iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/create-your-own-custom-iphone-ringtones-with-our-free-m4r-editor/"><u>Create Your Own Custom iPhone Ringtones with Our Free M4R Editor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-guide-generating-your-own-cost-free-iphone-tones/"><u>DIY Guide: Generating Your Own Cost-Free iPhone Tones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-secure-your-data-by-moving-old-phone-passwords-to-your-new-iphone/"><u>Easy Steps: Secure Your Data by Moving Old Phone Passwords to Your New iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-easily-cast-your-ios-devices-screen-on-a-projector/"><u>How To Easily Cast Your iOS Device's Screen on a Projector</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-gt-5-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme GT 5 Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 12 Lock Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-your-first-youtubian-venture-building-a-brand-bringing-in-bucks/"><u>In 2024, Your First Youtubian Venture  Building a Brand, Bringing in Bucks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276679-lost-iphone-discover-swift-solutions-with-this-complete-search-tutorial/"><u>Lost iPhone? Discover Swift Solutions with This Complete Search Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-setting-windows-11-walls-for-2024/"><u>Masterclass  Setting Windows 11 Walls for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-use-of-iphone-front-selfie-camera-mirror-feature/"><u>Mastering the Use of iPhone Front (Selfie) Camera Mirror Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-whatsapp-security-setting-up-a-robust-password-protection-for-ios-and-android-users/"><u>Mastering WhatsApp Security: Setting Up a Robust Password Protection for iOS & Android Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-a-stolen-iphone-essential-steps-and-tips/"><u>Recovering a Stolen iPhone: Essential Steps & Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-beginners-can-reset-their-iphones-email-password-swiftly/"><u>Simple Guide: How Beginners Can Reset Their iPhone's Email Password Swiftly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-changing-your-phones-lock-screen-image/"><u>Step-by-Step Guide: Changing Your Phone's Lock Screen Image</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-stopping-sms-from-coming-through-your-iphone/"><u>Step-by-Step Guide: Stopping SMS From Coming Through Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-your-iphone-display-with-the-microsoft-xbox-one/"><u>Step-by-Step Guide: Syncing Your iPhone Display with the Microsoft Xbox One</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unsubscribing-from-tv-services-via-ios-device/"><u>Step-by-Step Instructions: Unsubscribing From TV Services via iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamline-your-mobile-workforce-with-verizon-wirelesss-efficient-mdm-solutions/"><u>Streamline Your Mobile Workforce with Verizon Wireless's Efficient MDM Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-significance-of-heic-image-encoding-for-iphone-photography-key-facts-you-need-to-know/"><u>The Significance of HEIC Image Encoding for iPhone Photography: Key Facts You Need to Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-4-strategies-for-finding-your-lost-iphone-or-ipad/"><u>Top 4 Strategies for Finding Your Lost iPhone or iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-simple-ways-to-connect-your-ipad-to-computermactv/"><u>Top 6 Simple Ways to Connect Your iPad to Computer/Mac/TV</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-zoom-airplay-overcoming-common-challenges-and-ensuring-flawless-streaming/"><u>Troubleshooting Your Zoom AirPlay: Overcoming Common Challenges and Ensuring Flawless Streaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-efficient-methods-and-applications-for-linking-your-iphone-with-wi-fi/"><u>Ultimate Guide: Efficient Methods & Applications for Linking Your iPhone with Wi-Fi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-digital-touch-messaging-a-comprehensive-guide-for-iphone-users/"><u>Understanding Digital Touch Messaging: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>Updated 2024 Approved Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
+</ul></div>

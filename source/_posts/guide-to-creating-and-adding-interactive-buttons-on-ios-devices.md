@@ -1,7 +1,7 @@
 ---
 title: Guide to Creating and Adding Interactive Buttons on iOS Devices
-date: 2024-08-27 20:44:46
-updated: 2024-08-29 11:35:24
+date: 2024-08-28T04:10:59.277Z
+updated: 2024-08-29T04:10:59.277Z
 tags:
   - ios
 categories:
@@ -53,16 +53,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Of course, a virtual button on the screen is not as convenient as a physical button, but it does have the added benefit of having more than one action.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use the Back of the iPhone as an "Action Button"
 
  What if you could [launch actions by tapping the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/)? Thanks to Accessibility, you can. Again, let's head to Settings > Accessibility > Touch.
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Scroll down to "Back Tap."
 
 ![Select "Back Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0379.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select the "Double Tap" or "Triple Tap" gesture.
 
 ![Choose a gesture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0380.PNG) 
@@ -71,12 +80,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Choose an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0381.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's all there is to it! This is the best way to get a "physical" Action Button on an iPhone that doesn't have one. You still can launch the actions without the screen needing to be on.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Dimple Buttons
 
 ![dimple.io buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/dimpleio.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 [Unbox Therapy](https://youtu.be/6Mp01eg0-ZM)
 
  So far, we've been working within the constraints of the software and hardware already present on an iPhone. But what if you could physically add more buttons? A nifty little product called "Dimple.io" can do exactly that.
@@ -99,3 +117,46 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-10-best-video-calling-software-on-phone-and-pc/"><u>[New] 2024 Approved  10 Best Video Calling Software on Phone and PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-converting-youtube-to-interactive-animated-gifs/"><u>[New] Mastering the Art of Converting YouTube to Interactive Animated GIFs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-plant-and-play-stardew-esque-gaming-winners/"><u>[New] Plant and Play  Stardew-Esque Gaming Winners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-video-recording-methods-for-multiple-systems/"><u>[New] Pro Video Recording Methods for Multiple Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/accelerate-your-macs-safari-tips-for-achieving-lightning-fast-load-times/"><u>Accelerate Your Mac's Safari - Tips for Achieving Lightning-Fast Load Times</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-toolwiz-a-photographers-digital-arsenal/"><u>Analyzing Toolwiz  A Photographer’s Digital Arsenal</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/androids-finest-screen-capture-software-top-5-for-2024/"><u>Android's Finest Screen Capture Software, Top 5 for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-step-by-step-process-for-resetting-your-mac-back-to-original-setup/"><u>Complete Guide: Step-by-Step Process for Resetting Your Mac Back to Original Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-os-synergy-creating-a-linux-vm-inside-windows-using-hyper-v/"><u>Cross-OS Synergy: Creating a Linux VM Inside Windows Using Hyper-V</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-your-hidden-wi-fi-passwords-quickly-top-3-methods-for-mac-users/"><u>Discover Your Hidden Wi-Fi Passwords Quickly: Top 3 Methods for Mac Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963985911-download-new-updates-for-your-lenovo-thunderbolt-3-portable-docking-station/"><u>Download New Updates for Your Lenovo Thunderbolt 3 Portable Docking Station!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-for-when-your-airpods-refuse-to-pair-with-a-macbook-a-step-by-step-guide/"><u>Effective Solutions for When Your AirPods Refuse to Pair With a MacBook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-fix-your-mac-not-shutting-down-correctly-as-of-202/"><u>Effective Strategies: How to Fix Your Mac Not Shutting Down Correctly as of 202#</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-mastering-zipping-and-unzipping-filesfolders-on-your-mac/"><u>Essential Guide: Mastering Zipping & Unzipping Files/Folders on Your Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-responsive-quicktime-playback-on-macos-devices/"><u>Fixing Non-Responsive QuickTime Playback on macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/foolproof-fixes-for-the-iphone-camera-icon-not-showing-problem/"><u>Foolproof Fixes for the 'iPhone Camera Icon Not Showing' Problem</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nubia-red-magic-9-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-color-expert-tips-for-troubleshooting-a-black-screened-mac/"><u>How to Restore Color: Expert Tips for Troubleshooting a Black-Screened Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-10-instagram-hashtag-that-you-should-be-using-today/"><u>In 2024, 10 Instagram Hashtag That You Should Be Using Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-12-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 12 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-rewind-and-repeat-mastering-youtube-inversion/"><u>In 2024, Rewind and Repeat  Mastering YouTube Inversion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/light-and-shadow-masterful-edits-that-transform-images/"><u>Light & Shadow  Masterful Edits That Transform Images</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>Maximizing Efficiency  Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-edge-40-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Edge 40 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-free-video-orientation-correction-tools-for-iphone-for-2024/"><u>New Best Free Video Orientation Correction Tools for iPhone for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/power-up-displayport-with-a-click/"><u>Power Up DisplayPort with a Click</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secure-swift-airdrop-connections-on-all-apple-devices-fix-guide-for-2024/"><u>Secure Swift Airdrop Connections on All Apple Devices - Fix Guide for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-resolving-non-responsive-imovie-issues/"><u>Solutions for Resolving Non-Responsive iMovie Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphones-sluggish-charge-expert-advice-and-effective-fixes/"><u>Solving iPhone's Sluggish Charge: Expert Advice and Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/speeding-up-safari-how-to-restore-swift-browsing-speeds-on-your-mac/"><u>Speeding Up Safari: How to Restore Swift Browsing Speeds on Your Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-proven-techniques-to-resolve-macos-wont-power-off-problem/"><u>Top 6 Proven Techniques to Resolve macOS Won't Power Off Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-proven-methods-to-resolve-your-macs-sudden-black-screen-problem/"><u>Top 7 Proven Methods to Resolve Your Mac's Sudden Black Screen Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-faqs-understanding-how-your-iphone-handles-voice-messages/"><u>Top FAQs: Understanding How Your iPhone Handles Voice Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-quicktime-issues-solutions-for-mac-users/"><u>Troubleshooting QuickTime Issues: Solutions for Mac Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-wi-fi-issues-fixing-connectivity-problems-on-your-iphone/"><u>Troubleshooting Wi-Fi Issues: Fixing Connectivity Problems on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-protecting-your-content-efficient-macmacbook-backup-techniques-using-internal-and-external-storage-devices/"><u>Ultimate Guide to Protecting Your Content: Efficient Mac/MacBook Backup Techniques Using Internal and External Storage Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-preserve-your-memories-secure-mac-photo-storage-techniques/"><u>Ultimate Guide: Preserve Your Memories - Secure Mac Photo Storage Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-reason-behind-macs-persistent-icloud-password-prompts-solutions-explored/"><u>Understanding the Reason Behind Mac's Persistent iCloud Password Prompts: Solutions Explored</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmasking-bogus-antivirus-alerts-learn-5-effective-defense-tactics/"><u>Unmasking Bogus Antivirus Alerts - Learn 5 Effective Defense Tactics</u></a></li>
+</ul></div>

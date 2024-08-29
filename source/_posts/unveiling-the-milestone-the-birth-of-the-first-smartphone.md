@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-08-27 15:44:32
-updated: 2024-08-29 12:56:17
+date: 2024-08-28T04:08:39.975Z
+updated: 2024-08-29T04:08:39.975Z
 tags:
   - ios
 categories:
@@ -23,10 +23,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
  Before we go back to the first smartphone, let's travel a bit further back to the first _mobile_ phone. The first handheld cell phone was shown off in 1973 by John F. Mitchell and Martin Cooper of Motorola, but the fruits of that labor were not seen until 1983, when the company's first mobile phone hit the market.
@@ -35,10 +41,21 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
  The first smartphone was invented in 1992 by IBM—it was called the Simon Personal Communicator. The term "smartphone" didn't even exist yet, and the device wouldn't be available to purchase for two more years. But the IBM Simon had many of the features that we've come to expect from smartphones.
@@ -67,3 +84,51 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-tailoring-video-content-to-youtubes-niche-needs/"><u>[New] 2024 Approved  Tailoring Video Content to Youtube's Niche Needs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-close-encounters-experiencing-roblox-at-greater-detail/"><u>[Updated] Close Encounters  Experiencing Roblox At Greater Detail</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-dissecting-youtubes-features-and-mechanisms-after-uploading-content/"><u>[Updated] In 2024, Dissecting YouTube’s Features and Mechanisms After Uploading Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-learn-the-layers-of-photography-with-snapseed/"><u>[Updated] Learn the Layers of Photography with Snapseed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-live-recording-simplified-logitech-webcam-setup-steps-for-2024/"><u>[Updated] Live Recording Simplified  Logitech Webcam Setup Steps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spice-up-your-feeds-text-based-meme-magic/"><u>2024 Approved  Spice Up Your Feeds  Text-Based Meme Magic</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-maps-failure-guide-understanding-and-solving-downtime-problems/"><u>Apple Maps Failure Guide: Understanding and Solving Downtime Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-human-machine-bonds-with-sentiment-analysis/"><u>Bridging Human-Machine Bonds with Sentiment Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypassing-iphone-security-a-comprehensive-guide-to-5-alternative-approaches-not-involving-siri/"><u>Bypassing iPhone Security: A Comprehensive Guide to 5 Alternative Approaches Not Involving Siri</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-solutions-for-resolving-check-in-issues-with-ios-17-on-iphones/"><u>Comprehensive Solutions for Resolving 'Check In' Issues with iOS 17 on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-how-to-resolve-your-iphone-being-trapped-at-the-apple-emblem-screen/"><u>Effective Solutions: How to Resolve Your iPhone Being Trapped at the Apple Emblem Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-the-iphones-blue-screen-of-death-now-with-ios-18-support/"><u>Effective Solutions: Repairing the iPhone's 'Blue Screen of Death,' Now with iOS 18 Support</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficient-strategies-for-resolving-iphone-call-disruptions-verified-approaches/"><u>Efficient Strategies for Resolving iPhone Call Disruptions: Verified Approaches</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lags-in-resident-evil-village-on-pc-essential-troubleshooting-guide-for-gamers/"><u>Eliminate Lags in Resident Evil Village on PC: Essential Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/error-53-explained-simple-and-secure-solutions-inside/"><u>Error 53 Explained: Simple & Secure Solutions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/finding-the-perfect-bargain-a-step-by-step-guide-to-purchasing-pre-owned-iphones-models-5-6-7-8-x-on-the-web/"><u>Finding the Perfect Bargain: A Step-by-Step Guide to Purchasing Pre-Owned iPhones (Models 5, 6, 7, 8, X) on the Web</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-snappin-snapchat-5-swift-solutions-for-common-app-hiccups/"><u>Fix Snappin' Snapchat: 5 Swift Solutions for Common App Hiccups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-lost-connectivity-5-methods-for-strengthening-network-signals-after-ios-17-installation/"><u>Fix Your Lost Connectivity: 5 Methods for Strengthening Network Signals After iOS 17 Installation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-a-stuck-ipad-keyboard-in-10-easy-steps-comprehensive-repair-manual/"><u>Fixing a Stuck iPad Keyboard in 10 Easy Steps - Comprehensive Repair Manual</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-fixes-for-loading-issues-with-videos-on-ios-devices/"><u>Guaranteed Fixes for Loading Issues with Videos on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-successfully-performing-a-hard-reset-on-your-iphone-including-the-latest-iphone-11-pro/"><u>Guide: Successfully Performing a Hard Reset on Your iPhone, Including the Latest iPhone 11 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-overcome-failed-server-connection-6-effective-strategies-for-seamless-mail-retrieval/"><u>How to Overcome 'Failed Server Connection': 6 Effective Strategies for Seamless Mail Retrieval</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-respond-if-your-iphone-lights-up-but-shows-liquid-damage/"><u>How to Respond If Your iPhone Lights Up but Shows Liquid Damage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-iphones-vibration-feature-when-silenced-a-step-by-step-guide-for-problem-solving/"><u>How to Restore iPhone's Vibration Feature When Silenced: A Step-by-Step Guide for Problem Solving</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-swiftly-repair-an-apple-id-that-wont-work-effective-steps-for-immediate-fix/"><u>How to Swiftly Repair an Apple ID That Won't Work: Effective Steps for Immediate Fix</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix GT 10 Pro support - Forgotten screen lock.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-hacked-or-forgotten-passcode-unlock-it-like-a-pro-without-any-codes/"><u>IPad Hacked or Forgotten Passcode? Unlock It Like a Pro Without Any Codes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-through-fb-content-on-your-apple-media-hub-for-2024/"><u>Navigating Through FB Content on Your Apple Media Hub for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/no-fee-image-rehabilitation-programs-to-correct-and-restore-corrupted-photos-available-now/"><u>No-Fee Image Rehabilitation Programs to Correct and Restore Corrupted Photos Available Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcome-your-iphones-failed-update-dilemma-with-these-four-effective-solutions/"><u>Overcome Your iPhone's Failed Update Dilemma with These Four Effective Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-iphone-reboot-loop-step-by-step-guide-to-exit-dfu-recovery/"><u>Resolving iPhone Reboot Loop: Step-by-Step Guide to Exit DFU Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restore-the-vanished-app-store-on-ios-devices-with-proven-fixes/"><u>Restore the Vanished App Store on iOS Devices with Proven Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-nostalgia-install-and-run-fallout-3-seamlessly-on-your-new-windows-11-computer/"><u>Reviving Nostalgia: Install and Run Fallout 3 Seamlessly on Your New Windows 11 Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-ipados-nwidgets-expert-strategies-to-restore-functionality/"><u>Reviving Your iPadOS nWidgets: Expert Strategies to Restore Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257109-safe-and-simple-solutions-unstick-your-iphone-from-recovery-mode-in-just-3-steps/"><u>Safe and Simple Solutions: Unstick Your iPhone From Recovery Mode in Just 3 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-and-simple-solutions-unstick-your-iphone-from-recovery-mode-in-just-3-steps/"><u>Safe and Simple Solutions: Unstick Your iPhone From Recovery Mode in Just 3 Steps!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-recovery-mode-on-your-apple-device/"><u>Step-by-Step Guide: Activating Recovery Mode on Your Apple Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-your-iphone-using-icloud-backup-data/"><u>Step-by-Step Guide: Restoring Your iPhone Using iCloud Backup Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-forcing-an-iphone-to-power-off-featuring-techniques-for-iphone-11-pro-models/"><u>Step-by-Step Instructions for Forcing an iPhone to Power Off, Featuring Techniques for iPhone 11 Pro Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/struggling-with-ios-music-downloads-try-these-5-effective-remedies/"><u>Struggling with iOS Music Downloads? Try These 5 Effective Remedies.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-solutions-for-resolving-your-ipads-screen-mirroring-problem/"><u>Top 6 Solutions for Resolving Your iPad's Screen Mirroring Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-persistent-reboots-top-fixes-for-your-constantly-restarting-iphone/"><u>Troubleshooting Persistent Reboots: Top Fixes for Your Constantly Restarting iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-voicemail-failures-a-list-of-common-problems-and-full-proof-fixing-methods/"><u>Understanding iPhone Voicemail Failures: A List of Common Problems and Full-Proof Fixing Methods</u></a></li>
+</ul></div>

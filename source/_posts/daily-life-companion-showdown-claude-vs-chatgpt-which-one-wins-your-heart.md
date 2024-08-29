@@ -1,7 +1,7 @@
 ---
 title: "Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?"
-date: 2024-08-26 10:54:51
-updated: 2024-08-29 12:38:11
+date: 2024-08-28T04:09:49.532Z
+updated: 2024-08-29T04:09:49.532Z
 tags:
   - ios
 categories:
@@ -31,10 +31,16 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek / Midjourney
 
  If you already have an account for these LLMs, signing in and getting started is easy. Both of them also link seamlessly to Google Accounts, so you don't even need to create a brand-new account to use either of these apps. However, they do have the same limitations as their web app counterparts.
@@ -45,6 +51,9 @@ Dibakar Ghosh / How-To Geek / Midjourney
 
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Which App Performs Better?
 
 Close 
@@ -61,6 +70,9 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -69,10 +81,16 @@ Jason Dookeran/How-to-Geek
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Which Mobile App Is Better?
 
  As I outlined, my tests were done across a few metrics, but they're far from exhaustive. I learned that the ChatGPT app had some connectivity issues while on a Wi-Fi network, while Claude's app worked seamlessly and delivered usable results with low response times. Claude took the record for this iteration of the models with a convincing 3–0 win over ChatGPT. Both models and apps are constantly in development, so the issues I found are likely to change. However, given the current iteration of these two apps, Claude seems to be the clear winner.
@@ -91,3 +109,49 @@ Jason Dookeran/How-to-Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-virtual-hubs-for-scouting-sponsorship-opportunities-on-youtube/"><u>[New] In 2024, Virtual Hubs for Scouting Sponsorship Opportunities on Youtube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-plain-screenshot-software-for-windows-10/"><u>[Updated] In 2024, Plain Screenshot Software for Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-innovative-ideas-to-make-your-youtube-shorts-exceptional/"><u>2024 Approved  Innovative Ideas to Make Your YouTube Shorts Exceptional</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-interrupting-real-time-recording-on-quicktime/"><u>2024 Approved  Interrupting Real-Time Recording on QuickTime</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbots-unveiled-how-they-function-and-why-consumers-love-them/"><u>AI Chatbots Unveiled: How They Function & Why Consumers Love Them</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-chat-speed-enable-bing-ai-in-windows-11-menu-bar/"><u>Boost Chat Speed: Enable Bing AI in Windows 11 Menu Bar</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/breath-of-ice-the-winter-olympics-in-china-2022-for-2024/"><u>Breath of Ice  The Winter Olympics in China 2022 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-generations-old-games-with-dosbox-x/"><u>Bridging Generations: Old Games with DOSBox-X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-instagram-videos-that-stand-out-for-2024/"><u>Crafting Compelling Instagram Videos That Stand Out for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-picks-15-innovative-mounts-to-elevate-your-gopro/"><u>Expert Picks  15 Innovative Mounts to Elevate Your GoPro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-comprehensive-development-timeline-of-the-iconic-iphone/"><u>Exploring the Comprehensive Development Timeline of the Iconic iPhone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-stream-to-sound-an-audio-conversion-tool/"><u>FB Stream to Sound  An Audio Conversion Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-iphones-sync-issues-top-strategies-for-a-perfect-calendar-update/"><u>Fix Your iPhone's Sync Issues: Top Strategies for a Perfect Calendar Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/four-proven-methods-to-fix-iphone-software-update-issues-averting-the-update-unsuccessful-message/"><u>Four Proven Methods to Fix iPhone Software Update Issues: Averting the 'Update Unsuccessful' Message</u></a></li>
+<li><a href="https://os-tips.techidaily.com/garuda/"><u>Garuda -</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/goofy-unleashed-the-movie-an-examination-for-2024/"><u>Goofy Unleashed  The Movie – An Examination for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphones-wi-fi-connection-woes-effective-strategies-and-tips/"><u>How to Resolve iPhone's Wi-Fi Connection Woes - Effective Strategies and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-a-non-working-logitech-g933-headset-mic/"><u>How to Restore Functionality of a Non-Working Logitech G933 Headset Mic</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-speed-up-your-iphone-tips-for-a-swiftly-responsive-device/"><u>How to Speed Up Your iPhone: Tips for a Swiftly Responsive Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-your-iphone-from-randomly-skipping-songs-4-effective-techniques/"><u>How To Stop Your iPhone From Randomly Skipping Songs: 4 Effective Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620246698-immediate-remedies-for-muted-iphones-expert-tips-to-restore-volume-fast/"><u>Immediate Remedies for Muted iPhones: Expert Tips to Restore Volume Fast!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-for-newcomers-discover-these-essential-gopro-upgrades/"><u>In 2024, For Newcomers, Discover These Essential GoPro Upgrades</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locating-your-iphones-itunes-backup-file-and-changing-its-path-in-windows-or-macos/"><u>Locating Your iPhone's iTunes Backup File & Changing Its Path in Windows or macOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/missing-iphone-images-swift-recovery-strategies-inside/"><u>Missing iPhone Images? Swift Recovery Strategies Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-for-your-non-charging-iphone-effortless-solutions/"><u>Quick Fixes for Your Non-Charging iPhone: Effortless Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-rpc-issues-on-windows-key-strategies/"><u>Resolving RPC Issues on Windows: Key Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-a-invalid-sim-error-on-your-iphone-comprehensive-fix-guide/"><u>Solutions for a 'Invalid SIM' Error on Your iPhone: Comprehensive Fix Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-problem-of-non-functional-iphone-screen-reflection-on-tvs-and-desktop-systems-a-comprehensive-guide/"><u>Solving the Problem of Non-Functional iPhone Screen Reflection on TVs and Desktop Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-internet-sacred-text-archive-poetic-edda-skaldskaparmal-volsunga-saga-and-helgi-hundingsbane-online-available-at-(httpwwwsacred-textscomneueddh)/"><u>The Internet Sacred Text Archive – Poetic Edda: Skáldskaparmál, Volsunga Saga & Helgi Hundingsbane [Online] Available At: <http://www.sacred-texts.com/neu/eddh></u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-choice-of-chrome-vpns-and-quick-installation-tips/"><u>The Ultimate Choice of Chrome VPNs & Quick Installation Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-placing-multiple-markers-on-your-google-map/"><u>The Ultimate How-To for Placing Multiple Markers on Your Google Map</u></a></li>
+<li><a href="https://os-tips.techidaily.com/theoi-project-phoenix-online-available-at-(httpwwwtheoicomtextgreekmythology21html)/"><u>Theoi Project – Phoenix [Online] Available At: <http://www.theoi.com/Text/GreekMythology21.html></u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubled-by-unsending-texts-discover-why-and-rapid-fixes/"><u>Troubled by Unsending Texts? Discover Why and Rapid Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-making-your-iphone-notes-synchronize-perfectly-with-your-pc-or-mac/"><u>Troubleshooting Guide: Making Your iPhone Notes Synchronize Perfectly with Your PC or Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-optimal-ios-health-apps-comparing-drfone-repair-tools-with-exceptional-alternatives/"><u>Ultimate Guide to Optimal iOS Health Apps - Comparing Dr.Fone Repair Tools with Exceptional Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-resolving-issues-when-your-iphone-gets-trapped-in-audio-output-modes/"><u>Ultimate Guide: Resolving Issues When Your iPhone Gets Trapped in Audio Output Modes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-steps-to-remove-your-ai-assistant-from-snapchat/"><u>Ultimate Guide: Steps to Remove Your AI Assistant From Snapchat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/what-lies-beneath-instagram-story-perceptions-for-2024/"><u>What Lies Beneath  Instagram Story Perceptions for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620254672-when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques!</u></a></li>
+</ul></div>

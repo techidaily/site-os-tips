@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Productivity: A Step-by-Step Guide on Setting Up Your iPad as a Secondary Display for Windows and macOS Computers"
-date: 2024-08-28 17:28:59
-updated: 2024-08-29 12:22:22
+date: 2024-08-28T04:12:07.559Z
+updated: 2024-08-29T04:12:07.559Z
 tags:
   - ios
 categories:
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Download "Duet Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-16-34.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After installing the apps, you'll need to sign in to both with the same account.
 
 ![Sign in to "Duet Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/IMG_0049.png) 
@@ -42,16 +45,25 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Duet Display extending displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/PXL_20230518_192447239.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  You'll probably notice that Windows has no idea where the iPad display is in relation to your PC. To fix that, right-click on the desktop and select "Display Settings."
 
 ![Select "Display Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-45.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You should see two screens--one representing your main computer monitor (1), and the other representing your iPad (2). Click and drag the iPad screen to position it as it's positioned in real life, then click "Apply."
 
 ![Move display and click "Apply."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  This is also where you can choose to "Extend These Displays" or "Duplicate These Displays," which is screen mirroring.
 
 ![How to use Displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-29-46.png) 
@@ -60,6 +72,9 @@ Joe Fedewa / How-To Geek
 
 ![Select the "Settings" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-28-38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  There are a number of settings you may be interested in here. The one we're interested in is "Enable Duet Air." This will allow you to connect to your iPad wirelessly from this point on.
 
 ![Click "Enable Duet Air."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-30-37.png) 
@@ -82,14 +97,23 @@ Joe Fedewa / How-To Geek
 
 ![Hover over the full-screen button and choose your iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
  If you want to extend your display without moving a specific app to the iPad, open the [Control Center](https://extra-resources.techidaily.com/critical-review-of-superior-stream-platforms/) and click the "Screen Mirroring" button.
 
 ![Go to "Screen Mirroring" in the Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now select your iPad from the "Mirror or Extend To" section.
 
 ![Select your iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  To customize how the iPad is oriented and used as an external display, open Settings on your Mac and go to the "Displays" section. The iPad will be listed just like any other secondary monitor.
 
 ![iPad in the Mac display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-4.png) 
@@ -120,3 +144,46 @@ Related: [How to Use Your iPad as an External Mac Display With Sidecar](https://
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-from-pc-to-tablet-master-recording-hulu-across-all-platforms/"><u>[New] 2024 Approved  From PC to Tablet  Master Recording Hulu Across All Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-story-stealth-mode-accessible-for-everyone-without-link-sharing/"><u>[New] In 2024, Instagram Story Stealth Mode  Accessible for Everyone without Link Sharing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-drive-engagement-tips-for-going-viral-on-instagram/"><u>[Updated] Drive Engagement  Tips for Going Viral on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>2024 Approved  Game On, Pioneer  Top Choices in Windows 10’S New Games and Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>2024 Approved  The Ultimate Breakdown  Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/airdrop-made-simple-transfer-files-seamlessly-across-ios-and-macos-devices/"><u>AirDrop Made Simple - Transfer Files Seamlessly Across iOS & macOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artisanaiphotostudio-seamless-image-magic/"><u>ArtisanAiPhotoStudio  Seamless Image Magic</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-edge-40-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Edge 40? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-7-fixes-for-resolving-weak-or-lost-cellular-connection-on-your-iphone/"><u>Best 7 Fixes for Resolving Weak or Lost Cellular Connection on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-step-by-step-process-for-resetting-your-mac-back-to-original-setup/"><u>Complete Guide: Step-by-Step Process for Resetting Your Mac Back to Original Setup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-your-hidden-wi-fi-passwords-quickly-top-3-methods-for-mac-users/"><u>Discover Your Hidden Wi-Fi Passwords Quickly: Top 3 Methods for Mac Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-to-correct-iphone-connection-problems-with-your-apple-id/"><u>Easy Steps to Correct iPhone Connection Problems with Your Apple ID</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-fix-your-mac-not-shutting-down-correctly-as-of-202/"><u>Effective Strategies: How to Fix Your Mac Not Shutting Down Correctly as of 202#</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-mastering-zipping-and-unzipping-filesfolders-on-your-mac/"><u>Essential Guide: Mastering Zipping & Unzipping Files/Folders on Your Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-responsive-quicktime-playback-on-macos-devices/"><u>Fixing Non-Responsive QuickTime Playback on macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/foolproof-fixes-for-the-iphone-camera-icon-not-showing-problem/"><u>Foolproof Fixes for the 'iPhone Camera Icon Not Showing' Problem</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-f14-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy F14 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-color-expert-tips-for-troubleshooting-a-black-screened-mac/"><u>How to Restore Color: Expert Tips for Troubleshooting a Black-Screened Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-location-services-on-your-iphone-simple-instructions-for-iphone-768xxrxs-users/"><u>How to Stop Location Services on Your iPhone: Simple Instructions for iPhone 7/6/8/X/XR/XS Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/implementing-cross-browser-compatibility-in-web-development-for-2024/"><u>Implementing Cross-Browser Compatibility in Web Development for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-video-integration-into-blog-posts-and-essays/"><u>In 2024, Effortless Video Integration Into Blog Posts & Essays</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-t2x-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo T2x 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-traffic-lure-top-artisan/"><u>In 2024, Traffic Lure Top Artisan</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/latest-ios-upgrade-a-step-by-step-guide-on-keeping-your-ipad-current/"><u>Latest iOS Upgrade: A Step-by-Step Guide on Keeping Your iPad Current</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-tricks-to-restore-your-iphones-unresponsive-home-button/"><u>Simple Tricks to Restore Your iPhone's Unresponsive Home Button</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-ways-to-bypass-your-iphone-password-needs-instantly/"><u>Simple Ways To Bypass Your iPhone Password Needs Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-resolving-non-responsive-imovie-issues/"><u>Solutions for Resolving Non-Responsive iMovie Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphones-sluggish-charge-expert-advice-and-effective-fixes/"><u>Solving iPhone's Sluggish Charge: Expert Advice and Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/speeding-up-safari-how-to-restore-swift-browsing-speeds-on-your-mac/"><u>Speeding Up Safari: How to Restore Swift Browsing Speeds on Your Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-proven-techniques-to-resolve-macos-wont-power-off-problem/"><u>Top 6 Proven Techniques to Resolve macOS Won't Power Off Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-proven-methods-to-resolve-your-macs-sudden-black-screen-problem/"><u>Top 7 Proven Methods to Resolve Your Mac's Sudden Black Screen Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-effective-solutions-for-resolving-imessage-activation-issues/"><u>Top 8 Effective Solutions for Resolving iMessage Activation Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-faqs-understanding-how-your-iphone-handles-voice-messages/"><u>Top FAQs: Understanding How Your iPhone Handles Voice Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-quicktime-issues-solutions-for-mac-users/"><u>Troubleshooting QuickTime Issues: Solutions for Mac Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-wi-fi-issues-fixing-connectivity-problems-on-your-iphone/"><u>Troubleshooting Wi-Fi Issues: Fixing Connectivity Problems on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-preserve-your-memories-secure-mac-photo-storage-techniques/"><u>Ultimate Guide: Preserve Your Memories - Secure Mac Photo Storage Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-reason-behind-macs-persistent-icloud-password-prompts-solutions-explored/"><u>Understanding the Reason Behind Mac's Persistent iCloud Password Prompts: Solutions Explored</u></a></li>
+</ul></div>

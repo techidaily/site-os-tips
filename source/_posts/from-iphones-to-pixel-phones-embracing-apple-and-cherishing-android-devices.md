@@ -1,7 +1,7 @@
 ---
 title: From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices
-date: 2024-08-26 18:44:51
-updated: 2024-08-29 10:12:12
+date: 2024-08-28T04:10:58.160Z
+updated: 2024-08-29T04:10:58.160Z
 tags:
   - ios
 categories:
@@ -33,6 +33,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  I’ve Tried the iPhone Twice
 
  It's that dalliance with Apple Watches that had me butting heads with iPhone. You see, while I was getting along more or less with my Galaxy Watch, my wife convinced me that I should try an Apple Watch, as she loves hers. That's fine, but since Apple has decided that the Watch is strictly an iPhone accessory, I couldn't use my iPad or Mac with it. She had an old iPhone 11 Pro lying around, so we could use that.
@@ -43,10 +46,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I picked up a 1TB iPhone 14 Pro, and sure enough, it was a much better phone, but Apple had addressed pretty much none of the things that made it impossible to get along with the device, and honestly, I don't think they could, because most of it might be in the DNA of the iPhone itself.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  My Phone Can’t Be This Locked Down
 
 ![AI generated isometric pixel art representation of an apple iphone inside a walled garden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_isometric_pixel_art_representation_of_an_apple__d1c8c3ba-aac6-407f-83fd-cdea5c783184_3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
  I need my iPad to be like a toaster or a TV. I don't want to tinker with it, it just needs to work. My Mac is already just as open to software as a Windows or Linux machine. Though macOS might complain about software that's not from the Mac App store or digitally signed, it will still begrudgingly let you install it.
@@ -59,12 +68,19 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  People often say that phones are all the same these days, but that's far from the truth. Hold any two different phones in your hand and the exact shape, weight, materials, and balance will make them feel miles apart. It is this combination of factors that just sits wrong for me when it comes to the iPhone.
 
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
 
  For [flagship phones](https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/) in particular, photos matter. By all accounts, iPhones offer some of the best camera equipment and photos money can buy. However, smartphone photography is just as much about [software post-processing](https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/) as it is about the hardware, and I just can't stand the look of iPhone photos. It's quite hard to pin down why exactly, and this is clearly subjective, but iPhone photos feel a little soulless to me. Maybe the word is "overprocessed", but I have no doubt that the photos from my S22 Ultra are no less processed, just differently.
@@ -77,6 +93,9 @@ Corbin Davenport / How-To Geek
 
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I’m Willing to Try Again
 
  For the two-and-a-bit years I was a daily iPhone users I can say that there were glimmers of greatness. I definitely loved having all of my Apple devices seamlessly work together and there were use cases I had never considered before. I definitely miss that aspect of using the iPhone, which is a much better device as part of the Apple ecosystem than as a standalone phone.
@@ -97,3 +116,43 @@ Corbin Davenport / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>[Updated] Achieve Peak Performance  Prime Methods for Zoom Conversion Mastery</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-circular-captures-iphone-filmmaking-tips-for-social-media/"><u>2024 Approved  Circular Captures  IPhone Filmmaking Tips for Social Media</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screencasting-simplified-adopting-the-ezvide-method/"><u>2024 Approved  Screencasting Simplified  Adopting the EZvide Method</u></a></li>
+<li><a href="https://os-tips.techidaily.com/8-reliable-tricks-to-resolve-your-iphone-alarm-issues-expert-tips-and-techniques/"><u>8 Reliable Tricks to Resolve Your iPhone Alarm Issues - Expert Tips and Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579707441-accelerate-latvian-skills-10-minutes-per-day-maximum-effort/"><u>Accelerate Latvian Skills - 10 Minutes Per Day, Maximum Effort!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/airdrop-made-simple-transfer-files-seamlessly-across-ios-and-macos-devices/"><u>AirDrop Made Simple - Transfer Files Seamlessly Across iOS & macOS Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/audible-overdrive-best-5-programs-for-higher-than-100-pc-audio/"><u>Audible Overdrive: Best 5 Programs for Higher-Than-100%% PC Audio</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-7-fixes-for-resolving-weak-or-lost-cellular-connection-on-your-iphone/"><u>Best 7 Fixes for Resolving Weak or Lost Cellular Connection on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boosting-iphone-signal-strength-expert-advice-and-effective-techniques-to-combat-weak-connectivity/"><u>Boosting iPhone Signal Strength: Expert Advice and Effective Techniques to Combat Weak Connectivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-retrieve-data-from-your-iphone-backups-using-itunes-or-icloud/"><u>Complete Guide: How to Retrieve Data From Your iPhone Backups Using iTunes or iCloud</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/creative-conceptions-selecting-the-finest-10-free-macdrawers-for-2024/"><u>Creative Conceptions  Selecting the Finest 10 FREE MacDrawers for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-to-correct-iphone-connection-problems-with-your-apple-id/"><u>Easy Steps to Correct iPhone Connection Problems with Your Apple ID</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-for-iphones-unable-to-complete-ios-1817-update-process/"><u>Effective Solutions for iPhones Unable to Complete iOS 18/17 Update Process</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effectiveness-of-tenorshare-reiboot-insights-from-the-latest-2024-analysis/"><u>Effectiveness of Tenorshare ReiBoot: Insights From the Latest 2024 Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-how-to-resolve-typical-iphone-issues-with-easy-troubleshooting-steps/"><u>Essential Guide: How to Resolve Typical iPhone Issues with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tutorial-effortless-ways-to-access-or-disconnect-from-ipods-recovery-environment/"><u>Expert Tutorial: Effortless Ways to Access or Disconnect From iPod's Recovery Environment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guidelines-for-safely-powering-down-your-iphone-when-it-fails-to-shut-off/"><u>Guidelines for Safely Powering Down Your iPhone When It Fails to Shut Off</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-iphone-display-issues-essential-guidelnces-and-hacks/"><u>How To Fix iPhone Display Issues: Essential Guidelnces & Hacks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-guide-seamlessly-entering-and-exiting-recovery-mode-on-your-ipad/"><u>How To Guide: Seamlessly Entering & Exiting Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-location-services-on-your-iphone-simple-instructions-for-iphone-768xxrxs-users/"><u>How to Stop Location Services on Your iPhone: Simple Instructions for iPhone 7/6/8/X/XR/XS Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-poco-c65-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Poco C65 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-full-analysis-of-camstudio-screen-capture-tech/"><u>In 2024, Full Analysis of CamStudio Screen Capture Tech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/latest-ios-upgrade-a-step-by-step-guide-on-keeping-your-ipad-current/"><u>Latest iOS Upgrade: A Step-by-Step Guide on Keeping Your iPad Current</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-online-vertical-video-editing-made-easy-top-picks/"><u>New 2024 Approved Online Vertical Video Editing Made Easy Top Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcoming-issues-with-imessage-delivery-a-step-by-step-guide/"><u>Overcoming Issues with iMessage Delivery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/phoenix/"><u>Phoenix -</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-tricks-to-restore-your-iphones-unresponsive-home-button/"><u>Simple Tricks to Restore Your iPhone's Unresponsive Home Button</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-ways-to-bypass-your-iphone-password-needs-instantly/"><u>Simple Ways To Bypass Your iPhone Password Needs Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-instagram-cant-refresh-feed-issue-on-smartphones-a-comprehensive-guide/"><u>Solving the 'Instagram Can't Refresh Feed' Issue on Smartphones: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-mastering-iphones-dfu-mode-learn-entrance-and-exiting-techniques/"><u>Step-by-Step Guide to Mastering iPhone's DFU Mode - Learn Entrance and Exiting Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-guaranteed-fixes-for-iphone-reminder-app-malfunctions/"><u>Top 5 Guaranteed Fixes for iPhone Reminder App Malfunctions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-effective-solutions-for-resolving-imessage-activation-issues/"><u>Top 8 Effective Solutions for Resolving iMessage Activation Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-unlocking-a-zte-device/"><u>Top Strategies for Successfully Unlocking a ZTE Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-imessage-delivery-issues-comprehensive-guide-and-effective-fixes/"><u>Troubleshooting iMessage Delivery Issues: Comprehensive Guide and Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-10-iphone-customization-apps-for-a-gorgeous-display/"><u>Ultimate Selection of 10 iPhone Customization Apps for a Gorgeous Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-seamless-pc-management-with-our-favorite-15-free-uninstaller-utilities/"><u>Unlock Seamless PC Management with Our Favorite 15 Free Uninstaller Utilities</u></a></li>
+</ul></div>
