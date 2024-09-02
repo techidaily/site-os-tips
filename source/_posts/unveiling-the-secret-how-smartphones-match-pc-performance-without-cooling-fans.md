@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans"
-date: 2024-08-27 23:47:58
-updated: 2024-08-29 11:49:45
+date: 2024-09-01T06:55:38.221Z
+updated: 2024-09-02T06:55:38.221Z
 tags:
   - ios
 categories:
@@ -28,22 +28,34 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Mobile phones grow more powerful every year. A premium phone is far more powerful than a midrange PC and even has stronger graphics processing than an ultrabook with Intel-integrated graphics. Yet despite all that power, have you ever noticed how your phone lacks a fan? Why is that?
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Moving Parts Need More Space and Can Break
 
  Phone makers have spent years making their devices as thin as possible, and these handsets would not be just a few millimeters thick if they had to account for fans. Fans are bulky, and they need space to move. They also break pretty quickly if put under abuse.
 
  What qualifies as abuse? Well, pretty much anything you do with a phone. Tossing it on the couch. Strapping it to your wrist as you go for a jog. Knocking it out of bed and onto the floor, case or no case. Everything else in your phone may survive just fine, but your fan would start rattling. It may still do its job, just noisily. Or it may become bad at its job, leading everything else to gradually overheat and fail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Fans Don't Like Small Dark Spaces
 
  Devices that depend on fans for cooling generally don’t like to be kept in tight, cramped quarters. Rest your laptop on a pillow while doing intense work and see how quickly things start to bog down.
 
  Now imagine carrying a smaller version of your laptop in your pocket. If it didn’t get hot enough to immediately attract your attention, it would probably just shut down at some point. Battery life will surely take a hit. A purse is better, but probably not by much. After all, a laptop gets along well-enough with a messenger bag only because it’s either off or very nearly so.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  ​Mobile CPUs Use Less Power and Create Less Heat
 
 ![Snapdragon 8 Gen 3 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-8-gen-3-hero.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 Qualcomm
 
  When trying to determine how energy efficient your CPU is, there’s one key term you’re looking for: [Thermal Design Power](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/). TDP is usually listed in watts and shows the maximum amount of heat the CPU is designed to generate when running under a full load. This doesn't tell you how much energy your device is pulling every hour, but it does give you the upper limit of what to expect.
@@ -54,6 +66,9 @@ Qualcomm
 
  How do phone CPUs manage to be both powerful and efficient? If you want to get into the tehnical weeds, check out this report from [Cadence PCB Designs](https://resources.pcb.cadence.com/blog/3-thermal-management-approaches-for-your-smartphone-2). Methods include temperature aware scheduling (slowing down hot processors in favor of cool ones), traffic throttling (directing network traffic through the chip in a way that avoids hotspots), and clock gating (stopping processor logic for a few microseconds at a time). But that's just scratching the surface.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ​Mobile Apps Generate Less Heat, to Reduce Need for Cooling
 
  Software may seem not to occupy physical space, but it does, in the form of energy. Demanding software has higher energy requirements. So does poorly-written code. If an app pings the network incessantly, constantly requiring background processes to wake up from sleep, then it’s causing your device to use more energy.
@@ -64,6 +79,9 @@ Qualcomm
 
 ![A close-up image of an aluminum heatsink mounted on a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/shutterstock_1704910018.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 [Kusalodom/Shutterstock](https://www.shutterstock.com/image-photo/aluminum-heatsink-on-electronics-circuit-board-1704910018)
 
  Fans are a form of active cooling. [Smartphones rely on passive cooling](https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-your-first-time-streaming-to-youtube/), the exchange of heat using only the conductivity difference between materials without any help from mechanical components. In simpler terms, things can cool off without anything needing to move. Running the AC to cool down your home is active cooling. Leaving a window open is passive cooling. Phones generally use metal plates between electrical components and the design of their outer bodies to dissipate heat.
@@ -96,3 +114,38 @@ Qualcomm
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-crafting-engaging-content-for-facebook-live/"><u>[Updated] 2024 Approved  Crafting Engaging Content for Facebook Live</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>[Updated] 2024 Approved  Crafting the Perfect Visual Identity  Podcast Covers Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-srt-to-xmlssa-transformation-guide/"><u>[Updated] Comprehensive SRT to XML/SSA Transformation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-compact-cameras-for-1000-or-less-4k/"><u>Best Compact Cameras for $1000 or Less (4K)</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-optimization-guide-addressing-frames-per-second-and-stutters/"><u>Dragon's Dogma 2 Optimization Guide: Addressing Frames Per Second & Stutters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-switching-from-heic-picture-files-to-jpgs-for-iphone-and-ipad-users/"><u>Easy Guide: Switching From HEIC Picture Files to JPGs for iPhone & iPad Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-guide-setting-up-a-secure-vpn-connection-on-your-ipad/"><u>Effortless Guide: Setting Up a Secure VPN Connection on Your iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoying-portable-steam-games-a-world-beyond-the-steam-deck/"><u>Enjoying Portable Steam Games: A World Beyond the Steam Deck</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-to-nomad-tracker-cards-the-ultimate-wallet-companion/"><u>Essential Guide to Nomad Tracker Cards: The Ultimate Wallet Companion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-customizing-your-apple-watchs-activity-log-with-offline-workouts/"><u>Expert Tips: Customizing Your Apple Watch's Activity Log with Offline Workouts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-enhanced-privacy-features-in-the-latest-update-of-google-maps-for-ios-and-android-devices/"><u>Explore Enhanced Privacy Features in the Latest Update of Google Maps for iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-access-to-apple-developer-beta-versions-risky-move-or-great-opportunity/"><u>Free Access to Apple Developer Beta Versions: Risky Move or Great Opportunity?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-upcoming-iphone-tap-to-pay-functionality-through-external-app-developers/"><u>Get Ready! Upcoming iPhone Tap-to-Pay Functionality Through External App Developers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-the-iphone-handle-urgent-alerts-and-reminders/"><u>How Does the iPhone Handle Urgent Alerts and Reminders?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/impact-of-always-on-display-on-smartphone-battery-life-whats-the-real-cost/"><u>Impact of Always-On Display on Smartphone Battery Life: What's the Real Cost?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-itel-p40plus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Itel P40+ Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a14-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A14 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mac-acoustics-for-aspiring-artists/"><u>In 2024, Mac Acoustics for Aspiring Artists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-uncover-recent-instagram-unfollow-patterns/"><u>In 2024, Uncover Recent Instagram Unfollow Patterns</u></a></li>
+<li><a href="https://os-tips.techidaily.com/infinacores-t3-unveiled-compact-versatile-3-in-1-charging-station-review-for-on-the-go-power-needs-and-design-flexibility/"><u>Infinacore's T3 Unveiled: Compact, Versatile 3-in-1 Charging Station Review for On-the-Go Power Needs & Design Flexibility</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-launch-insights-unveiling-the-date-device-support-and-exciting-updates/"><u>IOS 18 Launch Insights - Unveiling the Date, Device Support & Exciting Updates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-version-171-release-advanced-airdrop-features-reworked-music-functionality-and-elevated-standby-mode-performance-upgrades-unveiled/"><u>IOS Version 17.1 Release: Advanced AirDrop Features, Reworked Music Functionality, and Elevated Standby Mode Performance Upgrades Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-photography-tips-mastering-the-art-of-editing-with-the-built-in-photos-app/"><u>IPhone Photography Tips: Mastering the Art of Editing with the Built-In Photos App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/kid-friendly-tunes-repurposing-older-cellphones-as-fun-music-and-podcast-hubs/"><u>Kid-Friendly Tunes: Repurposing Older Cellphones as Fun Music & Podcast Hubs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lower-cost-repairs-await-apples-newest-iphone-the-15-pro/"><u>Lower Cost Repairs Await Apple's Newest iPhone: The 15 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/meet-the-latest-addition-to-apples-lineup-the-vibrant-iphone-14-in-sunny-yellow/"><u>Meet the Latest Addition to Apple's Lineup: The Vibrant iPhone 14 in Sunny Yellow</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-ipad-feature-introducing-the-built-in-calculator-with-ipados-18-upgrade/"><u>New iPad Feature: Introducing the Built-In Calculator with iPadOS 18 Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-iphone-enhancements-and-journaling-with-apples-latest-ios-172-software-upgrade/"><u>New iPhone Enhancements & Journaling with Apple's Latest iOS 17.2 Software Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-kitchen-companion-plugable-pt-stand1-a-dynamic-rotating-ipad-stand/"><u>Revolutionary Kitchen Companion: Plugable PT-STAND1 - A Dynamic, Rotating iPad Stand</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-audio-processing-in-windows-media-player-for-2024/"><u>Streamlined Audio Processing in Windows Media Player for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
+</ul></div>

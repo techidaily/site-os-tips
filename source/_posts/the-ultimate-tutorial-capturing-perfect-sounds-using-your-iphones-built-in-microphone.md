@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Capturing Perfect Sounds Using Your iPhone's Built-In Microphone"
-date: 2024-08-27 16:24:22
-updated: 2024-08-29 11:19:44
+date: 2024-09-01T06:54:22.335Z
+updated: 2024-09-02T06:54:22.335Z
 tags:
   - ios
 categories:
@@ -38,12 +38,18 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Tap the red button in Voice Memos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-record-audio-iphone.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your iPhone is now recording the audio with its built-in microphone. Feel free to sing a song, make a note, or speak whatever it is that you want to record; your iPhone is [listening to you](https://instagram-video-files.techidaily.com/updated-the-ultimate-selection-of-6-pioneering-instagram-reel-apps/).
 
  When you are done and want to stop the recording, tap the large red button at the bottom of Voice Memos.
 
 ![Tap the stop red button in Voice Memos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-stop-audio-recording.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  Your audio recording is now saved in the app. To play it, tap the recording and then tap the play icon.
 
 ![Tap the "Play" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-play-button-1.png) 
@@ -60,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
  Your recording now uses your newly specified name.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  Share a Voice Recording on iPhone
 
  You can share your Voice Memos recordings using the [iPhone's standard share menu](https://screen-mirror.techidaily.com/overview-of-the-best-motorola-moto-e13-screen-mirroring-app-drfone-by-drfone-android/). This means you can share your recordings with [the Files app](https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-105-classic-drfone-by-drfone-virtual-android/), Google Drive, and even send them via email to someone.
@@ -68,10 +77,16 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Tap the three-dot menu icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-three-dot-button-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  From the menu that appears, select "Share."
 
 ![Tap the "Share" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-share-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your iPhone's standard share menu will open. Here, select where you'd like to share your recording.
 
 ![The standard iPhone "Share" options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/share-options.png) 
@@ -88,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Notification that the recording has been moved to recently deleted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/recording-moved-to-recently-deleted.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  If you'd like to get rid of your recordings permanently without them staying for another 30 days, then tap the "Recently Deleted" folder on Voice Memos' main screen.
 
 ![Tap "Recently Deleted."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/recently-deleted.png) 
@@ -98,12 +116,18 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Tap the "Delete" button in the bottom right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-delete-button-again.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  Make sure you definitely want to remove the recording, then select "Delete Forever" in the menu that opens at the bottom of the screen. 
 
  You cannot restore your recordings once they are permanently deleted. Make sure you really want to delete them before tapping "Delete Forever"
 
 ![Tap "Delete Forever" when you're sure you want an audio file gone for good.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/delete-forever.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  Your recordings are now deleted.
 
  Voice Memos is an extremely useful app to make those quick audio recordings. It's a perfect tool for when you want to note something but you can't type. Enjoy!
@@ -126,3 +150,42 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-inverting-instagram-videos-step-by-step-guide/"><u>[New] 2024 Approved  Inverting Instagram Videos  Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-premier-selection-the-best-11-soundstreamer-devices/"><u>[New] 2024 Approved  Premier Selection  The Best 11 Soundstreamer Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023/"><u>[New] Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-virtual-realms-pros-and-cons/"><u>[Updated] Evaluating Virtual Realms  Pros and Cons</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-maximizing-your-gaming-with-xbox-screenshots/"><u>[Updated] In 2024, Maximizing Your Gaming with Xbox Screenshots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tier-strategies-mastering-screens-with-adobe-captivate-for-2024/"><u>[Updated] Top-Tier Strategies  Mastering Screens with Adobe Captivate for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-clarity-efficient-background-erasure-in-affinity-photo/"><u>[Updated] Unleash Clarity  Efficient Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-optimal-transfer-methods-iphone-camera-roll-to-snapchat-journey/"><u>2024 Approved  Optimal Transfer Methods  IPhone Camera Roll to Snapchat Journey</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automatic-nsfw-filtering-techniques-for-ios-and-macos-devices/"><u>Automatic NSFW Filtering Techniques for iOS and macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-airpodsairpods-pros-charging-time-with-these-7-essential-tips/"><u>Boost Your AirPods/AirPods Pro's Charging Time with These 7 Essential Tips!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-gopro-video-quality-max-360-meets-hero-11/"><u>Dissecting GoPro Video Quality  Max 360 Meets Hero 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-live-streaming-techniques-on-mobile/"><u>Facebook Live Streaming Techniques on Mobile</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-closing-the-distance-zoom-in-for-a-clearer-picture/"><u>In 2024, Closing the Distance  Zoom in for a Clearer Picture</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-se-2020-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone SE (2020)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-determining-altitude-accurately-with-your-iphone/"><u>Step-by-Step Guide: Determining Altitude Accurately with Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-locating-saved-documents-on-your-ios-device/"><u>Step-by-Step Guide: Locating Saved Documents on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-automatic-repeat-alerts-on-your-ios-devices/"><u>Step-by-Step Guide: Setting up Automatic Repeat Alerts on Your iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sync-your-maciphoneipad-display-with-apple-tv-simple-mirroring-tutorial/"><u>Sync Your Mac/iPhone/iPad Display with Apple TV: Simple Mirroring Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-benefits-of-extending-the-lifespan-between-each-iphone-upgrade/"><u>The Benefits of Extending the Lifespan Between Each iPhone Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-latest-iphones-get-an-upgrade-with-qi2-wireless-charge-capability/"><u>The Latest iPhones Get an Upgrade with Qi2 Wireless Charge Capability</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-significance-of-enhanced-thread-support-in-apples-latest-iphone-15-pro/"><u>The Significance of Enhanced Thread Support in Apple's Latest iPhone 15 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/tired-of-constant-review-requests-on-your-iphone-and-mac-apps-learn-the-simple-steps-to-disable-them/"><u>Tired of Constant Review Requests on Your iPhone & Mac Apps? Learn the Simple Steps to Disable Them</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-4-desired-functionalities-for-leveraging-my-synthetic-voice-on-ios-devices-by-apple/"><u>Top 4 Desired Functionalities for Leveraging My Synthetic Voice on iOS Devices by Apple</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-fixes-for-eliminating-in-game-lags-in-forza-horizon-5-gaming-experience/"><u>Top Fixes for Eliminating In-Game Lags in Forza Horizon 5 Gaming Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-stand-picks-find-your-perfect-match/"><u>Top-Rated iPad Stand Picks : Find Your Perfect Match</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-small-form-factor-pc-cases-the-ultimate-list-for-2eetuy-2024/"><u>Top-Rated Small Form Factor PC Cases - The Ultimate List for 2Eetuy 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-browsing-with-vivaldi-for-iphoneipad-unveiling-stylish-themes-and-powerful-dark-mode-options/"><u>Transform Your Browsing with Vivaldi for iPhone/iPad - Unveiling Stylish Themes & Powerful Dark Mode Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-how-to-resolve-iphones-message-failed-to-download-from-server-issue/"><u>Troubleshooting Guide: How to Resolve iPhone's 'Message Failed to Download From Server' Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-secret-how-an-affordable-stand-is-essential-for-your-smartphone/"><u>Unlocking the Secret: How an Affordable Stand Is Essential for Your Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-feature-pay-with-a-tap-using-third-party-ios-applications/"><u>Upcoming Feature: Pay with a Tap Using Third-Party iOS Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-solutions-how-apple-addresses-iphone-alarm-vulnerabilities/"><u>Upcoming Solutions: How Apple Addresses iPhone Alarm Vulnerabilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcycle-your-aged-phones-into-awesome-audio-gadgets-for-childrens-entertainment/"><u>Upcycle Your Aged Phones Into Awesome Audio Gadgets for Children's Entertainment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/waze-integrates-leading-safety-functionality-into-google-maps/"><u>Waze Integrates Leading Safety Functionality Into Google Maps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-siri-falls-short-effective-strategies-for-improved-digital-assistance/"><u>Why Siri Falls Short: Effective Strategies for Improved Digital Assistance</u></a></li>
+</ul></div>

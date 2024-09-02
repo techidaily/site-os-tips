@@ -1,7 +1,7 @@
 ---
 title: Unlock Your iPhone's Hidden White Noise Features for Better Sleep
-date: 2024-08-26 20:37:35
-updated: 2024-08-29 10:51:23
+date: 2024-09-01T06:54:33.272Z
+updated: 2024-09-02T06:54:33.272Z
 tags:
   - ios
 categories:
@@ -26,12 +26,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The good news is you can make a Shortcut to drastically improve the experience. The benefit is you don't need to rely on a third-party app that could have annoying ads or stream over the internet all night.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Play Sleep Sounds on iPhone
 
  You'll find these sounds in your iPhone's Accessibility settings. First, open the Settings app on your iPhone or iPad.
 
 ![Tap the &quot;Settings&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-23-05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
  Scroll down and select "Accessibility."
 
 ![Select &quot;Accessibility.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-23-49.png) 
@@ -44,6 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap &quot;Background Sounds.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-26-46.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  To turn on the sounds, simply toggle the switch at the top of the screen.
 
 ![Toggle on &quot;Background Sounds.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-33-04.png) 
@@ -62,6 +71,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  That's all there is to it. This is a nice feature, but it's not easy to get to. Let's fix that.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Create an iPhone Background Sounds Shortcut
 
  We'll be utilizing the [iPhone's Shortcuts app](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/) to create a shortcut that can toggle the Background Sounds on and off directly from the home screen.
@@ -70,6 +82,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the &quot;Shortcuts&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-41-13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, tap the plus icon in the top right to create a new shortcut.
 
 ![Tap the plus icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-41-54.png) 
@@ -82,14 +97,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select &quot;Set Background Sounds.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-43-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, tap "Turn" in the text box and switch it to "Toggle."
 
 ![Tap &quot;Turn&quot; and switch it to &quot;Toggle.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-44-33.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now we can rename the shortcut and customize the color and icon. Tap the drop-down arrow at the top of the screen to do so.
 
 ![Tap the drop down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-46-57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lastly, select "Add to Home Screen" from the drop-down menu.
 
 ![Select &quot;Add to Home Screen.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-49-49.png) 
@@ -102,6 +126,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the shortcut from the home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-51-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  This is a much, much easier way to turn the sleep sounds on at night. It's strange that Apple has this feature buried so deep in the settings. The fact that Siri can't even play them---[when Google Assistant has the ability](https://tech-hub.techidaily.com/the-role-of-chatgpt-in-cultivating-greater-emotional-awareness-and-understanding/)\---is even more odd.
 
 <ins class="adsbygoogle"
@@ -118,3 +145,58 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-premiere-pro-know-how-optimizing-youtube-video-uploads/"><u>[New] 2024 Approved  Premiere Pro Know-How  Optimizing YouTube Video Uploads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[New] 2024 Approved  Revolutionizing Gameplay  A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elite-alternative-edits-skip-youtube-not-just-content/"><u>[New] Elite Alternative Edits  Skip Youtube, Not Just Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-mac-video-frames-catalog-max-156-chars/"><u>[New] In 2024, Ultimate Mac Video Frames Catalog (Max 156 Chars)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-no-cost-android-communication-tools-guide/"><u>[Updated] 2024 Approved  No-Cost Android Communication Tools Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chronicles-that-captivate-top-youtube-storytelling-channels-2023/"><u>[Updated] Chronicles that Captivate  Top YouTube Storytelling Channels 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-maximize-mp4-audio-quality-with-srt-integration-your-comprehensive-guide-for-2024/"><u>[Updated] Maximize MP4 Audio Quality with SRT Integration - Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-every-frame-windows-11-and-storyremix-combo-guide-to-video-editing/"><u>[Updated] Perfect Every Frame  Windows 11 & StoryRemix Combo Guide to Video Editing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-simple-scan-capture-solution-w10-os-for-2024/"><u>[Updated] Simple Scan-Capture Solution - W10 OS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-lenovo-laptop-screen-recording/"><u>[Updated] Step-by-Step  Lenovo Laptop Screen Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-digital-artistry-the-meme-generator/"><u>2024 Approved  Free Digital Artistry  The Meme Generator</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-classic-dos-with-new-idos-3-version-your-one-stop-shop-store-destination/"><u>Experience Classic DOS with New iDOS 3 Version - Your One-Stop Shop Store Destination!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-apple-vision-pro-welcome-to-the-dawn-of-facial-recognition-technology/"><u>Exploring the Apple Vision Pro: Welcome to the Dawn of Facial Recognition Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/extend-your-iphones-power-cycle-top-5-user-friendly-tips-for-longer-battery-life/"><u>Extend Your iPhone's Power Cycle: Top 5 User-Friendly Tips for Longer Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-on-schedule-smartly-discover-how-google-maps-helps-timing-your-journey-perfectly/"><u>Get On Schedule Smartly - Discover How Google Maps Helps Timing Your Journey Perfectly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-disabling-do-not-disturb-feature-on-your-ios-device/"><u>Guide: Disabling 'Do Not Disturb' Feature on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-cozi-revolutionized-our-familys-daily-routine-the-ultimate-organizational-tool/"><u>How Cozi Revolutionized Our Family's Daily Routine: The Ultimate Organizational Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-your-lenovo-t450-with-new-drivers-quick-solutions-shared-here/"><u>How to Easily Update Your Lenovo T450 with New Drivers – Quick Solutions Shared Here</u></a></li>
+<li><a href="https://os-tips.techidaily.com/illuminate-your-night-with-ease-the-ultimate-trick-to-enable-iphone-flashlight-via-backside-pressure/"><u>Illuminate Your Night with Ease: The Ultimate Trick to Enable iPhone Flashlight via Backside Pressure</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Edge 2023 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-apples-latest-marvel-a-comprehensive-look-at-the-iphone-15-pro-with-revolutionary-titanium-frame-and-enhanced-usb-c/"><u>Inside Apple's Latest Marvel - A Comprehensive Look at the iPhone 15 Pro with Revolutionary Titanium Frame & Enhanced USB-C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-digital-id-adoption-gains-ground-in-california/"><u>IPhone Digital ID Adoption Gains Ground in California</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-professional-email-management-a-top-ten-guide-to-utilizing-apples-mail-app-on-your-iphone/"><u>Mastering Professional Email Management: A Top-Ten Guide to Utilizing Apple's Mail App on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-lifespan-top-7-strategies-for-enhanced-battery-durability-in-airpods-and-airpods-pro/"><u>Maximizing Lifespan: Top 7 Strategies for Enhanced Battery Durability in AirPods & AirPods Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-features-in-ios-174-exciting-updates-with-fresh-emojis-and-enhanced-podcast-support/"><u>New Features in iOS 17.4: Exciting Updates with Fresh Emojis & Enhanced Podcast Support!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-password-management-tool-embraces-passkey-authentication/"><u>New Password Management Tool Embraces Passkey Authentication</u></a></li>
+<li><a href="https://os-tips.techidaily.com/qi2-wireless-charging-feature-unveiled-on-iphone-13-and-iphone-14/"><u>Qi2 Wireless Charging Feature Unveiled on iPhone 13 & iPhone 14</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quickly-secure-access-enhance-apple-id-recovery-in-just-five-easy-steps/"><u>Quickly Secure Access: Enhance Apple ID Recovery in Just Five Easy Steps!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reevaluating-apple-arcade-why-you-should-consider-these-5-compelling-factors/"><u>Reevaluating Apple Arcade: Why You Should Consider These 5 Compelling Factors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-ios-163-the-new-feature-using-a-physical-security-key/"><u>Secure Your Apple Account with iOS 16.3: The New Feature Using a Physical Security Key</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/simplify-gaming-sessions-with-xbox-zoom-techniques/"><u>Simplify Gaming Sessions with Xbox Zoom Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-moving-sound-issues-in-airpods-disable-the-feature-of-head-motion-detection/"><u>Solving Moving Sound Issues in AirPods - Disable the Feature of Head Motion Detection</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stealthy-guide-to-reading-imessages-undetected-by-read-indicators/"><u>Stealthy Guide to Reading iMessages Undetected by Read Indicators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-cloned-phone-numbers-from-your-iphone-address-book/"><u>Step-by-Step Guide: Removing Cloned Phone Numbers From Your iPhone Address Book</u></a></li>
+<li><a href="https://os-tips.techidaily.com/superior-alternative-styluses-to-the-apple-pencil-boost-creativity-and-productivity/"><u>Superior Alternative Styluses to the Apple Pencil: Boost Creativity and Productivity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-titans-must-follow-culinary-creators-online-for-2024/"><u>Taste Titans  Must-Follow Culinary Creators Online for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-hidden-agenda-of-government-tracking-via-smartphone-notifications/"><u>The Hidden Agenda of Government Tracking via Smartphone Notifications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-shift-begins-as-iphones-embrace-universal-usb-c-port-technology/"><u>The Shift Begins as iPhones Embrace Universal USB-C Port Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-for-unmatched-dungeon-master-support/"><u>The Ultimate Guide to Leveraging ChatGPT for Unmatched Dungeon Master Support</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-14-unnoticed-facetime-functions-boost-your-video-calls-today/"><u>Top 14 Unnoticed FaceTime Functions: Boost Your Video Calls Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-navigation-and-entertainment-apps-compatible-with-carplay/"><u>Top-Rated Navigation & Entertainment Apps Compatible with CarPlay</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-slumber-journey-with-ihome-zenergy-the-ultimate-review-for-restful-mornings/"><u>Transform Your Slumber Journey with IHome Zenergy - The Ultimate Review for Restful Mornings.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-malfunctioning-iphone-touchscreen-effective-solutions/"><u>Troubleshooting a Malfunctioning iPhone Touchscreen: Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-wsappx-overcoming-elevated-resource-utilization-issues/"><u>Troubleshooting WSAPPX: Overcoming Elevated Resource Utilization Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncover-hidden-gems-in-music-through-apple-music-radio-dont-miss-out/"><u>Uncover Hidden Gems in Music Through Apple Music Radio – Don't Miss Out!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-free-access-to-apple-devices-through-targets-exclusive-promotion/"><u>Unlock Free Access to Apple Devices Through Target's Exclusive Promotion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secret-of-eternal-iphone-charges-exclusive-tips-for-constant-low-power-usage/"><u>Unlock the Secret of Eternal iPhone Charges: Exclusive Tips for Constant Low Power Usage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-simplicity-using-assistive-features-to-convert-modern-iphones-into-fundamental-phones/"><u>Unlocking Simplicity: Using Assistive Features to Convert Modern iPhones Into Fundamental Phones</u></a></li>
+</ul></div>

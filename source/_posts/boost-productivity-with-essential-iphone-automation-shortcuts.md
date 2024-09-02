@@ -1,7 +1,7 @@
 ---
 title: Boost Productivity with Essential iPhone Automation Shortcuts
-date: 2024-08-27 10:27:52
-updated: 2024-08-29 11:55:38
+date: 2024-09-01T06:57:55.102Z
+updated: 2024-09-02T06:57:55.102Z
 tags:
   - ios
 categories:
@@ -39,6 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can add the shortcuts mentioned below if you're reading this article on an iPhone, iPad, or Mac using the included links. We've also included instructions for finding them in the Shortcuts gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Going Into Work Mode
 
  Setting goals and sticking to them can seem like the end of the world when you wake up feeling lazy. And if you have had one of these days while having to work on something important (especially from home), you desperately need a dose of motivation.
@@ -57,6 +60,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Honorable mentions for work-related shortcuts include "[Start My Next Meeting](https://www.icloud.com/shortcuts/4bb3717f0c8645708dbd2424e68924ad)" plus "[How Many Days Until](https://www.icloud.com/shortcuts/fceeb63e141a487c90fd947bab22ea5d)" and "[Create Meeting Note](https://www.icloud.com/shortcuts/17f708d05efe463faf6bf1e1de5dd248)."
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Keeping Track of What I Drink
 
  Logging my water intake is critical, and Shortcuts lets me do that in a few simple taps.
@@ -69,8 +75,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Log Water in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_9946.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
  Another hydration-related shortcut is "[Log Caffeine](https://www.icloud.com/shortcuts/6d04d2498fb54440bac9e122a2d03fbd)," which lets you log what type of coffee you have, and which size. "[Tea Timer](https://www.icloud.com/shortcuts/503898ba627c401f989b292f96244173)" is also a fun one, letting you choose from a menu of teas including black, green, and oolong, then chimes your phone when your tea break is over.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Getting My Workout In
 
  Another crucial aspect of a productive day is movement. Shortcuts lets you [track your weight](https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-yuva-2-drfone-by-drfone-virtual-android/), workouts, and activity with actions integrated with Apple Health. These shortcuts are also convenient to use through the Apple Watch.
@@ -89,6 +101,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Reflect on the Day in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_30.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create Your Own Shortcuts
 
  If you are looking for something beyond what Shortcuts gallery offers, you can build a shortcut from scratch.
@@ -97,6 +112,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Add Action in a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_35.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, you can click on variables and change them. By clicking on the drop-down menu, you can rename the action, choose a different icon, or duplicate it. Learning how to properly use Shortcuts will help you get the most out of it.
 
 ---
@@ -119,3 +137,45 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-streaming-showdown-fb-live-yt-live-tweetspaces/"><u>[New] In 2024, The Ultimate Streaming Showdown  FB Live, YT Live, TweetSpaces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-visual-purity-how-to-exclude-backgrounds-in-recordings-for-2024/"><u>[New] Visual Purity  How to Exclude Backgrounds in Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>[New] YouTube Video Animation  Tools and Techniques for Efficient Gif Making</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-crossos-vmix-replacement-tool/"><u>[Updated] 2024 Approved  CrossOS VMix Replacement Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-achieving-professional-streams-with-obs-android-style-for-2024/"><u>[Updated] Achieving Professional Streams with OBS, Android Style for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beginning-basics-the-ultimate-guide-to-starting-a-reviews-centric-youtube-channel/"><u>[Updated] Beginning Basics  The Ultimate Guide to Starting a Reviews-Centric YouTube Channel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instawisdom-100-powerful-caption-examples-for-self-expression/"><u>[Updated] In 2024, InstaWisdom  100 Powerful Caption Examples for Self-Expression</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-step-by-step-guide-creating-and-installing-personalized-iphone-ringtones/"><u>1. Step-by-Step Guide: Creating and Installing Personalized iPhone Ringtones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-most-popular-apple-watch-choices-expert-reviews-and-comparisons/"><u>2023'S Most Popular Apple Watch Choices - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-the-latest-ios-18-preview-release-today/"><u>Access the Latest iOS 18 Preview Release Today!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/additional-us-state-adopts-iphones-digital-id-system/"><u>Additional US State Adopts iPhone's Digital ID System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-benefit-from-revamped-google-drive-interface/"><u>Android & iPhone Users Benefit From Revamped Google Drive Interface</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/between-audio-and-video-which-platform-takes-the-lead/"><u>Between Audio and Video, Which Platform Takes the Lead?</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-steam-rankings-where-should-i-invest-my-energy/"><u>Beyond Steam Rankings, Where Should I Invest My Energy?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comparing-waze-and-google-maps-a-detailed-review-of-features-and-performance/"><u>Comparing Waze and Google Maps: A Detailed Review of Features and Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/compatibility-check-can-your-apple-device-support-the-upcoming-ios-17-and-ipados/"><u>Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-using-apples-facetime-app-on-android-phones/"><u>Complete Guide to Using Apple's FaceTime App on Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-iphone-problem-solving-strategies-for-seamless-performance/"><u>Comprehensive iPhone Problem-Solving Strategies for Seamless Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-delay-simplify-retrieving-your-apple-id-in-a-matter-of-minutes/"><u>Don't Delay! Simplify Retrieving Your Apple ID in a Matter of Minutes.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-monitor-your-weight-with-this-revolutionary-iphone-automation-tool/"><u>Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-ipads-capabilities-introducing-orion-seamless-ipad-to-monitor-connectivity-for-enhanced-productivity/"><u>Elevate Your iPad's Capabilities: Introducing Orion - Seamless iPad to Monitor Connectivity for Enhanced Productivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ensure-your-ipads-safety-with-esr-comprehensive-solutions/"><u>Ensure Your iPad's Safety with ESR: Comprehensive Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expanded-free-editing-features-unveiled-in-google-photos/"><u>Expanded Free Editing Features Unveiled in Google Photos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-enhanced-performance-with-the-latest-new-ipad-air-featuring-an-advanced-m2-processor-and-expanded-13-display-choice/"><u>Experience Enhanced Performance with the Latest New iPad Air Featuring an Advanced M2 Processor & Expanded 13 Display Choice</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pixelpress-mastering-the-art-of-screen-recording/"><u>In 2024, 'PixelPress'  Mastering the Art of Screen Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-fix-swiftly-eradicate-unwanted-eyeshine-from-your-iphone-pics/"><u>In 2024, Free Fix  Swiftly Eradicate Unwanted Eyeshine From Your iPhone Pics</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-ranked-mac-pro-video-maker-plus-audio/"><u>In 2024, Top-Ranked Mac Pro Video Maker Plus Audio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/repair-strategies-for-dealing-with-the-normalizdll-not-found-problem/"><u>Repair Strategies for Dealing with the Normaliz.dll Not Found Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-6-minecraft-modern-house-ideas-for-2024/"><u>Top 6 Minecraft Modern House Ideas for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-exclusive-discounts-save-big-on-updf-editor-and-apple-watch-series-eztrem/"><u>Unlock Exclusive Discounts: Save Big on UPDF Editor & Apple Watch Series ˈēztrēm!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-full-potential-ipadoss-path-to-powerful-multitasking-in-3-simple-steps/"><u>Unlock Full Potential: IPadOS's Path to Powerful Multitasking in 3 Simple Steps.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-power-of-non-touch-interactions-with-apple-watch-series-9s-advanced-neural-engine-and-hand-gestures-features/"><u>Unlock the Power of Non-Touch Interactions with Apple Watch Series 9’S Advanced Neural Engine and Hand Gestures Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-productivity-with-a-top-secret-markdownnote-taker-that-revolutionizes-your-workflow/"><u>Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-secrets-behind-the-iphones-dominance-in-video-playback/"><u>Unraveling the Secrets Behind the iPhone's Dominance in Video Playback</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-milestone-the-birth-of-the-first-smartphone/"><u>Unveiling the Milestone: The Birth of the First Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/when-and-how-to-deactivate-apples-find-my-iphone-feature-insights-and-instructions/"><u>When and How to Deactivate Apple's Find My iPhone Feature - Insights and Instructions</u></a></li>
+</ul></div>

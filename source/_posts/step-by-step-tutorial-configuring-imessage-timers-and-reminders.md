@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Configuring iMessage Timers & Reminders"
-date: 2024-08-26 10:26:29
-updated: 2024-08-29 12:30:59
+date: 2024-09-01T06:55:23.952Z
+updated: 2024-09-02T06:55:23.952Z
 tags:
   - ios
 categories:
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Sometimes it's best to create a text message while you're thinking of it. But what if you don't want to actually send it until later? Here, we'll show you how to send a scheduled text message on iPhone at whatever time you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Can You Schedule a Text on iPhone?
 
  Yes, but it requires a workaround. As of November 2023, there is no built-in feature to schedule a text message. That doesn't mean it isn't possible, however — it just requires a bit of tinkering first.
@@ -41,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Plus sign on the Automation tab and Create a Personal Automation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PersonalAutomation-iPhoneScheduleText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  At the top of the next screen, pick "Time of Day." On the subsequent When screen, choose "Time of Day" and pick the time in the box that appears.
 
 ![Automation for a Time of Day and time](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/TimeOfDay-iPhoneScheduleText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, you can pick Sunrise or Sunset and choose an offset. For example, if you're recipient is an early bird, you can select a time around sunrise.
 
  Under Repeat at the bottom, choose Daily, Weekly, or Monthly. This is convenient if it's a message you want to send regularly, such as a reminder for a family member. You also need to pick "Run After Confirmation" or "Run Immediately."
@@ -53,12 +62,18 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![The timing settings for the message Shortcut we're creating.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-imemdiately.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
  Although you may not want your text message to send continually, the repeat setting is required. If you want to schedule a one-time message, you'll simply remove the automation after it finishes, which we'll explain in the [next section](https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/).
 
  On the Actions screen, expand the Next Action Suggestions section and pick "Send Message." If it isn't visible, enter "message" in the search bar at the top to find it.
 
 ![Tap or search for the "Send Message" function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-send-message.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, on the subsequent screen, you'll use the top box to set up your text.
 
 ![The template for a "Send Message" Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-send-settings.png) 
@@ -87,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Set the automation to "Don't Run."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-don-t-run.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  Apple offers a feature to [schedule an email in the Mail app](https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-f14-5g-try-these-fixes-by-drfone-android/), so hopefully down the road, we'll see a feature to schedule a text in Messages as well. In the meantime, at least you can schedule a text message on iPhone using Shortcuts.
 
 <ins class="adsbygoogle"
@@ -103,3 +122,39 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-up-your-game-free-software-for-professional-thumbnails/"><u>[New] In 2024, Step Up Your Game  Free Software for Professional Thumbnails</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streamlining-skype-calls-with-advanced-zoom-use-for-2024/"><u>[Updated] Streamlining Skype Calls with Advanced Zoom Use for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-supreme-memetric-creation-tool/"><u>[Updated] Supreme Memetric Creation Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-iphones-covert-rain-sounds-a-guide-to-improving-your-sleep-quality/"><u>Access iPhone's Covert Rain Sounds: A Guide to Improving Your Sleep Quality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-watch-a-must-have-companion-for-athlete-recovery-and-downtime/"><u>Apple Watch: A Must-Have Companion for Athlete Recovery and Downtime</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-recording-quality-with-8-amazing-free-tips/"><u>Boost Your iPhone's Recording Quality with 8 Amazing Free Tips!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breathing-fresh-life-into-your-vintage-iphone-ultimate-guide-for-a-newer-experience/"><u>Breathing Fresh Life Into Your Vintage iPhone - Ultimate Guide for a Newer Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-understanding-airpods-pro-mastering-controls-unveiling-advanced-features-and-navigating-gestures/"><u>Comprehensive Guide: Understanding AirPods Pro - Mastering Controls, Unveiling Advanced Features & Navigating Gestures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/copilot-by-microsoft-launches-new-ios-application/"><u>Copilot by Microsoft Launches New iOS Application</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-guide-preparing-to-embrace-the-apple-world/"><u>Critical Guide: Preparing to Embrace the Apple World</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disappointing-wearos-experience-leads-me-to-switch-to-apples-smartwatch/"><u>Disappointing WearOS Experience Leads Me to Switch to Apple's Smartwatch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discontinuation-announcement-apple-ends-sales-of-watch-series-9-and-ultra-models/"><u>Discontinuation Announcement: Apple Ends Sales of Watch Series 9 & Ultra Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-ipados-18-upgrades-are-redefining-interaction-on-your-ipad-with-these-8-key-features/"><u>Discover How iPadOS 18 Upgrades Are Redefining Interaction on Your iPad with These 8 Key Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-the-brilliance-of-ios-16s-flashlight-function-a-testament-to-apples-dedication-to-user-experience/"><u>Discovering the Brilliance of iOS 16'S Flashlight Function – A Testament to Apple's Dedication to User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/do-you-absolutely-need-a-phone-screen-guard-for-your-mobile-device/"><u>Do You Absolutely Need a Phone Screen Guard for Your Mobile Device?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-retrieving-missing-apple-airpod-pairs-successfully/"><u>Easy Guide: Retrieving Missing Apple AirPod Pairs Successfully</u></a></li>
+<li><a href="https://os-tips.techidaily.com/end-of-an-era-the-discontinuation-of-the-iconic-iphone-13-mini/"><u>End of an Era: The Discontinuation of the Iconic iPhone 13 Mini</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-privacy-on-apple-music-with-these-4-essential-strategies/"><u>Enhance Your Privacy on Apple Music with These 4 Essential Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-ipad-gaming-experience-with-the-apple-pencil-discover-the-simple-steps/"><u>Enhanced iPad Gaming Experience with the Apple Pencil: Discover the Simple Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-complimentary-apple-products-with-your-target-rewards-claim-now/"><u>Enjoy Complimentary Apple Products with Your Target Rewards – Claim Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-luminous-durable-apple-watch-sport-band-from-nomad-the-ultimate-guide/"><u>Experience the Luminous, Durable Apple Watch Sport Band From Nomad – The Ultimate Guide!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-apples-classical-playlist-a-wealth-of-melodies-at-exceptional-prices/"><u>Exploring Apple's Classical Playlist: A Wealth of Melodies at Exceptional Prices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-downloading-the-asus-laptop-trackpad-driver-for-windows-11/"><u>Fast and Simple Guide: Downloading the ASUS Laptop Trackpad Driver for Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/find-and-retrieve-deleted-connections-from-your-iphone-easily/"><u>Find and Retrieve Deleted Connections From Your iPhone Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-optimal-performance-with-geforce-rtx-nvida-3090-driver-for-legacy-windows-systems-windows-10-8-and-7/"><u>Get Optimal Performance with GeForce RTX Nvida 3090 Driver for Legacy Windows Systems (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-securing-your-mobile-apps-with-screen-locking-features-on-ios-devices/"><u>Guide: Securing Your Mobile Apps with Screen Locking Features on iOS Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-motorola-g54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Motorola G54 5G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11 5G Phone FRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laughlineart-memogallery/"><u>In 2024, LaughLineArt  MemoGallery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-despite-successful-bluetooth-pairing-heres-how-you-can-fix-it/"><u>No Audio Despite Successful Bluetooth Pairing? Here's How You Can Fix It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-hidden-power-of-windows-11/"><u>Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Spark 10C | Dr.fone</u></a></li>
+</ul></div>

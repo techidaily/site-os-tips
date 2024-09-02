@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Productivity with iPhone Shortcuts – Tips & Tricks for Beginners
-date: 2024-08-27 13:22:58
-updated: 2024-08-29 11:32:11
+date: 2024-09-01T06:57:21.021Z
+updated: 2024-09-02T06:57:21.021Z
 tags:
   - ios
 categories:
@@ -57,6 +57,23 @@ Tim Brookes / How-To Geek
 
  You can also trigger these Shortcuts using Siri, by asking Siri to “run my Start Pomodoro shortcut” as an example. Shortcuts that are flagged to be displayed on Apple Watch will [show up in the Shortcuts app there](https://techidaily.com/how-to-hard-reset-oppo-k11-5g-without-password-drfone-by-drfone-reset-android-reset-android/), and you can [add them to Watch faces](https://some-knowledge.techidaily.com/new-in-search-of-greatness-top-15-timeless-stop-motion-films/) for quick access.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ##  How to Create Your Own Shortcuts
 
  To create a new workflow, open the Shortcuts app and make sure the “Shortcuts” tab is selected. Under “All Shortcuts” tap on the plus “+” icon in the top-right corner of the screen (you can choose a different folder if you want to save your Shortcut there instead).
@@ -69,6 +86,9 @@ Tim Brookes / How-To Geek
 
 ![Toggle Share Sheet visibility in a Shortcuts workflow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/resize-image-ios-jpeg.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  You can also find the option to allow the shortcut to run when your device is locked under the “Privacy” section, as well as a “Set-up” section that asks a series of questions when the Shortcut is first added (to gather data that’s critical to the Shortcut’s functioning).
 
  Creating a shortcut from scratch can be a daunting process if you’re not sure what you’re doing. For now, have a look at the available actions and settings. Try placing a few down and see what happens, even if you have no intention of building something cohesive.
@@ -79,6 +99,9 @@ Tim Brookes / How-To Geek
 
  At the top of the screen you can name your Shortcut, select an icon, and pick a color. At the bottom of the screen is a “Play” button that you can use to test your Shortcut as you build it. Don’t worry if you’re feeling a bit lost at this stage.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Some iPhone Shortcuts Ideas to Get You Started
 
  Let’s build a few workflows to get you up to speed with Shortcuts. The first thing we’ll build is a Shortcut that [records your weight in Apple Health](https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-file-management-six-tips-for-win-11s-mov-files/). When you run it you’ll be asked for your current weight, which will be recorded in the Health app, greatly speeding up the process.
@@ -87,10 +110,16 @@ Tim Brookes / How-To Geek
 
 ![A workflow for logging your body weight in Shortcuts for iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/record_weight_shortcut.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  Now try running your Shortcut. You should see a prompt asking you for a value. Add your value then hit “Done” and your weight will be recorded. Head to the Health app and take a look at Weight under Body Measurements to confirm this worked.
 
 ![Providing input when running a Shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/record_weight_input.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 **Note:**  You may be prompted to give Shortcuts access to your Health data if you haven’t already done so. You can always manage these permissions under Settings > Privacy & Security.
 
  That’s a simple workflow that speeds up a process with a single action. Let’s take a look at something a little more complex by building a workflow that merges multiple PDFs into a single document.
@@ -101,6 +130,9 @@ Tim Brookes / How-To Geek
 
 ![Create a workflow to merge PDFs into a single document using Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/merge_pdf_shortcut.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  If you dismiss the Quick Look dialog without saving then your PDF won’t be saved. This is a good way to avoid clogging up storage. You could simply share the PDF straight to an email or a Messages conversation without saving it if you wanted.
 
  Hopefully, these two examples are enough to whet your appetite to create your own workflows in Shortcuts.
@@ -121,6 +153,9 @@ Tim Brookes / How-To Geek
 
 ![Shortcuts app for macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/shortcuts_app_mac.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Use Shortcuts to Trigger Automations
 
  Within the Shortcuts app, you’ll find an “Automations” tab. Here you can [build Automations that trigger based on events](https://extra-lessons.techidaily.com/peak-performance-win-tunes/) like a time, when you perform an action like tapping a payment card, or when you arrive or leave at a location.
@@ -143,3 +178,58 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-enhancing-instagram-presence-with-picture-borders-for-2024/"><u>[New] Enhancing Instagram Presence with Picture Borders for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superior-internet-audio-devices-reviewed-and-ranked-2023/"><u>[New] In 2024, Superior Internet Audio Devices Reviewed & Ranked 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-weaving-external-pages-into-your-insta-narrative/"><u>[New] In 2024, Weaving External Pages Into Your Insta Narrative</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-transforming-home-security-the-rise-of-multi-camera-recorders-for-2024/"><u>[New] Transforming Home Security  The Rise of Multi-Camera Recorders for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-best-practices-for-saving-screen-and-webcam-chats/"><u>[Updated] In 2024, Best Practices for Saving Screen and Webcam Chats</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-transformation-innovative-approaches-to-instagram-video-editing/"><u>[Updated] In 2024, The Art of Transformation  Innovative Approaches to Instagram Video Editing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-transform-chaos-into-order-top-apps-for-an-ultra-productive-year/"><u>1. Transform Chaos Into Order: Top Apps for an Ultra-Productive Year</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>2024 Approved  Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/best-youtube-thumbnail-size-how-to-make-a-thumbnail-for-youtube-for-2024/"><u>Best YouTube Thumbnail Size  How to Make a Thumbnail for YouTube for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-irisplus-graphics-655-drivers-compatible-with-windows-10-and-11/"><u>Download Intel Iris+ Graphics 655 Drivers: Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/hotel-televisions-now-support-apples-revolutionary-airplay-technology/"><u>Hotel Televisions Now Support Apple's Revolutionary AirPlay Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-apple-allows-international-users-to-remove-safari-app-but-denies-same-privilege-within-the-united-states/"><u>How Apple Allows International Users to Remove Safari App but Denies Same Privilege Within the United States</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-do-i-understand-and-remove-iphones-aae-files-effectively/"><u>How Do I Understand & Remove iPhone's AAE Files Effectively?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/identifying-iphone-battery-woes-is-replacement-needed/"><u>Identifying iPhone Battery Woes: Is Replacement Needed?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jovial-access-key-strategies/"><u>In 2024, Jovial Access Key Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/international-progress-for-iphones-overcoming-boundaries-abroad-while-standing-strong-stateside/"><u>International Progress for iPhones: Overcoming Boundaries Abroad While Standing Strong Stateside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-the-updated-partner-for-apples-satellite-based-emergency-aid-service/"><u>Introducing the Updated Partner for Apple's Satellite-Based Emergency Aid Service</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-it-too-late-expert-insights-on-timing-your-next-iphone-upgrade/"><u>Is It Too Late? Expert Insights on Timing Your Next iPhone Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-device-harmony-a-step-by-step-tutorial-on-iphone-and-mac-synchronization/"><u>Mastering Device Harmony: A Step-by-Step Tutorial on iPhone and Mac Synchronization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-productivity-advanced-tips-for-optimizing-reminders-in-ios-17/"><u>Maximizing Productivity: Advanced Tips for Optimizing Reminders in iOS 17</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mirroring-ios-devices-and-macs-to-an-apple-tv-a-step-by-step-guide/"><u>Mirroring iOS Devices and Macs to an Apple TV - A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/multi-app-transfer-made-easy-swiftly-moving-various-applications-simultaneously-on-your-ios-device/"><u>Multi-App Transfer Made Easy: Swiftly Moving Various Applications Simultaneously on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigating-the-murky-waters-of-game-emulation-is-it-risk-free-today-but-at-risk-tomorrow/"><u>Navigating the Murky Waters of Game Emulation: Is It Risk-Free Today but at Risk Tomorrow?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/"><u>Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-chatbots-from-unauthorized-inquiry/"><u>Protect Your Chatbots From Unauthorized Inquiry</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-start-guide-to-setup-and-use-obs-on-apple-systems-for-2024/"><u>Quick Start Guide to Setup and Use OBS on Apple Systems for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-start-to-clear-background-filming-for-2024/"><u>Quick Start to Clear Background Filming for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-insert-text-into-photos-using-your-iphone/"><u>Quick Tips: Insert Text Into Photos Using Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/silent-video-creation-on-ios-a-step-by-step-process-for-cutting-out-audio-before-posting/"><u>Silent Video Creation on iOS: A Step-by-Step Process for Cutting Out Audio Before Posting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-when-your-iphone-shows-an-offline-display-expert-tips/"><u>Solutions for When Your iPhone Shows an 'Offline' Display: Expert Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/steps-to-access-and-review-your-location-tracking-data-on-ios-devices/"><u>Steps to Access and Review Your Location Tracking Data on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/steps-to-capture-stills-from-iphones-live-photos/"><u>Steps to Capture Stills From iPhone's Live Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-asus-rog-phone-7-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Asus ROG Phone 7 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-hidden-implications-of-apples-recent-stance-on-video-game-emulation/"><u>The Hidden Implications of Apple's Recent Stance on Video Game Emulation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-smart-move-reasons-to-wait-before-upgrading-your-apple-watch/"><u>The Smart Move: Reasons to Wait Before Upgrading Your Apple Watch</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-s18-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo S18 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-apple-carplay-issues-expert-solutions-and-tips/"><u>Troubleshooting Apple CarPlay Issues: Expert Solutions and Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-must-have-ipad-enhancements-for-the-year-2023/"><u>Ultimate Selection: Must-Have iPad Enhancements for the Year 2023</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-premium-iphone-14-skins-and-cases-reviewed/"><u>Ultimate Selection: Premium iPhone 14 Skins & Cases Reviewed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-most-protective-and-stylish-iphone-15-cases/"><u>Ultimate Selection: The Most Protective & Stylish iPhone 15 Cases</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-causes-behind-your-iphone-screen-brightness-fading-solutions-inside/"><u>Understanding the Causes Behind Your iPhone Screen Brightness Fading - Solutions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secrets-a-step-by-step-guide-to-recovering-your-lost-iphone-backup-passwords-from-icloud-keychain/"><u>Unlock the Secrets: A Step-by-Step Guide to Recovering Your Lost iPhone Backup Passwords From iCloud Keychain</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphone-potential-with-google-lens-expert-tips-and-tricks/"><u>Unlocking iPhone Potential with Google Lens: Expert Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-next-big-thing-in-tech-hands-on-with-apples-latest-artificial-intelligence-feature/"><u>Unveiling the Next Big Thing in Tech: Hands-On with Apple's Latest Artificial Intelligence Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-how-governments-could-be-using-push-alerts-as-a-surveillance-tool/"><u>Unveiling the Truth: How Governments Could Be Using Push Alerts as a Surveillance Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-tech-delights-unveiling-the-latest-from-google-and-samsung/"><u>Upcoming Tech Delights: Unveiling the Latest From Google & Samsung</u></a></li>
+<li><a href="https://os-tips.techidaily.com/usb-type-c-connectivity-discover-apples-airpods-pro-latest-upgrade/"><u>USB Type-C Connectivity: Discover Apple's AirPods Pro Latest Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/weekly-digest-of-iphone-software-enhancements-and-product-recalls/"><u>Weekly Digest of iPhone Software Enhancements & Product Recalls</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-the-nsa-recommends-weekly-mobile-device-reboots-uncovering-essential-security-measures/"><u>Why the NSA Recommends Weekly Mobile Device Reboots - Uncovering Essential Security Measures</u></a></li>
+</ul></div>

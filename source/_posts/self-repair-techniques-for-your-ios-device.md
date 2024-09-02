@@ -1,7 +1,7 @@
 ---
 title: Self-Repair Techniques for Your iOS Device
-date: 2024-08-26 12:49:27
-updated: 2024-08-29 12:49:43
+date: 2024-09-01T06:59:29.542Z
+updated: 2024-09-02T06:59:29.542Z
 tags:
   - ios
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Is your [iPhone](https://vimeo-videos.techidaily.com/in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/) not working like it used to? Is the screen or another part of the hardware physically broken? You do have some DIY options if you want to fix your iPhone yourself. We'll tell you what you need to know and walk you through the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  First: Determine the Extent of The Repairs
 
  Before you start, it's important to understand how much damage you've incurred and what likely needs to be replaced. This can help you decide which route you want to go with the repair or whether or not to bother with the repair process at all. Sometimes it makes more sense to [replace an iPhone outright](https://screen-sharing-recording.techidaily.com/updated-2024-approved-creative-mc-survival-habitat-concepts/), even if you turn to the second-hand market.
@@ -38,6 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If your smartphone is a complete mess, but you want to [avoid spending top dollar for a brand new iPhone](https://youtube-tips.techidaily.com/ed-secure-extraction-of-audio-from-youtube-at-zero-cost/), try buying used instead. Just run through [a few checks before you buy a used iPhone](https://games-able.techidaily.com/8-crucial-tweaks-that-can-elevate-your-ps4s-capabilities/) including checking [whether it's been repaired already](https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/).
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use Apple's Self Repair Program to Fix Your Own iPhone
 
  Apple [launched its Self Service Repair program](https://www.reviewgeek.com/103437/hell-freezes-over-apple-announces-a-self-service-repair-program/) in 2022\. This allows the owners of some iPhone models to rent tools and purchase parts in order to repair their own iPhones.
@@ -52,6 +58,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Remove iPhone display with iPhone repair kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/apple_repair_tools.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 _Apple_
 
  When you order parts, you'll need to supply [the serial number](https://facebook-record-videos.techidaily.com/new-in-2024-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/) of the iPhone you are repairing. You'll find this under Settings > General > About, on the original box, and listed under the device list accessible via [your Apple ID](https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-s17t-drfone-by-drfone-virtual-android/) on another Apple device. The parts you order are locked to this serial number, so make sure you get it right.
@@ -74,6 +83,9 @@ _Apple_
 
 ![iFixit Pro Tech Toolkit with manual](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52675222665_a0052ed794_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Marcus Mears III / How-To Geek
 
  Cost-wise, iFixit often works out slightly cheaper than Apple. For an iPhone 13 display replacement you can buy [a kit](https://www.ifixit.com/products/iphone-13-screen) that has everything you need in it for $239.99\. You can then follow the [iFixit iPhone 13 Screen Replacement guide](https://www.ifixit.com/Guide/iPhone+13+Screen+Replacement/145897) which has detailed steps for those specific tools.
@@ -88,6 +100,13 @@ Marcus Mears III / How-To Geek
 
 ![Shutterstock_1070504012-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1070504012-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 From the Commerce Team
 
 #####  Stop Paying for AppleCare+ and Save Money with AKKO Instead
@@ -96,6 +115,9 @@ Whether you're dealing with a cracked screen, liquid damage, or even a lost/stol
 
 [See at Getakko](https://akko.pxf.io/c/156932/1055578/13571?subId1=UUhtgUeUpU206070&subId2=ehtg&u=https%3A%2F%2Fdeals.getakko.com%2Fsignup%2Fphone-protection-5%2F&ourl=https%3A%2F%2Fdeals.getakko.com%2Fsignup%2Fphone-protection-1mo-2%2F%22target%3D%22%5Fblank) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Take Your iPhone to a Repair Shop
 
  Your last option is to take your phone to a standard repair shop that lacks Apple authorization. This comes with many of the same pitfalls as taking the iFixit route (some features may not work correctly afterward), but you won't have to perform the work yourself, and the cost will likely be cheaper than any of the other options.
@@ -122,3 +144,53 @@ Whether you're dealing with a cracked screen, liquid damage, or even a lost/stol
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-easy-window-recorder-w10-edition/"><u>[New] 2024 Approved  Easy Window Recorder - W10 Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-perfecting-your-craft-making-time-lapse-films-with-ipad-for-2024/"><u>[New] Perfecting Your Craft  Making Time-Lapse Films with iPad for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-go-global-quickly-optimal-tags-to-escalate-your-youtube-snippets/"><u>[Updated] Go Global Quickly  Optimal Tags to Escalate Your YouTube Snippets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ig-tunes-crafting-perfect-music-posts/"><u>[Updated] IG Tunes  Crafting Perfect Music Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-social-sites-for-effective-youtube-video-promotion/"><u>[Updated] Social Sites for Effective YouTube Video Promotion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sound-on-call-sensor-iphone-24-tech/"><u>[Updated] Sound-on-Call Sensor  IPhone '24 Tech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-anticipating-key-features-of-the-upcoming-ipad-mini-7-a-closer-look/"><u>1. Anticipating Key Features of the Upcoming iPad Mini 7: A Closer Look</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-resolving-your-iphones-unavailable-screen-a-step-by-step-guide/"><u>1. Resolving Your iPhone's 'Unavailable Screen': A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-transform-your-iphone-into-an-interactive-screen-with-standby/"><u>1. Transform Your iPhone Into an Interactive Screen with Standby</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-make-a-3d-text-effect-in-photoshop/"><u>2024 Approved  How to Make a 3D Text Effect in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporate-soundscape-into-visual-discussions/"><u>2024 Approved  Incorporate Soundscape Into Visual Discussions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-festive-gps-your-ultimate-guide-to-navigating-with-santas-sleigh-on-waze-during-the-holidays/"><u>A Festive GPS: Your Ultimate Guide to Navigating with Santa's Sleigh on Waze During the Holidays</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-restoring-your-apple-airpods-pros-max-pair/"><u>A Step-by-Step Guide to Restoring Your Apple AirPods / Pros / Max Pair</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ai-mastery-crafting-innovative-background-scenes-for-instagram-narratives-using-machine-learning-techniques/"><u>AI Mastery: Crafting Innovative Background Scenes for Instagram Narratives Using Machine Learning Techniques</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/experience-personalized-content-with-our-cookiebot-integration/"><u>Experience Personalized Content with Our Cookiebot Integration</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-130-music-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia 130 Music Phone?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-set-to-receive-significant-boost-in-web-application-experience/"><u>IPhone & iPad Set to Receive Significant Boost in Web Application Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-update-discovering-the-newest-ios-and-ipados-versions/"><u>IPhone and iPad Update: Discovering the Newest iOS and iPadOS Versions!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locating-secret-pictures-within-your-iphones-gallery/"><u>Locating Secret Pictures Within Your iPhone's Gallery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-your-productivity-with-iphone-shortcuts-tips-and-tricks-for-beginners/"><u>Maximizing Your Productivity with iPhone Shortcuts – Tips & Tricks for Beginners</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigate-with-caution-how-waze-alerts-you-to-hazardous-routes/"><u>Navigate with Caution: How Waze Alerts You to Hazardous Routes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/newly-iphone-digital-identification-accepted-by-another-american-region/"><u>Newly iPhone Digital Identification Accepted by Another American Region</u></a></li>
+<li><a href="https://os-tips.techidaily.com/newly-launched-ipad-air-and-ipad-pro-available-for-purchase-get-your-hands-on-them-now/"><u>Newly Launched iPad Air and iPad Pro Available for Purchase - Get Your Hands On Them Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcoming-hesitation-why-i-chose-the-oura-ring-despite-disliking-subscriptions/"><u>Overcoming Hesitation - Why I Chose the Oura Ring Despite Disliking Subscriptions</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-realme-narzo-n53-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Realme Narzo N53</u></a></li>
+<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-s17t-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo S17t)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revitalizing-your-aging-iphone-simple-steps-to-refresh-and-optimize/"><u>Revitalizing Your Aging iPhone: Simple Steps to Refresh and Optimize</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-call-quality-a-comprehensive-guide-for-restoring-audio-in-iphone-and-android-phones/"><u>Reviving Call Quality: A Comprehensive Guide for Restoring Audio in iPhone & Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-satechi-charging-solutions-now-compatible-with-qi2-and-magsafe-standards/"><u>Revolutionary Satechi Charging Solutions: Now Compatible with Qi2 & MagSafe Standards</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-home-entertainment-the-formidable-impact-of-gamesirs-g8-galileo/"><u>Revolutionizing Home Entertainment: The Formidable Impact of GameSir's G8 Galileo</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safeguard-your-digital-memories-how-to-prevent-whatsapp-from-deleting-years-of-chats-and-media/"><u>Safeguard Your Digital Memories: How to Prevent WhatsApp From Deleting Years of Chats and Media</u></a></li>
+<li><a href="https://os-tips.techidaily.com/speed-assessment-of-iphone-15s-new-usb-c-charging-connector/"><u>Speed Assessment of iPhone 15'S New USB-C Charging Connector</u></a></li>
+<li><a href="https://os-tips.techidaily.com/steps-to-transfer-your-google-authenticator-tokens-seamlessly-between-devices/"><u>Steps to Transfer Your Google Authenticator Tokens Seamlessly Between Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/tackle-phone-distractions-a-guide-to-overcoming-digital-interruptions-in-4-simple-steps/"><u>Tackle Phone Distractions: A Guide to Overcoming Digital Interruptions in 4 Simple Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-apple-watch-as-a-guardian-angel-discover-9-potential-life-preserving-benefits/"><u>The Apple Watch as a Guardian Angel: Discover 9 Potential Life-Preserving Benefits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-best-iphone-add-ons-exceptional-value-meets-innovation/"><u>The Best iPhone Add-Ons – Exceptional Value Meets Innovation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-long-lasting-test-of-a-biodegradable-phone-case-a-5-month-update/"><u>The Long-Lasting Test of a Biodegradable Phone Case - A 5-Month Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-many-reasons-behind-my-passion-for-apples-seamless-digital-world/"><u>The Many Reasons Behind My Passion for Apple's Seamless Digital World</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-10-youtube-video-to-mp3-converter-withwithout-editor/"><u>Top 10 YouTube Video to Mp3 Converter With/Without Editor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-essential-ios-security-measures-every-iphone-user-must-adopt/"><u>Top 7 Essential iOS Security Measures Every iPhone User Must Adopt</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-apple-watch-dial-and-complications-perfect-faces-for-every-day-and-event/"><u>Top Apple Watch Dial & Complications: Perfect Faces for Every Day and Event</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-and-indepth-analysis-of-pitaka-magez-slide-charger-perfect-companion-for-your-iphone/"><u>Ultimate Guide & InDepth Analysis of Pitaka MagEZ Slide Charger - Perfect Companion for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-why-imessage-requests-you-to-reconnect-with-friends-and-easy-repair-steps/"><u>Understanding Why iMessage Requests You To Reconnect with Friends & Easy Repair Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-a-world-of-vintage-gaming-on-your-mobile-with-retroarchs-latest-ios-and-tvos-release/"><u>Unleash a World of Vintage Gaming on Your Mobile with RetroArch's Latest iOS and tvOS Release</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphone-efficiency-a-comprehensive-guide-to-using-shortcuts/"><u>Unlocking iPhone Efficiency: A Comprehensive Guide to Using Shortcuts</u></a></li>
+</ul></div>

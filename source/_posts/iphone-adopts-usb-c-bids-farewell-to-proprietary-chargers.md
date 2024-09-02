@@ -1,7 +1,7 @@
 ---
 title: IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers
-date: 2024-08-27 18:32:57
-updated: 2024-08-29 11:57:13
+date: 2024-09-01T06:55:02.733Z
+updated: 2024-09-02T06:55:02.733Z
 tags:
   - ios
 categories:
@@ -49,6 +49,9 @@ Apple
 
  This shouldn’t affect charging, which Apple says will net you 50% charge in 30 minutes when using a 20w charger or better (for both base and Pro models) so if you never use a cable to transfer data then you likely won’t notice any speed limitations.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How the EU Forced Apple’s Hand
 
  There was, however, one detail missing from the iPhone 15 event that Apple held on September 12, 2023\. Not only did the company bury the lead a bit on the switch to USB-C (which was hotly tipped before the event), but Apple obviously didn’t mention the EU legislation that forced its hand in making the change.
@@ -59,6 +62,9 @@ Apple
 
 ![AirPods Pro charging via iPhone 15 over USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_airpods.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Apple
 
  Apple could have put the change off for a year, since “Autumn 2024” is right around the time when the iPhone 16 is due for release, but the company clearly thought that there was little point in waiting to make an inevitable change.
@@ -73,24 +79,37 @@ Apple
 
  On top of a compliant cable (which Apple should include in the box), you’ll need a suitably powerful 20w or better USB-C adapter to fast charge your iPhone. Check out [our list of best phone chargers](https://some-techniques.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc-for-2024/) and [best portable battery packs](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) for some ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  What About Your Old Lightning Cables?
 
  If you’re coming from an iPhone introduced in 2022 or earlier, you’ve probably amassed a spaghetti-like mess of Lightning cables. Hang on to them. Without dedicated cables, you’ll need to use [Apple’s cursed USB-C to Lightning dongle](https://eaxpv-info.techidaily.com/new-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/) to charge your iPhone.
 
 ![Lightning Cable Roundup Hero Shot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52421379823_7e23e26f10_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Take the opportunity to bin those chargers that are frayed, split, cracked, or hanging on with hope and a prayer. Donate the rest to people in your life who still use older iPhone models. Keep them for as long as you have iPads, AirPods, and other similar devices that are reliant on Lightning.
 
  You can even pick up [Lightning to USB-C adapters](https://www.amazon.com/Lightning-Adapter-Compatible-Charging-Connector/dp/B08X4SXDQX/?tag=htg-v2-6gl43v1-20&ascsubtag=UUhtgUeUpU2000319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fiphone-adopts-usb-c%2F&asc%5Fcampaign=Short-Term) that turn your Lightning cables into USB-C cables, a far cheaper investment than buying a whole new set of cables.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Probably Not Worth Upgrading For
 
  The iPhone 15 and iPhone 15 Pro have some big improvements including better cameras, longer zooms, faster chips, new materials and colors, and much more. Though USB-C is a big deal, we’re not convinced it’s worth upgrading for alone outside of a few special use-case scenarios like recording video or shooting photos to external devices.
 
 ![iPhone 15 Pro being used in a photo shoot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_shooting.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Apple
 
  Apple didn’t just ditch Lightning on the iPhone 15, the company also [updated the AirPods Pro to include USB-C charging](https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-f15-5g-pc-drfone-by-drfone-android/).
@@ -109,3 +128,47 @@ Apple
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-uncluttered-desktop-recorder-w10/"><u>[New] 2024 Approved  Uncluttered Desktop Recorder W10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-clip-perfection-achieved-through-blended-methodologies/"><u>[New] Clip Perfection Achieved Through Blended Methodologies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-incorporating-yt-playlists-into-web-design/"><u>[New] Incorporating YT Playlists Into Web Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-live-performances-best-audio-platforms/"><u>2024 Approved  Top Live Performances  Best Audio Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-itel-a60-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/9-with-latest-101-firmware-enhancement/"><u>9 with Latest 10.1 Firmware Enhancement</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-revolutionizes-sports-gaming-with-major-new-features/"><u>Apple Revolutionizes Sports Gaming with Major New Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-you-ready-will-your-current-apple-device-be-able-to-operate-with-the-newly-launched-ios-n-and-ipados-n-versions/"><u>Are You Ready? Will Your Current Apple Device Be Able To Operate With The Newly Launched iOS N and iPadOS N Versions?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/aspect-ratio-compliance-for-youtube-style-tweets/"><u>Aspect Ratio Compliance for YouTube-Style Tweets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/collaborate-on-tracking-discover-the-new-feature-enabling-airtag-sharing-among-multiple-users/"><u>Collaborate on Tracking: Discover the New Feature Enabling AirTag Sharing Among Multiple Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-essential-apple-maps-functions-a-guide-to-its-top-10-hidden-gems/"><u>Discover Essential Apple Maps Functions: A Guide to Its Top 10 Hidden Gems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ideal-podcasting-tools-for-your-apple-tablet-and-phone-experience/"><u>Discover the Ideal Podcasting Tools for Your Apple Tablet & Phone Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-power-of-circle-on-your-iphone-effortless-searching-through-a-handy-shortcut-trick/"><u>Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-your-mobile-id-a-step-by-step-guide-to-finding-your-number-on-iphones-and-androids/"><u>Discovering Your Mobile ID: A Step-by-Step Guide to Finding Your Number on iPhones & Androids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975706099-download-reliable-drivers-for-your-insignia-usb-network-adapter-today/"><u>Download Reliable Drivers for Your Insignia USB Network Adapter Today!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/echoes-of-innovation-experience-an-iphone-with-the-iconic-macintosh-personality/"><u>Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-shift-from-google-snapshots-to-icloud-storage-a-step-by-step-guide/"><u>Effortless Shift From Google Snapshots to iCloud Storage - A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-tips-and-tricks-for-creating-regular-notifications-on-apples-iphoneipad/"><u>Effortless Tips & Tricks for Creating Regular Notifications on Apple's iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-sound-quality-with-airpods-pros-adaptive-audio-feature/"><u>Enhancing Sound Quality with AirPods Pro's Adaptive Audio Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-the-latest-microsofts-ai-the-copilot-app-is-available-on-iphones/"><u>Explore the Latest Microsoft's AI: The Copilot App Is Available on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-elite-premium-protection-options-for-ipad-10gen-models/"><u>Exploring the Elite: Premium Protection Options for iPad 10Gen Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-pinnacle-period-in-smartphone-evolution-the-golden-age-unveiled/"><u>Exploring the Pinnacle Period in Smartphone Evolution – The Golden Age Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-match-best-thermal-pastes-for-modern-cpus-our-in-depth-testing-of-90-products/"><u>Find Your Perfect Match: Best Thermal Pastes for Modern CPUs - Our In-Depth Testing of 90 Products</u></a></li>
+<li><a href="https://os-tips.techidaily.com/from-iphones-to-pixel-phones-embracing-apple-and-cherishing-android-devices/"><u>From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-e13-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-to-creating-and-adding-interactive-buttons-on-ios-devices/"><u>Guide to Creating and Adding Interactive Buttons on iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reinstall-and-configure-audio-drivers-in-windows-1011-when-no-sound-devices-are-recognized/"><u>How to Reinstall and Configure Audio Drivers in Windows 10/11 When No Sound Devices Are Recognized</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-10-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Oppo Reno 10 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-windows-10-savvy-techniques/"><u>In 2024, Ultimate Guide to Windows 10 Savvy Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-storytellers-secrets-utilizing-chatgpt-to-elevate-your-narrative-skills/"><u>Master Storyteller's Secrets: Utilizing ChatGPT to Elevate Your Narrative Skills</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/raspberry-pi-hat-compilation-2024-choosing-the-right-add-on-for-your-innovative-creations/"><u>Raspberry Pi HAT Compilation 2024: Choosing the Right Add-On for Your Innovative Creations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-elgato-driver-downloads-and-installs-made-simple/"><u>Speedy Elgato Driver Downloads & Installs Made Simple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/streamline-gpu-cooling-with-cooler-masters-compact-2-fan-replacement-over-traditional-triple-fans/"><u>Streamline GPU Cooling with Cooler Master's Compact 2-Fan Replacement Over Traditional Triple Fans</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-your-creativity-best-reaction-video-maker-tools-for-2024/"><u>Unleash Your Creativity Best Reaction Video Maker Tools for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-convenience-why-utilizing-google-maps-save-location-function-enhances-your-daily-routine/"><u>Unlocking Convenience: Why Utilizing Google Maps' Save Location Function Enhances Your Daily Routine</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-early-ios-updates-why-paying-for-app-store-isnt-always-necessary/"><u>Unlocking Early iOS Updates - Why Paying for App Store Isn't Always Necessary</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-top-unexpected-revelations-of-apples-revolutionary-vision-pro/"><u>Unveiling the Top Unexpected Revelations of Apple's Revolutionary Vision Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-go-grayscale-understanding-the-benefits-of-a-black-and-white-iphone-interface/"><u>Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface</u></a></li>
+</ul></div>
