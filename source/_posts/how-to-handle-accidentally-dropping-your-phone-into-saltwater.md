@@ -1,7 +1,7 @@
 ---
 title: How to Handle Accidentally Dropping Your Phone Into Saltwater
-date: 2024-09-01T06:54:56.345Z
-updated: 2024-09-02T06:54:56.345Z
+date: 2024-09-05T07:48:28.624Z
+updated: 2024-09-06T07:48:28.624Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/phone_in_ocean_sand_2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Handle Accidentally Dropping Your Phone Into Saltwater
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [First, Try to Find It](https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a14-5g-location-without-installing-software-drfone-by-drfone-virtual-android/)
@@ -21,6 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  You're having a great day at the beach or on the ocean, but your fingers slip, and splash! Down goes your smartphone into the briny deep---or hopefully, just into a few inches of salt water. Either scenario can be devastating, so here's what you should do.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  First, Try to Find It
 
  Unless you're in a situation where it would be dangerous to retrieve the phone, you should try to locate your phone and get it out of the water as quickly as possible. Here's a few ideas: If you can't see the phone, try to feel the phone underwater with your feet, or grab a fishing net and scoop up the sand until you find it.
@@ -31,9 +49,6 @@ Related: [What To Do If You Lose Your Two-Factor Phone](https://hardware-reviews
 
  If you have [AppleCare+ with Theft and Loss](https://support.apple.com/iphone/theft-loss-claims), you can file a claim for a lost iPhone---as long as you had "Find My" enabled on it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Turn It Off, Dry Phone as Much as You Can
 
  Once your phone is out of the water, [power it off](https://facebook-videos.techidaily.com/new-elevate-engagement-escalate-ranks-on-fb-pages/) completely. Use a clean towel to dry the phone off as much as possible. If possible, remove the SIM card tray, any memory card trays, and the battery if it is not built into the phone. If it's in a case that is not waterproof, remove the case as well.
@@ -44,10 +59,6 @@ Related: [Stop Putting Your Phone in Rice](https://sim-unlock.techidaily.com/eas
 
  If your phone isn't water resistant, you may have heard that placing your smartphone in rice will help dry it out, but that's [just a myth](https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/). Rice will do nothing, and leaving it sitting there will give the saltwater stuck inside the phone body extra time to corrode the electronics. If you ever want to use the phone again, you're in a [race against time](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) to disassemble the phone and clean it out before corrosion permanently damages the internal circuitry.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ##  If Possible, Take the Phone Apart
 
  If you feel qualified and capable to disassemble your phone, use the [proper tools](https://www.ifixit.com/Store/Tools/all) to open it up as quickly as possible. iFixit publishes [free guides](https://www.ifixit.com/Device/Phone) that include detailed steps on how to disassemble many popular smartphone models.
@@ -59,7 +70,10 @@ Related: [How Water Damages Electronics](https://blog-min.techidaily.com/5-ways-
 Related: [How to Back Up Your iPhone With iTunes (and When You Should)](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Otherwise, Take it to a Professional
 
@@ -70,7 +84,10 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  If they aren't willing to work on it right away and the phone is very important, take the phone somewhere else. If you have an iPhone, you could consider [getting an appointment](https://facebook-clips.techidaily.com/new-2024-approved-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/) at an Apple store, for example.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  An Ounce of Prevention
 
@@ -81,7 +98,10 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
 ![41uKdhSztZL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41ukdhsztzl-_sl500_-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  JOTO Universal Waterproof Phone Pouch 
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!"
-date: 2024-08-28T04:08:49.036Z
-updated: 2024-08-29T04:08:49.036Z
+date: 2024-09-05T07:48:24.179Z
+updated: 2024-09-06T07:48:24.179Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539d8f70bb67561d5aae5ff3b5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!
 
 ### Quick Links
@@ -38,10 +44,22 @@ Related: [How to Unsend or Edit an iMessage on iPhone, iPad and Mac](https://ins
 
 ![Edit a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Edit-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your recipient can see an Edited indicator below the message that they can select to view the original message.
 
 ![Edit a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Edit-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Undo Send for the Last Message
 
  Along with the Edit feature above, Apple introduced the ability to unsend a text message. This is similar to [recalling an email in Outlook](https://youtube-webster.techidaily.com/approved-pioneering-youtube-success-stories-via-tubebuddy/) or [Gmail](https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100t-drfone-by-drfone-virtual-android/). You can unsend a message for up to two minutes after you send it.
@@ -50,11 +68,14 @@ Related: [How to Unsend or Edit an iMessage on iPhone, iPad and Mac](https://ins
 
 ![Undo Send in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/UndoSend-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Note that your recipient may see the message before you unsend it. However, it does vanish from the conversation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use Inline Replies to Organize Responses
 
  One feature that can help keep your responses organized is [Inline Replies](https://extra-resources.techidaily.com/2024-approved-chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech/). This is handy when you're texting back and forth quickly and want to make it clear which message in the conversation you're replying to.
@@ -65,16 +86,10 @@ Related: [How to Use Inline Replies in Messages on iPhone and iPad](https://extr
 
 ![Reply to a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Reply-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You and your recipient will then see a line connecting the reply to the message in the main conversation. Select the Reply or Replies link below the message to see that entire "side conversation" with the rest blurred.
 
 ![Reply to a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Reply-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Track Flights and Packages
 
  If you receive a message with a flight number for a traveler or tracking number for a package, you can get the status for each directly in the Messages app.
@@ -83,16 +98,21 @@ Related: [How to Use Inline Replies in Messages on iPhone and iPad](https://extr
 
 ![Preview Flight and Track Shipment in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PreviewTrack-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll then see either a small pop-up window or a separate window open displaying the status of the flight or package. You can also obtain additional details as available such as departure and arrival times or [a parcel's current location](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-8-with-7-methods-by-drfone-ios/).
 
 ![Flight and package status in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PreviewedTracked-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Replace Words With Emoji
 
@@ -104,10 +124,22 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 
 ![Emoji icon on an iPhone keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EmojiKey-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see any words in your message that have matching emoji become highlighted. Tap a highlighted word to replace it with the emoji. For some words, you may see different options you can pick from directly above the word.
 
 ![Words highlighted and replaced with emoji in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Emoji-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use a Mention to Get Attention
 
  While this feature works in one-on-one conversations, it's especially useful in group messages. You can [mention a person in a message](https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-13t-by-aiseesoft-video-converter-play-mov-on-android/) which then bolds their name and sends them a notification.
@@ -116,19 +148,12 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 
 ![Mention in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Mention-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Your recipient sees their name nice and bold to get their attention.
 
  You can control the [notifications for mentions in Messages](https://driver-install.techidaily.com/upgrade-nvidia-gtx-970-performance-on-windows-10/). On iPhone and iPad, go to Settings > Messages and use the Notify Me toggle. On Mac, go to Messages > Settings > General and use the check box for Notify Me When My Name is Mentioned.
 
 Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-capture.techidaily.com/updated-2024-approved-perfect-your-game-with-these-top-7-stardew-valley-modifications/) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Handwrite or Sketch a Message
 
  If you want to try something a little different with your next message, how about [handwriting it](https://extra-approaches.techidaily.com/2024-approved-premier-selection-ultimate-omnidirectional-cameras/) or drawing a picture? You can do this on iPhone and iPad and it takes only a minute to make your message special.
@@ -137,22 +162,25 @@ Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-captu
 
 ![Scribble key on the iPhone keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ScribbleKey-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see a blank canvas appear for you to write or draw using your finger (or Apple Pencil on iPad). You can also see recent drawings and suggestions you can pick from along the bottom. Add your message and tap "Done."
 
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll then see your handwriting or sketch in the text message field. Simply send it like any other message.
 
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Filter Messages
 
@@ -165,12 +193,33 @@ Related: [How to Hide Spam Texts From Unknown Senders on iPhone](https://ios-unl
 ![Filters in Messages on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FiltersiPhone-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On Mac, select "View" in the menu bar. Then, choose the filter you want to use to see the results.
 
 ![Filters in Messages on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FiltersMac-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Tapback to Quickly React
 
  One of the fastest ways to acknowledge a text in Messages is with a [Tapback](https://tiktok-clips.techidaily.com/new-in-2024-capture-hearts-on-tiktok-designed-templates-for-visual-impact/). You can respond with a heart, thumbs up, thumbs down, laugh, exclamation, or question mark.
@@ -181,6 +230,18 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
 
 ![Tapback in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Tapback-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For older versions of iOS, iPadOS, or macOS, the recipient sees a text label instead of an icon.
 
 ##  Send Bubble or Screen Effects
@@ -195,14 +256,6 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
 
 ![Effects in Messages on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EffectsMac-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your recipient will see your effect the first time they view the message. They can also tap Replay above the message bubble to enjoy it again.
 
  With these handy Messages features, you can fix a sent message, keep track of deliveries, see only those messages you need, and send something fun to a friend. Are you like us and can't wait to see what Apple brings to Messages next?

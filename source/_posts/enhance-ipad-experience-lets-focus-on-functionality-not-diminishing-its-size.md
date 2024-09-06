@@ -1,7 +1,7 @@
 ---
 title: "Enhance iPad Experience: Let's Focus on Functionality, Not Diminishing Its Size"
-date: 2024-08-28T04:06:16.018Z
-updated: 2024-08-29T04:06:16.018Z
+date: 2024-09-05T07:48:21.509Z
+updated: 2024-09-06T07:48:21.509Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ## Enhance iPad Experience: Let's Focus on Functionality, Not Diminishing Its Size
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * iPad Pros now slimmer with M4 chip & OLED screen but could have used extra space for improved features.
@@ -27,21 +33,27 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ![An iPad and MacBook inside a single MacBook sleeve.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fgpyj6bxmaqs8jb.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 
  I'm sure that many people will be absolutely enthralled at this new iPad that approaches the actual thickness of paper, though [Jerry Rig Everything already measures a 1-degree bend in their test unit out of the box](https://youtu.be/GN6ZlssqNAE?si=8fVXVaoOLd9zxr5-) so we'll see how it works out in the long term.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  MacBooks Have Better Battery Life–and That’s Wrong
 
@@ -52,21 +64,30 @@ Sydney Louw Butler / How-To Geek
  To be fair to Apple, battery tests for the M4 iPad Pros look good and over on [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs), for example, they've clocked the M4 Pro in just short of 15 hours. That's a significant improvement and brings it in line with the M3 MacBook Air. However, I'm of the opinion that the iPad should outpace the MacBook when it comes to battery life given the difference in how people use them on a daily basis.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Those M-Chips Could Use Better Cooling
 
  Speaking of those heavy-duty apps, what's the use of having all that power if you can only use it all in short bursts? While thermal throttling hasn't been an issue on my current M2 or previous iPad Pros, there's certainly more sustained performance to be squeezed from these systems. There are now a few clever passive cooling systems, such as vapor chambers, that are employed in mobile devices, and that space Apple just sliced off could have been diverted to better cooling performance. The [M4 is already a beast](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/),but I can only wonder about what could have been.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Already Great Audio Could Be Better
 
  The iPad Pro's audio is [best in class](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). It's practically engineering black magic, and no sane person could claim it was bad. However, that doesn't mean it couldn't be better. More speakers, bigger speakers, deeper chambers—I don't know how they'd do it, but something tells me the audio engineers could have used that space for something special.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  More Ports Please
 

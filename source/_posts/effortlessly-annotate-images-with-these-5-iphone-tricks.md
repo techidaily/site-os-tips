@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Annotate Images with These 5 iPhone Tricks
-date: 2024-08-28T04:09:00.399Z
-updated: 2024-08-29T04:09:00.399Z
+date: 2024-09-05T07:48:24.404Z
+updated: 2024-09-06T07:48:24.404Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effortlessly Annotate Images with These 5 iPhone Tricks
 
 ### Quick Links
@@ -36,22 +42,58 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap the Markup button to add text to an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup2.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’ll be warned that Live Photo mode will be switched off if you continue. Hit “OK” to proceed and the Markup interface will appear.
 
  Along the bottom of the screen, you’ll see a variety of pens, pencils, erasers, a ruler, a color wheel, and a plus “+” button. Hit the plus “+” button and choose “Add Text” to add a text box to your image.
 
 ![Use the "Add Text" button to add text to an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can now drag the text box into place, wherever you want it. Tap (or double-tap) within the text box to edit what the text says and type your message using the on-screen keyboard.
 
 ![Edit the text box in Markup to add your text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup4.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  At the bottom of the screen, you can adjust the font, text size, alignment, formatting, and text color. While choosing a color you can also adjust the opacity of your text.
 
 ![Use the text formatting tools to adjust text size, color, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you’re done, hit “Done” in the top-right corner of the screen. You can edit your text later by coming back to the Markup menu using the pen icon in the top-right corner of the screen. Share your image as you would normally from the Photos app and the text will be included.
 
 ##  Add Text Using Freeform
@@ -69,7 +111,16 @@ Tim Brookes / How-To Geek
 ![Add images to your canvas in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  With your image in place, tap on the “Text Box” button at the bottom of the screen. Drag the text box in place then double-tap inside it to edit your text. Use the text formatting tools above the keyboard to customize the size, color, and alignment of your text.
 
@@ -85,9 +136,6 @@ Tim Brookes / How-To Geek
 
 ![Use a Shortcuts workflow to convert PDF to image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Now open the PDF, hit Share, and tap on the “PDF Page to Image” Shortcut you just made. Your image will be in Photos, where you can crop and trim it as necessary.
 
 ##  Add Text Using Pages
@@ -105,26 +153,41 @@ Tim Brookes / How-To Geek
 ![Add media to a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Tap on your image to select it, then tap on the “Formatting” paintbrush icon to reveal more options. Under “Arrange” choose “More Options” and then set “Text Wrap” to “None.” This instructs Pages not to move text around if it intersects with the image.
 
 ![Adjust text wrapping in a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, hit the plus “+” button again and, on the diagrams tab, select “Text” to add a text box. Double-tap within the text box and edit the text as necessary. Finish up and tap the text box to select it, then use the “Formatting” paintbrush icon to edit the font, size, color, and more on the “Text” tab.
 
 ![Adding text using a text box in Pages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Add more images, diagrams, and whatever else you see fit. Then hit the ellipsis “…” button and choose “Export” followed by “Images” to export as an image. Use the “Save Image” button to add the image to your Photos library.
 
 ![Export a Pages document as an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lastly, find the image and hit “Edit” and then crop out the white space. You can now share your image.
 
 ##  Add Text Using Third-Party Apps
@@ -146,9 +209,16 @@ Tim Brookes / How-To Geek
 ![insta2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Adding text to an Instagram story.
 
@@ -156,9 +226,6 @@ Adding text to an Instagram story.
 
 ![Saving an image to your Camera Roll via Instagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Now open up Photos, find the image, tap “Edit” and crop the image to your liking. You can now share it as you would any other.
 
 ##  Add Text Using a Web App
@@ -170,27 +237,41 @@ Adding text to an Instagram story.
 ![Opening an image in the Pixlr editor for web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Use the toolbar at the bottom of the screen to select “Text” then select “Add new text” or choose from one of the stylized text tools.
 
 ![Adding a text box to an image in Pixlr Express.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Scroll down and change the “Text” box to whatever you want to text to read. You can now adjust other aspects like the size, color, and so on. You can add a curve, warp, background, outline, and shadow to the text if you want.
 
 ![Add custom text to your text box in Pixlr.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Drag the text into place until you’re happy with it. Add more text or other effects to your image, then hit “Save” at the top of the screen to export it when you’re ready.
 
 ![Export your Pixlr canvas as a JPEG.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Choose an image format, size, and quality level, and then use the “Download” button to save the image.
 
 ##  Alternatively, Use a Computer

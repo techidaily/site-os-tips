@@ -1,7 +1,7 @@
 ---
 title: "Extracting Audio From iPhone Videos: A Step-by-Step Tutorial"
-date: 2024-09-01T06:54:49.554Z
-updated: 2024-09-02T06:54:49.554Z
+date: 2024-09-05T07:48:28.531Z
+updated: 2024-09-06T07:48:28.531Z
 tags:
   - ios
 categories:
@@ -24,6 +24,18 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  Looking to extract audio from a video file on your iPhone? You don't need to download third-party apps; the built-in Shortcuts app is all you need. Here's a quick guide on using Shortcuts to extract audio from a video file.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create a Shortcut to Extract Audio From a Video File
 
  Since we'll [use the Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to extract audio, first ensure it's installed on your iPhone. If you don't find the app on your phone, you may have deleted it. If that's the case, all you need to do is reinstall [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) from the App Store.
@@ -31,19 +43,31 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 ![Downloading the Shortcuts app from Apple Store on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-downloading-the-shortcuts-app-from-apple-store-on-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now open the app and tap the "+" icon in the top-right corner to start creating your shortcut.
 
 ![Clicking on the plus icon to create a new shortcut in the Shortcuts app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-clicking-on-the-plus-icon-to-create-a-new-shortcut-in-the-shortcuts-app-on-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Next, tap on the shortcut name at the top, tap "Rename" to assign a new name to the shortcut.
 
 ![Tapping on rename to rename a new shortcut in the Shortcuts app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-tapping-on-rename-to-rename-a-new-shortcut-in-the-shortcuts-app-on-an-iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap on the information symbol "i" at the bottom and make sure that "Show in Share Sheet" is enabled, then tap "Done." This will cause the shortcut to appear in the Share Sheet options for easy access.
 
 ![Enabling the 'Show in Share Sheet' option for a shortcut in the Shortcuts app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-enabling-the-show-in-share-sheet-option-for-a-shortcut-in-the-shortcuts-app-on-an-iphone.jpg) 
@@ -56,22 +80,31 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![Tapping on 'Add Action' to add an action for the shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-tapping-on-add-an-action-to-create-an-action-for-the-shortcut-on-iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap "Shortcut Input" to reveal the expanded options for the newly added shortcut. Turn on the toggle for "Audio Only" and modify the audio format if you want, then collapse the options again.
 
 ![Customizing the action created for a shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-customizing-the-action-created-for-a-shortcut-on-iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, add one more action to save the extracted audio output. Tap on the search bar at the bottom, type "Save File" and select the "Save File" option that appears. After that, tap "Done" and your shortcut will be successfully created.
 
 ![Adding a 'Save File' action in the shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-adding-a-save-file-action-in-the-shortcut-on-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Use the Shortcut to Extract Audio From a Video File
 
@@ -80,13 +113,21 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 ![Shortcut appearing in the Share Sheet options on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-shortcut-appearing-the-share-sheet-options-on-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Next, choose a location where you'd like to save the extracted audio and tap "Open."
 
 ![Selecting the location to save the output of the shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-selecting-the-location-to-save-the-output-of-the-shortcut-on-iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait a few seconds until you see a checkmark at the top of the screen indicating that the Shortcut ran successfully and that the audio has been successfully extracted. Now find the file you just created in the Files app and start enjoying your extracted audio!
 
  You can also [permanently remove audio from a video](https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-to-ken-burns-effect-in-final-cut-pro-tips-tricks-and-best-practices/) before sharing it on your iPhone.
@@ -101,7 +142,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 ![Adding a shortcut to the homescreen from the Shortcuts app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/14-adding-a-shortcut-to-the-homescreen-in-the-shortcuts-app-on-iphone.jpg)
 * Ensure the video file is in a format supported by the iPhone. To check that, attempt to extract audio from a different video having the same format. If the issue persists, it indicates a format problem. In that case, you should convert the video file to a format the iPhone supports before extracting audio from it.
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * Delete the shortcut and recreate it from scratch. Open the Shortcuts app, long-tap the shortcut, and tap "Delete."  
 ![Deleting a shortcut in the Shortcuts app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-deleting-a-shortcut-in-the-shortcuts-app-on-iphone.jpg)

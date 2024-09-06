@@ -1,7 +1,7 @@
 ---
 title: IPhone Update News & Product Safety Announcements - Weekly Summary
-date: 2024-08-28T04:08:08.652Z
-updated: 2024-08-29T04:08:08.652Z
+date: 2024-09-05T07:48:23.424Z
+updated: 2024-09-06T07:48:23.424Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/10-hidden-ios-features-1.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IPhone Update News & Product Safety Announcements - Weekly Summary
 
 This was a big week for tech news, with Apple’s WWDC event, Microsoft’s ongoing Recall problems, and everything in between. Here are the biggest stories you might have missed.
@@ -21,11 +27,14 @@ This was a big week for tech news, with Apple’s WWDC event, Microsoft’s ongo
 
 ![Jabra Elite 10 Gen 2 inside their smart case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/jabra-elite-10-gen-2-inside-their-smart-case.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### [Apple's macOS Sequoia Delivers Three of My Most-Wanted Features](https://facebook-video-recording.techidaily.com/revolutionize-traffic-flows-with-innovative-facebook-video-tactics-for-2024/) 
 
  Window management features, iPhone Mirroring, a Passwords app, and more are coming to a Mac near you.
@@ -36,33 +45,78 @@ Tyler Hayes / How-To Geek
 
 ![Microsoft Recall searching for a red barn.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/recall-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [iOS 18 Update Has Home Screen Upgrades, New Mail Features, and More](https://some-guidance.techidaily.com/2024-approved-the-ultimate-visual-companion-premium-webcams-for-podcasts/) 
 
  This might be the biggest update for iPhones in years.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Tile Just Had a Security Breach](https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-meizu-21-pro-drfone-by-drfone-virtual-android/) 
 
  Life360, the company that makes Tile Bluetooth trackers, suffered a security breach after a hacker gained access to an internal tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Apple Bakes More Predatory Lending Options Into the iPhone](https://audio-shaping.techidaily.com/updated-free-web-based-daws-that-are-changing-music-production-the-top-10-for-2024/) 
 
  As if the Apple credit card and Pay Later service weren't enough.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Microsoft is Reinforcing Outlook With New Security Changes](https://tech-haven.techidaily.com/unleash-the-power-of-ai-5-ways-chatgpt-elevates-your-bitcoin-and-altcoin-strategies/) 
 
  Outlook is getting a bit more secure with the shutdown of the light Outlook web app, the end of Gmail support in the main Outlook web app, and other changes.
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Can’t Wait for Your Spotify Wrapped? Get Ready for “My Spotify”](https://driver-download.techidaily.com/1722964857222-cross-platform-support-download-m-audio-fast-track-drivers-suitable-for-windows-11-7-8-and-eight/) 
 
  Spotify is rolling out a new highlight summary to subscribers, called My Spotify. It’s sort of like a mid-year version of the yearly Wrapped summaries.
@@ -72,7 +126,10 @@ Microsoft
 Samsung
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [The Galaxy Watch FE Is Just an Old Watch with a New Name](https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/) 
 
@@ -82,18 +139,6 @@ Samsung
 
  Firefox 127 is now rolling out with a revamped screenshot tool and some great security fixes.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Other Stuff
 
 _Reuters_ reports that [MediaTek is working on ARM-based processors](https://www.reuters.com/technology/mediatek-designs-arm-based-chip-microsofts-ai-laptops-say-sources-2024-06-11/) for Windows PCs. That could make MediaTek another competitor for chips in ARM laptops, as the [first Windows laptops](https://extra-resources.techidaily.com/enhancing-stories-through-animations-with-movie-maker/) with Qualcomm’s Snapdragon X Elite chips are about to arrive. AMD and NVIDIA are also rumored to be working on PC ARM chips.

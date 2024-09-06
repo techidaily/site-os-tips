@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: How I Keep My iPhone Free of Memory Issues"
-date: 2024-08-28T04:09:57.582Z
-updated: 2024-08-29T04:09:57.582Z
+date: 2024-09-05T07:48:25.386Z
+updated: 2024-09-06T07:48:25.386Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496eb332810c3bf1138a8452ea4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Essential Tips: How I Keep My iPhone Free of Memory Issues
 
 ### Quick Links
@@ -41,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![App download history on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-04-redownload.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2  Clear Out Your Deleted Photos 
 
@@ -51,6 +60,18 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Recently Deleted photos menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-05-recently-deleted.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap “Select” in the top-right corner, then tap the three dots (…) that appear in the bottom-right corner. Choose “Delete All” from the pop-up menu, then tap “Delete From This iPhone” to permanently delete everything in your Recently Deleted folder. You'll want to do this regularly to keep your iPhone storage free.
 
 ## 3  Pay Attention to the Size of Downloads 
@@ -62,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![App file size info on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-06-app-store-info.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Something to keep in mind is that some apps and games (particularly [live service games](https://facebook-video-share.techidaily.com/unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube-for-2024/)) often download even more data once you start them up for the first time. Since I'm always trying to keep my iPhone storage free, I'm very particular about which large apps I download in the first place.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 4  Move Photos and Videos to the Cloud 
 
  Of course, there’s also the option to transfer media to your iCloud account. That way, it doesn’t take up space on your phone but will still be readily accessible (as long as you have an internet connection).
@@ -77,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Sync This iPhone toggle for iCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-07-icloud-sync.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After uploading, you'll want to Settings > Photos > Optimize iPhone Storage to make your iPhone automatically save space by reducing the size of photos kept on your device. Be aware that you only get 5GB of iCloud storage for free. More than that will require [paying for more storage space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/).
 
  Alternatively, you can [use Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/) (which offers up to 15GB of storage for free). Open the Google Drive app, or download it first and sign in if it’s not already on your iPhone, then open the Google Drive folder you want to transfer items to.
@@ -87,12 +105,21 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![Upload file option in Google Drive app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-08-google-drive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Tap the plus (+) icon in the bottom-right corner and select “Upload File” from the pop-up menu. Choose “Photos and Videos” (you may need to give the app access to your Photo Library first), select one or more photos or videos, then tap “Done.”
 
  Choose the “Recents” album from the pop-up menu and select the files again, then tap “Upload” to transfer them to the selected Google Drive folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  Adjust the Photo and Video Settings 
 
  While apps and games tend to take up more space per item, your photo and video library can start to take up a large chunk of space with everything combined. It’s possible to slow down this encroaching buildup of media files by choosing format settings that reduce their overall file size.
@@ -103,12 +130,27 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Record Video resolution and fps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-10-record-video-options.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Back in the Camera menu, select “Formats” and change the Camera Capture setting to “High Efficiency.” Turn off the toggle next to “Apple ProRAW” to reduce photo file sizes, too.
 
 ![Apple ProRAW toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-12-apple-proraw.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6  Use an Old Phone for Spillover 
 

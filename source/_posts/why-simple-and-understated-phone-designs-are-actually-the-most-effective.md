@@ -1,7 +1,7 @@
 ---
 title: Why Simple and Understated Phone Designs Are Actually the Most Effective
-date: 2024-08-28T04:10:40.381Z
-updated: 2024-08-29T04:10:40.381Z
+date: 2024-09-05T07:48:26.206Z
+updated: 2024-09-06T07:48:26.206Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53467816952_48c3116e8b_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Simple and Understated Phone Designs Are Actually the Most Effective
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [We've Figured Out How to Make Good Phones](https://vimeo-videos.techidaily.com/new-2024-approved-boosting-your-videos-chance-on-vimeo-staff-list/)
@@ -33,8 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  We've Figured Out How to Make Good Phones
 
@@ -48,6 +62,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Most people don't closely follow the release of every new phone. They buy their phone, they wait two or three years, and then they get a new one. If they like the phone they have, then they probably look for a phone similar to the one they already own.
@@ -56,6 +76,12 @@ Tyler Hayes / How-To Geek
 
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You Can Still Switch Brands to Try Something New
 
  A wide range of varying smartphone designs still exist. These differences simply exist between brands rather than specific models. If you like a muted minimalist design, Samsung caters to that. If you want your smartphone brand to serve as a status symbol, iPhones have an Apple logo that's easy to see. If you want hardware that lights up or feels very cyberpunk, buy a [Nothing Phone](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) or an ROG Phone.
@@ -72,16 +98,10 @@ Tyler Hayes / How-To Geek
 
  This has worked in the iPhone's favor for a long time now. Each iPhone is a known quantity. The removal of the home button, the expansion of the screen size to fill the entire front of the device, and the addition of a camera bump are perhaps the most notable changes to the design of the phone since the release of the first model. This gradual evolution has meant that from year to year, each iPhone looks recognizable to people who own previous models. The software has expanded, but it has come with a degree of consistency that Android has not had over the same period of time.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ##  ​We're More Productive When Things Stay the Same
 
 ![Person using the Camera app to take photo with the Google Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53249989394_936f059fc3_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Many of us crave fun experimentation when we're younger, but this fades as we get older. Every small change can throw off our work schedule. If I go to activate a feature that apparently no longer exists, I now have to spend part of my day figuring out a new option. Even changing a setting can throw off an hour of work. Consistency is a feature. Change is a bug.
@@ -93,21 +113,10 @@ Justin Duino / How-To Geek
  The Galaxy S23 Ultra may have looked near identical to its predecessor, but according to [Android Police](https://www.androidpolice.com/samsung-flagship-phones-apple-iphone-sales/), the former outsold the latter by over 6 million units. Samsung was not punished for keeping so much the same. If anything, it was rewarded.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Redesigning Hardware Is Less Sustainable
 
@@ -115,16 +124,10 @@ Key features:
 
  Whenever a phone changes, that means old cases no longer fit. We often have to throw out old charging cables and replace our earbuds. The impact throughout the supply chain is greater. All kinds of modules have to be resized and retooled. The more things that can be kept the same each year, the more we and manufacturers can reuse the stuff we already have.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
 ![OnePlus Open outside display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  Those of us who review gadgets tend to discourage innovation more often than we think. Consider how Samsung used the fact that the Z Fold line can flip open to experiment with making the device more narrow and easy to hold. Many have complained that it isn't the size and shape of a standard phone. In contrast, people have praised the newer OnePlus Open for looking like a standard slab phone when closed. The holy grail, apparently, is for foldable phones to be almost indistinguishable from slab phones.

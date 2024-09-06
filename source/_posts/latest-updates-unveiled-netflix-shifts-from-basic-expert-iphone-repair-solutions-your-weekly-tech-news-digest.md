@@ -1,7 +1,7 @@
 ---
 title: "Latest Updates Unveiled: Netflix Shifts From Basic, Expert iPhone Repair Solutions – Your Weekly Tech News Digest"
-date: 2024-08-28T04:11:04.878Z
-updated: 2024-08-29T04:11:04.878Z
+date: 2024-09-05T07:48:26.648Z
+updated: 2024-09-06T07:48:26.648Z
 tags:
   - ios
 categories:
@@ -13,12 +13,24 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 
 This was another busy week for tech news, with changes coming to iPhone repairs, Netflix, and much more. Here are the biggest stories you might have missed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Big News
 
 ### [Fire TV Just Turned Its Beautiful Screensaver Into Ad Space](https://some-approaches.techidaily.com/updated-syncopated-syntax-showcase/) 
 
  Ambient Experience will now show an occasional ad banner.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Authy May Have Just Leaked Your Phone Number](https://youtube-video-recordings.techidaily.com/effortless-guide-to-designing-youtube-follow-links/) 
 
  Twilio, the company behind Authy, confirmed hackers were able to access phone numbers belonging to Authy users.
@@ -29,28 +41,43 @@ This was another busy week for tech news, with changes coming to iPhone repairs,
 
 ![Photo of a person with a VR headset building a crib with 3D overlay windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/quest-commercial.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Meta](https://www.youtube.com/watch?v=34-DDtOmuJE)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Microsoft’s Office Web Apps Have a Fresh New Design](https://extra-guidance.techidaily.com/mastering-online-tale-creation-fundamentals-for-2024/) 
 
  Word, PowerPoint, and Excel on the web are now a bit easier to use.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Netflix is Starting To Kill Off Its Basic Plan](https://facebook-record-videos.techidaily.com/updated-the-insiders-guide-to-youtube-money-minimum-video-views-needed/) 
 
  If you still had Netflix’s original Basic plan with no ads, you’ll soon have to upgrade to a more premium plan or deal with ads.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [You Could Brick Your Pixel 6 With a Factory Reset](https://video-screen-grab.techidaily.com/new-essential-webcams-for-peak-twitch-performance-for-2024/) 
 
  Google calls this a "known issue" and is currently searching for a solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Linux Mint 22 Beta Is Now Available](https://extra-approaches.techidaily.com/new-moviemeld-insights-full-editing-review/) 
 
@@ -58,30 +85,38 @@ This was another busy week for tech news, with changes coming to iPhone repairs,
 
 ![Screenshot of desktop on Linux Mint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cinnamon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 Linux Mint
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### [Proton Drive Now Has a Google Docs Clone](https://win-answers.techidaily.com/fix-iphone-unrecognized-by-itunes-on-windows-11-solutions-and-tips/) 
 
  More than just end-to-end encrypted files.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Microsoft Excel’s Web App Just Got a Massive Overhaul](https://video-capture.techidaily.com/in-2024-capture-call-transcript-for-study/) 
 
  Create inserts, freeze panes, and move elements with a single mouse click.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### [Hackers Are Targeting This Router, and D-Link Won't Patch It](https://youtube-blog.techidaily.com/024-approved-mastering-youtube-ultimate-guide-to-live-360-degree-streams/) 
 
  The D-Link DIR-859 reached end of life in 2020 and should be replaced.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Other Stuff
 
  You might remember Nike’s self-lacing Adapt BB shoes that were released in 2019\. Nike just announced that [the shoes are now discontinued](https://www.engadget.com/nike-is-killing-the-app-for-its-futuristic-adapt-bb-sneakers-120039424.html), and the mobile app used for some functionality will be removed from the Apple App Store and Google Play Store. The shoes won’t be completely useless without the app, but it’s yet another example of products becoming worse when the connected apps are shut down.

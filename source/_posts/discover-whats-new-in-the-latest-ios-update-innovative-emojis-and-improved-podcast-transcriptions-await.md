@@ -1,7 +1,7 @@
 ---
 title: Discover What's New in the Latest iOS Update – Innovative Emojis and Improved Podcast Transcriptions Await!
-date: 2024-08-28T04:07:50.892Z
-updated: 2024-08-29T04:07:50.892Z
+date: 2024-09-05T07:48:23.148Z
+updated: 2024-09-06T07:48:23.148Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-the-apple-iphone-15-pro-max.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover What's New in the Latest iOS Update – Innovative Emojis and Improved Podcast Transcriptions Await!
 
 Apple released iOS 17 for iPhones and iPadOS 17 for iPads last year, complete with new iMessage features, custom lock screens for iPads, a Journal app, StandBy Mode on MagSafe charging stands, and other helpful features. There have been a few minor updates since then, and now version 17.4 is rolling out.
@@ -17,6 +23,18 @@ Apple released iOS 17 for iPhones and iPadOS 17 for iPads last year, complete wi
 
 ![Screenshot of transcription for a podcast episode in Apple Podcasts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/image.png) 
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Apple](https://www.apple.com/newsroom/2024/03/apple-introduces-transcripts-for-apple-podcasts/)
 
  Besides the geo-restricted features, iOS 17.4 and iPadOS 17.4 add support for automatic transcriptions in Apple Podcasts. When you’re playing an episode, there’s a button to show a transcript that is highlighted with the current spoken section, and you can search the entire text for specific phrases. Podcasts hosted on Spotify and YouTube have a similar feature.
@@ -150,8 +168,3 @@ Apple released iOS 17 for iPhones and iPadOS 17 for iPads last year, complete wi
 <li><a href="https://hardware-tips.techidaily.com/uncover-tech-secrets-the-ultimate-guide-by-toms-hardware/"><u>Uncover Tech Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-13c-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi 13C 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->

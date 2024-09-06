@@ -1,7 +1,7 @@
 ---
 title: "The Star-Crossed Love Affair: Me and the Unavailable Cosmic Ring From Samsung"
-date: 2024-09-01T06:54:21.004Z
-updated: 2024-09-02T06:54:21.004Z
+date: 2024-09-05T07:48:28.022Z
+updated: 2024-09-06T07:48:28.022Z
 tags:
   - ios
 categories:
@@ -25,6 +25,18 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 ![A closeup of a hand wearing the Samsung Galaxy Smart Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53845587922_fea0fbb305_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  The new kid on the block has a fair bit going for it. Samsung is a far better-known brand than Oura, and so the company's smart ring received a lot of press attention for this reason. For many people, the first time they become aware of a tech category is when one of the big names gets into the game.
@@ -41,15 +53,18 @@ Justin Duino / How-To Geek
 
 ![Oura Ring held in a hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/oura-ring-held-in-a-hand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How To Geek
 
  The Galaxy Ring, in contrast, gives full access to all available data in the Samsung Health app without any ongoing cost. At a time when consumers are increasingly suffering from subscription fatigue, that’s a big selling point for Samsung. It also means you can gift the ring (or pass it on to someone when you're done with it) without worrying about them needing to pay for a subscription to get the most out of it.
 
  But there’s a problem...
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Galaxy Ring Requires a Galaxy Phone
 
  Samsung has chosen to make the Ring exclusive to Galaxy smartphone owners. To be clear, that’s not a technical issue. The Samsung Health app runs on any smartphone, including iPhone, and the Ring sends its data to the app via a perfectly standard Bluetooth connection. There's no reason the Ring couldn't work with any smartphone that satisfies these requirements.
@@ -57,15 +72,15 @@ Tyler Hayes / How To Geek
 ![Samsung Galaxy Ring app running on a Galaxy Z Flip 6.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-ring-app-running-on-a-galaxy-z-flip-6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  No, this is a purely commercial decision. Samsung is hoping the Ring will be sufficiently appealing that making it exclusive to its Galaxy phones will persuade people to buy one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  That’s a Gamble With Android
 
  For other Android phone owners, that’s a gamble. Some may not care about the brand of their phone, or be wedded to any particular features or design elements it may offer. That’s a slice of the market which may be happy to switch to Samsung the next time they upgrade. Perhaps some will even be keen enough on the Ring to upgrade ahead of schedule and buy a Galaxy phone now.
@@ -75,7 +90,10 @@ Justin Duino / How-To Geek
  In trying to force people to buy Galaxy phones, Samsung is locking itself out of many potential Ring sales it might otherwise have made.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  It's a Wild Bet for iPhone
 
@@ -90,7 +108,16 @@ Justin Duino / How-To Geek
 ![Apple Watch Series 8 in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple_watch_s8_hand.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
@@ -99,7 +126,10 @@ Tim Brookes / How-To Geek
  It’s not just the size of the market, either. iPhone owners, on average, have higher disposable incomes, and a known propensity for buying sleek technology. Like, oh, I don’t know, a smart ring.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Samsung Won't Take Your Money
 

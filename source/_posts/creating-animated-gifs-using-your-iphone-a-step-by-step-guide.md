@@ -1,7 +1,7 @@
 ---
 title: "Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide"
-date: 2024-09-01T06:54:43.458Z
-updated: 2024-09-02T06:54:43.458Z
+date: 2024-09-05T07:48:28.450Z
+updated: 2024-09-06T07:48:28.450Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b4810305a265213fc94683f22a3e9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Share Live Photos as GIFs](https://article-posts.techidaily.com/new-in-2024-streamlining-the-update-process-for-accurate-tiktok-age-details/)
@@ -24,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
  Looping animated GIFs became popular during the early days of the internet when slow connection speeds made streaming video prohibitive. The format never really went away, so it's handy to know how to produce GIFs right on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Share Live Photos as GIFs
 
  Live Photos are still images that capture a small amount of motion in a small video file every time you hit the shutter. You can peruse your collection of Live Photos by launching Photos and then heading to Albums > Live Photos.
@@ -31,25 +49,49 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ![Find the Live Photos album in the Photos app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photos_album.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To make sure you're capturing a Live Photo when you take a picture, look for the Live Photos icon above or to the side of the viewfinder. It looks like three circles. If you see a line through the middle of it, that means the feature is off. Tap it to turn it on.
 
 ![Enable Live Photos in Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photo_camera.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Live Photos will be converted into GIFs automatically, depending on where you share them. The first thing you need to do is locate a Live Photo within the Photos app. Open it and you should see a "Live" button appear in the top-left corner of the image with a drop-down arrow.
 
 ![Live Photo drop-down selector](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photo_button.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap on the arrow and choose "Loop" or "Bounce" from the menu that appears. Loop will attempt to seamlessly loop your Live Photo, with varying degrees of success. Loop works best for repetitive motions that blend well, shot from a relatively static perspective. Bounce simply plays then reverses the whole Live Photo.
 
 ![Choose between Live, Loop, and Bounce](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_loop_bounce.jpg) 
 
  Pick one and preview the effect, then when you're ready to share hit the "Share" button (which looks like a box with an arrow pointing upwards). Now pick a destination app, like WhatsApp, and your Live Photo should send as a GIF. In some apps, the loop will be sent as a video, in which case you might want to use Shortcuts instead.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Turn Live Photos or Videos into GIFs with Shortcuts
 
  If your Live Photo isn't sharing as a GIF, you can force your iPhone to create a GIF using the Shortcuts app instead. This technique is also ideal for videos. For Live Photos you should follow the instructions above to "Loop" or "Bounce" the animation before you begin.
@@ -58,6 +100,12 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Trim a video to size on your iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/trim_video.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With your Live Photo or video ready to go, it's time to build a shortcut that will export it to GIF and save it to your Photos app. To do this, launch the Shortcuts app on your iPhone or re-download it from the [App Store](https://apps.apple.com/au/app/shortcuts/id915249334) if you have previously deleted it. [Shortcuts is an app that lets you create time-saving workflows](https://buynow-help.techidaily.com/expert-review-how-the-new-apple-iphone-12-sets-the-bar-higher-than-ever/), and it has all sorts of uses.
 
 **Note:** If you'd rather just download this Shortcut there's a link at the end of this section. Understanding how the shortcut is built and what options you have available to you is useful for editing and making your own in the future.
@@ -66,6 +114,18 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Create new shortcut in Shortcuts for iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shortcuts_new.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap the "Add Action" button to reveal a list of categories.
 
 ![Add Action to iPhone shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/add_action.jpg) 
@@ -74,13 +134,16 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Add the "Make GIF" action to your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/search_gif.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The action will be added to your workflow. Next, tap on the "Content" button that appears and choose "Shortcut Input" from the list. We're doing this so that the shortcut targets the video or Live Photo you have open whenever it is triggered.
 
 ![Make GIF from "Shortcut Input" in Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shortcut_input.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap the arrow that appears within the action to reveal some options, including timing under "Seconds per Photo" and an "Auto Size" toggle. Be aware that turning off auto-sizing will cause your GIFs to be massive. You can always edit these settings later if you're unhappy with the results.
 
 ![Change GIF parameters in the action field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/gif_settings.jpg) 
@@ -95,16 +158,10 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Make sure you can trigger your shortcut from the Share Sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/share_sheet.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Finally, use the search box at the bottom of the screen to search for "quick look" and add a Quick Look action to the end of your workflow. This will preview the GIF you just made and makes it easy to share or save the output.
 
 ![Add the "Quick Look" action to your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/add_quick_look.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  All that's left to do is give your new shortcut a name and icon at the top of the screen. Hit "Done" and save your shortcut. It will appear in the Shortcuts app alongside your other workflows.
 
 ![Give your new shortcut a name and an icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/name_shortcut.jpg) 
@@ -114,37 +171,33 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ![Make sure you can trigger your shortcut from the Share Sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/share_sheet.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Use the "Share" button in the bottom-left corner to save, share, AirDrop, and more. When you hit "Done" your GIF will be discarded.
 
 ![Live Photo converted to GIF using Shortcuts on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/IMG_0076.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Tim Brookes / How-To Geek_
 
  The GIF above was created from a Live Photo using "Loop" with "Auto Size" enabled. We used a "Seconds per Photo" value of 0.1 seconds to achieve slightly faster motion. [Download this shortcut](https://www.icloud.com/shortcuts/2fef5aa70c9d4974a36c8405720953ee) and add it to your Shortcuts app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Capture GIFs with Your Camera using GIPHY
 
  When all else fails, third-party apps come to the rescue. [GIPHY for iPhone](https://apps.apple.com/us/app/giphy-the-gif-search-engine/id974748812) isn't just a repository of memes but a fully-fledged GIF camera and converter. You can use the app to shoot GIFs using your iPhone camera and convert existing videos and Live Photos while adding filters, stickers, and effects. The app has a pretty self-explanatory interface, and most functions appear under the "Create" button.
 
 ![Create GIFs with GIPHY's "Create" feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/giphy_create.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  GIPHY lets you save videos and GIFs, and there's no need to upload your files to the internet either. Best of all there are no watermarks to contend with. It's a solid choice if you're not getting on with built-in apps like Photos and Shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ##  GIFs that Keep on Giving
 
  Animated GIFs are synonymous with the early internet for many. By using an ungodly amount of compression and a handful of frames you could put up a pretty "under construction" image on your GeoCities page, or stand out among a sea of affiliate sites in a website's sidebar.

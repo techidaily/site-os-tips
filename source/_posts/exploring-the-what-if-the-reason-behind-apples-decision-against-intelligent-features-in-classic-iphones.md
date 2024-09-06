@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones"
-date: 2024-08-28T04:09:05.796Z
-updated: 2024-08-29T04:09:05.796Z
+date: 2024-09-05T07:48:24.500Z
+updated: 2024-09-06T07:48:24.500Z
 tags:
   - ios
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117f9a410f704fd68a5566fdfc.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Apple Intelligence Is Not Coming to Older iPhones](https://twitter-videos.techidaily.com/updated-revolutionize-your-followers-list-with-top-twitter-cleanup-tools-for-2024/)
@@ -27,7 +45,16 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  Even though Apple Intelligence looks genuinely innovative, it's getting a lot of backlash due to its availability. The feature won't be coming to most iPhones on the market, even though they are technically capable of running it. But there is a very compelling reason behind this decision.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why Apple Intelligence Is Not Coming to Older iPhones
 
@@ -59,14 +86,20 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
 
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Apple and Privacy, A Never-Ending Story
 
@@ -78,24 +111,21 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
 
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
 
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Changes I Want to See in Apple Intelligence in the Future
 

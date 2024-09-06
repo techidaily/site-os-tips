@@ -1,7 +1,7 @@
 ---
 title: Unveiling Adobe's Leap Into Future with Generative Artificial Intelligence in Express App Beta Version
-date: 2024-08-28T04:07:41.895Z
-updated: 2024-08-29T04:07:41.895Z
+date: 2024-09-05T07:48:23.008Z
+updated: 2024-09-06T07:48:23.008Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/10.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling Adobe's Leap Into Future with Generative Artificial Intelligence in Express App Beta Version
 
 Adobe is bringing more of its Firefly generative AI features to mobile devices. The new [Adobe Express app beta](https://news.adobe.com/news/news-details/2024/New-Adobe-Express-Mobile-App-Brings-Firefly-Generative-AI-Models-Directly-into-Mobile-Workflows-/default.aspx), which will eventually replace the standard Adobe Express app, includes AI-powered features like Generative Fill and [Text to Image](https://www.adobe.com/products/firefly/features/text-to-image.html) effects. It also supports real-time collaboration with the desktop version of Express.
@@ -100,7 +106,3 @@ Adobe is bringing more of its Firefly generative AI features to mobile devices. 
 <li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco X6 Pro</u></a></li>
 <li><a href="https://network-issues.techidaily.com/win11-updates-fix-atheros-driver-for-quality-connectivity/"><u>Win11 Updates Fix Atheros Driver for Quality Connectivity</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->

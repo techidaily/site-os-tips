@@ -1,7 +1,7 @@
 ---
 title: Double Tap Feature Added to Apple Watch Series
-date: 2024-09-01T06:56:01.188Z
-updated: 2024-09-02T06:56:01.188Z
+date: 2024-09-05T07:48:29.665Z
+updated: 2024-09-06T07:48:29.665Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53213258883_bbc5534fec_o-1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Double Tap Feature Added to Apple Watch Series
 
 The [Apple Watch Series 9](https://facebook-video-recording.techidaily.com/demystifying-the-symbolism-of-a-blue-marker-in-facebook-chats/) and [Apple Watch Ultra 2](https://youtube-help.techidaily.com/new-mastering-your-youtube-pinpointing-a-specialized-audience/) launched without one of their flagship features—the creative Double Tap gesture. But Double Tap is now rolling out with the watchOS 10.1 update. Older models of Apple Watch also gain some improvements with this update, most notably [NameDrop](https://visual-screen-recording.techidaily.com/new-revolutionize-virtual-participation-with-top-10-free-recorder-software/) support.
@@ -91,7 +97,3 @@ The [Apple Watch Series 9](https://facebook-video-recording.techidaily.com/demys
 <li><a href="https://os-tips.techidaily.com/unveiling-shazams-latest-feature-pinpointing-songs-played-through-personal-earbuds/"><u>Unveiling Shazam's Latest Feature: Pinpointing Songs Played Through Personal Earbuds!</u></a></li>
 <li><a href="https://os-tips.techidaily.com/why-unsubscribing-from-apple-arcade-is-out-of-the-question-a-deep-dive-into-three-compelling-reasons/"><u>Why Unsubscribing From Apple Arcade Is Out of the Question: A Deep Dive Into Three Compelling Reasons</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

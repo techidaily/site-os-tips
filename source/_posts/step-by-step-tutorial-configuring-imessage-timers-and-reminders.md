@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Configuring iMessage Timers & Reminders"
-date: 2024-09-01T06:55:23.952Z
-updated: 2024-09-02T06:55:23.952Z
+date: 2024-09-05T07:48:29.062Z
+updated: 2024-09-06T07:48:29.062Z
 tags:
   - ios
 categories:
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 * [How to Schedule a Text Message on iPhone](https://facebook-record-videos.techidaily.com/updated-streamlining-quality-youtubes-best-video-improvement-strategies/)
 * [Delete or Disable Delayed Text Messages on iPhone](https://fake-location.techidaily.com/how-to-fix-my-lava-blaze-2-5g-location-is-wrong-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  You can set up an automation in the Shortcuts app to schedule a delayed text message on iPhone. Choose the time of day, enter the message and recipient, and save the automation. Remember that the scheduled message will repeat automatically unless you disable or delete it.
@@ -24,7 +30,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  Sometimes it's best to create a text message while you're thinking of it. But what if you don't want to actually send it until later? Here, we'll show you how to send a scheduled text message on iPhone at whatever time you prefer.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Can You Schedule a Text on iPhone?
 
@@ -34,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  To schedule a prewritten text message that sends automatically, you'll need to [set up an automation](https://tech-savvy.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/) using the Shortcuts app. It may not be the ideal solution because it does take a few minutes to set up. Plus, you must remember to remove the automation if you don't want the message to repeat. But it's the delayed message solution closest to what you probably want, though, and below are the steps for this method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Schedule a Text Message on iPhone
 
  To get started setting up a delayed text message, open the [Shortcuts app](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/) on your iPhone. If it's one you've removed, you can [redownload it for free on the App Store](https://apps.apple.com/us/app/shortcuts/id915249334).
@@ -44,15 +59,15 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Plus sign on the Automation tab and Create a Personal Automation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PersonalAutomation-iPhoneScheduleText.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  At the top of the next screen, pick "Time of Day." On the subsequent When screen, choose "Time of Day" and pick the time in the box that appears.
 
 ![Automation for a Time of Day and time](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/TimeOfDay-iPhoneScheduleText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Alternatively, you can pick Sunrise or Sunset and choose an offset. For example, if you're recipient is an early bird, you can select a time around sunrise.
 
@@ -62,22 +77,22 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![The timing settings for the message Shortcut we're creating.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-imemdiately.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Although you may not want your text message to send continually, the repeat setting is required. If you want to schedule a one-time message, you'll simply remove the automation after it finishes, which we'll explain in the [next section](https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/).
 
  On the Actions screen, expand the Next Action Suggestions section and pick "Send Message." If it isn't visible, enter "message" in the search bar at the top to find it.
 
 ![Tap or search for the "Send Message" function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-send-message.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, on the subsequent screen, you'll use the top box to set up your text.
 
 ![The template for a "Send Message" Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-send-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap "Message" in blue and type your text. Then, tap "Recipients" in blue, select or [enter a contact](https://video-ai-editor.techidaily.com/updated-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-now/), and choose "Done."
 
 ![Text for the message and contact](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MessageRecipient-iPhoneScheduleText.png) 
@@ -86,6 +101,12 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![An example Shortcut sending "Happy Birthday" to Sandy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-happpy-bday-sandy.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll then return to the Automation screen in the Shortcuts app. You can schedule another text message the same way or simply close the app.
 
 ##  Delete or Disable Delayed Text Messages on iPhone
@@ -103,8 +124,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ![Set the automation to "Don't Run."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-don-t-run.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Apple offers a feature to [schedule an email in the Mail app](https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-f14-5g-try-these-fixes-by-drfone-android/), so hopefully down the road, we'll see a feature to schedule a text in Messages as well. In the meantime, at least you can schedule a text message on iPhone using Shortcuts.
 

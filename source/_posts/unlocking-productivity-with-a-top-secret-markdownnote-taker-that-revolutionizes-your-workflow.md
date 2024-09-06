@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-08-28T04:08:38.062Z
-updated: 2024-08-29T04:08:38.062Z
+date: 2024-09-05T07:48:24.003Z
+updated: 2024-09-06T07:48:24.003Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Obsidian?](https://facebook-video-files.techidaily.com/updated-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/)
@@ -21,6 +27,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Word and Character Count Included for Writers](https://facebook-record-videos.techidaily.com/new-access-high-quality-youtube-images-without-paying-a-dime-for-2024/)
 * [You Can Extend Obsidian With Plug-ins](https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Obsidian saves notes as plain text files, giving you full control over your data and allowing easy backups.
@@ -42,7 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Bertel King / How-To Geek
 
@@ -53,12 +68,27 @@ Bertel King / How-To Geek
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Obsidian refers to the folders it saves your notes in as "Vaults." Within each Vault, you can create any number of folders. These folders and the notes they contain are visible in a sidebar that slides in from the left side of the screen.
@@ -73,9 +103,6 @@ Bertel King / How-To Geek
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Obsidian opens each note in its own tab. On most phones, this is like switching between the tabs in a mobile web browser, and it takes some of the pain out of bouncing between multiple files at a time.
@@ -84,32 +111,32 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Even though Obsidian is a Markdown editor, you don't actually need to know how to write Markdown to format your text. The app contains a formatting bar directly above your keyboard. When you tap the bold icon, Obsidian will surround the highlighted text with asterisks, which is how Markdown communicates that something needs to be in bold. If you want to turn something into a heading, tap the heading icon, and Obsidian will insert a hashtag. One hashtag denotes Heading 1, two hashtags denote Heading 2, and so on.
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  There are many, many ways to write things on Android. Technically, I could do most of my work using Google Keep if I particularly wanted to, but there are certain bits of information professional writers really need access to. Primarily, this is word count.
@@ -118,9 +145,6 @@ Bertel King / How-To Geek
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can Extend Obsidian With Plug-ins
 
  As web browsers have taught us, add-ons enable a program defined for one task to do almost anything else. Obsidian comes with a decent number of plug-ins, and there is an abundance of third-party options from community members as well.

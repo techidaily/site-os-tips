@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
-date: 2024-08-28T04:06:36.667Z
-updated: 2024-08-29T04:06:36.667Z
+date: 2024-09-05T07:48:21.879Z
+updated: 2024-09-06T07:48:21.879Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Pair an Apple TV remote by holding the "<" or Menu button and volume up at the same time, then follow any on-screen instructions.
@@ -36,7 +42,16 @@ Tim Brookes / How-To Geek
  You may be asked to place your remote on top of the Apple TV unit to complete the pairing unit. Once you’re done, you should be able to use your remote as normal to wake, control, and sleep your Apple TV unit (and you won’t need to pair it again, even if it runs out of battery).
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Reset an Apple TV Remote
 
@@ -47,7 +62,10 @@ Tim Brookes / How-To Geek
 ![Apple TV remote reset combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_tv-vol_down.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
@@ -56,7 +74,10 @@ Tim Brookes / How-To Geek
 ![Apple TV remote disconnected message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_disconnected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Unpair an Apple TV Remote
 
@@ -66,6 +87,12 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote connected notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_connected.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once complete, the remote will be paired with your desired Apple TV. Since a remote can only be paired with a single Apple TV unit at a time, it should no longer control the previous unit. If you want to migrate the remote back, you’ll need to follow this process again.
 
 ##  Try Charging Your Apple TV Remote
@@ -76,6 +103,12 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote battery information screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_battery.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You won’t see a light or a charging indicator while the remote is charging, so be patient and test it when enough time has passed.
 
 ##  Power Cycle the Apple TV to Reset It
@@ -84,9 +117,6 @@ Tim Brookes / How-To Geek
 
  To fully power cycle your Apple TV unplug it from the wall, wait around 10 seconds, and then plug it back in again. The unit should automatically start up and dump you on the dashboard. You’ll need to hit a button on the remote for it to pair, after which your remote should (hopefully) work again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  Connect an iPhone or iPad as a Remote
 
  Using an iPhone or iPad as an Apple TV remote doesn’t fix the problem with your dedicated remote, but it can help rule some causes out. It’s also a good workaround so that you can use your Apple TV in the meantime.
@@ -96,35 +126,41 @@ Tim Brookes / How-To Geek
 ![Selecting an Apple TV to control in the iPhone Remote app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you don’t see your Apple TV listed, you can try waking it by restarting it (unplug it and then plug it back in, and wait for it to boot) and then selecting the Apple TV when it appears in the app. You may need to pair the iPhone, just follow any on-screen instructions.
 
  Once connected you can use the trackpad interface just as you would your normal remote. You also have access to playback controls, a back button, and the TV or Control Center button plus a power button at the top of the screen.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Try Updating Your Apple TV
 
  Updating your Apple TV may help resolve some issues, though it’s a bit of a long shot. You’ll also need to be able to control your Apple TV using another device to do this.
 
 ![Updating the tvOS software on an Apple TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_update_software2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  With your iPhone or iPad connected as a remote, navigate to Settings > System > Software Updates and install any outstanding updates. The Apple TV will restart, after which you can try using (or pairing) your remote again.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Control Your Apple TV with a TV or Universal Remote
 
  Another option for controlling your Apple TV is to use a standard TV remote, which relies on a shared media standard called HDMI-CEC. This technology allows you to [control streaming boxes and game consoles with a single remote](https://extra-support.techidaily.com/2024-approved-maximizing-gopro-footage/).
@@ -135,6 +171,12 @@ Tim Brookes / How-To Geek
 
  Remember that your TV will also react to any buttons you press, so this can occasionally cause issues if the required buttons trigger functions on your TV.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Control Your Apple TV with a Game Controller
 
  Compatible game controllers like the Xbox Core controller and Sony’s DualSense controller are [great additions to an Apple TV](https://facebook-video-recording.techidaily.com/best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/) if you want to use the unit to play games. They also control the interface once paired, which can be a convenient remote replacement for some users.
@@ -146,7 +188,16 @@ Tim Brookes / How-To Geek
  After pairing, your controller should stay paired with your Apple TV, depending on which pad you’re using.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Consider Replacing the Remote
 

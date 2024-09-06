@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2024-08-28T04:06:13.232Z
-updated: 2024-08-29T04:06:13.232Z
+date: 2024-09-05T07:48:21.470Z
+updated: 2024-09-06T07:48:21.470Z
 tags:
   - ios
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b559d6f2e28e14efe6f5fdf86.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed
 
 iOS 17 is here and, in addition to larger changes like [StandBy view](https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/) and [contact posters](https://facebook-videos.techidaily.com/updated-2023s-top-no-cost-fb-photo-and-video-crafting-for-2024/), there are lots of little changes that can be easy to miss. Here are some of our favorites.
@@ -27,6 +39,12 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Swipe to reply to messages with an in-line reply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reply_swipe.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You will see the message you’re replying to in the message window above the compose box.
 
 ##  Use Siri During Phone Calls
@@ -35,9 +53,6 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  On top of this, there’s a “Call Hang-Up” command that you can enable under Settings > Siri & Search that lets you tell Siri to hang up the phone while you’re on a call.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Link Your Notes Together
 
 [Apple Notes is a powerful note-taking app](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) and it costs nothing to use (though you may need more iCloud storage if you have a lot of attachments). One of the last big missing features was the ability to link notes together, and iOS 17 finally changed that.
@@ -48,20 +63,20 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  You can also add links to existing text by highlighting the text and then using the “Add Link” option in the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reminders Now Auto-Suggests Items
 
  If you’re into manually adding reminders to [Apple’s Reminders app](https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-5frp-lock-by-drfone-android/) (rather than simply asking Siri to do it), you’ll likely appreciate auto-suggestions while typing. As you add a shortcut, you’ll now see suggestions appear as you type, based on other reminders you have added in the past. Action the reminder by tapping on it.
 
 ![Get item suggestions in Apple Reminders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/autocomplete_reminders.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  There’s also a new “Siri Suggestions” option beneath your pinned lists in the Reminders apps that finds to-do list items that you might have forgotten about. Tap on an item to add it to Reminders.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  App Shortcuts Within Spotlight
 
  You should already be [using Spotlight](https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/) for everything on your iPhone, iPad, and Mac. The search feature lets you access apps and settings panels with ease simply by typing, and now it’s getting even smarter.
@@ -71,7 +86,16 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Straightness Level in Camera Viewfinder
 
@@ -80,7 +104,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![The new level overlay helps you shoot straight when using the Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/camera_level.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Quickly Access and Lock Private Browsing
 
@@ -88,10 +115,19 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Use Face ID to lock your private browsing session](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/face_id_private_browsing.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  New Shortcuts for Cropping Images in Photos
 
@@ -99,10 +135,19 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Crop photos by zooming and then tap (or tap and hold) the "Crop" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/cropping_photos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Animated Now Playing Screens in Music
 
@@ -111,19 +156,25 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![now_playing_japanese_breakfast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_japanese_breakfast.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
 
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Not only do albums now fill the screen and gradually blend into the controls at the bottom, but you’ll also see the animation play out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Upgrade to iOS 17
 
  Once it's released, upgrade your device by heading to Settings > General > Software Update and tapping "Install" when prompted to install iOS 17.

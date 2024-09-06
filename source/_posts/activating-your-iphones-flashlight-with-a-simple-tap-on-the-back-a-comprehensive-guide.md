@@ -1,7 +1,7 @@
 ---
 title: "Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide"
-date: 2024-08-28T04:11:41.963Z
-updated: 2024-08-29T04:11:41.963Z
+date: 2024-09-05T07:48:27.348Z
+updated: 2024-09-06T07:48:27.348Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9aca849f4db3b0e7bc708ddb0e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How Does Back Tap Work on iPhones?](https://facebook-clips.techidaily.com/new-mastery-over-buffering-in-vimeo-streams-revised-tips-for-2024/)
@@ -25,7 +37,10 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
  Tired of fumbling around in the dark? With [iOS 14](https://facebook-video-content.techidaily.com/new-2024-approved-what-is-blue-video-icon-on-facebook-messenger/) or later on an iPhone 8 or newer, you can quickly turn on and off [your flashlight](https://fox-hovers.techidaily.com/new-a-comprehensible-approach-to-masterful-gopro-studio-edits/) with two or three taps on the back of your iPhone using a feature called [Back Tap](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/). Here's how to set it up.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How Does Back Tap Work on iPhones?
 
@@ -33,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
  It used to be necessary to create a special flashlight shortcut to make this work, but no longer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 
 
 ##  Turn Your iPhone's Flashlight on with Back Tap
@@ -44,37 +56,49 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-to-open-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  In Settings, navigate to Accessibility > Touch.
 
 ![Scroll to the "Physical and Motor" section, then tap "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-touch-in-physical-and-motor.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In "Touch Settings," select "Back Tap." It is at the bottom of the page.
 
 ![Back Tap is located at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-back-tap.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In "Back Tap" settings, choose whether you'd like to activate your flashlight using two taps ("Double Tap") or three taps ("Triple Tap") on the back of your phone, then select the matching option.
 
 ![Select "Double Tap" or "Triple Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-double-or-triple-tap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Next, scroll down through the actions list until you see the Flashlight option. A blue checkmark will appear next to it once it is active.
 
 ![Select "Flashlight" in the tap menu. A blue check appears next to it when it is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/double-tap-flashlight-enabled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Press back once to make sure the change is registered, then exit Settings.
 
 ![Double Tap now displays "Flashlight."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/double-tap-flashlight-is-actually-on.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The next time you double or triple tap the back of your iPhone (depending on how you set it up), your iPhone flashlight will turn on. Tap the back two or three times again to turn it off. Have fun illuminating dark spaces!
 

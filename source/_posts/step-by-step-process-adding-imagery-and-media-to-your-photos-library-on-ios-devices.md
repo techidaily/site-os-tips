@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Process: Adding Imagery and Media to Your Photos Library on iOS Devices"
-date: 2024-08-28T04:10:28.773Z
-updated: 2024-08-29T04:10:28.773Z
+date: 2024-09-05T07:48:25.942Z
+updated: 2024-09-06T07:48:25.942Z
 tags:
   - ios
 categories:
@@ -15,6 +15,18 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
 
 * [Move a Photo or Video from Files to the Photos App](https://bypass-frp.techidaily.com/infinix-note-30-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can move photos and videos from the Files app to the Photos app on your iPhone or iPad by selecting the media file, tapping the Share button and choosing "Save Image" or "Save Video."
@@ -24,7 +36,10 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
  If you've downloaded images or videos to your [Files app](https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-105-classic-drfone-by-drfone-virtual-android/) on your iPhone or iPad, you might be wondering if you can copy them to your Photos library. The answer is yes, and we'll show you how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Move a Photo or Video from Files to the Photos App
 
@@ -33,8 +48,16 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
 ![Tap the "Downloads" folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-tap-downloads.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once you locate the media file or files, you have a couple of different options.
 
@@ -45,21 +68,36 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
 ![Multiple images selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/multiple-items-selected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Either way, once you have a single item opened or multiple items selected, tap the "Share" button, which looks like a rounded rectangle with an arrow pointing upward out of it. On the iPad, it's in the upper-right corner of the screen. On the iPhone, it's located in the lower-left corner.
 
 ![Tap the "Share" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/upload-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the Share list that pops up, tap "Save Image" or "Save Video." If you selected multiple items, tap "Save X Items," where X is the number of items you've selected.
 
 ![Tap the "Save Image" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-tap-save-image.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The next time you [open the Photos app](https://extra-tips.techidaily.com/2024-approved-an-in-depth-study-on-ffmpegs-excellence-in-original-audio-extraction/), you'll see the images or videos you saved from Files in your "Recents" album.
 

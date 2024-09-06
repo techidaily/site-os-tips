@@ -1,7 +1,7 @@
 ---
 title: Automatic Transcription Feature Now Available in Apple's Latest Podcast Update
-date: 2024-09-01T06:55:55.196Z
-updated: 2024-09-02T06:55:55.196Z
+date: 2024-09-05T07:48:29.577Z
+updated: 2024-09-06T07:48:29.577Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/22.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Automatic Transcription Feature Now Available in Apple's Latest Podcast Update
 
 The new iOS 17.4 developer beta adds transcripts to the Apple Podcasts app. Transcripts are automatically generated for all new podcast episodes, and Apple will slowly add transcripts to its backlog of old podcasts. If necessary, podcasters can upload custom transcripts or edit their auto-generated transcripts.
@@ -100,7 +106,3 @@ The new iOS 17.4 developer beta adds transcripts to the Apple Podcasts app. Tran
 <li><a href="https://os-tips.techidaily.com/why-its-time-to-embrace-plastic-over-titanium-for-future-iphone-models/"><u>Why It's Time to Embrace Plastic over Titanium for Future iPhone Models</u></a></li>
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-se-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone SE?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->

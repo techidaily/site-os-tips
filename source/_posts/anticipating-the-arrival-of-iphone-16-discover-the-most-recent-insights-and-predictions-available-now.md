@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-date: 2024-08-28T04:08:47.894Z
-updated: 2024-08-29T04:08:47.894Z
+date: 2024-09-05T07:48:24.155Z
+updated: 2024-09-06T07:48:24.155Z
 tags:
   - ios
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53214539050_9e040530cf_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
 
 ### Quick Links
@@ -26,6 +38,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The iPhone 16 Ultra?](https://extra-skills.techidaily.com/in-2024-instantly-fashion-company-symbols-with-open-source-tools/)
 * [Speculation and Rumor](https://instagram-video-files.techidaily.com/engage-viewers-with-3-innovative-description-styles-on-instagram-vids-for-2024/)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * A new A18 system-on-chip is likely to arrive in both the iPhone 16 and 16 Pro, potentially with an "A18 Pro" faster version.
@@ -34,9 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s almost time for Apple to unveil 2024’s iPhone lineup, and the rumor mill is swirling. While we won’t know for sure until Apple’s September event, let’s take a look at what leaks and speculation suggest is coming this year.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##  A New A18 System-on-Chip
 
  If there’s one change that’s pretty much guaranteed in the iPhone 16 and 16 Pro, it’s that Apple will be upgrading the guts of the device. MacRumors [reports](https://www.macrumors.com/2024/03/01/chip-details-of-16-upcoming-apple-devices-revealed/) that a private X (Twitter) account with a proven track record claims that both the iPhone 16 and its Pro counterpart will use an A18 [system-on-chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC).
@@ -44,14 +65,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Apple A17 Pro SoC found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro_iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Apple
 
  Apple may reserve the highest-performing chips for the more expensive model, with possible “A18 Pro” style branding. This should be a decent upgrade for the base-model iPhones considering the iPhone 15’s use of the older A16 SoC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  No More Mute Switch for the iPhone 16
 
@@ -66,7 +99,10 @@ Justin Duino / How-To Geek
  On the iPhone 15 Pro, mute functionality can be accessed via Control Center instead. For those of us whose iPhones are always muted, the loss of a physical toggle in favor of more useful button would be a win.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  A New Capture Button
 
@@ -82,13 +118,16 @@ Justin Duino / How-To Geek
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If the rumors are true then that would leave only the telephoto camera at 12 megapixels, though The Elec [reports](https://www.thelec.kr/news/articleView.html?idxno=24491) that both iPhone 16 Pro models will see a 5x magnification (not just the Max model).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Larger iPhone 16 Pro Models
 
  Another rumor tied to the dummy iPhone model leak suggests that Apple is increasing the size of its Pro Models in 2024 to 6.3” and 6.9”, up from 6.1” and 6.7” in the iPhone 15 Pro. The thickness of the device is not expected to change, but the weight will probably increase slightly.
@@ -111,18 +150,33 @@ Hannah Stryker / How-To Geek
 
  Both upgrades are welcome, with [Wi-Fi 7 bringing speeds of around 30Gbps](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) and [Wi-Fi 6E utilizing the 6GHz band](https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/) to top out at around 9.6Gbps. You will of course need a router compatible with these standards, and that router will need to support whatever speeds you hope to achieve.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  8GB of RAM on All Models
 
  According to the same Jeff Pu report, Apple will be bumping the RAM up to 8GB in all models this year. Last year’s iPhone 15 Pro already had 8GB, but the base models only featured 6GB.
 
 ![The final form of Lady Dimitrescu from Resident Evil Village flies overhead on the iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3caf4670-5199-11ee-bf3f-d4673beffea4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  Last year’s [iPhone 15 Pro was touted as a gaming beast](https://techidaily.com/how-to-soft-reset-lava-blaze-2-pro-phone-drfone-by-drfone-reset-android-reset-android/), and was one of a handful of mobile Apple devices able to run AAA games like _Resident Evil: Village_ and _Death Stranding_. Since this year’s models are rumored to be using the same or similar A18 systems-on-chip, increasing RAM allocation to close the gap makes sense if Apple wants to tempt more publishers to see the iPhone as more than just a mobile gaming platform.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Slim Vertical Camera Bump for iPhone 16
 
@@ -130,22 +184,28 @@ Apple
 
  The last iPhone to see this style of slim vertical camera array was the iPhone XS, back in 2018.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Potentially More Expensive Price Tag
 
  Since component prices have risen, it wouldn’t be surprising to see Apple increase the price of this year’s iPhone 16 and 16 Pro models. Apple didn’t increase the price of either the base or the Pro models last year.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The iPhone 16 Ultra?
 
  It wouldn’t be a rumor roundup if we didn’t mention the iPhone Ultra, a long-rumored high-end variant of the iPhone. Rumors about this model first surfaced in 2023, but the device never materialized. A MacRumors [report](https://www.macrumors.com/2023/12/20/ios-18-code-four-new-iphone-models/) that iOS 18 refers only to four iPhone models has quelled speculation that a fifth high-end model could launch in September.
 
  Don’t hold your breath for this one.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Speculation and Rumor
 
  Only Apple knows for sure what this year’s iPhone models will bring. Though it seems to get harder each year for Cupertino to keep secrets, there’s every chance that Apple will surprise us with something unexpected when the iPhone 16 and 16 Pro finally launch sometime in September 2024.

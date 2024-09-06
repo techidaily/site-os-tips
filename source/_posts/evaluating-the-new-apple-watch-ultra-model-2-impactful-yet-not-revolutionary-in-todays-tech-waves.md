@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves"
-date: 2024-08-28T04:07:57.284Z
-updated: 2024-08-29T04:07:57.284Z
+date: 2024-09-05T07:48:23.237Z
+updated: 2024-09-06T07:48:23.237Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c1790252e534383e8e0730d7ae092.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves
 
 ### Quick Links
@@ -20,6 +26,12 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 * [Price and Availability](https://facebook-video-content.techidaily.com/2024-approved-comprehensive-instructions-on-viewing-facebook-live-videos/)
 * [Should You Buy the Apple Watch Ultra 2?](https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-11-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Apple Watch Ultra 2 offers minor improvements over the original version, such as a faster chip and brighter screen, but it is difficult to differentiate between the two.
@@ -32,6 +44,12 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 ![apple watch ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/mt5j3ref_vw_34fr_watch-49-titanium-ultra2_vw_34fr_watch-face-49-alpine-ultra2_vw_34fr_geo_in-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 #####  Apple Watch Ultra 2
@@ -118,9 +136,6 @@ Expand
 
 ![Showing the Action button on Apple Watch Ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  You're in luck if you liked the design of the original Ultra. The only color choice for the Ultra 2 is still natural titanium. The orange Action button is still present, too, along with the orange ring around the digital crown. Even underneath the watch, no markings indicate it’s the Ultra 2—that information is only found in software settings.
@@ -131,6 +146,12 @@ Tyler Hayes / How-To Geek
 
  For this review, I picked the new [Alpine Loop](https://www.apple.com/shop/product/MT5M3AM/A/49mm-blue-alpine-loop-large?fnode=21df583c35c700eef5f791d814c3b76c69ea38b0bc2fb907492403d104c0f5e44b8ff69fe54923b04f251356058b9079f5162a3d2a844f1ec1400951c6d5d93808b05e6f97337229e1ccd3fa42ae5a19eab2c270f69d6aba408446204eb10829), which Apple states is a carbon-neutral band. It looked a little different in the pictures to me, but wearing the band felt almost identical to last year’s Alpine Loop band. The band has been fine, but it did soak up sweat and water and was hard to dry quickly. So I would recommend the rubber [Ocean Band](https://www.apple.com/shop/product/MT653AM/A/49mm-orange-ocean-band?fnode=e4468a50c132abefe7bb265e61088133af76a853b95084892c8f0d6ae8acb1baa1a7fc29bc733e38c74b34231e7016e5c537f8683d62a9b8438b4e665ab774cf935671720e2f4c138a485b3bc317ccacdbc5407a8edefd63e34114d2866a1bda) for running, swimming, or use during a shower.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What’s Actually New With the Ultra 2?
 
 ![Showing the new Snoopy watch face on Apple Watch Ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-3.JPG) 
@@ -156,6 +177,12 @@ Tyler Hayes / How-To Geek
 
  Battery life is listed at the same 36 hours the original Ultra had. Based on my initial experiences, I fully expect that to hold true, if not increase ever so slightly. Amazing battery life is a major factor keeping me using an Ultra model.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Running With an Ultra 2
 
  My fitness activity of choice is running. I’ve put over 1,000 miles on the original Apple Watch Ultra this past year. I’ve had the chance to put double digital miles on the Ultra 2 so far, and it performed like the last one.
@@ -165,7 +192,10 @@ Tyler Hayes / How-To Geek
  I’m not crazy about the redesigned Workouts screens in watchOS 10, but that’s a software thing I'll need to deal with rather than being Ultra 2 hardware-related.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  watchOS 10 on Ultra 2
 
@@ -174,31 +204,19 @@ Tyler Hayes / How-To Geek
  Ultimately, watchOS 10 has worked fine on the Ultra 2\. It spans all the way back to Series 5 owners and does a decent job of working on all those different watches.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Price and Availability
 
  The Apple Watch Ultra 2 is [available now for $799](http://www.apple.com/apple-watch-ultra-2/). All models have cellular connectivity, 64GB of storage, and a titanium frame. The choice comes down to picking one of three default Ultra 2 bands.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Apple Watch Ultra 2?
 
 ![Apple Watch Ultra 2 with the 'Modular Ultra' watch face.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-2.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The [Apple Watch Ultra 2](https://www.apple.com/apple-watch-ultra-2/) is the smartwatch to buy for adventurous iPhone owners. It’s the best Apple Watch in a lot of ways, not least of which is because of its outstanding battery life. If the large 49mm size doesn’t scare you away—which it shouldn’t—then this is the only smartwatch to consider.
@@ -210,7 +228,10 @@ Tyler Hayes / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Apple Watch Ultra 2
 

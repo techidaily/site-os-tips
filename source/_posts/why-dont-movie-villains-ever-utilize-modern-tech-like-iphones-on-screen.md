@@ -1,7 +1,7 @@
 ---
 title: Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
-date: 2024-08-28T04:07:43.023Z
-updated: 2024-08-29T04:07:43.023Z
+date: 2024-09-05T07:48:23.026Z
+updated: 2024-09-06T07:48:23.026Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/masked-man-with-iphone.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How Does Product Placement Work?](https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-reno-9a-frp-in-3-different-ways-by-drfone-android/)
@@ -18,6 +30,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Apple products are extremely prevalent in TV shows and movies, but the company doesn't pay for product placement. Apple is more than happy to provide MacBooks, iPads, and iPhones to studios, but there's one unique stipulation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Does Product Placement Work?
 
  First of all, let's talk about product placement. You've probably noticed product placement in a lot of things. Sometimes it's fairly subtle in the background, other times it's embarrassingly obvious.
@@ -27,7 +45,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  According to [Bloomberg](https://www.bloomberg.com/news/articles/2012-05-10/apple-the-other-cult-in-hollywood), Apple does not pay for product placement, at least not with money. Instead, it provides its devices to studios for free as props. Apple even [provided Modern Family](https://www.hollywoodreporter.com/tv/tv-news/modern-family-creator-explains-ipad-53367/) with the first iPad before it was available. It appeared in an episode two days before people could buy it.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Apple's Product Placement Rules
 

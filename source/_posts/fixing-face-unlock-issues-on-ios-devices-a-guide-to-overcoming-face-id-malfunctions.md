@@ -1,7 +1,7 @@
 ---
 title: "Fixing Face Unlock Issues on iOS Devices: A Guide to Overcoming Face ID Malfunctions"
-date: 2024-08-28T04:07:04.941Z
-updated: 2024-08-29T04:07:04.941Z
+date: 2024-09-05T07:48:22.327Z
+updated: 2024-09-06T07:48:22.327Z
 tags:
   - ios
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/924eefd74e0a8e5fe853f298ec0a0b33bfecd9ce2
 
 ## Fixing Face Unlock Issues on iOS Devices: A Guide to Overcoming Face ID Malfunctions
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Maintain a clean front-facing camera and don't block it when authenticating for optimal Face ID functionality.
@@ -19,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/924eefd74e0a8e5fe853f298ec0a0b33bfecd9ce2
 
  Is Face ID not working as well as it should? Even though your iPhone adapts to changes in your appearance (like applying makeup or growing a beard), the technology isn't perfect. Try these fixes if the feature isn't working correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  Clean the Front-Facing Camera 
 
  Your iPhone's display [attracts grease and grime](https://extra-lessons.techidaily.com/premier-selection-freepluspaid-iphone-cinema-apps-reviewed/), and the front-facing camera can easily become obscured. This is especially true after taking a phone call, where pressing the phone to the side of your head can transfer sweat or sunscreen.
@@ -31,9 +49,6 @@ Corbin Davenport / How-To Geek
 
  Take a moment to wipe the top of your iPhone display with a soft, damp cloth. For more stubborn grime, try some isopropyl alcohol or an alcohol-based disinfecting wipe.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 2  Add an Alternative Appearance to Face ID 
 
  If Face ID works most of the time but falters when you're wearing a specific look or outfit that significantly changes your appearance, you can add an additional appearance for more reliable authentication. To do this, head to Settings > Face ID & Passcode and then tap the "Set up an Alternative Appearance" button to get started.
@@ -41,15 +56,15 @@ Corbin Davenport / How-To Geek
 ![Set up an alternative appearance for Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-08-at-11-12-50.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The process works just as it did when you first set up Face ID. You'll need to take multiple scans from different angles by following the on-screen instructions.
 
  Alternative appearances could be used by others to authenticate your device. Apple recommends against this for privacy and security purposes. If you suspect someone else has set up an alternative appearance on your device, hit the red "Reset Face ID" button and set up the feature again (and consider changing your passcode too).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3  Enable Face ID With a Mask 
 
  Enable the "Face ID with a Mask" toggle under Settings > Face ID & Passcode if you are having trouble [authenticating while wearing some sort of face covering](https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c67-5g-drfone-by-drfone-virtual-android/). This doesn't just include the sort of face mask you might wear in a medical setting but also glasses, scarves, and more.
@@ -57,7 +72,10 @@ Corbin Davenport / How-To Geek
 ![Enable Face ID with a mask in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-08-at-11-13-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you toggle the feature on, you'll need to re-scan again so that Face ID can get a better scan of the area around your eyes. You do this multiple times to add different face coverings, sunglasses, and so on.
 
@@ -68,13 +86,13 @@ Corbin Davenport / How-To Geek
 ![Reset Face ID in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-08-at-11-13-18.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To do this, head to Settings > Face ID & Passcode and authenticate with [your iPhone's passcode](https://fox-info.techidaily.com/2024-approved-spectacular-vision-immersive-movies/). Tap the red "Reset Face ID" button to remove all Face ID data and start again. Once you're done you'll need to tap "Set Up Face ID" and follow the on-screen prompts to re-scan your appearance.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  Test Whether Your Front-Facing Camera Is Faulty 
 
  If the dot projector on the front of your iPhone isn't working correctly, Face ID won't work. Damage could be caused by simply dropping your phone on a hard surface since heavy impacts are often enough to damage or dislodge components inside the chassis.
@@ -83,6 +101,12 @@ Corbin Davenport / How-To Geek
 
 ![Using iPhone Portrait mode to test the front-facing camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/front_facing_portrait.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can take your iPhone to an Apple Store for evaluation, even if it's outside of your warranty period or you don't have [Apple Care+ protection](https://facebook-video-files.techidaily.com/updated-2024-approved-blocking-facebooks-advertising-overload-in-real-time/) against accidental damage. Apple will check your iPhone over and perform diagnostics in a bid to isolate the problem. They may offer you a free fix, but even if the fix isn't free, you'll need to approve any work beforehand (so there's no risk of being charged if you'd rather go elsewhere).
 
 ---

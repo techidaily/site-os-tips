@@ -1,7 +1,7 @@
 ---
 title: "Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe"
-date: 2024-08-28T04:09:54.204Z
-updated: 2024-08-29T04:09:54.204Z
+date: 2024-09-05T07:48:25.333Z
+updated: 2024-09-06T07:48:25.333Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10382aff0b3452de9d0f47411.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe
 
 Zooming in and out by pinching and spreading two fingers on a map feels like magic—it's the most natural gesture on our phones. However, if you only have one hand free to hold your phone with, a two-finger gesture is nearly impossible. Google Maps has a handy trick for this very reason.
@@ -82,7 +88,3 @@ Your browser does not support the video tag.
 <li><a href="https://os-tips.techidaily.com/ultimate-selection-of-10-iphone-customization-apps-for-a-gorgeous-display/"><u>Ultimate Selection of 10 iPhone Customization Apps for a Gorgeous Display</u></a></li>
 <li><a href="https://os-tips.techidaily.com/understanding-the-reason-behind-macs-persistent-icloud-password-prompts-solutions-explored/"><u>Understanding the Reason Behind Mac's Persistent iCloud Password Prompts: Solutions Explored</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "The Race in Silicon Valley: Measuring the Performance Leap From Apple's A16 to A17 Chipset"
-date: 2024-08-27 10:56:14
-updated: 2024-08-29 11:34:28
+date: 2024-09-05T07:46:52.930Z
+updated: 2024-09-06T07:46:52.930Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b49411aac162c7581850732b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Race in Silicon Valley: Measuring the Performance Leap From Apple's A16 to A17 Chipset
 
 Apple’s introduction of the A17 Pro system-on-chip sees Apple’s chip production move to a newer, smaller process and adds a new GPU core to boot. So what’s the real-world implication of this change?
@@ -37,6 +43,12 @@ Apple’s introduction of the A17 Pro system-on-chip sees Apple’s chip product
 
 ![The A17 Pro chip found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Apple also improved the GPU, adding an additional GPU core for a total of six cores with Apple claiming a 20% improvement over the A16 Bionic and support for hardware ray tracing and better shading for improved handling of realistic lighting effects in 3D applications.
 
  Apple boosted the transistor count to 19 billion and added hardware support for AV1 decoding, a [video codec that’s set to one day replace HEVC](https://fox-info.techidaily.com/new-2024-approved-foundational-approach-to-gradual-volume-adjustment/). The A17 Pro is manufactured using TSMC’s N3B process, which is considered to produce [“true” 3-nanometer chips](https://tools.techidaily.com).
@@ -49,16 +61,34 @@ Apple’s introduction of the A17 Pro system-on-chip sees Apple’s chip product
 
 ![iPhone single core performance compared between models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_single_core_geekbench.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Geekbench
 
  Tom’s Guide produced a [set of benchmarks](https://www.tomsguide.com/features/iphone-15-pro-benchmarks) that compare not only Geekbench but some real-world tests like transcoding 4K video to 1080p in Adobe Premier Rush. This saw the A17 Pro shave anywhere from two to six seconds off the best A16 Bionic scores.
 
 ![iPhone Metal performance compared between models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_metal_geekbench.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Geekbench
 
  Keep in mind that benchmarks don’t always coincide with real-world usage. There will be some variance in scores purely down to the way that chip tolerances work. Not all silicon is the same, there are differences in different batches of chips and that explains the ever-fluctuating scores.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Does the A17 Pro Make the iPhone 15 Pro Worth It?
 
  If you’re wondering if you should upgrade from the iPhone 14 Pro to the iPhone 15 Pro purely for a speed bump, the answer is probably not. If you play a lot of 3D games then you might see things differently. The GPU improvements will yield a performance bump, and Apple’s plan of bringing “AAA” games like _Resident Evil: Village_ to mobile will [require either an iPhone 15 Pro or iPad with an M1 chip](https://www.ign.com/articles/resident-evil-village-for-iphone-15-pro-is-out-on-october-30).
@@ -69,6 +99,12 @@ Geekbench
 
  If you’re looking for a reason to upgrade, we’d point to more tangible benefits like the 5x optical zoom featured in the iPhone 15 Pro Max, the Action button that replaces the ring/silent switch, and the inclusion of USB-C for charging and data transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The A17 Pro is Apple’s First 3nm Chip
 
  The A17 Pro breaks new ground as Apple’s first 3-nanometer chip. The number refers to the size of the individual transistors featured on the chip. In essence, the smaller the transistors the more of them you can fit on a chip. This is evident by Apple adding three billion more transistors to the A17 Pro (at 19 billion) compared to the A16 Bionic (at 16 billion).
@@ -97,3 +133,45 @@ Geekbench
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-inside-look-3d-lut-creation-process/"><u>[New] Inside Look  3D LUT Creation Process</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-techniques-for-better-obs-encoding/"><u>[Updated] 2024 Approved  Advanced Techniques for Better OBS Encoding</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expand-your-online-realm-harnessing-youtube-insights-powerfully-for-2024/"><u>[Updated] Expand Your Online Realm  Harnessing YouTube Insights Powerfully for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-financial-plan-for-crafting-a-song-to-screen-for-2024/"><u>[Updated] Financial Plan for Crafting a Song to Screen for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-easy-insights-into-effective-use-of-showmore-screen-recorder/"><u>[Updated] In 2024, Easy Insights Into Effective Use of ShowMore Screen Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[Updated] Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-huge-4th-of-july-discount-save-on-all-items-at-urban-armor-gear/"><u>1. Huge 4Th of July Discount: Save on All Items at Urban Armor Gear</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://os-tips.techidaily.com/achieve-unprecedented-efficiency-with-essential-organization-apps-for-a-successful-2023/"><u>Achieve Unprecedented Efficiency with Essential Organization Apps for a Successful 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-speed-internet-explore-the-latest-range-of-netgear-7g-routers/"><u>Affordable High-Speed Internet: Explore the Latest Range of Netgear 7G Routers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/airtag-enhancers-and-tools-expert-picks-for-the-latest-and-greatest/"><u>AirTag Enhancers and Tools - Expert Picks for the Latest & Greatest</u></a></li>
+<li><a href="https://os-tips.techidaily.com/anticipation-builds-as-apple-readies-exciting-reveals-for-upcoming-may-7th-ipad-unveiling/"><u>Anticipation Builds as Apple Readies Exciting Reveals for Upcoming May 7Th iPad Unveiling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-3ip-top-audio-capture-apps-for-2024/"><u>Best 3iP Top Audio Capture Apps for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/conquer-oversized-drafts-learn-to-edit-and-organize-tiktok-content-for-2024/"><u>Conquer Oversized Drafts  Learn to Edit and Organize TikTok Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-starting-wordpad-efficiently-on-windows/"><u>Essential Guide: Starting WordPad Efficiently on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-designing-dynamic-videos-with-adobe-captivate/"><u>In 2024, Designing Dynamic Videos with Adobe Captivate</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-11-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 11 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-malware-discovery-without-software-assistance/"><u>Mastering Malware Discovery without Software Assistance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-smartphones-the-alluring-titanium-and-cutting-edge-usb-c-of-apples-new-iphone-15-pro-unveiled/"><u>Revolutionizing Smartphones: The Alluring Titanium and Cutting-Edge USB-C of Apple's New iPhone 15 Pro Unveiled!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-guide-reflecting-your-iphone-display-onto-mac-with-ease/"><u>Seamless Guide: Reflecting Your iPhone Display Onto Mac with Ease</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sink-or-swim-with-confidence-the-ultimate-iphone-protection-in-apples-premium-waterproof-case/"><u>Sink or Swim with Confidence: The Ultimate iPhone Protection in Apple's Premium Waterproof Case</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-capturing-your-sms-exchange-on-screen/"><u>Step-by-Step Guide: Capturing Your SMS Exchange on Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlined-smartphone-use-how-modifying-iphone-configurations-can-enhance-daily-convenience/"><u>Streamlined Smartphone Use: How Modifying iPhone Configurations Can Enhance Daily Convenience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/tech-giant-apple-prepares-grand-reveals-for-its-2024-wwdc-scheduled-in-june-highlight/"><u>Tech Giant Apple Prepares Grand Reveals for Its 2024 WWDC, Scheduled in June Highlight</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-gift-guide-25-must-have-items-for-iphone-users/"><u>The Ultimate Gift Guide: 25 Must-Have Items for iPhone Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-six-strategies-to-prevent-your-iphones-storage-from-overflowing/"><u>Top Six Strategies to Prevent Your iPhone's Storage From Overflowing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transferring-your-apple-notes-between-iphone-and-mac-a-comprehensive-guide/"><u>Transferring Your Apple Notes Between iPhone and Mac - A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-communication-mastering-the-art-of-using-an-apple-watch-like-a-walkie-talkie/"><u>Transform Your Communication: Mastering the Art of Using an Apple Watch Like a Walkie-Talkie</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/two-factor-authentication-for-icloud-mail-steps-to-secure-your-communication/"><u>Two-Factor Authentication for iCloud Mail: Steps to Secure Your Communication</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-hidden-features-10-surprising-ways-your-iphone-enhances-daily-life/"><u>Unlock Hidden Features: 10 Surprising Ways Your iPhone Enhances Daily Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-magic-of-pitaka-magez-slider-an-apple-device-charging-solution-reviewed/"><u>Unveiling the Magic of Pitaka MagEZ Slider: An Apple Device Charging Solution Reviewed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-the-latest-version-of-wacom-istudio-draw-drivers-for-ultimate-control/"><u>Update to the Latest Version of Wacom iStudio Draw Drivers for Ultimate Control</u></a></li>
+<li><a href="https://os-tips.techidaily.com/utilize-iphone-projection-as-a-substitute-for-running-ios-programs-on-mac-devices/"><u>Utilize iPhone Projection as a Substitute for Running iOS Programs on Mac Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/what-to-do-if-you-cant-get-texts-on-your-iphone-comprehensive-guide-and-tips/"><u>What To Do If You Can't Get Texts on Your iPhone – Comprehensive Guide & Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-devoted-iphone-owners-cherish-apples-strict-regulations-despite-boundaries/"><u>Why Devoted iPhone Owners Cherish Apple's Strict Regulations Despite Boundaries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-postponing-your-next-apple-watch-update-could-be-wise/"><u>Why Postponing Your Next Apple Watch Update Could Be Wise</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Cons: Critical Weaknesses in Apple's Latest Vision Pro Worth Considering"
-date: 2024-09-01T06:56:07.908Z
-updated: 2024-09-02T06:56:07.908Z
+date: 2024-09-05T07:48:29.759Z
+updated: 2024-09-06T07:48:29.759Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
 ## Exploring the Cons: Critical Weaknesses in Apple's Latest Vision Pro Worth Considering
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Limited Battery Life](https://instagram-videos.techidaily.com/updated-10-instagram-hashtag-that-you-should-be-using-today-for-2024/)
@@ -22,6 +28,18 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
  Apple’s first shot at a mixed-reality headset is exciting, but don’t be blinded by the hype. Here are some potential deal-breakers that might make you think twice about dropping so much money on the Vision Pro.
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Limited Battery Life
 
  The Apple Vision Pro comes with a detachable battery pack that you can slip into your pocket or attach to your waist, reducing the headset’s overall weight. This provides enough juice for two hours of general use or two and a half hours of video, according to Apple’s numbers. That’s not enough to watch _The Lord of the Rings_ theatrical releases, let alone the extended cuts.
@@ -37,7 +55,10 @@ Apple
  Making matters worse, you can't hot swap between batteries even if you have several of them, meaning you'll need to power the Vision Pro off and on every time you change power packs.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  No Multiple Virtual Monitor Setups for Mac Users
 
@@ -47,15 +68,24 @@ Apple
 
 ![A virtual macOS desktop within visionOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple_vision_mac_virtual_desktop.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Apple
 
  Perhaps in future revisions this is something Apple will overcome. It seems like the perfect use case for a mixed reality headset, and being able to replace or expand an existing setup could help justify the steep $3,499 price tag. Imagine turning a humble MacBook into a triple-monitor productivity station without sacrificing any real-world space.
 
  It’s worth noting that the headset has its own operating system, so dedicated Vision Pro pioneers can probably work around this limitation. Keep your virtual display for Mac apps that don’t exist elsewhere, then use visionOS for Safari, Notes, and similar apps.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You Might Need Prescription Lenses
 
  Less of a deal-breaker and more of an added expense, the Apple Vision Pro won’t work with glasses or hard contact lenses (single-use, soft contact lenses are fine). Reflections from these corrective aids prevent the Vision Pro’s pupil detection feature from working correctly, which is how you navigate the interface.
@@ -64,6 +94,12 @@ Apple
 
  The cost for “distance” lenses is $149, while “reading” lenses that allow you to see things up close cost $99\. You won’t be able to buy these from an Apple retail location; you’ll have to order them from Apple’s website. If your prescription changes, you’ll need to order a new pair of lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Weight May Limit Your Usage
 
  One of the big talking points among those who were given early access to the Vision Pro was the weight of the unit. It’s a hefty chunk of aluminum and glass that you wear on your face. It’s a good job Apple opted for a separate battery pack.
@@ -72,9 +108,6 @@ Apple
 
 ![Apple Vision Pro with optional Dual Loop band.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple_vision_dual_loop_band.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple
 
  Many of the most talked-about developments in the VR space have been from small and lightweight headsets like the [HTC Vive Flow](https://www.vive.com/us/product/vive-flow/specs/) and [Bigscreen Beyond](https://store.bigscreenvr.com//products/bigscreen-beyond). Apple’s wireless and controller-less design means that the Vision Pro is a self-contained unit, with all the necessary sensors and hardware on board. Unfortunately, all of that kit adds to the weight.
@@ -82,7 +115,10 @@ Apple
  You might find that you are only comfortable using the headset for an hour at a time, rather than wearing it as an all-day office productivity tool. There’s also a chance that you’ll just get used to it over time. The best way to make an educated decision is to try before you buy by booking a demo at an Apple retail location near you.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The App Ecosystem Is in Its Infancy
 
@@ -90,9 +126,6 @@ Apple
 
 ![Apple Vision Pro home screen in a visionOS Envrionment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/visionos_apps.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Apple
 
  Apple understands this, hence the abnormally long build-up to launch compared with the company’s other products. In fact, Apple seems so unconcerned with people adding multiple to the Vision Pro at launch that it doesn't even allow you to rearrange apps on the home screen, limiting them to alphabetical order.
@@ -101,10 +134,6 @@ Apple
 
  We’ve seen this play out before with platforms like [the Apple Watch](https://android-frp.techidaily.com/ultimate-guide-on-realme-v30-frp-bypass-by-drfone-android/), a wearable that costs around 10% of what Apple is asking for the Vision Pro. Many developers have yet to develop for the Apple Watch, despite its relatively low barrier to entry and undeniably utility. Now imagine what that means for a mixed-reality headset that costs more than a MacBook.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  It’s a First-Generation Product
 
  The fact that the Vision Pro is a first-generation product shouldn’t hold you back if you’re living on the bleeding edge. This is especially true if you’re fond of upgrading every year, selling on your old models, and staying one step ahead of the curve. But most people reading this won’t fall into that camp.

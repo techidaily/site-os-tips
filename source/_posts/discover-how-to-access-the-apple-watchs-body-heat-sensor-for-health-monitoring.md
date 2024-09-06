@@ -1,7 +1,7 @@
 ---
 title: Discover How to Access the Apple Watch's Body Heat Sensor for Health Monitoring
-date: 2024-08-28T04:11:48.765Z
-updated: 2024-08-29T04:11:48.765Z
+date: 2024-09-05T07:48:27.478Z
+updated: 2024-09-06T07:48:27.478Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52558897166_b8aee71d82_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover How to Access the Apple Watch's Body Heat Sensor for Health Monitoring
 
 ### Quick Links
@@ -26,15 +32,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Apple added a temperature sensor to the back of [the Apple Watch](https://extra-hints.techidaily.com/updated-capture-with-clarity-advanced-tips-for-gopro-hero5-black/) in [the 2022 update](https://some-approaches.techidaily.com/in-2024-top-ten-frame-enhancers-for-visual-artistry/), but it probably doesn't work how you think. Here's how the sensor works and how to take advantage of it.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How the Apple Watch Temperature Sensor Works
 
  The Apple Watch temperature sensor sits against your wrist and measures small changes in [body temperature while you're asleep](https://www.lifesavvy.com/44360/this-is-the-ideal-sleep-temperature/). Rather than providing you with an exact temperature (like a standard thermometer), you'll instead see fluctuations from your baseline reading.
 
 ![A close-up view of the optical sensors on the back of the Apple Watch Series 8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52559368730_8e05d85bbf_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek Tim Brookes / Review Geek Tim Brookes / LifeSavvy
 
  For the feature to work, you'll need to wear your Apple Watch at night for at least 4 hours per night while sleeping for five nights. When you set the feature up, you won't get a reading immediately. Eventually, data will appear in the Health app under Browse > Body Measurements > Wrist Temperature.
@@ -42,7 +57,10 @@ Tim Brookes / How-To Geek Tim Brookes / Review Geek Tim Brookes / LifeSavvy
  Things that can affect your wrist temperature include diet, exercise, alcohol consumption, sleep environment, illness, and the current stage of your menstrual cycle.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Set Up Sleep and Cycle Tracking Use the Apple Watch Thermometer
 
@@ -52,23 +70,35 @@ Tim Brookes / How-To Geek Tim Brookes / Review Geek Tim Brookes / LifeSavvy
 
 ![Set up Cycle Tracking on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/cycle_tracking_health.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  You should not rely on Cycle Tracking as a form of birth control since wrist temperature can be impacted by a range of environmental and physiological factors (like the time of year or illness).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Can the Apple Watch Take Your Temperature?
 
  The Apple Watch cannot take your temperature in the traditional sense, it only measures fluctuations in the baseline reading. These can coincide with improved or worsened sleep quality and help predict ovulation or stages of a menstrual cycle. This data cannot be used to diagnose medical conditions, and no temperature reading (for example 99.5ºF) is available.
 
  The Apple Watch may be able to [flag health conditions like cardiovascular disease](https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/) and the [Fall Detection feature can call emergency services for you](https://visual-screen-recording.techidaily.com/new-zoom-room-basics-for-newbies/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Which Apple Watch Models Support Temperature Readings?
 
  Currently, only the Apple Watch Series 8 and the Apple Watch Ultra (2022) can take wrist temperature readings. No models of the Apple Watch SE can take wrist temperature readings at present.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Can You Take Your Temperature with an iPhone?
 
@@ -76,9 +106,6 @@ Tim Brookes / How-To Geek Tim Brookes / Review Geek Tim Brookes / LifeSavvy
 
 ![21-OZ89LdLL._SL160_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/21-oz89ldll-_sl160_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Smart Thermometer for iPhone
 
 #####  Withings Thermo
@@ -91,9 +118,6 @@ The Withings Thermo smart thermometer is an FDA-approved no-contact thermometer 
 
  Alternatively, you can buy a cheap thermometer like the [Vicks SpeedRead](https://www.amazon.com/Vicks-SpeedRead-Digital-Thermometer-V912US/dp/B000GRXHIE?tag=htg-v2-29da6v0-20&ascsubtag=UUhtgUeUpU202015&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F887231%2Fhow-the-apple-watch-body-temperature-feature-works-and-where-to-find-it%2F&asc%5Fcampaign=Short-Term) and manually record any readings to the Apple Health app instead (just as you can with [a cheap set of scales and bodyweight readings](https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-file-management-six-tips-for-win-11s-mov-files/)).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Is the Apple Watch Series 8 Temperature Sensor Worth Upgrading For?
 
  You can read our [full review of the Apple Watch Series 8](https://remote-screen-capture.techidaily.com/voice-recording-mastery-with-ipad-tools/) to see what we think of Apple's first smartwatch with a temperature sensor. For this to be useful you'll need to see the value in tracking your wrist temperature, wear your Apple Watch at night for sleeping, or use Cycle Tracking. Not everyone is going to find temperature tracking useful, so it's probably not worth the upgrade from the Series 7 or Series 6 for most people.

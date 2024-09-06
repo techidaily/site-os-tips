@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts
-date: 2024-08-28T04:06:37.801Z
-updated: 2024-08-29T04:06:37.801Z
+date: 2024-09-05T07:48:21.899Z
+updated: 2024-09-06T07:48:21.899Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Print iPhone Text Messages Screenshots](https://extra-guidance.techidaily.com/simplifying-audio-transcription-insights-into-azures-speech-recognition-for-2024/)
@@ -22,9 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  iPhone text messages---including [iMessage](https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-max-by-drfone-ios/)\---live on your iPhone or [Mac](https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-12plus-5g-frp-bypass-by-drfone-android/). If you want to get those messages into the real world---either for court or personal records---you'll need to get creative. We'll show you two ways to print text messages on iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Print iPhone Text Messages Screenshots
 
  The best way to preserve and print the authentic look of iPhone text messages is by taking screenshots. Printing screenshots isn't the most elegant solution, but it does work.
@@ -40,26 +43,35 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Open the &quot;Photos&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-54-31.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Go to the "Albums" tab and scroll down to select "Screenshots."
 
 ![Go to &quot;Screenshots.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-55-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Next, tap "Select" at the top of the screen and choose all the screenshots you'd like to print.
 
 ![Tap &quot;Select&quot; and choose screenshots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-56-16.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  With the screenshots selected, tap the share icon (square with arrow pointing up) in the bottom left.
 
 ![Tap the share button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-57-21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Scroll up and select "Print" from the share menu.
 
 ![Select &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-58-16.png) 
@@ -68,17 +80,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select your printer or tap the share icon to save as PDF.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-59-46.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can see a print preview at the bottom of the screen. Depending on the type of printer you're using, you may have some extra settings to adjust.
 
 ![Printer options and preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_15-12-33.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Go ahead and tap "Print" when everything is looking good.
 
 ![Tap &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_15-34-00.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  This method isn't the greatest if you have a lot of screenshots to print since it puts each screenshot on its own page. However, it's easy, and it gets the job done.
 
 ##  How to Print an iPhone Text Message Transcript
@@ -91,19 +118,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to &quot;Messages.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-15-37.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You'll see all of the conversations from your iPhone appear. Check the box next to the conversation you'd like to print.
 
 ![Select a conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-17-25.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now click the "Print" button in the top right.
 
 ![Click the &quot;Print&quot; button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-18-21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  A window with a print preview will appear. Tap "Print Now" to continue.
 
@@ -114,7 +147,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Choose printer settings and click &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-20-58.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You're all set! The transcript is a much neater presentation, but it does come with the downside of appearing more easily editable. That's something to consider if you need the text messages for legal purposes.
 

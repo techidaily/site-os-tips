@@ -1,7 +1,7 @@
 ---
 title: "Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!"
-date: 2024-08-28T04:10:36.940Z
-updated: 2024-08-29T04:10:36.940Z
+date: 2024-09-05T07:48:26.126Z
+updated: 2024-09-06T07:48:26.126Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
 ## Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Circle to Search is an Android exclusive feature allowing users to search for items on their screen by circling them.
@@ -31,12 +37,24 @@ Justin Duino / How-To Geek
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Get Circle to Search Functionality on Your iPhone
 
  To set up the workaround, you must have the [Google app on your iPhone](https://ai-video-tools.techidaily.com/updated-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/). If you don't already have it, download it from the App Store. Once you've installed the Google app, it's time to create a shortcut.
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
@@ -45,16 +63,10 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
@@ -64,7 +76,10 @@ Justin Duino / How-To Geek
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
@@ -72,22 +87,31 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 

@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Move Your iPhone Pictures Onto Your Computer
-date: 2024-08-28T04:10:24.263Z
-updated: 2024-08-29T04:10:24.263Z
+date: 2024-09-05T07:48:25.838Z
+updated: 2024-09-06T07:48:25.838Z
 tags:
   - ios
 categories:
@@ -17,6 +17,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Import Photos With Windows Photos (or Other Applications)](https://www.howtogeek.com/345540/how-to-transfer-photos-from-an-iphone-to-a-pc/#import-photos-with-windows-photos-or-other-applications)
 * [Sync Your Photos With iCloud Photo Library (or Other Services)](https://www.howtogeek.com/345540/how-to-transfer-photos-from-an-iphone-to-a-pc/#sync-your-photos-with-icloud-photo-library-or-other-services)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  To transfer pictures from your iPhone to a Window PC, plug your iPhone into the PC with a USB cable and tap either "Trust" or "Allow" to enable photo transfers. Then open your iPhone in File Explorer to transfer videos and images.
@@ -26,16 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In fact, Apple's iTunes software doesn't even have a built-in way to copy photos from your iPhone to your PC. It does have a photo sync feature, but that's just for copying photos from your PC to your iPhone.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Use File Explorer or Windows Explorer
 
@@ -45,21 +45,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap "Trust."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/trust-this-pc.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your iPhone appears as a new device under "This PC" in File Explorer on Windows 10 or Windows 11\. Head here and double-click it.
 
  If you don't see the iPhone under This PC or Computer, unplug the iPhone, plug it back in, and ensure it's unlocked.
 
 ![Make sure you're in "This PC," then double-click "Apple iPhone."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/this-pc-open-iphone.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On modern versions of iOS you'll see a number of folders with numerical names that contain your photos.
 
  On older versions of iOS you'll see a folder named DCIM, and your photos and videos will be stored in a 100APPLE folder. If you have lots of photos and videos, you'll see additional folders named 101APPLE, 102APPLE, and so on. If you use iCloud to store photos, you'll also see folders named 100Cloud, 101Cloud, and so on.
 
 ![Image folders on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folders-on-iphone.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see your photos as .JPG files or .HEIC files, videos as .MOV files, and screenshots as .PNG files. You can double-click them to view them right from your iPhone. You can also copy them to your PC using either drag-and-drop or copy-and-paste.
 
  If you delete an item in the DCIM folder, it's removed from your iPhone's storage.
@@ -70,6 +79,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Copy the photo folders from your iPhone to other devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/copy-photos-to-iphone.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you see files with the .HIEC file extension, that indicates your iPhone is taking photos using [the HEIF image format](https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/). This is the default setting as of [iOS 11](https://remote-screen-capture.techidaily.com/updated-2023s-best-screen-recorder-discover-with-camstudio/) and later, but you need to install the [HEIF image extension to view these files on Windows](https://sound-tweaking.techidaily.com/the-most-reliable-sites-to-stream-legal-background-music-collections-for-2024/).
 
  However, you don't have to [disable HEIF on your iPhone](https://data-safeguard.techidaily.com/boost-your-digital-footprint-with-cookiebots-advanced-tools/) to make these photos more compatible. On your iPhone, head to Settings > Photos, scroll down, and then tap "Automatic" under Transfer to Mac or PC. Your iPhone automatically converts the photos to .JPEG files when you import them to a PC.
@@ -78,6 +99,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select the "Automatic" option to enable automatic conversion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/automatic-transfer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Import Photos With Windows Photos (or Other Applications)
 
  Any application that can import photos from a digital camera or USB device can also import photos from an iPhone or iPad. The iPhone exposes media folders, so it looks just like any other digital camera to software on your PC. As when using the Windows file manager, you just have to connect it via a Lightning-to-USB or USB-C cable (depending on your iPhone model) and tap "Trust" on your phone.
@@ -89,8 +122,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Importing photos and videos from the iPhone with the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/importing-files-from-iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Sync Your Photos With iCloud Photo Library (or Other Services)
 
@@ -100,25 +141,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Open the Settings app, tap &quot;Photos,&quot; then tap the toggle next to &quot;iCloud Photos.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/icloud_annotated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can then install [iCloud for Windows](https://support.apple.com/en-us/HT204283), sign in with your Apple ID, and enable the "Photos" feature in the iCloud control panel. Click the "Options" button to control where photos are stored on your PC and adjust other settings.
 
  Photos that you take are automatically uploaded to your iCloud Photo Library, and then the iCloud software automatically downloads a copy of them to your PC.
 
 ![The iCloud app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa313bad9270.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This isn't the only application you can use for synchronizing photos to your PC. The [Dropbox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/dropbox/id327630330?mt=8), [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/google-photos/id962194608?mt=8), and [Microsoft OneDrive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/microsoft-onedrive/id477537958?mt=8) apps for iPhone all offer automatic photo-upload features, and you can use the [Dropbox](https://www.dropbox.com/), [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/), and [OneDrive](https://onedrive.live.com/) tools for Windows to automatically download those photos to your PC.
 
 ![The Google Drive app can automatically synchronize photos between devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa30ed72d6fc.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Just keep in mind that with these services, you're actually syncing those folders. So, if you delete something from a synced folder on your PC, it is also deleted on your phone.
 
 <ins class="adsbygoogle"

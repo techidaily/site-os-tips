@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2024-08-28T04:07:39.592Z
-updated: 2024-08-29T04:07:39.592Z
+date: 2024-09-05T07:48:22.972Z
+updated: 2024-09-06T07:48:22.972Z
 tags:
   - ios
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53212394387_79e19a5a26_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
 
 ### Quick Links
@@ -39,7 +51,16 @@ Tim Brookes / How-To Geek
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Create Stickers Using Photo Cutouts
 
@@ -55,6 +76,18 @@ Tim Brookes / How-To Geek
 
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create a Mood Board
 
  A mood board is a visual collage of ideas that includes images, text, and other media. Being able to easily cut out subjects from images can make the creation of a mood board fast and easy, removing the need for you to cut out anything by hand. Using the “Copy Subject” option in Safari (after long-pressing an image) means you don’t even need to save an image to your device to use it.
@@ -64,15 +97,15 @@ Tim Brookes / How-To Geek
 ![A Nintendo 64-themed mood board created in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1925.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once you’ve copied a subject to your clipboard, paste it into a Freeform document by tapping a blank space and selecting “Paste” in the context menu. You can then move, scale, and arrange your mood board accordingly. If you want to create a mood board with non-Apple users, you’ll need to resort to a third-party tool like [Microsoft Whiteboard](https://screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users-for-2024/) or an [agile note-taking app like OneNote](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) instead.
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a Visual Log of Outfits and More
 
  This was an idea I saw [shared by TikTok user](https://www.tiktok.com/@macaulay%5Fflower/video/7142962238343630126) macaulay\_flower and it’s a stroke of genius. By taking a full-body selfie, you can create a visual log of outfits that can be easily stored in Apple Notes. Each time you come up with a new look, take another image, copy the subject, and paste it into your note.
@@ -82,7 +115,10 @@ Tim Brookes / How-To Geek
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Use Them in Instagram Stories
 
@@ -90,13 +126,16 @@ Tim Brookes / How-To Geek
 
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Highlight the Subject in Almost Any App
 
  You can copy these cutouts to your clipboard or tap the “Share” option to use them almost anywhere. Many of these use cases depend on clipboard functionality, and sometimes you have to think outside of the box to see the potential.
@@ -113,9 +152,6 @@ Tim Brookes / How-To Geek
 
 ![Adding a subject to a Google Doc using the iPhone paste functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1929.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Publishing apps like [Apple Pages](https://apps.apple.com/us/app/pages/id361309726) and [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640), in addition to slideshow tools like [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) and [Apple Keynote](https://apps.apple.com/us/app/keynote/id409183694?mt=12) also natively support the feature. Design and layout apps like [Canva](https://apps.apple.com/us/app/canva-design-art-ai-editor/id897446215) and [PicCollage](https://apps.apple.com/au/app/piccollage-ai-photo-editor/id448639966) both support pasting of subjects once they’ve been copied to your clipboard.
@@ -124,6 +160,18 @@ Tim Brookes / How-To Geek
 
  Many apps support the feature, you just need to experiment. Though you can’t refine what is selected as part of the subject isolation process, the feature makes it much easier to create impressive-looking work on mobile.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Save for Use as a Transparent PNG
 
  More of a “save for later” tip than anything else, but once you’ve isolated a subject in Photos you can use the “Share” menu to “Save to Files” or export to a Note for use elsewhere. This will create a PNG image with a transparent background, ideal for use in projects.

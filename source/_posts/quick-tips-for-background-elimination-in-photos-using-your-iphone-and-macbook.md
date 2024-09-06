@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook
-date: 2024-08-28T04:11:12.705Z
-updated: 2024-08-29T04:11:12.705Z
+date: 2024-09-05T07:48:26.790Z
+updated: 2024-09-06T07:48:26.790Z
 tags:
   - ios
 categories:
@@ -17,6 +17,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Remove the Background From an Image on a Mac](https://tech-savvy.techidaily.com/1721432117935-stay-safe-not-seducedgoogles-bard-malware-warning/)
 * [Remove Background Gets the Job Done Most of the Time](https://youtube-data.techidaily.com/n-2024-from-chords-to-chart-toppers-essential-musician-focused-youtube-content/)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * iOS, iPadOS and macOS have a "Remove Background" Quick Action in the Files app for easy background removal from images on iPhones and iPads.
@@ -26,7 +38,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Removing the background from an image can be a cumbersome task with traditional photo editing tools. But if you use an iPhone or Mac, there's a quick and easy way to remove backgrounds from images. Let's take a look.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Remove the Background From an Image on an iPhone or iPad
 
@@ -36,53 +57,80 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select button in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap the Share icon in the bottom-left corner and select "Save to Files" from the Share menu.
 
 ![Save to Files option in iPhone Photos app's Share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Finally, choose a folder to save the images and tap "Save."
 
 ![Saving photos to Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-4.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to move the images to a separate folder, you'll need to create one first. Tap the three-dot icon to the left of Save in the top-right corner of the app and select "New Folder."
 
 ![Creating a new folder in Files app to move Photos images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-5.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, give the folder a name and hit "Save" to save the selected images.
 
  With your images in the Files app, removing an image's background is super easy. Inside the folder with all your images, tap and hold a photo to bring up the context menu.
 
 ![Accessing the context menu on an image in the iPhone Files app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  Select "Quick Actions" and tap "Remove Background."
 
 ![Using the Remove Background Quick Action on an image in iPhone's Files app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-8.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  This will remove the image's background and save it as a new file (in the PNG format) in the same folder. You can now export the image to your favorite [photo editing app](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) for further editing. Or save it back in the Photos app.
 
  If you want to remove backgrounds from multiple images, it's possible to do so with the Remove Background Quick Action. In the folder containing the images, hit the three-dot menu button in the top-right corner and tap "Select."
 
 ![Select option in Files app to choose multiple images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Now, select all the photos whose backgrounds you want to remove. Finally, tap the three-dot button in the bottom-right corner and select the "Remove Background" Quick Action to remove their backgrounds.
 
 ![Accessing the Remove Background Quick Action in Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-12.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remove the Background From an Image on a Mac
 
  Similar to iOS and iPadOS, Apple offers the Remove Background Quick Action on macOS, too, as long as you're using [macOS Mojave](https://youtube-docs.techidaily.com/-modification-tools-the-ultimate-guide-for-youtubers/) or later. It's available in the [Finder app](https://buynow-info.techidaily.com/1722645048665-experience-the-best-of-web-browsing-and-streaming-on-lenovos-newest-tablet-the-2020-tab-m10-hd-reviewed/), and using it is pretty straightforward.
@@ -93,6 +141,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Accessing context menu on an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, click on "Quick Actions" and select "Remove Background."
 
 ![Using the Remove Background Quick Action to remove an image's background in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-1.jpg) 
@@ -104,7 +158,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Using the Remove Background Quick Action to remove backgrounds of multiple images at once in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Remove Background Gets the Job Done Most of the Time
 

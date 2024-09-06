@@ -1,7 +1,7 @@
 ---
 title: Epic Games Launches Mobile Gaming Stores on Android & iOS Devices
-date: 2024-08-28T04:09:56.454Z
-updated: 2024-08-29T04:09:56.454Z
+date: 2024-09-05T07:48:25.366Z
+updated: 2024-09-06T07:48:25.366Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/epic-games-store-hero.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Epic Games Launches Mobile Gaming Stores on Android & iOS Devices
 
 If there's something we can learn from the long legal battle between Epic Games, Google, and Apple, is that more awareness was raised about the need for alternative app stores to exist and give the Apple App Store/Google Play Store some competition. Epic Games already has its own games storefront, and with Apple and Google being forced to relax its restrictions, it was going to be one of the very first companies to take advantage of it. Epic has now shared more details about that plan.
@@ -87,7 +93,3 @@ If there's something we can learn from the long legal battle between Epic Games,
 <li><a href="https://os-tips.techidaily.com/unlocking-wi-fi-secrets-a-fast-guide-to-recovering-saved-passwords-on-a-mac-3-simple-approaches/"><u>Unlocking Wi-Fi Secrets: A Fast Guide to Recovering Saved Passwords on a Mac - 3 Simple Approaches</u></a></li>
 <li><a href="https://os-tips.techidaily.com/why-does-imovie-frequently-crash-and-simple-solutions-to-prevent-it/"><u>Why Does iMovie Frequently Crash & Simple Solutions To Prevent It</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->

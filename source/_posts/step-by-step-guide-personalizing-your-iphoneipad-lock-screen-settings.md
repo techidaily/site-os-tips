@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings"
-date: 2024-08-28T04:12:15.584Z
-updated: 2024-08-29T04:12:15.584Z
+date: 2024-09-05T07:48:27.930Z
+updated: 2024-09-06T07:48:27.930Z
 tags:
   - ios
 categories:
@@ -31,7 +31,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
  Lock Screen customization has been an iOS mainstay since iOS 16, allowing you to tailor your iPhone and iPad Lock Screen with wallpapers, fonts, and widgets. Here’s how to get the most out of this feature.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Create a New Lock Screen
 
@@ -45,20 +48,26 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Selecting the 'Add New Wallpaper' option under Wallpaper settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-add-new-wallpaper-in-wallpaper-settings-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, press and hold your lock screen until you see "Customize," then click the "+" icon.
 
 ![Creating a new Lock Screen on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-home-screen-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Similarly, if you want to delete the Lock Screen, press and hold the lock screen until you see "Customize." Then, swipe upwards and tap on the red trash icon, which will appear at the bottom of the screen.
 
 ![Deleting a Lock Screen on your iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-wallpaper-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Change Your Wallpaper
 
  The wallpaper is the central theme of your Lock Screen and forms the basis of its aesthetic. The wallpaper is the first thing you'll select when creating a new Lock Screen.
@@ -68,7 +77,16 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Browsing the available wallpaper options on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wallpaper-settings.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Filters can help you enhance the appearance of the wallpaper, while the [depth effect allows you to control the dimensional arrangement of your Lock Screen](https://android-frp.techidaily.com/about-motorola-moto-g13-frp-bypass-by-drfone-android/), bringing images to the foreground or background of the clock and other widgets.
 
@@ -80,6 +98,12 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Using the customize wallpaper toggle to modify an emoji wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/customize-wallpaper-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You must create a new Lock Screen if you want to change your wallpaper from one form to another. For instance, If you want to change your wallpaper from an emoji to a photo, you cannot do this by customizing an existing Lock Screen.
 
  Once your lock screen wallpaper is set, you have to decide if you want a matching Home Screen, as you can choose[separate Lock Screen and home screen wallpapers](https://easy-unlock-android.techidaily.com/introducing-the-asus-nuc-14-proplus-meteor-lake-cpus-and-advanced-features-at-only-860/).
@@ -93,12 +117,27 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Changing the font and color of the clock on your iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-font-color.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Furthermore, you can click the Globe icon to select from the numeral options of Arabic, Arabic Indic, Devanagari, Khmer, and Burmese. Depending on your chosen wallpaper, you can also set the depth effect (as mentioned earlier).
 
 ![Selecting different numeral styles for the clock on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-numerical-option-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add Some Widgets
 
  Your iPhone and iPad’s Lock Screen is as much about functionality as it is about aesthetics. That said, widgets are a great way to boost the functionality of your Lock Screen. You can select a variety of widgets, including battery meters, reminders, calendars, and weather. [You can also add widgets](https://youtube-sure.techidaily.com/24-how-much-wealth-can-you-generate-on-youtube-using-cpm/) from third-party applications you frequently use, allowing you quick access to those applications.
@@ -107,9 +146,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
  There are many [useful iPhone Lock Screen widgets](https://mondly-stories.techidaily.com/meet-your-upcoming-artificial-intelligence-confidant/); selecting one depends on your needs and usage. Some common widgets include Mail, Spotify, and Snapchat. Some widgets allow you to access functions without even launching the associated app. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Change Your Lock Screen Notifications
 
  Another way to customize your Lock Screen is to choose how your notifications should appear. It is vital to incorporate a notification style that you’re happy with. Apple understands this and gives you three notification-style options for your lock screen.
@@ -119,20 +155,21 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Selecting one of the three notification display styles on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/notification-display-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also [disable certain apps from sending lock screen notifications](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-without-previous-owner-by-drfone-ios/) to prevent them from waking your iPhone or iPad by lighting your screen up. To do this, go to "Settings," tap on "Notifications," and select the app you want to stop from sending lock screen notifications. Once selected, disable the Lock Screen under Alerts.
 
 ![Disable certain types of notifications from waking your iPhone when locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/disable-lock-screen-notifications-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Link Your Lock Screen to a Focus Mode
 
  When you create a Lock Screen, Apple lets you link it to a focus mode. Linking your Lock Screen to a focus mode helps you curate functional widgets and choose settings that will work in sync with it. For instance, for your Work focus mode, you might want to add the Mail, Notes, or Reminders widgets for quick access while disabling notifications to avoid distractions.
@@ -143,9 +180,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
  Then, choose the focus mode you want to customize and select a lock screen to link to it. You can create a new Lock Screen, choose an existing one, or select multiple Lock Screens to connect to this Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ##  Choose What's Available While Your Phone Is Locked
 
  Many features can be enabled when your iPhone is locked. By default, you can see notifications, open the camera, or turn on the flashlight, all from the lock screen. You can contact emergency services and contacts for health and safety reasons. Alternatively, you can restrict access to your personal information to protect your privacy.
@@ -154,26 +188,43 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Choosing which functions to allow when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/allow-accessories-when-iphone-is-locked.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Furthermore, you can enable or disable notification previews on your lock screen. To do this, go to "Settings" and tap "Notifications."
 
 ![iPhone Notfications option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-notfications-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then select "Show Previews."
 
 ![Toggle notification previews on or off in the iPhone Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-show-previews-in-notification-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Set this to "When Unlocked" or "Never."
 
 ![Turn on notification previews when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-when-unlocked-in-show-previews.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enabling "When Unlocked" shows your iPhone notifications once you have verified your identity using Face ID or Touch ID.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Your Lock Screen Is the Point of First Contact
 

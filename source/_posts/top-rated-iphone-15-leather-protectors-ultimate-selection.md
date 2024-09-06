@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated iPhone 15 Leather Protectors: Ultimate Selection"
-date: 2024-08-28T04:07:31.845Z
-updated: 2024-08-29T04:07:31.845Z
+date: 2024-09-05T07:48:22.805Z
+updated: 2024-09-06T07:48:22.805Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b42dfda4969266c7308e348b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top-Rated iPhone 15 Leather Protectors: Ultimate Selection
 
 The much-anticipated iPhone 15 is out, and [the reviews are in](https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-memorable-honeymoon-video/). While we can argue about its form factor, features, and functions, one thing we can all agree on is the fact that [your pricey iPhone 15 can use a case](https://review-topics.techidaily.com/itel-p55plus-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/), just in case. If you want leather, though, you'll need to look elsewhere, as Apple has discontinued its leather cases. We've found the five best for you!
@@ -16,16 +22,40 @@ The much-anticipated iPhone 15 is out, and [the reviews are in](https://meme-emo
 * [](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2000554%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fmodern-leather-case-black-iphone-15)  
 ![Nomad Modern Leather Case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/nomad-modern-leather-case.png)  
 #####  Nomad Modern Leather Case for iPhone 15 Series  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Overall Best iPhone 15 Leather Case  
 [See at Nomad Goods](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2000554%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fmodern-leather-case-black-iphone-15)
 * [](https://www.mujjo.com/collections/iphone-15-series/products/full-leather-wallet-case-for-iphone-14-with-magsafe?variant=43512256069880)  
 ![MUJJO Full Leather Magsafe Wallet Case pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/mujjo-full-leather-magsafe-wallet-case-pfp.png)  
 #####  Mujjo Leather Wallet Case for iPhone 15 Series  
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best iPhone 15 Leather Wallet Case  
 [See at Mujjo](https://www.mujjo.com/collections/iphone-15-series/products/full-leather-wallet-case-for-iphone-14-with-magsafe?variant=43512256069880)
 * [](https://bullstrap.co/products/portfolio-iphone-case-bourbon?variant=43515325120706)  
 ![BULLSTRAP Bourbon Premium Leather Case pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/bullstrap-bourbon-premium-leather-case-pfp.png)  
 #####  Bullstrap Portfolio Case for iPhone 15 series  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best iPhone 15 Premium Leather Case  
 [See at Bullstrap](https://bullstrap.co/products/portfolio-iphone-case-bourbon?variant=43515325120706)
 * [](https://www.amazon.com/WTCASE-iPhone-15-Compatible-Protective/dp/B0CG4RJBYH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000554&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-5-best-iphone-15-leather-cases%2F&asc%5Fcampaign=Commerce)  
@@ -36,9 +66,21 @@ Best iPhone 15 Leather Case With Kickstand
 * [](https://flauntcases.com/products/tan-crocodile-faux-leather-square-iphone-case?variant=43367819772103)  
 ![FLAUNT CASES Faux Leather Case pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/flaunt-cases-faux-leather-case-pfp.png)  
 #####  Flaunt SQUARE Case for iPhone 15 Series  
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best iPhone 15 Faux Leather Case  
 [See at Flaunt Cases](https://flauntcases.com/products/tan-crocodile-faux-leather-square-iphone-case?variant=43367819772103)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What to Look for in an iPhone 15 Leather Case
 
  Unlike regular [iPhone 15 cases](https://review-topics.techidaily.com/itel-p55plus-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/), leather cases are classy and luxurious. However, certain factors are worth considering when shopping for the best iPhone 15 leather cases.
@@ -93,6 +135,18 @@ The Nomad Modern Leather Case for iPhone 15 Series picks up where Apple's leathe
 
 ![MUJJO Full Leather Magsafe Wallet Case on gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/mujjo-full-leather-magsafe-wallet-case.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 MUJJO
 
 | Pros                                                   | Cons            |
@@ -108,11 +162,20 @@ MUJJO
 
 ![MUJJO Full Leather Magsafe Wallet Case pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/mujjo-full-leather-magsafe-wallet-case-pfp.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best iPhone 15 Leather Wallet Case
 
 #####  Mujjo Leather Wallet Case for iPhone 15 Series
@@ -126,7 +189,10 @@ The MUJJO Full Leather MagSafe Wallet Case stylishly turns your iPhone 15 into a
 ![BULLSTRAP Bourbon Premium Leather Case on gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/bullstrap-bourbon-premium-leather-case.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _BULLSTRAP_
 
@@ -145,11 +211,20 @@ _BULLSTRAP_
 
 ![BULLSTRAP Bourbon Premium Leather Case pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/bullstrap-bourbon-premium-leather-case-pfp.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Best iPhone 15 Premium Leather Case
 
 #####  Bullstrap Portfolio Case for iPhone 15 series
@@ -158,15 +233,21 @@ The BULLSTRAP Bourbon Leather Case truly looks and feels premium. With seven col
 
 [See at Bullstrap](https://bullstrap.co/products/portfolio-iphone-case-bourbon?variant=43515325120706) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best iPhone 15 Leather Case With Kickstand: [WTCASE Magnetic Leather Case](https://www.amazon.com/WTCASE-iPhone-15-Compatible-Protective/dp/B0CG4RJBYH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000554&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-5-best-iphone-15-leather-cases%2F&asc%5Fcampaign=Commerce) 
 
 ![WTCASE Magnetic Leather Case on gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/wtcase-magnetic-leather-case.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _WTCASE_
 
@@ -185,10 +266,19 @@ _WTCASE_
 
 ![WTCASE Magnetic Leather Case pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/wtcase-magnetic-leather-case-pfp.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best iPhone 15 Leather Case With Kickstand
 
@@ -198,22 +288,16 @@ The WTCASE Magnetic Leather Case features a kickstand for hands-free and multi-a
 
 [$24 at Amazon](https://www.amazon.com/WTCASE-iPhone-15-Compatible-Protective/dp/B0CG4RJBYH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000554&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-5-best-iphone-15-leather-cases%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best iPhone 15 Faux Leather Case: [FLAUNT CASES Square Crocodile Faux Leather Case](https://flauntcases.com/products/tan-crocodile-faux-leather-square-iphone-case?variant=43367819772103) 
 
 ![FLAUNT CASES Faux Leather Case on a gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/flaunt-cases-faux-leather-case.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _FLAUNT CASES_
 
 | Pros                                                          | Cons                                |
@@ -243,17 +327,15 @@ The FLAUNT CASES Crocodile Faux Leather Case comes in an edgy square design with
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### How do I clean and maintain my leather iPhone 15 case?
 
  Apple recommends using a clean cloth with warm water and mild hand soap to clean leather iPhone case. A mild cleaner along with a dry clean cloth will also do. Note that leather cleaners and conditioners can discolor your leather iPhone case, so avoid them.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Will MagSafe work with leather iPhone cases?
 
@@ -263,9 +345,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Yes, an iPhone 14 case can fit an iPhone 15 but not perfectly. Although both phones share the same 6.1-inch display and other similarities in form factor, the iPhone 15 is 1.1mm taller with contour edges. That being said, if you want a 100 percent perfect fit your iPhone, then get an iPhone 15 case.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Why did Apple discontinue its leather cases?
 
  According to [Lisa Jackson](https://www.independent.co.uk/tech/apple-leather-strap-watch-iphone-case-b2410462.html), Apples's V.P of Environment, Policy, and Social Initiatives, Apple is ditching leather for more carbon-neutral materials. This decision affects iPhone cases and watch bands going forward.

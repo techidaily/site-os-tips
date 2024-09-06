@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2024-08-28T04:06:57.127Z
-updated: 2024-08-29T04:06:57.127Z
+date: 2024-09-05T07:48:22.211Z
+updated: 2024-09-06T07:48:22.211Z
 tags:
   - ios
 categories:
@@ -19,6 +19,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Tracking your weight is a reliable way to see how changes in diet and lifestyle translate to real-world results. Apple Health is great for this, but the process of adding data manually is tedious. That’s why I built a shortcut to do it in two taps.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Build a Shortcut to Track Your Weight
 
  If you've [never built a workflow using Shortcuts before](https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/), don’t be scared. This might be the simplest shortcut you can make since it only involves a single step. First, download the Shortcuts app from the [App Store](https://apps.apple.com/us/app/shortcuts/id915249334) (if you don’t already have it installed).
@@ -27,6 +39,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Create new shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-17-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, tap “Add Action” and use the search bar to find the “Log Health Sample” action. Tap on it to add it to your Shortcuts workflow.
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
@@ -35,6 +53,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Finishing up adding an action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now give your workflow a name by tapping the field at the top of the screen (it will likely have the “Log Health Sample” placeholder text, grayed out). Tap “Rename” and call it something like “Record weight” and then tap “Choose Icon” and pick something appropriate.
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
@@ -42,7 +66,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To save, hit “Done” in the top-right corner of the screen. That’s it!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Using Your New Shortcut
 
@@ -53,20 +80,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The "Edit" button on the iPhone widgets screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-22.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now tap on the widget you just added, and next to the “Shortcut” field choose the “Record weight” shortcut you just created. The widget will be added, drag it into place and you’re done. You can also [place these widgets on a regular Home screen](https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/) if you’d rather.
 
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Seeing Results
 
  Head to Health > Body Measurements > Weight to see your numbers plotted on a chart. Use the “Add to Favorites” button at the bottom of the screen to pin this section to the “Summary” tab.
@@ -74,13 +104,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Getting the Most Out of Apple Health
 
  Apple Health might just be the most underrated iPhone app, and you can use this Shortcuts trick to log all sorts of things ([like your mood](https://fix-guide.techidaily.com/play-store-not-working-on-tecno-camon-20-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/)). On top of this you can log [physical activity using an Apple Watch](https://article-tips.techidaily.com/new-2024-approved-crafting-gentle-sound-declines-with-logic-pro/) or even [VR fitness games on Meta Quest](https://tech-recovery.techidaily.com/best-iphone-models-for-gamers-in-2e2023-a-comprehensive-guide/).

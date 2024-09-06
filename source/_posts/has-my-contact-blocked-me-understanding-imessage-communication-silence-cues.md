@@ -1,7 +1,7 @@
 ---
 title: Has My Contact Blocked Me? Understanding iMessage Communication Silence Cues
-date: 2024-09-01T06:56:10.348Z
-updated: 2024-09-02T06:56:10.348Z
+date: 2024-09-05T07:48:29.791Z
+updated: 2024-09-06T07:48:29.791Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52763018168_45e618f2da_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Has My Contact Blocked Me? Understanding iMessage Communication Silence Cues
 
 ### Key Takeaways
@@ -23,27 +29,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you haven't heard back from someone in a little while, they might just have their phone on [Airplane Mode](https://audio-shaping.techidaily.com/updated-in-2024-cutting-edge-audio-tools-for-iphone-and-ipad-enthusiasts/) or [Do Not Disturb](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/). But if you can't reach someone for an extended period, it's possible they blocked your number. And while it's not a good idea to contact someone who's [blocked your number](https://technical-tips.techidaily.com/expert-tips-for-fixing-screen-defects-and-eliminating-visible-lines-on-televisions/), there are other ways to figure out if that's what happened, so you can have a better idea of where you stand.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  1\. Look for an Automated Response
 
 ![iMessage Focus Status Update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imessage-focus-status-update.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If someone has their phone in Do Not Disturb mode, or using a driving [Focus mode](https://youtube-clips.techidaily.com/2024-approved-designing-distinctive-denouements/), they can set up an auto-responder text to let people know. If you send someone an iMessage and get an auto-response, good news! You're not blocked; automated responses don't get sent to blocked numbers.
 
  By a similar token, you aren't blocked if you see a little moon icon in the Messages app, that says the person has notifications silenced. That just means the person is [sharing their Focus status](https://on-screen-recording.techidaily.com/2024-approved-how-to-screen-record-skype-with-obs/) on their phone so won't see notifications until they off that Focus mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  2\. Check the Delivery Status
 
 ![Read and Delivered statuses on iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/read-and-delivered-statuses-on-imessage.png) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If someone has blocked your number on iMessage, you won't see a "Delivered" or "Read" status under the messages you send them. If you see either of those, you aren't blocked. It's likely that they're just busy or missed the message and haven't responded yet.
 
  Comparing the status of recent messages can help you deduce whether your [text messages are being blocked](https://article-helps.techidaily.com/dramatic-lighting-in-hdr-portrait-photography/). If the last message you sent them before you think they started blocking you says "Delivered," but the most recent one has no status update, they may have blocked your number.
@@ -55,15 +70,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  However, iPhone users can also disable read receipts in the Settings. So if you don't see them, that doesn't definitely mean you've been blocked. They may have simply turned these statuses off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  3\. Try Calling the Number
 
 ![Placing a phone call on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/placing-a-phone-call-on-an-iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you've been blocked by someone and you try to call that number, the call will usually go straight to voicemail, without ringing properly. If that happens when you call, you may have been blocked.
 
@@ -77,16 +97,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If someone's blocked your number and blocked you on iMessage, they've probably blocked you in other places as well. Check apps like [Facebook](https://digital-screen-recording.techidaily.com/updated-2024-approved-warriors-echoes-celebrating-ghost-of-tsushima-analogues/) and [Instagram](https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-20-phone-with-broken-screen-by-drfone-android/) to see if you're able to send them a message there. If you can't, or if their page doesn't even show up for you when you search, you've probably been blocked on everything.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  If You've Been Blocked on iMessage, Let It Go
 
  If you've used these methods and have enough evidence to be reasonably sure you've been blocked, it's not a great feeling. But you need to respect the privacy and wishes of whoever blocked you and let it go. It could end up being a fluke or a misunderstanding, so try not to take it too personally if you don't get an instant reply from someone.
 
 ##  FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ###  What if It's an Android Phone?
 
  Want to know if someone's blocked your number, but the person you're texting has an Android phone? Try calling. If it goes to voicemail after barely one ring, you may have been blocked. The message status method won't work, since that only shows up for messages sent between two iPhones.
@@ -95,10 +117,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Nope, there will be no "Delivered" status underneath your blue iMessage text bubble if your number's been blocked. However, there are other potential causes for a missing delivery message, so don't take it as absolute proof.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Can I Still Leave a Voicemail?
 
  You can always leave a voicemail, assuming the person has [set up their voicemail inbox](https://extra-support.techidaily.com/in-2024-maximizing-your-android-game-adventure-with-kinemaster-review/). However, if you're blocked, it gets stored under a separate Blocked Messages section away from their regular voicemail list, meaning they probably won't see it anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Does a Green iMessage Bubble Mean I'm Blocked?
 
  No, it's a [common misconception](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/) that a green text bubble means you've been blocked on iMessage. All it really means is that your message was sent via SMS, or that you're texting someone on an Android phone. If you are actually blocked by an iPhone user, the message bubble will stay blue, but you won't see a "Delivered" status.

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Browsing: Google Chrome's Latest Update Adds Bottom Address Bar to iPhones"
-date: 2024-09-01T06:55:20.299Z
-updated: 2024-09-02T06:55:20.299Z
+date: 2024-09-05T07:48:28.995Z
+updated: 2024-09-06T07:48:28.995Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4734b479814370ac29d24cc7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revolutionizing Mobile Browsing: Google Chrome's Latest Update Adds Bottom Address Bar to iPhones
 
 It's been two years since Apple moved Safari's address bar to the bottom of the iPhone's screen. Now, after a long wait, Google is following in Apple's footsteps. A new setting in the Chrome iOS app moves its address bar to [the bottom of your screen](https://blog.google/products/chrome/customize-chrome-ios-address-bar/). This setting is optional and disabled by default.
@@ -17,6 +23,12 @@ It's been two years since Apple moved Safari's address bar to the bottom of the 
 
 ![Swapping address bar positions in Chrome iOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/34-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  We first discovered this new Chrome iOS layout in [April 2023](https://article-files.techidaily.com/2024-approved-live-or-recorded-twitch-versus-youtube-face-off/). It was available as an experimental flag, and developer comments suggested that it would become the default layout for Chrome on iOS. This is contrary to what we're learning today—Google Chrome's original layout is still the default option. Presumably, Google chose to retain the default address bar layout to avoid any confusion or outrage. But very few Safari users complained when Apple flipped its address bar layout, so maybe Google just prefers the old-school orientation.
@@ -89,7 +101,3 @@ Google
 <li><a href="https://os-tips.techidaily.com/transforming-your-devices-security-display-a-detailed-tutorial-for-iphone-and-ipad-users/"><u>Transforming Your Device's Security Display: A Detailed Tutorial for iPhone and iPad Users</u></a></li>
 <li><a href="https://os-tips.techidaily.com/transforming-your-iphone-into-a-bluetooth-microphone-for-your-mac-computers/"><u>Transforming Your iPhone Into a Bluetooth Microphone for Your Mac Computers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Why Every Application Needs a Functional Design as Simple as the Tea Timer App
-date: 2024-08-28T04:06:44.064Z
-updated: 2024-08-29T04:06:44.064Z
+date: 2024-09-05T07:48:21.994Z
+updated: 2024-09-06T07:48:21.994Z
 tags:
   - ios
 categories:
@@ -9,10 +9,22 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/teahtg.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Every Application Needs a Functional Design as Simple as the Tea Timer App
 
 It may sound simple, but my favorite app lately has been a timer. Specifically, a timer for steeping tea. You may not drink the multiple cups a day that I do, but I want to talk about what makes it a generally outstanding mobile app.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cuppa Is a Niche But Model App
 
  In my phone, there are two types of apps: ones that are useful and ones I enjoy using. These apps are rarely the same because it seems like every app serving my needs is also designed to do things I don't want, like hypnotize me with algorithmic entertainment or just sell me laundry detergent.
@@ -29,6 +41,12 @@ Close
 
  Cuppa is how I wish every app experience was: free of ads, free of corporate tracking, and built to just get out of the way and let you do what you got the app to do. There are robust customization settings enthusiasts like me can tweak, but the defaults will likely serve you well. It feels like a return to form in [mobile apps' long history](https://digital-screen-recording.techidaily.com/updated-the-ez-grabber-user-manual-in-a-nutshell-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  It Isn't Perfect
 
  One drawback is that, because there's no account registration involved, all of your data is saved to your phone or tablet instead of to a cloud somewhere. That means if you delete the app or change to a different device, you'll lose your settings and (if enabled) timer usage stats. Fortunately, if you manage to export your data (an option in the settings menu), you can import it into a new instance of the Cuppa app. Just be aware that's completely up to you; there's no service that will take care of that for you.
@@ -36,7 +54,16 @@ Close
  Beyond that, my only real gripe is about the timer alarm. It's the sound of a ceramic teacup clattering that, while cute, feels a bit abrasive to me. I wish I could change it to something softer, but at least in the Android app I've not been able to find that option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  More Apps Should Be Like This
 

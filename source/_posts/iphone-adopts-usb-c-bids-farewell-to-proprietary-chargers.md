@@ -1,7 +1,7 @@
 ---
 title: IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers
-date: 2024-09-01T06:55:02.733Z
-updated: 2024-09-02T06:55:02.733Z
+date: 2024-09-05T07:48:28.716Z
+updated: 2024-09-06T07:48:28.716Z
 tags:
   - ios
 categories:
@@ -13,12 +13,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 The iPhone 15 will be the first iPhone to include USB-C functionality, following on from a change Apple made to higher-end iPad models. Though Apple didn’t come up with this great idea on its own, the change is still something to celebrate.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Apple Drops the Lightning Connector
 
  Both the iPhone 15 and iPhone 15 Pro families (which include larger Plus and Pro Max models, but [no iPhone mini](https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-x100-drfone-by-drfone-virtual-android/)) will feature a [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) port for the first time. This is the first time Apple has changed the iPhone connector since Lightning replaced the old iPod connector on the iPhone 5 in 2012.
 
 ![iPhone 15 with USB-C port visible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_port.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  The Lightning connector is Apple’s proprietary connector, whereas USB-C is a universal and open standard. Apple’s adoption and unwillingness to move away from Lightning has resulted in a vast number of accessories designed for the iPhone (and the iPad) that use the connector, from [Lightning USB flash drives](https://win-howtos.techidaily.com/how-to-restore-power-on-your-faulty-razer-illuminated-keyboard/) to docks, battery cases, and even Apple’s camera connection kit.
@@ -31,6 +55,12 @@ Apple
 
 ![iPhone 15 Pro recording video via USB-C to an external drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_video_record.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  The iPhone is well overdue for the switch to USB-C, particularly compared to Android devices which have been using the standard for years. Nintendo embraced USB-C for the Switch in 2017, and both Microsoft and Sony use USB-C ports on their Xbox Series and PlayStation 5 consoles.
@@ -50,7 +80,10 @@ Apple
  This shouldn’t affect charging, which Apple says will net you 50% charge in 30 minutes when using a 20w charger or better (for both base and Pro models) so if you never use a cable to transfer data then you likely won’t notice any speed limitations.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How the EU Forced Apple’s Hand
 
@@ -63,7 +96,16 @@ Apple
 ![AirPods Pro charging via iPhone 15 over USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_airpods.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Apple
 
@@ -79,9 +121,6 @@ Apple
 
  On top of a compliant cable (which Apple should include in the box), you’ll need a suitably powerful 20w or better USB-C adapter to fast charge your iPhone. Check out [our list of best phone chargers](https://some-techniques.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc-for-2024/) and [best portable battery packs](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) for some ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  What About Your Old Lightning Cables?
 
  If you’re coming from an iPhone introduced in 2022 or earlier, you’ve probably amassed a spaghetti-like mess of Lightning cables. Hang on to them. Without dedicated cables, you’ll need to use [Apple’s cursed USB-C to Lightning dongle](https://eaxpv-info.techidaily.com/new-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/) to charge your iPhone.
@@ -89,7 +128,10 @@ Apple
 ![Lightning Cable Roundup Hero Shot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52421379823_7e23e26f10_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -97,19 +139,12 @@ Hannah Stryker / How-To Geek
 
  You can even pick up [Lightning to USB-C adapters](https://www.amazon.com/Lightning-Adapter-Compatible-Charging-Connector/dp/B08X4SXDQX/?tag=htg-v2-6gl43v1-20&ascsubtag=UUhtgUeUpU2000319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fiphone-adopts-usb-c%2F&asc%5Fcampaign=Short-Term) that turn your Lightning cables into USB-C cables, a far cheaper investment than buying a whole new set of cables.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Probably Not Worth Upgrading For
 
  The iPhone 15 and iPhone 15 Pro have some big improvements including better cameras, longer zooms, faster chips, new materials and colors, and much more. Though USB-C is a big deal, we’re not convinced it’s worth upgrading for alone outside of a few special use-case scenarios like recording video or shooting photos to external devices.
 
 ![iPhone 15 Pro being used in a photo shoot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_shooting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Apple
 
  Apple didn’t just ditch Lightning on the iPhone 15, the company also [updated the AirPods Pro to include USB-C charging](https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-f15-5g-pc-drfone-by-drfone-android/).

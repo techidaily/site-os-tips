@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Multi-Port MagGo Charger by Anker - Power Up with Qi, USB-C
-date: 2024-08-28T04:11:30.718Z
-updated: 2024-08-29T04:11:30.718Z
+date: 2024-09-05T07:48:27.133Z
+updated: 2024-09-06T07:48:27.133Z
 tags:
   - ios
 categories:
@@ -58,6 +58,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 [$100 at Amazon](https://www.amazon.com/Anker-Magnetic-Charging-Certified-Ultra-Fast/dp/B0C9SXT9TC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001618&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-maggo-magnetic-charging-station-8-in-1-review%2F&asc%5Fcampaign=Affiliate) [$99.99 at anker](https://www.anker.com/products/a91c5-maggo-qi2-magnetic-charging-station-magsafe-compatible?variant=43008146473110) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Ball of Wonder That Is Meant For a Desk
 
 ![Anker MagGo Charging Station Ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/anker-maggo-charging-station-ports.jpg) 
@@ -78,22 +84,28 @@ Sergio Rodriguez / How-To Geek
 
 ![Anker MagGo Charging Station with Rear Cables plugged in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/anker-maggo-rear-cables.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  With all the ports in the back, I found the layout of those to be a bit odd. For example, with two or three of the AC outlets being used, it was quite hard to get to the four USB ports. They're not easily accessible enough to use blindly. I always needed to stand up and peek around the back to get a cable plugged in. I wish the layout had been switched so the AC outlets were beneath the USB ports.
 
  With eight different connections, there are a lot of combinations for how much power each port delivers. The highlight of an involved [Anker description](https://www.anker.com/products/a91c5-maggo-qi2-magnetic-charging-station-magsafe-compatible?variant=43008146473110) (under the specification section at the bottom of the page) is that one USB-C can provide 67W of power. If more devices are plugged into the other USB ports or magnetic charger, that number goes down. With every port and spot occupied, that USB-C power will go down to 20W.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Qi2 Works Well, But the Same as MagSafe
 
 ![iPhone docked on the Anker MagGo charging station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-dock-anker-maggo.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  While the front magnetic Qi2 charger will charge an iPhone at its full 15W speed, it’s not technically MagSafe. That also means that any Android phone with a Qi2 magnetic plate on the back could stick to this charger, too. Right now, there aren’t really any others, so it’s still essentially made for iPhone.
@@ -103,21 +115,36 @@ Sergio Rodriguez / How-To Geek
  My iPhone 15 Pro was able to charge in portrait or landscape, so [StandBy mode](https://youtube-lab.techidaily.com/24-illuminate-your-videos-with-17-lighting-hacks/) worked just fine. Although the design of the MagGo Charging Station seems ideal for a nightstand, its three AC outlets really seem to be overkill for that area of the home.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Price and Availability
 
  The Anker MagGo Magnetic Charging Station (8-in-1) is available now and comes in black or white. It retails for $99.99\. This model replaces the previous 637 with the same shape and connection types. The difference is that the new model uses Qi2 and has a top output power of 67W instead of 65W.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Anker MagGo Magnetic Charging Station (8-in-1)?
 
 ![Angled Anker MagGo Charging Station on a desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/angled-magsafe-charger-anker-maggo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
@@ -128,7 +155,10 @@ Sergio Rodriguez / How-To Geek
 ![Anker MagGo Charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/anker-maggo-charger.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Anker MagGo Charging Station 8-in-1
 

@@ -1,7 +1,7 @@
 ---
 title: 10 Pro Tips for Capturing Stunning iPhone Video Footage
-date: 2024-08-26 17:34:30
-updated: 2024-08-29 11:22:16
+date: 2024-09-05T07:47:07.926Z
+updated: 2024-09-06T07:47:07.926Z
 tags:
   - ios
 categories:
@@ -35,6 +35,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Toggling HDR video in the iPhone Camera settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/hdr_video_mode.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Use the “HDR Video” toggle to turn the feature on or off. Once you’ve seen your videos in HDR, it’s hard to go back to SDR footage. Most video editors do a decent job of converting HDR video to SDR when necessary. As time passes, HDR video will become much more prevalent until it is eventually a standard feature.
 
  Think of HDR video a bit like 4K. The iPhone could shoot in 4K way before most people had a 4K-capable TV. If you started shooting old videos in 4K when the setting first became available, you'll probably notice how good they look on modern TVs when you watch them today. HDR will pay off in the future, though it consumes more storage space.
@@ -49,6 +61,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This may mean standing next to a window and using the available light to better light your face or subject. It could mean buying an iPhone ring light or other video light for use in dark conditions. It might even simply mean turning a few lamps on, or standing beneath a streetlight when shooting at night.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Lock Focus and Exposure When Shooting 
 
  There’s one small thing you can do to improve the production quality of your iPhone video: lock focus and exposure. While setting up your shot, tap and hold on a focus point until you see “AE/AF Lock” appear on the screen. This means that your focus point won’t move, and your iPhone won’t adjust its exposure while you shoot.
@@ -59,6 +77,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Auto exposure and auto focus lock in iPhone Camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ae_af_lock.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  It’s great for shots where you’re moving, like if you’re walking down a street or along a narrow path and you always want to be focused on a set point in the distance. It's also good for avoiding the iPhone “blooming” and adjusting exposure constantly.
@@ -71,10 +101,28 @@ Tim Brookes / How-To Geek
 
 ![iPhone zoom levels highlighted in the viewfinder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone_zoom_level.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  I frequently encounter this issue with my iPhone 13 Pro. The telephoto sensor is visibly worse than the wide, managing an aperture of only f/2.8 compared to f/1.5 on my main wide camera. Low light shots in particular look noticeably worse on the telephoto. You’re better off zooming with your feet (by moving closer or further away) and sticking to the main “1x” wide camera where possible.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  Stable Footage Looks Best 
 
  Even older iPhone models have some form of image stabilization, which should be enabled automatically when shooting. You can enable “Enhanced Stabilization” on iPhone 14 and later which zooms in slightly to improve image stabilization.
@@ -95,10 +143,34 @@ Tim Brookes / How-To Geek
 
 ![Shallow depth of field in Cinematic mode on an iPhone camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cinematic_mode_video-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Cinematic Mode isn’t perfect for all occasions, and some may find the faux depth effect a little over the top. It’s fun to experiment with, just switch to it in the Camera app (it’s a separate mode, next to Video).
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7  Don’t Forget About Time Lapse Mode 
 
  The iPhone Camera app can shoot great Time Lapse videos with zero input from you. You don’t get to customize things like image intervals, but the iPhone will work everything out for you and condense minutes or hours into seconds, perfect for creating small movies of the setting sun, a backyard project, or even a car journey.
@@ -107,6 +179,12 @@ Tim Brookes / How-To Geek
 
  Remember that you can tap and hold an object to lock focus and exposure, then adjust exposure to your liking before you start your time lapse. This is essential if you want to capture a video where the exposure remains the same to visualize fading light, like during a sunset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8  Consider Shooting in ProRes 
 
  Under Settings > Camera > Formats you’ll find a “ProRes” toggle as long as you have a Pro iPhone (starting with the iPhone 13 Pro). ProRes captures much higher video quality at the expense of file size.
@@ -127,6 +205,18 @@ Tim Brookes / How-To Geek
 
  There’s a lot more to this app than first meets the eye. You can sample it all with a free trial and then purchase the app outright for a one-off fee of $12.95\. Previously I would have recommended [FiLMiC Pro](https://apps.apple.com/us/app/filmic-pro-video-camera/id436577167) here, but the app was sold on and has since moved to a subscription model. [FiLMiC Legacy](https://apps.apple.com/us/app/filmic-legacy/id6443816015) may still be worth a look, if you want a free video app.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10  Don’t Forget About Sound 
 
  Patching up bad video footage with some clever processing and editing isn't so hard, but the same can't be said for audio. We’d recommend investing in a proper microphone for your iPhone or using a separate audio recorder to get the best possible sound quality.
@@ -151,3 +241,45 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[New] 2024 Approved  Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-12-hacks-to-find-and-download-the-best-free-stock-photography/"><u>[New] In 2024, 12 Hacks to Find and Download the Best Free Stock Photography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dish-on-titles-creative-concepts-for-cookery-vids/"><u>[New] In 2024, Dish on Titles  Creative Concepts for Cookery Vids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-tips-for-free-youtube-video-transcriptions/"><u>[New] In 2024, Essential Tips for FREE YouTube Video Transcriptions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[New] In 2024, How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-playbook-of-igtv-mastery-top-10-branding-techniques/"><u>[New] In 2024, The Ultimate Playbook of IGTV Mastery  Top 10 Branding Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-superior-web-destinations-alarm-ringtone-downloads-guide-for-2024/"><u>[New] Superior Web Destinations  Alarm Ringtone Downloads Guide for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-anticipating-key-features-of-the-upcoming-ipad-mini-7-a-closer-look/"><u>1. Anticipating Key Features of the Upcoming iPad Mini 7: A Closer Look</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-resolving-your-iphones-unavailable-screen-a-step-by-step-guide/"><u>1. Resolving Your iPhone's 'Unavailable Screen': A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-transform-your-iphone-into-an-interactive-screen-with-standby/"><u>1. Transform Your iPhone Into an Interactive Screen with Standby</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-c51-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-festive-gps-your-ultimate-guide-to-navigating-with-santas-sleigh-on-waze-during-the-holidays/"><u>A Festive GPS: Your Ultimate Guide to Navigating with Santa's Sleigh on Waze During the Holidays</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-restoring-your-apple-airpods-pros-max-pair/"><u>A Step-by-Step Guide to Restoring Your Apple AirPods / Pros / Max Pair</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ai-mastery-crafting-innovative-background-scenes-for-instagram-narratives-using-machine-learning-techniques/"><u>AI Mastery: Crafting Innovative Background Scenes for Instagram Narratives Using Machine Learning Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-latest-innovation-the-significant-improvements-of-the-apple-pencil-pro/"><u>Apple's Latest Innovation: The Significant Improvements of the Apple Pencil Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-digital-wallets-like-apple-pay-or-google-pay-a-greater-security-upgrade-over-standard-credit-cards/"><u>Are Digital Wallets Like Apple Pay or Google Pay a Greater Security Upgrade over Standard Credit Cards?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/assessing-the-apple-iphone-15-perfectly-adequate/"><u>Assessing the Apple iPhone 15: Perfectly Adequate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automatic-transcription-feature-now-available-in-apples-latest-podcast-update/"><u>Automatic Transcription Feature Now Available in Apple's Latest Podcast Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/charge-multiple-gadgets-simultaneously-with-belkins-latest-200w-usb-c-portable-power-station/"><u>Charge Multiple Gadgets Simultaneously with Belkin's Latest 200W USB-C Portable Power Station</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deep-dive-into-rank-tracker-software-optimize-your-channels-success-for-2024/"><u>Deep Dive Into Rank Tracker Software - Optimize Your Channel's Success for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-apples-visual-look-up-function-can-enhance-your-iphone-experience-a-comprehensive-guide/"><u>Discover How Apple's Visual Look-Up Function Can Enhance Your iPhone Experience: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-game-changing-sleep-mode-how-your-apple-watch-can-now-coexist-with-comfort/"><u>Discover the Game-Changing Sleep Mode: How Your Apple Watch Can Now Coexist With Comfort</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-the-value-of-monitoring-my-slumber-a-personal-journey-beyond-initial-doubts/"><u>Discovering the Value of Monitoring My Slumber: A Personal Journey Beyond Initial Doubts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-12-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-add-music-to-powerpoint-tutorial-guide/"><u>How to Add Music to PowerPoint? [Tutorial Guide]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-smart-8-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Smart 8 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-instagram-game-scouting-the-8-top-post-schedulers/"><u>In 2024, Elevate Your Instagram Game  Scouting the 8 Top Post Schedulers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-spinning-stars-olympic-ice-celebrations/"><u>In 2024, Spinning Stars  Olympic Ice Celebrations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-latest-epson-wf-2630-drivers-on-your-pc-running-windows-7-8-or-10-heres-how/"><u>Install the Latest Epson WF-2630 Drivers on Your PC Running Windows 7, 8, or 10 - Here's How!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/scopri-i-migliori-strumenti-di-ottimizzazione-video-ai-gratuiti-le-prime-dieci-opzioni-compatibili-con-windows-e-mac/"><u>Scopri I Migliori Strumenti Di Ottimizzazione Video AI Gratuiti: Le Prime Dieci Opzioni Compatibili Con Windows E Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-s17-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo S17 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-apple-watch-dial-and-complications-perfect-faces-for-every-day-and-event/"><u>Top Apple Watch Dial & Complications: Perfect Faces for Every Day and Event</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-and-indepth-analysis-of-pitaka-magez-slide-charger-perfect-companion-for-your-iphone/"><u>Ultimate Guide & InDepth Analysis of Pitaka MagEZ Slide Charger - Perfect Companion for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-why-imessage-requests-you-to-reconnect-with-friends-and-easy-repair-steps/"><u>Understanding Why iMessage Requests You To Reconnect with Friends & Easy Repair Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-a-world-of-vintage-gaming-on-your-mobile-with-retroarchs-latest-ios-and-tvos-release/"><u>Unleash a World of Vintage Gaming on Your Mobile with RetroArch's Latest iOS and tvOS Release</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphone-efficiency-a-comprehensive-guide-to-using-shortcuts/"><u>Unlocking iPhone Efficiency: A Comprehensive Guide to Using Shortcuts</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: IPhone 15 Pro Max Disappoints During In-Depth iFixit Anatomy Analysis
-date: 2024-08-28T04:08:06.411Z
-updated: 2024-08-29T04:08:06.411Z
+date: 2024-09-05T07:48:23.384Z
+updated: 2024-09-06T07:48:23.384Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/46.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IPhone 15 Pro Max Disappoints During In-Depth iFixit Anatomy Analysis
 
 In recent years, Apple has made a push for both device reparability and environmentalism. It launched a [Self Service Repair](https://win11.techidaily.com/discover-your-ip-command-prompt-guide-for-pcs/) program, [lectured customers](http://www.youtube.com/watch?v=QNv9PRDIhes) about carbon neutrality, and discontinued its popular leather phone cases. But these commitments have no tangible impact on the iPhone 15 Pro Max. In a new [teardown video](https://youtu.be/hmQHgWNAg24?si=a54T6AabSTovwnWx), iFixit discovers that Apple is still an opponent to reparability—its parts pairing system discourages device repair and encourages wastefulness.
@@ -85,7 +91,3 @@ In recent years, Apple has made a push for both device reparability and environm
 <li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-guide-sync-your-iphone-with-icloud-complete-backup-strategies/"><u>Ultimate Step-by-Step Guide: Sync Your iPhone with iCloud - Complete Backup Strategies</u></a></li>
 <li><a href="https://os-tips.techidaily.com/understanding-apples-itunes-backup-process-methods-and-locations/"><u>Understanding Apple's iTunes Backup Process: Methods & Locations</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->

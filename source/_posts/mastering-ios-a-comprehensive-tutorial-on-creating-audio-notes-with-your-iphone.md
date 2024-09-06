@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS: A Comprehensive Tutorial on Creating Audio Notes with Your iPhone"
-date: 2024-08-28T04:12:06.436Z
-updated: 2024-08-29T04:12:06.436Z
+date: 2024-09-05T07:48:27.781Z
+updated: 2024-09-06T07:48:27.781Z
 tags:
   - ios
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4734b479814370ac29d24cc7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering iOS: A Comprehensive Tutorial on Creating Audio Notes with Your iPhone
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can send voice messages from your iPhone using the Messages app which are more personal than text messages.
@@ -19,6 +37,18 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  Many of us prefer texting over calling because it's less intrusive but putting feelings or emotions into messages isn't always easy. This is where voice messages come in; they allow you to get your message across more effectively while also providing the recipient with the option to save the message for later.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Record and Send a Voice Message on Your iPhone
 
  It's pretty easy to record and send voice messages on an iPhone. Start by opening the Messages app. Then, start a new conversation or open an existing one where you want to send a voice message.
@@ -31,10 +61,22 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Selecting the Audio app in Messages to start a new voice recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, tap and hold the record button (with a sound wave icon) in the right-hand corner of the input field and let go when the recording starts.
 
 ![Sound wave icon in the Messages app to quickly start a new voice recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Start speaking your message. If you want to take a pause, hit the stop button (with a red square icon) to pause the recording.
 
 ![Pausing a voice recording in the Messages app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-4-1.jpg) 
@@ -43,6 +85,12 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Resuming a voice recording in the Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you've finished speaking, hit the stop button again to end the recording. At any point, if you want to discard a voice recording, hit the x button.
 
 ![Discarding a recorded voice recording in the iPhone Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-6.jpg) 
@@ -55,10 +103,28 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Previewing a recorded voice message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-7.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  By default, the Messages app automatically deletes voice messages two minutes after you send them. Thankfully, you get an option to save them should you ever need them later. Simply tap the "Keep" button that appears below the voice message after sending it, and the Messages app will save the message.
 
 ![Saving the send voice message in the Messages app on the iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-15-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or, if you want a permanent solution, you can change the expiry setting for voice messages to prevent automatic deletion and automatically save all your future voice messages. To do this, open "Settings" on your iPhone and select "Messages."
 
 ![iPhone Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-10.jpg) 
@@ -72,7 +138,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 ![Setting voice message expiry on iPhone to Never.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-12.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Listen and Reply to a Voice Message on Your iPhone
 
@@ -82,19 +151,12 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Playing a received voice message on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-23.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Once the voice message starts playing, slide right or left on the audio waveform to fast-forward or rewind the message.
 
  Alternatively, you can raise the phone to your ear to listen to the voice message. You'll need the Raise to Listen feature enabled for this feature to work. To turn it on, in iPhone "Settings," go to "Messages," and toggle the switch for "Raise to Listen" on.
 
 ![Enabling the Raise to Listen option in Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-25.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Lastly, you can also check a voice message's content without actually playing it. Simply look at the transcript under the voice message to know what the message contains. This is useful when you're in a situation where you can't play the audio but need to check a voice message someone has sent to you.
 
  After you've checked a voice message, the Messages app will automatically delete it two minutes later. Tap the "Keep" button below the message to save it. Or change the expiry setting to never, as shown in the previous section.
@@ -105,20 +167,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Composing an in-line reply for a voice message on the iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-20.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, if the Raise to Listen feature is enabled on your iPhone, replying to messages is slightly different. After you've listened to a message, lower your iPhone and put it back on your ear. You'll now hear a tone indicating that the recording has begun. Start speaking your reply message and, when done, lower the iPhone to stop recording.
 
  Hit the arrow button to send the message. You can also preview the message if you want.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What You Need to Know About Sending and Receiving Voice Messages on an iPhone
 
  Below are answers to some questions you may have about sending and receiving voice messages on iPhones.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  How Long Can Voice Messages Be on an iPhone?
 
  Apple doesn't explicitly mention how long a voice message you can send on an iPhone. But based on a few forum discussions, it looks like you can't send voice messages longer than 30 minutes.
@@ -131,9 +199,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Lastly, if a voice message is saved, the Messages app shows "Kept" under the message to inform the other person in the conversation that their message has been saved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ###  What Languages Does the Transcript Feature Support?
 
  The audio transcription feature in the Messages app is supported in many regions and available in various languages. You can check out [Apple's support page](https://www.apple.com/ios/feature-availability/#messages-audio-message-transcription) to find out if it's available in your native language.

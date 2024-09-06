@@ -1,7 +1,7 @@
 ---
 title: "New Generation of Adobe's AI: Exploring the Power-Packed Features Within the Latest Express App BETA"
-date: 2024-08-28T04:06:28.707Z
-updated: 2024-08-29T04:06:28.707Z
+date: 2024-09-05T07:48:21.743Z
+updated: 2024-09-06T07:48:21.743Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cfd7b5126052dee0bd06c1845.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Generation of Adobe's AI: Exploring the Power-Packed Features Within the Latest Express App BETA
 
 Adobe is bringing more of its Firefly generative AI features to mobile devices. The new [Adobe Express app beta](https://news.adobe.com/news/news-details/2024/New-Adobe-Express-Mobile-App-Brings-Firefly-Generative-AI-Models-Directly-into-Mobile-Workflows-/default.aspx), which will eventually replace the standard Adobe Express app, includes AI-powered features like Generative Fill and [Text to Image](https://www.adobe.com/products/firefly/features/text-to-image.html) effects. It also supports real-time collaboration with the desktop version of Express.
@@ -93,7 +99,3 @@ Adobe is bringing more of its Firefly generative AI features to mobile devices. 
 <li><a href="https://mondly-stories.techidaily.com/unexpected-perks-mastering-languages-in-golden-age/"><u>Unexpected Perks: Mastering Languages in Golden Age</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi A2? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

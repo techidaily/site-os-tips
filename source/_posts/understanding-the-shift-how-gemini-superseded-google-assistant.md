@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Shift: How Gemini Superseded Google Assistant"
-date: 2024-08-28T04:10:34.654Z
-updated: 2024-08-29T04:10:34.654Z
+date: 2024-09-05T07:48:26.093Z
+updated: 2024-09-06T07:48:26.093Z
 tags:
   - ios
 categories:
@@ -27,7 +27,16 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
  Google was late to the AI game. The company released Bard in early 2023, behind ChatGPT and what would eventually become Microsoft Copilot. Bard was lackluster at first, but it has since had a major glow up to become "Gemini"—and Google Assistant is in its sights.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Is Google Gemini? Is It Different From Bard?
 
@@ -43,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
  There's also a premium version called Gemini Advanced, which unlocks additional features of Ultra. We're talking about expanded abilities with multimodal inputs, more interactive coding tools, deeper data analysis, and more. You can access Gemini Advanced for $20/month after a free two-month trial as part of Google One's new AI Premium Plan.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Can Google Gemini Do As Google Assistant Replacement?
 
  When you install the Gemini Android app, you will be prompted to replace Google Assistant with Gemini. This will be a complete replacement. In other words, if you opt-in when you install the app and then say "Hey Google" to your phone, hold down the power button, swipe in from the lower corner of the display, or otherwise perform a trigger that would usually launch Assistant, you'll get the Gemini overlay instead. Once you install the Gemini app, it serves as your personal AI assistant. You can chat with it to get help on several kinds of everyday tasks:
@@ -55,7 +61,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ![Using Google Gemini to launch Whatsapp on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-101242_google.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * **Send Messages**: You can also use Gemini to send messages to your contacts by voice or typing. For example, you can say, "Send a message to John" or "Text Lisa," and Gemini will ask you what you want to say.
 
@@ -65,25 +74,64 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Using Google Gemini to initiate call on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102308_google.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Search the Web**: Gemini can help you find information on the web, such as weather, news, sports, or trivia. You can ask Gemini anything you want, such as "What's the weather like today?" or "Who is topping the Premier League?" and Gemini will show you the relevant results from Google.
 
 ![Using Google Gemini to Google search on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102920_google.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Screen Awareness**: Gemini can also understand what's on your screen and help you with relevant actions. Tap "Add This Screen" to let Gemini capture the details of your current screen.
 
 ![Add this screen prompt on Google Gemini app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103025_google.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Then, you can ask it to generate text or answers based on what's visible on your screen. For instance, if you're reading an article, you can ask Gemini to summarize it or ask questions about the article.
 
 ![Using Google Gemini to summarize an article on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103121_google.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Play Games**: Gemini can also entertain you with fun games, such as trivia, hangman, or tic-tac-toe. You can say, "Let's play a game" or "I'm bored," and Gemini will suggest some games for you. You can also challenge Gemini to a game of rock-paper-scissors or coin-flip.
 
 ![Playing tic-tac-toe with Google Gemini on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103154_google.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Make Jokes**: Gemini can also make you laugh with some funny jokes, puns, or memes. You can say, "Tell me a joke" or "Show me a random meme," and Gemini will surprise you with some hilarious content.
 
 ![Google Gemini showing a random meme on prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103310_google.jpg) 
@@ -91,7 +139,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
  Gemini is always learning and improving, so you can expect new features and updates in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Google Assistant Tasks That Google Gemini Can't Do (Yet)
 
@@ -103,9 +154,6 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Google Assistant helping Gemini.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-094859.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The good news is Google Assistant can "help" Gemini with some of these tasks still. If you're using Gemini as the default digital assistant on Android, it will essentially fall back to Assistant for timers and alarms, controlling smart home devices, on-device actions like turning on Bluetooth, broadcasting to smart speakers, and reading pages out loud.
 
  While these limitations may be frustrating if you are a longtime Google Assistant user, they stem from the fact that Gemini represents an entirely different, more advanced AI architecture. As Gemini matures, hopefully, its capabilities will expand to close the gaps with Assistant and combine conversational intelligence with Google's services. But for now, you may need to switch between the two for certain tasks.
@@ -115,7 +163,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ![Gemini AI tap selected in the Google app on an Apple iPhone 15 Pro Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53528020292_1ca68ef944_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 

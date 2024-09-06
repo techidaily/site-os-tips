@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Basics: Discover 10 Unexpected Benefits of Using Your iPhone"
-date: 2024-08-26 23:57:18
-updated: 2024-08-29 10:19:59
+date: 2024-09-05T07:46:08.844Z
+updated: 2024-09-06T07:46:08.844Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ## Beyond the Basics: Discover 10 Unexpected Benefits of Using Your iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Measure Distances by Pointing Your Camera](https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-14-pro-max-by-drfone-ios/)
@@ -32,12 +38,36 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![Using the iPhone's Measure app to measure a cat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/measure_app_iphone.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The app works using augmented reality (AR), where the measurement is overlaid in the camera viewfinder. Drop points to measure multiple differences, and then use the shutter button to snap a picture. The app is fairly accurate, though you should be aware that measurements are approximate.
 
  It’s perfect for getting a rough idea of the distance between two points.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Measure Angles and Check Things Are Level
 
  The Measure app has another trick up its sleeve: the ability to check angles and act as a digital spirit level. Open the Measure app and tap on the “Level” tab, then place your iPhone on a surface to measure the angle. At 0º (level) the black level indicator will turn green.
@@ -58,8 +88,32 @@ Tim Brookes / How-To Geek
 
 ![A selection of background sounds available on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/background_sounds.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enable your iPhone’s Accessibility Shortcut (by triple-clicking the Side button) to quickly trigger the feature under Settings > Accessibility > Accessibility Shortcut.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create 3D Models
 
  Perhaps one of the most impressive iPhone features is the ability to create 3D scans simply by moving your device around a space. You can do this with a standard iPhone using photogrammetry techniques, which convert 2D images into 3D models, with an app like Polycam.
@@ -90,8 +144,20 @@ Tim Brookes / How-To Geek
 
 ![iPhone Sound Recognition accessibility menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/sound_recognition_iphone.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When your device detects a sound it will send you a notification alerting you. Alternatively, you can use the feature to trigger an automation. To do this, launch the Shortcuts app (or download it for free from the [App Store](https://apps.apple.com/us/app/shortcuts/id915249334) if you don’t already have it) then use the “Automation” tap to create a new Personal Automation and use “Sound Recognition” as the trigger.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Limit the Time You Spend on Social Media
 
  Social media can take up way too much of your time without you realizing it. Fortunately, you can use Screen Time on your iPhone to [limit how much time you spend on social media](https://extra-resources.techidaily.com/top-10-photo-grid-apps-to-make-your-pictures-stand-out/). Head to Settings > Screen Time > App Limits to enable app limits and define how much time you want to spend on these apps per day.
@@ -102,6 +168,12 @@ Tim Brookes / How-To Geek
 
  This feature is great as a reminder rather than an outright blocker. You can decide to ignore it, but simply having a prompt is sometimes enough to make you more aware of where your time is going (especially when you’re supposed to be working).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Isolate Subjects in Photos and Videos
 
  Isolate subjects on your iPhone using the Photos app. Open a photo (or pause a video) and tap and hold a subject until your iPhone highlights them. From here you can choose to “Copy” the subject, make an iMessage sticker using the “Add Sticker” option, or “Share” it to another app.
@@ -112,6 +184,12 @@ Tim Brookes / How-To Geek
 
  This feature is also used by your iPhone when [creating Depth Effect lock screen backgrounds](https://network-issues.techidaily.com/enhancing-gameplay-fixing-civ-5-crashes/).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Help You Converse in Another Language
 
  There are many apps you can download from the App Store to translate speech and text, but Apple includes one on your iPhone that can even work offline. Launch the Translate app to get started, either by selecting languages and typing or using the microphone icons to speak your side of the conversation aloud.
@@ -138,3 +216,56 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-easy-steps-to-download-twitters-media-to-phone/"><u>[Updated] 2024 Approved  Easy Steps to Download Twitters Media to Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-selecting-the-ideal-screen-recording-application-obs-vs-fraps-showdown/"><u>[Updated] 2024 Approved  Selecting the Ideal Screen Recording Application  OBS vs Fraps Showdown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-effective-ads-a-cost-free-guide-to-youtube-videos/"><u>[Updated] In 2024, Crafting Effective Ads  A Cost-Free Guide to YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-cutting-edge-techniques-for-game-capture-specialists/"><u>[Updated] In 2024, Cutting-Edge Techniques for Game Capture Specialists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-cutting-edge-editing-advanced-strategies-for-using-the-background-erase-feature/"><u>2024 Approved  Cutting Edge Editing  Advanced Strategies for Using the Background Erase Feature</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-srt-files-an-all-inclusive-guide-to-subtitles/"><u>2024 Approved  Mastering the Art of SRT Files  An All-Inclusive Guide to Subtitles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>2024 Approved  Unveiling the Mysteries  High-Quality Minecraft Capture on MacOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-to-enhancing-your-instagram-video-sizes-for-2024/"><u>A Step-by-Step Approach to Enhancing Your Instagram Video Sizes for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-steelseries-arctis-5-gaming-headset-drivers/"><u>Download and Install SteelSeries Arctis 5 Gaming Headset Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-memory-capacity-of-ipads-how-many-gb-are-included-and-is-it-significant/"><u>Exploring the Memory Capacity of iPads – How Many GB Are Included and Is It Significant?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-why-the-iphone-reigns-supreme-in-mobile-video-experience/"><u>Exploring Why the iPhone Reigns Supreme in Mobile Video Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-affordable-fixes-for-the-latest-iphone-model-say-hello-to-the-15-pro-deals/"><u>Get Affordable Fixes for the Latest iPhone Model: Say Hello to the 15 Pro Deals!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-quick-threat-neutralization-work-for-apple-devices-like-iphone-ipad-and-mac/"><u>How Does Quick Threat Neutralization Work for Apple Devices Like iPhone, iPad, and Mac?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-ensure-accurate-sleep-monitoring-on-your-apple-watch-solutions-that-work/"><u>How To Ensure Accurate Sleep Monitoring on Your Apple Watch – Solutions That Work!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-an-unresponsive-iphone-or-ipad-troubleshooting-steps/"><u>How to Fix an Unresponsive iPhone or iPad: Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-use-apples-airplay-feature-effectively-an-in-depth-explanation/"><u>How to Use Apple's AirPlay Feature Effectively: An In-Depth Explanation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/icloud-for-windows-receives-significant-upgrade-discover-the-latest-features/"><u>ICloud for Windows Receives Significant Upgrade - Discover the Latest Features!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-redmi-13c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi Redmi 13C without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-poco-c50-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Poco C50 PC | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y27-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y27 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-12-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus 12 Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-a59-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo A59 5G Phone?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-in-game-capture-clarified/"><u>In 2024, In-Game Capture Clarified</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-content-summaries-top-templates-examples/"><u>In 2024, Streamline Content Summaries  Top Templates Examples</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g-stylus-2023-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G Stylus (2023) Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-ugreen-5000mah-magnetic-charger-pad-does-it-spark-anxiety/"><u>In-Depth Analysis of the Ugreen 5000mAh Magnetic Charger Pad: Does It Spark Anxiety?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-the-studio-how-magix-video-pro-x-simplifies-production/"><u>Inside the Studio  How Magix Video Pro X Simplifies Production</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/linksys-velop-evaluated-a-comprehensive-review-of-its-performance-in-mesh-connectivity/"><u>Linksys Velop Evaluated: A Comprehensive Review of Its Performance in Mesh Connectivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/major-icloud-enhancements-now-available-on-windows-platforms-whats-new/"><u>Major iCloud Enhancements Now Available on Windows Platforms: What's New</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigating-the-fallout-how-apple-downtime-causes-iphone-app-issues/"><u>Navigating the Fallout: How Apple Downtime Causes iPhone App Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/next-gen-performance-showdown-the-evolution-from-apples-a14-to-the-revolutionary-m1-chip/"><u>Next-Gen Performance Showdown: The Evolution From Apple's A14 to the Revolutionary M1 Chip</u></a></li>
+<li><a href="https://os-tips.techidaily.com/refresh-your-iphones-look-with-automatic-wallpaper-rotation/"><u>Refresh Your iPhone's Look with Automatic Wallpaper Rotation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-apple-watch-a-comprehensive-tutorial-for-beginners-and-pros/"><u>Resetting Your Apple Watch - A Comprehensive Tutorial for Beginners and Pros</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-text-message-delivery-problems-when-communicating-with-iphone-users/"><u>Resolving Text Message Delivery Problems When Communicating with iPhone Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-personal-item-security-with-the-nomad-tracker-card-a-users-in-depth-analysis/"><u>Revolutionizing Personal Item Security with the Nomad Tracker Card – A User's In-Depth Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/risky-gamble-pays-off-big-time-for-whatsapp/"><u>Risky Gamble Pays Off Big Time for WhatsApp</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-apple-experience-why-and-how-to-implement-security-keys-on-iphones-and-ipads/"><u>Secure Your Apple Experience: Why and How to Implement Security Keys on iPhones & iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/self-repair-techniques-for-your-ios-device/"><u>Self-Repair Techniques for Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/setting-up-auto-reminder-alerts-for-birthdays-on-your-ios-device/"><u>Setting Up Auto-Reminder Alerts for Birthdays on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-controlling-application-access-and-privacy-settings-on-your-ios-device/"><u>Step-by-Step Guide: Controlling Application Access & Privacy Settings on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-evaluating-and-maintaining-your-ipad-battery-life/"><u>Step-by-Step Guide: Evaluating and Maintaining Your iPad Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-finding-specific-conversations-in-your-ios-messages/"><u>Step-by-Step Guide: Finding Specific Conversations in Your iOS Messages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-pcs-bluetooth-device-drivers/"><u>Step-by-Step Guide: Updating Your PC's Bluetooth Device Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-hidden-reasons-behind-apples-restrictions-on-bringing-imessage-to-android-os/"><u>The Hidden Reasons Behind Apple's Restrictions on Bringing iMessage to Android OS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-next-level-in-smart-assistants-a-review-of-the-4gen-echo-device/"><u>The Next Level in Smart Assistants - A Review of the 4Gen Echo Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-power-myth-debunked-why-a-big-battery-isnt-always-better-for-your-smartphone/"><u>The Power Myth Debunked: Why A Big Battery Isn't Always Better for Your Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-syncing-disconnecting-and-restarting-your-apple-tv-remote/"><u>The Ultimate Guide: Syncing, Disconnecting & Restarting Your Apple TV Remote</u></a></li>
+<li><a href="https://os-tips.techidaily.com/to-upgrade-or-not-is-the-iphone-15-worth-considering/"><u>To Upgrade or Not: Is the iPhone 15 Worth Considering?</u></a></li>
+<li><a href="https://games-able.techidaily.com/upsides-and-downs-of-handheld-gaming/"><u>Upsides & Downs of Handheld Gaming</u></a></li>
+</ul></div>

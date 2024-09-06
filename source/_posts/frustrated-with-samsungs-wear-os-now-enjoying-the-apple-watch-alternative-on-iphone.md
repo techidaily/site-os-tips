@@ -1,7 +1,7 @@
 ---
 title: Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
-date: 2024-08-28T04:08:00.668Z
-updated: 2024-08-29T04:08:00.668Z
+date: 2024-09-05T07:48:23.306Z
+updated: 2024-09-06T07:48:23.306Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/on-the-left-a-samsung-watch-with-the-wearos-logo-on-the-screen-on-the-right-an-apple-watch-with-apple-logo-on-the-screen.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Apple's closed ecosystem works in its favor for the Apple Watch, making tracking health and fitness data seamless and easy.
@@ -19,6 +31,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For all its faults, Apple's closed ecosystem also has its advantages — especially when it comes to the Apple Watch. When the closest competition is the Android-based WearOS, it's not hard to convince someone to jump to iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Ditching WearOS For watchOS
 
  I am a data nerd. I like looking at data, finding trends, and seeing progress, and that extends to my health and fitness. I tried out smartwatches and fitness trackers over the years, but the combination of working from home (I no longer needed notifications since my phone is always available) and the sometimes spotty tracking inherent to WearOS meant that I'd eventually abandon them.
@@ -27,13 +45,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Apple Watch Series 8 recording a Traditional Strength Training exercise using the Workout app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52559368560_69e3affd15_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  After picking up an iPad and learning about the Health app (and all the metrics it could track), I wanted to take the plunge. I shopped online and bought a used iPhone and Apple Watch, synced them up, and got tracking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Why Not An Android Smartwatch?
 
  In a world where there is a long list of options for Android smartwatches, it may seem like an extreme option to go the Apple Watch route. But here's the thing: the more options you have, the more difficult it can be to get all the moving parts to work together properly.
@@ -43,7 +64,10 @@ Tim Brookes / How-To Geek
 ![Fitbit-Charge-6 6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fitbit-charge-6-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
@@ -54,24 +78,21 @@ Joe Fedewa / How-To Geek
 ![Apple Watch Series 8 showing the 'Activity' watch face.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple_watch_s8_activity.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The Apple Watch even works with Apple's Fitness+ app, allowing me to see my heart rate and more important information in real-time while I work out, allowing me to ramp up or slow down as needed. In short, I could get a similar experience on Android with a lot more tinkering, but Apple makes it so easy without all of the added hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  My Daily Driver is Still Android
 
  I'm not a complete Apple convert. My main smartphone is still the Google Pixel 7a, and the prohibitively high prices of the iPhone line make it likely I won't completely switch to iOS any time soon. Also, as a gamer, I live or die by my Windows desktop and laptop, so a Mac is never on my mind when shopping for replacements.
 
 ![Lock screen on the Google Pixel 7a display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/google-pixel-android-lock-screen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Frankly, I'm not a fan of iOS in general. Putting the price aside, I always choose Android over Apple because I can get the mobile experience I want without any strange restrictions or being beholden to a single company's services. While that freedom doesn't work for me when it comes to tracking my fitness, for nearly everything else, I prefer having the choice to cater the experience to my liking.
@@ -90,18 +111,6 @@ You need an Apple Watch to use Fitness+. The stats tracked by the Watch get show
 
  Best of all, the Apple Watch syncs with my health insurance provider, which offers rebates and rewards for healthy habits. This is something that not all Android smartwatches can do.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  ...But It's Not Perfect
 
  Some aspects of this setup can cause some frustration. Since my Apple Watch only has Wi-Fi, I can't use some of the safety features while on the road, such as [Crash Detection](https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/). In addition, I'm able to use apps like Google Calendar and Gmail to sync specific notifications to my smartwatch, but sometimes calendar events don't appear until I physically check both the Google Calendar and iCalendar apps on the iPhone.

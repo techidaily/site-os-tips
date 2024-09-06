@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Premature Battery Drainage in Mobile Devices - Common Pitfalls to Steer Clear Of
-date: 2024-08-28T04:09:10.317Z
-updated: 2024-08-29T04:09:10.317Z
+date: 2024-09-05T07:48:24.573Z
+updated: 2024-09-06T07:48:24.573Z
 tags:
   - ios
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixel-battery-screen-red.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Prevent Premature Battery Drainage in Mobile Devices - Common Pitfalls to Steer Clear Of
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Charging Your Phone Too Much](https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-reno-10-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/)
@@ -30,41 +48,48 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Overcharging—keeping the battery consistently at 100%—and exposing it to excess heat can further expedite this degradation process. To extend your battery's lifespan, we recommend you charge your phone only when necessary and avoid leaving it plugged in unnecessarily after reaching a full charge.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Cranking Up the Screen Brightness
 
 ![The lockscreen of the Samsung Galaxy S24 Plus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lockscreen-of-the-samsung-galaxy-s24-plus-3jpg_53483811827_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  You may already know this, but that big, beautiful display on your phone is sucking up a lot of battery. The brighter the screen, the more power it consumes. This is because the screen backlight, responsible for illuminating the display, requires energy to operate.
 
  However, many modern smartphones now have OLED displays, which don't require backlights. The premise is the same for OLED displays, though. Instead of a backlight, each pixel on an OLED display is a self-contained source of color and light. So, the brighter those pixels need to be, the more power is required.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Letting Apps You Don't Use Access Your Location
 
  Screen brightness is a relatively obvious thing that sucks up battery, but one thing you may not think about is location services running in the background. When location services are active, your phone's GPS receiver, Wi-Fi radio, and cellular connection are continuously engaged to pinpoint your location accurately.
 
  This is why it's important to pay attention to how Android and the iPhone present location permissions. Both platforms allow you to choose "While Using the App" for location access. You should be very stingy with which apps you allow to "Always" access your location. Your battery will thank you.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Notifications Constantly Waking the Screen
 
 ![Apple iPhone 14 Pro's display and notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52421159219_1085f0b209_o.jpg) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Let's talk about displays again. As mentioned, they eat up a lot of battery life. Naturally, the more the display is powered on, the more battery it will use. A small thing that can have a big impact is notifications that constantly wake up the screen.
 
@@ -72,6 +97,12 @@ Sergio Rodriguez / How-To Geek
 
  Thankfully, you can [prevent this from happening on the iPhone](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-without-previous-owner-by-drfone-ios/) and [Android devices](https://instagram-videos.techidaily.com/new-instagrams-hottest-25-minds-in-the-digital-age/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Voice Assistants Listening for Wake Commands
 
  Voice assistants listening for wake commands, such as "Hey Siri" on the iPhone or "Okay Google" on Android devices, can have a noticeable impact on battery life. In fact, they usually tell you this when you enable the feature. Voice assistants operate in the background, constantly monitoring audio input from the device's microphone to detect the wake command.
@@ -82,18 +113,12 @@ Sergio Rodriguez / How-To Geek
 
 ![Notifications and quick settings on the Samsung Galaxy S23+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52709294324_62743ec6e5_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Wi-Fi is great... when you're near a network. If you're away from your home network and any other known Wi-Fi networks, your phone will continue to scan for available networks, using up battery in the process. This is particularly noticeable in areas with a high density of Wi-Fi networks or when moving between different locations where networks are available.
 
  What can you do to stop this? Well, for starters, turn off Wi-Fi when you're not at home. Admittedly, that's pretty annoying and easy to forget. [Android has a feature that can do this automatically for you](https://youtube-clips.techidaily.com/sourav-joshis-strategy-for-youtube-earning-in-the-year-2024/). The iPhone does not have a similar feature.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Keeping Unused Sensors Enabled
 
  Just like Wi-Fi, there are a [number of other sensors in your phone](https://youtube-stream.techidaily.com/new-game-masters-top-ten-female-gaming-influencers/) that you can turn off when they're not needed. Things like Bluetooth, NFC, and GPS. While they don't use a ton of battery life, there's no need to keep them enabled if they're not being used. [Don't keep Bluetooth turned on](https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-find-x6-by-drfone-android/) if you don't have a smartwatch or wireless headphones. Don't keep [NFC enabled](https://tech-renaissance.techidaily.com/troubleshooting-speaker-malfunctions-in-microsoft-presentations/) if you never use tap-to-pay. You get the idea.

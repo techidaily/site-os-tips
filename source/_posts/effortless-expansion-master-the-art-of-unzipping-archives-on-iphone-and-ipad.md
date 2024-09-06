@@ -1,7 +1,7 @@
 ---
 title: "Effortless Expansion: Master the Art of Unzipping Archives on iPhone & iPad"
-date: 2024-08-28T04:07:54.382Z
-updated: 2024-08-29T04:07:54.382Z
+date: 2024-09-05T07:48:23.199Z
+updated: 2024-09-06T07:48:23.199Z
 tags:
   - ios
 categories:
@@ -16,6 +16,12 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 * [How to Unzip Files on iPhone and iPad](https://win-blog.techidaily.com/resolved-how-to-fix-the-recurring-thunder-tier-one-game-crashes-on-your-computer/)
 * [How to Zip Files on iPhone and iPad](https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6s-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  Open the iPhone's built-in Files app and tap a zip file to unzip it. Zip files you downloaded will likely be in your Downloads folder. You can create zip files by selecting multiple files and using the "Compress" option from the menu.
@@ -27,7 +33,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
  The screenshots in this guide are from an iPhone, but the process is exactly the same with the Files app on iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Unzip Files on iPhone and iPad
 
@@ -43,13 +52,16 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Locate the zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0291.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap the file to unzip it. Your iPhone will extract the contents of the zip file to the current folder.
 
  That's really all there is to it. Apple just assumes that if you're selecting a zip file you probably want to open it, and that's a pretty same bet. If you want to take a peek inside without unzipping the file, press and hold, then select "Quick Look" from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Zip Files on iPhone and iPad
 
  To create a zip file on iPhone or iPad, select multiple items in the built-in "Files" app and choose "Compress" from the three-dot menu. Here's what that looks like:
@@ -58,38 +70,50 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Open the "Files" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0290.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Navigate to the files you'd like to zip.
 
 ![Locate the zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0291.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Tap the three-dot menu icon and choose "Select." The "Select" option is visible in the top bar without the menu on an iPad.
 
 ![Open the menu and tap "Select."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0293.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Select all the files you'd like to zip together.
 
 ![Select files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0294.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With the files selected, tap the three-dot menu icon in the bottom right and choose "Compress."
 
 ![Open the menu and select "Compress."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0295.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The zip file will be created. You can Press and hold the zip to see the option to "Rename" it or "Move" it somewhere else.
 
 ![Touch and hold for more options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0296.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  That's all there is to it! Files management [was a pain to deal with](https://instagram-video-files.techidaily.com/in-2024-seamless-audio-integration-in-instagram-visuals-and-stories/) on the iPhone and iPad for a long time, but the Files app swiftly fixed that situation. Now, it might actually be easier than [Android's zip file management](https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y27-5g-fix-now-drfone-by-drfone-virtual-android/).
 
 <ins class="adsbygoogle"

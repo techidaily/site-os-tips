@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Mood Tracking on Apple Health Platform
-date: 2024-09-01T06:55:26.395Z
-updated: 2024-09-02T06:55:26.395Z
+date: 2024-09-05T07:48:29.099Z
+updated: 2024-09-06T07:48:29.099Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/iphone-emotion-cover-photo.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Complete Guide to Mood Tracking on Apple Health Platform
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Log an Emotion or Mood](https://some-techniques.techidaily.com/new-experts-picks-the-best-10-photography-lenses/)
@@ -19,70 +31,112 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Delete a Mood or Emotion Log](https://extra-skills.techidaily.com/updated-masterpieces-in-editing-filmoras-loved-features/)
 * [How Secure Is Your Mental Health Data?](https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-13t-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * To log an emotion or mood in your Apple Health app, navigate to Browse > Mental Wellbeing > State of Mind. Then tap "Log" and use the slider to indicate your current mood and emotion.
 
  Apple's Health app lets you log your emotions and moods and informs you about factors affecting your mental wellbeing. Here's how the mood logging feature works on your Apple devices and how to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Log an Emotion or Mood
 
  Emotion and mood logging is available on an iPhone and iPad running iOS 17 or later and on an Apple Watch running watchOS 10 or later. Let's walk through the steps for enabling this feature on an iPhone (the same steps are also applicable to enabling the feature on an iPad).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  On Your iPhone
 
  To log an emotion or mood on your iPhone, open the Health app.
 
 ![An iPhone homepage highlighting the health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_cd28aa7ab788-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  From the menu at the bottom, select "Browse" and tap on "Mental Wellbeing."
 
 ![An iPhone screen highlighting the mental wellbeing option inside the Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7c6e5cd9d309-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, scroll down to select "State of Mind."
 
 ![An iPhone highlighting the State of Mind option in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_6012.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you've already set up this feature, tap "Log" in the top-right corner. Otherwise, Apple will greet you with information about the feature, and you can select "Get Started" to set it up.
 
 ![An iPhone screen highlight Get Started for emotion logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_5290f2a011c0-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you set up the feature, Apple provides highlights about it and explains the meanings of mood and emotion in the context of Apple Health. Tap on "Begin" to log an emotion.
 
 ![An iPhone screen explaining the difference between emotion and mood.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_c75546c5817c-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Emotion" if you want to log what you are feeling at a given moment, or select "Mood" if you would like to log how you have felt for an entire day.
 
 ![An iPhone screen showing the difference between emotion and mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_f3c2f26c8bc6-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, drag the slider to select how you're feeling. Sliding towards the left indicates an unpleasant feeling, while sliding towards the right records a pleasant feeling.
 
 ![An iPhone showing a slider for mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_8ba0cfe8a561-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the next screen, you will be presented with some words to choose from that best describe your present emotional state. Selecting from the words is an optional step that Apple states is used to build a better overall picture of the mood logged in the previous step. Tap any optional words that describe your mood, then tap "Next." You will also have the option of choosing words from the selected words that have the biggest impact on you.
 
 ![An iPhone showing words to be selected by user for logging mood.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_230212c636de-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you've done this, your iPhone will log your emotion and associated words in the Health app.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  On Your Apple Watch
 
  Emotion and mood logging are also supported on your Apple Watch. Logging on either device will sync to the Health app on your iPhone. Let's look at the steps needed for logging your mood or emotion on an Apple Watch.
@@ -103,9 +157,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An Apple Watch screen showing mood selection for logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-4e5b1948-5c22-43af-b6d7-45e11f52761e.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, you will be shown a list of words to better describe your selected emotion. Select any optional words, then tap the checkmark in the upper right corner of the screen.
 
 ![An Apple Watch showing a list of words to describe a mood or emotion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-930ed9a0-8f36-4534-bb4b-d630f08589dd.png) 
@@ -114,12 +165,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An Apple Watch asking user to choose one prominent mood or emotion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-87366e68-3b81-438e-8681-258c2ca063d7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your mood and emotion logging is now complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How to Enable Reminders for Logging Your Mood and Emotion
 
  Apple allows users to log their mood and emotion multiple times during the day without a defined limit for the number of daily entries. If you want your iPhone or Apple Watch to remind you to log your emotions, you can set up reminders by following the steps detailed below.
@@ -131,7 +184,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![An iPhone highlighting the Options button for setting up reminders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_779f3daec2ea-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In the options, you can choose to be reminded during the day (this will send reminders around noon local time), or at the end of the day (this will send reminders during your bedtime as set on your phone or in the late evening hours of your local time). Or you can choose the "Add Reminder" option to pick an exact time of day when the reminder should be sent.
 
@@ -145,9 +201,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![An iPhone highlighting how to view charts for emotion and mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_1cccd147f139-1-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  Here, tap on States to view your previous logs.
 
 ![An iPhone screen showing the different states from State of Mind feature in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6065.jpeg) 
@@ -161,15 +214,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![An iPhone highlighting the life factors of the Mental Wellbeing feature in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6067.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Delete a Mood or Emotion Log
 
@@ -177,16 +231,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![An iPhone highlighting how to see all Health data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6070.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Tap "Edit" in the upper-right corner and then tap the red "Delete" icon next to the entry or entries you want to delete. You can also tap "Delete All" to clear all State of Mind logging data in one go.
 
 ![An iPhone highlighting how to delete health logs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6071.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 
 
 ##  How Secure Is Your Mental Health Data?

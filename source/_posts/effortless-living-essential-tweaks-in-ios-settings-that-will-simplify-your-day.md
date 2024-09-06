@@ -1,7 +1,7 @@
 ---
 title: "Effortless Living: Essential Tweaks in iOS Settings That Will Simplify Your Day"
-date: 2024-09-01T06:54:47.105Z
-updated: 2024-09-02T06:54:47.105Z
+date: 2024-09-05T07:48:28.501Z
+updated: 2024-09-06T07:48:28.501Z
 tags:
   - ios
 categories:
@@ -24,6 +24,12 @@ thumbnail: https://thmb.techidaily.com/551b9b29030807808fecbd021cc6b8c9595b15c77
 * [Bonus: Lock Apps With Face ID (iOS 18)](https://www.howtogeek.com/ive-made-these-changes-to-my-iphone-settings-to-make-my-life-easier/#bonus-lock-apps-with-face-id-ios-18)
 * [Bonus: Change Lock Screen Controls (iOS 18)](https://www.howtogeek.com/ive-made-these-changes-to-my-iphone-settings-to-make-my-life-easier/#bonus-change-lock-screen-controls-ios-18)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Whether you've purchased a new iPhone or are a veteran iPhone user, there are still many features and settings you might not be aware of.
@@ -32,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/551b9b29030807808fecbd021cc6b8c9595b15c77
 
  The iPhone has a treasure trove of settings, and many of the most useful are lesser known or disabled by default. So I took some time to adjust some iOS settings to make my life easier. Follow along and make some changes for the better on your iPhone, too.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 1  Enable Sound Recognition 
 
  I love listening to music, and you'll often find me wearing headphones and enjoying my favorite tunes in a world of my own. Unfortunately, because of this habit, I always miss important sounds around me like the doorbell. You won't believe it, but I even missed the fire alarm once!
@@ -66,7 +69,10 @@ Close
  The Hidden folder will no longer be available in the Photos app. Whenever you want to access the data in the Hidden folder, you'll need to enable the "Show Hidden Album" toggle again.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3  Disable the Communication Preferences Toggle 
 
@@ -85,7 +91,16 @@ Close
  Guided Access is an accessibility feature that lets you [restrict your iPhone to a single app](https://some-techniques.techidaily.com/2024-approved-from-camera-to-channel-a-thoroughly-researched-video-instruction-manual/). Once you enable it, your iPhone will lock the app on the screen, so the other person can't switch to a different app. You'll find the option under Settings > Accessibility > Guided Access.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5  Use One-Handed Keyboard 
 
@@ -95,6 +110,12 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  Enable Emergency Bypass 
 
  Most of us have the habit of keeping our phones on silent. While this ensures we aren't disturbed by calls during important meetings, it can also cause communication problems. One such issue happened when my mother met with an accident and tried to reach me by phone. Because my phone was on silent, I didn't hear the ring and ultimately couldn't reach the accident spot in time.
@@ -108,7 +129,16 @@ Close
  You can also do the same for "Text Tone" to always receive an audible alert when receiving a text.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7  Control Your iPhone Without Touching the Screen 
 
@@ -122,13 +152,6 @@ Close
 
  Use the "Voice Control Guide" option to get to grips with commands.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 8  Receive Emergency Weather-Related Announcement From Government 
 
  The government often releases an emergency warning whenever there's a critical weather alert in your area. While you'll receive messages about these alerts on your phone, it's always better to also configure your [Weather app](https://apps.apple.com/us/app/weather/id1069513131) to warn you about any such situation. This way, even if you miss the message sent by the government, you might see a weather alert notification from the Weather app.
@@ -139,6 +162,18 @@ No advertising on the website.
 
 Close 
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9  Bonus: Lock Apps With Face ID (iOS 18) 
 
  With [iOS 18](https://snapchat-videos.techidaily.com/new-convenient-tutorial-snapchat-installation-macos-style/), Apple has finally added the ability to lock apps with Face ID. This means you can lock individual apps on your iPhone, and they can only be opened using Face ID.
@@ -151,9 +186,6 @@ Close
 
  That's it! You'll now only be able to access that app after confirming your identity through Face ID.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10  Bonus: Change Lock Screen Controls (iOS 18) 
 
  Your iPhone lock screen has a camera and flashlight icon that lets you access both options without even unlocking your iPhone. But what if you want another option on the lock screen besides the camera or flashlight? Currently, there's no way to do that, but with iOS 18, you'll be able to [choose what appears on the lock screen](https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-m54-5g-is-unlocked-by-drfone-android/).

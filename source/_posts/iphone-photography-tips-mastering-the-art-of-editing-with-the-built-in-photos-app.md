@@ -1,7 +1,7 @@
 ---
 title: "IPhone Photography Tips: Mastering the Art of Editing with the Built-In Photos App"
-date: 2024-08-27 21:58:13
-updated: 2024-08-29 12:27:54
+date: 2024-09-05T07:45:29.419Z
+updated: 2024-09-06T07:45:29.419Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c502adbe4dde73c3482b6b83.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IPhone Photography Tips: Mastering the Art of Editing with the Built-In Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Edit Images in the Photos App](https://snapchat-videos.techidaily.com/new-2024-approved-tips-for-swapping-video-direction-in-snapchat/)
@@ -32,6 +44,12 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![The "Edit" button as it appears in the iOS Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_edit.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Across the bottom of the screen, you will see four buttons, each referring to a particular set of editing tools. From left-to-right, they are:
 
 * **Live:** Only visible if your image is a [Live Photo](https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-x5-pro-drfone-by-drfone-virtual-android/) (video recorded along with a still image).
@@ -47,12 +65,24 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  You can edit photos on an iPad, too. Thanks to iCloud Photo Library, photos you take on your iPhone will sync to your iPad where you can edit them on the bigger screen.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Making Image Adjustments
 
  The vast majority of editing tools are found under the "Adjust" section, which is automatically selected whenever you tap on the "Edit" button in the Photos app. You'll find the standard photo-editing tools for changing the way your photo looks here.
 
 ![The photo editing interface as it appears in the Photos app for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_adjust.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In total, there are 15 adjustment parameters plus an "auto" option with a "magic wand" icon. Tap the wand to enhance the image automatically, then move the slider left and right to adjust the image. Tap on the wand again to undo these changes.
 
  While automatic edits make it easy to improve a mediocre image, you'll learn more about photo editing in general by experimenting with the other options. If you want your images to exhibit a unique sense of style, manually editing your image is a must.
@@ -68,6 +98,12 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  Compressed images discard a lot of "invisible" data, so there are limits to what you can achieve with a JPEG or HEIF image. [Shooting in RAW on your iPhone](https://article-helps.techidaily.com/2024-approved-action-cam-battle-hero-4-against-hero-5/) can overcome these limitations at the cost of file size.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Color Adjustments
 
  You can change the look of your image by adjusting the various color options. These can be used to make images "pop" by tweaking contrast or saturation, or to correct white balance inaccuracies for more natural-looking skin tones.
@@ -89,12 +125,24 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 * **Noise reduction:** Apply digital noise reduction to smooth out image grain, useful for images shot in low light.
 * **Vignette:** A vignette is a dark or light ring around the edge of an image, which is often an unwanted effect of shooting with certain lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Previewing Your Changes
 
  At any point while editing your image, you can tap once on the photo to see the original. This provides a point of reference for any edits you have made. You can see whether your changes enhance the image or not. The original image is indicated by the "Original" label that appears on the screen.
 
 ![The "Original" label in the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_original_tap.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you're editing a Live Photo, which is a still image with a few seconds of video for context, you can also tap and hold the image at any point to see how your edits affect the video.
 
 ##  Revert to Your Original Photo
@@ -107,6 +155,12 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  Can't see the "Revert" option? You'll need to hit "Done" first to save your image, then tap "Edit" to enter the editing interface so that the "Revert" button appears.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Editing with Filters
 
  Tap on the "Filters" button to the right of the "Adjust" section to see a selection of Apple photo filters. Swipe through them and tap on one to apply it, then move the slider underneath to adjust the intensity of the effect. You can only apply one filter at a time.
@@ -117,6 +171,12 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  You can't shoot with filters enabled, but you can [apply in-camera Photographic Styles](https://some-knowledge.techidaily.com/updated-funny-carousel-image-builder/) to give your images a certain look.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Crop, Straighten and Perspective
 
  To the right of the other editing tools is the Crop section. When you tap on this button, you'll see manual straightening tools at the bottom of the screen. Move the slider left or right to reposition your image as you see fit.
@@ -129,6 +189,12 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![Additional tools that appear in the Crop section of the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_crop_tools.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the right-hand side of the screen is the aspect ratio tool. This allows you to pick from a predetermined aspect ratio including portrait/landscape and square presets.
 
  You can use these tools to crop your photos for a better composition, to remove sensitive information from a screenshot you intend to share, or to create square format images from portrait and landscape shots. Just like the other tools on this list, you can always get back to your original photo by editing it or using the "Revert" button.
@@ -141,6 +207,18 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![Choosing a Key Photo from a Live Photo in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_make_key_photo.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To do this, scrub with your finger until you find a frame you like. Tap on "Make Key Photo" to select that frame instead. Now when you go back to the Photos app you will see the still frame you selected, rather than the image you originally shot.
 
  Unfortunately, the quality of these stills can vary quite a bit. They're essentially still frames from a video, so they can't match the resolution or detail of the original key photo.
@@ -165,6 +243,12 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![Copy and paste edits or edit a photo with other apps using Photos for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_apps_copy_paste.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also use this option to copy edits you have applied to an image or paste edits that you've already copied. This can make batch editing a little easier.
 
 ##  Some Good Editing Tips to Remember
@@ -201,3 +285,49 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-pixel-pilgrimage-journey-through-one-thousand-channels/"><u>[New] 2024 Approved  Pixel Pilgrimage  Journey Through One Thousand Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam/"><u>[New] Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-a-personalized-auditory-experience-on-ios/"><u>[New] In 2024, Crafting a Personalized Auditory Experience on iOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-solo-sound-waves-crafting-a-trending-podcast-series/"><u>[New] Solo Sound Waves  Crafting a Trending Podcast Series</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-collection-the-best-11-streamers/"><u>[Updated] Elite Collection  The Best 11 Streamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-superior-methods-for-soundless-footage/"><u>[Updated] In 2024, Superior Methods for Soundless Footage</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-visual-harmony-crafting-chromatic-magic/"><u>[Updated] In 2024, Visual Harmony  Crafting Chromatic Magic</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>2024 Approved  Crafting a Compelling Narrative  A Key to More Viewers and Subscribers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-future-together-top-vr-gear/"><u>2024 Approved  Exploring the Future Together  Top VR Gear</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-stops-processing-bills-for-older-netflix-memberships-on-ios-platform/"><u>Apple Stops Processing Bills for Older Netflix Memberships on iOS Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/avoid-overspending-find-phones-under-1000-without-compromising-quality/"><u>Avoid Overspending: Find Phones Under $1,000 without Compromising Quality!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-instructions-on-removing-the-password-requirement-from-your-iphone/"><u>Complete Instructions on Removing the Password Requirement From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-apple-airtags-understanding-their-functionality-and-suitability-for-you/"><u>Decoding Apple AirTags: Understanding Their Functionality and Suitability For You</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-v30-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo V30</u></a></li>
+<li><a href="https://os-tips.techidaily.com/demanding-the-ultimate-sound-experience-with-built-in-volume-buttons-for-my-future-earbud-case/"><u>Demanding the Ultimate Sound Experience with Built-In Volume Buttons for My Future Earbud Case!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/detecting-mobile-internet-speed-limits-understanding-and-identifying-throttled-data/"><u>Detecting Mobile Internet Speed Limits: Understanding and Identifying Throttled Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-hidden-apple-books-features-with-these-10-essential-tips/"><u>Discover Hidden Apple Books Features with These 10 Essential Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-wait-any-longer-identify-these-5-critical-reasons-to-update-your-phone-today/"><u>Don't Wait Any Longer! Identify These 5 Critical Reasons to Update Your Phone Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-methods-for-syncing-and-downloading-icloud-images-on-various-gadgets/"><u>Effortless Methods for Syncing and Downloading iCloud Images on Various Gadgets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-annotate-images-with-these-5-iphone-tricks/"><u>Effortlessly Annotate Images with These 5 iPhone Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/evaluating-the-value-of-premium-icloud-storage-options-is-it-a-smart-buy/"><u>Evaluating the Value of Premium iCloud Storage Options: Is It a Smart Buy?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-premium-timekeeping-with-cost-effective-apple-watch-series-8-deals/"><u>Experience Premium Timekeeping with Cost-Effective Apple Watch Series 8 Deals</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-restoring-accidentally-deleted-pictures-on-ios-devices/"><u>Expert Tips: Restoring Accidentally Deleted Pictures on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-what-if-the-reason-behind-apples-decision-against-intelligent-features-in-classic-iphones/"><u>Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/find-your-missing-iphone-easily-with-these-android-tricks/"><u>Find Your Missing iPhone Easily with These Android Tricks!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/getting-up-to-date-with-apples-latest-software-current-ios-and-ipados-releases-unveiled/"><u>Getting Up-to-Date with Apple's Latest Software: Current iOS and iPadOS Releases Unveiled!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-sony-xperia-5-v-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Sony Xperia 5 V Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-easily-swap-iphone-and-ipad-screens-remotely-with-a-simple-technique/"><u>How to Easily Swap iPhone & iPad Screens Remotely with a Simple Technique</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-prevent-premature-battery-drainage-in-mobile-devices-common-pitfalls-to-steer-clear-of/"><u>How To Prevent Premature Battery Drainage in Mobile Devices - Common Pitfalls to Steer Clear Of</u></a></li>
+<li><a href="https://os-tips.techidaily.com/imitation-lastpass-application-found-on-apples-official-digital-marketplace/"><u>Imitation LastPass Application Found on Apple's Official Digital Marketplace</u></a></li>
+<li><a href="https://techidaily.com/improve-your-listening-experience-mastering-windows-10s-built-in-equalizer-features/"><u>Improve Your Listening Experience: Mastering Windows 10'S Built-In Equalizer Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-10-ultimate-webcam-reviews-for-informed-buyers/"><u>In 2024, 10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-media-experience-add-subtitles-in-windows-media-player/"><u>In 2024, Streamline Your Media Experience  Add Subtitles in Windows Media Player</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-your-potential-youtube-thumbnail-creation-on-macos/"><u>In 2024, Unlock Your Potential  YouTube Thumbnail Creation on macOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-camon-20-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Camon 20? Fixed | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-investing-in-a-screen-shield-essential-for-your-smartphones-health-and-longevity/"><u>Is Investing in a Screen Shield Essential for Your Smartphone's Health and Longevity?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-the-apple-universe-right-for-you-insights-before-joining/"><u>Is the Apple Universe Right for You? Insights Before Joining</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-proaudios-choice-the-five-pioneering-ducking-plugins-to-elevate-your-mixes-2023-rundown-for-2024/"><u>New ProAudios Choice The Five Pioneering Ducking Plugins to Elevate Your Mixes (2023 Rundown) for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-advertising/"><u>Updated In 2024, What Is AI Advertising?</u></a></li>
+</ul></div>

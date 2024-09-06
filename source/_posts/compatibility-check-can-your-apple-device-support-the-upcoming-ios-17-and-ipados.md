@@ -1,7 +1,7 @@
 ---
 title: "Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?"
-date: 2024-08-28T04:06:52.536Z
-updated: 2024-08-29T04:06:52.536Z
+date: 2024-09-05T07:48:22.130Z
+updated: 2024-09-06T07:48:22.130Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c9348a795f5c9562ae265ccb3d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [iOS 17 Will Run On iPhone XS, XR, or Newer](https://extra-tips.techidaily.com/updated-brand-storytelling-through-the-eyes-of-customer-voices/)
@@ -19,12 +31,24 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  Each year Apple releases a new major update to the operating systems that power its iPhone and iPad range. Here are all the devices that will be compatible with [the new iOS 17 and iPadOS 17 upgrades](https://tech-haven.techidaily.com/assessing-data-protection-risks-in-using-chatgpt-technology/), arriving later in 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  iOS 17 Will Run On iPhone XS, XR, or Newer
 
  To install the iOS 17 update when it arrives, you'll need an iPhone XS, iPhone XR, or a second-generation iPhone SE. Any models of iPhone produced in the years following these releases are compatible with the new update. Any new iPhones that Apple announces at its annual iPhone event will ship with iOS 17.
 
 ![List of iOS 17 compatible iPhone models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ios_17_compatibility.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Apple_
 
  You can find out which iPhone you have by visiting Settings > General > About and looking under the "Model" field. You'll also see your device listed in the account section of your Apple ID on your devices (under Settings > \[Your Name\]) and using Find My on [iCloud.com](http://www.icloud.com).
@@ -32,7 +56,10 @@ _Apple_
  The iOS 17 update drops support for the iPhone 8 and iPhone X, both of which will see out [the rest of their lifespans on iOS 16](https://digital-screen-recording.techidaily.com/in-2024-pioneering-techniques-to-transform-your-obs-studio-projects/). These models were both revealed at the same iPhone event in 2017, marking five years of support. Older devices will [continue to receive limited security updates](https://extra-approaches.techidaily.com/new-picshot-your-go-to-tool-for-hassle-free-collage-crafting/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  iPadOS 17 Will Run on iPad Pro (2nd gen), iPad Air (3rd gen), iPad (6th gen), And iPad mini (5th gen) or Newer
 
@@ -41,7 +68,10 @@ _Apple_
 ![List of iPadOS 17 compatible iPad models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ipadOS_17_compatibility.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Apple_
 
@@ -49,9 +79,6 @@ _Apple_
 
  iPadOS 17 marks the first release that drops support for the original iPad Pro which made its debut in 2016 (having had six years of software support). Also missing out this year is the fifth-generation iPad, introduced in 2017.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  New Releases Coming Fall 2023
 
  There are some [great enhancements coming to iOS and iPadOS in 2023](https://tech-haven.techidaily.com/assessing-data-protection-risks-in-using-chatgpt-technology/). Best of all, these updates are free as long as your device is compatible. Expect the iOS 17 update to arrive sometime in September, at around the same time as Apple's annual iPhone event.

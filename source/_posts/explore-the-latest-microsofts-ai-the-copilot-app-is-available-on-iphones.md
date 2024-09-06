@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest Microsoft's AI: The Copilot App Is Available on iPhones"
-date: 2024-08-28T04:10:54.992Z
-updated: 2024-08-29T04:10:54.992Z
+date: 2024-09-05T07:48:26.460Z
+updated: 2024-09-06T07:48:26.460Z
 tags:
   - ios
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b57ea6339fec6ad11dc29f884.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Explore the Latest Microsoft's AI: The Copilot App Is Available on iPhones
 
 If there's one word that defined 2023, it was probably AI. While ChatGPT was first launched at the tail end of 2022, last year was marked by a significant expansion of not only ChatGPT itself, but also generative AI as a whole. Microsoft launched several tools using OpenAI's GPT language model, including the popular Bing Chat service, which is now simply called Microsoft Copilot. Now, Copilot has a dedicated app for iPhone devices.
@@ -17,14 +29,44 @@ If there's one word that defined 2023, it was probably AI. While ChatGPT was fir
 
 ![IMG_6043](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img_6043.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 ![IMG_6041](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img_6041.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 ![IMG_6042](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img_6042.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 Close 
@@ -130,7 +172,3 @@ Close
 <li><a href="https://os-tips.techidaily.com/when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques</u></a></li>
 <li><a href="https://os-tips.techidaily.com/1723620254672-when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->

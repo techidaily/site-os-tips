@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Apple iPhone 15: Perfectly Adequate"
-date: 2024-09-01T06:55:53.989Z
-updated: 2024-09-02T06:55:53.989Z
+date: 2024-09-05T07:48:29.561Z
+updated: 2024-09-06T07:48:29.561Z
 tags:
   - ios
 categories:
@@ -25,6 +25,18 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Apple iPhone 15
 
 9/ 10 
@@ -104,7 +116,10 @@ Expand
 ![Apple iPhone 15 with widget panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-18.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
@@ -114,9 +129,6 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 USB Type-C port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-13.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  For the first time ever, the iPhone is using the same connector as the rest of the smartphone industry. Remember, before Lightning, iPhones were using the [30-pin connector](https://en.wikipedia.org/wiki/Dock%5Fconnector#30-pin%5Fdock%5Fconnector) from the iPod. Granted, Android phones and tablets were far from standardized charging in those days—anyone remember [Micro-B USB](https://amazon.com/dp/B00NH13G5A?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000546&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-iphone-15-review%2F&asc%5Fcampaign=Affiliate)? The people who extensively bought into the Lightning ecosystem might not be fans of the iPhone 15's new port and will have to [buy some dongles](https://eaxpv-info.techidaily.com/new-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/), but it's a great improvement overall.
@@ -125,13 +137,16 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 volume buttons and mute switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-19.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Speaking of connectivity, the iPhone 15 series has the same satellite SOS feature as the iPhone 14 series. If you're in one of the supported countries, including the United States, you can contact emergency services or update your Find My location from areas without a functioning cell signal. Apple has also updated it to offer roadside assistance with AAA in the United States. It's a great feature that has already been [saving](https://techcrunch.com/2022/12/14/apples-emergency-sos-via-satellite-prompts-rescue-after-car-goes-off-a-cliff-north-of-la/) [lives](https://www.macrumors.com/2022/12/01/iphone-14-satellite-sos-in-action/) in the iPhone 14 series.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##  The Display
 
  The iPhone 15 has an excellent screen, even if it's not too different from what Apple offered on the iPhone 14 series (noticing a trend here?). It's a "Super Retina XDR display," using the same type of OLED panel found on most other flagship and mid-range smartphones, such as the [Samsung Galaxy S23 series](https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-s23-fe-for-mobile-legends-drfone-by-drfone-virtual-android/) and [Google Pixel 7](https://video-content-creator.techidaily.com/new-split-mkv-videos-with-ease-top-10-free-software-options-for-2024/). If you're coming from a phone with a more basic LCD screen, like an iPhone SE or anything older than the iPhone 12, you're in for a treat.
@@ -140,6 +155,12 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-08.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Notably, the base iPhone 15 and 15 Plus don't have the "ProMotion" adaptive refresh rate available on the Pro series. That feature doubles the screen's refresh rate from 60Hz to 120Hz in certain circumstances, improving the smoothness of animations and select games. This has been one of the more common criticisms of the base iPhone 15 since its announcement, especially since [many budget Android phones](https://sim-unlock.techidaily.com/top-10-vivo-y77t-android-sim-unlock-apk-by-drfone-android/) have 120Hz screens, but the iPhone's faster processor and optimization with animations make 60Hz go a long way. ProMotion would have been a great addition, though its absence is not a deal-breaker when the rest of the display experience is this good.
@@ -152,6 +173,12 @@ Corbin Davenport / How-To Geek
 
  There aren't many apps yet that use the Dynamic Island feature to an impressive extent, but there has been a gradual increase since the iPhone 14 Pro was released, and I expect we'll see that improve as more people buy the iPhone 15 series. I've seen two cool examples: [Sports Alerts](https://apps.apple.com/us/app/sports-alerts/id432450349) can place sports scores in the Island, and [Pixel Pals](https://apps.apple.com/us/app/pixel-pals-widget-pet-game/id6443919232) adds Tamagotchi-style virtual pets to the Island that you can play with or feed.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Software
 
  The iPhone 15 series ships with iOS 17 out of the box, which is the latest version of Apple's mobile operating system at the time of writing. If you've used an iPhone before, you know exactly what to expect here. Except for the features built around the Dynamic Island and the USB Type-C port, everything here works much like recent versions of iOS on any other flagship iPhone from the past few years.
@@ -161,7 +188,16 @@ Corbin Davenport / How-To Geek
 ![Ivory Mastodon app on the iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-05.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
@@ -171,9 +207,6 @@ Corbin Davenport / How-To Geek
 
  It's a safe assumption that the iPhone 15 will get at least five or six years of iOS updates, and some security patches past that point. For comparison, flagship Samsung Galaxy devices [currently get](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fnews.samsung.com%2Fglobal%2Fsamsung-sets-the-new-standard-with-four-generations-of-os-upgrades-to-ensure-the-most-up-to-date-and-more-secure-galaxy-experience) 4 years of Android OS updates and five years of security patches, and Google's Pixel phones [are promised](https://support.google.com/pixelphone/answer/4457705?hl=en#zippy=%2Cpixel-later-including-fold) 3 years of OS updates and five years of security patches.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Performance
 
  The iPhone 15 and 15 Plus are powered by the Apple A16 Bionic chipset, with a six-core CPU (two performance cores and six efficiency cores), a five-core GPU, and a 16-core Neural Engine for AI/machine learning workloads. It's the same chip used in last year's iPhone 14 Pro, while this year's Pro models get the newer A17 chip. Apple's marketing angle for using a year-old chipset in the iPhone 15 is calling it "proven performance," which is honestly fair—it's still incredibly fast and now has a year of software optimization and real-world testing in the 14 Pro series.
@@ -182,21 +215,36 @@ Corbin Davenport / How-To Geek
 
  As with any other iPhone from the past few years, the iPhone 15 is fast enough and responsive for just about anything you can do on a smartphone. You will miss out on the [handful of major games](https://www.ign.com/articles/apple-iphone-15-pro-gaming-interview) in development exclusively for the iPhone 15 Pro and its A17 Pro chipset, such as "Resident Evil Village" and "Assassin's Creed Mirage," but everything else should work well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Battery Life
 
  I didn't have much of an issue with battery life on the iPhone 15\. My typical smartphone usage is checking emails and messages, watching videos, and occasionally tethering or playing games, but I've been playing more games than normal during my test period. Screen Time reports an average of 5 hours and 20 minutes of screen-on time, usually reaching around 30-35% charge before plugging it in overnight. If you don't use your phone a ton, you might be able to squeeze two days out of a single charge.
 
  It's worth noting that all those cool interactive widgets in iOS 17 can [drop your battery life](https://mastodon.social/@dcseifert/111117265518992422) if you have enough of them on your home screen. If you want to keep your iPhone 15 lasting all day, keep your interactive widgets to a minimum. You probably don't need to use [that new 80% charging limit](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/), though.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  The Camera
 
  The iPhone 15 and 15 Plus have two rear cameras, and they are a decent upgrade from the cameras on last year's iPhone 14\. The main camera now uses a higher resolution 48MP sensor instead of the 12MP sensor on last year's phones (and matching the camera on the 14 Pro). Photos aren't actually saved at that resolution, though—the pixels are combined to create a sharper 24MP image. That's similar to what most other flagship and mid-range smartphones do with their main cameras.
 
 ![Apple iPhone 15 camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-07.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The other rear camera is a 12MP ultrawide lens, which pulls double duty as a 120-degree ultrawide and a telephoto. It offers a 2x optical zoom, with digital zoom up to 5x. That's not as impressive as the 10x optical zoom on the iPhone 15 Pro Max or Galaxy S23 Ultra, but it is enough to zoom in on farther-away objects without completely destroying the image quality.
@@ -212,7 +260,10 @@ Close
 ![Daisy the dog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_4767-3.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
@@ -224,10 +275,6 @@ Close
 
  The front camera is still a 12MP "TrueDepth" sensor and is also used for some Face ID functions. It has improved HDR compared to the iPhone 14, and still supports video recording at up to 4K @ 60FPS. It's capable enough for video calls and some selfies, but if you're taking a group shot or something else where a more detailed image and wider field of view can help, you might want to flip the phone around. The front camera isn't bad, but now there's a much wider gap in image quality with the new 48MP rear sensor.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  The Competition
 
  As mentioned earlier, the iPhone 15 starts at $799 in the United States, while the iPhone 15 Plus starts at $899\. The most direct competitor is the Samsung Galaxy S23, which was $799 at launch but has gone on sale repeatedly at $699\. The Galaxy S23 Plus is also frequently on sale for around $800 or $900.
@@ -237,8 +284,10 @@ Close
  If you go opt for an iPhone 14 over the 15, you're losing out on the higher resolution rear camera, the USB Type-C port, a slightly worse chip, and the Dynamic Island in place of the notch. The Lightning connector might become more of an annoyance as time goes on, but you definitely don't have to worry about Lightning cables becoming scarce or anything. You can also still use USB-C chargers, portable batteries, or data sync with a [USB-C-to-Lightning cord](https://amazon.com/dp/B09BRGK8HX?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000546&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-iphone-15-review%2F&asc%5Fcampaign=Affiliate).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Apple iPhone 15?
 
@@ -247,7 +296,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Apple iPhone 15 camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-09.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
@@ -257,6 +309,12 @@ Corbin Davenport / How-To Geek
 
 ![iphone 15 pink](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-pink.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Apple iPhone 15

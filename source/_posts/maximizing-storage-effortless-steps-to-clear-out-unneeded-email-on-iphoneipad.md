@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad"
-date: 2024-08-28T04:06:25.240Z
-updated: 2024-08-29T04:06:25.240Z
+date: 2024-09-05T07:48:21.691Z
+updated: 2024-09-06T07:48:21.691Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d87cf3ec60cf74c68f02c2fe.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [See How Much Space Mail is Using](https://tech-revival.techidaily.com/navigating-privacy-hazards-the-three-main-dangers-of-conversing-through-ai-chatbots/)
@@ -35,12 +47,27 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![Open Settings, then go to General > iPhone Storage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-iphone-storage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Scroll down in the list and look for the Mail app. This displays how much space is used by "Mail and Attachments." 
 
 ![The Mail app in the storage list. It shows 125 megabytes in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-mail.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Bad Solution: Manually Delete Emails
 
  If you're feeling particularly masochistic, you can do this the old-fashioned way. Just open the Mail app and start deleting emails—especially emails with attachments. Select the emails, tap "Move," and move them to the Trash. Be sure to empty the trash afterwards.
@@ -54,14 +81,19 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![Filters from the mail app, including "Only Mail with Attachments," "Only from VIP," and "Only Mail Sent Today."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-only-mail-with-attachments.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **You probably don't want to do this!** Any emails you delete from your phone will be deleted from the server if you [use IMAP for your email](https://fox-glue.techidaily.com/2024-approved-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/), which you probably do. Even if this wasn't a problem, this would take a long time. There's also no way to delete an attachment from an email—you just have to delete the entire email.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Better Solution: Remove and Re-Add the Account
 
  There's a better solution. You can force your iPhone or iPad's Mail app to start over from scratch and discard all those offline copies of emails by removing your current email accounts and re-adding them.
@@ -72,13 +104,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Tap the "Delete Account" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-delete-gmail-account.png) 
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, power down your iPhone or iPad and start it back up to ensure all offline caches are completely cleared. Open the Mail app and you'll be asked to provide your email account details again. 
 
  Your iPhone will start downloading emails again, but this will clear out that old backlog of cached emails and file attachments.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Limit the Number of Emails Your Service Provides to Mail
 
  The above tips may not be good enough to reduce the space the Mail app uses in the long run. Luckily, there may be a way you can prevent the Mail app from downloading all the emails in your email account. Unfortunately, there's no option in the Mail app itself for this.
@@ -89,12 +130,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Limit the size of IMAP folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-folder-size-limits.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Use Another Email App instead of Mail
 
  Unfortunately, the Mail app may be difficult to tame. It may eventually take up a lot of storage again after you remove and re-add the accounts. Not all email services let you limit the number of emails your email service shows to the Mail app.
@@ -111,6 +146,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Delete the entire Mail app to free up all of your space.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-delete-app.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Unfortunately, Apple's Mail app—both on mobile devices and Macs—doesn't offer a lot of control over how much storage it uses. Phone storage is not as limited as it once was but losing a few gigabytes to emails you probably don't need or want cached locally is still aggravating.
 
 <ins class="adsbygoogle"

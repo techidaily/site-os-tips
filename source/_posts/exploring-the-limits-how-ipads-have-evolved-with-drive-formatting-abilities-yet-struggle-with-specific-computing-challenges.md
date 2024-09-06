@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Limits: How iPads Have Evolved with Drive Formatting Abilities Yet Struggle with Specific Computing Challenges"
-date: 2024-08-28T04:06:18.354Z
-updated: 2024-08-29T04:06:18.354Z
+date: 2024-09-05T07:48:21.544Z
+updated: 2024-09-06T07:48:21.544Z
 tags:
   - ios
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 
 ## Exploring the Limits: How iPads Have Evolved with Drive Formatting Abilities Yet Struggle with Specific Computing Challenges
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * iPadOS 18 adds external drive formatting, but still lags behind macOS in system-level customization and command line access.
@@ -27,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 
  System-level tweaks can hugely improve a device's functionality, and without access to a command line or downloadable adjustments, deep iPadOS customization is currently impossible to the degree many users are looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Programming and App Building
 
  While it is possible to program on an iPad, it can be a bit of a headache. Though some apps exist to allow you to code, more advanced development tools are often unavailable. It is possible to code in a browser or by using another machine remotely, but programming on an iPad alone is far from the full computer experience.
@@ -35,12 +47,21 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 
 ![Swift Playgrounds running on iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-learn-explore-large_2x.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  The [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) app is available on iPad and is a great way to learn to code and build basic applications. However, without a version of Xcode for iPad, building full, complex apps for Apple devices and publishing them is currently not possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Switch Operating Systems and Run Virtual Machines
 
@@ -52,16 +73,10 @@ Apple
 
 ![iPad mini remotely accessing a Mac desktop using AnyDesk application.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_4835.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Brostrom / How-To Geek
 
  Virtual Machine software like [UTM](https://mac.getutm.app/gallery/) does allow for the creation and use of virtual machines, but it needs to be [sideloaded](https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/), and requires a jailbreak for use on modern iPads. Without access to another Mac or PC, you are not going to have an easy time working with another operating system using only an iPad.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Install Apps from Anywhere
 
  Though the App Store currently has millions of apps that can be used on iPad, users are still limited by Apple's regulations. Though changes for EU users are making sideloading possible, software made for macOS or Windows does not function properly on iPadOS.
@@ -71,13 +86,19 @@ Hannah Brostrom / How-To Geek
 ![MacOS warning message alerting users to potential malicious software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/applesamplesoftware.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Without macOS support, or fundamental changes to iPadOS as a whole, its unlikely that installing software from the wider internet will be possible.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  User Swapping
 
  When sharing a computer among several people, user profiles are an indispensable feature. User profiles allow everyone who shares a computer to have their own desktop layout, apps, and information stored separately from others, and lock their data behind a password. This feature is standard on nearly every major operating system.
@@ -88,9 +109,6 @@ Hannah Brostrom / How-To Geek
 
  This lack of separate user support can make sharing an iPad much more difficult, as the experience cannot be personalized based on who's using the device. An iPad being locked to one user severely limits its use as a shared device, which is a feature taken for granted on most computers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Desktop Multitasking
 
  The [iPad's multitasking features](https://video-capture.techidaily.com/unwind-and-capture-your-games-in-peace-for-2024/) are far from bad, especially considering their ease of use. While this kind of multitasking is seamless and organized, it pales in comparison to the capabilities of multitasking on macOS or Windows.
@@ -101,6 +119,12 @@ Hannah Brostrom / How-To Geek
 
 ![iPad showing Stage Manager in use, with windows for Files, Maps, Notes, and Weather.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/c12c8eed56d20e9419d473efb62bfb38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  The key difference between iPad multitasking and computer multitasking is freedom. I like to have dozens of different tabs and windows open at once, as well as several programs open on my desktop to click between.

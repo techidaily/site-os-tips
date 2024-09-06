@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2024-08-28T04:06:32.081Z
-updated: 2024-08-29T04:06:32.081Z
+date: 2024-09-05T07:48:21.809Z
+updated: 2024-09-06T07:48:21.809Z
 tags:
   - ios
 categories:
@@ -30,6 +30,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Here are 10 features you might not have heard of before, but once you get the hang of them, they can change how you do many things on your iPhone.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Pause Music and Podcast Playback with a Timer
 
  It's not uncommon for iPhone users to sleep while listening to their favorite music track or podcast on Apple Music or Apple Podcast apps. However, only some know that the [iPhone's Clock app](https://android-frp.techidaily.com/poco-m6-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/) allows one to set a timer so that when it ends, it stops anything that is playing at the time, including WhatsApp audio or YouTube videos, and locks the screen.
@@ -42,20 +54,47 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Clock app home screen with an arrow next to the Timer option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Set the Timer between 10 to 20 minutes or any other duration.
 
 ![Timer duration in iPhone's clock app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now choose the "When Timer Ends" option, scroll to the bottom of the menu, and hit "Stop Playing." Press Set at the top right.
 
 ![When Timer Ends option in Timer with a rectangle around the Stop Playing option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, hit the Start button and tune in to your bedtime playlist without worrying about stopping the playback, as the Clock app will automatically pause it and lock the screen for you.
 
 ![iPhone's Clock app with an arrow next to the option to start a Timer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Use the Hidden Backspace Key to fix Mistakes in the Calculator
 
@@ -65,15 +104,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Screenshot of a folder with an arrow next to the Calculator app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With your finger, swipe toward the left or right on the numbers you entered to remove the last digit. Every time you swipe, the app clears one digit from the end.
 
 ![iPhone's calculator app with an arrow indicating the direction to erase input](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-12.png) 
 
  You might also want to check out how to open the [hidden scientific calculator on your iPhone](https://win-solutions.techidaily.com/troubleshooting-guide-how-to-prevent-elex-ii-from-crashing-on-your-windows-machine/).
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cast Spells with Siri to Turn on the Flashlight
 
  Harry Potter remains one of the most famous fictional characters ever, and for his fans, Apple has hidden an Easter Egg in iPhones. In the popular movie franchise, the wizard uses the spell "Lumos" to summon a ball of light from his wand and "Knox" to extinguish the light.
@@ -82,6 +124,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Siri's confirmation dialogue box for turning on flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-14.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To turn off the flashlight, invoke Siri and say "Knox." Again, Siri confirms that the flashlight is off.
 
 ![Siri's confirmation for turning off the flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-13.png) 
@@ -100,9 +148,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Custom Sticker dialog box on WhatsApp with an arrow next to the Send option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  Set Custom Alerts to Prepare for Charging the iPhone
 
  By default, your iPhone informs you when the battery reaches 20%, which is also when it asks to enable the Low Power Mode. However, you can set a custom battery alert to deal with your battery anxiety. Using [Shortcut Automation](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/), you can program your iPhone to show a custom notification when the battery reaches a certain level, in addition to the standard low battery alert. It also allows you to set the percentage.
@@ -111,12 +156,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Shortcuts app in iPhone's Spotlight search with an arrow next to it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap the Automation option at the bottom of the screen.
 
 ![Shortcuts app's home screen with an arrow next to the Automation option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-14.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If this is your first time creating an Automation shortcut, select the "Create Personal Automation" option.
 
@@ -126,16 +180,37 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Personal Automation menu highlighting the battery level option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the following screen, select the battery level at which you intend to receive a notification using the slider. Once done, hit the Next button in the top right corner.
 
 ![Personal Automation options highlighting the battery level](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-6.png) 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  At the bottom of the screen, search for "Notifications" and select "Show Notifications."
 
 ![Personal Automation menu highlighting the Show Notification option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Enter the custom message beside "Show Notification."
 
@@ -147,6 +222,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Now, you'll get a notification that warns you about the battery percentage and gives you more time to prepare to charge your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Shield Sensitive Information with Notes Lock
 
  If you store a lot of sensitive information as notes, you can put a passcode lock on them in iOS 16.
@@ -160,32 +241,56 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Notes settings highlighting the Password option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-15.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the following screen, choose "Use iPhone Passcode." Enter your iPhone's current password to confirm.
 
 ![Use iPhone Passcode option in Notes' settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/use-iphone-passcode-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once done, the menu should look something like this.
 
 ![Notes password menu with the options to use iPhone passcode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open the Notes app, head to the required file, tap the three-dots icon at the top right, and select Lock. Allow the Notes app to use Face ID and enter the iPhone's passcode.
 
 ![A file in Apple Notes with an arrow next to the Lock icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lock-notes-on-iphone.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can lock this note from the app's menu by hitting the lock beside its name or locking your phone.
 
 ![An arrow next to the lock icon in an Apple Notes file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lock-icon-in-notes-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Elevate the Lock Screen's Appearance with Depth Effect
 
@@ -195,24 +300,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![iPhone Lock Screen customization mode with an arrow next to the plus sign](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/customize-iphone-lock-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Hit Photos to select an image you wish to use as a wallpaper.
 
 ![Lock Screen customization menu with an arrow next to the Photos option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-16.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Remember that the Depth Effect works well with photos with taller subjects. If you pick the right image, iOS 16 will showcase it with the Depth Effect already enabled.
 
 ![Editing Lock Screen wallpaper to add depth effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  However, you can always press the three-dot menu in the bottom right to turn it on.
 
 ![Lock screen customization screen with an arrow next to Depth Effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-6.png) 
@@ -221,9 +316,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Highlighting the Set as Wallpaper Pair option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Change How Notifications Appear on Your iPhone
 
  If you don't like the way your iPhone displays notifications, change it in the Settings menu.
@@ -233,18 +325,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Settings app with an arrow next to the Notifications option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-19.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  At the top of the menu, you'll see three options: Count, Stack, and List. Experiment with these options and see which one you prefer.
 
 ![Notifications settings on an iPhone highlighting the three different options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-17.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  While Count only shows the number of notifications, Stack groups the alerts based on apps. The last option, List, views all the notifications as a simple list. You might want to check our detailed [guide about managing notifications on iPhone](https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-x-fold-2-pc-drfone-by-drfone-android/).
 
@@ -256,9 +356,6 @@ No advertising on the website.
 
 ![Accessibility settings with an arrow next to Touch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Scroll to the bottom and hit "Back Tap."
 
 ![Touch accessibility options highlighting the Back Tap feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-18.png) 
@@ -271,9 +368,6 @@ No advertising on the website.
 
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Measure a Surface's Slope with the Hidden Spirit Level
 
  To end this list, we would like to tell you about another hidden iPhone feature that hides in plain sight: the digital spirit leveler. You might know your iPhone has the Measure app that lets you measure the distance between two objects. This app also has the Level feature that determines whether an object is perfectly straight or flat.
@@ -283,22 +377,30 @@ No advertising on the website.
 ![iPhone's folder that contains several apps with an arrow next to Measure](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/measure-app-on-iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Tap the Level option at the bottom right.
 
 ![Measure app with an arrow next to the level option at the bottom right](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-19.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Hold your iPhone against a standing object or a flat surface to check the slope or the level.
 
 ![Spirit level iPhone showing that a surface is perfectly levelled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/spirit-level-iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you liked this list of 10 hidden iPhone features, check out another compilation of [10 iOS 16 features you might have missed](https://fox-links.techidaily.com/new-in-2024-ideal-selections-economical-4k-home-theater-systems/).
 

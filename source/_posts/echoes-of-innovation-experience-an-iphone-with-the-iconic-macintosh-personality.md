@@ -1,7 +1,7 @@
 ---
 title: "Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality"
-date: 2024-08-28T04:10:51.100Z
-updated: 2024-08-29T04:10:51.100Z
+date: 2024-09-05T07:48:26.380Z
+updated: 2024-09-06T07:48:26.380Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523e1f3cc982eace446c58606e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality
 
 The original Macintosh computer from 1984 could speak text in several voices. Many of those voices lived on in later Mac computers, and they are even available in modern iPhone and iPad devices.
@@ -23,18 +29,42 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Try the Old Voices
 
  Most of the old MacinTalk voices have carried over to Apple’s modern platforms, including every iPhone and iPad. You can try them out by opening the Settings app and navigating to Accessibility > Live Speech. Turn on Live Speech if you haven’t already, then tap the menu for “English (US)” voices to see a full list.
 
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
 
  With a voice selected, press your power button three times to open the Live Speech menu. You can then type whatever you want, and press Send on the keyboard to say it in the selected voice.
 
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
 
 <ins class="adsbygoogle"
@@ -99,7 +129,3 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 <li><a href="https://os-tips.techidaily.com/understanding-the-auto-play-feature-why-is-apple-music-always-ready-to-go-on-your-iphone/"><u>Understanding the Auto-Play Feature: Why Is Apple Music Always Ready to Go on Your iPhone?</u></a></li>
 <li><a href="https://os-tips.techidaily.com/unstick-your-idevice-from-update-process-with-easy-troubleshooting-techniques/"><u>Unstick Your iDevice From Update Process with Easy Troubleshooting Techniques</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

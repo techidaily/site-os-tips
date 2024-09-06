@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans"
-date: 2024-09-01T06:55:38.221Z
-updated: 2024-09-02T06:55:38.221Z
+date: 2024-09-05T07:48:29.301Z
+updated: 2024-09-06T07:48:29.301Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736cfcb08614e4c3a629de687e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans
 
 ### Quick Links
@@ -20,6 +26,12 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 * [​Smartphones Use Passive Cooling](https://instagram-video-recordings.techidaily.com/new-2024-approved-storystitcher-compelling-collage-for-instagram-users/)
 * [​More Alternatives to Fans Are In Development](https://some-knowledge.techidaily.com/new-from-basics-to-brilliance-fullscreen-proficiency-in-premiere/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Fans are not a good fit for smartphones due to their fragility, the lack of space, and how much phones get jostled.
@@ -28,33 +40,27 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Mobile phones grow more powerful every year. A premium phone is far more powerful than a midrange PC and even has stronger graphics processing than an ultrabook with Intel-integrated graphics. Yet despite all that power, have you ever noticed how your phone lacks a fan? Why is that?
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Moving Parts Need More Space and Can Break
 
  Phone makers have spent years making their devices as thin as possible, and these handsets would not be just a few millimeters thick if they had to account for fans. Fans are bulky, and they need space to move. They also break pretty quickly if put under abuse.
 
  What qualifies as abuse? Well, pretty much anything you do with a phone. Tossing it on the couch. Strapping it to your wrist as you go for a jog. Knocking it out of bed and onto the floor, case or no case. Everything else in your phone may survive just fine, but your fan would start rattling. It may still do its job, just noisily. Or it may become bad at its job, leading everything else to gradually overheat and fail.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Fans Don't Like Small Dark Spaces
 
  Devices that depend on fans for cooling generally don’t like to be kept in tight, cramped quarters. Rest your laptop on a pillow while doing intense work and see how quickly things start to bog down.
 
  Now imagine carrying a smaller version of your laptop in your pocket. If it didn’t get hot enough to immediately attract your attention, it would probably just shut down at some point. Battery life will surely take a hit. A purse is better, but probably not by much. After all, a laptop gets along well-enough with a messenger bag only because it’s either off or very nearly so.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##  ​Mobile CPUs Use Less Power and Create Less Heat
 
 ![Snapdragon 8 Gen 3 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-8-gen-3-hero.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Qualcomm
 
@@ -67,7 +73,16 @@ Qualcomm
  How do phone CPUs manage to be both powerful and efficient? If you want to get into the tehnical weeds, check out this report from [Cadence PCB Designs](https://resources.pcb.cadence.com/blog/3-thermal-management-approaches-for-your-smartphone-2). Methods include temperature aware scheduling (slowing down hot processors in favor of cool ones), traffic throttling (directing network traffic through the chip in a way that avoids hotspots), and clock gating (stopping processor logic for a few microseconds at a time). But that's just scratching the surface.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  ​Mobile Apps Generate Less Heat, to Reduce Need for Cooling
 
@@ -75,19 +90,28 @@ Qualcomm
 
  I don’t think it’s offending anyone to say that not all mobile apps are brilliantly written pieces of code. Yet when you’re making a mobile app, an impact on battery life is a factor you're encouraged to care about. If running an app causes a phone to need to charge more often, you’ll hear about it from your users. Energy usage translates to heat. By keeping apps energy efficient, developers reduce the need for active cooling.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ​Smartphones Use Passive Cooling
 
 ![A close-up image of an aluminum heatsink mounted on a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/shutterstock_1704910018.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 [Kusalodom/Shutterstock](https://www.shutterstock.com/image-photo/aluminum-heatsink-on-electronics-circuit-board-1704910018)
 
  Fans are a form of active cooling. [Smartphones rely on passive cooling](https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-your-first-time-streaming-to-youtube/), the exchange of heat using only the conductivity difference between materials without any help from mechanical components. In simpler terms, things can cool off without anything needing to move. Running the AC to cool down your home is active cooling. Leaving a window open is passive cooling. Phones generally use metal plates between electrical components and the design of their outer bodies to dissipate heat.
 
  Passive cooling works very well for everyday operation, but unlike active cooling, it can’t ramp up how much heat it’s able to remove (again, like opening a window). That’s why some phones get particularly toasty when performing intensive tasks, like gaming. Your CPU’s generating more heat, and the phone lacks the ability to compensate. This is when [thermal throttling kicks in](https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/), reducing performance to buy components time to cool off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ​More Alternatives to Fans Are In Development
 
  Some niche phones have contained fans. The [Lenovo Legion Phone Duel 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fgb%2Fen%2Fp%2Fphones%2Flenovo-phones%2Flegion-phone-duel%2Fl70081%2Fppippiz7081) actually packed two of them, but that was never expected to go mainstream. Smartphone makers are looking into other options for cooling a smartphone during intensive loads. One option is [vapor chamber cooling](https://visual-screen-recording.techidaily.com/updated-in-2024-lenovo-laptop-a-complete-guide-to-recording-screens/), which uses evaporation and condensation of a liquid to cool down electrical components. The Samsung Galaxy S23 series utilized vapor chamber cooling systems, for example. If you want to go further back in time, the Galaxy Note 9 had a [water carbon cooling system](https://techtrends.techidaily.com/future-message-planning-the-ultimate-trick-to-scheduling-sms-from-an-iphone/).

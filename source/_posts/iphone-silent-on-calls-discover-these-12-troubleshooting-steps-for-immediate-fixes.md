@@ -1,7 +1,7 @@
 ---
 title: IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!
-date: 2024-09-01T06:55:05.278Z
-updated: 2024-09-02T06:55:05.278Z
+date: 2024-09-05T07:48:28.763Z
+updated: 2024-09-06T07:48:28.763Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52422415722_9d846c78fe_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Check Your iPhone Isn't on Mute](https://fox-blue.techidaily.com/new-in-2024-navigating-the-path-iphone-file-exchange/)
@@ -33,10 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Your iPhone can do a lot more than take calls, but good old-fashioned phone calls are central to the smartphone experience. Sometimes your iPhone won't ring at all or rings but doesn't make a sound. Let's look at what you can do to get things working again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Check Your iPhone Isn't on Mute
 
  If your iPhone is ringing but doesn't make any sound, it's probably on mute (also called silent mode). You can [toggle mute on or off](https://some-guidance.techidaily.com/2024-approved-techniques-for-transferring-media-between-two-iphones/) using the flip switch on the left-hand side of the device. You should see a notification at the top of the screen that informs you of your choice. When you switch to mute mode, you should feel a haptic tap.
@@ -47,11 +55,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Change the iPhone ringtone volume](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/iphone_ring_volume.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidaily.com/2024-approved-mastery-techniques-for-embedding-social-media-live-videos/) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable Focus Modes like Do Not Disturb
 
  You can [use Focus to prevent distractions](https://youtube-clips.techidaily.com/2024-approved-designing-distinctive-denouements/) from interrupting you while you work, exercise, drive, or sleep. Focus can be set up under Settings > Focus and controlled using the "Focus" button in Control Center (swipe down from the top-right-hand corner of your iPhone's screen).
@@ -62,28 +79,52 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
  Some Focus modes can be triggered automatically whenever you start a certain activity. For example, if you have set up the Fitness profile within Focus settings calls may be silenced whenever you [start any type of workout on your Apple Watch](https://on-screen-recording.techidaily.com/new-elite-ipad-speech-recording-tools-3/). You can disable a mode, or set specific parameters to avoid it blocking your calls.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check You're Reachable via Cellular or Wi-Fi Calls
 
  Not having cellular reception will prevent people from being able to reach you, so consider that a possibility if you're not receiving calls. You can see your cellular reception in the top-left corner of the screen at most times. On some devices, you may need to swipe down from the top-right side of the screen to enter Control Center to see more information.
 
 ![Check Wi-Fi Calling and cellular reception on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wi-fi_calling_iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In areas of poor or no signal where you have Wi-Fi reception, you may also be able to [use iPhone Wi-Fi calling](https://screen-capture.techidaily.com/updated-2024-approved-finding-the-ultimate-cam-choice-post-manycam/). This will route standard cellular calls through the internet instead. For this to work you'll need to enable Wi-Fi calling under Settings > Phone > Wi-Fi Calling.
 
 ![Toggle Wi-Fi Calling on or off on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/wifi_calling_toggle.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Make Sure Your Mobile Plan is Active
 
  If you have a pre-paid mobile plan that rolls over month-to-month, you could find yourself without service if a payment bounces or fails. This could be due to not having money in your account or not updating payment and contact details with your carrier.
 
 ![An active cellular plan within a carrier's app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/cellular_plan.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  If everything else seems normal, it's probably worth checking with your provider that your mobile plan is still active. You can usually do this using your carrier's iPhone app or by logging in on the web wherever you have Wi-Fi. Once you've paid your service should return to normal.
 
 ##  Disable Calls on Other Devices
@@ -95,7 +136,22 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 ![Disable or allow calls on other Apple devices in iPhone Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/allow_calls_other_devices_iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check the Caller Isn't Blocked by Mistake
 
@@ -106,7 +162,10 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 ![Unblock a caller your iPhone contacts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/unblock_caller_iPhone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also review your full list of blocked contacts under Settings > Phone > Blocked Contacts.
 
@@ -117,12 +176,18 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 ![Toggle the option to "Silence Unknown Callers" in the iPhone Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/silence_unknown_callers_iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Any calls from these numbers that are silenced will be sent to voicemail. You'll still see the call in your call log under Phone > Recent.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Disable Any Call Filtering Apps
 
@@ -135,7 +200,16 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 ![Turn off Call Forwarding on your iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/call_forwarding_iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check a Contact's Custom Ringtone
 
@@ -143,14 +217,13 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Check any custom ringtones against a contact card on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/custom_ringtone_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  Remember that musical ringtones that rely on Apple Music need to be saved offline on your device to work. To do this, find the track in question, tap and hold, then select "Download" from the menu that appears.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Your iPhone Won't Ring when CarPlay is Connected
 
@@ -158,9 +231,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If you're having trouble accepting phone calls via CarPlay you should look into restarting your car's head unit or entertainment system. This could be as simple as stopping the engine, turning off the ignition, then starting everything up again. Some cars may require a manual restart instead.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Try Restarting Your iPhone
 
  Sometimes your iPhone can get "stuck" believing that your headphones or other Bluetooth audio devices are still connected, even if it's not. This prevents your iPhone from audibly ringing. Other times, iOS can simply crash and stop working properly. You can try [fixing this by restarting your iPhone](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/).

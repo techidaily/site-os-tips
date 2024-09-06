@@ -1,7 +1,7 @@
 ---
 title: Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease
-date: 2024-08-28T04:08:16.506Z
-updated: 2024-08-29T04:08:16.506Z
+date: 2024-09-05T07:48:23.538Z
+updated: 2024-09-06T07:48:23.538Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/automatically-blur-nsfw-content-on-iphone.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is the Sensitive Content Warning Feature?](https://youtube-blog.techidaily.com/ilmoras-recipe-for-captivating-youtube-trailers-for-2024/)
@@ -18,6 +30,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [What Sensitive Content Warning Looks Like (And How to Interact With It)](https://www.howtogeek.com/how-to-automatically-blur-nsfw-content-on-iphone-or-mac/#what-sensitive-content-warning-looks-like-and-how-to-interact-with-it)
 * [Make Your Apple Devices People-Friendly](https://some-approaches.techidaily.com/2024-approved-the-journey-of-drones-from-current-uses-to-future-applications/)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Sensitive Content Warning is an iOS 17, iPadOS 17, and macOS Sonoma feature that safeguards you against obscene or sensitive media on your iPhone, iPad, and Mac.
@@ -36,9 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Since the process happens on your device, Apple doesn't get access to the media file or any information about its identification. This means you can rest assured that your privacy isn't getting compromised in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Enable Sensitive Content Warning
 
  Sensitive Content Warning is disabled on iOS, iPadOS, and macOS Sonoma by default. Here's how to turn it on.
@@ -49,23 +70,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Privacy & Security option in iOS Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Select "Sensitive Content Warning."
 
 ![Sensitive Content Warning feature turned off on iPhone by default.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Toggle on the radio button for "Sensitive Content Warning."
 
 ![Sensitive Content Warning feaured enabled on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-3-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Sensitive Content Warning should now be enabled for all the supported apps and services. If you don't want the feature to block NSFW media inside any of these apps or services, toggle off the switch next to them.
 
  When you turn on the Sensitive Content Warning feature on your iPhone, it will also enable it for any paired Apple Watch and block any unsolicited NSFW content you might receive on that going forward. The Apple Watch needs to be running on watchOS 10 for the feature to work.
@@ -79,16 +91,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Sensitive Content Warning setting in macOS System Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-mac-1-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Toggle on the switch next to "Sensitive Content Warning," and it will enable the feature for all supported apps and services on the Mac.
 
 ![Sensitive Content Warning feature enabled on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-mac-3-1.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Like on an iPhone or iPad, you can disable the feature for select apps and services if required. Though it's not available on as many Mac apps yet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Sensitive Content Warning Looks Like (And How to Interact With It)
 
@@ -96,10 +132,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sensitive Content Warning message inside iMessage on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sensitive-content-warning-message-on-iphone-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, you can interact with this media in two ways. First, you can tap on "Show" to override the warning and view the photo or video. Or you can tap the alert icon (with an exclamation mark) to either block the sender or access Apple's safety resources to get more help.
 
 ![available actions on blurred media on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sensitive-content-warning-message-on-iphone-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Make Your Apple Devices People-Friendly
 
  Sensitive Content Warning is a nifty feature that can make your device people-friendly. If you share your Apple devices with kids or the elderly at home, it can protect them from being exposed to obscene or sensitive content on your device.

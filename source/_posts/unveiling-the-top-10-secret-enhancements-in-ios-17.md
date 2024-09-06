@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top 10 Secret Enhancements in iOS 17
-date: 2024-09-01T06:55:39.388Z
-updated: 2024-09-02T06:55:39.388Z
+date: 2024-09-05T07:48:29.321Z
+updated: 2024-09-06T07:48:29.321Z
 tags:
   - ios
 categories:
@@ -19,6 +19,12 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Enable "Clean Up Automatically" in password options to delete one-time codes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clean_up_codes.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To cut through the unwanted message build-up, get your iPhone to clean up for you. Head to Settings > Passwords > Password Options and enable “Clean Up Automatically” to have your iPhone automatically trash verification codes once they’ve been used.
 
 ##  Swipe to Reply to Messages
@@ -30,7 +36,16 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  You will see the message you’re replying to in the message window above the compose box.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Use Siri During Phone Calls
 
@@ -45,7 +60,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![Link notes together in Apple Notes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/link_notes.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can add a link to a note by tapping a blank space to bring up the context menu and tapping “Add Link” then typing the title of a note. Give the link a name (which is what you’ll see when you tap on it) and hit “Done” to add the link.
 
@@ -57,8 +75,20 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Get item suggestions in Apple Reminders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/autocomplete_reminders.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  There’s also a new “Siri Suggestions” option beneath your pinned lists in the Reminders apps that finds to-do list items that you might have forgotten about. Tap on an item to add it to Reminders.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  App Shortcuts Within Spotlight
 
  You should already be [using Spotlight](https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/) for everything on your iPhone, iPad, and Mac. The search feature lets you access apps and settings panels with ease simply by typing, and now it’s getting even smarter.
@@ -68,7 +98,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Straightness Level in Camera Viewfinder
 
@@ -76,13 +109,6 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![The new level overlay helps you shoot straight when using the Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/camera_level.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  Quickly Access and Lock Private Browsing
 
 [Private Browsing](https://voice-adjusting.techidaily.com/navigating-the-art-of-selecting-top-notch-sound-designers-for-2024/) gets a little better in iOS 17 and is now available via a quick swipe to the right on the URL bar while in tab view. The feature can also now be locked behind a Face ID scan, a feature that iOS 17 will ask you to enable the first time you use it.
@@ -91,9 +117,6 @@ No advertising on the website.
 
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  New Shortcuts for Cropping Images in Photos
 
  The Photos app now makes it easier than ever to crop a photo using the Photos app. Simply zoom in on a photo and you’ll see a “Crop” button appear in the top-right corner of the screen. This works in both portrait and landscape views. Tapping it will automatically crop the image to your current view, maintaining the aspect ratio of your screen.
@@ -101,33 +124,63 @@ No advertising on the website.
 ![Crop photos by zooming and then tap (or tap and hold) the "Crop" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/cropping_photos.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Animated Now Playing Screens in Music
 
  It’s not useful, and it’s not even universal, but Now Playing screens in the Music app now look a whole lot nicer as long as the album you’re listening to has animated album art.
 
 ![now_playing_japanese_breakfast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_japanese_breakfast.PNG) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close 
 
  Not only do albums now fill the screen and gradually blend into the controls at the bottom, but you’ll also see the animation play out.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Upgrade to iOS 17
 
  Once it's released, upgrade your device by heading to Settings > General > Software Update and tapping "Install" when prompted to install iOS 17.

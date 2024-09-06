@@ -1,7 +1,7 @@
 ---
 title: Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface
-date: 2024-09-01T06:54:37.478Z
-updated: 2024-09-02T06:54:37.478Z
+date: 2024-09-05T07:48:28.346Z
+updated: 2024-09-06T07:48:28.346Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/apple-iphone-15-pro-max-always-on-display.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Should You Make Your iPhone Screen Black and White?](https://hardware-help.techidaily.com/get-started-with-corsair-k70-find-and-install-software-drivers-easily/)
@@ -26,6 +38,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Did you know that turning your phone screen black and white (grayscale) can help you reduce your screen time and make your phone less distracting? Here's how use your iPhone in grayscale mode.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Should You Make Your iPhone Screen Black and White?
 
  There are a couple of reasons why you should consider switching your phone to black-and-white. Perhaps most importantly, if you’re colorblind, a grayscale display mode makes it easier for you to distinguish objects and read text better. Though this is primarily an accessibility option, there are uses outside of this to consider too.
@@ -42,44 +60,46 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![iPhone's Settings page with 'Accessibility' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Next, select “Display and Text Size.”
 
 ![iPhone Accessibility settings with 'Display & Text Size' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll down until you find the "Color Filters" setting and tap on it.
 
 ![iPhone 'Display and Text' settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, toggle "Color Filters" on.
 
 ![Toggling the 'Color Filters' setting on in the iPhone Accessibility settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And select “Grayscale” from the options.
 
 ![Setting 'Grayscale' mode in the color filters section of the iPhone Accessibility menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your phone should now display in black-and-white mode.
 
  If you want to adjust the intensity of the grayscale effect, you can do that by adjusting the slider on the bottom until you find the perfect balance.
 
 ![iPhone color filters intensity slider.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  How to Automatically Enable and Disable Grayscale at Sunset and Sunrise
 
  Android phones have a nifty feature that lets you automatically turn grayscale mode on and off during sleeping hours. iPhones don't have a similar feature built-in, but you can replicate the feature with automation. Here's how:
@@ -92,16 +112,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Creating a new automation in 'Shortcuts' for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you've created an automation in the past, tap on the "+" button in the top right corner to create a new automation.
 
 ![The 'plus' button for creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now tap on "Time of Day"
 
 ![The 'New Automation' creation page with 'Time of Day' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Select "Sunset" from the options.
 
@@ -111,21 +146,48 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The 'New Automation' creation page with a focus on the time the automation will run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-4-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you've made your choice, hit "Done" in the top right corner.
 
 ![The 'New Automation' creation page in the Shortcuts app with a focus on the time the automation will run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-5-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now it's time to attach an action to your automation. Tap the "Add Action" button to choose what your automation will do.
 
 ![The iPhone Shortcuts 'Action' page with the 'Add Action' button in the middle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the search bar, type in "Set Color Filters." The corresponding setting should appear in the options. Tap on it to proceed.
 
 ![The search bar in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-6.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the next page, you should find an automation to "Turn Color Filters On." Ensure that this is correct and tap "Next."
 
 ![The 'Actions' page when creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-8.png) 
@@ -135,37 +197,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![The 'Ask Before Running' setting toggled on in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Confirm that you want your automation to run without asking.
 
 ![A dialog box in the Shortcuts app asking for confirmation to turn off 'ask before running.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hit "Done."
 
 ![Creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  At this point, you're halfway done. You've successfully created an automation to turn on grayscale mode at sunset, and it should look something like this.
 
 ![Existing iPhone automations that have already been created in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Now you need to create another automation to turn grayscale mode off at sunrise. To do that, repeat the steps you took to create the first automation, but this time, under "Time of Day," select "Sunrise" instead.
 
 ![Setting when an iPhone automation will run in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-16.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Just like before, tap on "Add an Action" and select "Set Color Filters," but this time, adjust your automation to "Turn Color Filters Off." Hit "Next" once you're done.
 
 ![Attaching an action to an automation in Shortcuts for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-20.png) 
@@ -175,12 +227,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![The two automations to turn color filters on and off at sunset and sunrise respectively](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Congratulations! Now, your phone will automatically turn grayscale on at sunset, and back off at sunrise.
 
  Sunset and sunrise are just two suggestions. If you'd rather use a grayscale iPhone between specific work hours, use those instead. You could also [create an iPhone Shortcut](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to toggle the feature in a tap.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Or Use a Black and White iPhone Wallpaper
 
  If you don't want to go through the hassle of creating automations and shortcuts, or you're just not keen on draining your phone of color, you can compromise by [changing your iPhone wallpaper](https://win-forum.techidaily.com/discovering-your-windows-10-powershell-verison-a-step-by-step-guide/) to a black-and-white image. You can use a pre-designed black-and-white wallpaper, or you can [convert an image to black-and-white](https://instagram-videos.techidaily.com/in-2024-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/) and set it as your wallpaper.

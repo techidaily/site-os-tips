@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Restoring Your Apple AirPods / Pros / Max Pair
-date: 2024-09-01T06:55:49.180Z
-updated: 2024-09-02T06:55:49.180Z
+date: 2024-09-05T07:48:29.478Z
+updated: 2024-09-06T07:48:29.478Z
 tags:
   - ios
 categories:
@@ -26,7 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
  If your AirPods aren't working properly or you want to return them to factory settings for a new owner, you may need to reset them. Here's how to reset AirPods, AirPods Pro, or AirPods Max. After you do so, they'll behave just as they did when you first took them out of the box.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Reset AirPods or AirPods Pro
 
@@ -34,9 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![AirPods Pro inside charging case on black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/airpods-pro-inside-charging-case-on-black-background.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Dan Helyer / How-To Geek
 
  After waiting, open the lid but keep your AirPods in there. Now press and hold the Setup button for 15 seconds until the status light flashes amber and then white again. When the light goes back to flashing white, you can release the button.
@@ -51,49 +51,68 @@ Close
 
 ![AirPods Pro information button in iPhone Bluetooth settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/airpods-pro-information-button-in-iphone-bluetooth-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Now tap "Forget This Device" and confirm you want to "Forget Device." This removes the AirPods from every device signed in to your Apple ID account and also removes them from your iCloud account.
 
 !['Forget This Device' option in iPhone Bluetooth settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/forget-this-device-option-in-iphone-bluetooth-settings.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, you can log in to [iCloud.com](http://www.icloud.com), access "Find My," find your AirPods, and then click "Remove This Device" to remove them from your Apple ID remotely.
 
 ![Option to remove AirPods from iCloud Find My page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/option-to-remove-airpods-from-icloud-find-my-page.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After you reset your AirPods or [AirPods Pro](https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27-pro-by-drfone-android/), they'll forget all the devices they've connected to and return to their factory settings. That means you'll need to [pair your AirPods](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-gionee-f3-pro-pattern-lock-screen-by-drfone-android/) to your iPhone or other devices again. To get started, move them close to an iPhone and open the case, then follow the onscreen prompts.
 
 ![AirPods Pro connect pop up on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/airpods-pro-connect-pop-up-on-iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You may also want to tweak the settings to your liking again; for example, [changing what the Double Tap or Hold gestures do](https://youtube-blog.techidaily.com/024-approved-text-gymnastics-ingenious-techniques-for-animated-bounces/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Reset AirPods Max
 
  To reset your [AirPods Max](https://extra-hints.techidaily.com/how-to-change-powerpoint-video-speed/) to factory settings, all you need to do is press and hold both the Noise Control button and Digital Crown for 15 seconds until the LED indicator flashes amber and then white.
 
 ![Close up of the digital crown and multi-function button on the Apple AirPods Max.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52721255122_8971c2e4f1_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Note that your AirPods Max will still be associated with your Apple ID even after doing this. To remove them from your account, go to Settings > Bluetooth on an Apple device your AirPods Max were previously paired with. You should still see your AirPods Max listed among the saved Bluetooth devices, tap the blue "i" button next to them.
 
  Now tap "Forget This Device" and confirm you want to "Forget Device." You can now pair your headphones with another iPhone and Apple ID as if they were brand new.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  AirPods Not Working After Reset?
 
  If your AirPods aren't working properly after you reset them, there's a possibility that they've run out of battery. This is especially true if [only a single AirPod isn't working](https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/). Put both AirPods back into the charging case and connect it to power, then wait at least 10 minutes for the earbuds to charge before trying again.

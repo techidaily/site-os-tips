@@ -1,7 +1,7 @@
 ---
 title: The Dawn of Ubiquitous Smartphone Conformity Across Platforms
-date: 2024-08-28T04:11:22.331Z
-updated: 2024-08-29T04:11:22.331Z
+date: 2024-09-05T07:48:26.948Z
+updated: 2024-09-06T07:48:26.948Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smartphone-design-same.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Dawn of Ubiquitous Smartphone Conformity Across Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [A Sea of Sameness](https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-thumbnails-for-youtube-with-mobile-phones/)
@@ -21,6 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For those of us who witnessed the incredible explosion of smartphone popularity in the early 2000s, it's hard to believe we're nearly two decades removed from the original iPhone announcement. There's been an astounding number of devices launched since then, and most of them have been very unique. Over time, like jagged rocks going through a tumbler, that uniqueness has been polished away.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Sea of Sameness
 
  In the last few years, the major players in smartphones have seemed to settle on design identities for their devices. The year-over-year design changes are so minuscule that we're [millimeters away from being able to use last-generation cases on new phones](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-x100-pro-to-mac-drfone-by-drfone-android/). Apple and Samsung are two of the biggest offenders, but Google is starting to do the same thing.
@@ -33,6 +51,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Samsung Galaxy generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-generations.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For Samsung, I was able to go back three generations before finding discernable changes. While the company has maintained the same arrangement of five cameras and a flash since the Galaxy S20 Ultra, it played with the housing for a couple of years. That is until the S22 Ultra, which has now been repeated three times.
 
 ![Google Pixel generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pixel-generations.jpg) 
@@ -41,22 +65,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That's the smartphone landscape of today. There are, of course, many other great devices from a variety of manufacturers, but Apple, Samsung, and Google are responsible for a majority of the phones seen out in the wild in the U.S.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##  When Phones Were Fun
 
  The early days of smartphones were wild times. Manufacturers were trying to figure out how people wanted to use these new devices. The touchscreen was obviously an essential component, but other than that, almost everything else was up for grabs. It was as if someone threw a bunch of keyboards, trackballs, buttons, materials, and cases into a machine and pulled a "Randomize" lever.
 
  The other part of the equation was U.S. carriers. AT&T, Sprint, T-Mobile, and Verizon all wanted to have unique offerings. Apple had the power to say no to these requests, but companies like Samsung, who didn't have that popularity yet, had to play ball. The Samsung Galaxy S series from 2010 is the perfect example.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ![Samsung Galaxy S 2010 variants.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-s-variants.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You wouldn't know it by looking, but the four phones in the image above are all from the same series. Known in most places as simply the "Galaxy S," the U.S. saw four models with not only unique names but completely unique designs. It's hard to imagine Samsung creating four separate looks for the Galaxy S24 series nowadays.
 
@@ -64,13 +85,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-variants.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tha image above shows a lot more variety than seen in the five generations following the iPhone X. The current state of smartphone design feels pretty uninspired, but there are some legitimate reasons why things have moved this way.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How Did We Get Here?
 

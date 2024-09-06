@@ -1,7 +1,7 @@
 ---
 title: Fixing iPhone's Defective Screen Time Functionality - Apple's Solution in Progress
-date: 2024-09-01T06:54:50.767Z
-updated: 2024-09-02T06:54:50.767Z
+date: 2024-09-05T07:48:28.544Z
+updated: 2024-09-06T07:48:28.544Z
 tags:
   - ios
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52763018168_45e618f2da_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing iPhone's Defective Screen Time Functionality - Apple's Solution in Progress
 
 Keeping tabs and controlling the [time we spend on our smartphones](https://win-forum.techidaily.com/digital-giants-showdown-navigating-through-facebook-twitter-instagram-and-youtube/) and devices is very important, but it's even more important for children. Apple's [Screen Time](https://youtube-web.techidaily.com/024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/) is great for that... but it's not working right now. Thankfully, Apple is working on a fix.
@@ -84,7 +96,3 @@ Keeping tabs and controlling the [time we spend on our smartphones](https://win-
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-lumafusion-or-final-cut-pro-the-battle-for-video-editing-supremacy/"><u>Updated In 2024, LumaFusion or Final Cut Pro The Battle for Video Editing Supremacy</u></a></li>
 <li><a href="https://tech-recovery.techidaily.com/wireless-integration-tips-connect-samsung-earbuds-to-desktop-laptop/"><u>Wireless Integration Tips: Connect Samsung Earbuds to Desktop Laptop</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

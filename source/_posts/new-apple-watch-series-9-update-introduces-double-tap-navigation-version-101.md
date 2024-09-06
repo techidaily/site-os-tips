@@ -1,7 +1,7 @@
 ---
 title: New Apple Watch Series 9 Update Introduces Double-Tap Navigation - Version 10.1
-date: 2024-08-28T04:12:09.857Z
-updated: 2024-08-29T04:12:09.857Z
+date: 2024-09-05T07:48:27.827Z
+updated: 2024-09-06T07:48:27.827Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53213258883_bbc5534fec_o-1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Apple Watch Series 9 Update Introduces Double-Tap Navigation - Version 10.1
 
 The [Apple Watch Series 9](https://facebook-video-recording.techidaily.com/demystifying-the-symbolism-of-a-blue-marker-in-facebook-chats/) and [Apple Watch Ultra 2](https://youtube-help.techidaily.com/new-mastering-your-youtube-pinpointing-a-specialized-audience/) launched without one of their flagship features—the creative Double Tap gesture. But Double Tap is now rolling out with the watchOS 10.1 update. Older models of Apple Watch also gain some improvements with this update, most notably [NameDrop](https://visual-screen-recording.techidaily.com/new-revolutionize-virtual-participation-with-top-10-free-recorder-software/) support.
@@ -77,8 +83,3 @@ The [Apple Watch Series 9](https://facebook-video-recording.techidaily.com/demys
 <li><a href="https://os-tips.techidaily.com/ultimate-guide-to-install-and-use-android-apps-on-pcs-without-device-root-access/"><u>Ultimate Guide to Install and Use Android Apps on PCs without Device Root Access</u></a></li>
 <li><a href="https://os-tips.techidaily.com/unlock-your-digital-life-access-stored-credentials-with-samsungs-secure-password-safe/"><u>Unlock Your Digital Life: Access Stored Credentials with Samsung's Secure Password Safe</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->

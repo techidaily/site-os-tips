@@ -1,7 +1,7 @@
 ---
 title: "Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS"
-date: 2024-08-28T04:10:00.939Z
-updated: 2024-08-29T04:10:00.939Z
+date: 2024-09-05T07:48:25.427Z
+updated: 2024-09-06T07:48:25.427Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c98436797dfa7a745296f54d142.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS
 
 Apple officially started allowing “retro game console emulator apps” in the App Store earlier this month, though it wasn’t clear what exactly was allowed. The first emulator app to test that new rule has already been removed.
@@ -19,6 +25,12 @@ Apple officially started allowing “retro game console emulator apps” in the 
 
 ![Screenshot of iGBA in the App Store, with screenshots on an iPhone and iPad of a Pokemon game running.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/igba.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [PCMarket](https://www.pcmarket.com.hk/apple-first-approved-emulator-igba-had-been-pull-down-from-app-store/)
 
  Riley Testut, one of the original developers of GBA4iOS and creator of the spiritual successor [Delta](https://github.com/rileytestut/Delta), said on Threads that iGBA was a “knock-off” created without his knowledge or permission. However, GBA4iOS is an open-source project that was never published to the App Store—for people unable to install workarounds like AltStore, it was the only option.
@@ -91,7 +103,3 @@ Apple officially started allowing “retro game console emulator apps” in the 
 <li><a href="https://os-tips.techidaily.com/unlocking-superuser-access-on-android-devices-a-comprehensive-tutorial-with-kingroot/"><u>Unlocking Superuser Access on Android Devices: A Comprehensive Tutorial with KingRoot</u></a></li>
 <li><a href="https://youtube-docs.techidaily.com/-color-correction-for-youtube-beauty/"><u>Video Color Correction for YouTube Beauty</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

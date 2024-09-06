@@ -1,7 +1,7 @@
 ---
 title: "Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides"
-date: 2024-08-28T04:11:37.515Z
-updated: 2024-08-29T04:11:37.515Z
+date: 2024-09-05T07:48:27.262Z
+updated: 2024-09-06T07:48:27.262Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7484ba703ce124bf47249cb0.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides
 
 ### Quick Links
@@ -32,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Warning screens when downloading an app in Safari for iPhone](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-web-distribution-safari-iphone-example-app.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  Developers must meet [Apple’s stringent notarization guidelines](https://developer.apple.com/support/web-distribution-eu/) to implement this feature, called Web Distribution. This includes having been a member of the Apple Developer Program for at least two years and having at least one million app installs in the previous year.
 
  Apple strongly discourages sideloading, as evidenced by a bunch of scare screens EU users see when using Web Distribution.
@@ -51,10 +54,22 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Find My Device on Android phone showing personal item trackers](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/google-android-find-my-device-personal-item-trackers.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Companies that have pledged support for Apple’s and Google’s Find My networks include Samsung, Tile, Chipolo, eufy Security, and Pebblebee. Sony and JBl have confirmed they’ll release new firmware updates to make some of their headphones trackable via Find My.
 
 ![Sony's over-ear headphones set against a colorful gradient background.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/sony-wh-1000xm5-headphones-three-quarters-view.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The New Quartiles Word Game
 
  Quartlies is a new word game for News+ subscribers in the US and Canada, which joins Crossword and Crossword Mini in the News app on iPhone, iPad, and Mac. To get started hit the “Following” tab, select “Puzzles” in the sidebar, and choose “Quartiles” at the top.
@@ -62,20 +77,23 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 ![Puzzles section in the iPhone's News app with the Quartiles word game highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-puzzles-section-quartiles-word-game-selected.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The game has you combining word fragments shuffled on a 4x5 grid into whole words.
 
 ![Apple iOS 17.5 News App Quartiles Game Three Word Tiles Selected](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-three-word-tiles-selected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Apple iOS 17.5 News App Quartiles Game Word Completed](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-completed.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Apple iOS 17.5 News App Quartiles Game Word Tiles](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-tiles.png) 
 
 Close 
@@ -88,11 +106,14 @@ Close
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fourth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fourth-splash-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fifth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fifth-splash-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  To revisit these instructions while playing, hit “…” in the top-right corner and choose “How to Play” from the menu.
@@ -102,7 +123,10 @@ Close
 ![Choosing the Rankings option from the contextual menu while playing Quartiles in the News app on iPhone.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-contextual-menu-rankings-option-selected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![The Ranking screen while playing the Quartiles word game in the News app on iPhone.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-quartiles-rankings.png) 
 
@@ -115,21 +139,36 @@ Close
 ![Game Center on iPhone with the Apple News section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-game-center-apple-news-leaderboards-selected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Game Center on iPhone with the Quartiles Daily Score section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-game-center-apple-news-leaderboards-choose-word-game.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Game Center on iPhone showcasing global daily leaderboards for the Quartiles word game](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-game-center-quartiles-daily-scores-global-leaderboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  These games require News+. If you’re not a subscriber, check out [these Wordle-like alternatives](https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-c55-by-drfone-android/) for tabletop and mobile gamers that are perfect for fun alone or on family game nights.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Offline Mode Improvements for News+ Subscribers
 
@@ -141,22 +180,25 @@ Close
 
 ![Offline status bar in Apple's News app on iPhone displaying a Show Downloaded Stories link.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-offline-mode-show-downloaded-stories-link-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the connection is re-established, you'll see a link to download the latest articles.
 
 ![Offline status bar in Apple's News app on iPhone displaying a Check for New Stories link.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-offline-mode-check-new-stories-link-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In iOS 17.4, your offline mode indication is trying to load a new article.
 
  Keep in mind that offline mode requires a News+ subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  New Storage Management Settings for the News App
 
@@ -164,9 +206,6 @@ Close
 
 ![Apple News app setting on iPhone in iOS 17.4, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Apple News app setting on iPhone in iOS 17.5, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
 
 Close 
@@ -176,52 +215,55 @@ Close
 ![Apple News app settings on iPhone in iOS 17.4, with the Automatic Downloads section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-4-news-app-iphone-settings-automatic-downloads-highlighted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Apple News app settings on iPhone in iOS 17.5, with the News+ Offline Mode section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-iphone-settings-news-plus-offline-mode-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 Close 
 
  More story types can be downloaded for offline consumption. To help with that, iOS 17.5 brings a new “Download Options” submenu for greater control of your downloads. Here, you can separately manage “Puzzles,” “Recent Stories,” “Saved Stories,” “Magazine Issues” (previously “Download Issues”) and “Audio Stories” (previously “Download Audio”).
 
 ![Apple News app settings on iPhone in iOS 17.5 with all offline items in the Download Options section enabled.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-iphone-settings-download-options-recent-stories-saved-stories-magazine-issues-puzzles-audio-stories-enabled.png) 
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Flip on the new “Optimize Storage” toggle at the bottom to save cellular data by using smaller article images. This is automatically enabled when the app detects low storage.
 
 ![Apple News app settings on iPhone in iOS 17.5 with the Optimize Storage in the Download Options section enabled.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-iphone-settings-download-options-optimize-storage-enabled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To read an article offline, you must save it first. With iOS 17.5, you can now delete all saved stories from iCloud at once using the new “Clear” button in Following > Saved Stories.
 
 ![Apple News app on iPhone with the Saved Stories section selected.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-option-selected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple News app on iPhone with the Clear button in the Saved Stories section highlighted..](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-button-highlighted.png) 
 
 ![Apple News app on iPhone displaying a confirmation prompt to clear saved stories.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-saved-stories-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ###  Fighting Spam Calls on Group FaceTime
 
  FaceTime lets you block individual callers. And now with iOS 17.5, you can also kill spammy group calls in one fell swoop with a new “Block All Participants” in-call toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Reworded Messages for Unsanctioned Repairs
 
  iOS 17.5 tweaks the wording of system notifications about unauthorized battery, camera, and display replacements so they’re a bit more informative and a tad less scary.
@@ -237,7 +279,10 @@ Close
 [Apple announced](https://www.apple.com/newsroom/2024/04/apple-to-expand-repair-options-with-support-for-used-genuine-parts/) that iOS 18’s parts and service history in Settings > General > About will show if the device has a new or used genuine Apple component, making it even easier to [check whether a used iPhone has been repaired](https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/) with aftermarket parts.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  MDMs Can Enforce iOS Beta Versions
 
@@ -245,9 +290,6 @@ Close
 
  If your company-issued device uses a remotely updated MDM profile, your IT administrator can now enforce an iOS, iPadOS, or macOS beta during automated device enrollment.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  The New “Pride Radiance” Dynamic Wallpapers
 
  iOS 17.5 brings the new Pride Radiance wallpapers which rock a fluorescent design inspired by multiple pride flags. To celebrate Pride 2024 on your Home and Lock Screens in style, go to Settings > Wallpaper, choose "Add New Wallpaper" and select a wallpaper underneath "Pride," then swipe horizontally to change the colors.
@@ -258,10 +300,22 @@ Close
 
 ![The dynamic 'Pride Radiance' wallpaper on iPhone's Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-iphone-lock-screen-pride-radiance-wallpaper.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  These wallpapers and a matching watch face are available on your wrist with watchOS 10.5.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Repair State for iPhone Repairs With Find My On
 
  Repair State lets your iPhone be serviced without disabling Find My. You no longer need to turn off Find My (which disables Activation Lock) before sending in your iPhone to Apple for service, like before. This lets you track the device's location in transit and ensure you can find it if it gets lost and erase it remotely if stolen.
@@ -270,6 +324,12 @@ Close
 
 ![The iPhone's Find My app with the Remove This Device option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-remove-iphone.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find My on iPhone displaying a Repair State confirmation prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-remove-iphone-confimration-prompt.png) 
 
 !['Ready for Repair' banner in the iPhone's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-iphone-repair-state-banner.png) 
@@ -281,48 +341,74 @@ Close
 ![Find My showing an iPhone with a stethoscope icon denoting Repair State is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-device-list-iphone-repair-state-stethoscope-icon-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Repair State currently only works with iPhones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Design and Under-The-Hood Tweaks
 
  Apple’s release notes for iOS 17.5 don’t mention the following under-the-hood changes, design tweaks and functional improvements which will delight and surprise you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The Color-Changing Podcast Widget is Back
 
  The Apple Podcast widget in iOS 17.5 dynamically takes on the color of the artwork of the episode you’re listening to instead of the default purple background. This tweak briefly appeared in iOS 17.4, and now it’s back in iOS 17.5, iPadOS 17.5, and macOS 14.5.
 
 ![iOS 17.4 Apple Podcasts Widget Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-podcasts-widget-home-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![iOS 17.5 Apple Podcasts Widget Yellow Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-yellow-color-home-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![iOS 17.5 Apple Podcasts Widget Red Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-red-color-home-screen.png) 
 
 ![iOS 17.5 Apple Podcasts Widget Brown Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-brown-color-home-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Passkeys Access Privacy Glyph
 
  The “Passkeys Access for Web Browsers” entry in Settings > Privacy & Security lacked an icon. iOS 17.5 uses a glyph resembling a person with a key badge to clarify its purpose.
 
 ![iOS 17.4 Privacy settings with Passkeys Access for Web Browsers highlighted](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-4-settings-app-privacy-and-security-passkeys-access-highlighted-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS 17.5 Privacy settings with Passkeys Access for Web Browsers highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-settings-app-privacy-and-security-passkeys-access-highlighted-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close 
 
@@ -337,19 +423,31 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Privacy Prompts for Altitude Data
 
  iOS 17.5 seeks Motion & Fitness permission when apps like hiking trackers request altitude data. iOS 17.4 debuted this privacy prompt but didn’t consistently enforce it.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3 New iPad-Only Features in iPadOS 17.5
 
  Most (if not all) new iPhone features in iOS 17.5 also work on Apple's tablets. However, iPadOS 17.5 brings three enhancements specifically designed for Apple's tablets.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Support for Upcoming New iPad Pros
 
  iPadOS 17.5 brings support for four new iPad models, including two sizes of iPad Air and two iPad Pro tablets with the M4 chip. The new iPad Pro models are [more powerful than many MacBooks](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/), and the [iPad Air gets a new 13-inch screen option](https://win-answers.techidaily.com/optimizing-fallout-4-performance-for-lightning-fast-loads/).
@@ -358,13 +456,21 @@ Close
 
  A Battery Health menu might surface crucial battery stats such as cycle count and maximum remaining capacity for the first time on an iPad. This feature was unavailable in the iOS 17.5 beta as it seems to be restricted to the new iPads and their new battery technology.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Apple Pencil Squeeze Gesture Support
 
  iPadOS 17.5 adds support for the squeeze gesture in the new Apple Pencil Pro, which is compatible with Apple's latest Pro and Air tablets.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  iOS 18 Is Lurking Around the Corner
 

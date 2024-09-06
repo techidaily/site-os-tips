@@ -1,7 +1,7 @@
 ---
 title: Speedy Techniques for Distributing Pictures Through iMessage
-date: 2024-08-28T04:09:23.968Z
-updated: 2024-08-29T04:09:23.968Z
+date: 2024-09-05T07:48:24.781Z
+updated: 2024-09-06T07:48:24.781Z
 tags:
   - ios
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-imessage-notifcation.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Speedy Techniques for Distributing Pictures Through iMessage
 
 ### Key Takeaways
@@ -25,22 +31,52 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open a conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0364.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  All you need to do is tap and hold the plus (+) button next to the text box until the media selection menu opens.
 
 ![Tap and hold the plus button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0363.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, you can select a photo or video like you normally would. It's really that easy!
 
 ![Messages media picker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0365.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The menu is customizable as well. You can tap and hold an app in the list to rearrange the order.
 
 ![Rearrange apps in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0367.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The apps can also be moved in or out of the "More" section in the same way.
 
 ![Move app out of the "More" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0368.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's all there is to it! Apple gave the Messages app [a lot of attention in iOS 17](https://tech-haven.techidaily.com/assessing-data-protection-risks-in-using-chatgpt-technology/). Some of the other additions include a safety feature called "Check In," a bunch of enhancements for Stickers, better search filters, and more. [iOS 17 and iPadOS 17 were officially released on September 18, 2023](https://screen-recording.techidaily.com/enhanced-team-collaboration-with-slack-plus-filmora-timelines-for-2024/), along with the [iPhone 15](https://youtube-data.techidaily.com/approved-sound-strategies-tailoring-your-microphone-to-align-with-your-youtube-channel/), [iPhone 15 Pro Max](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-vivo-v30-pro-phone-by-drfone-android/), and [iPhone 15 Pro](https://facebook-video-footage.techidaily.com/updated-2024-approved-direct-download-of-youtube-content/).
 
 <ins class="adsbygoogle"
@@ -101,7 +137,3 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 <li><a href="https://os-tips.techidaily.com/unlocking-solutions-a-comprehensive-tutorial-on-enteringexiting-iphone-recovery-mode/"><u>Unlocking Solutions: A Comprehensive Tutorial on Entering/Exiting iPhone Recovery Mode</u></a></li>
 <li><a href="https://os-tips.techidaily.com/what-to-do-when-your-texts-vanish-expert-tips-and-tricks/"><u>What to Do When Your Texts Vanish: Expert Tips & Tricks</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!"
-date: 2024-08-28T04:08:22.241Z
-updated: 2024-08-29T04:08:22.241Z
+date: 2024-09-05T07:48:23.639Z
+updated: 2024-09-06T07:48:23.639Z
 tags:
   - ios
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b967ba6821cf8991af471fa5a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Apple Watch Ultra is overkill for most people, with unnecessary features and limited practical use.
@@ -29,22 +41,25 @@ _Apple_
 
  In the end, it turns out that even the humble mainstream Apple Watch would have been good enough, and the Watch Ultra was never really put to the test. While I'm sure that there are plenty of extreme athletes out there who really need an Ultra, for most people it's probably like having an SUV in the suburbs, never seeing anything steeper than a curb.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Fitness Features Don’t Need a Smartwatch Anymore
 
  One of the main reasons we started using smartwatches in the first place was to track our daily steps and ensure that we were getting enough exercise. The thing is, you don't actually need a "smart" watch to do that anymore. At least when it comes to tracking steps. Watchmakers like Casio now offer regular [watches with Bluetooth](https://www.amazon.com/Casio-G-Shock-Step-Tracker-Bluetooth-GBA-800UC-5ACR/dp/B07PLT244R?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003048&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmy-wife-ditched-her-apple-watch-ultra-for-a-casio-and-you-might-too%2F&asc%5Fcampaign=Evergreen) that still lets you connect to an app and collect basic fitness data. Likely enough for the average person who isn't specifically a fitness nut, but just wants to know if they got their 10K steps in for the day.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Constant Charging Is an Utter Pain
 
 ![Apple Watch Ultra box contents spread out on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/070ea52d.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Bill Loguidice / Review Geek_
 
@@ -54,31 +69,25 @@ _Bill Loguidice / Review Geek_
 
 ![Showing a Apple Watch Ultra 2 on a wrist](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-1.JPG) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  While this has more to do with overall smartwatch fatigue than the Ultra in particular, one major reason for my significant other reaching the end of her rope and changing to a Casio "dumb" watch is that there's no hiding from your phone notifications. This wouldn't be so bad if you could deal with those notifications on the watch itself. However, in most cases she'd have to pull out her iPhone anyway to reply, see a picture, watch a video, or whatever else the notification was about. So the watch wasn't even cutting down on her phone time, it was just putting a superfluous step in front of pulling the phone out one way or another.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Ultra Keeps Waking Her Up at Night
 
  Since that longer battery life doesn't mean she didn't have to charge the watch overnight anyway, it brought up another annoying issue. We invested in one of those triple-charger stands that holds an iPhone, Apple Watch, and AirPods at the same time. However, the Watch Ultra would light up randomly during the night, waking her up. She even tried turning the watch off completely before putting it on charge, but it would eventually turn itself on while charging. Sure, you could just shove it in a drawer, but that defeats the
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Obvious Features Are Still Missing From the Ultra
 

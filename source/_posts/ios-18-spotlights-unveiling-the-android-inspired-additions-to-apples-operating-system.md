@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System"
-date: 2024-08-28T04:12:00.304Z
-updated: 2024-08-29T04:12:00.304Z
+date: 2024-09-05T07:48:27.674Z
+updated: 2024-09-06T07:48:27.674Z
 tags:
   - ios
 categories:
@@ -9,10 +9,34 @@ categories:
 thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd33fb4e06b68ea12a4723f9e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System
 
 Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user who has never owned an iPhone, I was surprised to see how many of these features have been on Android devices for years. So, I decided to round them up in this post.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Free App Icon Arrangement on the Home Screen
 
 ![iPhone iOS 18 home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-home-screen.png) 
@@ -30,30 +54,42 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  Android has had [custom icon packs for years](https://fox-http.techidaily.com/updated-in-2024-navigating-the-complexities-of-mac-and-mixer-streaming/), and since you can download third-party icon packs, you can pick from a wide range of art styles. Nevertheless, I'm excited about this iOS addition because we'll likely see improved custom icon support among app developers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Game Mode
 
  Game Mode made its way from [macOS](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/) to iOS, a feature that the first wave of Android gaming phones pioneered before it got baked into [Android 12](https://developer.android.com/games/optimize/adpf/gamemode/about-API-and-interventions) in 2021\. Game mode minimizes background activity and focuses processing power on your game to achieve better in-game performance and lower latency for accessories like AirPods and wireless controllers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  RCS Messaging
 
 ![iPhone Messages RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-messages-rcs.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (Rich Communication Service) is a mobile communication protocol that significantly improves upon traditional SMS messaging by offering richer chat functionalities like file and media sharing. RCS has been available since Android 5 (2014), and it's finally coming to iPhones with iOS 18\. RCS support means you'll finally be able to chat properly and share stickers and high-res images with your Android friends.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  App Lock
 
 ![iPhone iOS 18 app lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-ios-18-app-lock.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  App locking is a new privacy feature that lets you lock any app you wish so that others can't access it, even if your phone is unlocked. When you want to open a locked app, you'll be required to use Face ID, Touch ID, or your passcode to unlock it. Previously, only authenticators and bank apps required authorization before you could access them. My [2019 Android 11 phone](https://fox-glue.techidaily.com/new-advanced-data-analytics-methods-for-market-research-analysis-for-2024/) has this feature, and I wouldn't be surprised to learn that it's available on Android devices that are even older.
 
@@ -61,6 +97,12 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Another feature that's been around for years on Android phones is hidden apps. Similar to app lock, it's a privacy feature that ensures your friends don't see your most embarrassing apps on your home screen. When you hide an app on iOS 18, it goes into a locked "Hidden" folder that you can access just like any other locked app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Custom Lock Screen Shortcuts
 
 ![Custom lock screen shortcuts in iOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/newvoideop-1.png) 
@@ -69,34 +111,42 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  The default lock screen shortcuts on iPhone are the camera on the right and the flashlight on the left. These shortcuts are nothing new, but what _is_ new is that you can now customize or even fully remove them. I'm surprised to see that Apple will let people launch third-party apps; Snapchat was shown as a shortcut example. Again, custom lock screen shortcuts are old news for Android users, as they've had this feature since Android 14.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Password Manager
 
 ![iPhone Passwords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-passwords.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) are useful utility tools that keep all of your passwords stored in one safe location. They suggest and load highly complex and unique passwords for each app and website you log in to. Android phones and Google Chrome share the Google Password Manager, and I've been using it for as long as I can remember.
 
  You can actually use Google Password Manager on iOS as well, but it's great to see that Apple is now adding a first-party Passwords app. It'll store your Wi-Fi passwords, passcodes, and verification codes as well, so it'll be a real log-in one-stop shop.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  More Customization in the Control Center
 
 ![iOS 18 control center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-control-center.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Apple's Control Center is getting a customization overhaul with iOS 18\. You can change the layout completely by adding custom groups and resizing individual settings. The most exciting part is that you'll now be able to add third-party features directly from the Control Center, such as remote car unlock. [Quick settings customization](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) and third-party options have always been available on custom Android skins, but they were added to the OS with Android 6 in 2015.
 
 ##  Apple Mail Categories
 
 ![iOS 18 Mail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-mail.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Email categorization that's coming soon to the built-in Mail app looks a lot like Gmail labels. The app will now sort emails into Primary, Transactions, Updates, and Promotions, based on what type of email it is. Gmail has Primary, Promotions, Social, Updates, and Forums. Sounds familiar, right?
 
  Credit where credit is due: I quite like the new digest view that consolidates all emails from a business into one window. This view allows you to quickly check snippets of all emails from a business without having to fiddle around with the search function.
@@ -105,22 +155,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The Calendar app will now show tasks you create in Reminders. Although this is a simple change, it's a game-changer for busy individuals who rely on their notes to keep track of daily tasks. Google Calendar does the same with Google Tasks and, to a lesser extent, Google Keep, but we'll see [Keep and Tasks sync up](https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/) sometime soon. Ultimately, both Android and iOS will have identical calendar functions when these changes come around.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  AI Photo Editing
 
  Let's now shift our focus to [Apple Intelligence](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) and equivalent AI features in Android phones. For me, the standout feature is the Clean Up tool, which lets you remove unwanted objects from photos while preserving the original quality. It works exactly like the [Samsung Object Eraser](https://extra-resources.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/) and [Google Magic Editor](https://video-screen-grab.techidaily.com/in-2024-acethinker-screen-recorder-review/).
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  On-Device AI
 
 ![Apple Intelligence presentation slide at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_splash.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 Apple
 
  Numerous other Apple Intelligence features will be available with the full release of iOS 18 in the fall of this year. Many of them remind me of [Galaxy AI](https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-content-game-with-these-instagram-story-tips/), which uses a mix of cloud-based and on-device generative AI tools. On other Android devices that don't have proprietary AI models, you can [replace Google Assistant with Gemini](https://youtube-lab.techidaily.com/24-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/) to unlock additional functionality.

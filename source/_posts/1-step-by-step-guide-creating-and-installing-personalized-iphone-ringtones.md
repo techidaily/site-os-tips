@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Creating and Installing Personalized iPhone Ringtones"
-date: 2024-08-28T04:06:45.194Z
-updated: 2024-08-29T04:06:45.194Z
+date: 2024-09-05T07:48:22.013Z
+updated: 2024-09-06T07:48:22.013Z
 tags:
   - ios
 categories:
@@ -22,6 +22,12 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * [Step Five: Add the Ringtone File to Your Phone](https://extra-approaches.techidaily.com/in-2024-mastering-faces-incorporating-motion-blur-in-photos-with-picsart/)
 * [Step Six: Choose the Ringtone](https://youtube-videos.techidaily.com/famebit-alternatives-for-finding-youtube-sponsorships/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * To add a custom ringtone to your iPhone, convert the audio file to AAC, ensure it is less than 40 seconds long, and rename the file extension to ".m4r"
@@ -32,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
  This process changed a bit with iTunes 12.7 and subsequent releases. The "Tones" library you could previously sync with your iPhone has been removed, but you can still manually place ringtone files on your phone. Any ringtones you had stored in iTunes are now located at `C:\Users\NAME\Music\iTunes\iTunesMediaTones`on a Windows PC or `~/Music/iTunes/iTunes Media/Tones/` on a Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step One: Get iTunes
 
  You almost never have to use iTunes with a [modern iPhone](https://vimeo-videos.techidaily.com/in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/), but adding your own custom ringtones still requires it.
@@ -54,21 +57,36 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ![Click "Open."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/click-Open.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Select the part of the audio file you want to use and click the "Save" button.
 
 ![Select the portion of the audio file you want, then click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/select-the-portion-you-want-and-click-Save.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Download the edited clip to your PC by clicking "Save" again. This is the file you'll need to import into iTunes.
 
 ![Click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/click-save.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step Three: Convert the MP3 to AAC
 
@@ -83,7 +101,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ![Navigate to File &gt; Convert &gt; Create AAC Version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00db47621d4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step Four: Rename Your AAC File
 
@@ -94,12 +115,21 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ![Enable the &quot;Kind&quot; column, which lets you sort files by file type.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a021d47372f5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll see a new "Kind" column telling you which file is which. The "MPEG audio file" is the original MP3, while the "AAC audio file" is your new AAC file. You can right-click the MPEG audio file version (that's the MP3) and remove it from your library if you like.
 
 ![Both AAC and MPEG versions are present.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00db6a3a0c8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You now have your ringtone file as an AAC file. However, you need to change its file extension so iTunes will recognize it as a ringtone file.
 
  First, drag and drop the AAC file from the iTunes library to your Desktop or any other folder on your system.
@@ -111,7 +141,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ![Change the file extension to .m4r.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dbce3d6e5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step Five: Add the Ringtone File to Your Phone
 
@@ -128,7 +161,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ![Click the device icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dc1e3e53e.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click the "Tones" section under On My Device in the left sidebar.
 
@@ -140,12 +176,21 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Drag and drop (or copy and paste) the ringtone you made into the tones folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dc9749744.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  iTunes will sync the ringtone to your phone and it will immediately appear under Tones here.
 
 ![The new ringtone should sync immediately.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dcba72471.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step Six: Choose the Ringtone
 
@@ -153,22 +198,22 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![The "Sound and Haptics" options on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-ringtone-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Then choose your custom ringtone. Any custom ringtones you've added will appear at the top of the list, and all of the default ringtones will be listed below the small line.
 
 ![A custom ringtone on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/great-gig-in-the-sky.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also [assign that ringtone to a specific contact](https://youtube-zero.techidaily.com/ed-2024-approved-branding-excellence-youtube-naming-masterclass/), so you know who's calling just by the sound.
 
  To remove ringtones, reconnect your phone to iTunes and head back to the On My Device > Tones section. Right-click a tone and select "Delete from Library" to remove it from your device.
 
 ![If you want to remove the ringtone, right click and click &quot;Delete from Library.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dd95c71d6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  If you're not short on space, there isn't any real need to delete the ringtones you add. You can have as many as you'd like!
 
 <ins class="adsbygoogle"
