@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"os-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -266,8 +323,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="Os Tips" type="application/atom+xml">
 </head>
 
@@ -631,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-27'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-01'>
                 
                     
-                        <a href="/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</span>
+                        <a href="/step-by-step-guide-evaluating-and-maintaining-your-ipad-battery-life/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Evaluating and Maintaining Your iPad Battery Life</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unlock-your-ios-typing-potential-discover-top-10-essential-iphone-keyboard-shortcuts/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unlock Your iOS Typing Potential: Discover Top 10 Essential iPhone Keyboard Shortcuts</span>
+                        <a href="/step-by-step-guide-controlling-application-access-and-privacy-settings-on-your-ios-device/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Controlling Application Access &amp; Privacy Settings on Your iOS Device</span>
                         </a>
                     
               
                 
                     
-                        <a href="/my-growing-anxiety-for-vision-pros-longevity-in-light-of-the-newly-launched-visionos-2/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">My Growing Anxiety for Vision Pro&#39;s Longevity in Light of the Newly Launched visionOS 2</span>
+                        <a href="/setting-up-auto-reminder-alerts-for-birthdays-on-your-ios-device/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Setting Up Auto-Reminder Alerts for Birthdays on Your iOS Device</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1-cash-app-introduces-comparable-high-yield-savings-features-as-the-apple-card/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">1. Cash App Introduces Comparable High-Yield Savings Features as the Apple Card</span>
+                        <a href="/self-repair-techniques-for-your-ios-device/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Self-Repair Techniques for Your iOS Device</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-secret-techniques-charging-your-smartphone-without-a-cord/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Secret Techniques: Charging Your Smartphone without a Cord</span>
+                        <a href="/secure-your-apple-experience-why-and-how-to-implement-security-keys-on-iphones-and-ipads/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Secure Your Apple Experience: Why and How to Implement Security Keys on iPhones &amp; iPads</span>
                         </a>
                     
               
                 
                     
-                        <a href="/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</span>
+                        <a href="/risky-gamble-pays-off-big-time-for-whatsapp/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Risky Gamble Pays Off Big Time for WhatsApp</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-missed-opportunity-how-your-vintage-iphone-had-the-potential-to-support-apple-ai/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Missed Opportunity: How Your Vintage iPhone Had the Potential to Support Apple AI</span>
+                        <a href="/revolutionizing-personal-item-security-with-the-nomad-tracker-card-a-users-in-depth-analysis/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Revolutionizing Personal Item Security with the Nomad Tracker Card – A User&#39;s In-Depth Analysis</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-the-power-of-apples-freeform-app-in-streamlining-your-daily-routine/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover the Power of Apple&#39;s Freeform App in Streamlining Your Daily Routine</span>
+                        <a href="/resolving-text-message-delivery-problems-when-communicating-with-iphone-users/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Resolving Text Message Delivery Problems When Communicating with iPhone Users</span>
                         </a>
                     
               
                 
                     
-                        <a href="/upcoming-solutions-how-apple-addresses-iphone-alarm-vulnerabilities/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Upcoming Solutions: How Apple Addresses iPhone Alarm Vulnerabilities</span>
+                        <a href="/resetting-your-apple-watch-a-comprehensive-tutorial-for-beginners-and-pros/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Resetting Your Apple Watch - A Comprehensive Tutorial for Beginners and Pros</span>
                         </a>
                     
               
                 
                     
-                        <a href="/easy-steps-implementing-a-functional-action-button-on-your-iphone/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Easy Steps: Implementing a Functional Action Button on Your iPhone</span>
+                        <a href="/refresh-your-iphones-look-with-automatic-wallpaper-rotation/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Refresh Your iPhone&#39;s Look with Automatic Wallpaper Rotation</span>
                         </a>
                     
               

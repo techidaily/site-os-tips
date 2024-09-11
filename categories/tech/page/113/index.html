@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"os-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -266,8 +323,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="Os Tips" type="application/atom+xml">
 </head>
 
@@ -631,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-27'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-05'>
                 
                     
-                        <a href="/idos-3-the-latest-dos-emulator-now-available-on-ios-app-store/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">IDOS 3: The Latest DOS Emulator Now Available on iOS App Store!</span>
+                        <a href="/newly-released-idos-3-the-ultimate-dos-emulator-now-available-on-the-app-store/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Newly Released iDOS 3: The Ultimate DOS Emulator Now Available on the App Store</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-password-management-tool-embraces-passkey-authentication/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Password Management Tool Embraces Passkey Authentication</span>
+                        <a href="/new-ios-update-171-enhances-airdrop-connectivity-revamps-music-experience-and-boosts-screen-time-management/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New IOS Update 17.1 Enhances AirDrop Connectivity, Revamps Music Experience &amp; Boosts Screen Time Management</span>
                         </a>
                     
               
                 
                     
-                        <a href="/explore-the-latest-innovations-over-ten-fresh-capabilities-on-your-iphone-get-tutorials-and-mastery-techniques/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Explore the Latest Innovations: Over Ten Fresh Capabilities on Your iPhone - Get Tutorials and Mastery Techniques</span>
+                        <a href="/monitoring-your-emotional-well-being-using-apple-health-app/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Monitoring Your Emotional Well-Being Using Apple Health App</span>
                         </a>
                     
               
                 
                     
-                        <a href="/eliminate-clutter-with-these-6-effective-alternatives-to-iphone-folder-management/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Eliminate Clutter with These 6 Effective Alternatives to iPhone Folder Management</span>
+                        <a href="/mastering-user-friendly-interfaces-lessons-from-the-successful-tea-timer-app-model/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering User-Friendly Interfaces: Lessons From the Successful Tea Timer App Model</span>
                         </a>
                     
               
                 
                     
-                        <a href="/recognizing-the-signs-when-its-time-for-a-new-iphone-battery/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Recognizing the Signs: When It&#39;s Time for a New iPhone Battery</span>
+                        <a href="/how-to-combine-several-emojis-into-a-single-icon-on-ios-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Combine Several Emojis Into a Single Icon on iOS Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-feature-alert-expressvpn-introduces-built-in-password-storage-solution/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">New Feature Alert: ExpressVPN Introduces Built-In Password Storage Solution</span>
+                        <a href="/how-does-the-share-play-status-feature-work-on-iphones/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How Does the &#39;Share Play Status&#39; Feature Work on iPhones?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/link-streaming-ipad-television-and-compatibility-tips/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Link, Streaming, iPad, Television, and Compatibility Tips.</span>
+                        <a href="/how-does-qi-2-technology-enable-wireless-power-transfer/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How Does Qi 2 Technology Enable Wireless Power Transfer?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-apple-solutions-when-your-iphone-fails-to-deliver-messages/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Apple: Solutions When Your iPhone Fails to Deliver Messages</span>
+                        <a href="/how-and-why-to-halt-your-apple-music-activity-logging-for-enhanced-security/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How and Why to Halt Your Apple Music Activity Logging for Enhanced Security</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unmatched-value-why-you-should-consider-the-iphone-13-as-your-next-phone/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unmatched Value: Why You Should Consider the iPhone 13 as Your Next Phone</span>
+                        <a href="/finding-out-when-you-received-an-imessage-or-text-step-by-step-instructions-for-iphone-users/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Finding Out When You Received an iMessage or Text: Step-by-Step Instructions for iPhone Users</span>
                         </a>
                     
               
                 
                     
-                        <a href="/quickly-secure-access-enhance-apple-id-recovery-in-just-five-easy-steps/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Quickly Secure Access: Enhance Apple ID Recovery in Just Five Easy Steps!</span>
+                        <a href="/fast-guide-removing-image-backgrounds-effortlessly-on-ios-and-macos/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Fast Guide: Removing Image Backgrounds Effortlessly on iOS &amp; macOS</span>
                         </a>
                     
               

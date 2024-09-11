@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"os-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -266,8 +323,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="Os Tips" type="application/atom+xml">
 </head>
 
@@ -631,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-05'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-10'>
                 
                     
-                        <a href="/ios-18-spotlights-unveiling-the-android-inspired-additions-to-apples-operating-system/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple&#39;s Operating System</span>
+                        <a href="/discover-hidden-apple-books-features-with-these-10-essential-tips/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Discover Hidden Apple Books Features with These 10 Essential Tips</span>
                         </a>
                     
               
                 
                     
-                        <a href="/introducing-nomads-innovative-portable-rechargeable-tracking-device-in-compact-form/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Introducing Nomad&#39;s Innovative Portable Rechargeable Tracking Device in Compact Form</span>
+                        <a href="/detecting-mobile-internet-speed-limits-understanding-and-identifying-throttled-data/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Detecting Mobile Internet Speed Limits: Understanding and Identifying Throttled Data</span>
                         </a>
                     
               
                 
                     
-                        <a href="/innovative-repurposing-how-a-defective-apple-watch-became-a-classic-hand-wound-watch/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Innovative Repurposing: How a Defective Apple Watch Became a Classic Hand-Wound Watch</span>
+                        <a href="/demanding-the-ultimate-sound-experience-with-built-in-volume-buttons-for-my-future-earbud-case/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Demanding the Ultimate Sound Experience with Built-In Volume Buttons for My Future Earbud Case!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-self-repair-your-iphone-15-and-m2-mac-mini-ultimate-step-by-step-tutorials-for-tech-enthusiasts/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How To Self-Repair Your iPhone 15 &amp; M2 Mac Mini - Ultimate Step-by-Step Tutorials for Tech Enthusiasts</span>
+                        <a href="/decoding-apple-airtags-understanding-their-functionality-and-suitability-for-you/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Decoding Apple AirTags: Understanding Their Functionality and Suitability For You</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guiding-guide-sending-iphone-live-photos-successfully-to-your-android-pals/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guiding Guide: Sending iPhone Live Photos Successfully to Your Android Pals</span>
+                        <a href="/complete-instructions-on-removing-the-password-requirement-from-your-iphone/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Complete Instructions on Removing the Password Requirement From Your iPhone</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guide-keeping-your-iphone-screen-on-without-interruption/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guide: Keeping Your iPhone Screen On Without Interruption</span>
+                        <a href="/avoid-overspending-find-phones-under-1000-without-compromising-quality/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Avoid Overspending: Find Phones Under $1,000 without Compromising Quality!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guard-against-fraudsters-secure-your-phone-number-from-unauthorized-use/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guard Against Fraudsters: Secure Your Phone Number From Unauthorized Use</span>
+                        <a href="/apple-stops-processing-bills-for-older-netflix-memberships-on-ios-platform/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Apple Stops Processing Bills for Older Netflix Memberships on iOS Platform</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ensuring-your-loved-ones-are-informed-how-to-utilize-iphone-check-in-for-peace-of-mind/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ensuring Your Loved Ones Are Informed: How to Utilize iPhone Check-In for Peace of Mind</span>
+                        <a href="/apple-imessages-unlocked-discover-these-10-incredible-features-few-people-are-aware-of/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/effortless-guide-extracting-text-from-your-iphoneipadmac-with-ease/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease</span>
+                        <a href="/anticipating-the-arrival-of-iphone-16-discover-the-most-recent-insights-and-predictions-available-now/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-the-most-effective-iphone-email-management-applications-a-ranking-of-the-top-5-picks/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover the Most Effective iPhone Email Management Applications: A Ranking of the Top 5 Picks</span>
+                        <a href="/amazed-by-my-experience-with-airpods-pro-2-the-incredible-upgrade/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Amazed by My Experience with AirPods Pro 2: The Incredible Upgrade</span>
                         </a>
                     
               
