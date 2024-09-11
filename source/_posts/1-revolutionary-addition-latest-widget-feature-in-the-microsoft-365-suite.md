@@ -1,7 +1,7 @@
 ---
 title: "1. 'Revolutionary Addition: Latest Widget Feature in the Microsoft 365 Suite'"
-date: 2024-09-05T07:48:25.144Z
-updated: 2024-09-06T07:48:25.144Z
+date: 2024-09-10T10:46:13.801Z
+updated: 2024-09-11T10:46:13.801Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c0a7db857ddbaa57f04d4e15.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1. 'Revolutionary Addition: Latest Widget Feature in the Microsoft 365 Suite'
 
 The Microsoft 365 app is the one-stop shop for Office apps, Copilot, and other tools on your iPhone, iPad, or Android device. Now, there’s a new widget to help you jump back into your recent documents.
@@ -25,18 +33,20 @@ The Microsoft 365 app is the one-stop shop for Office apps, Copilot, and other t
 
 ![Screenshot of Recents widget, showing a file called Jessica Career Conversation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screen.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Microsoft
 
  Microsoft said in a blog post, “You can add Recent Files widgets for Word, Excel, and PowerPoint directly to your iPhone or iPad home screen. The widgets allow you to both view and open your most recently accessed files in that app from the home screen on your device.”

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Expansion: Master the Art of Unzipping Archives on iPhone & iPad"
-date: 2024-09-05T07:48:23.199Z
-updated: 2024-09-06T07:48:23.199Z
+date: 2024-09-10T10:46:11.933Z
+updated: 2024-09-11T10:46:11.933Z
 tags:
   - ios
 categories:
@@ -11,17 +11,25 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ## Effortless Expansion: Master the Art of Unzipping Archives on iPhone & iPad
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [How to Unzip Files on iPhone and iPad](https://win-blog.techidaily.com/resolved-how-to-fix-the-recurring-thunder-tier-one-game-crashes-on-your-computer/)
 * [How to Zip Files on iPhone and iPad](https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6s-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
  Open the iPhone's built-in Files app and tap a zip file to unzip it. Zip files you downloaded will likely be in your Downloads folder. You can create zip files by selecting multiple files and using the "Compress" option from the menu.
@@ -32,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
  The screenshots in this guide are from an iPhone, but the process is exactly the same with the Files app on iPad.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Unzip Files on iPhone and iPad
 
  To unzip files on an iPhone or iPad, open the built-in "Files" app and---it really is this easy---simply tap the zip file to open it. The extracted files or folders will appear in the same folder as the zip file. Here's the process in action:
@@ -52,15 +54,37 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Locate the zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0291.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Tap the file to unzip it. Your iPhone will extract the contents of the zip file to the current folder.
 
  That's really all there is to it. Apple just assumes that if you're selecting a zip file you probably want to open it, and that's a pretty same bet. If you want to take a peek inside without unzipping the file, press and hold, then select "Quick Look" from the menu.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Zip Files on iPhone and iPad
 
@@ -74,12 +98,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Locate the zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0291.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap the three-dot menu icon and choose "Select." The "Select" option is visible in the top bar without the menu on an iPad.
 
 ![Open the menu and tap "Select."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0293.png) 
@@ -88,31 +106,55 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Select files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0294.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  With the files selected, tap the three-dot menu icon in the bottom right and choose "Compress."
 
 ![Open the menu and select "Compress."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0295.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The zip file will be created. You can Press and hold the zip to see the option to "Rename" it or "Move" it somewhere else.
 
 ![Touch and hold for more options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/IMG_0296.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  That's all there is to it! Files management [was a pain to deal with](https://instagram-video-files.techidaily.com/in-2024-seamless-audio-integration-in-instagram-visuals-and-stories/) on the iPhone and iPad for a long time, but the Files app swiftly fixed that situation. Now, it might actually be easier than [Android's zip file management](https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y27-5g-fix-now-drfone-by-drfone-virtual-android/).
 

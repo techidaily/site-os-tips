@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues"
-date: 2024-09-05T07:48:25.027Z
-updated: 2024-09-06T07:48:25.027Z
+date: 2024-09-10T10:46:13.696Z
+updated: 2024-09-11T10:46:13.696Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c9f9e89ae440088035de6366.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues
 
 ### Quick Links
@@ -37,16 +45,38 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Track sleep with Apple Watch setting in the iPhone Watch app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/track_sleep_with_watch.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  If you’re having trouble and you’ve enabled the feature, you can toggle it off and on again to see if that helps. Turn off the “Track Sleep with Apple Watch” toggle under Watch > Sleep on your iPhone, then turn it on again.
 
  You might also want to have a look under Health > Sleep > Data Sources & Access to make sure your Apple Watch is listed as a data source. If it’s not, keep reading for a fix.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Set Up a Sleep Schedule
 
  In theory, all you need to track sleep with your Apple Watch is to turn the feature on and set up a sleep schedule. This effectively tells your Apple Watch when you’re going to be in bed so it can monitor your vitals and detect sleep stages.
@@ -55,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Select the days of the week and time to set up a sleep schedule.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_set_day.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Ensure you set a sleep schedule that covers every day of the week. So if you normally wake up at 7 am with an alarm on a weekday and like to sleep in on the weekends, make a separate schedule that applies only to the weekends _without_ an alarm.
 
  If you’re noticing gaps in your sleep data that fall on the weekend, it could be because you only set up a sleep schedule that applies to weekdays.
@@ -73,18 +97,20 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Deleting a sleep schedule under the Sleep section of the Apple Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_schedules.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  This could help, but you should also…
 
 ##  Make Sure You’re Using Sleep Focus
@@ -94,6 +120,20 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
  The fix is to make sure that Sleep Focus engages with your sleep schedule, at least that’s what seems to have worked for me. You can mirror your sleep schedule as a Focus mode under Health > Sleep > Full Schedule & Options using the “Use Schedule for Sleep Focus” toggle.
 
 ![Make your sleep schedule mirror your Sleep Focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-11.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Alternatively, you can go to Settings > Focus > Sleep and tap “Schedule” to set your own time. When your alarm goes off in the morning, the Sleep Focus will be disabled. If you have no alarm set, you’ll need to disable Sleep Focus on your Apple Watch using Control Center (tap the Side button once, then tap the “Bed” icon).
 
@@ -109,26 +149,42 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Setting sleep data source priority in the Apple Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/data_sources.png) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- To make changes, you’ll need to tap “Edit” at the top of the “Data Sources & Access” screen. You can then tap a source to disable it, or tap and drag (using the horizontal lines) to reorder. Place your Apple Watch at the top of the stack, then hit “Done.”
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ To make changes, you’ll need to tap “Edit” at the top of the “Data Sources & Access” screen. You can then tap a source to disable it, or tap and drag (using the horizontal lines) to reorder. Place your Apple Watch at the top of the stack, then hit “Done.”
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Make Sure You Sleep for at Least Four Hours
 
  You don’t need me to tell you to get more than four hours of sleep per night, but the same goes for your Apple Watch. The wearable needs to record at least four hours of sleep each night to track your sleep and have it appear in the Health app.
@@ -139,38 +195,48 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![An Apple Watch Series 9 being charged.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53213258883_bbc5534fec_o-1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  Whatever the reason, make sure you head to bed with enough charge to see you through the night. A quick blast on the charger before bed should be enough to top up the battery.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Restart Your Watch and iPhone to Fix Bugs
 
  Sometimes, communication breaks down between your devices. Software bugs and glitches stop processes from running. This is true of any devices, including your iPhone and Apple Watch. The remedy is to turn both devices off and on again.
 
 ![Option to restart an iPhone with Siri.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/siri_restart.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Press and hold the Side button on your Watch until you see the power icon in the top-right corner. Tap it, then use the “Power Off” slider to turn your Watch off. Press and hold the Side button again to turn your Watch on.
 
  You can [ask Siri to restart your iPhone](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/) for you, or you can press and hold the Side and Volume Up or Volume Down button until you see the “Slide to power off” slider (then press and hold the Side button to turn it back on). Once both devices are back on, unlock both of them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Pair Your Apple Watch Again
 
  The “nuclear” option is to unpair your Apple Watch, and then pair it again. This effectively resets your Apple Watch and may solve any persistent issues with sleep tracking or other activities. You’ll need to set up your Watch again, including any Apple Pay or transit cards you’ve added.

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Timely Notifications in iOS: A Comprehensive Guide"
-date: 2024-09-05T07:48:21.936Z
-updated: 2024-09-06T07:48:21.936Z
+date: 2024-09-10T10:46:10.695Z
+updated: 2024-09-11T10:46:10.695Z
 tags:
   - ios
 categories:
@@ -9,32 +9,28 @@ categories:
 thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123ec37a972f3b6c973af210c4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding Timely Notifications in iOS: A Comprehensive Guide
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are "Time Sensitive" Notifications?](https://twitter-videos.techidaily.com/updated-in-2024-tailored-techniques-to-procure-tweets-gifs/)
 * [How to Allow "Time Sensitive" Notifications in Focus](https://tech-recovery.techidaily.com/hilarious-idevice-tricks-ultimate-guide-to-ipod-iphone-and-ipad-prank-ideas/)
 * [How to Turn Off "Time Sensitive" Notifications](https://buynow-tips.techidaily.com/superior-wireless-audiophiles-choice-for-tv/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * "Time Sensitive" notifications are a special class that have higher priority and can break through notification blocks.
@@ -47,18 +43,20 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
 ![Enabling Focus Mode from Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/Enabling-Focus-Mode-from-Control-Center.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  "Time Sensitive" notifications are simply a special class of notifications that are given higher priority. They were introduced in [iOS 15](https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-5-emulators-transforming-old-ps1-games-on-pcs/) alongside [the "Focus" feature](https://youtube-data.techidaily.com/24-stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/), and that's really where they are the most useful.
 
  Since these notifications have a higher priority, they can be allowed to break through the times when you may be blocking other notifications. They also stay on your lock screen for an hour. It's a way of saying "I want to block notifications but I don't want to miss anything important."
@@ -66,6 +64,20 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
  Focus mode allows you to essentially create custom Do Not Disturb modes for specific situations. This is where Time Sensitive notifications really shine. You can indiscriminately block as many apps as you want without worrying about missing something urgent.
 
  Unfortunately, you don't get to decide what qualifies a notification as "Time Sensitive," that's up to the app developers. It's possible that an app could abuse the feature. All you can do is decide if you want to allow an app to use Time Sensitive notifications.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Allow "Time Sensitive" Notifications in Focus
 
@@ -79,49 +91,61 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
 ![Tap the "Focus" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-tap-focus.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You can set up Time Sensitive exceptions for each Focus mode. In other words, you could allow Time Sensitive notifications to bypass "Do Not Disturb" but not "Sleep," for example. Tap the Focus mode you want to adjust. We're going to use "Do Not Disturb." 
 
 ![Tap "Do Not Disturb" or whatever focus mode you want.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-tap-do-not-disturb.png) 
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You're at point in the process where you can choose which apps will be allowed to show notifications. Tap "Apps"
 
 ![Tap the "Apps" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-apps-priority-notifications.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Tap the toggle for "Time Sensitive Notifications" underneath the apps that can bypass "Do Not Disturb." 
 
 ![Enable the "Time Sensitive Locations" toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-time-sensitive-notifications.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, when the Focus mode is enabled, Time Sensitive notifications won't be blocked. Even if you're not allowing notifications from the app, the Time Sensitive notifications will get through.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Turn Off "Time Sensitive" Notifications
 
@@ -141,19 +165,41 @@ _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%
 
 ![Tap "Notifications" to configure notifications on an app-by-app basis.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-tap-notifications.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Find the app that you want to turn off Time Sensitive notifications for.
 
 ![Open "Calendar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-calendar6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Toggle the switch off for "Time Sensitive Notifications." Note that not every app will have this option.
 
 ![Toggle the "Time Sensitive Notifications" options to "Off."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-time-sensitive-notifications-off.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  That's all there is to it. Time Sensitive [notifications](https://snapchat-videos.techidaily.com/updated-2024-approved-saving-snaps-from-snapchat-on-camera-roll-a-guide/) are great if they are used by the app properly. You may find them useful for some apps, but annoying with others. The more you fine-tune which apps can use them, the better the experience will be.
 

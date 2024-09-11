@@ -1,7 +1,7 @@
 ---
 title: "Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!"
-date: 2024-09-05T07:48:26.126Z
-updated: 2024-09-06T07:48:26.126Z
+date: 2024-09-10T10:46:14.674Z
+updated: 2024-09-11T10:46:14.674Z
 tags:
   - ios
 categories:
@@ -9,14 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b07f01ac5528173fed7156fb9.jpg
 ---
 
-## Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Circle to Search is an Android exclusive feature allowing users to search for items on their screen by circling them.
@@ -25,9 +53,37 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  What Is Circle to Search?
 
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Justin Duino / How-To Geek
 
@@ -37,24 +93,26 @@ Justin Duino / How-To Geek
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Get Circle to Search Functionality on Your iPhone
 
  To set up the workaround, you must have the [Google app on your iPhone](https://ai-video-tools.techidaily.com/updated-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/). If you don't already have it, download it from the App Store. Once you've installed the Google app, it's time to create a shortcut.
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
@@ -75,12 +133,20 @@ Justin Duino / How-To Geek
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
  Head to Settings > Accessibility > Touch, and select "Back Tap."
@@ -91,28 +157,24 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
  If you've followed all the steps correctly, double-taping the back of your iPhone will trigger the shortcut. This will take a screenshot and use Google's visual search feature to fetch more information about whatever is on your screen. That's essentially how the Circle to Search feature works.

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-09-05T07:48:24.003Z
-updated: 2024-09-06T07:48:24.003Z
+date: 2024-09-10T10:46:12.743Z
+updated: 2024-09-11T10:46:12.743Z
 tags:
   - ios
 categories:
@@ -9,14 +9,36 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-smartphone-on-an-office-desk-with-books-a-laptop-and-a-wall-with-several-notepads-behind.jpg
 ---
 
-## Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [What Is Obsidian?](https://facebook-video-files.techidaily.com/updated-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/)
@@ -27,12 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Word and Character Count Included for Writers](https://facebook-record-videos.techidaily.com/new-access-high-quality-youtube-images-without-paying-a-dime-for-2024/)
 * [You Can Extend Obsidian With Plug-ins](https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Obsidian saves notes as plain text files, giving you full control over your data and allowing easy backups.
@@ -53,12 +69,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Bertel King / How-To Geek
 
  Most writing apps hide your local data from you. Samsung Notes, for example, comes pre-installed on my Galaxy Z Fold 5, but I can only back up notes to either Samsung's cloud or Microsoft's. I can also only access my notes using that one app, meaning I'm locked in.
@@ -67,28 +91,30 @@ Bertel King / How-To Geek
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Bertel King / How-To Geek
 
  Obsidian refers to the folders it saves your notes in as "Vaults." Within each Vault, you can create any number of folders. These folders and the notes they contain are visible in a sidebar that slides in from the left side of the screen.
@@ -103,6 +129,20 @@ Bertel King / How-To Geek
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Bertel King / How-To Geek
 
  Obsidian opens each note in its own tab. On most phones, this is like switching between the tabs in a mobile web browser, and it takes some of the pain out of bouncing between multiple files at a time.
@@ -115,28 +155,44 @@ Bertel King / How-To Geek
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Bertel King / How-To Geek
 
  Even though Obsidian is a Markdown editor, you don't actually need to know how to write Markdown to format your text. The app contains a formatting bar directly above your keyboard. When you tap the bold icon, Obsidian will surround the highlighted text with asterisks, which is how Markdown communicates that something needs to be in bold. If you want to turn something into a heading, tap the heading icon, and Obsidian will insert a hashtag. One hashtag denotes Heading 1, two hashtags denote Heading 2, and so on.
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  There are many, many ways to write things on Android. Technically, I could do most of my work using Google Keep if I particularly wanted to, but there are certain bits of information professional writers really need access to. Primarily, this is word count.

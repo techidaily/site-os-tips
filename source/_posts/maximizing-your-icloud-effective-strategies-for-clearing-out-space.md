@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your iCloud: Effective Strategies for Clearing Out Space"
-date: 2024-09-05T07:48:21.716Z
-updated: 2024-09-06T07:48:21.716Z
+date: 2024-09-10T10:46:10.487Z
+updated: 2024-09-11T10:46:10.487Z
 tags:
   - ios
 categories:
@@ -11,12 +11,26 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 
 ## Maximizing Your iCloud: Effective Strategies for Clearing Out Space
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Identify the Biggest Storage Hogs](https://on-screen-recording.techidaily.com/updated-ideal-screen-capturing-solutions-for-igadgets/)
@@ -27,12 +41,20 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 * [Delete Old Chats and Messages Attachments](https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/)
 * [Consider Upgrading Your iCloud Storage](https://extra-tips.techidaily.com/step-by-step-mastery-in-powerdirector-complete-2024-guide-and-tutorials/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Check the storage usage on all your devices to find what's using up your space.
@@ -41,18 +63,6 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Identify the Biggest Storage Hogs
 
  Before you start removing iCloud files, you can find out what's taking up the most space to determine what to delete. Open the Settings (iOS/iPadOS) or System Settings app (Mac), select your Apple ID at the top, and choose "iCloud."
@@ -63,12 +73,26 @@ Close
 
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
@@ -81,13 +105,21 @@ Close
 
 ![The iPhone's Settings app with the Recommended For You option highlighted in the iCloud section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-icloud-recommended-for-you-selected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Delete Outdated iPhone and iPad Backups
 
@@ -103,18 +135,20 @@ Close
 
 ![iPad Pro selected on the iCloud Backups screen in the Mac's System Settings app, with the Delete option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-app-icloud-section-manage-account-storage-backups-delete-option-highlight.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  This will permanently remove the entire backup archive from your iCloud account and switch off the iCloud Backup feature for that device.
 
  When you [disable the iCloud Backup option](https://win-howtos.techidaily.com/troubleshoot-and-resolve-sluggish-startup-problems-in-windows-7/), your iPhone will stop automatically backing up to iCloud when plugged in, locked, and connected to Wi-Fi, but its backup will stay in iCloud.
@@ -123,22 +157,24 @@ Close
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Exclude Apps From Your iPhone Backups
 
  If you prefer to continue backing up your iPhone or iPad to iCloud, you may want to exclude specific apps from future backups. Choose "Backups" from the "Manage Account Storage" screen in the iCloud settings, select the backup for the device you're using, and disable the apps whose data you want excluded from future backups.
@@ -147,18 +183,6 @@ Close
 
  You can safely disable iCloud for apps that sync data online anyway, like Pocket or Facebook.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Back Up Your Photos to a Different Cloud Service
 
  Photos can eat up a lot of space. With iCloud Photos enabled, your iPhone will back up full-resolution versions of any images and videos you take to your iCloud account. This can be convenient, but it also means your iCloud storage can quickly fill up.
@@ -183,12 +207,26 @@ Close
 
  Be careful when doing this, though, as you could delete essential documents and files you might want to keep.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Triage Your iCloud Mail Inbox
 
  If you're using Apple's iCloud Mail, your emails count toward your iCloud storage quota. You can free up space by deleting old iCloud emails, especially those with large file attachments.
@@ -205,6 +243,20 @@ Close
 
 ![iCloud Mail in a web browser with the Empty Trash option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-icloud-mail-app-inbox-view-empty-trash-selected.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  When you delete emails, remember to empty the trash afterward to have them removed permanently and free up storage space.
 
  You don't need to delete your emails from Gmail, Outlook, or Yahoo as those services don't store inboxes in iCloud but rather within their own cloud space.
@@ -220,6 +272,26 @@ Close
  The selected attachments will be removed from all your Apple devices.
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Consider Upgrading Your iCloud Storage
 

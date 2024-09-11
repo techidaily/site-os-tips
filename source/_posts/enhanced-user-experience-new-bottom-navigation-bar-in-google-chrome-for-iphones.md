@@ -1,7 +1,7 @@
 ---
 title: "Enhanced User Experience: New Bottom Navigation Bar in Google Chrome for iPhones"
-date: 2024-09-05T07:48:23.217Z
-updated: 2024-09-06T07:48:23.217Z
+date: 2024-09-10T10:46:11.947Z
+updated: 2024-09-11T10:46:11.947Z
 tags:
   - ios
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e389465c9417b498ad1381c72e.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Enhanced User Experience: New Bottom Navigation Bar in Google Chrome for iPhones
 
 It's been two years since Apple moved Safari's address bar to the bottom of the iPhone's screen. Now, after a long wait, Google is following in Apple's footsteps. A new setting in the Chrome iOS app moves its address bar to [the bottom of your screen](https://blog.google/products/chrome/customize-chrome-ios-address-bar/). This setting is optional and disabled by default.
@@ -29,12 +31,26 @@ It's been two years since Apple moved Safari's address bar to the bottom of the 
 
 ![Swapping address bar positions in Chrome iOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/34-3.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Google
 
  We first discovered this new Chrome iOS layout in [April 2023](https://article-files.techidaily.com/2024-approved-live-or-recorded-twitch-versus-youtube-face-off/). It was available as an experimental flag, and developer comments suggested that it would become the default layout for Chrome on iOS. This is contrary to what we're learning today—Google Chrome's original layout is still the default option. Presumably, Google chose to retain the default address bar layout to avoid any confusion or outrage. But very few Safari users complained when Apple flipped its address bar layout, so maybe Google just prefers the old-school orientation.

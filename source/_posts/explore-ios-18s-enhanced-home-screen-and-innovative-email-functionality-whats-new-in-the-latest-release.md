@@ -1,7 +1,7 @@
 ---
 title: "Explore iOS 18'S Enhanced Home Screen & Innovative Email Functionality: What’s New in the Latest Release"
-date: 2024-09-05T07:48:22.294Z
-updated: 2024-09-06T07:48:22.294Z
+date: 2024-09-10T10:46:11.051Z
+updated: 2024-09-11T10:46:11.051Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/f242798f01f6eb6860b3f63a7fdce4b4bcb3c643fae381466103984b36dbd16d.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Explore iOS 18'S Enhanced Home Screen & Innovative Email Functionality: What’s New in the Latest Release
 
 Apple had a lot to talk about at WWDC, from new OS versions to even its first steps into generative AI with Apple Intelligence. The iOS 18 update has been officially announced, and it's coming to an iPhone near you by the end of the year.
@@ -23,12 +31,20 @@ Apple had a lot to talk about at WWDC, from new OS versions to even its first st
 
 ![An iPhone with custom red icons and a person in a red dress as the wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-ios-18-home-screen-dark-effect-tinted-red-240610_inline-jpg-large.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Apple 
 
  To start, iOS 18 has a big focus on customization. The Home Screen now allows people to freely arrange apps and widgets, including above the dock and around wallpapers. App icons can be enlarged and given a dark or tinted effect. Control Center has been redesigned for easier access and customization, with new groups for media playback, Home controls, and connectivity. You can also add controls from third-party apps, organize them into groups, and even adjust their size. For the first time, Lock Screen controls can be switched or removed entirely.
@@ -37,12 +53,20 @@ Apple
 
 ![Apple-WWDC24-iOS-18-Messages-schedule-240610_inline.jpg.large](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-ios-18-messages-schedule-240610_inline-jpg-large.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Apple 
 
  Apple wasn't too excited to talk about this particular part, but iOS 18 is _finally_ introducing RCS messaging, which will greatly improve the messaging experience between iPhones and Android devices with things such as higher-quality multimedia sending as well as read receipts. Bubbles are still green, which isn't particularly surprising, and we'll have to see how fully-featured, or barebones, Apple's implementation of RCS is. With how petty Apple has been about this whole ordeal for years, we'd expect this to be the absolute bare minimum.

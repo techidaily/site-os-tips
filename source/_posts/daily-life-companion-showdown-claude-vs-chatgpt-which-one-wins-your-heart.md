@@ -1,7 +1,7 @@
 ---
 title: "Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?"
-date: 2024-09-05T07:48:25.264Z
-updated: 2024-09-06T07:48:25.264Z
+date: 2024-09-10T10:46:13.903Z
+updated: 2024-09-11T10:46:13.903Z
 tags:
   - ios
 categories:
@@ -9,14 +9,36 @@ categories:
 thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9264a3deac22fa09078e3cf8.jpg
 ---
 
-## Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * ChatGPT and Claude are leading AI companies with impressive web applications.
@@ -24,6 +46,26 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 * Claude's mobile app outperforms ChatGPT's by offering fast responses and better usability.
 
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  GPT vs. Claude On The Web
 
@@ -37,16 +79,24 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek / Midjourney
 
  If you already have an account for these LLMs, signing in and getting started is easy. Both of them also link seamlessly to Google Accounts, so you don't even need to create a brand-new account to use either of these apps. However, they do have the same limitations as their web app counterparts.
@@ -57,12 +107,20 @@ Dibakar Ghosh / How-To Geek / Midjourney
 
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Which App Performs Better?
 
 Close 
@@ -79,12 +137,6 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -93,34 +145,24 @@ Jason Dookeran/How-to-Geek
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Which Mobile App Is Better?
 
  As I outlined, my tests were done across a few metrics, but they're far from exhaustive. I learned that the ChatGPT app had some connectivity issues while on a Wi-Fi network, while Claude's app worked seamlessly and delivered usable results with low response times. Claude took the record for this iteration of the models with a convincing 3–0 win over ChatGPT. Both models and apps are constantly in development, so the issues I found are likely to change. However, given the current iteration of these two apps, Claude seems to be the clear winner.

@@ -1,13 +1,27 @@
 ---
 title: Diving Into Vintage Video Games on My iPhone - A Weekend of Discovery and Lessons.
-date: 2024-08-26 13:11:30
-updated: 2024-08-29 12:51:30
+date: 2024-09-10T10:44:06.539Z
+updated: 2024-09-11T10:44:06.539Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/delta_iphone_featured.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Diving Into Vintage Video Games on My iPhone - A Weekend of Discovery and Lessons.
 
@@ -33,6 +47,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![SNES classic RPG Chrono Trigger running on Delta for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chrono_trigger_delta.PNG) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  It’s the experience that retro gaming enthusiasts who also happen to own an iPhone have dreamed about. If you had previously considered switching to Android to play older games on the go, you no longer need to do that. If you’re sick of mobile games and would rather level up your Charmander on the bus, you can.
 
  Unfortunately, there are a few drawbacks to playing retro games on your iPhone. On-screen touch controls are still bad for precise input. They always have been, and they probably always will be. This is a limitation of the form factor, not the emulator. It means that some games are simply best avoided if you’re going to rely on touch controls.
@@ -42,6 +76,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Fortunately, there is a whole stack of slower-paced games that you can play instead. Turn-based RPGs like _Chrono Trigger_ and just about any game in the _Pokémon_ franchise feel right at home on your iPhone. And then there’s everything in between, like touchscreen triumphs _Ghost Trick_ and _Brain Age_ on the Nintendo DS.
 
 ![Brain Age for Nintendo DS running on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/brain_age_delta.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Emulation is powered by well-known cores like [Snes9x](https://github.com/snes9xgit/snes9x) and [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), open-source projects that ensure excellent compatibility with game libraries. The experience may not be pixel-perfect (you’ll need original hardware or an [FPGA-based device like the MiSTeR for that](https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/)), but with an emulator like Delta you get bonuses like save states, fast forward, and the ability to use cheat codes if you want.
 
@@ -63,6 +111,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Though the process still feels taboo due to the scorn Apple has poured on emulators for well over a decade, it’s straightforward enough. You’ve been able to do this sort of thing in other apps for years. It’s really no different from loading your iPhone up with MIDI and chiptune music in an app like [Modizer](https://apps.apple.com/us/app/modizer/id393964792).
 
  The good news is that you’ll be playing in no time if you have a collection of ROMs stored in the cloud, and Delta even comes with a feature called Delta Sync which not only syncs ROMs but also save files, save states, cheat codes, and controller mappings between devices.
@@ -74,6 +136,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  But the form factor still leaves a lot to be desired. Even with a clip that [attaches to your iPhone to your controller](https://fox-boxes.techidaily.com/updated-2024-approved-masterful-viewing-for-artists-best-monitor-guide/), the weight distribution can make things feel unwieldy. You’re much better off mimicking the Nintendo Switch form factor and buying a controller like the [Backbone](https://playbackbone.com) or [Razer Kishi](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2002862&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fmobile-controllers%2Frazer-kishi) instead. Apple recently switched its iPhone range to USB-C, so make sure you buy the right controller for the job.
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jason Montoya / How-To Geek
 
@@ -89,7 +165,35 @@ Jason Montoya / How-To Geek
 
 ![An iPhone automation that triggers a shortcut to toggle a Focus mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shortcuts_delta.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Alternatively, Buy a Handheld PC (Like the Steam Deck)
 
@@ -106,6 +210,20 @@ Goran Damnjanovic / How-To Geek
  You have other options like the [ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), but these Windows-based machines are all more expensive than Valve’s handheld. They can use the full gamut of emulators available for the Windows platform, but buying a handheld like this purely for emulation purposes feels like overkill.
 
  There are also [portable retro handhelds from Retroid and Anbernic](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/). These devices are inexpensive and come in all manner of form factors, without relying on touchscreen controls. Just make sure you [avoid the cheapest, nastiest knock-offs](https://screen-recording.techidaily.com/updated-2024-approved-top-tier-tools-transforming-remote-discussions/).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Give It a Try
 
@@ -127,3 +245,47 @@ Goran Damnjanovic / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>[New] 2024 Approved Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-musical-impact-on-instagram-posts-for-2024/"><u>[New] Maximizing Musical Impact on Instagram Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[Updated] 2024 Approved Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-look-back-the-evolution-of-apple-watch-ultra-after-its-first-year-in-the-market/"><u>A Look Back: The Evolution of Apple Watch Ultra After Its First Year in the Market</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/access-creative-banners-for-video-makers-at-zero-price/"><u>Access Creative Banners for Video Makers at Zero Price</u></a></li>
+<li><a href="https://os-tips.techidaily.com/activating-your-iphones-flashlight-with-a-simple-tap-on-the-back-a-comprehensive-guide/"><u>Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-solutions-win-discover-why-a-cost-effective-phone-stand-should-be-on-your-radar/"><u>Affordable Solutions Win: Discover Why a Cost-Effective Phone Stand Should Be on Your Radar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-barriers-how-the-iphone-is-expanding-globally-while-maintaining-its-presence-in-the-us/"><u>Breaking Barriers: How the iPhone Is Expanding Globally While Maintaining Its Presence in the U.S.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/choosing-between-mid-tier-android-and-aged-iphone-models-why-opting-for-the-iphone-could-be-wiser/"><u>Choosing Between Mid-Tier Android and Aged iPhone Models: Why Opting for the iPhone Could Be Wiser</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-apples-nomad-base-one-max-the-ultimate-3-in-1-magsafe-charging-solution-review/"><u>Comprehensive Analysis of Apple's Nomad Base One Max: The Ultimate 3-in-1 MagSafe Charging Solution Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/copilot-vs-copilot-pro-whats-the-difference-and-should-you-upgrade/"><u>Copilot Vs. Copilot Pro: What's the Difference, and Should You Upgrade?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-security-update-available-for-iphone-ipad-and-mac-install-now-to-protect-your-device/"><u>Critical Security Update Available for iPhone, iPad, and Mac - Install Now to Protect Your Device!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-to-access-the-apple-watchs-body-heat-sensor-for-health-monitoring/"><u>Discover How to Access the Apple Watch's Body Heat Sensor for Health Monitoring</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-most-effective-iphone-email-management-applications-a-ranking-of-the-top-5-picks/"><u>Discover the Most Effective iPhone Email Management Applications: A Ranking of the Top 5 Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-guide-extracting-text-from-your-iphoneipadmac-with-ease/"><u>Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ensuring-your-loved-ones-are-informed-how-to-utilize-iphone-check-in-for-peace-of-mind/"><u>Ensuring Your Loved Ones Are Informed: How to Utilize iPhone Check-In for Peace of Mind</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/glow-up-guide-3-masterful-instagram-highlight-tricks-for-2024/"><u>Glow-Up Guide 3 Masterful Instagram Highlight Tricks for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guard-against-fraudsters-secure-your-phone-number-from-unauthorized-use/"><u>Guard Against Fraudsters: Secure Your Phone Number From Unauthorized Use</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-keeping-your-iphone-screen-on-without-interruption/"><u>Guide: Keeping Your iPhone Screen On Without Interruption</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guiding-guide-sending-iphone-live-photos-successfully-to-your-android-pals/"><u>Guiding Guide: Sending iPhone Live Photos Successfully to Your Android Pals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-iconic-lecture-labels-maker-pro/"><u>In 2024, Iconic Lecture Labels Maker Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>In 2024, Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-of-apple-books-top-1nformation-and-strategies-for-better-reading/"><u>Unlock the Full Potential of Apple Books: Top 1Nformation and Strategies for Better Reading</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-phones-hidden-potential-with-live-photo-screen-magic-the-ultimate-underrated-ios-treat/"><u>Unlock Your Phone's Hidden Potential with Live Photo Screen Magic: The Ultimate Underrated iOS Treat</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-secret-how-smartphones-match-pc-performance-without-cooling-fans/"><u>Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-top-10-secret-enhancements-in-ios-17/"><u>Unveiling the Top 10 Secret Enhancements in iOS 17</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-enhancements-a-major-improvement-for-web-applications-on-ios-devices/"><u>Upcoming Enhancements: A Major Improvement for Web Applications on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-i-prefer-airpods-to-soundbars-with-my-tv-the-top-four-reasons-explained/"><u>Why I Prefer AirPods to Soundbars with My TV - The Top Four Reasons Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-the-iphone-15-pro-might-be-your-next-best-pick-for-portable-gaming/"><u>Why the iPhone 15 Pro Might Be Your Next Best Pick for Portable Gaming.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/your-iphone-will-host-contacts-list-in-new-app-soon-heres-why-it-matters/"><u>Your iPhone Will Host Contacts List in New App Soon - Here's Why It Matters</u></a></li>
+</ul></div>
+
+
+
+

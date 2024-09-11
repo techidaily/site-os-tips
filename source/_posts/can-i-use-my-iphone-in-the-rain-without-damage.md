@@ -1,13 +1,27 @@
 ---
 title: Can I Use My iPhone in the Rain Without Damage?
-date: 2024-09-05T07:48:25.245Z
-updated: 2024-09-06T07:48:25.245Z
+date: 2024-09-10T10:46:13.885Z
+updated: 2024-09-11T10:46:13.885Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-gold-iphone-model-covered-in-water-droplets-1.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Can I Use My iPhone in the Rain Without Damage?
 
@@ -21,12 +35,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Want a "Water-Proof" iPhone? Use a Case](https://howto.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Be Careful Submerging Your iPhone in Water](https://extra-information.techidaily.com/frostbound-feats-olympic-ice-innovations/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Recent iPhone models have different IP ratings, including IP68 for the iPhone 15 through to the iPhone XS, though newer models can be submerged for longer.
@@ -35,17 +57,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Modern iPhones are [water-resistant](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), but the strength of that protection varies from model to model. Performing maintenance and repairs on your iPhone can compromise this protection. Here's what you need to know.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Which iPhones Are Water-Resistant?
 
  The iPhone 15, iPhone 14, iPhone 13, and iPhone 12 families of devices (including all Pro, Pro Max, Plus, and mini models) have an IP68 rating. Apple states that these devices can withstand being submerged up to a depth of 6 meters for 30 minutes (that's almost 20 feet). 
 
 ![Person holding an iPhone 15 Pro Max.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53228140359_7acd288927_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Justin Duino / How-To Geek
 
@@ -57,18 +93,6 @@ Justin Duino / How-To Geek
 
  The iPhone 6s lacks any kind of water or dust-resistant rating but demonstrated a [high level of water resistance](https://www.macrumors.com/2015/09/28/iphone-6s-water-resistance-tests/) when it was first released. It's possible Apple was testing the water-resistant technology that officially made it into the iPhone 7\. Earlier models including the original iPhone SE lack any water resistance.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Understanding Splash, Water, and Dust Resistance
 
  Waterproof and water-resistant are not the same thing when it comes to consumer electronics. Many watches are water-resistant, but they can't handle much more than a splash of water. Most recent iPhone models are water-resistant, but there are conditions attached to that rating, like depth and duration of exposure.
@@ -79,6 +103,20 @@ Justin Duino / How-To Geek
 
 ![iphone in waterproof pouch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/waterproof-bag.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Corbin Davenport / How-To Geek
 
  Every new iPhone since the iPhone 7 has shipped with some form of water and dust resistance, backed up by testing performed in a laboratory. With the arrival of the iPhone 12 family of devices, this water resistance has improved further. This protection is defined by an IP (Ingress Protection) rating.
@@ -87,12 +125,20 @@ Corbin Davenport / How-To Geek
 
  The second number (7 or 8) determines how effective the device is at preventing liquids from entering. The IP67 rating guarantees a device can be submerged for a depth of 1 meter for up to 30 minutes and remain functional. An IP68 rating means the device can withstand depths beyond 1 meter, though the test duration and precise depth are left up to the manufacturer.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Water Damage Isn't Covered by Warranty
 
  Despite the IP67 and IP68 ratings, your iPhone warranty doesn't cover water damage. Apple [states](https://support.apple.com/en-us/108039) that: "Liquid damage is not covered under warranty, but you might have rights under consumer law." If your iPhone develops a fault as a result of liquid damage, Apple won't honor the limited one-year warranty.
@@ -101,18 +147,26 @@ Corbin Davenport / How-To Geek
 
 ![Water pouring onto an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/img_5db9f06fbbec5.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [blackzheep/Shutterstock.com](https://www.shutterstock.com/image-photo/closeup-water-drop-on-phone-device-662781931)
 
  The presence of liquid contact indicators (LCIs) will reveal whether or not your iPhone has come into contact with potentially device-damaging liquid. You can see these indicators inside the SIM tray of any iPhone 5 or later, and in the headphone and charging ports of earlier iPhone and iPod models.
@@ -138,12 +192,6 @@ Corbin Davenport / How-To Geek
 
  If you take your iPhone to one of these unauthorized technicians, be sure to ask whether the adhesive strips on the display assembly were properly replaced. You're going to have to take the technician at their word. The only way to find out for sure is to risk your phone becoming water-damaged. Wherever possible, take it to an Apple Store or Apple-approved technician.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Else Can Affect iPhone Water Resistance?
 
  Damage to your iPhone can affect its water resistance. If your phone takes a hard knock, you might damage the adhesive seal that keeps water and dust out. This is more likely to happen if you don't use a case. Any kind of physical dent or damage that might cause movement of the components inside the iPhone increases the chances of damage.
@@ -166,18 +214,6 @@ Corbin Davenport / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31h83ctdsol-_sl500_.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  CaliCase Waterproof Floating Phone Pouch
 
 Keep most smartphones dry and sand-free with this floating universal cover from CaliCase.
@@ -185,6 +221,26 @@ Keep most smartphones dry and sand-free with this floating universal cover from 
 [$30 at amazon](https://www.amazon.com/CaliCase-Universal-Waterproof-Floating-Case/dp/B011EFID5S/?tag=hotoge-20&ascsubtag=UUhtgUeUpU213226&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F445562%2Fis-my-iphone-waterproof%2F&asc%5Fcampaign=Evergreen) 
 
 [OtterBox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU213226/https://www.otterbox.com/) is another respected brand in the rugged case market. The Frē series now supports MagSafe and allows you to take your iPhone to depths of up to 2 meters (6.6ft) for an hour, with built-in drop protection and an included lanyard.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Be Careful Submerging Your iPhone in Water
 

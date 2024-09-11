@@ -1,7 +1,7 @@
 ---
 title: "Issues with Apple Card & Apple Pay: A Comprehensive Look"
-date: 2024-09-05T07:48:23.439Z
-updated: 2024-09-06T07:48:23.439Z
+date: 2024-09-10T10:46:12.183Z
+updated: 2024-09-11T10:46:12.183Z
 tags:
   - ios
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c6610495144fe17eca852c8fbd.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Issues with Apple Card & Apple Pay: A Comprehensive Look
 
 ###### [Read update](https://fox-helps.techidaily.com/2024-approved-discover-the-5-superior-videophoto-artists-that-compose/) 
@@ -23,12 +37,20 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
 
 **_Outage Resolved_** 

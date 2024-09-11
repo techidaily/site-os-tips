@@ -1,7 +1,7 @@
 ---
 title: Additional US State Adopts iPhone's Digital ID System
-date: 2024-09-05T07:48:22.081Z
-updated: 2024-09-06T07:48:22.081Z
+date: 2024-09-10T10:46:10.831Z
+updated: 2024-09-11T10:46:10.831Z
 tags:
   - ios
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-and-apple-s-logo.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Additional US State Adopts iPhone's Digital ID System
 
 The dream of carrying around your phone without other cards is still a dream in most of the United States, but slowly but surely, Apple is trying to change that. The U.S. state of Ohio now allows digital IDs to be stored on iPhones, replacing a physical driver's license or other identification.

@@ -1,7 +1,7 @@
 ---
 title: Epic Games Launches Mobile Gaming Stores on Android & iOS Devices
-date: 2024-09-05T07:48:25.366Z
-updated: 2024-09-06T07:48:25.366Z
+date: 2024-09-10T10:46:13.994Z
+updated: 2024-09-11T10:46:13.994Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/epic-games-store-hero.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Epic Games Launches Mobile Gaming Stores on Android & iOS Devices
 
 If there's something we can learn from the long legal battle between Epic Games, Google, and Apple, is that more awareness was raised about the need for alternative app stores to exist and give the Apple App Store/Google Play Store some competition. Epic Games already has its own games storefront, and with Apple and Google being forced to relax its restrictions, it was going to be one of the very first companies to take advantage of it. Epic has now shared more details about that plan.

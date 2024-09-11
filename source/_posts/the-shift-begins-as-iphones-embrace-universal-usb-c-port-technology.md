@@ -1,7 +1,7 @@
 ---
 title: The Shift Begins as iPhones Embrace Universal USB-C Port Technology
-date: 2024-08-26 19:27:11
-updated: 2024-08-29 11:41:45
+date: 2024-09-10T10:39:22.863Z
+updated: 2024-09-11T10:39:22.863Z
 tags:
   - ios
 categories:
@@ -31,6 +31,26 @@ Apple
 
 ![iPhone 15 Pro recording video via USB-C to an external drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_video_record.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Apple
 
  The iPhone is well overdue for the switch to USB-C, particularly compared to Android devices which have been using the standard for years. Nintendo embraced USB-C for the Switch in 2017, and both Microsoft and Sony use USB-C ports on their Xbox Series and PlayStation 5 consoles.
@@ -45,9 +65,37 @@ Apple
 
 ![iPhone 15 charging via USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_usb-c.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Apple
 
  This shouldn’t affect charging, which Apple says will net you 50% charge in 30 minutes when using a 20w charger or better (for both base and Pro models) so if you never use a cable to transfer data then you likely won’t notice any speed limitations.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How the EU Forced Apple’s Hand
 
@@ -65,6 +113,20 @@ Apple
 
  The company previously made [comments](https://www.zdnet.com/article/eu-wants-usb-c-to-become-standard-charging-port-for-all-smartphones-to-cut-down-e-waste/) that suggested the mandate would “stifle” innovation and “harm consumers in Europe and around the world” though it’s not clear _how_ the company came to that conclusion. It’s fair to say that companies like Apple generally prefer to set trends rather than be forced to follow them.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Can You Use Any Old USB-C Cable?
 
  You should be able to use most USB-C cables to charge your iPhone, though it’s worth noting that not all USB-C cables are made to the same standard. You’re better off using [a recognizable brand like Anker, Spigen, and Belkin](https://games-able.techidaily.com/bypassing-steam-disconnection-in-windows-11/). There are also telltale signs to look for so that you can tell [whether a USB-C cable supports fast charging](https://extra-tips.techidaily.com/soundtracking-dreams-an-overview-of-magix-fx/).
@@ -72,6 +134,26 @@ Apple
  Once upon a time, there were incidents where non-compliant [USB-C cables caused damage to hardware](https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/). Some smartphone manufacturers (looking at you, Oppo) shipped cables that could potentially harm other manufacturer’s devices. Finding a cable that’s fully compliant with USB-C specifications should eliminate risk, and it’s a lot easier to do this now than it was back in 2016.
 
  On top of a compliant cable (which Apple should include in the box), you’ll need a suitably powerful 20w or better USB-C adapter to fast charge your iPhone. Check out [our list of best phone chargers](https://some-techniques.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc-for-2024/) and [best portable battery packs](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) for some ideas.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  What About Your Old Lightning Cables?
 
@@ -91,6 +173,20 @@ Hannah Stryker / How-To Geek
 
 ![iPhone 15 Pro being used in a photo shoot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_shooting.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Apple
 
  Apple didn’t just ditch Lightning on the iPhone 15, the company also [updated the AirPods Pro to include USB-C charging](https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-f15-5g-pc-drfone-by-drfone-android/).
@@ -109,3 +205,48 @@ Apple
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-tailor-made-fee-free-epilogue-music-templates/"><u>[New] Tailor-Made, Fee-Free Epilogue Music Templates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlock-business-potentials-with-these-leading-15-facebook-market-analyzers-for-2024/"><u>[New] Unlock Business Potentials With These Leading 15 Facebook Market Analyzers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-converting-your-clips-upload-to-youtube-via-premiere/"><u>[Updated] Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premium-audio-playwright-craftsmanship/"><u>[Updated] In 2024, Premium Audio Playwright Craftsmanship</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device/"><u>[Updated] In 2024, Proper Techniques to Snag Free, Secure VLC on a Mac Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-frp-bypass-by-drfone-android/"><u>About Infinix FRP Bypass</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-web-browsing-and-live-sports-updates-google-chromes-latest-features/"><u>Enhanced Web Browsing & Live Sports Updates: Google Chrome's Latest Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-siris-smarts-how-apples-ai-boosts-app-intelligence/"><u>Enhancing Siri's Smarts: How Apple's AI Boosts App Intelligence</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-retro-game-experience-on-your-iphone-for-free-without-needing-to-jailbreak/"><u>Enjoy Retro Game Experience on Your iPhone for FREE Without Needing to Jailbreak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-upgrades-needed-for-apples-next-big-thing-the-new-iphone/"><u>Essential Upgrades Needed for Apple's Next Big Thing - The New iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-projecting-iphone-visuals-on-your-mac-monitor/"><u>Expert Tips for Projecting iPhone Visuals on Your Mac Monitor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-curious-absence-of-smartphones-in-film-antagonist-scenes-the-iphone-exclusion/"><u>Exploring the Curious Absence of Smartphones in Film Antagonist Scenes: The iPhone Exclusion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-apple-sports-mobile-app-now-available-top-entertainment-for-enthusiastic-spectators/"><u>Free Apple Sports Mobile App Now Available: Top Entertainment for Enthusiastic Spectators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-common-problems-with-apple-carplay-for-a-seamless-driving-experience/"><u>How to Fix Common Problems with Apple CarPlay for a Seamless Driving Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improving-apple-carplay-a-list-of-7-key-upgrades-for-a-superior-driving-companion/"><u>Improving Apple CarPlay: A List of 7 Key Upgrades for a Superior Driving Companion</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-the-new-feature-in-google-chrome-sharing-tab-groups-made-easy/"><u>Introducing the New Feature in Google Chrome: Sharing Tab Groups Made Easy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-set-to-receive-significant-boost-in-web-application-experience/"><u>IPhone & iPad Set to Receive Significant Boost in Web Application Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-update-discovering-the-newest-ios-and-ipados-versions/"><u>IPhone and iPad Update: Discovering the Newest iOS and iPadOS Versions!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locating-secret-pictures-within-your-iphones-gallery/"><u>Locating Secret Pictures Within Your iPhone's Gallery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-your-productivity-with-iphone-shortcuts-tips-and-tricks-for-beginners/"><u>Maximizing Your Productivity with iPhone Shortcuts – Tips & Tricks for Beginners</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigate-with-caution-how-waze-alerts-you-to-hazardous-routes/"><u>Navigate with Caution: How Waze Alerts You to Hazardous Routes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/newly-iphone-digital-identification-accepted-by-another-american-region/"><u>Newly iPhone Digital Identification Accepted by Another American Region</u></a></li>
+<li><a href="https://os-tips.techidaily.com/newly-launched-ipad-air-and-ipad-pro-available-for-purchase-get-your-hands-on-them-now/"><u>Newly Launched iPad Air and iPad Pro Available for Purchase - Get Your Hands On Them Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcoming-hesitation-why-i-chose-the-oura-ring-despite-disliking-subscriptions/"><u>Overcoming Hesitation - Why I Chose the Oura Ring Despite Disliking Subscriptions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/quick-fix-getting-snapchat-installed-on-mac-for-2024/"><u>Quick Fix Getting Snapchat Installed on Mac for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revitalizing-your-aging-iphone-simple-steps-to-refresh-and-optimize/"><u>Revitalizing Your Aging iPhone: Simple Steps to Refresh and Optimize</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-call-quality-a-comprehensive-guide-for-restoring-audio-in-iphone-and-android-phones/"><u>Reviving Call Quality: A Comprehensive Guide for Restoring Audio in iPhone & Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-satechi-charging-solutions-now-compatible-with-qi2-and-magsafe-standards/"><u>Revolutionary Satechi Charging Solutions: Now Compatible with Qi2 & MagSafe Standards</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-home-entertainment-the-formidable-impact-of-gamesirs-g8-galileo/"><u>Revolutionizing Home Entertainment: The Formidable Impact of GameSir's G8 Galileo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-discord-cpu-overuse/"><u>Ultimate Guide to Resolving Discord CPU Overuse</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-revolutionize-your-audio-workflow-with-these-five-leading-ducking-software-titles/"><u>Updated Revolutionize Your Audio Workflow with These Five Leading Ducking Software Titles</u></a></li>
+</ul></div>
+
+
+
+

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest Innovations: Over Ten Fresh Capabilities on Your iPhone - Get Tutorials and Mastery Techniques"
-date: 2024-08-27 16:36:39
-updated: 2024-08-29 12:38:49
+date: 2024-09-10T10:45:16.261Z
+updated: 2024-09-11T10:45:16.261Z
 tags:
   - ios
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 ---
 
 ## Explore the Latest Innovations: Over Ten Fresh Capabilities on Your iPhone - Get Tutorials and Mastery Techniques
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -26,6 +40,20 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 
  Apple has published the official release notes for [iOS 17.5](https://support.apple.com/118723#a175), [iPadOS 17.5](https://support.apple.com/118702#a175), and [macOS 14.5](https://support.apple.com/109035) on the web. The relevant security fixes are detailed in a [dedicated support document](https://support.apple.com/HT201222).
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  Downloading Apps From Websites
 
  iOS 17.5 lets everyone in the European Union (EU) install apps directly from websites as part of Apple’s compliance with the bloc’s Digital Markets Act.
@@ -37,6 +65,20 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
  Apple strongly discourages sideloading, as evidenced by a bunch of scare screens EU users see when using Web Distribution.
 
  It’s unclear if the App Store will label the apps available via developer websites. Stay tuned to HTG to learn what major apps might be available for web distribution.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Expanded Anti-Stalking Measures
 
@@ -52,11 +94,53 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 
 ![Sony's over-ear headphones set against a colorful gradient background.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/sony-wh-1000xm5-headphones-three-quarters-view.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  The New Quartiles Word Game
 
  Quartlies is a new word game for News+ subscribers in the US and Canada, which joins Crossword and Crossword Mini in the News app on iPhone, iPad, and Mac. To get started hit the “Following” tab, select “Puzzles” in the sidebar, and choose “Quartiles” at the top.
 
 ![Puzzles section in the iPhone's News app with the Quartiles word game highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-puzzles-section-quartiles-word-game-selected.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  The game has you combining word fragments shuffled on a 4x5 grid into whole words.
 
@@ -66,6 +150,20 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 
 ![Apple iOS 17.5 News App Quartiles Game Word Tiles](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-tiles.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Close 
 
  The more tiles a word has, the more points you get. A four-tile word, called a quartile, earns you eight points. There are five quartiles on each level, good for a 40-point bonus.
@@ -74,9 +172,37 @@ Close
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Third Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-third-splash-screen.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fourth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fourth-splash-screen.png) 
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fifth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fifth-splash-screen.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Close 
 
@@ -86,7 +212,35 @@ Close
 
 ![Choosing the Rankings option from the contextual menu while playing Quartiles in the News app on iPhone.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-contextual-menu-rankings-option-selected.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![The Ranking screen while playing the Quartiles word game in the News app on iPhone.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-quartiles-rankings.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Close 
 
@@ -98,11 +252,39 @@ Close
 
 ![Game Center on iPhone with the Quartiles Daily Score section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-game-center-apple-news-leaderboards-choose-word-game.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Game Center on iPhone showcasing global daily leaderboards for the Quartiles word game](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-game-center-quartiles-daily-scores-global-leaderboard.png) 
 
 Close 
 
  These games require News+. If you’re not a subscriber, check out [these Wordle-like alternatives](https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-c55-by-drfone-android/) for tabletop and mobile gamers that are perfect for fun alone or on family game nights.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Offline Mode Improvements for News+ Subscribers
 
@@ -118,6 +300,20 @@ Close
 
 ![Offline status bar in Apple's News app on iPhone displaying a Check for New Stories link.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-offline-mode-check-new-stories-link-1.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  In iOS 17.4, your offline mode indication is trying to load a new article.
 
  Keep in mind that offline mode requires a News+ subscription.
@@ -128,6 +324,20 @@ Close
 
 ![Apple News app setting on iPhone in iOS 17.4, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Apple News app setting on iPhone in iOS 17.5, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
 
 Close 
@@ -135,6 +345,26 @@ Close
  Likewise, the “Automatic Downloads” section has been renamed “News+ Offline Mode.”
 
 ![Apple News app settings on iPhone in iOS 17.4, with the Automatic Downloads section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-4-news-app-iphone-settings-automatic-downloads-highlighted.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![Apple News app settings on iPhone in iOS 17.5, with the News+ Offline Mode section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-iphone-settings-news-plus-offline-mode-highlighted.png) 
 
@@ -152,11 +382,59 @@ Close
 
 ![Apple News app on iPhone with the Saved Stories section selected.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-option-selected.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Apple News app on iPhone with the Clear button in the Saved Stories section highlighted..](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-button-highlighted.png) 
 
 ![Apple News app on iPhone displaying a confirmation prompt to clear saved stories.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-saved-stories-prompt.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Close 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Fighting Spam Calls on Group FaceTime
 
@@ -188,6 +466,20 @@ Close
 
 ![Browsing wallpaper collections in Settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-settings-app-add-new-wallpaper-pride-collection.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Swiping to change wallpaper color in Settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-settings-app-add-new-wallpaper-pride-radiance-swipe-change-color.jpg) 
 
 ![The dynamic 'Pride Radiance' wallpaper on iPhone's Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-iphone-lock-screen-pride-radiance-wallpaper.jpg) 
@@ -204,15 +496,89 @@ Close
 
 ![The iPhone's Find My app with the Remove This Device option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-remove-iphone.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Find My on iPhone displaying a Repair State confirmation prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-remove-iphone-confimration-prompt.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 !['Ready for Repair' banner in the iPhone's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-iphone-repair-state-banner.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Close 
 
  Your iPhone continues to function normally when in the Repair State mode. Find My and Activation Lock continue to work, and the device can be put in Lost Mode. An iPhone in a repair state is labeled with a small stethoscope icon in the device list.
 
 ![Find My showing an iPhone with a stethoscope icon denoting Repair State is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-device-list-iphone-repair-state-stethoscope-icon-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Repair State currently only works with iPhones.
 
@@ -228,9 +594,51 @@ Close
 
 ![iOS 17.5 Apple Podcasts Widget Yellow Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-yellow-color-home-screen.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![iOS 17.5 Apple Podcasts Widget Red Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-red-color-home-screen.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![iOS 17.5 Apple Podcasts Widget Brown Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-brown-color-home-screen.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Close 
 
@@ -240,9 +648,49 @@ Close
 
 ![iOS 17.4 Privacy settings with Passkeys Access for Web Browsers highlighted](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-4-settings-app-privacy-and-security-passkeys-access-highlighted-1.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![iOS 17.5 Privacy settings with Passkeys Access for Web Browsers highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-settings-app-privacy-and-security-passkeys-access-highlighted-1.png) 
 
 Close 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  A Redesigned Reading Goal Progress Indicator
 
@@ -254,6 +702,26 @@ Close
 
 Close 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  Privacy Prompts for Altitude Data
 
  iOS 17.5 seeks Motion & Fitness permission when apps like hiking trackers request altitude data. iOS 17.4 debuted this privacy prompt but didn’t consistently enforce it.
@@ -261,6 +729,20 @@ Close
 ##  3 New iPad-Only Features in iPadOS 17.5
 
  Most (if not all) new iPhone features in iOS 17.5 also work on Apple's tablets. However, iPadOS 17.5 brings three enhancements specifically designed for Apple's tablets.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Support for Upcoming New iPad Pros
 
@@ -292,3 +774,67 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-dare-greatly-with-these-10-movies-that-matter-most/"><u>[New] 2024 Approved Dare Greatly with These 10 Movies That Matter Most</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-saving-scenes-a-rundown-of-the-best-facebook-extensions/"><u>[New] In 2024, Saving Scenes A Rundown of the Best Facebook Extensions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leading-10-capture-applications-for-online-tutorials/"><u>[New] Leading 10 Capture Applications for Online Tutorials</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mac-enthusiasts-take-on-screenflow-software-review/"><u>[Updated] 2024 Approved Mac Enthusiast's Take on ScreenFlow Software Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-a-to-z-guide-to-recording-games-using-obs-for-2024/"><u>[Updated] The A-to-Z Guide to Recording Games Using OBS for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transforming-viewers-experience-the-impact-of-text-on-youtube-media-for-2024/"><u>[Updated] Transforming Viewers' Experience The Impact of Text on YouTube Media for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-top-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>2024 Approved FREE Top 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-primes-favorites-highest-tweets-and-view-counts-analysis/"><u>2024 Approved Prime's Favorites Highest Tweets & View Counts Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-scale-up-achieving-extended-facebook-coverage/"><u>2024 Approved Scale Up Achieving Extended Facebook Coverage</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-stock-strategy-streams-the-most-valuable-online-sources/"><u>2024 Approved Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
+<li><a href="https://os-tips.techidaily.com/alpaka-go-sling-assessment-ideal-protective-cover-tailored-for-devoted-ipad-users/"><u>Alpaka Go Sling Assessment: Ideal Protective Cover Tailored for Devoted iPad Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-watch-an-ideal-secondhand-gift-option/"><u>Apple Watch: An Ideal Secondhand Gift Option</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/bridging-past-and-present-successfully-live-streaming-recorded-media-for-2024/"><u>Bridging Past and Present Successfully Live-Streaming Recorded Media for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/capturing-ideas-and-emotions-expert-tips-on-utilizing-apples-journal-application-for-ios-devices/"><u>Capturing Ideas and Emotions: Expert Tips on Utilizing Apple's Journal Application for iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-nomad-stand-one-max-assessment-analyzing-the-triple-threat-magsafe-charging-station/"><u>Comprehensive Nomad Stand One Max Assessment: Analyzing the Triple-Threat MagSafe Charging Station</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>In 2024, Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g-5g-2023-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G 5G (2023) Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>In 2024, Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-our-virtual-co-pilot-chatgpt-active/"><u>Is Our Virtual Co-Pilot, ChatGPT, Active?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locating-lost-iphones-a-step-by-step-guide-using-your-android/"><u>Locating Lost iPhones: A Step-by-Step Guide Using Your Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-iphone-based-gaming-with-our-essential-tips-and-tricks/"><u>Master the Art of iPhone-Based Gaming with Our Essential Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-adaptive-audio-function-in-airpods-pro-for-superior-soundscape-control/"><u>Mastering the Adaptive Audio Function in AirPods Pro for Superior Soundscape Control</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-fog-only-clarity-gopro-lens-care-essentials/"><u>No Fog, Only Clarity GoPro Lens Care Essentials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-installing-the-latest-gtx-1660-drivers/"><u>Quick Guide to Installing the Latest GTX 1660 Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-accidentally-deleted-iphone-voicemail-easy-methods-explored/"><u>Recovering Accidentally Deleted iPhone Voicemail: Easy Methods Explored</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revamped-third-party-sonos-application-solves-speaker-problems/"><u>Revamped Third-Party Sonos Application Solves Speaker Problems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-a-dead-iphoneipad-screen-essential-solutions-for-powering-on/"><u>Reviving a Dead iPhone/iPad Screen: Essential Solutions for Powering On</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-listening-experience-apple-podcasts-introduces-auto-generated-subtitles/"><u>Revolutionize Your Listening Experience: Apple Podcasts Introduces Auto-Generated Subtitles</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rising-costs-the-increasing-price-of-apple-battery-replacement-services/"><u>Rising Costs: The Increasing Price of Apple Battery Replacement Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/score-the-best-bargain-on-apples-m1-ipad-air-prices-dropped-significantly/"><u>Score the Best Bargain on Apple's M1 iPad Air – Prices Dropped Significantly!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-transfer-how-to-move-your-google-images-seamlessly-into-the-cloud-on-icloud/"><u>Simple Transfer: How to Move Your Google Images Seamlessly Into the Cloud on iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-ios-push-alerts-and-hiding-lockscreen-notifications/"><u>Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/struggling-to-locate-your-essential-mobile-app-on-demand/"><u>Struggling to Locate Your Essential Mobile App on Demand?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/submerge-your-device-safely-secure-your-phone-from-splashes-and-spills-with-esrs-cutting-edge-aquatic-pouch-for-iphones/"><u>Submerge Your Device Safely: Secure Your Phone From Splashes and Spills with ESR's Cutting-Edge Aquatic Pouch for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-truth-behind-unremarkable-smartphone-aesthetics-quality-over-style/"><u>The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-switch-why-i-made-the-transition-to-a-cellular-enabled-ipad/"><u>The Ultimate Switch: Why I Made The Transition To A Cellular-Enabled iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-solutions-to-extend-your-apple-watchs-battery-life/"><u>Top 10 Solutions to Extend Your Apple Watch's Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-choice-after-testing-endless-ipad-mini-keyboard-case-options-a-comprehensive-review/"><u>Top Choice After Testing Endless iPad Mini Keyboard Case Options: A Comprehensive Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-iphone-15-leather-protectors-ultimate-selection/"><u>Top-Rated iPhone 15 Leather Protectors: Ultimate Selection</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-ipad-experience-top-8-revolutionary-ipados-18-enhancements/"><u>Transform Your iPad Experience: Top 8 Revolutionary iPadOS 18 Enhancements</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-solutions-restoring-sound-during-calls-on-your-ios-and-android-devices/"><u>Troubleshooting Solutions: Restoring Sound During Calls on Your iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-tackle-and-prevent-rapid-apple-watch-power-depletion/"><u>Ultimate Guide: How to Tackle and Prevent Rapid Apple Watch Power Depletion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-must-have-magsafe-attachments-for-iphones-2023-edition/"><u>Ultimate Guide: Must-Have MagSafe Attachments for iPhones - 2023 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-elite-iphone-15-skins-and-shells/"><u>Ultimate Selection: Elite iPhone 15 Skins & Shells</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unbeatable-deal-apples-m1-ipad-air-at-its-all-time-low-price/"><u>Unbeatable Deal: Apple's M1 iPad Air at Its All-Time Low Price</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unexpected-art-projects-with-your-mistakenly-made-iphone-portrait-cutter/"><u>Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphones-using-voice-recognition-is-it-safe-and-worth-trying/"><u>Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-adobes-leap-into-future-with-generative-artificial-intelligence-in-express-app-beta-version/"><u>Unveiling Adobe's Leap Into Future with Generative Artificial Intelligence in Express App Beta Version</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-assassins-creed-valhalla-an-immersive-viking-odyssey-through-the-realms-of-darkness-and-light/"><u>Unveiling Assassin's Creed Valhalla: An Immersive Viking Odyssey Through the Realms of Darkness and Light</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-dont-movie-villains-ever-utilize-modern-tech-like-iphones-on-screen/"><u>Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-you-need-an-apple-watch-for-instant-chatting-embrace-its-walkie-talkie-features-today/"><u>Why You Need an Apple Watch for Instant Chatting – Embrace Its Walkie-Talkie Features Today!</u></a></li>
+</ul></div>
+
+
+
+

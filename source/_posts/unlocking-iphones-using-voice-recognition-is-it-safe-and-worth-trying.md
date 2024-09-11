@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-09-05T07:48:22.994Z
-updated: 2024-09-06T07:48:22.994Z
+date: 2024-09-10T10:46:11.716Z
+updated: 2024-09-11T10:46:11.716Z
 tags:
   - ios
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ## Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Unlocking Your iPhone With Your Voice](https://instagram-videos.techidaily.com/updated-instagram-voice-customization-made-easy/)
@@ -24,17 +32,45 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 * [Solving Face ID Issues](https://tech-savvy.techidaily.com/the-comprehensive-guide-to-scholarly-writing-and-ai/)
 * [Unlock Your iPhone With an Apple Watch, Too](https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
  Set up a custom command within Voice Control settings to execute the sequence of button taps required to enter your passcode on your iPhone lock screen, then trigger it with a phrase. Alternatively, avoid putting iPhone security at risk and instead tweak Face ID to improve performance.
 
  A seemingly useful trick for unlocking your iPhone has been doing the rounds on social media which allows you to unlock your iPhone with a simple voice command. While it might sound handy, it's one tip you should probably avoid if you want to keep your device secure.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Unlocking Your iPhone With Your Voice
 
@@ -42,12 +78,20 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Set up Voice Control on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/set_up_voice_control.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Next, you'll need to mark the location of the buttons you'll be using on the "Enter Passcode" screen. Make sure that [Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) doesn't automatically unlock your iPhone (cover the sensor at the top of the screen) and grab something like a whiteboard marker or makeup brush that you can easily wipe off your iPhone screen when you're done.
 
  Physically mark the location of your passcode sequence on the "Enter Passcode" screen. You'll need to remember the sequence yourself, so make a note of the pattern as you're doing so.
@@ -58,29 +102,39 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Tap on "Action" then select "Run Custom Gesture" and (using the marks you made earlier) tap out the unlock sequence used to enter your passcode. Now tap "Save" and then hit the "New Command" button to go back to the previous screen. Hit "Save" one more time and your gesture will be saved.
 
 ![Run custom gesture using Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/run_custom_gesture.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Why Voice Unlocking Is a Bad Idea
 
@@ -92,18 +146,6 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
  This technique is often touted as a way to unlock your iPhone when your hands are dirty, but if you're unlocking your iPhone you're probably going to touch the screen anyway. Don't forget you can always enable Siri from the lock screen under Settings > Siri & Search > Allow Siri When Locked and enable "Hey Siri" while you're there to use your iPhone hands-free without bypassing your passcode.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Solving Face ID Issues
 
  Another argument for this voice command is to solve problems that arise from [Face ID not working properly](https://extra-support.techidaily.com/new-premium-panzoid-structure-packs/). Unlocking your iPhone using facial recognition is fast and convenient, and you should use the feature if you have an iPhone that supports it. If you're having trouble, you might want to try re-scanning your appearance under Settings > Face ID & Passcode > Reset Face ID.

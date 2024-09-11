@@ -1,7 +1,7 @@
 ---
 title: "Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe"
-date: 2024-09-05T07:48:25.333Z
-updated: 2024-09-06T07:48:25.333Z
+date: 2024-09-10T10:46:13.962Z
+updated: 2024-09-11T10:46:13.962Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10382aff0b3452de9d0f47411.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe
 
 Zooming in and out by pinching and spreading two fingers on a map feels like magic—it's the most natural gesture on our phones. However, if you only have one hand free to hold your phone with, a two-finger gesture is nearly impossible. Google Maps has a handy trick for this very reason.

@@ -1,7 +1,7 @@
 ---
 title: "Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone"
-date: 2024-09-05T07:48:23.114Z
-updated: 2024-09-06T07:48:23.114Z
+date: 2024-09-10T10:46:11.843Z
+updated: 2024-09-11T10:46:11.843Z
 tags:
   - ios
 categories:
@@ -11,16 +11,44 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ## Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Play a Video in iPhone's Photos App in a Loop](https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-t2x-5g-by-drfone-android/)
 * [Make a YouTube Video Play in a Loop on iPhone](https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -44,12 +72,6 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Choose "Slideshow" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-make-slideshow-iphone.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Photos will play your video as a slideshow, but this slideshow has a specific theme, background music, and only plays once (not on loop). To change these settings, in the slideshow's bottom-right corner, tap "Options."
 
 ![Select "Options" at the lower-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/3-iphone-slideshow-options.png) 
@@ -58,28 +80,24 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select "Theme."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-iphone-slideshow-theme.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the "Themes" screen, choose a simple theme so you can focus on your video. "Origami" is a good option. Then, in the top-left corner, tap "Back."
 
 ![Choose "Origami" and tap "Back."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-change-iphone-slideshow-theme.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Turn off the slideshow music so you can hear your video's audio. Do this by selecting "Music" and tapping "None." Then go back to the previous page.
 
 ![Select "Music" and tap "None."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-disable-iphone-slideshow-music.png) 
@@ -88,15 +106,37 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Enable "Repeat" and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-loop-iphone-slideshow.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Photos will take you back to your video screen. Here, your video will play in a loop until you manually close it.
 
  And that's how you continue to watch your favorite videos on your iPhone!
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Make a YouTube Video Play in a Loop on iPhone
 
@@ -108,28 +148,38 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select the three dots in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-youtube-video-menu.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  From the open menu, select "Loop Video."
 
 ![Tap "Loop Video" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-loop-youtube-video.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  And YouTube will keep playing the same video until you disable the loop. You can turn off the loop feature by tapping the same three dots and choosing "Loop Video." Enjoy!
 
 <ins class="adsbygoogle"

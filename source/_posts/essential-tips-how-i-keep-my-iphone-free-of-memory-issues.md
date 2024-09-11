@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: How I Keep My iPhone Free of Memory Issues"
-date: 2024-09-05T07:48:25.386Z
-updated: 2024-09-06T07:48:25.386Z
+date: 2024-09-10T10:46:14.013Z
+updated: 2024-09-11T10:46:14.013Z
 tags:
   - ios
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496eb332810c3bf1138a8452ea4.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Essential Tips: How I Keep My iPhone Free of Memory Issues
 
 ### Quick Links
@@ -34,6 +48,20 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Delete App pop-up on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-01-delete-app.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  For a better idea of what’s taking up the most space, open the Settings app and select General > iPhone Storage, then scroll down to the app list, which displays file size next to each app’s name. To delete an app, select it from the list and tap “Delete” to delete it entirely. Or tap “Offload App” to [delete the app but save its data](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-zero-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) separately so your progress and settings will remain if you reinstall it.
 
 ![Offload App and Delete App options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-02-offload-or-delete-app.jpg) 
@@ -46,12 +74,20 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![App download history on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-04-redownload.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 2  Clear Out Your Deleted Photos 
 
  The Photos app also hangs onto deleted photos and videos for up to 30 days, in case you didn’t mean to delete them or change your mind after a few days. This means they’re not really gone right after you decide to get rid of them.
@@ -60,19 +96,35 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Recently Deleted photos menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-05-recently-deleted.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Tap “Select” in the top-right corner, then tap the three dots (…) that appear in the bottom-right corner. Choose “Delete All” from the pop-up menu, then tap “Delete From This iPhone” to permanently delete everything in your Recently Deleted folder. You'll want to do this regularly to keep your iPhone storage free.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3  Pay Attention to the Size of Downloads 
 
@@ -82,12 +134,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![App file size info on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-06-app-store-info.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Something to keep in mind is that some apps and games (particularly [live service games](https://facebook-video-share.techidaily.com/unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube-for-2024/)) often download even more data once you start them up for the first time. Since I'm always trying to keep my iPhone storage free, I'm very particular about which large apps I download in the first place.
 
 ## 4  Move Photos and Videos to the Cloud 
@@ -98,28 +144,58 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Sync This iPhone toggle for iCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-07-icloud-sync.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  After uploading, you'll want to Settings > Photos > Optimize iPhone Storage to make your iPhone automatically save space by reducing the size of photos kept on your device. Be aware that you only get 5GB of iCloud storage for free. More than that will require [paying for more storage space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/).
 
  Alternatively, you can [use Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/) (which offers up to 15GB of storage for free). Open the Google Drive app, or download it first and sign in if it’s not already on your iPhone, then open the Google Drive folder you want to transfer items to.
 
 ![Upload file option in Google Drive app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-08-google-drive.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Tap the plus (+) icon in the bottom-right corner and select “Upload File” from the pop-up menu. Choose “Photos and Videos” (you may need to give the app access to your Photo Library first), select one or more photos or videos, then tap “Done.”
 
  Choose the “Recents” album from the pop-up menu and select the files again, then tap “Upload” to transfer them to the selected Google Drive folder.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5  Adjust the Photo and Video Settings 
 
  While apps and games tend to take up more space per item, your photo and video library can start to take up a large chunk of space with everything combined. It’s possible to slow down this encroaching buildup of media files by choosing format settings that reduce their overall file size.
@@ -130,28 +206,24 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Record Video resolution and fps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-10-record-video-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Back in the Camera menu, select “Formats” and change the Camera Capture setting to “High Efficiency.” Turn off the toggle next to “Apple ProRAW” to reduce photo file sizes, too.
 
 ![Apple ProRAW toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-12-apple-proraw.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ## 6  Use an Old Phone for Spillover 
 
  If you recently—or even not so recently—replaced your smartphone with the iPhone you’re using now, and it still works, you’ve got the makings of a convenient extra storage location for all sorts of things.

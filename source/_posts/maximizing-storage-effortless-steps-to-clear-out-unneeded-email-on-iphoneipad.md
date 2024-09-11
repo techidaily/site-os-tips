@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad"
-date: 2024-09-05T07:48:21.691Z
-updated: 2024-09-06T07:48:21.691Z
+date: 2024-09-10T10:46:10.466Z
+updated: 2024-09-11T10:46:10.466Z
 tags:
   - ios
 categories:
@@ -9,20 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d87cf3ec60cf74c68f02c2fe.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad
+
 ### Quick Links
 
 * [See How Much Space Mail is Using](https://tech-revival.techidaily.com/navigating-privacy-hazards-the-three-main-dangers-of-conversing-through-ai-chatbots/)
@@ -31,6 +33,26 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 * [Limit the Number of Emails Your Service Provides to Mail](https://extra-guidance.techidaily.com/new-reinstate-windows-photo-viewer-on-windows-10-dual-fixes-explained/)
 * [Use Another Email App instead of Mail](https://youtube-web.techidaily.com/ed-2024-approved-taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/)
 * [Delete the Entire Mail App](https://twitter-videos.techidaily.com/go-live-on-twitter-a-practical-guide-for-2024/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -46,28 +68,64 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Open Settings, then go to General > iPhone Storage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-iphone-storage.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Scroll down in the list and look for the Mail app. This displays how much space is used by "Mail and Attachments." 
 
 ![The Mail app in the storage list. It shows 125 megabytes in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-mail.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Bad Solution: Manually Delete Emails
 
  If you're feeling particularly masochistic, you can do this the old-fashioned way. Just open the Mail app and start deleting emails—especially emails with attachments. Select the emails, tap "Move," and move them to the Trash. Be sure to empty the trash afterwards.
@@ -76,22 +134,24 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Tap the three-line button in the bottom left, then tap the "Filter By" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-tap-three-line-button-tap-filter-by.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Tap the toggle next to 
 
 ![Filters from the mail app, including "Only Mail with Attachments," "Only from VIP," and "Only Mail Sent Today."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-only-mail-with-attachments.png) 
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **You probably don't want to do this!** Any emails you delete from your phone will be deleted from the server if you [use IMAP for your email](https://fox-glue.techidaily.com/2024-approved-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/), which you probably do. Even if this wasn't a problem, this would take a long time. There's also no way to delete an attachment from an email—you just have to delete the entire email.
 
 ##  A Better Solution: Remove and Re-Add the Account
@@ -104,21 +164,23 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Tap the "Delete Account" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-delete-gmail-account.png) 
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, power down your iPhone or iPad and start it back up to ensure all offline caches are completely cleared. Open the Mail app and you'll be asked to provide your email account details again. 
 
  Your iPhone will start downloading emails again, but this will clear out that old backlog of cached emails and file attachments.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Limit the Number of Emails Your Service Provides to Mail
 
@@ -138,6 +200,20 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Once you set up your new email app, you can then remove your email accounts from the built-in Mail app using the instructions above, and it won't download emails or use any space at all. If you want to keep syncing calendars and contacts with an account but not use it in the Mail app, head to Settings > Mail > Accounts, tap the name of an account and disable the "Mail" slider for that account. You'll still have your address book and calendar, but email won't take up any space.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Delete the Entire Mail App 
 
  If you want to get rid of every piece of data from the Mail app, you've always got the nuclear option: delete the entire thing. You can always [reinstall the Mail app from the App Store](https://apps.apple.com/us/app/mail/id1108187098) if you want, and deleting the app will not remove any emails from the email server. All you need to do to access them again is redownload the app and sign in or access your email through your browser. 
@@ -146,12 +222,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Delete the entire Mail app to free up all of your space.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-delete-app.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Unfortunately, Apple's Mail app—both on mobile devices and Macs—doesn't offer a lot of control over how much storage it uses. Phone storage is not as limited as it once was but losing a few gigabytes to emails you probably don't need or want cached locally is still aggravating.
 
 <ins class="adsbygoogle"

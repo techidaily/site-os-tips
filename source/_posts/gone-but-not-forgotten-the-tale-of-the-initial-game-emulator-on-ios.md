@@ -1,7 +1,7 @@
 ---
 title: "Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS"
-date: 2024-09-05T07:48:25.427Z
-updated: 2024-09-06T07:48:25.427Z
+date: 2024-09-10T10:46:14.051Z
+updated: 2024-09-11T10:46:14.051Z
 tags:
   - ios
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c98436797dfa7a745296f54d142.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS
 
 Apple officially started allowing “retro game console emulator apps” in the App Store earlier this month, though it wasn’t clear what exactly was allowed. The first emulator app to test that new rule has already been removed.
@@ -25,12 +39,20 @@ Apple officially started allowing “retro game console emulator apps” in the 
 
 ![Screenshot of iGBA in the App Store, with screenshots on an iPhone and iPad of a Pokemon game running.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/igba.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [PCMarket](https://www.pcmarket.com.hk/apple-first-approved-emulator-igba-had-been-pull-down-from-app-store/)
 
  Riley Testut, one of the original developers of GBA4iOS and creator of the spiritual successor [Delta](https://github.com/rileytestut/Delta), said on Threads that iGBA was a “knock-off” created without his knowledge or permission. However, GBA4iOS is an open-source project that was never published to the App Store—for people unable to install workarounds like AltStore, it was the only option.

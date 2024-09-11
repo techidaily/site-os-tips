@@ -1,7 +1,7 @@
 ---
 title: "IPhone 15 Pro: Unveiling the New Features - Including Action Buttons & USB Type-C"
-date: 2024-09-05T07:48:25.557Z
-updated: 2024-09-06T07:48:25.557Z
+date: 2024-09-10T10:46:14.171Z
+updated: 2024-09-11T10:46:14.171Z
 tags:
   - ios
 categories:
@@ -9,18 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f09146348f5ebcda0ff8ce585d15359.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983551">
+<span id="1982456">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## IPhone 15 Pro: Unveiling the New Features - Including Action Buttons & USB Type-C
 
 It's September, which means it's time for Apple to announce new stuff. The company has finally announced its 2023 range of iPhones, the [iPhone 15 series](https://youtube-data.techidaily.com/approved-sound-strategies-tailoring-your-microphone-to-align-with-your-youtube-channel/), and we also have our first official look at this year's iPhone 15 Pro and 15 Pro Max. Many of the rumored improvements are present, but there are also a few surprises.
@@ -31,12 +39,20 @@ It's September, which means it's time for Apple to announce new stuff. The compa
 
 ![screenshot 09-12-2023-135939-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot-09-12-2023-135939-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Apple
 
  The phone also comes with all the same general improvements that came with the iPhone 15\. This means that the proprietary Lightning port is going away, and is being replaced with a good old USB-C port — a long-overdue change that means iPhones and Android phones can finally use the same chargers. Apple had moved away from Lightning on its iPad lineup, and it looks like it's finally doing the same thing with its remaining Lightning devices. Standardization is always good news.

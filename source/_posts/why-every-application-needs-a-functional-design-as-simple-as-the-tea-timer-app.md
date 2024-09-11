@@ -1,7 +1,7 @@
 ---
 title: Why Every Application Needs a Functional Design as Simple as the Tea Timer App
-date: 2024-09-05T07:48:21.994Z
-updated: 2024-09-06T07:48:21.994Z
+date: 2024-09-10T10:46:10.752Z
+updated: 2024-09-11T10:46:10.752Z
 tags:
   - ios
 categories:
@@ -9,22 +9,44 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/teahtg.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Why Every Application Needs a Functional Design as Simple as the Tea Timer App
 
 It may sound simple, but my favorite app lately has been a timer. Specifically, a timer for steeping tea. You may not drink the multiple cups a day that I do, but I want to talk about what makes it a generally outstanding mobile app.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Cuppa Is a Niche But Model App
 
  In my phone, there are two types of apps: ones that are useful and ones I enjoy using. These apps are rarely the same because it seems like every app serving my needs is also designed to do things I don't want, like hypnotize me with algorithmic entertainment or just sell me laundry detergent.
@@ -41,30 +63,40 @@ Close
 
  Cuppa is how I wish every app experience was: free of ads, free of corporate tracking, and built to just get out of the way and let you do what you got the app to do. There are robust customization settings enthusiasts like me can tweak, but the defaults will likely serve you well. It feels like a return to form in [mobile apps' long history](https://digital-screen-recording.techidaily.com/updated-the-ez-grabber-user-manual-in-a-nutshell-for-2024/).
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It Isn't Perfect
 
  One drawback is that, because there's no account registration involved, all of your data is saved to your phone or tablet instead of to a cloud somewhere. That means if you delete the app or change to a different device, you'll lose your settings and (if enabled) timer usage stats. Fortunately, if you manage to export your data (an option in the settings menu), you can import it into a new instance of the Cuppa app. Just be aware that's completely up to you; there's no service that will take care of that for you.
 
  Beyond that, my only real gripe is about the timer alarm. It's the sound of a ceramic teacup clattering that, while cute, feels a bit abrasive to me. I wish I could change it to something softer, but at least in the Android app I've not been able to find that option.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  More Apps Should Be Like This
 
  I like it when an app just lets me do what I got it to do. I'm driven up a wall when I have to watch a splash screen, sign up or log in, look at ads, decline the paid subscription, and so on just to get a simple job done like timing my tea brew.

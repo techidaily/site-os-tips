@@ -1,7 +1,7 @@
 ---
 title: Nomad & Peak Design Unite to Engineer a Durable, Stylish Shield for the Next-Gen iPhone 15 Pro
-date: 2024-09-05T07:48:21.758Z
-updated: 2024-09-06T07:48:21.758Z
+date: 2024-09-10T10:46:10.528Z
+updated: 2024-09-11T10:46:10.528Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/20.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Nomad & Peak Design Unite to Engineer a Durable, Stylish Shield for the Next-Gen iPhone 15 Pro
 
 Those who need a super-durable iPhone 15 Pro case with a bit of extra functionality can now purchase the [Nomad x Peak Rugged](https://peak-design.pxf.io/c/156932/1609019/18669?subId1=UUhtgUeUpU2001753&subId2=ehtg&u=https%3A%2F%2Fwww.peakdesign.com%2Fproducts%2Fnomad-rugged-case-with-slimlink%3Fvariant%3D40148207796301). It's a dense-yet-slim case with extra protection for the iPhone's camera and screen, and it supports the full range of Peak Design SlimLink mountable accessories.
@@ -23,12 +31,26 @@ Those who need a super-durable iPhone 15 Pro case with a bit of extra functional
 
 ![The Nomad x Peak RUGGED case for iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/21.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Nomad x Peak
 
  While this isn't exactly a _new_ product, it's still worth highlighting. Peak Design's excellent [mounting system](https://peak-design.pxf.io/c/156932/1609019/18669?subId1=UUhtgUeUpU2001753&subId2=ehtg&u=https%3A%2F%2Fwww.peakdesign.com%2Fcollections%2Fmobile%23addon-sub) greatly expands the iPhone's usability, especially if you're a content creator, a cyclist, or someone who doesn't trust the weak magnets in Apple's MagSafe wallets. Yeah, you can get the same functionality from Peak Design's [Everyday case](https://peak-design.pxf.io/c/156932/1609019/18669?subId1=UUhtgUeUpU2001753&subId2=ehtg&u=https%3A%2F%2Fwww.peakdesign.com%2Fcollections%2Fmobile%2Fproducts%2Feveryday-case%3Fvariant%3D40285585473613) (which launched for the iPhone 15 Pro some time ago), but the Everyday case isn't ruggedized.

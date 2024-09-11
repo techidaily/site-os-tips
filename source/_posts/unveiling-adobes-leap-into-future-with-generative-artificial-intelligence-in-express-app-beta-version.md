@@ -1,7 +1,7 @@
 ---
 title: Unveiling Adobe's Leap Into Future with Generative Artificial Intelligence in Express App Beta Version
-date: 2024-09-05T07:48:23.008Z
-updated: 2024-09-06T07:48:23.008Z
+date: 2024-09-10T10:46:11.731Z
+updated: 2024-09-11T10:46:11.731Z
 tags:
   - ios
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/10.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Unveiling Adobe's Leap Into Future with Generative Artificial Intelligence in Express App Beta Version
 
 Adobe is bringing more of its Firefly generative AI features to mobile devices. The new [Adobe Express app beta](https://news.adobe.com/news/news-details/2024/New-Adobe-Express-Mobile-App-Brings-Firefly-Generative-AI-Models-Directly-into-Mobile-Workflows-/default.aspx), which will eventually replace the standard Adobe Express app, includes AI-powered features like Generative Fill and [Text to Image](https://www.adobe.com/products/firefly/features/text-to-image.html) effects. It also supports real-time collaboration with the desktop version of Express.

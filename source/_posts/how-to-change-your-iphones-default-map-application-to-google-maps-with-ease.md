@@ -1,7 +1,7 @@
 ---
 title: How to Change Your iPhone's Default Map Application to Google Maps with Ease
-date: 2024-09-05T07:48:23.349Z
-updated: 2024-09-06T07:48:23.349Z
+date: 2024-09-10T10:46:12.088Z
+updated: 2024-09-11T10:46:12.088Z
 tags:
   - ios
 categories:
@@ -17,18 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [First, Make Chrome Your Default Mobile Browser](https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-xr21-location-settings-drfone-by-drfone-virtual/)
 * [Next, Make Gmail Your Default Mailing App](https://youtube-webster.techidaily.com/24-revenue-calculation-for-every-clicked-video/)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can't make Google Maps the default navigation app on an iPhone, but you can when using Chrome and Gmail.
@@ -37,12 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you’re an iPhone user who prefers Google Maps over Apple Maps, you might wonder how to make it the default navigation app. Unfortunately, you can’t. However, there’s a workaround you can use that takes advantage of other Google apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Do You Need a Workaround?
 
  You can’t change the default navigation app for opening map links on your iPhone, Apple makes you use Apple Maps. This isn’t surprising, considering [Apple’s ecosystem is largely closed](https://win-blog.techidaily.com/resolving-game-breaking-crashes-for-star-wars-old-republic-expert-fixes-unlocked/). If you really want to change it, you’d have to jailbreak your iPhone.
@@ -52,6 +34,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Deleting Apple Maps will not force your iPhone to use Google Maps as the default navigation app. Instead, when opening a map link, your phone will prompt you to download Apple Maps again.
 
  Fortunately, since iOS 14, you can change the default browser and [email app on your iPhone](https://win11.techidaily.com/leveraging-advanced-tools-for-improved-admin-workflows-in-windows/). You can set the former to Chrome and the latter to Gmail. Since apps within Google's ecosystem prefer other Google apps, map links opened in Chrome and Gmail will open Google Maps.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  First, Make Chrome Your Default Mobile Browser
 
@@ -65,17 +61,59 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Chrome settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chrome-settings-page-iphone.PNG) 
 
-![Setting the default browser to Chrome in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-chrome-default-browser-iphone.PNG) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![Setting the default browser to Chrome in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-chrome-default-browser-iphone.PNG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Close 
 
  The Chrome option will have a blue checkmark next to it when set as default.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Next, Make Gmail Your Default Mailing App
 
@@ -85,55 +123,87 @@ Close
 
 ![The "Gmail" option in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-gmail-option-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Gmail settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-settings-page-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Setting the default mail app to Gmail in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-default-mail-app-iphone.PNG) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![Setting the default mail app to Gmail in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-default-mail-app-iphone.PNG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Close 
 
  Now open the Gmail app, tap the hamburger menu icon in the top left corner of the screen, and tap "Settings" in the menu.
 
 ![Tapping the hamburger menu in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-inbox-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Selecting the "Settings" option in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-option-gmail-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Tap "Default Apps" on the next screen. Then, in the Navigate From Your Location and Navigate Between Locations sections, tap “Google Maps” to make it the default navigation app for Gmail.
 
 ![The "Default App" option in Gmail's settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/default-apps-option-gmail-iphone.PNG) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Setting Google Maps as the default navigation app in Gmail on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setting-google-maps-default-gmail-iphone.PNG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Close 
 

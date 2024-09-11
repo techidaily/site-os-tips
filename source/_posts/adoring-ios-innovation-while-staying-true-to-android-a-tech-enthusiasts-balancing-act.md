@@ -1,7 +1,7 @@
 ---
 title: "Adoring iOS Innovation While Staying True to Android: A Tech Enthusiast's Balancing Act"
-date: 2024-09-05T07:48:24.100Z
-updated: 2024-09-06T07:48:24.100Z
+date: 2024-09-10T10:46:12.843Z
+updated: 2024-09-11T10:46:12.843Z
 tags:
   - ios
 categories:
@@ -9,26 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b05fd8fefcba56a2f27460108.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Adoring iOS Innovation While Staying True to Android: A Tech Enthusiast's Balancing Act
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Adoring iOS Innovation While Staying True to Android: A Tech Enthusiast's Balancing Act
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [I’m 99% Apple Now](https://instagram-videos.techidaily.com/updated-2024-approved-instagram-edge-video-cutting-techniques-to-boost-engagement/)
@@ -51,6 +67,20 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  I’ve Tried the iPhone Twice
 
  It's that dalliance with Apple Watches that had me butting heads with iPhone. You see, while I was getting along more or less with my Galaxy Watch, my wife convinced me that I should try an Apple Watch, as she loves hers. That's fine, but since Apple has decided that the Watch is strictly an iPhone accessory, I couldn't use my iPad or Mac with it. She had an old iPhone 11 Pro lying around, so we could use that.
@@ -65,6 +95,26 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 
 ![AI generated isometric pixel art representation of an apple iphone inside a walled garden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_isometric_pixel_art_representation_of_an_apple__d1c8c3ba-aac6-407f-83fd-cdea5c783184_3.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  I need my iPad to be like a toaster or a TV. I don't want to tinker with it, it just needs to work. My Mac is already just as open to software as a Windows or Linux machine. Though macOS might complain about software that's not from the Mac App store or digitally signed, it will still begrudgingly let you install it.
@@ -73,46 +123,56 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The iPhone Form Factor Isn’t Great
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Corbin Davenport / How-To Geek
 
  People often say that phones are all the same these days, but that's far from the truth. Hold any two different phones in your hand and the exact shape, weight, materials, and balance will make them feel miles apart. It is this combination of factors that just sits wrong for me when it comes to the iPhone.
 
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
 
  For [flagship phones](https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/) in particular, photos matter. By all accounts, iPhones offer some of the best camera equipment and photos money can buy. However, smartphone photography is just as much about [software post-processing](https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/) as it is about the hardware, and I just can't stand the look of iPhone photos. It's quite hard to pin down why exactly, and this is clearly subjective, but iPhone photos feel a little soulless to me. Maybe the word is "overprocessed", but I have no doubt that the photos from my S22 Ultra are no less processed, just differently.
@@ -125,18 +185,6 @@ Corbin Davenport / How-To Geek
 
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  I’m Willing to Try Again
 
  For the two-and-a-bit years I was a daily iPhone users I can say that there were glimmers of greatness. I definitely loved having all of my Apple devices seamlessly work together and there were use cases I had never considered before. I definitely miss that aspect of using the iPhone, which is a much better device as part of the Apple ecosystem than as a standalone phone.

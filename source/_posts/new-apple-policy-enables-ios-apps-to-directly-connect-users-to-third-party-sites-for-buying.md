@@ -1,7 +1,7 @@
 ---
 title: New Apple Policy Enables iOS Apps to Directly Connect Users to Third-Party Sites for Buying
-date: 2024-09-05T07:48:24.668Z
-updated: 2024-09-06T07:48:24.668Z
+date: 2024-09-10T10:46:13.352Z
+updated: 2024-09-11T10:46:13.352Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## New Apple Policy Enables iOS Apps to Directly Connect Users to Third-Party Sites for Buying
 
 Some iPhone apps will now include outgoing links for in-app purchases. When you open one of these links, you'll be met with a warning—Apple will tell you that it isn't responsible for the privacy or security of your purchases on the general web. This warning is perfectly reasonable, but it shouldn't dissuade you from purchasing items outside the App Store.

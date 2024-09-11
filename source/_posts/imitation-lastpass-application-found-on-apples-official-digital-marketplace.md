@@ -1,7 +1,7 @@
 ---
 title: Imitation LastPass Application Found on Apple's Official Digital Marketplace
-date: 2024-09-05T07:48:24.585Z
-updated: 2024-09-06T07:48:24.585Z
+date: 2024-09-10T10:46:13.276Z
+updated: 2024-09-11T10:46:13.276Z
 tags:
   - ios
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ec001e67.png
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Imitation LastPass Application Found on Apple's Official Digital Marketplace
 
 One of Apple's biggest arguments against adding sideloading to iPhones is the fact that people could get malware and unknowingly install it on their device. According to the company, the job it does at curating apps on the App Store is enough to keep users safe. For this argument to actually have some weight to it, Apple needs to actually do a good job at this "curation" thing, which isn't always the case.
@@ -29,18 +31,20 @@ One of Apple's biggest arguments against adding sideloading to iPhones is the fa
 
 ![lasspass-fake-password-manager-app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/lasspass-fake-password-manager-app.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Juli Clover / MacRumors
 
  It's not clear whether this app is actually malware or not, and we're definitely not taking a chance on it, but it's certainly at least trying to deceive LastPass users, which is already a red flag. Somehow, this made it through Apple's security checks. This kind of thing used to be pretty common on Android's Google Play Store, and it's something Google has thankfully clamped down on.

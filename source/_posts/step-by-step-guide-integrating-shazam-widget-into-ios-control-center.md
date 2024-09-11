@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating Shazam Widget Into iOS Control Center"
-date: 2024-09-05T07:48:23.603Z
-updated: 2024-09-06T07:48:23.603Z
+date: 2024-09-10T10:46:12.354Z
+updated: 2024-09-11T10:46:12.354Z
 tags:
   - ios
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa2ac9dfaad9bb392e5876080.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step Guide: Integrating Shazam Widget Into iOS Control Center
 
 ### Quick Links
@@ -31,6 +19,20 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
  Apple [acquired Shazam](https://www.apple.com/newsroom/2018/09/apple-acquires-shazam-offering-more-ways-to-discover-and-enjoy-music/), a service that listens to and identities music playing around you, in 2018\. Although it's still a standalone app, Apple has integrated its music recognition feature into the iPhone and iPad. Here's how to add a Shazam button to your device's Control Center.
 
  Before we begin, note that you do not need the [Shazam app](https://apps.apple.com/us/app/shazam-music-discovery/id284993459) installed on your iPhone or iPad. What you will need is to be updated to [iOS 14.2](https://www.theverge.com/2020/11/5/21547652/ios-14-2-available-now-download-new-emoji-wallpaper-airplay-2-iphone-ipad-update), iPadOS 14.2, or higher.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Add a Shazam Button to iPhone and iPad Control Center
 
@@ -44,26 +46,56 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 
 ![Tap 'Control Center' in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-control-center.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will now see a list of shortcuts and controls available in the Control Center. Scroll down to the "More Controls" section. Find and tap on the "+" button next to "Music Recognition."
 
 ![Tap the small plus icon next to 'Music Recognition.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-tap-the-plus-icon.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  The Shazam button is now active and will be moved to the "Included Controls" section. Tap and hold on the corresponding three-line handle to rearrange the "Music Recognition" button's placement in the Control Center.
 
 ![Tap and hold the three-line icon, then drag Music Recognition up or down to change where it appears.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-tap-three-line-hamburger-menu.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Use Shazam's Music Recognition Button on iPhone and iPad
 
  Now, with the Shazam button added to your iPhone or iPad, it's time to use the music recognition feature.
@@ -72,37 +104,47 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 
 ![Tap the shazam icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-tap-shazam-button.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Once active and listening for music, the Shazam button will light up and slowly pulse.
 
 ![The Shazam icon turns blue when it is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-shazam-button-is-active.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the song is identified, a banner notification will appear at the top of your display. Tap on it to learn more about the song and artist.
 
 ![The identified song will be displayed at the top of the Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-song-identifeid.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the music isn't recognized after 10 to 15 seconds, a notification will let you know that it couldn't find anything.
 
  The "Music Recognition" notification will also appear on your lock screen and Notification Center if you missed the banner. 
 
 ![The identified song displayed at the bottom of the Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-hey-jude-the-beatles.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  You will be taken to Shazam's website after tapping on the "Music Recognition" notification. Here, you can listen to a preview of the song, add it to your Apple Music library, read the song's lyrics, and more.
 

@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Lending Services in Latest iPhone Update
-date: 2024-09-05T07:48:25.208Z
-updated: 2024-09-06T07:48:25.208Z
+date: 2024-09-10T10:46:13.849Z
+updated: 2024-09-11T10:46:13.849Z
 tags:
   - ios
 categories:
@@ -9,18 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53213662234_b235f75631_o.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975648">
+<span id="1993654">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Apple Introduces New Lending Services in Latest iPhone Update
 
 During its WWDC keynote, Apple quietly revealed that Affirm's Buy Now Pay Later (BNPL) service will be offered when making purchases with Apple Pay. Financing options from Citi, Synchrony, and Fiserv will also find their way into Apple's payment processing platform.
@@ -33,12 +41,20 @@ During its WWDC keynote, Apple quietly revealed that Affirm's Buy Now Pay Later 
 
 ![Person holding an iPhone 15 Pro Max.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53228140359_7acd288927_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Justin Duino / How-To Geek
 
  While the U.S. credit report system is obviously imperfect, its purpose is to protect borrowers, lenders, employers, and other participants in the economy. A lender that operates outside of this system has the potential to negatively impact both everyday people and big businesses. And while the U.S. government is encouraging BNPL services to [work with credit buereaus](https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-opens-inquiry-into-buy-now-pay-later-credit/), both parties are worried that BNPL loans (which typically open and close in the span of a few months) will negatively impact borrowers' scores, thereby creating negative sentiment among borrowers. These lenders don't want to follow the rules that every traditional lender follows.

@@ -1,13 +1,27 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2024-09-05T07:48:22.648Z
-updated: 2024-09-06T07:48:22.648Z
+date: 2024-09-10T10:46:11.372Z
+updated: 2024-09-11T10:46:11.372Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7456b6ffbc01667561900748.png
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications
 
@@ -16,6 +30,20 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 * [The Quick Fix: Turn on "Do Not Disturb" Mode](https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-by-fonelab-android-recover-music/)
 * [The Deeper Fix: Disable Notifications on Lock Screen](https://vp-tips.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Use "Do Not Disturb" mode to easily silence your iPhone or iPad. Launch Control Center, tap the Focus button, and incoming notifications won't wake your device's display.
@@ -23,18 +51,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
 
  Apple includes a feature that can quickly silence any iPhone or iPad called "Do Not Disturb," which is a specific kind of [Focus Mode](https://youtube-data.techidaily.com/24-stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/). While active, Do Not Disturb silences incoming calls, messages, and notifications by default, but this can vary depending on [how you have it set up](https://extra-information.techidaily.com/in-2024-capturing-focus-with-leading-lines-in-iphone-images/).
@@ -43,26 +59,22 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Deeper Fix: Disable Notifications on Lock Screen
 
  If you don't want to use Do Not Disturb mode to keep your iPhone or iPad from lighting up when you receive notifications (if you still want all incoming phone calls to come through, for example), you'll have to [dig into your device's notification settings](https://eaxpv-info.techidaily.com/new-2024-approved-how-to-clear-black-boards-in-your-youtube-videos/).
@@ -73,36 +85,60 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  In Settings, tap "Notifications."
 
 ![Tap "Notifications" in the listed options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-notifications.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  In Notifications, scroll through the list and tap the name of the app that you want to prevent from waking your screen. In this case, we're using Messages as an example, but you could do it for Facebook Messenger, Signal, Twitter, FaceTime, or any other app.
 
 ![We selected the Messages app in the Notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-messages.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  In the app's notification settings, tap "Lock Screen" to uncheck it.
 
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
 
  When you're done, exit Settings, and you'll no longer see notifications from those apps on the lock screen. As a result, notifications from those apps will no longer wake your iPhone's display. Peace at last!

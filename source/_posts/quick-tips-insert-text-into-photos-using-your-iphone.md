@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips: Insert Text Into Photos Using Your iPhone"
-date: 2024-08-28 16:17:35
-updated: 2024-08-29 12:54:46
+date: 2024-09-10T10:38:08.890Z
+updated: 2024-09-11T10:38:08.891Z
 tags:
   - ios
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Quick Tips: Insert Text Into Photos Using Your iPhone
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -46,11 +74,39 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 ![Edit the text box in Markup to add your text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup4.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Tim Brookes / How-To Geek
 
  At the bottom of the screen, you can adjust the font, text size, alignment, formatting, and text color. While choosing a color you can also adjust the opacity of your text.
 
 ![Use the text formatting tools to adjust text size, color, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup5.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Once you’re done, hit “Done” in the top-right corner of the screen. You can edit your text later by coming back to the Markup menu using the pen icon in the top-right corner of the screen. Share your image as you would normally from the Photos app and the text will be included.
 
@@ -64,13 +120,55 @@ Tim Brookes / How-To Geek
 
 ![Create a new canvas in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Tap on the “Media” button in the bottom-right corner of the screen and choose “Photos or Videos” to select an image from your Photos library, or “Insert from...” to select an image from Files. You can also tap anywhere on the canvas and use “Paste” to add an image from your clipboard.
 
 ![Add images to your canvas in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform2.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  With your image in place, tap on the “Text Box” button at the bottom of the screen. Drag the text box in place then double-tap inside it to edit your text. Use the text formatting tools above the keyboard to customize the size, color, and alignment of your text.
 
 ![Adjust text and formatting in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform3.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Tim Brookes / How-To Geek
 
@@ -83,6 +181,20 @@ Tim Brookes / How-To Geek
 ![Use a Shortcuts workflow to convert PDF to image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform5.jpg) 
 
  Now open the PDF, hit Share, and tap on the “PDF Page to Image” Shortcut you just made. Your image will be in Photos, where you can crop and trim it as necessary.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Add Text Using Pages
 
@@ -98,6 +210,20 @@ Tim Brookes / How-To Geek
 
 ![Add media to a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages2.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Tap on your image to select it, then tap on the “Formatting” paintbrush icon to reveal more options. Under “Arrange” choose “More Options” and then set “Text Wrap” to “None.” This instructs Pages not to move text around if it intersects with the image.
 
 ![Adjust text wrapping in a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages3.jpg) 
@@ -109,6 +235,20 @@ Tim Brookes / How-To Geek
  Add more images, diagrams, and whatever else you see fit. Then hit the ellipsis “…” button and choose “Export” followed by “Images” to export as an image. Use the “Save Image” button to add the image to your Photos library.
 
 ![Export a Pages document as an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages5.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Lastly, find the image and hit “Edit” and then crop out the white space. You can now share your image.
 
@@ -146,19 +286,75 @@ Adding text to an Instagram story.
 
 ![Opening an image in the Pixlr editor for web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Use the toolbar at the bottom of the screen to select “Text” then select “Add new text” or choose from one of the stylized text tools.
 
 ![Adding a text box to an image in Pixlr Express.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr2.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Scroll down and change the “Text” box to whatever you want to text to read. You can now adjust other aspects like the size, color, and so on. You can add a curve, warp, background, outline, and shadow to the text if you want.
 
 ![Add custom text to your text box in Pixlr.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr3.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Drag the text into place until you’re happy with it. Add more text or other effects to your image, then hit “Save” at the top of the screen to export it when you’re ready.
 
 ![Export your Pixlr canvas as a JPEG.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr4.jpg) 
 
  Choose an image format, size, and quality level, and then use the “Download” button to save the image.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Alternatively, Use a Computer
 
@@ -180,3 +376,54 @@ Adding text to an Instagram story.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-optimize-iphoneandroid-video-quality-in-online-platforms/"><u>[New] 2024 Approved Optimize iPhone/Android Video Quality in Online Platforms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>[New] Profit From YouTube Monetize YouTube Shorts and Boost Your Income</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-apex-fb-platforms-topping-the-10-list/"><u>[Updated] Apex FB Platforms Topping the 10 List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-windows-11-movie-file-saving/"><u>[Updated] Step-by-Step Windows 11 Movie File Saving</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-tailor-your-vocal-expression-masterful-techniques-for-snapchat-voices/"><u>[Updated] Tailor Your Vocal Expression Masterful Techniques for Snapchat Voices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-iphone-15-features-regular-usb-c-port-as-predicted-by-rumors-no-restrictions-on-mfi-certification/"><u>Apple's iPhone 15 Features Regular USB-C Port as Predicted by Rumors; No Restrictions on MFi Certification</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-upcoming-unleashed-presentation-revealing-new-ipad-lineup-and-more-surprises/"><u>Apple's Upcoming 'Unleashed' Presentation: Revealing New iPad Lineup & More Surprises!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beyond-metal-marvels-the-case-for-plastic-in-next-gen-iphones/"><u>Beyond Metal Marvels: The Case for Plastic in Next-Gen iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beyond-the-basics-discover-10-unexpected-benefits-of-using-your-iphone/"><u>Beyond the Basics: Discover 10 Unexpected Benefits of Using Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-ios-productivity-top-6-methods-beyond-using-apples-folders-for-organization/"><u>Boost Your iOS Productivity: Top 6 Methods Beyond Using Apple's Folders for Organization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boosting-organization-skills-with-ios-17s-improved-reminder-features/"><u>Boosting Organization Skills with iOS 17'S Improved Reminder Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-apple-unveils-record-low-pricing-for-the-new-11-ipad-pro-with-exclusive-promotions/"><u>Breaking: Apple Unveils Record Low Pricing for the New 11 iPad Pro with Exclusive Promotions!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creative-uses-for-your-unintentional-iphone-photo-crop-masterpiece/"><u>Creative Uses for Your Unintentional iPhone Photo Crop Masterpiece</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-new-innovative-apple-applications-can-substitute-itunes-for-windows-users/"><u>Discover How New Innovative Apple Applications Can Substitute iTunes for Windows Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-undiscovered-markdown-and-notetaking-tool-a-hidden-gem/"><u>Discover the Ultimate Undiscovered Markdown & Notetaking Tool: A Hidden Gem!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-local-air-purity-a-comprehensive-guide-on-monitoring-atmospheres-health/"><u>Discovering Local Air Purity: A Comprehensive Guide on Monitoring Atmosphere's Health</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-and-test-drive-the-newly-released-ios-18-beta-version/"><u>Download and Test Drive the Newly Released iOS 18 Beta Version!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-ios-print-functionality-explained/"><u>Easy Tutorial: IOS Print Functionality Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-for-monitoring-sleep-quality-with-your-apple-watch/"><u>Effective Strategies for Monitoring Sleep Quality with Your Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-mobile-photography-why-upgrading-your-phones-camera-is-a-must/"><u>Elevate Your Mobile Photography: Why Upgrading Your Phone's Camera Is a Must</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-mental-health-through-iphone-monitoring-techniques/"><u>Enhancing Mental Health Through iPhone Monitoring Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-the-pro-lineup-the-case-for-colorful-innovations-at-apple/"><u>Enhancing the Pro Lineup: The Case for Colorful Innovations at Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-techniques-enhancing-your-iphones-video-production-quality-with-these-10-strategies/"><u>Expert Techniques: Enhancing Your iPhone's Video Production Quality with These 10 Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-lifespan-of-eco-friendly-tech-our-compostable-iphone-cases-journey-over-half-a-year/"><u>Exploring the Lifespan of Eco-Friendly Tech: Our Compostable iPhone Case's Journey Over Half a Year</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-your-belkins-magsafe-compatible-iphone-holder-today-special-price-just-23/"><u>Get Your Belkin's MagSafe-Compatible iPhone Holder Today - Special Price: Just $23!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-stop-your-mac-from-going-into-sleep-mode-easily/"><u>How Can You Stop Your Mac From Going Into Sleep Mode Easily?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-14-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 14 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stills-extraction-procedure-windows-11-photos-guide/"><u>In 2024, Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/integrating-chatgpt-into-your-apple-watch-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-file-open-srt-file-on-windows-or-mac/"><u>SRT File Open SRT File on Windows or Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963755523-step-by-step-solution-for-intels-dynamic-platform-and-thermal-framework-driver-error/"><u>Step-by-Step Solution for Intel's Dynamic Platform & Thermal Framework Driver Error!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-viral-stock-images-and-stories-for-2024/"><u>The Ultimate List of Viral Stock Images & Stories for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/transforma-videos-y-audios-con-velocidad-acelerada-usando-la-inteligencia-artificial-de-winxvideo/"><u>Transforma Videos Y Audios Con Velocidad Acelerada Usando La Inteligencia Artificial De Winxvideo</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-new-possibilities-by-trading-in-your-classic-iphone-for-sleek-airpods-today/"><u>Unlock New Possibilities by Trading In Your Classic iPhone for Sleek AirPods Today!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-essential-12-siri-capabilities-on-your-ios-device/"><u>Unlock the Full Potential: Essential 12 Siri Capabilities on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-efficiency-with-your-iphone-ebyte-15-pros-action-button-comprehensive-usage-tips-and-tricks/"><u>Unlocking Efficiency with Your iPhone Ebyte 15 Pro's Action Button: Comprehensive Usage Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-power-and-potential-of-verizons-5g-infrastructure-where-we-stand-today/"><u>Unveiling the Power and Potential of Verizon's 5G Infrastructure: Where We Stand Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-is-my-iphone-heating-up-uncover-the-causes-of-iphone-overheating-and-remedies/"><u>Why Is My iPhone Heating Up? Uncover the Causes of iPhone Overheating & Remedies</u></a></li>
+</ul></div>
+
+
+
+

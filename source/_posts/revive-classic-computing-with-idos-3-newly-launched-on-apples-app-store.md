@@ -1,7 +1,7 @@
 ---
 title: Revive Classic Computing with iDOS 3, Newly Launched on Apple's App Store!
-date: 2024-09-05T07:48:24.704Z
-updated: 2024-09-06T07:48:24.704Z
+date: 2024-09-10T10:46:13.387Z
+updated: 2024-09-11T10:46:13.387Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53213662234_b235f75631_o.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Revive Classic Computing with iDOS 3, Newly Launched on Apple's App Store!
 
 The open-source iDOS 3 emulator is now available on the App Store. You can use it to play many classic DOS games, like DOOM, SimCity 2000, and Fallout 1.
@@ -25,12 +33,20 @@ The open-source iDOS 3 emulator is now available on the App Store. You can use i
 
 ![The iDOS classic PC emulator running on an iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/idos-classic-pc-emulator-command-line.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 App Store
 
  The emulator includes a PC-style onscreen keyboard with a sliding control in landscape mode and a virtual D-pad with key bindings. iDOS also supports Bluetooth keyboards and wireless controllers paired with an iPhone or iPad.

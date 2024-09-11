@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Listening Experience: Apple Podcasts Introduces Auto-Generated Subtitles"
-date: 2024-09-05T07:48:22.575Z
-updated: 2024-09-06T07:48:22.575Z
+date: 2024-09-10T10:46:11.310Z
+updated: 2024-09-11T10:46:11.310Z
 tags:
   - ios
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f9ab2afdf7e0f1b821a0cc59.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Revolutionize Your Listening Experience: Apple Podcasts Introduces Auto-Generated Subtitles
 
 The new iOS 17.4 developer beta adds transcripts to the Apple Podcasts app. Transcripts are automatically generated for all new podcast episodes, and Apple will slowly add transcripts to its backlog of old podcasts. If necessary, podcasters can upload custom transcripts or edit their auto-generated transcripts.

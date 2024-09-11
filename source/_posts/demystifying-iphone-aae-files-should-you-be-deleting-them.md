@@ -1,7 +1,7 @@
 ---
 title: "Demystifying iPhone AAE Files: Should You Be Deleting Them?"
-date: 2024-09-05T07:48:23.131Z
-updated: 2024-09-06T07:48:23.131Z
+date: 2024-09-10T10:46:11.861Z
+updated: 2024-09-11T10:46:11.861Z
 tags:
   - ios
 categories:
@@ -9,20 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa2c8281dbf1ed71dadcf9f50.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Demystifying iPhone AAE Files: Should You Be Deleting Them?
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Demystifying iPhone AAE Files: Should You Be Deleting Them?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [What Are AAE Files?](https://facebook-clips.techidaily.com/must-collect-blog-for-business-8-trending-videos-on-facebook-for-2024/)
@@ -30,18 +52,46 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * [Do I Need to Save AAE Files?](https://screen-recording.techidaily.com/updated-in-2024-endless-video-recording-program/)
 * [Can You Open an AAE File?](https://extra-hints.techidaily.com/in-2024-best-gopro-tools-for-deep-sea-cinematography/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * AAE files are created by the Apple Photos app to track edits made to photos, allowing you to undo changes at any time.
 * AAE files can only be opened and read by the Apple Photos app, and are not very useful outside of Apple's platforms.
 
  If you transfer photos from an iPhone or iPad to a Windows PC, you might see some files with the extension "AAE" stored along with the images. We'll explain this mysterious file type and what you should do with them.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  What Are AAE Files?
 
@@ -53,32 +103,22 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ![AAE Files and corresponding HEIC files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2023-10-31_09h49_10.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In this case, we opened up our iPhone with Windows Explorer and found two related files: the original image (IMG\_0244.HEIC) and the corresponding AAE file (IMG\_0244.AAE). 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Does AAE Stand For?
 
  Some [theorize](https://photo.stackexchange.com/questions/122302/what-does-the-apple-aae-file-extension-stand-for) that AAE files originated with the Apple Aperture photo management application on Mac, which used XML sidecar files for its non-destructive editing system. In that case, AAE might stand for "Apple Aperture Edits," "Apple Aperture Extension," or something similar.
@@ -91,6 +131,26 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  If you'd like to open the files again later on a Mac, iPhone, or iPad, you could keep the AAE files with your original photos in the same directory, and the Photos app should be able to read them. In doing so, Photos will be able to see the edits you originally made in the Photos app before transferring your images to a non-Apple platform.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Can You Open an AAE File?
 
  On Windows, Linux, Chrome OS, Android, or Mac, you can open an AAE file in any text editor, but the XML data that you'll see there isn't very useful. The edit data can only be read by the Apple Photos app. 
@@ -99,12 +159,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ![The contents of an AAE file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/text-of-an-aae-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Photos app on iPhone, iPad, and Mac uses those AAE files silently in a way that's transparent to the user, so you don't have to worry about "opening" them on those platforms, either. If AAE files exist in the same folder as the photos that they refer to, Photos will know how to use them automatically. Good luck!
 
 <ins class="adsbygoogle"

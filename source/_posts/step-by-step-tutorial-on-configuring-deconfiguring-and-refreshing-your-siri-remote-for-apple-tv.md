@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
-date: 2024-09-05T07:48:21.879Z
-updated: 2024-09-06T07:48:21.879Z
+date: 2024-09-10T10:46:10.647Z
+updated: 2024-09-11T10:46:10.647Z
 tags:
   - ios
 categories:
@@ -9,14 +9,36 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png
 ---
 
-## Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Pair an Apple TV remote by holding the "<" or Menu button and volume up at the same time, then follow any on-screen instructions.
@@ -24,6 +46,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Try charging your Apple TV remote to revive it; if that doesn't work, consider using an iPhone or iPad as a temporary remote.
 
  Is your Apple TV remote not working? Are you trying to pair a new remote, or use your old remote with a different unit? Let’s fix the mess so you can go back to streaming your favorite shows.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Pair an Apple TV Remote
 
@@ -41,18 +77,6 @@ Tim Brookes / How-To Geek
 
  You may be asked to place your remote on top of the Apple TV unit to complete the pairing unit. Once you’re done, you should be able to use your remote as normal to wake, control, and sleep your Apple TV unit (and you won’t need to pair it again, even if it runs out of battery).
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Reset an Apple TV Remote
 
  Sometimes your Apple TV remote can just stop working. This is usually the result of a temporary glitch, and one way you can attempt a fix is to reset the connection between your Apple TV remote and the Apple TV. This won’t unpair the remote, so you won’t need to go through the pairing process detailed above.
@@ -61,24 +85,12 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote reset combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_tv-vol_down.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Wait a few moments and the connection between the remote and Apple TV should be re-established. You can try tapping a few buttons on the remote to wake it up if nothing happens.
 
 ![Apple TV remote disconnected message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_disconnected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Unpair an Apple TV Remote
 
  There is no way to unpair an Apple TV remote from an Apple TV unit. This can present a problem if you have multiple Apple TV units and you want to migrate one remote to the other, for whatever reason. Fortunately, you can work around this limitation and effectively “hijack” the remote so that it works on your desired Apple TV.
@@ -87,13 +99,21 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote connected notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_connected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once complete, the remote will be paired with your desired Apple TV. Since a remote can only be paired with a single Apple TV unit at a time, it should no longer control the previous unit. If you want to migrate the remote back, you’ll need to follow this process again.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Try Charging Your Apple TV Remote
 
@@ -103,19 +123,41 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote battery information screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_battery.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You won’t see a light or a charging indicator while the remote is charging, so be patient and test it when enough time has passed.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Power Cycle the Apple TV to Reset It
 
  Sometimes the only way to solve a problem is to [turn a device off and on again](https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g13-drfone-by-drfone-virtual-android/). This is true for computers, smartphones, and tablets; so of course it’s true for the Apple TV as well.
 
  To fully power cycle your Apple TV unplug it from the wall, wait around 10 seconds, and then plug it back in again. The unit should automatically start up and dump you on the dashboard. You’ll need to hit a button on the remote for it to pair, after which your remote should (hopefully) work again.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Connect an iPhone or iPad as a Remote
 
@@ -125,21 +167,37 @@ Tim Brookes / How-To Geek
 
 ![Selecting an Apple TV to control in the iPhone Remote app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_iphone.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you don’t see your Apple TV listed, you can try waking it by restarting it (unplug it and then plug it back in, and wait for it to boot) and then selecting the Apple TV when it appears in the app. You may need to pair the iPhone, just follow any on-screen instructions.
 
  Once connected you can use the trackpad interface just as you would your normal remote. You also have access to playback controls, a back button, and the TV or Control Center button plus a power button at the top of the screen.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Try Updating Your Apple TV
 
@@ -149,18 +207,6 @@ Tim Brookes / How-To Geek
 
  With your iPhone or iPad connected as a remote, navigate to Settings > System > Software Updates and install any outstanding updates. The Apple TV will restart, after which you can try using (or pairing) your remote again.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Control Your Apple TV with a TV or Universal Remote
 
  Another option for controlling your Apple TV is to use a standard TV remote, which relies on a shared media standard called HDMI-CEC. This technology allows you to [control streaming boxes and game consoles with a single remote](https://extra-support.techidaily.com/2024-approved-maximizing-gopro-footage/).
@@ -169,14 +215,22 @@ Tim Brookes / How-To Geek
 
 ![Teaching an Apple TV to use a regular TV remote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_learn_remote.png) 
 
- Remember that your TV will also react to any buttons you press, so this can occasionally cause issues if the required buttons trigger functions on your TV.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Remember that your TV will also react to any buttons you press, so this can occasionally cause issues if the required buttons trigger functions on your TV.
+
 ##  Control Your Apple TV with a Game Controller
 
  Compatible game controllers like the Xbox Core controller and Sony’s DualSense controller are [great additions to an Apple TV](https://facebook-video-recording.techidaily.com/best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/) if you want to use the unit to play games. They also control the interface once paired, which can be a convenient remote replacement for some users.
@@ -185,20 +239,22 @@ Tim Brookes / How-To Geek
 
 ![View vvailable game controllers on an Apple TV via Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_game_controller-1.png) 
 
- After pairing, your controller should stay paired with your Apple TV, depending on which pad you’re using.
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ After pairing, your controller should stay paired with your Apple TV, depending on which pad you’re using.
+
 ##  Consider Replacing the Remote
 
  If nothing’s working and using a remote control substitute like your iPhone or TV remote isn’t working for you, consider replacing your Apple TV remote with a new one.

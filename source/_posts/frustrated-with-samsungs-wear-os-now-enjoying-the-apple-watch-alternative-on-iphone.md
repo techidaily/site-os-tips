@@ -1,7 +1,7 @@
 ---
 title: Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
-date: 2024-09-05T07:48:23.306Z
-updated: 2024-09-06T07:48:23.306Z
+date: 2024-09-10T10:46:12.041Z
+updated: 2024-09-11T10:46:12.041Z
 tags:
   - ios
 categories:
@@ -9,20 +9,22 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/on-the-left-a-samsung-watch-with-the-wearos-logo-on-the-screen-on-the-right-an-apple-watch-with-apple-logo-on-the-screen.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
+
 ### Key Takeaways
 
 * Apple's closed ecosystem works in its favor for the Apple Watch, making tracking health and fitness data seamless and easy.
@@ -31,12 +33,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For all its faults, Apple's closed ecosystem also has its advantages — especially when it comes to the Apple Watch. When the closest competition is the Android-based WearOS, it's not hard to convince someone to jump to iOS.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Ditching WearOS For watchOS
 
  I am a data nerd. I like looking at data, finding trends, and seeing progress, and that extends to my health and fitness. I tried out smartwatches and fitness trackers over the years, but the combination of working from home (I no longer needed notifications since my phone is always available) and the sometimes spotty tracking inherent to WearOS meant that I'd eventually abandon them.
@@ -45,12 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Apple Watch Series 8 recording a Traditional Strength Training exercise using the Workout app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52559368560_69e3affd15_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  After picking up an iPad and learning about the Health app (and all the metrics it could track), I wanted to take the plunge. I shopped online and bought a used iPhone and Apple Watch, synced them up, and got tracking.
@@ -63,12 +73,20 @@ Tim Brookes / How-To Geek
 
 ![Fitbit-Charge-6 6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fitbit-charge-6-6.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Joe Fedewa / How-To Geek
 
  The Fitbit app tracked steps and workouts, but trying to sync it with MyFitnessPal when I tracked calorie intake was iffy at best. There was a time when I used Google Fit to track my walks, but I wanted to continue using it for historical data when I picked up a new fitness tracker. Trying to get the Samsung tracker and the Google Fit app to cooperate was frustrating at best. At one point, I managed to delete my Google Fit data.
@@ -77,15 +95,23 @@ Joe Fedewa / How-To Geek
 
 ![Apple Watch Series 8 showing the 'Activity' watch face.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple_watch_s8_activity.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The Apple Watch even works with Apple's Fitness+ app, allowing me to see my heart rate and more important information in real-time while I work out, allowing me to ramp up or slow down as needed. In short, I could get a similar experience on Android with a lot more tinkering, but Apple makes it so easy without all of the added hassle.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  My Daily Driver is Still Android
 
@@ -99,6 +125,20 @@ Justin Duino / How-To Geek
 
  Had I been able to sync my iPad with my Apple Watch, I wouldn't even have picked up an iPhone in the first place. This is frustrating when iPadOS already supports the Health and Fitness+ apps but doesn't satisfy the Apple Watch criteria for pairing.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  It Was Worth The Effort...
 
  The real question remains: was all of this worth the effort? For me, it definitely was. The tracking on the Apple Watch has been the most accurate of all the [fitness trackers](https://some-techniques.techidaily.com/new-health-advocacy-through-strategic-social-media-plays/) I've tried. The variety of bands available make it easy to dress the watch up for any occasion.
@@ -110,6 +150,20 @@ You need an Apple Watch to use Fitness+. The stats tracked by the Watch get show
  Also, access to Apple Fitness+ is a surprisingly good motivator. Programs that offer fitness videos are nothing new, but the real-time data on my heart rate and calories burned helps to quantify my progress. Even the meditation videos, which I'm typically not a fan of, help a lot in taking a moment to breathe and relax.
 
  Best of all, the Apple Watch syncs with my health insurance provider, which offers rebates and rewards for healthy habits. This is something that not all Android smartwatches can do.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  ...But It's Not Perfect
 

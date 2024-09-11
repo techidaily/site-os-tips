@@ -1,7 +1,7 @@
 ---
 title: Transform Your iPad Experience with Just 3 Tweaks From Apple
-date: 2024-09-05T07:48:23.826Z
-updated: 2024-09-06T07:48:23.826Z
+date: 2024-09-10T10:46:12.568Z
+updated: 2024-09-11T10:46:12.568Z
 tags:
   - ios
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ipad-stage-manager-multitasking-featured.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Transform Your iPad Experience with Just 3 Tweaks From Apple
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -19,12 +47,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I was disappointed when Apple announced zero updates for the iPad's Stage Manager feature at WWDC24\. I wanted iPadOS 18 to turn my iPad into a multitasking beast, but Stage Manager continues to put off power users and confuse everyone else. Fixing Stage Manager shouldn’t be too hard at this point.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  3 Stage Manager Fixes Apple Should Make
 
  Whenever I want to [use Stage Manager](https://extra-skills.techidaily.com/new-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools/), I’m reminded of its limitations. With Apple’s recent focus on catching up to its rivals regarding AI, no wonder it neglected Stage Manager.
@@ -41,34 +83,70 @@ Apple
 
 ![Stage Manager on iPad with the Calendar, Stocks, Files and X apps multitasking concurrently.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ipados-18-stage-manager-multitasking-calendar-stocks-files-x-apps.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  This made sense when Stage Manager debuted in 2022, as earlier iPads had constrained RAM. Fast-forward to today, however, and Stage Manager suffers from the same restrictions despite improved hardware.
 
 ![The iPad task switcher showing individual app thumbnails and two Stage Manager workspaces with four apps in each.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ipados-18-stage-manager-workspaces-task-switcher.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  I use about a dozen apps on my iPad on any given day. I usually run Safari, Mail, Messages, and Notes in one stage, with the Calendar, X, Files, Stocks, and other productivity apps in several other stages. That means I have to invoke[the app switcher](https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-to-filming-live-scenes/) and cycle through these Spaces-like environments whenever I want to use an app not in my current workspace.
 
  I don’t want to juggle between multiple workspaces like an animal. Instead, let me easily run at least eight apps in one window and drag-and-drop between them.
 
  Dropping the four-apps-per-stage restriction shouldn’t be an issue now that iPads and Macs are equipped with 16GB of RAM as standard. At the very least, Stage Manager should check the system requirements to allow for more apps per window on more powerful devices.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Allow Me To Use My Home Screen Widgets
 
  As Stage Manager doesn’t take up the whole screen, the Home Screen shows through the breathing room around the edges of your stage. Sadly, Home Screen widgets don’t show when Stage Manager is active, even if you only have a single app window open.
@@ -81,12 +159,20 @@ Apple
 
  While multitasking, I check my widgets from time to time. So why complicate my existence by forcing me to choose between Stage Manager and my Home Screen widgets?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Boost iPad Multitasking With App Exposé
 
  iPadOS 17 lets me resize app windows in a stage in smaller increments. But switching between Stage Manager apps is still a chore, especially with multiple overlapping windows. Selecting something that’s not in the foreground shouldn’t be this clunky. Mixing thumbnails of recent apps and Stage Manager workspaces in the app switcher doesn’t help either.
@@ -97,12 +183,6 @@ Apple
 
  While you're at it, Apple, make it so that swiping up and holding from the bottom edge of the display while Stage Manager is active brings up Expose instead of the task switcher.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Also, Bigger iPads Would Be Nice
 
  Stage Manager on 13-inch screens feels constrained and not living up to its full potential. A bigger multitasking canvas is available on 15 and 16-inch MacBooks, but iPads don’t go beyond 13 inches and 11-inch models make Stage Manager way too clunky to use.
@@ -115,12 +195,6 @@ Tyler Hayes / How-To Geek
 
  The popularity of the 15-inch MacBook Air is proof that the mainstream consumer loves this size of device. There are rumors that Apple is developing larger iPads, so I’m keeping my fingers crossed for a 15-inch iPad Pro that would give me the screen real-estate of a laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  No, I Don’t Want to Run macOS on My iPad
 
  The truth is, I’m not crazy about multitasking with Stage Manager on my iPad until the above limitations are gone. That includes the Mac.

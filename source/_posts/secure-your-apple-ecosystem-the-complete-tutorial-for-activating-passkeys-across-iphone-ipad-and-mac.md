@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac"
-date: 2024-09-05T07:48:24.730Z
-updated: 2024-09-06T07:48:24.730Z
+date: 2024-09-10T10:46:13.412Z
+updated: 2024-09-11T10:46:13.412Z
 tags:
   - ios
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -35,11 +63,39 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  When you log into your account, the website requests to see the private key on your device and checks if it works with the public keys. You authenticate the request using your screen lock method—[Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/), [Touch ID](https://facebook-video-recording.techidaily.com/from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies-for-2024/), or a passcode—and as soon as you do that, you're get signed in to your account. So what used to require entering a username, password, and two-factor authentication code gets reduced to the simple act of unlocking your device.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Which Apps and Websites Support Passkeys?
 
  While passkeys are clearly the future, they're still in the early days. It will take a while to fully transition to the promised password-less web. But the good news is that adoption is picking up steam, and you can already try out the passkey login experience on many of your favorite websites, including Google, Amazon, Best Buy, Adobe, Microsoft, Instacart, Nintendo, and PayPal.
 
 [1Password's passkey directory](https://passkeys.directory/) keeps track of all the websites, apps, and services that currently offer passkey login. We should continue to see more and more services adopting passkeys as they grow in popularity. That said, we're not expecting passwords to go away completely anytime soon, given just how deeply ingrained they're in our digital lives. Passwords and passkeys will continue to co-exist for the foreseeable future.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Create Passkeys on an iPhone, iPad, or Mac
 
@@ -49,46 +105,64 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 * Update to iOS 16, iPadOS 16, macOS Ventura, or tvOS 16, or later.
 * Make sure passkeys are supported by your browser. If you're using Safari or Chrome, you're golden.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  How to Enable Passkeys
 
  First things first. Navigate to Settings > Passwords > Passwords Options. On a Mac, open the System Settings to find this.
 
 ![Password settings on the iPhone, highlighting the 'Password Options' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/password-options-iphone.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Make sure the "Autofill Passwords and Passkeys" toggle is turned on and check "iCloud Passwords & Keychain" is enabled.
 
 ![AutoFill Passwords and Passkeys toggle turned on and iCloud Keychain enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/iphone-password-options.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ###  How to Create a Passkey
 
  The steps to create a passkey vary from service to service, but generally speaking, you'll need to find the passkey option in your account settings for the said app or service. Then just follow the on-screen instructions.
@@ -99,12 +173,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Google Account dashboard with the Security tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone7-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Under the "How You Sign In to Google" header, locate "Passkeys" and tap it. You might be asked to enter your account password to verify your identity here.
 
 ![Passkeys option highlighted under the Security tab in Google Account settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone8-2.png) 
@@ -117,26 +185,8 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![iOS displaying a prompt to save a new passkey to iCloud Kitchen with the 'Continue' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone-10.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's it! You've successfully created and saved a passkey for your Google Account on your Apple device. You can now log in to your Google Account by simply using facial recognition, fingerprint recognition, or your passcode. You can also safely [share your passkeys with your friends and family](https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-a60s-phone-withwithout-imei-number-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Sign In to Your Accounts with Passkeys
 
  Now that you've created a passkey, it's time to use it to sign in to your account. Since passkeys are synced to iCloud Keychain, they're available across all the devices that are signed in to the same Apple ID.
@@ -145,32 +195,48 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Google Account log in screen with the 'Try another way' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in2.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  From the listed options, select "Use Your Passkey."
 
 ![Google Account additional log in options with passkey option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap "Continue." Depending on which unlock method you've set up on your device, you'll be asked to authenticate yourself with Face ID, Touch ID, or your passcode. After doing so, you'll be automatically logged into your account.
 
 ![iOS prompt asking the user if they want to sign in to their Google account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in4.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ###  How to Use Passkeys on a Different Device
 
  If you're on a device that's not associated with your Apple ID, say you're using a friend's computer, you can still sign in to apps and websites using the passkeys stored on your iPhone or iPad. This requires scanning a QR code on your phone or tablet. Here's how.
@@ -183,42 +249,66 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![iCloud Keychain pop-up asking how would you like to sign in to paypal.com. The option to use passkey from another iPhone, iPad, or Android device is selected and the Continue button is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-2-3.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You should see a QR code appear on the screen.
 
 ![A QR code to sign in with passkey from another iPhone, iPad or Android device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-3-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Now, open the camera app on your iPhone or iPad and simply point it to the QR code. (Don't click the shutter button.) Then tap the "Sign In with a Passkey" button that pops up on the screen. Make sure Bluetooth is enabled on both devices and they're close to each other. 
 
 ![iPhone camera app scanning a QR code with the Sign in with a passkey button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-qr-code-scanning.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap "Continue" to authenticate yourself with Face ID, Touch ID, or your passcode to complete the sign-in process.
 
 ![Prompt asking the user if they want to sign in to their PayPal account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-ios.PNG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Why You Should Be Using Passkeys Whenever Possible
 
  Switching to passkeys can greatly enhance your account security. Passkeys trump passwords in almost all regards, including speed, convenience, and security. You won't have a bunch of [bad password habits you need to break](https://some-techniques.techidaily.com/examining-realities-intertwined-what-is-mixed-reality-for-2024/) with passkeys, and you don't have to remember anything.

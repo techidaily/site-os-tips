@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Tips & Tricks for Maximizing Your New iPhone's Potential
-date: 2024-08-27 21:34:15
-updated: 2024-08-29 11:23:57
+date: 2024-09-10T10:40:27.762Z
+updated: 2024-09-11T10:40:27.762Z
 tags:
   - ios
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Top 10 Essential Tips & Tricks for Maximizing Your New iPhone's Potential
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -27,6 +41,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  So you just got a brand new iPhone---congratulations! Whether it's from a friend or you gifted yourself, you might wonder where to start. Let's run through a list of fun and useful things you should do with your new Apple gadget.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Update to Get the Latest Features
 
  You probably want to get started taking pictures with your new camera and downloading games, but many of your device's best features may be hidden behind a software update. Even if they're not, these updates add stability and security fixes so it's a good idea to get them installed as soon as possible.
@@ -41,13 +69,55 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Some Apple TV+ programming](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/apple_tv_plus.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You can log in to your account using [your Apple ID credentials](https://ai-video-editing.techidaily.com/updated-how-to-use-deep-fried-meme-maker-for-2024/) from any other device (including smart TVs and laptops) to enjoy content there. But by far one of the most impressive features of the latest iPhones are the HDR displays which can hit [peak brightness](https://facebook-clips.techidaily.com/updated-2024-approved-covert-videography-the-premier-8-downloader-list/) levels of 1200 [nits](https://youtube-zero.techidaily.com/ed-in-2024-build-stellar-youtube-beginnings-on-a-shoestring-budget/) on the iPhone 13 and 13 Pro.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Redeem Your Apple Arcade Trial and Play Some Games
 
  In addition to your Apple TV trial, you also get an [Apple Arcade](https://vimeo-videos.techidaily.com/new-get-started-on-vimeo-for-free-the-basics-of-video-editing-for-2024/) trial that lasts three months too. You can redeem this by opening the App Store and tapping on the Arcade tab at the bottom of the screen.
 
 ![Some Apple Arcade games](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/apple_arcade.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Apple Arcade is an all-you-can-eat subscription service that provides access to high-quality and exclusive games. There's something for everyone including trivia games like [SongPop Party](https://apps.apple.com/au/app/songpop-party/id1551639567), rhythm-action titles like [Taiko no Tatsujin](https://apps.apple.com/au/app/taiko-no-tatsujin-pop-tap-beat/id1463360242), remakes of retro classics like [The Oregon Trail](https://apps.apple.com/us/app/the-oregon-trail/id1502228492), and modernized iPhone favorites in the form of [Tiny Wings+](https://apps.apple.com/au/app/tiny-wings/id1574882204) and[Jetpack Joyride+](https://apps.apple.com/au/app/jetpack-joyride/id1550866882).
 
@@ -63,21 +133,77 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Use Cinematic Mode to Shoot Better Video on iPhone](https://tech-renaissance.techidaily.com/the-complete-walkthrough-to-initiate-safe-mode-on-windows-10-learn-with-pictures/) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Get Acquainted With Photographic Styles
 
  Photographic styles are new for the iPhone 13 and 13 Pro, and they allow you to customize the look of your shots before you've even taken them. This works a little differently from simply shooting with a filter since the iPhone makes adjustments in the image processing pipeline rather than changing the look of the image "in post."
 
 ![iPhone Image Processing Pipeline](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/apple_photo_pipeline.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 _Apple_
 
  This means that important details like skin tones are preserved even while boosting contrast and saturation in other parts of the image. You can [switch Photographic Styles in the Camera app](https://some-knowledge.techidaily.com/updated-funny-carousel-image-builder/) by tapping the relevant icon.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Got an iPhone 13 Pro? Shoot Some Macro Photography
 
  If you have an iPhone 13 Pro (there'll be three camera lenses on the back instead of two), you can take photos in macro mode. This allows you to get up close and personal with subjects thanks to a very small minimum focus distance.
 
 ![Shooting macro on iPhone 13 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/macro_iphone.jpeg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 _Tim Brookes / How-To Geek_
 
@@ -125,7 +251,35 @@ Related: [The Best MagSafe Accessories for iPhone of 2023](https://facebook-vide
 
 ![iPhone Shortcuts app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/iphone_shortcuts.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You can also [use the app to create automations](https://tech-savvy.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/) like automatically changing your wallpaper or performing certain actions when you launch a specific app. We've put together [a few interesting automations to get you started](https://some-guidance.techidaily.com/the-rings-rhythm-versus-screen-time-symphony-for-2024/).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Perfect Your Home Screen and Control Center
 
@@ -169,3 +323,69 @@ _Tim Brookes / How-To Geek_
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/infographic-social-video-marketing-tips-for-small-business-for-2024/"><u>[Infographic] Social Video Marketing Tips for Small Business for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamline-screen-capture-on-google-chat/"><u>[New] 2024 Approved Streamline Screen Capture on Google Chat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-background-selection-tips/"><u>[New] Masterful Background Selection Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-barely-seen-to-highly-engaged-the-journey-of-youtube-short-success/"><u>[Updated] From Barely Seen to Highly Engaged The Journey of YouTube Short Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-chorus-chronicles-a-guide-to-audio-selection-for-ig/"><u>[Updated] In 2024, Chorus Chronicles A Guide to Audio Selection for IG</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-edgeresolve-pixelperfect-booster-windowsmacos/"><u>[Updated] In 2024, EdgeResolve PixelPerfect Booster (Windows/MacOS)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-youtube-to-mp4-ensuring-data-security/"><u>[Updated] In 2024, Guide YouTube to MP4 - Ensuring Data Security</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-timeless-tale-of-roguelike-and-roguelite-for-2024/"><u>[Updated] The Timeless Tale of Roguelike and Roguelite for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tips-for-superior-sound-recordings-without-a-microphone/"><u>[Updated] Tips for Superior Sound Recordings Without a Microphone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-visual-storytelling-the-cutting-edge-6-instagram-reel-tools/"><u>2024 Approved Mastering Visual Storytelling The Cutting-Edge 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-potential-how-to-maximize-whiteboards-in-zoom-meets/"><u>2024 Approved Unlocking Potential How to Maximize Whiteboards in Zoom Meets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-streaming-surge-gamers-and-money-flow/"><u>2024'S Streaming Surge Gamers and Money Flow</u></a></li>
+<li><a href="https://os-tips.techidaily.com/9-with-latest-101-firmware-enhancement/"><u>9 with Latest 10.1 Firmware Enhancement</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-revolutionizes-sports-gaming-with-major-new-features/"><u>Apple Revolutionizes Sports Gaming with Major New Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-you-ready-will-your-current-apple-device-be-able-to-operate-with-the-newly-launched-ios-n-and-ipados-n-versions/"><u>Are You Ready? Will Your Current Apple Device Be Able To Operate With The Newly Launched iOS N and iPadOS N Versions?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/collaborate-on-tracking-discover-the-new-feature-enabling-airtag-sharing-among-multiple-users/"><u>Collaborate on Tracking: Discover the New Feature Enabling AirTag Sharing Among Multiple Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-essential-apple-maps-functions-a-guide-to-its-top-10-hidden-gems/"><u>Discover Essential Apple Maps Functions: A Guide to Its Top 10 Hidden Gems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ideal-podcasting-tools-for-your-apple-tablet-and-phone-experience/"><u>Discover the Ideal Podcasting Tools for Your Apple Tablet & Phone Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-power-of-circle-on-your-iphone-effortless-searching-through-a-handy-shortcut-trick/"><u>Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-your-mobile-id-a-step-by-step-guide-to-finding-your-number-on-iphones-and-androids/"><u>Discovering Your Mobile ID: A Step-by-Step Guide to Finding Your Number on iPhones & Androids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/echoes-of-innovation-experience-an-iphone-with-the-iconic-macintosh-personality/"><u>Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-15-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 15 Pro Max Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bedtime-videos-breakdown-stories-and-reviews/"><u>In 2024, Bedtime Videos Breakdown Stories and Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-engage-with-snapchat-luminaries/"><u>In 2024, How to Engage with Snapchat Luminaries</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 15 Pro?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-humor-hub-for-apple-devices/"><u>In 2024, Humor Hub for Apple Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-sync-link-insta-and-tiktok-with-ease/"><u>In 2024, Seamless Sync Link Insta & TikTok with Ease</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lg-24lh4830-the-superior-choice-for-budget-conscious-consumers-seeking-quality-and-style/"><u>LG 24LH4830 - The Superior Choice for Budget-Conscious Consumers Seeking Quality and Style</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-fps-in-pubg-essential-tweaks-and-adjustments-for-nvidia-enthusiasts/"><u>Mastering FPS in PUBG: Essential Tweaks and Adjustments for NVIDIA Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-your-video-conferencing-process-with-slack-and-filmora-tools/"><u>Optimizing Your Video Conferencing Process with Slack and Filmora Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-11-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 11 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-personalizing-your-iphoneipad-lock-screen-settings/"><u>Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-transferring-your-icloud-photos-seamlessly-across-all-devices/"><u>Step-by-Step Guide: Transferring Your iCloud Photos Seamlessly Across All Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-your-iphone/"><u>Step-by-Step Instructions for Resetting Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stuck-without-the-app-you-require-right-now-heres-how-to-resolve-it/"><u>Stuck Without the App You Require Right Now? Here's How to Resolve It</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-star-crossed-love-affair-me-and-the-unavailable-cosmic-ring-from-samsung/"><u>The Star-Crossed Love Affair: Me and the Unavailable Cosmic Ring From Samsung</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-capturing-perfect-sounds-using-your-iphones-built-in-microphone/"><u>The Ultimate Tutorial: Capturing Perfect Sounds Using Your iPhone's Built-In Microphone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oneplus-ace-2-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in OnePlus Ace 2 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-essential-tips-for-maintaining-optimal-mobile-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Mobile Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-9-lifesaving-features-of-the-apple-watch-enhancing-personal-safety/"><u>Top 9 Lifesaving Features of the Apple Watch: Enhancing Personal Safety</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-iphone-into-a-windows-like-device-effortlessly/"><u>Transform Your iPhone Into a Windows-Like Device Effortlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-an-overheated-iphone-identifying-the-reasons-and-implementing-solutions/"><u>Troubleshooting an Overheated iPhone: Identifying the Reasons & Implementing Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-stuck-ios-updates-on-iphone-a-guide-with-11-effective-fixes/"><u>Troubleshooting Stuck iOS Updates on iPhone: A Guide with 11 Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-wi-fi-connection-issues-how-to-solve-your-airpods-continuous-disconnection-problems/"><u>Troubleshooting Wi-Fi Connection Issues: How to Solve Your AirPods' Continuous Disconnection Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-understanding-the-7-key-factors-of-a-non-responsive-display/"><u>Troubleshooting Your iPhone: Understanding the 7 Key Factors of a Non-Responsive Display</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-apps-enhancing-your-driving-experience-on-apples-carplay/"><u>Ultimate Selection of Apps Enhancing Your Driving Experience on Apple's CarPlay</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unbelievable-top-9-ios-apps-that-outperform-on-your-high-end-ipad-models/"><u>Unbelievable: Top 9 iOS Apps That Outperform on Your High-End iPad Models!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-hidden-white-noise-features-for-better-sleep/"><u>Unlock Your iPhone's Hidden White Noise Features for Better Sleep</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-convenience-why-utilizing-google-maps-save-location-function-enhances-your-daily-routine/"><u>Unlocking Convenience: Why Utilizing Google Maps' Save Location Function Enhances Your Daily Routine</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-early-ios-updates-why-paying-for-app-store-isnt-always-necessary/"><u>Unlocking Early iOS Updates - Why Paying for App Store Isn't Always Necessary</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-top-unexpected-revelations-of-apples-revolutionary-vision-pro/"><u>Unveiling the Top Unexpected Revelations of Apple's Revolutionary Vision Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-the-art-of-custom-ringtone-creation/"><u>Updated 2024 Approved Mastering the Art of Custom Ringtone Creation</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-go-grayscale-understanding-the-benefits-of-a-black-and-white-iphone-interface/"><u>Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface</u></a></li>
+</ul></div>
+
+
+
+
