@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-09-10T10:46:13.834Z
-updated: 2024-09-11T10:46:13.834Z
+date: 2024-09-13T16:15:14.961Z
+updated: 2024-09-16T16:13:41.616Z
 tags:
   - ios
 categories:
@@ -9,54 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9b99fd4da2116bc1b6fb0847.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## A Look Back in Time: Discovering When the Initial Smartphone Emerged
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -64,26 +22,6 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 * The first smartphone, the IBM Simon, was announced in 1992, and it had a touchscreen, phone capabilities, and basic applications.
 
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  The First Mobile Phone
 
@@ -97,37 +35,23 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -149,8 +73,6 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,38 +82,17 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-convert-fb-videos-directly-to-mp3-2023-edition/"><u>[Updated] 2024 Approved  Convert FB Videos Directly to MP3 - 2023 Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-lol-streaming-made-easy-mastering-video-capture-in-3-steps/"><u>[Updated] 2024 Approved  LOL Streaming Made Easy  Mastering Video Capture in 3 Steps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-engage-with-googles-online-gatherings/"><u>2024 Approved  Engage with Google's Online Gatherings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/25plus-best-practices-for-crafting-witty-metaverse-visual-jokes/"><u>25+ Best Practices for Crafting Witty Metaverse Visual Jokes</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-launcher-crash-with-error-code-0x803f8001-in-mcpc/"><u>Combatting Launcher Crash with Error Code 0X803F8001 in MCPC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/complete-analysis-gopro-silver-edition-hero4-assessment-for-2024/"><u>Complete Analysis  GoPro Silver Edition HERO4 Assessment for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-steps-for-soft-and-hard-resets-of-your-iphone-a-complete-tutorial/"><u>Comprehensive Steps for Soft and Hard Resets of Your iPhone: A Complete Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-activate-find-my-feature-on-your-iphone/"><u>Comprehensive Steps to Activate 'Find My' Feature on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-for-thoroughly-disinfecting-iphone-screens-with-alcohol-wipes/"><u>Effective Techniques for Thoroughly Disinfecting iPhone Screens with Alcohol Wipes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-persistent-call-drops-on-your-iphone-comprehensive-troubleshooting-steps/"><u>Fixing Persistent Call Drops on Your iPhone: Comprehensive Troubleshooting Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fully-unlock-your-dominican-republic-iphone-a-step-by-step-permanent-solution/"><u>Fully Unlock Your Dominican Republic iPhone - A Step-by-Step Permanent Solution</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-bypassing-mobile-network-locks-for-iphones-on-verizon-atandt-sprint-and-t-mobile/"><u>Guide: Bypassing Mobile Network Locks for iPhones on Verizon, AT&T, Sprint & T-Mobile</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-solve-iphone-call-drop-issues-a-step-by-step-guide/"><u>How to Solve iPhone Call Drop Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g24-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Moto G24 Phone without Google Account?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-m4-mac-mini-projected-costs-release-timeline-and-latest-technical-specifications/"><u>Inside the M4 Mac Mini: Projected Costs, Release Timeline, and Latest Technical Specifications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-connection-display-your-ipadiphone-on-the-screen-via-five-unique-techniques/"><u>Mastering the Connection: Display Your iPad/iPhone on the Screen via Five Unique Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-easy-ways-to-rebrand-your-ios-device-a-step-by-step-guide/"><u>Quick & Easy Ways to Rebrand Your iOS Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-apple-id-passwords-made-easy-no-email-no-contact-info-required/"><u>Resetting Apple ID Passwords Made Easy – No Email, No Contact Info Required!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screensnap-sage-mastering-captures-technology/"><u>ScreenSnap Sage  Mastering Captures Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-fixing-yahoo-email-issues-on-ios-devices/"><u>Solutions for Fixing Yahoo Email Issues on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-your-whatsapp-problems-with-these-proven-tips-and-tricks/"><u>Solve Your WhatsApp Problems with These Proven Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-puzzle-of-itunes-error-17-explore-8-proven-strategies-in-our-comprehensive-tutorial/"><u>Solving the Puzzle of iTunes Error 17 - Explore 8 Proven Strategies in Our Comprehensive Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-techniques-from-ipod-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry and Exit Techniques From iPod Recovery Mode</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-effective-solutions-for-troubleshooting-a-non-functional-iphone-bluetooth/"><u>Top 10 Effective Solutions for Troubleshooting a Non-Functional iPhone Bluetooth</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-easy-fixes-for-overcoming-iphones-passcode-demand/"><u>Top 5 Easy Fixes for Overcoming iPhone's Passcode Demand</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-8-swift-solutions-to-resolve-safari-issues-on-your-iphone-ios-18/"><u>Top 8 Swift Solutions to Resolve Safari Issues on Your iPhone (iOS 18)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-for-earning-money-from-a-damaged-iphone/"><u>Top Strategies for Earning Money From a Damaged iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transfer-your-media-x-mirage-seamless-sync-between-ios-devices-and-pcs/"><u>Transfer Your Media: X Mirage - Seamless Sync Between iOS Devices and PCs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-for-resolving-the-unable-to-update-instagram-feed-error-in-mobile-apps/"><u>Troubleshooting Steps for Resolving the Unable to Update Instagram Feed Error in Mobile Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-ios-devices-endless-shuffle-top-4-solutions-for-ipod-stuck-in-loop/"><u>Troubleshooting Your iOS Device's Endless Shuffle: Top 4 Solutions for iPod Stuck In Loop</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-best-tracfone-locked-iphone-unlocking-sites-the-latest-pick-of-the-top-5/"><u>Ultimate Guide: Best TracFone-Locked iPhone Unlocking Sites - The Latest Pick of the Top 5</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620253863-unable-to-send-messages-identify-the-issue-and-resolve-it-instantly/"><u>Unable to Send Messages? Identify the Issue and Resolve It Instantly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unstick-your-idevice-from-update-process-with-easy-troubleshooting-techniques/"><u>Unstick Your iDevice From Update Process with Easy Troubleshooting Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-m34-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy M34 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-scheduling-zoom-events/"><u>[New] 2024 Approved The Ultimate Guide to Scheduling Zoom Events</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>[New] 2024 Approved Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fading-fast-with-premiere-pro/"><u>[New] Fading Fast with Premiere Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>[New] Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>2024 Approved Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-7-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 7 Plus Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-lava-blaze-2-by-fonelab-android-recover-data/"><u>How to recover lost data from Lava Blaze 2?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-phantom-v-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Phantom V Flip Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-importance-of-using-gps-trackers-like-airtag-for-safety-and-convenience-in-cars/"><u>The Importance of Using GPS Trackers Like AirTag for Safety and Convenience in Cars</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-irresistible-factors-that-make-dropping-apple-arcade-impossible/"><u>Top 3 Irresistible Factors That Make Dropping Apple Arcade Impossible</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-day-proven-iphone-shortcut-techniques-for-enhanced-efficiency/"><u>Transform Your Day: Proven iPhone Shortcut Techniques for Enhanced Efficiency</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-steps-for-reactivating-autoplay-on-your-windows-10-computer/"><u>Troubleshooting Steps for Reactivating AutoPlay on Your Windows 10 Computer</u></a></li>
 </ul></div>
+

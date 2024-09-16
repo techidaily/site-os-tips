@@ -1,27 +1,13 @@
 ---
 title: "Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!"
-date: 2024-09-10T10:46:14.854Z
-updated: 2024-09-11T10:46:14.854Z
+date: 2024-09-13T16:00:04.363Z
+updated: 2024-09-16T16:09:26.118Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc05322a198ecbbd0ad48fbaf8.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!
 
@@ -55,55 +41,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Tap on "Add Action."
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
@@ -119,55 +63,26 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -189,8 +104,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,40 +113,17 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-5-video-tweaking-apps-for-social-networking/"><u>[New] In 2024, Top 5 Video Tweaking Apps for Social Networking</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-deep-dive-into-the-world-of-youtubes-minis/"><u>[Updated] A Deep Dive Into the World of Youtube's Minis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-eliminate-fuzziness-clearer-facebook-video-tips-for-2024/"><u>[Updated] Eliminate Fuzziness  Clearer Facebook Video Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-passive-watchers-to-profit-youtube-monetization/"><u>[Updated] From Passive Watchers To Profit  YouTube Monetization</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fast-track-mastering-the-download-of-hd-fb-content/"><u>2024 Approved  Fast Track  Mastering the Download of HD FB Content</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-maps-failure-guide-understanding-and-solving-downtime-problems/"><u>Apple Maps Failure Guide: Understanding and Solving Downtime Problems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/bypassing-iphone-security-a-comprehensive-guide-to-5-alternative-approaches-not-involving-siri/"><u>Bypassing iPhone Security: A Comprehensive Guide to 5 Alternative Approaches Not Involving Siri</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-solutions-for-resolving-check-in-issues-with-ios-17-on-iphones/"><u>Comprehensive Solutions for Resolving 'Check In' Issues with iOS 17 on iPhones</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-partner-in-seo-mastery/"><u>Cookiebot: Your Partner in SEO Mastery</u></a></li>
-<li><a href="https://driver-install.techidaily.com/decoding-the-latest-in-digital-innovation-your-guide-to-toms-hardware-analysis/"><u>Decoding the Latest in Digital Innovation - Your Guide to Tom's Hardware Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-how-to-resolve-your-iphone-being-trapped-at-the-apple-emblem-screen/"><u>Effective Solutions: How to Resolve Your iPhone Being Trapped at the Apple Emblem Screen</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-the-iphones-blue-screen-of-death-now-with-ios-18-support/"><u>Effective Solutions: Repairing the iPhone's 'Blue Screen of Death,' Now with iOS 18 Support</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-guide-to-slow-motion-video-capturing-with-gopro-hero-10/"><u>Expert Guide to Slow Motion Video Capturing with GoPro Hero 10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/finding-the-perfect-bargain-a-step-by-step-guide-to-purchasing-pre-owned-iphones-models-5-6-7-8-x-on-the-web/"><u>Finding the Perfect Bargain: A Step-by-Step Guide to Purchasing Pre-Owned iPhones (Models 5, 6, 7, 8, X) on the Web</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-tiktok-problems-on-your-mobile-device-top-solutions-for-android-and-ios-platforms/"><u>Fixing TikTok Problems on Your Mobile Device: Top Solutions for Android and iOS Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-overcome-failed-server-connection-6-effective-strategies-for-seamless-mail-retrieval/"><u>How to Overcome 'Failed Server Connection': 6 Effective Strategies for Seamless Mail Retrieval</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-iphones-vibration-feature-when-silenced-a-step-by-step-guide-for-problem-solving/"><u>How to Restore iPhone's Vibration Feature When Silenced: A Step-by-Step Guide for Problem Solving</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-swiftly-repair-an-apple-id-that-wont-work-effective-steps-for-immediate-fix/"><u>How to Swiftly Repair an Apple ID That Won't Work: Effective Steps for Immediate Fix</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-v30t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme V30T Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-mix-fold-3-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-aquatic-adventures-top-5-anglers-choice-cameras/"><u>In 2024, Aquatic Adventures  Top 5 Anglers' Choice Cameras</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-a56s-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo A56s 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-se-2022-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone SE (2022) and iPad?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pro-video-essentials-the-finest-portable-laptop-brands/"><u>In 2024, Pro Video Essentials  The Finest Portable Laptop Brands</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620255183-resetting-apple-id-passwords-made-easy-no-email-no-contact-info-required/"><u>Resetting Apple ID Passwords Made Easy – No Email, No Contact Info Required</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-iphone-reboot-loop-step-by-step-guide-to-exit-dfu-recovery/"><u>Resolving iPhone Reboot Loop: Step-by-Step Guide to Exit DFU Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-the-vanished-app-store-on-ios-devices-with-proven-fixes/"><u>Restore the Vanished App Store on iOS Devices with Proven Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620257109-safe-and-simple-solutions-unstick-your-iphone-from-recovery-mode-in-just-3-steps/"><u>Safe and Simple Solutions: Unstick Your iPhone From Recovery Mode in Just 3 Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-recovery-mode-on-your-apple-device/"><u>Step-by-Step Guide: Activating Recovery Mode on Your Apple Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-your-iphone-using-icloud-backup-data/"><u>Step-by-Step Guide: Restoring Your iPhone Using iCloud Backup Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-forcing-an-iphone-to-power-off-featuring-techniques-for-iphone-11-pro-models/"><u>Step-by-Step Instructions for Forcing an iPhone to Power Off, Featuring Techniques for iPhone 11 Pro Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/struggling-with-ios-music-downloads-try-these-5-effective-remedies/"><u>Struggling with iOS Music Downloads? Try These 5 Effective Remedies.</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-25-instagram-hashtags-to-get-likes-and-followers-for-2024/"><u>Top 25 Instagram Hashtags to Get Likes and Followers for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-solutions-for-resolving-your-ipads-screen-mirroring-problem/"><u>Top 6 Solutions for Resolving Your iPad's Screen Mirroring Problem</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-persistent-reboots-top-fixes-for-your-constantly-restarting-iphone/"><u>Troubleshooting Persistent Reboots: Top Fixes for Your Constantly Restarting iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-places-for-discovering-premium-soundtracks-from-instagram-and-designing-exceptional-ringtone-alerts/"><u>[New] Top Places for Discovering Premium Soundtracks From Instagram & Designing Exceptional Ringtone Alerts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-craftsmanship-in-action-macs-5-elite-snipping-applications/"><u>[Updated] Craftsmanship in Action Mac's 5 Elite Snipping Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-look-back-in-time-discovering-when-the-initial-smartphone-emerged/"><u>A Look Back in Time: Discovering When the Initial Smartphone Emerged</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-introduces-new-lending-services-in-latest-iphone-update/"><u>Apple Introduces New Lending Services in Latest iPhone Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/belkin-revolutionizes-charging-technology-unveiling-the-innovative-magsafe-3-port-adapter/"><u>Belkin Revolutionizes Charging Technology: Unveiling the Innovative MagSafe 3-Port Adapter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blazing-lanes-at-sochi-2022-games-for-2024/"><u>Blazing Lanes at Sochi 2022 Games for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-i-use-my-iphone-in-the-rain-without-damage/"><u>Can I Use My iPhone in the Rain Without Damage?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-tablets-ipad-vs-amazon-kindle-vs-barnes-and-noble-nook/"><u>Comparing Tablets: IPad Vs. Amazon Kindle Vs. Barnes & Noble NOOK</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-gaming-pace-proven-methods-to-tackle-frame-drops-and-lag-issues-in-valheim-new-insights/"><u>Enhance Gaming Pace: Proven Methods to Tackle Frame Drops and Lag Issues in Valheim (New Insights)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-chatgpt-to-strengthen-your-emotional-intelligence-proficiency/"><u>Harness the Power of ChatGPT to Strengthen Your Emotional Intelligence Proficiency</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone SE (2020)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktok-dominance-on-twitter-the-top-share-list-for-2024/"><u>TikTok Dominance on Twitter The Top Share List for 2024</u></a></li>
 </ul></div>
+

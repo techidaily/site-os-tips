@@ -1,7 +1,7 @@
 ---
 title: "Guide: Retrieving and Printing SMS From Your iPhone Device"
-date: 2024-09-05T07:48:28.583Z
-updated: 2024-09-06T07:48:28.583Z
+date: 2024-09-15T16:29:54.524Z
+updated: 2024-09-16T16:02:59.189Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d04ebfcc926d77ca01d474b27.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Guide: Retrieving and Printing SMS From Your iPhone Device
 
 ### Quick Links
@@ -36,46 +30,16 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![iPhone screenshot buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/iphone_screenshot_buttons.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are [some screenshot tricks that might also be helpful](https://extra-skills.techidaily.com/updated-interlinkers-companion-navigating-instra-to-tiktok/). After taking screenshots of the text messages, you may also want to [crop out unnecessary parts](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) (be careful if you need screenshots for legal purposes). Once you have all your screenshots, we can print them.
 
  Once you're done taking your text-message screenshots, open the "Photos" app on your iPhone.
 
 ![Open the &quot;Photos&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-54-31.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Go to the "Albums" tab and scroll down to select "Screenshots."
 
 ![Go to &quot;Screenshots.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-55-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, tap "Select" at the top of the screen and choose all the screenshots you'd like to print.
 
 ![Tap &quot;Select&quot; and choose screenshots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-56-16.png) 
@@ -100,26 +64,8 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![Tap &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_15-34-00.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This method isn't the greatest if you have a lot of screenshots to print since it puts each screenshot on its own page. However, it's easy, and it gets the job done.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Print an iPhone Text Message Transcript
 
  Printing a transcript of an iPhone text message conversation will require third-party software and a Windows or Mac PC. Unlike when [printing text messages on Android](https://win-dash.techidaily.com/solution-guide-restoring-access-to-disabled-dts-audio-features-on-targeted-audio-devices/), there's not a good way to get a transcript of text messages with an app on the iPhone itself.
@@ -134,34 +80,17 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![Select a conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-17-25.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now click the "Print" button in the top right.
 
 ![Click the &quot;Print&quot; button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-18-21.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  A window with a print preview will appear. Tap "Print Now" to continue.
 
 ![Select &quot;Print Now.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-19-04.png) 
@@ -171,11 +100,12 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 ![Choose printer settings and click &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-20-58.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You're all set! The transcript is a much neater presentation, but it does come with the downside of appearing more easily editable. That's something to consider if you need the text messages for legal purposes.
 
 ---
@@ -188,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,37 +127,18 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-preserving-your-online-reputation-amidst-faux-endorsements/"><u>[New] 2024 Approved  Preserving Your Online Reputation Amidst Faux Endorsements</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-reels-a-prodigys-blueprint/"><u>[New] In 2024, Instagram Reels  A Prodigy’s Blueprint</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aximize-engagement-insider-secrets-to-youtube-seo-for-2024/"><u>[New] Maximize Engagement  Insider Secrets to YouTube SEO for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quickening-media-display-on-ppt/"><u>[New] Quickening Media Display on PPT</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-decoding-the-secrets-of-high-quality-screen-recordings-with-showmore/"><u>[Updated] In 2024, Decoding the Secrets of High-Quality Screen Recordings with ShowMore</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-nights-canvas-rendered-in-hd-the-ultimate-sky-sites-list/"><u>2024 Approved  Night's Canvas Rendered in HD  The Ultimate Sky Sites List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-quality-in-flight-holy-stone-hs1-628-predator-mini-rc-helicopter-in-depth-review/"><u>Affordable Quality in Flight: Holy Stone HS1 628 Predator Mini RC Helicopter – In-Depth Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/breaking-down-how-to-find-your-latest-watched-fb-content/"><u>Breaking Down How to Find Your Latest Watched FB Content</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cross-platform-update-fortnite-makes-a-comeback-on-iphones-and-launches-on-android-systems/"><u>Cross-Platform Update: Fortnite Makes a Comeback on iPhones & Launches on Android Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/decoding-the-current-period-option-for-your-iphones-cellular-data-usage-insights-and-tips/"><u>Decoding the 'Current Period' Option for Your iPhone's Cellular Data Usage: Insights and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-your-must-use-iphone-audio-tool-a-hidden-gem-in-music-apps/"><u>Discover Your Must-Use iPhone Audio Tool: A Hidden Gem in Music Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/downsizing-pictures-like-a-pro-on-iphone-and-ipad/"><u>Downsizing Pictures Like a Pro on iPhone & iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-to-enable-screen-time-restrictions-for-apps-on-apples-iphone-and-ipad/"><u>Easy Steps to Enable Screen Time Restrictions for Apps on Apple's iPhone & iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-for-when-you-cant-access-the-apple-app-store-on-your-ios-device/"><u>Effective Solutions for When You Can't Access the Apple App Store on Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-web-browsing-and-live-sports-updates-google-chromes-latest-features/"><u>Enhanced Web Browsing & Live Sports Updates: Google Chrome's Latest Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-siris-smarts-how-apples-ai-boosts-app-intelligence/"><u>Enhancing Siri's Smarts: How Apple's AI Boosts App Intelligence</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enjoy-retro-game-experience-on-your-iphone-for-free-without-needing-to-jailbreak/"><u>Enjoy Retro Game Experience on Your iPhone for FREE Without Needing to Jailbreak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-upgrades-needed-for-apples-next-big-thing-the-new-iphone/"><u>Essential Upgrades Needed for Apple's Next Big Thing - The New iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-projecting-iphone-visuals-on-your-mac-monitor/"><u>Expert Tips for Projecting iPhone Visuals on Your Mac Monitor</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-curious-absence-of-smartphones-in-film-antagonist-scenes-the-iphone-exclusion/"><u>Exploring the Curious Absence of Smartphones in Film Antagonist Scenes: The iPhone Exclusion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-apple-sports-mobile-app-now-available-top-entertainment-for-enthusiastic-spectators/"><u>Free Apple Sports Mobile App Now Available: Top Entertainment for Enthusiastic Spectators</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-common-problems-with-apple-carplay-for-a-seamless-driving-experience/"><u>How to Fix Common Problems with Apple CarPlay for a Seamless Driving Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/improving-apple-carplay-a-list-of-7-key-upgrades-for-a-superior-driving-companion/"><u>Improving Apple CarPlay: A List of 7 Key Upgrades for a Superior Driving Companion</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-nokia-c02-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Nokia C02 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>In 2024, Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-splitting-content-introducing-chapters-in-vimeo/"><u>In 2024, Splitting Content  Introducing Chapters in Vimeo</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-the-new-feature-in-google-chrome-sharing-tab-groups-made-easy/"><u>Introducing the New Feature in Google Chrome: Sharing Tab Groups Made Easy</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-set-to-receive-significant-boost-in-web-application-experience/"><u>IPhone & iPad Set to Receive Significant Boost in Web Application Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15-troubleshooting-starting-fresh-with-a-reboot/"><u>IPhone 15 Troubleshooting: Starting Fresh with a Reboot</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-update-discovering-the-newest-ios-and-ipados-versions/"><u>IPhone and iPad Update: Discovering the Newest iOS and iPadOS Versions!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/locating-secret-pictures-within-your-iphones-gallery/"><u>Locating Secret Pictures Within Your iPhone's Gallery</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-slow-motion-photography-in-phantom-cameras-for-2024/"><u>Mastering Slow-Motion Photography in Phantom Cameras for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/screen-capture-simplified-top-choices-for-easy-video-making-for-2024/"><u>Screen Capture Simplified  Top Choices for Easy Video Making for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-25-perfect-presents-every-iphone-lover-will-adore/"><u>1. 25 Perfect Presents Every iPhone Lover Will Adore!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-new-gamma-playstation-emulator-now-available-for-ios-in-apples-app-store/"><u>1. New Gamma PlayStation Emulator Now Available for iOS in Apple's App Store!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-preventing-your-airpods-from-voice-activated-scribing-a-comprehensive-guide/"><u>1. Preventing Your AirPods From Voice Activated Scribing: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-keyboard-setup-free-reliable-windows-software-and-driver-download-guide/"><u>CORSAIR Keyboard Setup: Free, Reliable Windows Software & Driver Download Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-experience-windows-11-home-to-pro/"><u>Elevate Your Experience: Windows 11 Home to Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy Z Flip 5 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oneplus-12r-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass OnePlus 12R FRP Without Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-device-charge-with-new-satechi-stands-supporting-both-qi2-and-magsafe-technology/"><u>Revolutionize Your Device Charge with New Satechi Stands Supporting Both Qi2 and MagSafe Technology</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/securely-remove-all-data-from-your-ios-devices-a-step-by-step-remote-guide/"><u>Securely Remove All Data From Your iOS Devices: A Step-by-Step Remote Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-types-public-private-and-personal-how-do-they-compare/"><u>Understanding AI Types: Public, Private, and Personal – How Do They Compare?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/week-in-review-anticipating-new-innovations-by-google-and-samsungs-phone-lineup/"><u>Week in Review: Anticipating New Innovations by Google and Samsung's Phone Lineup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/week-in-review-say-goodbye-to-netflixs-basic-plan-and-discover-top-notch-iphone-fix-services/"><u>Week in Review: Say Goodbye to Netflix's Basic Plan & Discover Top-Notch iPhone Fix Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-my-dream-of-sporting-a-stellar-galaxy-band-was-denied-by-samsung/"><u>Why My Dream of Sporting a Stellar Galaxy Band Was Denied by Samsung</u></a></li>
 </ul></div>
+

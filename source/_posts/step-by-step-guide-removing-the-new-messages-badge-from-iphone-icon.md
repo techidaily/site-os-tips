@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon"
-date: 2024-09-10T10:46:14.487Z
-updated: 2024-09-11T10:46:14.487Z
+date: 2024-09-13T16:27:06.479Z
+updated: 2024-09-16T16:27:11.206Z
 tags:
   - ios
 categories:
@@ -9,60 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d252237be0c9a3bba1af211f6.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
 * [How to Mark All Messages as Read](https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/)
 * [How to Fix Messages Showing Unread on iPhone](https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2003-by-ldigisigner-sign-a-word-sign-a-word/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -70,39 +22,18 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
  Does the Messages app on your iPhone say you have unread messages, even though all your iMessage and SMS messages are read in the app? If the Messages badge is stuck, here's the fix to get rid of the counter. We had the same problem and found a solution.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  How to Mark All Messages as Read
 
  First, if you just have a lot of unread messages, you don't need to do this. You can simply [mark all messages as read in the Messages app](https://facebook-record-videos.techidaily.com/unleash-creativity-exclusive-free-youtube-banner-templates-for-2024/). To do so, open the Messages app, tap "Edit" at the top of the screen, tap "Select Messages," and then tap "Read All."
 
  If this doesn't solve your problem and you still see a number of unread messages on the Messages app on your iPhone home screen, however, we have a solution.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How to Fix Messages Showing Unread on iPhone
 
@@ -112,19 +43,12 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ![The response to "Hey Siri, read my messages"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/siri-read-messages.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  The above solution worked to fix a stubborn stuck unread counter on the messages app on an iPhone running iOS 16\. Here are some other solutions we came across during our research that you may want to try if you still have this problem:
 
@@ -141,8 +65,6 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,48 +74,21 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-essence-of-elegance-in-video-color-balancing/"><u>[New] 2024 Approved  The Essence of Elegance in Video Color Balancing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hiring-heroes-the-most-motivating-vids-of-the-year-1-10-for-2024/"><u>[New] Hiring Heroes  The Most Motivating Vids of the Year #1-10 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-15-uncomplicated-vlog-ideas-to-ignite-creativity/"><u>[New] Top 15 Uncomplicated Vlog Ideas to Ignite Creativity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-unlock-twitter-written-by-your-name-for-2024/"><u>[New] Unlock Twitter' Written By  [Your Name] for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-profitable-practices-for-creating-youtube-trailers/"><u>[New] Unveiling Profitable Practices for Creating YouTube Trailers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-average-earnings-in-the-world-of-podcasting/"><u>[Updated] 2024 Approved  Average Earnings in the World of Podcasting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-plan-to-locate-breathtaking-photos-in-minutes-on-pexels/"><u>2024 Approved  Crafting a Plan to Locate Breathtaking Photos in Minutes on Pexels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effortless-animated-addition-how-to-send-and-share-gifs-on-snapchat/"><u>2024 Approved  Effortless Animated Addition  How to Send and Share GIFs on Snapchat</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-enabling-dfu-mode-on-your-iphone-and-exiting-safely/"><u>A Step-by-Step Guide: Enabling DFU Mode on Your iPhone & Exiting Safely</u></a></li>
-<li><a href="https://os-tips.techidaily.com/accidental-deletions-heres-how-you-can-retrieve-accidentally-deleted-mms-on-your-iphone/"><u>Accidental Deletions? Here's How You Can Retrieve Accidentally Deleted MMS on Your iPhone</u></a></li>
-<li><a href="https://facebook.techidaily.com/avoid-the-pitfalls-of-online-marketplace-shopping-9-vital-tips/"><u>Avoid the Pitfalls of Online Marketplace Shopping: 9 Vital Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-free-call-log-apps-top-picks-for-managing-phone-conversations-on-iphone-models-xs-xr-x-and-older-versions/"><u>Best Free Call Log Apps: Top Picks for Managing Phone Conversations on iPhone Models XS, XR, X, and Older Versions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-reinstalling-your-ios-with-an-icloud-or-itunes-backup/"><u>Complete Guide: Reinstalling Your iOS with an iCloud or iTunes Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-smses-on-ios-and-android-devices/"><u>Complete Guide: Retrieving Lost SMSes on iOS and Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-on-apowerrescue-insights-into-capabilities-value-for-money-and-other-options-available/"><u>Comprehensive Guide on ApowerRescue - Insights Into Capabilities, Value for Money & Other Options Available</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tips-on-retrieving-your-lost-icloud-contacts-images-and-texts/"><u>Easy Tips on Retrieving Your Lost iCloud Contacts, Images, and Texts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-methods-to-retrieve-images-from-your-iphones-backup/"><u>Effective Methods to Retrieve Images From Your iPhone's Backup</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/explore-essential-web-portals-delivering-impeccable-text-effects/"><u>Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fast-track-your-missing-iphone-clips-back-a-step-by-step-strategy-to-recover-deleted-videos-swiftly/"><u>Fast Track Your Missing iPhone Clips Back: A Step-by-Step Strategy to Recover Deleted Videos Swiftly</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/guide-to-eliminate-insta-suggest-feature/"><u>Guide to Eliminate Insta Suggest Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-access-your-hidden-imessages-unblocking-ios-15-and-above/"><u>How to Access Your Hidden iMessages: Unblocking iOS 15 and Above</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-k70-pro-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi K70 Pro Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-viber-calls-from-your-iphone-without-a-backup-a-three-step-guide/"><u>How to Retrieve Lost Viber Calls From Your iPhone Without a Backup: A Three-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Plus with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-still-on-the-move-gopro-stability-tips/"><u>In 2024, How to Get Still on the Move  GoPro Stability Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-your-digital-talk-leading-web-based-text-to-speech-apps-for-chrome/"><u>In 2024, Mastering Your Digital Talk  Leading Web-Based Text-to-Speech Apps for Chrome</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tick-tock-tally-calculating-pewdiepies-cash/"><u>In 2024, Tick-Tock Tally  Calculating PewDiePie’s Cash</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-release-comprehensive-wi-fi-driver-update-for-windows-7-10-and-above/"><u>New Release: Comprehensive Wi-Fi Driver Update for Windows 7, 10 & Above</u></a></li>
-<li><a href="https://os-tips.techidaily.com/no-backup-no-problem-mastering-the-art-of-retrieving-deleted-iphone-contact-details-easily/"><u>No Backup? No Problem! Mastering the Art of Retrieving Deleted iPhone Contact Details Easily</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reclaim-your-memories-effective-strategies-for-finding-and-restoring-missing-videos-on-ios-devices/"><u>Reclaim Your Memories: Effective Strategies for Finding and Restoring Missing Videos on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rescue-and-retrieve-the-ultimate-guide-to-retrieving-high-quality-deleted-photographs-from-facebook/"><u>Rescue and Retrieve: The Ultimate Guide to Retrieving High-Quality Deleted Photographs From Facebook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rescue-missing-pics-a-comprehensive-method-for-finding-and-restoring-lost-photos-on-iphones-ipads-and-ipod-touch-via-macbook/"><u>Rescue Missing Pics: A Comprehensive Method for Finding and Restoring Lost Photos on iPhones, iPads & iPod Touch via MacBook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rescue-your-drenched-iphone-expert-methods-for-preventing-water-harm/"><u>Rescue Your Drenched iPhone - Expert Methods for Preventing Water Harm!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolve-your-iphone-sound-troubles-easily-using-these-6-effective-techniques/"><u>Resolve Your iPhone Sound Troubles Easily Using These 6 Effective Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resurrecting-missed-contacts-expert-strategies-for-retrieving-deleted-data-in-your-itunes-backup-archive/"><u>Resurrecting Missed Contacts: Expert Strategies for Retrieving Deleted Data in Your iTunes Backup Archive</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revitalize-your-iphone-top-3-methods-for-successful-backup-recovery/"><u>Revitalize Your iPhone: Top 3 Methods for Successful Backup Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-iphone-a-step-by-step-guide-on-using-tinyumbrella-for-ios-downgrades/"><u>Reviving Your iPhone: A Step-by-Step Guide on Using TinyUmbrella for iOS Downgrades</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-memories-step-by-step-guide-to-retrieving-iphoneipad-images-from-an-itunes-backup/"><u>Reviving Your Memories: Step-by-Step Guide to Retrieving iPhone/iPad Images From an iTunes Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/steps-to-restore-accidentally-deleted-notes-on-your-ipad-a-guide-for-both-backed-up-and-unbacked-users/"><u>Steps to Restore Accidentally Deleted Notes on Your iPad: A Guide for Both Backed-Up and Unbacked Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620271322-the-ultimate-technique-for-retrieving-deleted-content-on-iphones-discover-here/"><u>The Ultimate Technique for Retrieving Deleted Content on iPhones - Discover Here</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-iphone-apps-for-effective-data-recovery-and-restoration-of-lost-files/"><u>Top 5 iPhone Apps for Effective Data Recovery & Restoration of Lost Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-retrieving-your-files-from-icloud-effortlessly/"><u>Ultimate Step-by-Step Tutorial: Retrieving Your Files From iCloud Effortlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-iphones-mms-feature-a-comprehensive-guide/"><u>Understanding iPhone's MMS Feature: A Comprehensive Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/visionary-views-top-tweets-bypassing-the-screen-for-2024/"><u>Visionary Views  Top Tweets Bypassing the Screen for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-step-by-step-increasing-viewership-with-facebook-mobile-broadcasts-for-2024/"><u>[New] Step-by-Step Increasing Viewership with Facebook Mobile Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fostering-connection-strategies-for-striking-fb-slideshows/"><u>[Updated] In 2024, Fostering Connection Strategies for Striking FB Slideshows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>2024 Approved Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-convert-waters-10-tips-for-youtube-to-mp4mpeg/"><u>2024 Approved Navigating the Convert Waters 10 Tips for YouTube to MP4/MPEG</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-ambient-ws-2902a-osprey-weather-station-revealed-packed-with-advanced-capabilities/"><u>Affordable Ambient WS-2902A Osprey Weather Station Revealed: Packed with Advanced Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-airdate-selection-podcast-release-tactics/"><u>In 2024, Mastering Airdate Selection Podcast Release Tactics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracking-device-in-compact-form/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracking Device in Compact Form</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-spotlights-unveiling-the-android-inspired-additions-to-apples-operating-system/"><u>IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-15-and-liquid-is-it-built-to-withstand-wet-conditions/"><u>IPhone 15 and Liquid: Is It Built to Withstand Wet Conditions?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-guide-steps-to-extract-and-share-videos-without-sound/"><u>IPhone Guide: Steps to Extract and Share Videos without Sound</u></a></li>
+<li><a href="https://os-tips.techidaily.com/limited-time-offer-claim-your-chance-to-win-a-free-apple-iphone-se/"><u>Limited Time Offer! Claim Your Chance to Win a Free Apple iPhone SE!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/major-update-apple-watchs-comprehensive-software-refresh/"><u>Major Update: Apple Watch's Comprehensive Software Refresh</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-google-lens-a-comprehensive-guide-for-iphone-users/"><u>Mastering Google Lens: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/soundscapes-in-hd-techniques-for-precision-recording-for-2024/"><u>Soundscapes in HD Techniques for Precision Recording for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/winning-strategies-for-youtube-seo-titles-and-descriptions-for-2024/"><u>Winning Strategies for YouTube SEO Titles & Descriptions for 2024</u></a></li>
 </ul></div>
+

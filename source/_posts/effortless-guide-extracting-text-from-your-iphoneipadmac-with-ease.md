@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease"
-date: 2024-09-05T07:48:27.514Z
-updated: 2024-09-06T07:48:27.514Z
+date: 2024-09-13T16:29:53.624Z
+updated: 2024-09-16T16:16:11.004Z
 tags:
   - ios
 categories:
@@ -18,12 +18,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 * [Why This Is So Useful](https://android-frp.techidaily.com/about-oppo-reno-9a-frp-bypass-by-drfone-android/)
 * [More Useful iPhone Tricks](https://some-approaches.techidaily.com/updated-preserving-audio-broadcasts-a-simple-internet-radio-technique/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Tap the "Show Text" icon that appears in Apple Photos or Preview to select and copy text in any image or video on your iPhone, iPad, or Mac.
@@ -32,18 +26,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Select text, copy it, and paste it into a note, email, or document from anywhere using your iPhone, iPad, or Mac. This trick can help you circumvent all kinds of pesky limitations or even grab “IRL” text by taking a photo.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Copy Any Text on iPhone or iPad
 
  You can copy text within images or videos right on your iPhone and iPad. The only limitation here is that your device must be able to recognize it as text, so messy handwriting and fancy fonts probably won’t work.
@@ -63,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  This trick also works in Safari, just tap and hold an image then choose “Show Text” first.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Copy Any Text on Mac
 
  This trick also works on a Mac in much the same way. Tap on the “Show Text” icon in the bottom right corner while viewing an image using the Photos app. You can do the same thing while viewing a video provided you pause on a relevant frame.
@@ -76,14 +59,21 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ![Selectable text on a sign in Safari browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-06-at-15-39-00.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why This Is So Useful
 
  This neat trick circumvents the inability to select and copy text on certain websites. [Use your iPhone, iPad, or Mac to take a screenshot](https://video-capture.techidaily.com/updated-in-2024-videographers-guide-to-capturing-sports-competitions/) and then copy the text as normal. I’ve used this trick to copy recipes from YouTube’s description box in the iPhone app, for example.
@@ -92,26 +82,8 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ![Selecting the text on a keyring using a photo in Apple Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select_text_photo.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  More Useful iPhone Tricks
 
  There are plenty of other [iPhone screenshot tricks you’re probably not using](https://extra-skills.techidaily.com/updated-interlinkers-companion-navigating-instra-to-tiktok/), like capturing full web pages and using a gesture instead of the usual button presses.
@@ -124,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,44 +105,20 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-stabilizers-choosing-the-best-for-high-res-cameras/"><u>[New] 2024 Approved  Top Stabilizers  Choosing the Best for High-Res Cameras</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-omniimageai-holistic-editing-experience-for-2024/"><u>[New] OmniImageAI  Holistic Editing Experience for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flight-pattern-perfection-dissecting-bebops-parrot-expedition/"><u>[Updated] Flight Pattern Perfection  Dissecting Bebop's Parrot Expedition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-twitters-video-content-aspect-ratios-included-for-2024/"><u>[Updated] Navigating Twitter’s Video Content  Aspect Ratios Included for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sony-ps-players-voice-modification-techniques/"><u>[Updated] Sony PS Players' Voice Modification Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bargain-bin-chinese-vr-technology/"><u>2024 Approved  Bargain Bin  Chinese VR Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-next-frontier-in-technological-application/"><u>2024 Approved  The Next Frontier in Technological Application</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-realme-11-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Realme 11 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/breathtaking-4k-the-most-stunning-video-clips-you-need-to-see-for-2024/"><u>Breathtaking 4K The Most Stunning Video Clips You Need to See for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-reactivating-your-locked-iphone-techniques-for-unlock-and-restore/"><u>Comprehensive Tutorial on Reactivating Your Locked iPhone: Techniques for Unlock and Restore</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-ios-17s-latest-features-a-comprehensive-guide-to-the-revamped-journal-app/"><u>Discovering iOS 17'S Latest Features: A Comprehensive Guide to the Revamped Journal App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ11/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-ways-to-resolve-iphone-6s-unresponsive-zoom-issue-top-5-proven-strategies/"><u>Effortless Ways to Resolve iPhone 6'S Unresponsive Zoom Issue: Top 5 Proven Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-resolve-your-idevices-find-my-feature-why-it-wont-share-location-and-how-to-fix-it/"><u>Effortlessly Resolve Your iDevice's 'Find My' Feature: Why It Won't Share Location & How To Fix It</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-location-not-detected-on-iphone-swiftly-and-simply-a-step-by-step-guide/"><u>Fix 'Location Not Detected' On iPhone Swiftly and Simply – A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-an-iphones-inability-to-exit-recovery-mode-expert-advice-for-a-successful-restoration/"><u>Fixing an iPhones Inability to Exit Recovery Mode: Expert Advice for a Successful Restoration</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/game-changers-discovering-top-tier-gaming-webcam-technology/"><u>Game Changers  Discovering Top-Tier Gaming Webcam Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-a-black-screen-expert-advice-on-reactivating-your-iphone/"><u>How to Fix a Black Screen: Expert Advice on Reactivating Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-a-non-functioning-voice-recording-app-on-your-device/"><u>How to Fix a Non-Functioning Voice Recording App on Your Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-gionee-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Gionee Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-14-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 14 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-effective-ways-share-facebook-videos-to-whatsapp/"><u>In 2024, Effective Ways | Share Facebook Videos to WhatsApp?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-peak-level-illustration-tweaks/"><u>In 2024, Peak Level Illustration Tweaks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-facebooks-forgotten-archive-easy-guide-for-devices/"><u>In 2024, Unveiling Facebook's Forgotten Archive  Easy Guide for Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-system-repair-accessing-recovery-modes-across-phones-and-computers/"><u>Mastering System Repair: Accessing Recovery Modes Across Phones and Computers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-easy-remedies-resolving-itunes-error-14-within-minutes-top-10-methods/"><u>Quick & Easy Remedies: Resolving iTunes Error 14 Within Minutes - Top 10 Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-itunes-error-code-3194-three-guaranteed-methods-for-a-smooth-download/"><u>Resolving iTunes Error Code 3194: Three Guaranteed Methods for a Smooth Download</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-your-iphones-facial-recognition-top-7-methods-to-restore-face-id-functionality/"><u>Revive Your iPhone's Facial Recognition: Top 7 Methods to Restore Face ID Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-savings-with-our-expert-advice-on-buying-refurbished-iphone-models-online-at-unbeatable-prices/"><u>Secure Your Savings with Our Expert Advice on Buying Refurbished iPhone Models Online at Unbeatable Prices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-your-iphones-heat-problem-reasons-behind-overheating-and-effective-remedies/"><u>Solving Your iPhone's Heat Problem: Reasons Behind Overheating & Effective Remedies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-sharing-files-seamlessly-with-airdrop-between-apple-devices/"><u>Step-by-Step Guide: Sharing Files Seamlessly with AirDrop Between Apple Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-causes-of-iphone-voicemail-issues-and-comprehensive-solutions/"><u>Top 10 Causes of iPhone Voicemail Issues and Comprehensive Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-stunning-iphone-launchers-that-enhance-your-phones-aesthetics/"><u>Top 10 Stunning iPhone Launchers That Enhance Your Phone's Aesthetics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620256136-trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-the-causes-and-remedies-for-a-non-syncing-fitbit-gadget/"><u>Uncovering the Causes and Remedies for a Non-Syncing Fitbit Gadget</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-imyfone-fixppo-does-it-really-unlock-your-phone-complete-overview-for-potential-users/"><u>Unveiling iMyFone Fixppo: Does It Really Unlock Your Phone? Complete Overview for Potential Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-imac-with-m1-chip-an-in-depth-performance-evaluation/"><u>Unveiling the iMac with M1 Chip: An In-Depth Performance Evaluation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/virtual-reality-of-genuine-ppc-games/"><u>Virtual Reality of Genuine PPC Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-take-your-fb-visibility-to-new-heights-proven-seo-strategies-reviewed-for-2024/"><u>[Updated] Take Your FB Visibility to New Heights Proven SEO Strategies Reviewed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehvew-of-fixes-to-bring-back-sound-on-your-ps4s-chat-microphone/"><u>Comprehvew of Fixes to Bring Back Sound on Your PS4's Chat Microphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-android-functions-that-apple-needs-to-borrow-for-upcoming-iphones/"><u>Essential Android Functions That Apple Needs to Borrow for Upcoming iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-the-latest-innovations-over-ten-fresh-capabilities-on-your-iphone-get-tutorials-and-mastery-techniques/"><u>Explore the Latest Innovations: Over Ten Fresh Capabilities on Your iPhone - Get Tutorials and Mastery Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-strangest-iphone-connector-gadgets-a-list-of-7-surprising-finds/"><u>Exploring the Strangest iPhone Connector Gadgets: A List of 7 Surprising Finds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-the-updates-a-screenshots-guide-of-microsoft-office-2016/"><u>Exploring the Updates: A Screenshots Guide of Microsoft Office 2016</u></a></li>
+<li><a href="https://os-tips.techidaily.com/finding-the-best-ipad-mini-keyboard-cover-through-exhaustive-trials-reveal-and-evaluation/"><u>Finding the Best iPad Mini Keyboard Cover Through Exhaustive Trials: Reveal and Evaluation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-adjusting-display-distance-on-iphone-for-optimal-eye-health/"><u>Guide: Adjusting Display Distance on iPhone for Optimal Eye Health</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-retrieving-your-location-history-from-an-iphone-or-ipad/"><u>Guide: Retrieving Your Location History From an iPhone or iPad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-use-your-airpods-pro-a-detailed-walkthrough-of-device-management-innovative-capabilities-and-intuitive-hand-gestures/"><u>How To Use Your AirPods Pro: A Detailed Walkthrough of Device Management, Innovative Capabilities, and Intuitive Hand Gestures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-potential-elevating-your-tiktok-unboxing-contents-like-count/"><u>In 2024, Unleash the Potential Elevating Your TikTok Unboxing Content's Like Count</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlock-the-secret-to-insta-cash-with-our-guidebook/"><u>In 2024, Unlock the Secret to Insta Cash with Our Guidebook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-asus-rog-phone-8-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Asus ROG Phone 8 Pro Device</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown"
-date: 2024-09-05T07:48:26.926Z
-updated: 2024-09-06T07:48:26.926Z
+date: 2024-09-09T16:22:18.509Z
+updated: 2024-09-16T16:04:57.252Z
 tags:
   - ios
 categories:
@@ -9,32 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf7881ce69268badea3558c76.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  UPDATE: 2024/03/28 10:41 EST BY CORBIN DAVENPORT
 
 **_Oregon's Bill Is Now Law_** 
@@ -67,8 +43,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,53 +52,23 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-your-filmmaking-skills-for-ig-reels/"><u>[New] 2024 Approved  Elevate Your Filmmaking Skills for IG Reels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elite-tech-for-saving-your-on-camera-video-memories/"><u>[New] 2024 Approved  Elite Tech for Saving Your On-Camera Video Memories</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tailor-your-insta-experience-no-more-suggestions/"><u>[New] 2024 Approved  Tailor Your Insta Experience  No More Suggestions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-explore-top-picks-for-high-resolution-4k-panels/"><u>[New] In 2024, Explore Top Picks for High-Resolution 4K Panels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-figma-erase-background-elements-seamlessly/"><u>[New] Navigating Figma  Erase Background Elements Seamlessly</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-beyond-the-numbers-narrative-the-impact-of-fake-likes-for-2024/"><u>[Updated] Beyond the Numbers Narrative  The Impact of Fake Likes for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-preventing-frame-gaps-in-obs-recordings/"><u>2024 Approved  Preventing Frame Gaps in OBS Recordings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-f34-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy F34 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-inspection-manual-scrutinizing-chatgpts-aptitude/"><u>AI Inspection Manual: Scrutinizing ChatGPT's Aptitude</u></a></li>
-<li><a href="https://os-tips.techidaily.com/backing-up-android-device-information-on-your-computer-with-helium-no-rooting-required/"><u>Backing Up Android Device Information on Your Computer with Helium: No Rooting Required</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-5-methods-to-resolve-stalled-whatsapp-backups-on-android-devices/"><u>Best 5 Methods to Resolve Stalled WhatsApp Backups on Android Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/channel-building-strategies-to-hit-a-million-view-mark/"><u>Channel Building Strategies to Hit a Million-View Mark</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-transfer-every-image-from-google-photos-across-devices-and-platforms/"><u>Complete Guide: How to Transfer Every Image From Google Photos Across Devices & Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-safeguarding-your-conversations-securely-backing-up-whatsapp-chats-on-samsung-devices/"><u>Complete Guide: Safeguarding Your Conversations - Securely Backing up WhatsApp Chats on Samsung Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-securely-syncing-your-mobile-data-on-iphone-and-android/"><u>Complete Guide: Securely Syncing Your Mobile Data on iPhone & Android</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-securely-backing-up-your-data-on-samsung-galaxy-s4-s5-s6-and-s7/"><u>Comprehensive Guide: Securely Backing Up Your Data on Samsung Galaxy S4, S5, S6, and S7</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-how-to-retrieve-data-from-iphone-and-android-device-backups/"><u>Comprehensive Tutorial on How to Retrieve Data From iPhone & Android Device Backups</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-apple-iphone-6-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 6 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-methods-to-perform-an-efficient-factory-restore-on-your-htc-handset-with-screen-lock/"><u>Easy Methods to Perform an Efficient Factory Restore on Your HTC Handset with Screen Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620202417-effortlessly-upload-photos-from-your-android-device-to-computer-or-google-photos-detailed-instructions-inside/"><u>Effortlessly Upload Photos From Your Android Device to Computer or Google Photos - Detailed Instructions Inside</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-controller-issues-instantly-a-simple-solution/"><u>Fix Your Controller Issues Instantly: A Simple Solution!</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-the-amazon-kindle-paperwhite-2-nd-gen-2018-elevates-your-reading-habit-an-in-depth-review/"><u>How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-turn-off-automatic-backups-in-whatsapp-for-iphones-and-android-phones/"><u>How To Turn Off Automatic Backups in WhatsApp for iPhones & Android Phones</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-se-2022-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone SE (2022)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-motorola-razr-40-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Razr 40 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-and-usage-tips-on-the-verizon-backup-assistant-tool/"><u>In-Depth Analysis and Usage Tips on the Verizon Backup Assistant Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/insider-tips-what-you-need-to-know-before-trading-in-your-faulty-cellphones/"><u>Insider Tips: What You Need To Know Before Trading In Your Faulty Cellphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/keep-your-pics-safe-without-costing-a-penny-effortless-auto-upload-on-google-photos/"><u>Keep Your Pics Safe Without Costing a Penny - Effortless Auto-Upload on Google Photos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-app-management-on-android-a-step-by-step-guide-to-effortless-app-backups-and-restorations/"><u>Mastering App Management on Android: A Step-by-Step Guide to Effortless App Backups & Restorations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-device-safety-how-to-efficiently-backup-ios-and-android-phones/"><u>Mastering Device Safety: How to Efficiently Backup iOS & Android Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcoming-lockouts-effective-techniques-to-hard-reset-a-stubborn-huawei-phone-or-tablet/"><u>Overcoming Lockouts: Effective Techniques to Hard Reset a Stubborn Huawei Phone or Tablet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/preserve-your-digital-memories-safely-the-ultimate-tutorial-for-transferring-android-phone-content-to-your-pc/"><u>Preserve Your Digital Memories Safely: The Ultimate Tutorial for Transferring Android Phone Content to Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-your-speech-recording-experience-with-shortcuts-in-win-11/"><u>Revolutionize Your Speech Recording Experience with Shortcuts in Win 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-deletion-of-automatic-android-photo-sync-a-hassle-free-guide/"><u>Seamless Deletion of Automatic Android Photo Sync: A Hassle-Free Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-transfer-of-android-images-a-step-by-step-guide-to-syncing-your-phone-pics-with-a-pc-or-google-photos/"><u>Seamless Transfer of Android Images: A Step-by-Step Guide to Syncing Your Phone Pics with a PC or Google Photos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/securely-transfer-android-phone-data-to-pc-using-the-helium-application-without-needing-root-access/"><u>Securely Transfer Android Phone Data to PC Using the Helium Application Without Needing Root Access</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-effortlessly-sync-your-android-photos-with-google-drive-or-pc/"><u>Simple Steps: Effortlessly Sync Your Android Photos with Google Drive or PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-strategies-for-transferring-motorola-information-pc-cloud-and-device-options/"><u>Simple Strategies for Transferring Motorola Information: PC, Cloud & Device Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-moving-pictures-onto-a-computer-using-android-and-ios-devices/"><u>Step-by-Step Guide: Moving Pictures Onto a Computer Using Android and iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-and-securing-your-information-from-a-cracked-android-device/"><u>Step-by-Step Guide: Retrieving and Securing Your Information From a Cracked Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-safeguarding-your-conversations-by-backing-up-texts-from-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Safeguarding Your Conversations by Backing Up Texts From Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-for-accessing-information-in-your-ios-and-android-backup-files/"><u>Step-by-Step Strategies for Accessing Information in Your iOS & Android Backup Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-saving-android-text-chats-onto-your-desktop-system/"><u>Step-by-Step Tutorial on Saving Android Text Chats Onto Your Desktop System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-top-10-android-cleaner-apps-to-enhance-your-devices-efficiency/"><u>The Ultimate List of Top 10 Android Cleaner Apps to Enhance Your Device's Efficiency</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-5-fixes-for-paused-whatsapp-backup-issues-on-android-phones/"><u>Ultimate Guide: Top 5 Fixes for Paused WhatsApp Backup Issues on Android Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/unclogging-windows-chrome-problems/"><u>Unclogging Windows Chrome Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-chatgpt-code-translator-its-significance-and-uses/"><u>Understanding the ChatGPT Code Translator: Its Significance and Uses</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-new-insight-sony-s6500-bd-reader-update-for-2024/"><u>[Updated] New Insight Sony S6500 BD Reader Update for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-night-mode-magic-with-iphone-cameras/"><u>[Updated] Night Mode Magic with iPhone Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/celebrating-families-this-years-top-10-movie-gems-for-2024/"><u>Celebrating Families This Year’s Top 10 Movie Gems for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-picks-top-10-iphone-data-shredders-for-complete-device-sanitization/"><u>Expert Picks: Top 10 iPhone Data Shredders for Complete Device Sanitization</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-motherboard-sataraid-controller-software-for-windows-pcs/"><u>Get the Latest AMD Motherboard SATA/RAID Controller Software for Windows PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-lg-k51-phone-assessment-elegant-style-compromised-due-to-delayed-processor-response/"><u>The LG K51 Phone Assessment: Elegant Style Compromised Due to Delayed Processor Response</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-ios-18-functions-unavailable-in-older-iphones-upgrade-required-for-access/"><u>Top IOS 18 Functions Unavailable in Older iPhones - Upgrade Required for Access</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-lockscreen-widget-applications-for-enhanced-iphone-and-ipad-experience/"><u>Top Lockscreen Widget Applications for Enhanced iPhone & iPad Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-mini-protective-covers/"><u>Top Rated iPad Mini Protective Covers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-iphone-13-pro/"><u>Top-Rated Protective Covers for the iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-6-reasons-snapchats-ai-transcends-playfulness/"><u>Unveiling 6 Reasons: Snapchat's AI Transcends Playfulness</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

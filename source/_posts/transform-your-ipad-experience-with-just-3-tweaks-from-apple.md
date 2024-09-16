@@ -1,7 +1,7 @@
 ---
 title: Transform Your iPad Experience with Just 3 Tweaks From Apple
-date: 2024-09-10T10:46:12.568Z
-updated: 2024-09-11T10:46:12.568Z
+date: 2024-09-13T16:09:03.692Z
+updated: 2024-09-16T16:29:40.004Z
 tags:
   - ios
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ipad-stage-manager-multitasking-featured.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Transform Your iPad Experience with Just 3 Tweaks From Apple
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -46,26 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Porting Mac feature App Exposé to iPadOS would streamline app management in Stage Manager with a better overview.
 
  I was disappointed when Apple announced zero updates for the iPad's Stage Manager feature at WWDC24\. I wanted iPadOS 18 to turn my iPad into a multitasking beast, but Stage Manager continues to put off power users and confuse everyone else. Fixing Stage Manager shouldn’t be too hard at this point.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  3 Stage Manager Fixes Apple Should Make
 
@@ -83,69 +35,15 @@ Apple
 
 ![Stage Manager on iPad with the Calendar, Stocks, Files and X apps multitasking concurrently.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ipados-18-stage-manager-multitasking-calendar-stocks-files-x-apps.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  This made sense when Stage Manager debuted in 2022, as earlier iPads had constrained RAM. Fast-forward to today, however, and Stage Manager suffers from the same restrictions despite improved hardware.
 
 ![The iPad task switcher showing individual app thumbnails and two Stage Manager workspaces with four apps in each.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ipados-18-stage-manager-workspaces-task-switcher.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  I use about a dozen apps on my iPad on any given day. I usually run Safari, Mail, Messages, and Notes in one stage, with the Calendar, X, Files, Stocks, and other productivity apps in several other stages. That means I have to invoke[the app switcher](https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-to-filming-live-scenes/) and cycle through these Spaces-like environments whenever I want to use an app not in my current workspace.
 
  I don’t want to juggle between multiple workspaces like an animal. Instead, let me easily run at least eight apps in one window and drag-and-drop between them.
 
  Dropping the four-apps-per-stage restriction shouldn’t be an issue now that iPads and Macs are equipped with 16GB of RAM as standard. At the very least, Stage Manager should check the system requirements to allow for more apps per window on more powerful devices.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ###  Allow Me To Use My Home Screen Widgets
 
@@ -159,19 +57,18 @@ Apple
 
  While multitasking, I check my widgets from time to time. So why complicate my existence by forcing me to choose between Stage Manager and my Home Screen widgets?
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ###  Boost iPad Multitasking With App Exposé
 
@@ -179,9 +76,29 @@ Apple
 
 ![Using the App Expose multitasking feature in macOS Sequoia to get an overview of all open app windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-macos-sequoia-app-expose-multitasking-window-overview.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But I know what would: porting the Mac’s App Exposé feature to iPadOS. An overview of my app windows invoked with a four-finger “claw” trackpad gesture like on macOS would solve window management in Stage Manager in one fell swoop.
 
  While you're at it, Apple, make it so that swiping up and holding from the bottom edge of the display while Stage Manager is active brings up Expose instead of the task switcher.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Also, Bigger iPads Would Be Nice
 
@@ -207,8 +124,6 @@ Tyler Hayes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,41 +133,21 @@ Tyler Hayes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-turn-on-av1-settings-on-youtube-and-why-you-should-do-it-for-2024/"><u>[New] How to Turn on AV1 Settings on YouTube and Why You Should Do It for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-economical-screen-snapper-kit/"><u>[New] Leading Economical Screen Snapper Kit</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-chromebook-real-time-screenshot-app/"><u>[Updated] Chromebook Real-Time Screenshot App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-list-superior-gaming-live-options/"><u>[Updated] Expert List  Superior Gaming Live Options</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-viewer-count-chronicles-mastering-the-math-of-monetizing-moments-in-youtube-space/"><u>[Updated] In 2024, The Viewer Count Chronicles  Mastering the Math of Monetizing Moments in YouTube Space</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-soulful-selection-candid-songs-that-perfectly-match-your-yes/"><u>2024 Approved  Soulful Selection  Candid Songs that Perfectly Match Your 'Yes'</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y100a-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y100A via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-disablingdeleting-twitter-and-its-data-from-your-ios-device/"><u>Comprehensive Guide: Disabling/Deleting Twitter & Its Data From Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-how-to-perform-a-regular-or-hard-restart-on-iphone-devices/"><u>Comprehensive Troubleshooting: How to Perform a Regular or Hard Restart on iPhone Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tutorial-on-transferring-apple-login-details-via-csv-format-for-safekeeping-and-exchange/"><u>Easy Tutorial on Transferring Apple Login Details via CSV Format for Safekeeping and Exchange</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-how-to-project-your-ipad-display-onto-an-amazon-firestick/"><u>Effective Techniques: How to Project Your iPad Display Onto an Amazon Firestick</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-streamers-guide-top-10-sports-apps-for-real-time-action-for-2024/"><u>Essential Streamers' Guide  Top 10 Sports Apps for Real-Time Action for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-enabling-icloud-keychain-on-your-pc-a-step-by-step-tutorial/"><u>Guide: Enabling iCloud Keychain on Your PC - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/hidden-techniques-for-discreetly-managing-your-whatsapp-connections-a-comprehensive-guide-to-block-and-unblock-anonymously/"><u>Hidden Techniques for Discreetly Managing Your WhatsApp Connections - A Comprehensive Guide to Block and Unblock Anonymously</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-does-mms-work-step-by-step-tutorial-for-turning-on-rich-media-sending-in-your-phone/"><u>How Does MMS Work? Step-by-Step Tutorial for Turning On Rich Media Sending in Your Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-boot-your-ipad-into-recovery-mode-the-essential-step-by-step-manual/"><u>How To Boot Your iPad Into Recovery Mode: The Essential Step-by-Step Manual</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-customize-your-devices-lock-screen-background/"><u>How To Customize Your Device's Lock Screen Background</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-send-and-receive-digital-touches-on-your-iphone-the-ultimate-tutorial/"><u>How To Send and Receive Digital Touches On Your iPhone: The Ultimate Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-x5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco X5 Through Google Earth?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-guide-mastering-your-iphones-hotspot-functionality/"><u>In-Depth Guide: Mastering Your iPhone's Hotspot Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/innovative-tricks-for-powering-up-your-iphone-without-traditional-methods/"><u>Innovative Tricks for Powering Up Your iPhone without Traditional Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-teslas-robotic-innovation-gossip-pricing-predictions-and-specs-revealed/"><u>Inside Tesla's Robotic Innovation: Gossip, Pricing Predictions, and Specs Revealed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/instant-record-and-commentary-assistive-software-for-2024/"><u>Instant Record & Commentary Assistive Software for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/keeping-private-how-to-set-a-password-on-your-iphones-note-app-for-added-security/"><u>Keeping Private: How to Set a Password on Your iPhone's Note App for Added Security</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620276461-leading-password-management-solutions-for-iphones-unlock-easily-with-the-best-3-options-available-today/"><u>Leading Password Management Solutions for iPhones: Unlock Easily with the Best 3 Options Available Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-iphone-discover-swift-solutions-with-this-complete-search-tutorial/"><u>Lost iPhone? Discover Swift Solutions with This Complete Search Tutorial!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/master-the-art-of-fb-video-ads-with-a-complimentary-kit/"><u>Master the Art of FB Video Ads with a Complimentary Kit</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-selfie-photography-techniques-for-four-unique-situations/"><u>Mastering the Art of iPhone Selfie Photography: Techniques for Four Unique Situations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620274959-new-ways-to-stream-any-media-directly-to-your-television-screen-no-apple-tv-required/"><u>New Ways to Stream Any Media Directly to Your Television Screen, No Apple TV Required!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-a-stolen-iphone-essential-steps-and-tips/"><u>Recovering a Stolen iPhone: Essential Steps & Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simplified-group-communication-the-ultimate-guide-for-sending-group-texts-on-ios-and-android/"><u>Simplified Group Communication: The Ultimate Guide for Sending Group Texts on iOS & Android</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-sending-voice-messages-from-your-iphone-with-and-without-imessage/"><u>Step-by-Step Guide: Sending Voice Messages From Your iPhone with and without iMessage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-mirroring-ipads-on-chromecast-plus-the-ideal-substitutes/"><u>The Ultimate Guide to Mirroring iPads on Chromecast – Plus the Ideal Substitutes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/turning-your-iphones-selfie-camera-on-and-off-a-complete-guide/"><u>Turning Your iPhone's Selfie Camera On & Off: A Complete Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-instructions-how-to-turn-off-or-erase-facebook-access-on-your-iphone/"><u>Ultimate Instructions: How to Turn Off or Erase Facebook Access on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-secretly-block-or-unblock-contacts-in-whatsapp/"><u>Ultimate Step-by-Step Tutorial: Secretly Block or Unblock Contacts in WhatsApp</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-your-iphones-potential-a-comprehensive-look-at-integrated-television-services/"><u>Unlocking Your iPhone's Potential: A Comprehensive Look at Integrated Television Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-effortlessly-capture-mac-screenshots/"><u>[New] How to Effortlessly Capture Mac Screenshots</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>[New] In 2024, Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-simplified-methods-for-migrating-snapshots-to-storage/"><u>[New] In 2024, Simplified Methods for Migrating Snapshots to Storage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-privacy-first-reader-of-facebook-snapshots/"><u>[Updated] 2024 Approved Privacy-First Reader of Facebook Snapshots</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-and-test-drive-the-newly-released-ios-18-beta-version/"><u>Download and Test Drive the Newly Released iOS 18 Beta Version!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956410498-easy-fixes-for-asus-maximus-x-hero-driver-update-issues-get-started-now/"><u>Easy Fixes for ASUS Maximus X Hero Driver Update Issues - Get Started Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-ios-print-functionality-explained/"><u>Easy Tutorial: IOS Print Functionality Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-for-monitoring-sleep-quality-with-your-apple-watch/"><u>Effective Strategies for Monitoring Sleep Quality with Your Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-mobile-photography-why-upgrading-your-phones-camera-is-a-must/"><u>Elevate Your Mobile Photography: Why Upgrading Your Phone's Camera Is a Must</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-mental-health-through-iphone-monitoring-techniques/"><u>Enhancing Mental Health Through iPhone Monitoring Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-the-pro-lineup-the-case-for-colorful-innovations-at-apple/"><u>Enhancing the Pro Lineup: The Case for Colorful Innovations at Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-techniques-enhancing-your-iphones-video-production-quality-with-these-10-strategies/"><u>Expert Techniques: Enhancing Your iPhone's Video Production Quality with These 10 Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-unable-to-start-error-in-battlefield-4-pc-version/"><u>How to Resolve the 'Unable to Start' Error in Battlefield 4 PC Version</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-swift-solutions-shifting-ios-media-files/"><u>In 2024, Swift Solutions Shifting iOS Media Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-tecno-spark-go-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Spark Go (2023) Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808327051-windows-10-tweaks-and-tips-for-a-superior-gaming-setup-enhance-your-play-today/"><u>Windows 10 Tweaks and Tips for a Superior Gaming Setup – Enhance Your Play Today</u></a></li>
 </ul></div>
+

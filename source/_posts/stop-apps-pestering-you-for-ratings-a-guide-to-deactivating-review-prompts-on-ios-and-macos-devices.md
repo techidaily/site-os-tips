@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2024-09-10T10:46:10.680Z
-updated: 2024-09-11T10:46:10.680Z
+date: 2024-09-14T16:26:33.239Z
+updated: 2024-09-16T16:26:08.848Z
 tags:
   - ios
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ---
 
 ## Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -40,57 +26,9 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![iPhone Settings app with App Store highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-1-1.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Scroll down to locate the "In-App Ratings & Reviews" option. Then, flip the toggle switch next to it off.
 
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
 
@@ -100,37 +38,9 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![Accessing App Store Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-3-2.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  In the "Settings" window, uncheck the checkbox next to "In-App Ratings & Reviews."
 
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ---
 
@@ -142,8 +52,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,39 +61,30 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-youtube-success-with-top-8-thumbnail-strategies/"><u>[New] Unlock YouTube Success with Top 8 Thumbnail Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[Updated] 2024 Approved  Vanguard Designs Evaluation  Studio 25 Examined, Current Year</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-secrets-of-streaming-sound-record-and-preserve/"><u>2024 Approved  Secrets of Streaming Sound  Record and Preserve</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts/"><u>2024 Approved  Unlock Artistic Expression  Download Movie Maker for Win11 Enthusiasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-solutions-how-to-resolve-issues-with-non-playable-audio-tracks-on-your-iphone-models-x-8-7-6-and-5/"><u>Best Solutions: How to Resolve Issues with Non-Playable Audio Tracks on Your iPhone (Models X, 8, 7, 6, and 5)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-file-transfer-using-airdrop-from-your-mac-iphone-ipad-and-ipod-comprehensive-tips-and-tricks/"><u>Effortless File Transfer Using AirDrop From Your Mac, iPhone, iPad & iPod - Comprehensive Tips & Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-rename-your-iphone-two-simple-techniques-unveiled/"><u>Effortlessly Rename Your iPhone: Two Simple Techniques Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-overcoming-iphones-dwindling-network-strength-with-these-7-proven-solutions/"><u>Expert Tips: Overcoming iPhones' Dwindling Network Strength with These 7 Proven Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-notification-issues-on-your-iphone-top-8-solutions-for-ios-10-11-and-12/"><u>Fixing Notification Issues on Your iPhone: Top 8 Solutions for iOS 10, 11 & 12</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-a-red-screen-on-your-iphone-expert-tips-and-solutions/"><u>How to Fix a Red Screen on Your iPhone: Expert Tips and Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-unresponsive-apps-essential-solutions-for-ios-and-android-users/"><u>How to Troubleshoot Unresponsive Apps: Essential Solutions for iOS and Android Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-larger-visuals-elevating-your-youtube-footage/"><u>In 2024, Larger Visuals  Elevating Your YouTube Footage</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-90-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor 90 Pro FRP Bypass</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12 mini</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-18-troubleshooting-solving-iphones-sound-issues-step-by-step/"><u>IOS 18 Troubleshooting: Solving iPhone's Sound Issues Step-by-Step</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/making-the-right-choice-understanding-iphone-jailbreaking-and-its-implications-for-your-device/"><u>Making the Right Choice: Understanding iPhone Jailbreaking and Its Implications for Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-editing-software-for-dummies-top-picks-for-easy-edits/"><u>New Free Video Editing Software for Dummies Top Picks for Easy Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/night-sky-magic-long-exposure-photography-on-iphone-for-2024/"><u>Night Sky Magic  Long-Exposure Photography on iPhone for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-s18-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo S18 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieve-lost-iphone-mailbox-items-expert-tips-and-troubleshooting-steps/"><u>Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sim-free-iphone-setup-a-comprehensive-guide-on-how-to-turn-on-your-device/"><u>SIM-Free iPhone Setup: A Comprehensive Guide on How to Turn On Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-your-iphones-personal-hotspot-issues-step-by-step-troubleshooting-guide/"><u>Solving Your iPhone's Personal Hotspot Issues: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-restoring-an-iphones-factory-settings-post-jailbreak/"><u>Step-by-Step Process: Restoring an iPhone's Factory Settings Post-Jailbreak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-12-iphone-gimbals-and-apps-ultimate-guide-to-smooth-video-capturing/"><u>Top 12 iPhone Gimbals and Apps: Ultimate Guide to Smooth Video Capturing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-effective-methods-to-track-your-iphone-from-computer-or-mac/"><u>Top 5 Effective Methods to Track Your iPhone From Computer or Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-how-to-fix-ios-17-check-in-feature-malfunctions-on-your-iphone/"><u>Troubleshooting Tips: How to Fix 'iOS 17 Check-In' Feature Malfunctions on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-your-verizon-device-2-proven-strategies-for-any-scenario/"><u>Unlocking Your Verizon Device: 2 Proven Strategies for Any Scenario</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-create-custom-avatars-with-these-free-online-face-generators-for-2024/"><u>Updated Create Custom Avatars with These Free Online Face Generators for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-upload-tiktok-videos-to-twitter/"><u>[New] 2024 Approved How to Upload TikTok Videos to Twitter</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2-how-to-turn-off-automatic-transcription-on-your-airpods-for-enhanced-privacy-and-control/"><u>2. How to Turn Off Automatic Transcription on Your AirPods for Enhanced Privacy and Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-immutable-energy-states-in-windows-11/"><u>Bypassing Immutable Energy States in Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-others-replicate-apples-success-with-modular-connectivity-in-electronics/"><u>Can Others Replicate Apple's Success with Modular Connectivity in Electronics?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audience-enchantment-advanced-audacity-crossfading/"><u>In 2024, Audience Enchantment Advanced Audacity Crossfading</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-zte-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Device</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/masterclass-enable-and-enjoy-dvd-viewing-across-different-xbox-one-units/"><u>Masterclass: Enable and Enjoy DVD Viewing Across Different Xbox One Units</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-extracting-and-printer-friendly-converting-iphones-imessages-for-hardcopy-printouts/"><u>Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-apples-advancements-discover-key-features-of-iphone-15-and-15-pro-series/"><u>Unveiling Apple's Advancements: Discover Key Features of iPhone 15 and 15 Pro Series</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-every-application-needs-a-functional-design-as-simple-as-the-tea-timer-app/"><u>Why Every Application Needs a Functional Design as Simple as the Tea Timer App</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

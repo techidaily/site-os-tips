@@ -1,33 +1,13 @@
 ---
 title: "Essential Tips: How I Keep My iPhone Free of Memory Issues"
-date: 2024-09-10T10:46:14.013Z
-updated: 2024-09-11T10:46:14.013Z
+date: 2024-09-11T16:31:23.332Z
+updated: 2024-09-16T16:27:37.382Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496eb332810c3bf1138a8452ea4.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Essential Tips: How I Keep My iPhone Free of Memory Issues
 
@@ -48,20 +28,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Delete App pop-up on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-01-delete-app.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  For a better idea of what’s taking up the most space, open the Settings app and select General > iPhone Storage, then scroll down to the app list, which displays file size next to each app’s name. To delete an app, select it from the list and tap “Delete” to delete it entirely. Or tap “Offload App” to [delete the app but save its data](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-zero-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) separately so your progress and settings will remain if you reinstall it.
 
 ![Offload App and Delete App options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-02-offload-or-delete-app.jpg) 
@@ -74,20 +40,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![App download history on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-04-redownload.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2  Clear Out Your Deleted Photos 
 
  The Photos app also hangs onto deleted photos and videos for up to 30 days, in case you didn’t mean to delete them or change your mind after a few days. This means they’re not really gone right after you decide to get rid of them.
@@ -96,35 +48,7 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Recently Deleted photos menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-05-recently-deleted.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Tap “Select” in the top-right corner, then tap the three dots (…) that appear in the bottom-right corner. Choose “Delete All” from the pop-up menu, then tap “Delete From This iPhone” to permanently delete everything in your Recently Deleted folder. You'll want to do this regularly to keep your iPhone storage free.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3  Pay Attention to the Size of Downloads 
 
@@ -144,57 +68,35 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Sync This iPhone toggle for iCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-07-icloud-sync.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After uploading, you'll want to Settings > Photos > Optimize iPhone Storage to make your iPhone automatically save space by reducing the size of photos kept on your device. Be aware that you only get 5GB of iCloud storage for free. More than that will require [paying for more storage space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/).
 
  Alternatively, you can [use Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/) (which offers up to 15GB of storage for free). Open the Google Drive app, or download it first and sign in if it’s not already on your iPhone, then open the Google Drive folder you want to transfer items to.
 
 ![Upload file option in Google Drive app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-08-google-drive.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Tap the plus (+) icon in the bottom-right corner and select “Upload File” from the pop-up menu. Choose “Photos and Videos” (you may need to give the app access to your Photo Library first), select one or more photos or videos, then tap “Done.”
 
  Choose the “Recents” album from the pop-up menu and select the files again, then tap “Upload” to transfer them to the selected Google Drive folder.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5  Adjust the Photo and Video Settings 
 
@@ -206,23 +108,16 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Record Video resolution and fps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-10-record-video-options.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Back in the Camera menu, select “Formats” and change the Camera Capture setting to “High Efficiency.” Turn off the toggle next to “Apple ProRAW” to reduce photo file sizes, too.
 
 ![Apple ProRAW toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-12-apple-proraw.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6  Use an Old Phone for Spillover 
 
@@ -242,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,43 +146,15 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/0-easy-youtube-video-ideas-everyone-can-make-it-for-2024/"><u>[New] 10 Easy YouTube Video Ideas Everyone Can Make It for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-powerful-applications-to-extract-vimeo-content/"><u>[New] 2024 Approved  Powerful Applications to Extract Vimeo Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-smooth-cross-sounding-with-audacity/"><u>[New] Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-steps-for-recording-captivate-videos/"><u>[New] In 2024, Essential Steps for Recording Captivate Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-secrets-unlocked-convenient-google-meet-arrangement/"><u>[New] In 2024, Secrets Unlocked  Convenient Google Meet Arrangement</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-30plus-futuristic-metaverse-musings-arvr/"><u>[Updated] 2024 Approved  30+ Futuristic Metaverse Musings [AR/VR]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-minecraft-recording-guide-for-mac-enthusiasts/"><u>[Updated] 2024 Approved  Step by Step Minecraft Recording Guide for Mac Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enhance-youtube-views-leveraging-outro-content-partnerships-for-2024/"><u>[Updated] Enhance YouTube Views  Leveraging Outro Content Partnerships for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-making-friends-across-networks-instagram-plus-facebook-for-2024/"><u>[Updated] Making Friends Across Networks  Instagram + Facebook for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-time-travel-how-to-flip-videos/"><u>[Updated] YouTube Time Travel  How to Flip Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>2024 Approved  Visual Storytelling for Social Media  Editing VT Videos in FCPX</u></a></li>
-<li><a href="https://os-tips.techidaily.com/5-simple-methods-to-set-any-song-from-google-play-as-a-custom-ringtone-on-android-devices/"><u>5 Simple Methods to Set Any Song From Google Play as a Custom Ringtone on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-to-finding-a-devices-position-tools-for-android-and-apple-devices/"><u>Comprehensive Guide to Finding a Device's Position: Tools for Android and Apple Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-these-free-ios-simulation-apps-on-android-today-top-picks/"><u>Download These Free iOS Simulation Apps on Android Today – Top Picks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620197950-download-these-free-ios-simulation-apps-on-android-today-top-picks/"><u>Download These Free iOS Simulation Apps on Android Today – Top Picks!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-guide-how-to-easily-mirror-your-samsung-display-with-allshare-cast/"><u>Effortless Guide: How to Easily Mirror Your Samsung Display with AllShare Cast</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-gameplay-discover-the-top-3-strategies-for-playing-cod-mobile-on-pc-without-compromise/"><u>Elevate Your Gameplay: Discover the Top 3 Strategies for Playing COD Mobile on PC Without Compromise</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-and-premium-methods-a-complete-2024-tutorial-on-mastering-among-us-gameplay-on-your-computer/"><u>Free and Premium Methods: A Complete 2024 Tutorial on Mastering Among Us Gameplay on Your Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/generate-individual-meme-crafts-today-for-2024/"><u>Generate Individual Meme Crafts Today for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-fix-the-comctl32dll-dll-error-on-your-computer/"><u>How to Address and Fix the comctl32.dll DLL Error on Your Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hybridmix-pro-for-dual-os-for-2024/"><u>HybridMix Pro for Dual OS for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-7-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y78t Phone?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 15 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-x-vs-samsung-galaxy-s8-in-depth-feature-comparison/"><u>IPhone X vs Samsung Galaxy S8: In-Depth Feature Comparison</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-lost-texts-a-complete-guide-to-retrieving-your-verizon-and-atandt-messages/"><u>Recover Lost Texts: A Complete Guide to Retrieving Your Verizon and AT&T Messages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-your-lost-samsung-account-credentials-and-regaining-android-file-access/"><u>Recovering Your Lost Samsung Account Credentials and Regaining Android File Access</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-continuous-playback-top-4-methods-for-perpetual-videos-on-android-devices/"><u>Seamless Continuous Playback: Top 4 Methods for Perpetual Videos on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-removing-a-google-account-from-your-smartphone-securely/"><u>Simple Steps: Removing a Google Account From Your Smartphone Securely</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simplified-mobile-experience-operating-android-directly-from-your-desktop-no-jailbreaking-needed/"><u>Simplified Mobile Experience: Operating Android Directly From Your Desktop, No Jailbreaking Needed!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-converting-and-displaying-heic-files-on-android-smartphones/"><u>Step-by-Step Guide: Converting & Displaying HEIC Files on Android Smartphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-resetting-samsung-passwords-and-restoring-android-data-privileges/"><u>Step-by-Step Guide: Resetting Samsung Passwords & Restoring Android Data Privileges</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/supreme-five-optimal-dvd-software-for-sierra-os-for-2024/"><u>Supreme Five  Optimal Dvd Software for Sierra OS for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-2024-step-by-step-tutorial-for-effective-instagram-post-sharing-techniques/"><u>The Ultimate 2024 Step-by-Step Tutorial for Effective Instagram Post Sharing Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-android-password-security-software-keeping-your-credentials-safe-and-organized/"><u>The Ultimate List of Android Password Security Software: Keeping Your Credentials Safe and Organized</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-the-9-most-effective-android-emulators-on-pc-and-mac/"><u>The Ultimate List of the 9 Most Effective Android Emulators on PC & Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-7-powerful-emulators-to-install-android-and-ios-applications-on-your-windows-or-mac/"><u>Top 7 Powerful Emulators to Install Android and iOS Applications on Your Windows or Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-methods-for-running-android-applications-on-your-desktop-no-root-required/"><u>Top Methods for Running Android Applications on Your Desktop: No Root Required</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-install-and-use-android-apps-on-pcs-without-device-root-access/"><u>Ultimate Guide to Install and Use Android Apps on PCs without Device Root Access</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile-for-2024/"><u>[Updated] Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-syncopated-shots-picking-the-best-music-for-social-media-for-2024/"><u>[Updated] Syncopated Shots Picking the Best Music for Social Media for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-unexpected-system-restarts-in-windows-10/"><u>Expert Fixes for Unexpected System Restarts in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-find-x7-ultra-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Find X7 Ultra</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-magic-vs-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Magic Vs 2 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nokia-c210-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nokia C210? Fixed | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-and-indepth-analysis-of-pitaka-magez-slide-charger-perfect-companion-for-your-iphone/"><u>Ultimate Guide & InDepth Analysis of Pitaka MagEZ Slide Charger - Perfect Companion for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-why-imessage-requests-you-to-reconnect-with-friends-and-easy-repair-steps/"><u>Understanding Why iMessage Requests You To Reconnect with Friends & Easy Repair Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-a-world-of-vintage-gaming-on-your-mobile-with-retroarchs-latest-ios-and-tvos-release/"><u>Unleash a World of Vintage Gaming on Your Mobile with RetroArch's Latest iOS and tvOS Release</u></a></li>
 </ul></div>
+

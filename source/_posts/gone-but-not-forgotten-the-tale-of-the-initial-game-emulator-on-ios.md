@@ -1,33 +1,13 @@
 ---
 title: "Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS"
-date: 2024-09-10T10:46:14.051Z
-updated: 2024-09-11T10:46:14.051Z
+date: 2024-09-11T16:04:22.919Z
+updated: 2024-09-16T16:04:31.272Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c98436797dfa7a745296f54d142.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS
 
@@ -38,20 +18,6 @@ Apple officially started allowing “retro game console emulator apps” in the 
  The first emulator application to be approved under the new rules was “iGBA,” an emulator for the Nintendo Game Boy, Game Boy Color, and Game Boy Advance. It was able to load game ROMs downloaded from the web, and generally worked well from user reports. However, the app appeared to be a slightly-modified version of the open-source [GBA4iOS](http://www.gba4iosapp.com/download/) emulator, which was originally created for jailbroken iPhones and later published on the [AltStore](https://altstore.io/). The main change in iGBA compared to GBA4iOS was the name change and addition of advertisements.
 
 ![Screenshot of iGBA in the App Store, with screenshots on an iPhone and iPad of a Pokemon game running.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/igba.jpeg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 [PCMarket](https://www.pcmarket.com.hk/apple-first-approved-emulator-igba-had-been-pull-down-from-app-store/)
 
@@ -73,8 +39,6 @@ Apple officially started allowing “retro game console emulator apps” in the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,44 +48,26 @@ Apple officially started allowing “retro game console emulator apps” in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-boosting-your-short-form-video-content-on-youtube/"><u>[New] 2024 Approved  Boosting Your Short-Form Video Content on Youtube</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-addressing-missing-image-display-in-youtubes-shorts/"><u>[New] Addressing Missing Image Display in YouTubes Shorts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-affordable-video-grabbing-tools-tested-on-pcs/"><u>[New] In 2024, Affordable Video Grabbing Tools Tested on PCs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-key-online-archives-of-free-motion-graphics/"><u>[New] Key Online Archives of Free Motion Graphics</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss-for-2024/"><u>[New] The Ultimate List of Exciting PC Clickers You Can't Miss for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>2024 Approved  Achieve Peak Performance  Prime Methods for Zoom Conversion Mastery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620244542-best-android-file-management-apps-reviewed-find-your-perfect-match/"><u>Best Android File Management Apps Reviewed: Find Your Perfect Match!</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/comprehensive-tutorial-effortless-idvd-installation-steps-for-mac-enthusiasts/"><u>Comprehensive Tutorial: Effortless iDVD Installation Steps for Mac Enthusiasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-and-safe-methods-for-rooting-your-android-with-root-genius-explained/"><u>Easy and Safe Methods for Rooting Your Android with Root Genius Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/find-and-track-lost-android-devices-with-android-device-manager/"><u>Find & Track Lost Android Devices with Android Device Manager</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-an-lg-k51-stylo-67-solutions-with-and-without-computer-assistance/"><u>How to Fix an LG K51, Stylo 6/7: Solutions with and without Computer Assistance</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-xr21-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia XR21 Pattern Lock Screen</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 13?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-iconic-anime-intros-the-ultimate-collection/"><u>In 2024, Iconic Anime Intros  The Ultimate Collection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-rooting-on-android-a-comprehensive-tutorial-using-kingo-root-software/"><u>Mastering Rooting on Android: A Comprehensive Tutorial Using Kingo Root Software</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-emergency-bootstraps-the-ultimate-tutorial-on-operating-android-devices-in-safe-mode/"><u>Navigating Emergency Bootstraps: The Ultimate Tutorial on Operating Android Devices in Safe Mode</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mov-video-editing-on-a-budget-top-10-free-editors/"><u>New 2024 Approved MOV Video Editing on a Budget Top 10 Free Editors</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-explore-these-5-pinnacle-platforms-for-efficient-mp3-file-tagging-for-2024/"><u>New Explore These 5 Pinnacle Platforms for Efficient MP3 File Tagging for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/night-owls-compannion-how-to-activate-dark-mode-on-your-iphone-easily/"><u>Night Owl's Compannion: How to Activate Dark Mode on Your iPhone Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-waiting-wacom-devices-now-talking/"><u>No More Waiting: Wacom Devices Now Talking!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcome-video-problems-on-android-proven-methods-and-expert-tips/"><u>Overcome Video Problems on Android: Proven Methods and Expert Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620245306-protect-your-precious-photos-and-contacts-mend-shattered-phone-screens-with-ease/"><u>Protect Your Precious Photos & Contacts: Mend Shattered Phone Screens with Ease!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/repair-guide-how-to-mend-a-damaged-smartphone-display/"><u>Repair Guide: How to Mend a Damaged Smartphone Display</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-a-frozen-android-phone-with-our-step-by-step-data-retrieval-solution-for-corrupted-devices/"><u>Revive a Frozen Android Phone with Our Step-by-Step Data Retrieval Solution for Corrupted Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-battery-life-7-proven-strategies-to-get-your-android-phone-charging-again/"><u>Reviving Battery Life: 7 Proven Strategies to Get Your Android Phone Charging Again</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-effortlessly-unlocking-your-android-device-with-a-quick-jailbreak/"><u>Simple Steps: Effortlessly Unlocking Your Android Device with a Quick Jailbreak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-app-installation-issues/"><u>Simple Troubleshooting Steps to Resolve App Installation Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sony-playstation-5-analysis-beyond-increased-performance/"><u>Sony PlayStation 5 Analysis: Beyond Increased Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/speedy-reset-tactics-mastering-the-art-of-quick-android-phone-reboots/"><u>Speedy Reset Tactics: Mastering the Art of Quick Android Phone Reboots</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-gain-full-control-over-your-android-device-using-kingroot/"><u>Step-by-Step Guide: Gain Full Control Over Your Android Device Using KingRoot</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-functionality-of-a-drenched-smartphones-screen-and-audio-components/"><u>Step-by-Step Guide: Restoring Functionality of a Drenched Smartphone’s Screen and Audio Components</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-unlocking-your-androids-potential-with-kingoroot/"><u>Step-by-Step Guide: Unlocking Your Android's Potential with KingoRoot</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/steps-to-successful-mac-video-capture/"><u>Steps to Successful Mac Video Capture</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-framework-for-adding-media-to-youtube-compilations/"><u>The Essential Framework for Adding Media to YouTube Compilations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-apps-to-locate-your-missing-phone-the-best-alternatives-to-find-my-iphone-on-android-devices/"><u>Top Apps to Locate Your Missing Phone: The Best Alternatives to 'Find My iPhone' On Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-android-file-managers-in-depth-reviews-and-comparisons/"><u>Top Rated Android File Managers: In-Depth Reviews and Comparisons</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620245369-troubleshoot-your-message-send-failures-fast-solutions-for-persistent-issues/"><u>Troubleshoot Your Message Send Failures: Fast Solutions for Persistent Issues!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-lg-phones-k51-stylo-7-and-6-pc-based-vs-manual-repair-methods/"><u>Troubleshooting Tips for LG Phones (K51, Stylo 7 & 6): PC-Based Vs. Manual Repair Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-superuser-access-on-android-devices-a-comprehensive-tutorial-with-kingroot/"><u>Unlocking Superuser Access on Android Devices: A Comprehensive Tutorial with KingRoot</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-color-correction-for-youtube-beauty/"><u>Video Color Correction for YouTube Beauty</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-all-about-io-screen-capture-mastery-guidebook/"><u>[New] All About IO Screen Capture Mastery Guidebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-to-craft-compelling-fb-video-covers-from-scratch/"><u>[New] In 2024, How to Craft Compelling FB Video Covers From Scratch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/visual-power-evaluating-mirrorless-vs-dslr-cameras-for-2024/"><u>Audiovisual Power Evaluating Mirrorless vs DSLR Cameras for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-vivo-y200-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Vivo Y200</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-apples-visual-look-up-function-can-enhance-your-iphone-experience-a-comprehensive-guide/"><u>Discover How Apple's Visual Look-Up Function Can Enhance Your iPhone Experience: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-game-changing-sleep-mode-how-your-apple-watch-can-now-coexist-with-comfort/"><u>Discover the Game-Changing Sleep Mode: How Your Apple Watch Can Now Coexist With Comfort</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-the-value-of-monitoring-my-slumber-a-personal-journey-beyond-initial-doubts/"><u>Discovering the Value of Monitoring My Slumber: A Personal Journey Beyond Initial Doubts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/double-tap-feature-added-to-apple-watch-series/"><u>Double Tap Feature Added to Apple Watch Series</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-altstore-pal-version-completely-gratis-exclusive-offer-for-european-audiences/"><u>Download AltStore PAL Version Completely Gratis: Exclusive Offer for European Audiences</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-to-prevent-auto-lock-on-your-iphone-display/"><u>Effective Techniques to Prevent Auto-Lock on Your iPhone Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-reconnect-loop-issue-in-league-of-legends-latest-fixes-and-patch-notes/"><u>How to Overcome the Reconnect Loop Issue in League of Legends - Latest Fixes and Patch Notes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-g24-power-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola G24 Power</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-effective-youtube-customization-for-powerful-endings/"><u>In 2024, Effective YouTube Customization for Powerful Endings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-installing-asus-chipset-drivers-in-windows/"><u>Step-by-Step Tutorial: Installing ASUS Chipset Drivers in Windows</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
