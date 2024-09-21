@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves"
-date: 2024-09-15T16:29:58.610Z
-updated: 2024-09-16T16:25:53.999Z
+date: 2024-09-19T16:29:57.089Z
+updated: 2024-09-21T17:08:35.635Z
 tags:
   - ios
 categories:
@@ -128,6 +128,13 @@ Tyler Hayes / How-To Geek
 
  For this review, I picked the new [Alpine Loop](https://www.apple.com/shop/product/MT5M3AM/A/49mm-blue-alpine-loop-large?fnode=21df583c35c700eef5f791d814c3b76c69ea38b0bc2fb907492403d104c0f5e44b8ff69fe54923b04f251356058b9079f5162a3d2a844f1ec1400951c6d5d93808b05e6f97337229e1ccd3fa42ae5a19eab2c270f69d6aba408446204eb10829), which Apple states is a carbon-neutral band. It looked a little different in the pictures to me, but wearing the band felt almost identical to last year’s Alpine Loop band. The band has been fine, but it did soak up sweat and water and was hard to dry quickly. So I would recommend the rubber [Ocean Band](https://www.apple.com/shop/product/MT653AM/A/49mm-orange-ocean-band?fnode=e4468a50c132abefe7bb265e61088133af76a853b95084892c8f0d6ae8acb1baa1a7fc29bc733e38c74b34231e7016e5c537f8683d62a9b8438b4e665ab774cf935671720e2f4c138a485b3bc317ccacdbc5407a8edefd63e34114d2866a1bda) for running, swimming, or use during a shower.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What’s Actually New With the Ultra 2?
 
 ![Showing the new Snoopy watch face on Apple Watch Ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-3.JPG) 
@@ -153,13 +160,6 @@ Tyler Hayes / How-To Geek
 
  Battery life is listed at the same 36 hours the original Ultra had. Based on my initial experiences, I fully expect that to hold true, if not increase ever so slightly. Amazing battery life is a major factor keeping me using an Ultra model.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Running With an Ultra 2
 
  My fitness activity of choice is running. I’ve put over 1,000 miles on the original Apple Watch Ultra this past year. I’ve had the chance to put double digital miles on the Ultra 2 so far, and it performed like the last one.
@@ -167,13 +167,6 @@ Tyler Hayes / How-To Geek
  I streamed Apple Music playlists while out on the road. I listened to podcasts using the [Overcast app](https://apps.apple.com/us/app/overcast/id888422857) while running. I used the default Workouts app to track my runs. The watch hardware handled all those things without an issue.
 
  I’m not crazy about the redesigned Workouts screens in watchOS 10, but that’s a software thing I'll need to deal with rather than being Ultra 2 hardware-related.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  watchOS 10 on Ultra 2
 
@@ -198,13 +191,20 @@ Tyler Hayes / How-To Geek
 ![apple watch ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/mt5j3ref_vw_34fr_watch-49-titanium-ultra2_vw_34fr_watch-face-49-alpine-ultra2_vw_34fr_geo_in-removebg-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Apple Watch Ultra 2
 
@@ -291,20 +291,16 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-tweet-town-ranking-the-trending-threads/"><u>[New] Tweet Town Ranking the Trending Threads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-9-cost-free-editing-tools-for-creatives/"><u>[Updated] 2024 Approved Essential Guide 9 Cost-Free Editing Tools for Creatives</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-key-methods-to-incorporate-facebook-live-into-website-designs-for-2024/"><u>[Updated] Key Methods to Incorporate Facebook Live Into Website Designs for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-looking-beneath-surface-understanding-vr-drawbacks/"><u>2024 Approved Looking Beneath Surface Understanding VR Drawbacks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/illuminate-your-night-with-ease-the-ultimate-trick-to-enable-iphone-flashlight-via-backside-pressure/"><u>Illuminate Your Night with Ease: The Ultimate Trick to Enable iPhone Flashlight via Backside Pressure</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-handheld-guide-to-youtube-production/"><u>In 2024, The Essential Handheld Guide to YouTube Production</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-apples-latest-marvel-a-comprehensive-look-at-the-iphone-15-pro-with-revolutionary-titanium-frame-and-enhanced-usb-c/"><u>Inside Apple's Latest Marvel - A Comprehensive Look at the iPhone 15 Pro with Revolutionary Titanium Frame & Enhanced USB-C</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-updated-nvidia-quadro-rtx-8000-drivers-for-windows-operating-systems-windows-1087-supported/"><u>Install Updated Nvidia Quadro RTX 8000 Drivers for Windows Operating Systems: Windows 10/8/7 Supported</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-digital-id-adoption-gains-ground-in-california/"><u>IPhone Digital ID Adoption Gains Ground in California</u></a></li>
-<li><a href="https://extra-information.techidaily.com/low-cost-4k-gear-for-pros-and-amateurs/"><u>Low-Cost 4K Gear for Pros & Amateurs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-professional-email-management-a-top-ten-guide-to-utilizing-apples-mail-app-on-your-iphone/"><u>Mastering Professional Email Management: A Top-Ten Guide to Utilizing Apple's Mail App on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-lifespan-top-7-strategies-for-enhanced-battery-durability-in-airpods-and-airpods-pro/"><u>Maximizing Lifespan: Top 7 Strategies for Enhanced Battery Durability in AirPods & AirPods Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-features-in-ios-174-exciting-updates-with-fresh-emojis-and-enhanced-podcast-support/"><u>New Features in iOS 17.4: Exciting Updates with Fresh Emojis & Enhanced Podcast Support!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-password-management-tool-embraces-passkey-authentication/"><u>New Password Management Tool Embraces Passkey Authentication</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-note-30-vip-racing-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Note 30 VIP Racing Edition to Gmail | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastery-in-monitoring-adding-time-based-events-to-obs/"><u>[Updated] 2024 Approved Mastery in Monitoring Adding Time-Based Events to OBS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-benchmark-analysis-djis-drone-phantom-3/"><u>2024 Approved Benchmark Analysis DJI's Drone Phantom 3</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-solutions-win-discover-why-a-cost-effective-phone-stand-should-be-on-your-radar/"><u>Affordable Solutions Win: Discover Why a Cost-Effective Phone Stand Should Be on Your Radar</u></a></li>
+<li><a href="https://facebook.techidaily.com/amazon-claims-in-court-against-10000-fb-groups-admin/"><u>Amazon Claims in Court Against 10,000 FB Groups Admin</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-barriers-how-the-iphone-is-expanding-globally-while-maintaining-its-presence-in-the-us/"><u>Breaking Barriers: How the iPhone Is Expanding Globally While Maintaining Its Presence in the U.S.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/choosing-between-mid-tier-android-and-aged-iphone-models-why-opting-for-the-iphone-could-be-wiser/"><u>Choosing Between Mid-Tier Android and Aged iPhone Models: Why Opting for the iPhone Could Be Wiser</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-apples-nomad-base-one-max-the-ultimate-3-in-1-magsafe-charging-solution-review/"><u>Comprehensive Analysis of Apple's Nomad Base One Max: The Ultimate 3-in-1 MagSafe Charging Solution Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 12 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/jetzt-kaufen-sie-macx-dvd-ripper-pro-zu-einem-reduzierten-preis-online-perfektes-werkzeug-fur-dvd-kopien/"><u>Jetzt Kaufen Sie MacX DVD Ripper Pro Zu Einem Reduzierten Preis Online - Perfektes Werkzeug Für DVD-Kopien!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers-for-2024/"><u>Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Cell Phone Practices That Shorten Battery Lifespan: Avoid These Mistakes!"
-date: 2024-09-10T16:24:12.890Z
-updated: 2024-09-16T16:14:20.059Z
+date: 2024-09-19T16:10:23.702Z
+updated: 2024-09-21T17:13:12.748Z
 tags:
   - ios
 categories:
@@ -45,22 +45,29 @@ Sergio Rodriguez / How-To Geek
 
  This is why it's important to pay attention to how Android and the iPhone present location permissions. Both platforms allow you to choose "While Using the App" for location access. You should be very stingy with which apps you allow to "Always" access your location. Your battery will thank you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Notifications Constantly Waking the Screen
 
 ![Apple iPhone 14 Pro's display and notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52421159219_1085f0b209_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let's talk about displays again. As mentioned, they eat up a lot of battery life. Naturally, the more the display is powered on, the more battery it will use. A small thing that can have a big impact is notifications that constantly wake up the screen.
 
  It's not only about the display, either. Every time you wake up your phone, a number of sensors and processes spring to life. When your phone is idle, certain apps and activities are put to sleep. So, not only is every notification powering up the power-hungry display, but it's also preventing the phone from idling.
 
  Thankfully, you can [prevent this from happening on the iPhone](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-without-previous-owner-by-drfone-ios/) and [Android devices](https://instagram-videos.techidaily.com/new-instagrams-hottest-25-minds-in-the-digital-age/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Voice Assistants Listening for Wake Commands
 
@@ -72,13 +79,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Notifications and quick settings on the Samsung Galaxy S23+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52709294324_62743ec6e5_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  Wi-Fi is great... when you're near a network. If you're away from your home network and any other known Wi-Fi networks, your phone will continue to scan for available networks, using up battery in the process. This is particularly noticeable in areas with a high density of Wi-Fi networks or when moving between different locations where networks are available.
@@ -86,10 +86,10 @@ Justin Duino / How-To Geek
  What can you do to stop this? Well, for starters, turn off Wi-Fi when you're not at home. Admittedly, that's pretty annoying and easy to forget. [Android has a feature that can do this automatically for you](https://youtube-clips.techidaily.com/sourav-joshis-strategy-for-youtube-earning-in-the-year-2024/). The iPhone does not have a similar feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Keeping Unused Sensors Enabled
@@ -115,17 +115,21 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhancing-selfie-impact-on-instagram-the-zoom-guide/"><u>[New] In 2024, Enhancing Selfie Impact on Instagram The Zoom Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-sidestep-the-norm-alternatives-to-vidma-screen-record-for-2024/"><u>[New] Sidestep the Norm Alternatives to Vidma Screen Record for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reignite-your-gaming-experience-free-voice-transformation-for-valorant-lovers/"><u>2024 Approved Reignite Your Gaming Experience Free Voice Transformation for Valorant Lovers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-streamline-your-media-with-top-8-convertors-1-8/"><u>2024 Approved Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-red-magic-9-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia Red Magic 9 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60x-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme Narzo 60x 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-use-apples-airplay-feature-effectively-an-in-depth-explanation/"><u>How to Use Apple's AirPlay Feature Effectively: An In-Depth Explanation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/icloud-for-windows-receives-significant-upgrade-discover-the-latest-features/"><u>ICloud for Windows Receives Significant Upgrade - Discover the Latest Features!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-ugreen-5000mah-magnetic-charger-pad-does-it-spark-anxiety/"><u>In-Depth Analysis of the Ugreen 5000mAh Magnetic Charger Pad: Does It Spark Anxiety?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-budget-friendly-filmmaking-essentials-software-you-need/"><u>New 2024 Approved Budget-Friendly Filmmaking Essentials Software You Need</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-motion-tracking-apps-on-android-and-iphoneipad/"><u>Updated Best Motion Tracking Apps on Android and iPhone/iPad</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-adventurers-zenith-a-celebration-of-the-best-games-ever-made/"><u>[New] Adventurers' Zenith A Celebration of the Best Games Ever Made</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebooks-premier-new-innovations-exposed-for-2024/"><u>[New] Facebook's Premier New Innovations Exposed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nveiling-the-art-of-valorant-thumbnail-creation-on-youtube/"><u>[New] Unveiling the Art of Valorant Thumbnail Creation on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-5-quick-video-capture-tools/"><u>[Updated] In 2024, Best 5 Quick Video Capture Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-and-utilizing-preview-for-mac-efficiently/"><u>[Updated] Navigating and Utilizing Preview for Mac Efficiently</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>[Updated] Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-facetunes-new-features-review-and-walkthrough/"><u>[Updated] Unveiling Facetune's New Features Review and Walkthrough</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-cash-app-introduces-comparable-high-yield-savings-features-as-the-apple-card/"><u>1. Cash App Introduces Comparable High-Yield Savings Features as the Apple Card</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-mastering-mobile-security-a-step-by-step-guide-to-setting-up-passkeys-on-ios-and-macos-devices/"><u>1. Mastering Mobile Security: A Step-by-Step Guide to Setting Up Passkeys on iOS & macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-whatsapp-successfully-executes-bold-move-with-profit-surge/"><u>1. WhatsApp Successfully Executes Bold Move with Profit Surge</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-most-outstanding-smartphones-a-closer-look-at-leading-iphones/"><u>2023'S Most Outstanding Smartphones: A Closer Look at Leading iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-iphones-built-to-resist-water-and-how-much-exposure-is-safe/"><u>Are iPhones Built to Resist Water, and How Much Exposure Is Safe?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/current-status-of-game-emulator-legality-safe-or-on-the-brink-of-illegalization/"><u>Current Status of Game Emulator Legality: Safe or on the Brink of Illegalization?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-power-of-apples-freeform-app-in-streamlining-your-daily-routine/"><u>Discover the Power of Apple's Freeform App in Streamlining Your Daily Routine</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/explore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launching-a-video-channel-dedicated-to-new-and-used-product-reviews-for-2024/"><u>Launching a Video Channel Dedicated to New and Used Product Reviews for 2024</u></a></li>
 </ul></div>
 

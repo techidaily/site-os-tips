@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2024-09-10T16:13:54.423Z
-updated: 2024-09-16T16:11:13.053Z
+date: 2024-09-20T17:16:51.550Z
+updated: 2024-09-21T16:34:55.431Z
 tags:
   - ios
 categories:
@@ -52,13 +52,6 @@ Tim Brookes / How-To Geek
 
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Create a Mood Board
 
  A mood board is a visual collage of ideas that includes images, text, and other media. Being able to easily cut out subjects from images can make the creation of a mood board fast and easy, removing the need for you to cut out anything by hand. Using the “Copy Subject” option in Safari (after long-pressing an image) means you don’t even need to save an image to your device to use it.
@@ -66,13 +59,6 @@ Tim Brookes / How-To Geek
  Apple’s [Freeform might just be the best tool](https://screen-recording.techidaily.com/new-choosing-livestream-software-the-obs-vs-streamlabs-dilemma-for-2024/) for the job. This [collaborative whiteboard tool](https://tiktok-video-recordings.techidaily.com/make-every-snap-spectacited-top-editors-for-snapchats-best-effects/) is completely free to use, syncs with other Apple devices including the iPad and Mac, and allows you to share your creations with friends. The app comes installed with iOS by default, but just in case you’ve deleted it you can download [Freeform](https://apps.apple.com/us/app/freeform/id6443742539) from the App Store any time.
 
 ![A Nintendo 64-themed mood board created in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1925.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve copied a subject to your clipboard, paste it into a Freeform document by tapping a blank space and selecting “Paste” in the context menu. You can then move, scale, and arrange your mood board accordingly. If you want to create a mood board with non-Apple users, you’ll need to resort to a third-party tool like [Microsoft Whiteboard](https://screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users-for-2024/) or an [agile note-taking app like OneNote](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) instead.
 
@@ -85,6 +71,13 @@ Tim Brookes / How-To Geek
  The best thing about this feature is the way that Notes stores each subject as a small thumbnail that can then be clicked and swiped through. You’ll get an at-a-glance look at your “collection” and you can then tap on each for a better look. There’s no reason this couldn’t work with hairstyles, makeup routines, jewelry combinations, prepared food, and more.
 
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Them in Instagram Stories
 
@@ -104,6 +97,13 @@ Tim Brookes / How-To Geek
 
  On top of this, you can “Share” to Reminders if you want a visual representation of the item, book cover, person, and so on. You can also paste or “Share” into a Messages conversation, skipping the process of turning your image into a sticker before using it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Them in Memes, Posters, and Creative Projects
 
  You can do almost anything on your iPhone or iPad these days, including creative work. The iPhone doesn’t have a proper “Photoshop equivalent” app for designing images and combining multiple cutouts on a single canvas, but there are ways you can use the iPhone to get creative work done.
@@ -112,6 +112,13 @@ Tim Brookes / How-To Geek
 
 ![Adding a subject to a Google Doc using the iPhone paste functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1929.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Publishing apps like [Apple Pages](https://apps.apple.com/us/app/pages/id361309726) and [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640), in addition to slideshow tools like [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) and [Apple Keynote](https://apps.apple.com/us/app/keynote/id409183694?mt=12) also natively support the feature. Design and layout apps like [Canva](https://apps.apple.com/us/app/canva-design-art-ai-editor/id897446215) and [PicCollage](https://apps.apple.com/au/app/piccollage-ai-photo-editor/id448639966) both support pasting of subjects once they’ve been copied to your clipboard.
@@ -119,13 +126,6 @@ Tim Brookes / How-To Geek
  Using these apps you can make use of templates to design a wide variety of digital and printable materials, from Instagram posts to business cards. In most cases, all you need to do is tap or long-tap and select “Paste.” Sometimes you’ll find this option underneath an ellipsis “...” menu instead.
 
  Many apps support the feature, you just need to experiment. Though you can’t refine what is selected as part of the subject isolation process, the feature makes it much easier to create impressive-looking work on mobile.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Save for Use as a Transparent PNG
 
@@ -154,17 +154,18 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-effective-one-channel-streaming-techniques/"><u>[Updated] Unlocking Effective One-Channel Streaming Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-mastering-the-art-of-safe-travel-a-guide-to-using-iphones-check-in-feature/"><u>1. Mastering the Art of Safe Travel: A Guide to Using iPhone's 'Check-In' Feature</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-sketchsphere-complete-evaluation-24-edition/"><u>2024 Approved SketchSphere Complete Evaluation '24 Edition</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-essential-phone-gadget-every-traveler-needs/"><u>Affordable Essential Phone Gadget Every Traveler Needs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-new-series-9-smartwatch-incorporates-neural-engines-and-intuitive-hand-gesture-control/"><u>Apple's New Series 9 Smartwatch Incorporates Neural Engines & Intuitive Hand Gesture Control</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-your-tv-setup-for-a-memorable-super-bowl-showdown/"><u>Enhancing Your TV Setup for a Memorable Super Bowl Showdown</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y100-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y100 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c300-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C300 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/traversing-to-a-new-home-for-your-onedrive-folder-in-windows-10/"><u>Traversing to a New Home for Your OneDrive Folder in Windows 10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-flavorful-success-how-paying-for-the-paprika-app-made-cooking-easier/"><u>Unlocking Flavorful Success: How Paying for the Paprika App Made Cooking Easier</u></a></li>
-<li><a href="https://os-tips.techidaily.com/username-feature-enhanced-in-signals-latest-update/"><u>Username Feature Enhanced in Signal's Latest Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unparalleled-access-8-leading-fb-movie-downloader-list/"><u>[Updated] In 2024, Unparalleled Access #8 Leading FB Movie Downloader List</u></a></li>
+<li><a href="https://windows11.techidaily.com/audible-improvements-for-windows-users-stepwise-audio-driver-revamp/"><u>Audible Improvements for Windows Users: Stepwise Audio Driver Revamp</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-worlds-shaping-future-cinematic-experiences-for-2024/"><u>Immersive Worlds Shaping Future Cinematic Experiences for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigation-showdown-assessing-the-superiority-between-waze-and-google-maps/"><u>Navigation Showdown: Assessing the Superiority Between Waze and Google Maps.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieving-lost-voice-messages-on-your-iphone-a-step-by-step-guide/"><u>Retrieving Lost Voice Messages on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-charging-apple-integrates-usb-type-c-into-in-ear-headphones/"><u>Revolutionizing Charging: Apple Integrates USB Type-C Into In-Ear Headphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamlessly-transition-from-google-photos-to-protondrive-on-your-iphone-a-comparable-experience/"><u>Seamlessly Transition From Google Photos to ProtonDrive on Your iPhone: A Comparable Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/setapp-the-future-of-iphone-app-distribution-your-next-go-to-alternate-app-store/"><u>SetApp: The Future of iPhone App Distribution - Your Next Go-To Alternate App Store</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-window-11s-best-kept-secrets-for-maximum-productivity-for-2024/"><u>Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity for 2024</u></a></li>
 </ul></div>
 

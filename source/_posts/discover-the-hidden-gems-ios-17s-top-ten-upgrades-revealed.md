@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2024-09-13T16:29:04.540Z
-updated: 2024-09-16T16:00:57.135Z
+date: 2024-09-18T16:48:14.956Z
+updated: 2024-09-21T16:23:17.073Z
 tags:
   - ios
 categories:
@@ -35,6 +35,13 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  On top of this, there’s a “Call Hang-Up” command that you can enable under Settings > Siri & Search that lets you tell Siri to hang up the phone while you’re on a call.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Link Your Notes Together
 
 [Apple Notes is a powerful note-taking app](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) and it costs nothing to use (though you may need more iCloud storage if you have a lot of attachments). One of the last big missing features was the ability to link notes together, and iOS 17 finally changed that.
@@ -51,6 +58,13 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Get item suggestions in Apple Reminders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/autocomplete_reminders.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There’s also a new “Siri Suggestions” option beneath your pinned lists in the Reminders apps that finds to-do list items that you might have forgotten about. Tap on an item to add it to Reminders.
 
 ##  App Shortcuts Within Spotlight
@@ -60,26 +74,26 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![Search for an app to see shortcuts to different features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/search_app_features.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Straightness Level in Camera Viewfinder
 
  In iOS 17 you’ll see a new level overlay when taking photos that appears when your horizon is _nearly_ straight and disappears when you’re intentionally shooting Dutch angles. This is on by default, but you can turn it off under Settings > Camera > Level.
 
 ![The new level overlay helps you shoot straight when using the Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/camera_level.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Quickly Access and Lock Private Browsing
 
@@ -89,19 +103,6 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  New Shortcuts for Cropping Images in Photos
 
  The Photos app now makes it easier than ever to crop a photo using the Photos app. Simply zoom in on a photo and you’ll see a “Crop” button appear in the top-right corner of the screen. This works in both portrait and landscape views. Tapping it will automatically crop the image to your current view, maintaining the aspect ratio of your screen.
@@ -110,18 +111,18 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Animated Now Playing Screens in Music
 
  It’s not useful, and it’s not even universal, but Now Playing screens in the Music app now look a whole lot nicer as long as the album you’re listening to has animated album art.
 
 ![now_playing_japanese_breakfast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_japanese_breakfast.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
 
@@ -130,19 +131,6 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 Close 
 
  Not only do albums now fill the screen and gradually blend into the controls at the bottom, but you’ll also see the animation play out.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Upgrade to iOS 17
 
@@ -165,18 +153,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hannel-specific-audio-excellence-top-156-character-titles-for-yt-sound-solutions-for-2024/"><u>[New] Channel-Specific Audio Excellence Top 156 Character Titles For YT Sound Solutions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-pictorial-archive-networks/"><u>[New] Excellent Pictorial Archive Networks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-to-elevate-your-gopro-footage/"><u>2024 Approved Expert Strategies to Elevate Your GoPro Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-course-on-morphvox-converting-your-voice-professionally-for-2024/"><u>Full Course on MorphVOX Converting Your Voice Professionally for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Without Passcode Easily</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-15-pro-max-disappoints-during-in-depth-ifixit-anatomy-analysis/"><u>IPhone 15 Pro Max Disappoints During In-Depth iFixit Anatomy Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-personal-hotspot-problems-discover-these-effective-10-remedies-to-restore-connectivity/"><u>IPhone Personal Hotspot Problems? Discover These Effective 10 Remedies to Restore Connectivity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-update-news-and-product-safety-announcements-weekly-summary/"><u>IPhone Update News & Product Safety Announcements - Weekly Summary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/issues-with-apple-card-and-apple-pay-a-comprehensive-look/"><u>Issues with Apple Card & Apple Pay: A Comprehensive Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/key-hurdles-preventing-iphone-upgrade-decisions/"><u>Key Hurdles Preventing iPhone Upgrade Decisions</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986498163-league-of-legends-performance-hiccups-heres-how-to-tackle-them-swiftly/"><u>League of Legends Performance Hiccups? Here's How to Tackle Them Swiftly!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/love-at-first-sight-the-paprika-app-transforms-my-project-management-forever/"><u>Love at First Sight: The Paprika App Transforms My Project Management Forever!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unveiling-best-underwater-cameras-for-deep-blue-explorations-for-2024/"><u>Unveiling Best Underwater Cameras for Deep Blue Explorations for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-huge-4th-of-july-discount-save-on-all-items-at-urban-armor-gear/"><u>1. Huge 4Th of July Discount: Save on All Items at Urban Armor Gear</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-drone-racing-enthusiasts-and-premium-fpv-units/"><u>2024 Approved Expert Tips for Drone Racing Enthusiasts & Premium FPV Units</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-tecno-camon-30-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Tecno Camon 30 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-watermark-removal-hacks-with-and-without-payment/"><u>Filmora Watermark Removal Hacks With and Without Payment</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-youtube-channel-art-templates-find-them-here-for-2024/"><u>Free YouTube Channel Art Templates - Find Them Here for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-itel-a60-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Itel A60.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-motorola-razr-40-ultra-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Motorola Razr 40 Ultra to Roku | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/utilize-iphone-projection-as-a-substitute-for-running-ios-programs-on-mac-devices/"><u>Utilize iPhone Projection as a Substitute for Running iOS Programs on Mac Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/what-to-do-if-you-cant-get-texts-on-your-iphone-comprehensive-guide-and-tips/"><u>What To Do If You Can't Get Texts on Your iPhone – Comprehensive Guide & Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-devoted-iphone-owners-cherish-apples-strict-regulations-despite-boundaries/"><u>Why Devoted iPhone Owners Cherish Apple's Strict Regulations Despite Boundaries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-postponing-your-next-apple-watch-update-could-be-wise/"><u>Why Postponing Your Next Apple Watch Update Could Be Wise</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oneplus-nord-3-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On OnePlus Nord 3 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

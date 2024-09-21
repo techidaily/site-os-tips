@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: How I Keep My iPhone Free of Memory Issues"
-date: 2024-09-11T16:31:23.332Z
-updated: 2024-09-16T16:27:37.382Z
+date: 2024-09-15T16:49:47.600Z
+updated: 2024-09-21T16:29:19.254Z
 tags:
   - ios
 categories:
@@ -58,7 +58,21 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![App file size info on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-06-app-store-info.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Something to keep in mind is that some apps and games (particularly [live service games](https://facebook-video-share.techidaily.com/unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube-for-2024/)) often download even more data once you start them up for the first time. Since I'm always trying to keep my iPhone storage free, I'm very particular about which large apps I download in the first place.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Move Photos and Videos to the Cloud 
 
@@ -68,35 +82,22 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Sync This iPhone toggle for iCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-07-icloud-sync.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After uploading, you'll want to Settings > Photos > Optimize iPhone Storage to make your iPhone automatically save space by reducing the size of photos kept on your device. Be aware that you only get 5GB of iCloud storage for free. More than that will require [paying for more storage space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/).
 
  Alternatively, you can [use Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/) (which offers up to 15GB of storage for free). Open the Google Drive app, or download it first and sign in if it’s not already on your iPhone, then open the Google Drive folder you want to transfer items to.
 
 ![Upload file option in Google Drive app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-08-google-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap the plus (+) icon in the bottom-right corner and select “Upload File” from the pop-up menu. Choose “Photos and Videos” (you may need to give the app access to your Photo Library first), select one or more photos or videos, then tap “Done.”
 
  Choose the “Recents” album from the pop-up menu and select the files again, then tap “Upload” to transfer them to the selected Google Drive folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Adjust the Photo and Video Settings 
 
@@ -107,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
  Open the Settings app, scroll down, then tap on the “Camera” option. Tap “Record Video” to change your video recording settings. The higher the resolution and frame rate, the bigger the file is going to be. You can also toggle off “HDR Video (High Efficiency)” to save a bit more space per video.
 
 ![Record Video resolution and fps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-10-record-video-options.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Back in the Camera menu, select “Formats” and change the Camera Capture setting to “High Efficiency.” Turn off the toggle next to “Apple ProRAW” to reduce photo file sizes, too.
 
@@ -146,15 +140,20 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile-for-2024/"><u>[Updated] Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile) for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-syncopated-shots-picking-the-best-music-for-social-media-for-2024/"><u>[Updated] Syncopated Shots Picking the Best Music for Social Media for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-unexpected-system-restarts-in-windows-10/"><u>Expert Fixes for Unexpected System Restarts in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-find-x7-ultra-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Find X7 Ultra</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-magic-vs-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Magic Vs 2 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nokia-c210-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nokia C210? Fixed | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-and-indepth-analysis-of-pitaka-magez-slide-charger-perfect-companion-for-your-iphone/"><u>Ultimate Guide & InDepth Analysis of Pitaka MagEZ Slide Charger - Perfect Companion for Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-why-imessage-requests-you-to-reconnect-with-friends-and-easy-repair-steps/"><u>Understanding Why iMessage Requests You To Reconnect with Friends & Easy Repair Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-a-world-of-vintage-gaming-on-your-mobile-with-retroarchs-latest-ios-and-tvos-release/"><u>Unleash a World of Vintage Gaming on Your Mobile with RetroArch's Latest iOS and tvOS Release</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-selecting-prime-meme-blueprints/"><u>[New] 2024 Approved Selecting Prime Meme Blueprints</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-fixing-shorts-the-thumbnail-not-showing-dilemma/"><u>[New] In 2024, Fixing Shorts The Thumbnail Not Showing Dilemma</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-creative-commons-copyright-licenses-for-2024/"><u>[Updated] How to Use Creative Commons Copyright Licenses for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-process-for-achieving-facebooks-trusted-marker/"><u>[Updated] Unveiling the Process for Achieving Facebook's Trusted Marker</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-11-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 11? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-edge-slow-motion-capture-software-phones-iosandroid-for-2024/"><u>Leading Edge Slow Motion Capture Software, Phones iOS/Android for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-voice-how-your-iphone-communicates-as-powerfully-as-apples-first-macintosh/"><u>Revolutionary Voice: How Your iPhone Communicates as Powerfully as Apple's First Macintosh</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-car-induced-discomfort-with-iphones-latest-ios-18-update-for-a-smoother-ride-experience/"><u>Say Goodbye to Car-Induced Discomfort with iPhone's Latest iOS 18 Update for a Smoother Ride Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-phone-easily-how-to-modify-iphone-password-settings/"><u>Secure Your Phone Easily: How to Modify iPhone Password Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/slow-charge-on-your-iphone-discover-why-and-how-to-fix-it/"><u>Slow Charge on Your iPhone? Discover Why and How to Fix It!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-iphones-ios-updating-issues-top-11-solutions/"><u>Solving Your iPhones iOS Updating Issues: Top 11 Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlining-security-effortless-removal-of-2fa-notifications-from-ios-devices/"><u>Streamlining Security: Effortless Removal of 2FA Notifications From iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-compelling-reason-behind-my-daily-mobile-decor-transformations/"><u>The Compelling Reason Behind My Daily Mobile Décor Transformations</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tier-combat-gear-unveiled-in-call-of-duty-modern-warfare-update/"><u>Top Tier Combat Gear Unveiled in Call of Duty: Modern Warfare Update</u></a></li>
 </ul></div>
 

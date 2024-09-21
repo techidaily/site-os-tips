@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2024-09-10T16:30:54.618Z
-updated: 2024-09-16T16:31:58.514Z
+date: 2024-09-20T17:06:51.319Z
+updated: 2024-09-21T17:11:29.051Z
 tags:
   - ios
 categories:
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
@@ -65,16 +58,22 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
 
@@ -85,15 +84,22 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -116,20 +122,12 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-perfect-palette-pro/"><u>[New] Perfect Palette Pro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-guide-to-mastering-final-cut-pro-essentials-for-2024/"><u>[Updated] Ultimate Guide to Mastering Final Cut Pro Essentials for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-understanding-iphone-and-ipad-system-data-what-does-it-store-and-how-can-you-manage-it/"><u>1. Understanding iPhone and iPad System Data: What Does It Store & How Can You Manage It?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-inside-apeaksofts-2023-recording-technology-breakthroughs/"><u>2024 Approved Inside Apeaksoft's 2023 Recording Technology Breakthroughs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/7-uncommon-methods-for-cable-free-mobile-device-charging/"><u>7 Uncommon Methods for Cable-Free Mobile Device Charging</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising/"><u>Budding Entrepreneurs Guide Mastering the Art of Social Media Advertising</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easily-update-and-download-sas-software-for-windows-users-windows-1087/"><u>Easily Update and Download SAS Software for Windows Users (Windows 10/8/7)</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-and-update-amd-radeon-hd-7850-drivers-on-windows-11/"><u>How to Install and Update AMD Radeon HD 7850 Drivers on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/interactive-steps-towards-fluency-in-spanish/"><u>Interactive Steps Towards Fluency in Spanish</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-fresh-capabilities-discover-the-iphone-improvements-in-apples-recent-ios-1evolution-version-172-update/"><u>Unlocking Fresh Capabilities: Discover the iPhone Improvements in Apple's Recent iOS 1Evolution, Version 17.2 Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-your-iphones-secret-science-mode-a-guide-to-accessing-built-in-scientific-calculator/"><u>Unlocking Your iPhone's Secret Science Mode: A Guide to Accessing Built-In Scientific Calculator</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-microsoft-365s-new-innovative-widget-for-enhanced-user-experience/"><u>Unveiling Microsoft 365'S New Innovative Widget for Enhanced User Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/update-before-upgrading-to-the-latest-iphone-tips-for-a-smooth-transition/"><u>Update Before Upgrading to the Latest iPhone - Tips for a Smooth Transition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-gifs-transforming-vimeo-videos-into-animated-graphics/"><u>[New] Mastering GIFs Transforming Vimeo Videos Into Animated Graphics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/7-intriguing-arguments-to-expand-your-lexicon/"><u>7 Intriguing Arguments to Expand Your Lexicon</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/echoes-of-entertainment-adding-sound-to-snapchat-vids-for-2024/"><u>Echoes of Entertainment Adding Sound to Snapchat Vids for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-s24-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy S24 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-mobile-mindfulness-bid-farewell-to-incessant-notifications-with-these-4-strategies/"><u>Mastering Mobile Mindfulness: Bid Farewell to Incessant Notifications with These 4 Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-health-top-6-strategies-for-leveraging-a-fitness-tracker/"><u>Maximize Your Health: Top 6 Strategies for Leveraging a Fitness Tracker</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-productivity-the-benefits-of-utilizing-the-native-ios-notes-app/"><u>Maximizing Productivity: The Benefits of Utilizing the Native iOS Notes App</u></a></li>
 </ul></div>
 

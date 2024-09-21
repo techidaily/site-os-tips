@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System"
-date: 2024-09-14T16:12:33.744Z
-updated: 2024-09-16T16:23:16.369Z
+date: 2024-09-17T17:11:12.437Z
+updated: 2024-09-21T16:11:28.747Z
 tags:
   - ios
 categories:
@@ -38,10 +38,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 ![iPhone Messages RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-messages-rcs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (Rich Communication Service) is a mobile communication protocol that significantly improves upon traditional SMS messaging by offering richer chat functionalities like file and media sharing. RCS has been available since Android 5 (2014), and it's finally coming to iPhones with iOS 18\. RCS support means you'll finally be able to chat properly and share stickers and high-res images with your Android friends.
@@ -49,6 +49,13 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 ##  App Lock
 
 ![iPhone iOS 18 app lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-ios-18-app-lock.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  App locking is a new privacy feature that lets you lock any app you wish so that others can't access it, even if your phone is unlocked. When you want to open a locked app, you'll be required to use Face ID, Touch ID, or your passcode to unlock it. Previously, only authenticators and bank apps required authorization before you could access them. My [2019 Android 11 phone](https://fox-glue.techidaily.com/new-advanced-data-analytics-methods-for-market-research-analysis-for-2024/) has this feature, and I wouldn't be surprised to learn that it's available on Android devices that are even older.
 
@@ -72,13 +79,6 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  You can actually use Google Password Manager on iOS as well, but it's great to see that Apple is now adding a first-party Passwords app. It'll store your Wi-Fi passwords, passcodes, and verification codes as well, so it'll be a real log-in one-stop shop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  More Customization in the Control Center
 
 ![iOS 18 control center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-control-center.png) 
@@ -93,15 +93,28 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Credit where credit is due: I quite like the new digest view that consolidates all emails from a business into one window. This view allows you to quickly check snippets of all emails from a business without having to fiddle around with the search function.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Calendar Reminders
 
  The Calendar app will now show tasks you create in Reminders. Although this is a simple change, it's a game-changer for busy individuals who rely on their notes to keep track of daily tasks. Google Calendar does the same with Google Tasks and, to a lesser extent, Google Keep, but we'll see [Keep and Tasks sync up](https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/) sometime soon. Ultimately, both Android and iOS will have identical calendar functions when these changes come around.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Photo Editing
@@ -110,22 +123,15 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  On-Device AI
 
 ![Apple Intelligence presentation slide at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_splash.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -155,18 +161,16 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost-for-2024/"><u>[New] Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost) for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/effortless-integration-uploading-and-showcasing-imovie-videos-to-vimeo-for-2024/"><u>Effortless Integration Uploading and Showcasing iMovie Videos to Vimeo for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-steps-how-to-share-your-iphones-live-photos-on-android-devices/"><u>Essential Steps: How to Share Your iPhone's Live Photos on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-preventing-iphone-screens-from-popping-up-with-notification-banners-and-alerts/"><u>Expert Tips: Preventing iPhone Screens From Popping Up with Notification Banners and Alerts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-apples-expanded-pre-paid-and-financing-choices-for-iphones/"><u>Exploring Apple's Expanded Pre-Paid and Financing Choices for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/extend-your-battery-life-with-ease-master-the-ins-and-outs-of-iphones-low-power-feature/"><u>Extend Your Battery Life with Ease: Master the Ins and Outs of iPhone's Low Power Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-saving-single-images-from-your-iphones-live-photo-collection/"><u>Guide: Saving Single Images From Your iPhone's Live Photo Collection</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-105-classic-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia 105 Classic Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-10-youtube-tips-for-teachers/"><u>In 2024, 10 YouTube Tips for Teachers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-revamp-of-lenovo-usb-c-dock-drivers/"><u>Rapid Revamp of Lenovo USB-C Dock Drivers</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/streaming-cinematic-masterpieces-on-ipad-pro-top-5-no-cost-app-selection-and-download-tips/"><u>Streaming Cinematic Masterpieces on iPad Pro: Top 5 No-Cost App Selection & Download Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncovering-the-best-unnoticed-speech-to-text-on-mac-for-2024/"><u>Uncovering the Best Unnoticed Speech to Text on Mac for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>[New] 2024 Approved Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swiftvideo-pro-accelerate-your-android-content/"><u>[New] SwiftVideo Pro Accelerate Your Android Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplifying-your-social-media-reach-with-zoom-plus-fb-live-for-2024/"><u>Amplifying Your Social Media Reach with ZOOM + FB Live for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/live-action-9-the-ultimate-guide-for-2024/"><u>Live Action, #9 The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-to-deactivate-dnd-functionality-on-iphones/"><u>Step-by-Step Instructions to Deactivate DND Functionality on iPhones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook-for-2024/"><u>Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-growing-trend-of-oversized-phones-why-are-they-becoming-the-norm/"><u>The Growing Trend of Oversized Phones: Why Are They Becoming the Norm?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-shocking-improvement-of-airpods-pro-2-my-ultimate-review/"><u>The Shocking Improvement of AirPods Pro 2 - My Ultimate Review!</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-stylus-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G Stylus (2023) fingerprint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204341501-windows-update-quandary-breaking-through-when-progress-halts-at-100/"><u>Windows Update Quandary - Breaking Through When Progress Halts at 100%!</u></a></li>
 </ul></div>
 

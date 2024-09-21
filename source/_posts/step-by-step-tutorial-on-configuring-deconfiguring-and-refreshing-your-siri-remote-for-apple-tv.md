@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
-date: 2024-09-11T16:10:17.698Z
-updated: 2024-09-16T16:13:22.545Z
+date: 2024-09-17T16:47:18.579Z
+updated: 2024-09-21T17:19:13.796Z
 tags:
   - ios
 categories:
@@ -49,13 +49,6 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote disconnected message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_disconnected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Unpair an Apple TV Remote
 
  There is no way to unpair an Apple TV remote from an Apple TV unit. This can present a problem if you have multiple Apple TV units and you want to migrate one remote to the other, for whatever reason. Fortunately, you can work around this limitation and effectively “hijack” the remote so that it works on your desired Apple TV.
@@ -76,6 +69,13 @@ Tim Brookes / How-To Geek
 
  You won’t see a light or a charging indicator while the remote is charging, so be patient and test it when enough time has passed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Power Cycle the Apple TV to Reset It
 
  Sometimes the only way to solve a problem is to [turn a device off and on again](https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g13-drfone-by-drfone-virtual-android/). This is true for computers, smartphones, and tablets; so of course it’s true for the Apple TV as well.
@@ -83,10 +83,10 @@ Tim Brookes / How-To Geek
  To fully power cycle your Apple TV unplug it from the wall, wait around 10 seconds, and then plug it back in again. The unit should automatically start up and dump you on the dashboard. You’ll need to hit a button on the remote for it to pair, after which your remote should (hopefully) work again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Connect an iPhone or iPad as a Remote
@@ -96,13 +96,6 @@ Tim Brookes / How-To Geek
  Assuming your Apple TV is linked to the same Apple ID as your iPhone or iPad, you should be able to use the “Remote” app on your device to select the streaming box. Use the “Choose a TV” drop-down at the top of the screen to select your Apple TV.
 
 ![Selecting an Apple TV to control in the iPhone Remote app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_iphone.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t see your Apple TV listed, you can try waking it by restarting it (unplug it and then plug it back in, and wait for it to boot) and then selecting the Apple TV when it appears in the app. You may need to pair the iPhone, just follow any on-screen instructions.
 
@@ -115,32 +108,13 @@ Tim Brookes / How-To Geek
 ![Updating the tvOS software on an Apple TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_update_software2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With your iPhone or iPad connected as a remote, navigate to Settings > System > Software Updates and install any outstanding updates. The Apple TV will restart, after which you can try using (or pairing) your remote again.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Control Your Apple TV with a TV or Universal Remote
 
@@ -152,6 +126,13 @@ Tim Brookes / How-To Geek
 
  Remember that your TV will also react to any buttons you press, so this can occasionally cause issues if the required buttons trigger functions on your TV.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Control Your Apple TV with a Game Controller
 
  Compatible game controllers like the Xbox Core controller and Sony’s DualSense controller are [great additions to an Apple TV](https://facebook-video-recording.techidaily.com/best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/) if you want to use the unit to play games. They also control the interface once paired, which can be a convenient remote replacement for some users.
@@ -159,6 +140,13 @@ Tim Brookes / How-To Geek
  You’ll need some way of controlling the Apple TV to set this up, so try connecting an iPhone or iPad using the Remote app before you begin. Put your controller of choice into pairing mode (the instructions will differ depending on which gamepad you’re trying to pair). To pair, navigate to Settings > Remotes and Devices > Bluetooth and select your controller from the list (or use Control Center by holding the TV button).
 
 ![View vvailable game controllers on an Apple TV via Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_game_controller-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After pairing, your controller should stay paired with your Apple TV, depending on which pad you’re using.
 
@@ -183,20 +171,20 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-audiorecorder-examination/"><u>[New] In 2024, Audiorecorder Examination</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-reimagining-mobile-photoshopping-iphone-x-insights-for-2024/"><u>[New] Reimagining Mobile Photoshopping IPhone X Insights for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-brand-pixels-customizing-gaming-banners-with-style/"><u>[Updated] Brand Pixels Customizing Gaming Banners with Style</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pro-controller-101-mastering-steam-and-switch-integration-for-2024/"><u>[Updated] Pro Controller 101 Mastering Steam and Switch Integration for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-excellence-in-augmented-reality-gaming-the-arcshell-ar-5-evaluation/"><u>Affordable Excellence in Augmented Reality Gaming: The Arcshell AR-5 Evaluation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-honorable-warriors-reimagined-best-matching-gaming-titles/"><u>In 2024, Honorable Warriors, Reimagined Best Matching Gaming Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-engage-listeners-through-instagram-and-podcasts/"><u>In 2024, How To Engage Listeners Through Instagram & Podcasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-storage-effortless-steps-to-clear-out-unneeded-email-on-iphoneipad/"><u>Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-your-icloud-effective-strategies-for-clearing-out-space/"><u>Maximizing Your iCloud: Effective Strategies for Clearing Out Space</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-contractor-takes-charge-of-supporting-apples-innovative-on-the-road-help-system-via-satellites/"><u>New Contractor Takes Charge of Supporting Apple's Innovative On-The-Road Help System via Satellites</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-generation-of-adobes-ai-exploring-the-power-packed-features-within-the-latest-express-app-beta/"><u>New Generation of Adobe's AI: Exploring the Power-Packed Features Within the Latest Express App BETA</u></a></li>
-<li><a href="https://os-tips.techidaily.com/nomad-and-peak-design-unite-to-engineer-a-durable-stylish-shield-for-the-next-gen-iphone-15-pro/"><u>Nomad & Peak Design Unite to Engineer a Durable, Stylish Shield for the Next-Gen iPhone 15 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revitalizing-sports-performance-how-the-apple-watch-supports-athletes-rest-periods/"><u>Revitalizing Sports Performance: How the Apple Watch Supports Athlete's Rest Periods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionize-your-iphone-usage-with-these-10-covert-ios-shortcuts/"><u>Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-functional-silent-mode-on-iphones-effective-solutions/"><u>Troubleshooting a Non-Functional Silent Mode on iPhones: Effective Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-humorous-horizons-in-the-virtual-realm-your-meme-making-map/"><u>[New] Humorous Horizons in the Virtual Realm - Your Meme-Making Map</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unleash-creativity-the-premier-apps-for-picture-framing/"><u>[New] In 2024, Unleash Creativity The Premier Apps for Picture Framing</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-unveils-next-gen-processor-the-a17-surpasses-the-a16-speed-test/"><u>Apple Unveils Next-Gen Processor: The A17 Surpasses the A16 Speed Test</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-users-must-have-guide-mophie-3-in-1-travel-charger-revealed-best-price-for-on-the-go-charging/"><u>Apple Users' Must-Have Guide: Mophie 3-in-1 Travel Charger Revealed - Best Price for On-the-Go Charging</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-vs-samsung-a-deep-dive-into-how-equally-superior-ecosystems-shape-user-experience/"><u>Apple Vs. Samsung: A Deep Dive Into How Equally Superior Ecosystems Shape User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bring-console-quality-gameplay-anywhere-the-latest-gamma-ps-emulator-debuts-on-iphone/"><u>Bring Console-Quality Gameplay Anywhere: The Latest 'Gamma' PS Emulator Debuts on iPhone!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-you-use-siri-to-unlock-your-iphone-the-pros-and-cons-explained/"><u>Can You Use Siri to Unlock Your iPhone? The Pros and Cons Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/catch-the-game-anywhere-with-apples-newly-launched-free-sports-application/"><u>Catch the Game Anywhere with Apple's Newly Launched Free Sports Application!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cyberpower-cp685avrg-unit-assessment-essential-uninterruptable-power-supply-successfully-performs/"><u>Cyberpower CP685AVRG Unit Assessment: Essential Uninterruptable Power Supply Successfully Performs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/googles-latest-innovation-an-expert-evaluation-of-the-wireless-nest-doorbell-battery/"><u>Google's Latest Innovation: An Expert Evaluation of the Wireless Nest Doorbell (Battery)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 12 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-frequent-warzone-20-crashes-on-windows/"><u>Resolved: Fixes for Frequent Warzone 2.0 Crashes on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-yours-top-notch-erasers-made-just-for-your-iphone/"><u>Secure Yours – Top-Notch Erasers Made Just for Your iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tilbagebetalingspolitike-i-movavi-hvordan-folgespillerne-vurderer-sikrethedsfelt/"><u>Tilbagebetalingspolitike I Movavi: Hvordan Følgespillerne Vurderer Sikrethedsfelt</u></a></li>
 </ul></div>
 

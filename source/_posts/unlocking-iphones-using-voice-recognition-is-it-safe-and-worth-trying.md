@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-09-13T16:30:28.042Z
-updated: 2024-09-16T16:24:24.371Z
+date: 2024-09-20T16:47:25.051Z
+updated: 2024-09-21T16:33:10.428Z
 tags:
   - ios
 categories:
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Voice Unlocking Is a Bad Idea
 
  This trick has mostly made the rounds on TikTok, and though it sounds like a clever time-saver in theory, it's not a great idea from a security standpoint. In one of the [more popular TikToks](https://www.tiktok.com/@hardreset.info/video/7108688191317691653/), the author uses the phrase "please unlock my iPhone" to trigger the shortcut.
@@ -57,10 +64,10 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
  This technique is often touted as a way to unlock your iPhone when your hands are dirty, but if you're unlocking your iPhone you're probably going to touch the screen anyway. Don't forget you can always enable Siri from the lock screen under Settings > Siri & Search > Allow Siri When Locked and enable "Hey Siri" while you're there to use your iPhone hands-free without bypassing your passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Solving Face ID Issues
@@ -70,13 +77,6 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
  You can also tap "Set up an Alternative Appearance" to [add a second face](https://facebook-clips.techidaily.com/updated-in-2024-cataloging-fb-video-ratios/) if you find certain looks don't work with Face ID as you'd expect. Enable "Face ID with a Mask" from this menu to [use Face ID when wearing a face mask](https://some-techniques.techidaily.com/in-2024-harmonious-hushes-softening-sounds-with-garageband/), and tap "Add Glasses" to scan any eyewear you regularly wear that may interfere with Face ID.
 
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
 
@@ -101,16 +101,16 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-leading-the-charge-in-pc-livestreams-with-tiktok-features/"><u>[New] In 2024, Leading the Charge in PC Livestreams with TikTok Features</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-huawei-p60-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-builds-for-a-thriving-mc-village-homes/"><u>2024 Approved Best Builds for a Thriving MC Village Homes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-video-updates-on-youtube/"><u>2024 Approved Streamlining Video Updates on YouTube</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-q-safe-message-encryption-defends-against-future-quantum-hacking/"><u>Apple's Q-Safe Message Encryption Defends Against Future Quantum Hacking</u></a></li>
-<li><a href="https://os-tips.techidaily.com/beat-the-rush-grab-amazing-offers-now-on-updf-editor-and-apple-watch-series-8/"><u>Beat the Rush: Grab Amazing Offers Now on UPDF Editor & Apple Watch Series 8!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-productivity-belkins-revolutionary-new-200w-usb-c-charger-supports-up-to-four-devices-at-once/"><u>Boost Your Productivity: Belkin’s Revolutionary New 200W USB-C Charger Supports Up to Four Devices at Once</u></a></li>
-<li><a href="https://os-tips.techidaily.com/budget-friendly-smartphones-below-1k-with-top-performance-features/"><u>Budget-Friendly Smartphones Below $1K with Top Performance Features!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/certain-apple-watch-variants-now-lack-blood-oxygen-monitoring-functionality/"><u>Certain Apple Watch Variants Now Lack Blood Oxygen Monitoring Functionality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-complete-guide-to-canva-audio-amendments/"><u>The Complete Guide to Canva Audio Amendments</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora-for-2024/"><u>Updated How to Clone Yourself in Videos with Filmora for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>[New] Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-queries-character-and-sound-crossover/"><u>[New] In 2024, Quick Queries Character & Sound Crossover</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-fusing-melodies-to-visuals-in-virtual-space-for-2024/"><u>[Updated] Fusing Melodies to Visuals in Virtual Space for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/bright-ideas-in-film-setup-secrets-to-perfect-lighting/"><u>Bright Ideas in Film Setup Secrets to Perfect Lighting</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/obs-versus-wirecast-assessing-the-best-for-live-broadcasts-for-2024/"><u>OBS Versus Wirecast Assessing the Best for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-why-your-iphones-calendar-doesnt-sync-with-outlook-and-how-to-correct-it/"><u>Solving the Issue: Why Your iPhone's Calendar Doesn't Sync with Outlook and How to Correct It</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-reducing-size-of-iphones-videoclips-efficiently/"><u>Step-by-Step Tutorial: Reducing Size of iPhones Videoclips Efficiently</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-art-of-balance-crafting-a-harmonious-schedule-for-ultimate-productivity-and-peace-of-mind/"><u>The Art of Balance: Crafting a Harmonious Schedule for Ultimate Productivity and Peace of Mind</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-enhancements-to-elevate-your-apple-carplay-experience/"><u>Top 7 Enhancements to Elevate Your Apple CarPlay Experience</u></a></li>
 </ul></div>
 

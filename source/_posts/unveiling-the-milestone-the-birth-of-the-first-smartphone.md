@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-09-13T16:15:09.068Z
-updated: 2024-09-16T16:00:01.529Z
+date: 2024-09-17T16:00:03.837Z
+updated: 2024-09-21T16:38:43.804Z
 tags:
   - ios
 categories:
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -53,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,18 +82,18 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-4-ways-to-record-internal-android-audio-no-rooting/"><u>[New] 2024 Approved 4 Ways to Record Internal Android Audio (No Rooting)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-beyond-wirecast-a-guide-to-alternative-software/"><u>[New] Beyond WireCast A Guide to Alternative Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://win-answers.techidaily.com/herbs-portuguese-cuisine-is-characterized-by-the-use-of-aromatic-herbs-like-coriander-parsley-basil-rosemary-thyme-and-bay-leaves-that-add-depth-to-stews-an612/"><u>Herbs: Portuguese Cuisine Is Characterized by the Use of Aromatic Herbs Like Coriander, Parsley, Basil, Rosemary, Thyme and Bay Leaves that Add Depth to Stews and Sauces, Infuse Olive Oil or Are Used as Garnishes for Fish Dishes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-does-the-iphone-handle-urgent-alerts-and-reminders/"><u>How Does the iPhone Handle Urgent Alerts and Reminders?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/impact-of-always-on-display-on-smartphone-battery-life-whats-the-real-cost/"><u>Impact of Always-On Display on Smartphone Battery Life: What's the Real Cost?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/infinacores-t3-unveiled-compact-versatile-3-in-1-charging-station-review-for-on-the-go-power-needs-and-design-flexibility/"><u>Infinacore's T3 Unveiled: Compact, Versatile 3-in-1 Charging Station Review for On-the-Go Power Needs & Design Flexibility</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-18-launch-insights-unveiling-the-date-device-support-and-exciting-updates/"><u>IOS 18 Launch Insights - Unveiling the Date, Device Support & Exciting Updates</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-version-171-release-advanced-airdrop-features-reworked-music-functionality-and-elevated-standby-mode-performance-upgrades-unveiled/"><u>IOS Version 17.1 Release: Advanced AirDrop Features, Reworked Music Functionality, and Elevated Standby Mode Performance Upgrades Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-photography-tips-mastering-the-art-of-editing-with-the-built-in-photos-app/"><u>IPhone Photography Tips: Mastering the Art of Editing with the Built-In Photos App</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-expert-picks-the-best-video-editing-software-for-mac-in-for-2024/"><u>New Expert Picks The Best Video Editing Software for Mac In for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nubia-z50-ultra-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nubia Z50 Ultra.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[New] 2024 Approved How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-content-strategy-with-smart-igtv-hashtags/"><u>[New] Elevating Your Content Strategy with Smart IGTV Hashtags</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-memorable-youtube-names/"><u>[New] The Ultimate Guide to Memorable YouTube Names</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expertly-crafted-images-with-lut-techniques-in-photoshop-cs6-for-2024/"><u>Expertly Crafted Images with LUT Techniques in Photoshop CS6 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/no-budget-no-problem-top-free-wmv-video-editors-for-2024/"><u>No Budget? No Problem! Top Free WMV Video Editors for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-quip-cinema-script-for-2024/"><u>Quick Quip Cinema Script for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/speedy-techniques-for-distributing-pictures-through-imessage/"><u>Speedy Techniques for Distributing Pictures Through iMessage</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-launches-speedup-mac-an-user-friendly-utility-to-optimize-mac-performance-news-of-stellar/"><u>Stellar Launches Speedup Mac - An User-Friendly Utility to Optimize Mac Performance - News of Stellar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-updating-your-airpods-battery-and-firmware/"><u>Step-by-Step Guide: Updating Your AirPods Battery & Firmware</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-resolving-emergency-sos-feature-problems-on-iphones/"><u>Step-by-Step Tutorial: Resolving Emergency SOS Feature Problems on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlining-your-phonebook-a-quick-guide-to-removing-several-iphone-contacts-at-once/"><u>Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surprising-features-revealed-discover-the-games-that-excel-on-m1-and-m2-ipads/"><u>Surprising Features Revealed: Discover the Games that Excel on M1 and M2 iPads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-zte-blade-a73-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Blade A73 5G Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings"
-date: 2024-09-15T16:06:38.125Z
-updated: 2024-09-16T16:01:12.734Z
+date: 2024-09-19T16:15:12.593Z
+updated: 2024-09-21T16:14:38.555Z
 tags:
   - ios
 categories:
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Using the customize wallpaper toggle to modify an emoji wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/customize-wallpaper-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You must create a new Lock Screen if you want to change your wallpaper from one form to another. For instance, If you want to change your wallpaper from an emoji to a photo, you cannot do this by customizing an existing Lock Screen.
 
  Once your lock screen wallpaper is set, you have to decide if you want a matching Home Screen, as you can choose[separate Lock Screen and home screen wallpapers](https://easy-unlock-android.techidaily.com/introducing-the-asus-nuc-14-proplus-meteor-lake-cpus-and-advanced-features-at-only-860/).
@@ -87,16 +80,16 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Changing the font and color of the clock on your iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-font-color.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Furthermore, you can click the Globe icon to select from the numeral options of Arabic, Arabic Indic, Devanagari, Khmer, and Burmese. Depending on your chosen wallpaper, you can also set the depth effect (as mentioned earlier).
 
 ![Selecting different numeral styles for the clock on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-numerical-option-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Add Some Widgets
 
@@ -114,16 +107,16 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Selecting one of the three notification display styles on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/notification-display-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also [disable certain apps from sending lock screen notifications](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-without-previous-owner-by-drfone-ios/) to prevent them from waking your iPhone or iPad by lighting your screen up. To do this, go to "Settings," tap on "Notifications," and select the app you want to stop from sending lock screen notifications. Once selected, disable the Lock Screen under Alerts.
 
 ![Disable certain types of notifications from waking your iPhone when locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/disable-lock-screen-notifications-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Link Your Lock Screen to a Focus Mode
 
@@ -135,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
  Then, choose the focus mode you want to customize and select a lock screen to link to it. You can create a new Lock Screen, choose an existing one, or select multiple Lock Screens to connect to this Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Choose What's Available While Your Phone Is Locked
 
  Many features can be enabled when your iPhone is locked. By default, you can see notifications, open the camera, or turn on the flashlight, all from the lock screen. You can contact emergency services and contacts for health and safety reasons. Alternatively, you can restrict access to your personal information to protect your privacy.
@@ -144,10 +144,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Choosing which functions to allow when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/allow-accessories-when-iphone-is-locked.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Furthermore, you can enable or disable notification previews on your lock screen. To do this, go to "Settings" and tap "Notifications."
@@ -162,20 +162,14 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Turn on notification previews when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-when-unlocked-in-show-previews.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Enabling "When Unlocked" shows your iPhone notifications once you have verified your identity using Face ID or Touch ID.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Your Lock Screen Is the Point of First Contact
 
@@ -198,15 +192,18 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-image-isolation-pro-eliminate-backgrounds-in-affinity-for-2024/"><u>[New] Image Isolation Pro Eliminate Backgrounds in Affinity for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-7-most-popular-video-apps-for-iphones-and-android-live-streaming/"><u>[New] In 2024, Discover The 7 Most Popular Video Apps for iPhones & Android Live Streaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-methods-from-youtube-to-mpeg-encoding/"><u>2024 Approved Prime Methods From YouTube to MPEG Encoding</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-warzones-ignored-gpu-in-windows-11-setup/"><u>How to Fix Warzone's Ignored GPU in Windows 11 Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-strategies-to-enhance-dota-2-play-without-lag/"><u>Step-by-Step Strategies to Enhance Dota 2 Play Without Lag</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-insiders-look-at-creating-viral-fb-cover-videos-for-2024/"><u>The Insider's Look at Creating Viral FB Cover Videos for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-reasons-why-now-might-not-be-ideal-for-purchasing-a-latest-iphone-model/"><u>Top Reasons Why Now Might Not Be Ideal for Purchasing a Latest iPhone Model</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-phone-into-a-gaming-powerhouse-with-razers-kishi-ultra-the-definitive-console-controller-for-mobiles/"><u>Transform Your Phone Into a Gaming Powerhouse with Razer's Kishi Ultra – The Definitive Console Controller for Mobiles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transforming-your-devices-security-display-a-detailed-tutorial-for-iphone-and-ipad-users/"><u>Transforming Your Device's Security Display: A Detailed Tutorial for iPhone and iPad Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[New] Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-live-play-with-professional-gear-lists-for-2024/"><u>[New] Elevating Live Play with Professional Gear Lists for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-androids-gratis-screen-capture-utility/"><u>[Updated] 2024 Approved Android's Gratis Screen Capture Utility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vidcache-101-step-by-step-on-saving-tweets-videos/"><u>[Updated] 2024 Approved VidCache 101 Step-by-Step on Saving Tweets' Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-battery-longevity-in-evs-against-traditional-gas-powered-car-durability/"><u>Assessing Battery Longevity in EVs Against Traditional Gas-Powered Car Durability</u></a></li>
+<li><a href="https://facebook.techidaily.com/ensuring-account-security-the-facebook-two-factor-way/"><u>Ensuring Account Security: The Facebook Two-Factor Way</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fresh-start-strategy-budget-channels-to-purchase/"><u>In 2024, Fresh Start Strategy Budget Channels to Purchase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-chipolo-one-assessment-a-solidly-dependable-bluetooth-tracking-device/"><u>In-Depth Chipolo One Assessment: A Solidly Dependable Bluetooth Tracking Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-syncing-disconnecting-and-restarting-your-apple-tv-remote/"><u>The Ultimate Guide: Syncing, Disconnecting & Restarting Your Apple TV Remote</u></a></li>
+<li><a href="https://os-tips.techidaily.com/to-upgrade-or-not-is-the-iphone-15-worth-considering/"><u>To Upgrade or Not: Is the iPhone 15 Worth Considering?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-mobile-gaming-subscriptions-the-ultimate-list/"><u>Top Mobile Gaming Subscriptions: The Ultimate List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-ipad-specifications-whats-the-ram-like-and-why-should-you-care/"><u>Understanding iPad Specifications: What's the RAM Like, and Why Should You Care?</u></a></li>
 </ul></div>
 

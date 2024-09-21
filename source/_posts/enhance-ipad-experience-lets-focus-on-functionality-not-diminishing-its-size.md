@@ -1,7 +1,7 @@
 ---
 title: "Enhance iPad Experience: Let's Focus on Functionality, Not Diminishing Its Size"
-date: 2024-09-09T16:01:16.092Z
-updated: 2024-09-16T16:20:31.117Z
+date: 2024-09-17T16:40:41.640Z
+updated: 2024-09-21T17:12:23.479Z
 tags:
   - ios
 categories:
@@ -40,32 +40,26 @@ Sydney Louw Butler / How-To Geek
  To be fair to Apple, battery tests for the M4 iPad Pros look good and over on [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs), for example, they've clocked the M4 Pro in just short of 15 hours. That's a significant improvement and brings it in line with the M3 MacBook Air. However, I'm of the opinion that the iPad should outpace the MacBook when it comes to battery life given the difference in how people use them on a daily basis.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Those M-Chips Could Use Better Cooling
 
  Speaking of those heavy-duty apps, what's the use of having all that power if you can only use it all in short bursts? While thermal throttling hasn't been an issue on my current M2 or previous iPad Pros, there's certainly more sustained performance to be squeezed from these systems. There are now a few clever passive cooling systems, such as vapor chambers, that are employed in mobile devices, and that space Apple just sliced off could have been diverted to better cooling performance. The [M4 is already a beast](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/),but I can only wonder about what could have been.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Already Great Audio Could Be Better
 
  The iPad Pro's audio is [best in class](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). It's practically engineering black magic, and no sane person could claim it was bad. However, that doesn't mean it couldn't be better. More speakers, bigger speakers, deeper chambers—I don't know how they'd do it, but something tells me the audio engineers could have used that space for something special.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More Ports Please
 
@@ -90,17 +84,21 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-frame-perfect-our-top-10-photo-lenses-list/"><u>[New] In 2024, Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-step-up-to-stellar-footage-essential-action-cam-addons/"><u>[New] Step Up to Stellar Footage Essential Action Cam Addons</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-list-of-free-high-quality-screenshot-apps/"><u>[New] The Ultimate List of Free, High-Quality Screenshot Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-insta-facebook-connection-essentials/"><u>[Updated] 2024 Approved Insta-Facebook Connection Essentials</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-mix-techniques-for-crossfading-sounds-with-audacity/"><u>2024 Approved Professional Mix Techniques for Crossfading Sounds with Audacity</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-a05s-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-music-library-best-free-software-choices-for-youtube-to-mp3/"><u>In 2024, Transform Your Music Library Best Free Software Choices for YouTube-to-MP3</u></a></li>
-<li><a href="https://techtrends.techidaily.com/retrieve-removed-numbers-on-android-steps-for-restoring-deleted-contact-info/"><u>Retrieve Removed Numbers on Android: Steps for Restoring Deleted Contact Info</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-integrating-shazam-widget-into-ios-control-center/"><u>Step-by-Step Guide: Integrating Shazam Widget Into iOS Control Center</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-shutting-down-iphones-constant-display-functionality/"><u>Step-by-Step Instructions for Shutting Down iPhone's Constant Display Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surface-book-driver-update-made-simple-download-now/"><u>Surface Book Driver Update Made Simple – Download Now</u></a></li>
-<li><a href="https://os-tips.techidaily.com/switching-from-the-apple-watch-ultra-discover-why-my-wife-prefers-casio/"><u>Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-achieve-visual-dominance-with-facebooks-full-screen-capability/"><u>[New] 2024 Approved Achieve Visual Dominance with Facebook's Full-Screen Capability</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-acoustic-architects-building-with-mac-studios/"><u>[Updated] Acoustic Architects Building with Mac Studios</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-laying-the-groundwork-for-av1-understanding/"><u>[Updated] Laying The Groundwork for AV1 Understanding</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-airpods-experience-with-the-game-changing-conversation-awareness-feature-activate-now/"><u>Boost Your AirPods Experience with the Game-Changing Conversation Awareness Feature - Activate Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-clutter-on-icloud-a-step-by-step-guide-to-reclaim-storage/"><u>Clearing Clutter on iCloud - A Step-by-Step Guide to Reclaim Storage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-ringtone-crafting-how-to-make-unique-tones-for-your-iphone/"><u>DIY Ringtone Crafting: How to Make Unique Tones for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-switching-from-heic-picture-files-to-jpgs-for-iphone-and-ipad-users/"><u>Easy Guide: Switching From HEIC Picture Files to JPGs for iPhone & iPad Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoying-portable-steam-games-a-world-beyond-the-steam-deck/"><u>Enjoying Portable Steam Games: A World Beyond the Steam Deck</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-to-nomad-tracker-cards-the-ultimate-wallet-companion/"><u>Essential Guide to Nomad Tracker Cards: The Ultimate Wallet Companion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-customizing-your-apple-watchs-activity-log-with-offline-workouts/"><u>Expert Tips: Customizing Your Apple Watch's Activity Log with Offline Workouts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-fade-out-in-audacity-for-2024/"><u>How to Fade Out in Audacity for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-12t-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 12T Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-use-of-hashtags-in-gaming-vlog-production/"><u>In 2024, Strategic Use of Hashtags in Gaming Vlog Production</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/quicksnip-videosuite-for-2024/"><u>QuickSnip VideoSuite for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-market-dynamics-with-geminis-1m-context/"><u>Revolutionizing Market Dynamics with Gemini's $1M Context</u></a></li>
 </ul></div>
 

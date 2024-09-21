@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once"
-date: 2024-09-11T16:32:09.141Z
-updated: 2024-09-16T16:02:58.319Z
+date: 2024-09-14T17:07:44.507Z
+updated: 2024-09-21T16:45:51.844Z
 tags:
   - ios
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  Unfortunately, you'll need a third-party app to mass delete contacts a way that makes more sense. The good news is there are great apps for the job. We'll recommend some and show you how to use them, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Delete Multiple Contacts on iPhone
 
  The official method for removing multiple contacts on an iPhone is a bit odd. You can delete multiple contacts with a simple gesture---as long as they're next to each other in the Contacts list.
@@ -56,35 +63,9 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select &quot;Delete X Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0211.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lastly, confirm your choice by tapping "Delete Contacts."
 
 ![Tap &quot;Delete Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0212.png) 
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's all there is to it! This method isn't great if you're looking to select contacts that aren't arranged in order.
 
@@ -111,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  Now with all the contacts you want to delete highlighted, tap the trash icon in the bottom right corner.
 
 ![Tap the trash can icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/2023-02-03_15-44-08.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Confirm your decision by selecting "Delete."
 
@@ -172,16 +160,16 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Merge.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0191.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lastly, confirm your decision by selecting "Merge" from the pop-up.
 
 ![Select &quot;Merge.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0194a.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apple's built-in feature is pretty good if you don't have a ton of contacts to sift through. For a more advanced tool, check out our [full guide for deleting duplicate contacts on iPhone](https://smart-video-editing.techidaily.com/new-2024-approved-beyond-windows-10-photos-8-excellent-image-viewing-options/) and [Android devices.](https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/) 
 
@@ -192,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  Once again, there's an easier way to do this if we utilize a third-part app. We'll be using an app called "[Easy Cleaner](https://apps.apple.com/us/app/easy-cleaner/id519077149?at=1010l392g&ct=htg215533)" to get it done quickly. Install the app and give it permission to access your contacts.
 
 ![Tap &quot;Continue&quot; and &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0195-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can skip past the "Contacts Enrichment" feature. It's not necessary for deleting contacts.
 
@@ -212,15 +193,22 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap and hold one contact.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0213.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After one contact is selected, a checkmark button will appear in the top right corner. Tap the button to select all your contacts.
 
 ![Select the checkmark button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0214.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With all the contacts selected, tap the trash icon in the bottom bar.
@@ -252,20 +240,20 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-exploring-free-screen-capture-tools/"><u>[Updated] 2024 Approved Exploring Free Screen Capture Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-voice-logging-made-simple-with-ipad-apps/"><u>[Updated] In 2024, Voice Logging Made Simple with iPad Apps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-jive-into-action-creating-engaging-tiktok-dances-on-a-mac/"><u>[Updated] Jive Into Action Creating Engaging TikTok Dances on a Mac</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/comprehensive-guide-to-ifixit-professional-tech-gadgets-the-ultimate-resource-for-every-diy-enthusiast/"><u>Comprehensive Guide to iFixit Professional Tech Gadgets – The Ultimate Resource for Every DIY Enthusiast</u></a></li>
-<li><a href="https://solve-news.techidaily.com/comprehensive-review-transforming-pc-setup-with-plugable-11-in-1-multi-port-hdmi-hub-the-ultimate-companion-for-seamless-windows-task-management/"><u>Comprehensive Review: Transforming PC Setup with Plugable 11-in-1 Multi-Port HDMI Hub - The Ultimate Companion for Seamless Windows Task Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-ways-to-remotely-time-your-whatsapp-messages-during-significant-events/"><u>Effective Ways to Remotely Time Your WhatsApp Messages During Significant Events</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficient-methods-for-exiting-all-open-safari-sessions-on-iphoneipad/"><u>Efficient Methods for Exiting All Open Safari Sessions on iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-gps-accuracy-navigating-flawlessly-through-tunnels-with-latest-map-update/"><u>Enhanced GPS Accuracy: Navigating Flawlessly Through Tunnels with Latest Map Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-insights-you-need-to-know-about-buying-icloud-storage-read-up-first/"><u>Essential Insights You Need to Know About Buying iCloud Storage: Read Up First!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exclusive-promotion-enter-our-contest-and-take-home-a-brand-new-apple-iphone-se-for-free/"><u>Exclusive Promotion - Enter Our Contest & Take Home a Brand New Apple iPhone SE for FREE!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-essential-accessibility-innovations-discover-the-best-of-whats-new-in-ios-18/"><u>Explore Essential Accessibility Innovations: Discover the Best of What's New in iOS 18!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-the-full-potential-of-your-apple-watch-with-these-12-key-capabilities/"><u>Explore the Full Potential of Your Apple Watch with These 12 Key Capabilities</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ontent-delivery-spectrum-vimeo-and-youtube-reviewed/"><u>The Content Delivery Spectrum Vimeo & YouTube Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-propel-your-vlogs-forward-top-seo-tech-unveiled/"><u>[New] Propel Your Vlogs Forward – Top SEO Tech Unveiled</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-aces-top-10-list-choosing-superior-capture-cards/"><u>[Updated] Ace's Top 10 List Choosing Superior Capture Cards</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sony-xperia-xz-premium-4k-smartphone-review/"><u>2024 Approved Sony Xperia XZ Premium 4K Smartphone Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-asus-rog-phone-7-ultimate-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Asus ROG Phone 7 Ultimate Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-installation-process-of-wm6/"><u>In 2024, Master Installation Process of WM6</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-razr-40-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Razr 40 and Browser | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-counting-on-mobile-a-guide-to-using-your-iphoneandroid-device/"><u>Step Counting on Mobile: A Guide to Using Your iPhone/Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-superior-email-clients-available-on-the-iphone/"><u>Top 5 Superior Email Clients Available on the iPhone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-picks-for-professional-video-opening-tools/"><u>Top Picks for Professional Video Opening Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-iphone-15-case-picks/"><u>Top-Rated iPhone 15 Case Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-live-photos-into-animation-a-step-by-step-guide-for-iphones/"><u>Transforming Live Photos Into Animation - A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-your-iphone-into-a-portable-gaming-powerhouse-a-guide/"><u>Transforming Your iPhone Into a Portable Gaming Powerhouse: A Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ugreens-magnetic-5000mah-power-bank-evaluated-a-tale-of-unease-and-performance/"><u>Ugreen's Magnetic 5,000mAh Power Bank Evaluated: A Tale of Unease and Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unboxing-and-evaluation-the-ultimate-guide-to-nomads-premium-leather-back-cover-for-the-new-iphone-15-pro/"><u>Unboxing & Evaluation: The Ultimate Guide to Nomad's Premium Leather Back Cover for the New iPhone 15 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-essence-of-digital-chronicles-for-2024/"><u>Understanding the Essence of Digital Chronicles for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease
-date: 2024-09-11T16:02:37.414Z
-updated: 2024-09-16T16:30:39.781Z
+date: 2024-09-17T16:10:19.395Z
+updated: 2024-09-21T16:40:45.502Z
 tags:
   - ios
 categories:
@@ -36,23 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Since the process happens on your device, Apple doesn't get access to the media file or any information about its identification. This means you can rest assured that your privacy isn't getting compromised in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Enable Sensitive Content Warning
 
  Sensitive Content Warning is disabled on iOS, iPadOS, and macOS Sonoma by default. Here's how to turn it on.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  On an iPhone or iPad
 
@@ -64,9 +50,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sensitive Content Warning feature turned off on iPhone by default.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Toggle on the radio button for "Sensitive Content Warning."
 
 ![Sensitive Content Warning feaured enabled on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-3-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sensitive Content Warning should now be enabled for all the supported apps and services. If you don't want the feature to block NSFW media inside any of these apps or services, toggle off the switch next to them.
 
@@ -74,24 +74,37 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Also, keep in mind that if you disable Sensitive Content Warning for an app or service on your iPhone, it will also turn it off for a paired Apple Watch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  On a Mac
 
  Launch System Settings on your Mac. Then select "Privacy & Security," scroll down, and select "Sensitive Content Warning."
 
 ![Sensitive Content Warning setting in macOS System Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-mac-1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Toggle on the switch next to "Sensitive Content Warning," and it will enable the feature for all supported apps and services on the Mac.
 
 ![Sensitive Content Warning feature enabled on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-mac-3-1.jpg) 
 
  Like on an iPhone or iPad, you can disable the feature for select apps and services if required. Though it's not available on as many Mac apps yet.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Sensitive Content Warning Looks Like (And How to Interact With It)
 
@@ -102,13 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Now, you can interact with this media in two ways. First, you can tap on "Show" to override the warning and view the photo or video. Or you can tap the alert icon (with an exclamation mark) to either block the sender or access Apple's safety resources to get more help.
 
 ![available actions on blurred media on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sensitive-content-warning-message-on-iphone-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make Your Apple Devices People-Friendly
 
@@ -131,19 +137,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>[New] 2024 Approved Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exclusive-list-best-mac-gif-recorders/"><u>[New] 2024 Approved Exclusive List Best Mac GIF Recorders</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-transform-chaos-into-order-top-apps-for-an-ultra-productive-year/"><u>1. Transform Chaos Into Order: Top Apps for an Ultra-Productive Year</u></a></li>
-<li><a href="https://os-tips.techidaily.com/10-pro-tips-for-capturing-stunning-iphone-video-footage/"><u>10 Pro Tips for Capturing Stunning iPhone Video Footage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-transform-paperwork-into-data-with-abbyys-advanced-ocr-servers/"><u>Efficiently Transform Paperwork Into Data with ABBYY's Advanced OCR Servers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>In 2024, Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-poco-x6-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Poco X6 Pro Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photographers-weigh-in-the-aurora-verdict/"><u>In 2024, Photographers Weigh In The Aurora Verdict</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/insight-into-online-media-distribution-and-fb-copyright-policies/"><u>Insight Into Online Media Distribution and FB Copyright Policies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/shutterbugs-solution-fixing-fuzzy-iphone-snapshots-with-ease/"><u>Shutterbug's Solution: Fixing Fuzzy iPhone Snapshots with Ease</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-tech-delights-unveiling-the-latest-from-google-and-samsung/"><u>Upcoming Tech Delights: Unveiling the Latest From Google & Samsung</u></a></li>
-<li><a href="https://os-tips.techidaily.com/usb-type-c-connectivity-discover-apples-airpods-pro-latest-upgrade/"><u>USB Type-C Connectivity: Discover Apple's AirPods Pro Latest Upgrade</u></a></li>
-<li><a href="https://os-tips.techidaily.com/weekly-digest-of-iphone-software-enhancements-and-product-recalls/"><u>Weekly Digest of iPhone Software Enhancements & Product Recalls</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-the-nsa-recommends-weekly-mobile-device-reboots-uncovering-essential-security-measures/"><u>Why the NSA Recommends Weekly Mobile Device Reboots - Uncovering Essential Security Measures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-youtube-ad-creators-for-2024/"><u>[Updated] Best YouTube Ad Creators for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-professional-framing-methods-using-letterbox-and-black-bar-on-social-networks/"><u>[Updated] In 2024, Professional Framing Methods Using Letterbox & Black Bar on Social Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-browser-guide-successful-playback-of-avi-video-files/"><u>Chrome Browser Guide: Successful Playback of AVI Video Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/dream-of-flight-check-out-these-top-kid-friendly-drones/"><u>Dream of Flight? Check Out These Top Kid-Friendly Drones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y200-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y200 Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-v29-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo V29 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-gt-5-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme GT 5</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-14-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 14 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-usb-c-chargers-and-adapters-for-laptops/"><u>Top Rated USB-C Chargers & Adapters for Laptops</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-latest-iphone-se/"><u>Top-Rated Protective Covers for the Latest iPhone SE</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-multi-port-maggo-charger-by-anker-power-up-with-qi-usb-c/"><u>Ultimate Guide to the Multi-Port MagGo Charger by Anker - Power Up with Qi, USB-C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-iphone-case-innovations-and-designs-for-the-year-2023/"><u>Ultimate Selection of iPhone Case Innovations and Designs for the Year 2023</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unique-and-practical-the-world-of-quirky-usb-power-adapters/"><u>Unique and Practical - The World of Quirky USB Power Adapters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-hidden-messages-a-guide-to-viewing-blocked-incoming-calls-on-your-iphone/"><u>Unlocking Hidden Messages: A Guide to Viewing Blocked Incoming Calls on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-secrets-of-your-wireless-network-passwords-on-smartphones/"><u>Unlocking the Secrets of Your Wireless Network Passwords on Smartphones</u></a></li>
 </ul></div>
 

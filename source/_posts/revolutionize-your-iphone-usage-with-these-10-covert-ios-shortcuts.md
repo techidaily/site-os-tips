@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2024-09-15T16:12:42.149Z
-updated: 2024-09-16T16:11:34.206Z
+date: 2024-09-15T16:18:15.603Z
+updated: 2024-09-21T16:46:43.054Z
 tags:
   - ios
 categories:
@@ -94,6 +94,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Custom Sticker dialog box on WhatsApp with an arrow next to the Send option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Set Custom Alerts to Prepare for Charging the iPhone
 
  By default, your iPhone informs you when the battery reaches 20%, which is also when it asks to enable the Low Power Mode. However, you can set a custom battery alert to deal with your battery anxiety. Using [Shortcut Automation](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/), you can program your iPhone to show a custom notification when the battery reaches a certain level, in addition to the standard low battery alert. It also allows you to set the percentage.
@@ -101,6 +115,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For setting a custom battery alert, open the Shortcuts app on your iPhone. If you're unable to locate the app, consider using Spotlight search.
 
 ![Shortcuts app in iPhone's Spotlight search with an arrow next to it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-15.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap the Automation option at the bottom of the screen.
 
@@ -126,16 +147,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Automation actions setup screen highlighting the custom message dialog box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/7-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hit the Next button in the top right corner, and once you review the summary, tap Done.
 
 ![Personal automation summary screen on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/personal-automation.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you'll get a notification that warns you about the battery percentage and gives you more time to prepare to charge your iPhone.
 
@@ -199,6 +220,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Settings app with an arrow next to the Notifications option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-19.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At the top of the menu, you'll see three options: Count, Stack, and List. Experiment with these options and see which one you prefer.
 
 ![Notifications settings on an iPhone highlighting the three different options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-17.png) 
@@ -217,13 +251,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Touch accessibility options highlighting the Back Tap feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose Double Tap and set the action to one of the available options, including App Switcher, Camera, Home, Lock Rotation, Mute, Screenshot, etc. For this example, we're setting double tap to Flashlight.
 
 ![Double Tap menu with an arrow next to the option that turns on Flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/double-tap-iphone.png) 
@@ -231,26 +258,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Similarly, select an action for Triple Tap.
 
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Measure a Surface's Slope with the Hidden Spirit Level
 
@@ -267,19 +274,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Hold your iPhone against a standing object or a flat surface to check the slope or the level.
 
 ![Spirit level iPhone showing that a surface is perfectly levelled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/spirit-level-iphone.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you liked this list of 10 hidden iPhone features, check out another compilation of [10 iOS 16 features you might have missed](https://fox-links.techidaily.com/new-in-2024-ideal-selections-economical-4k-home-theater-systems/).
 
@@ -298,15 +292,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-video-downloader-round-up-1-5-edition/"><u>[New] In 2024, Facebook Video Downloader Round-Up #1-5 Edition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-how-to-remove-black-bars-from-youtube-videos/"><u>2024 Approved How to Remove Black Bars From YouTube Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/date-set-apples-anticipated-iphone-15-reveal-is-officially-scheduled-for-insert-event-date/"><u>Date Set! Apple's Anticipated iPhone 15 Reveal Is Officially Scheduled for [Insert Event Date]</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-hidden-gems-explore-these-10-impressive-ipad-tricks-for-enhanced-productivity-and-fun/"><u>Discover Hidden Gems: Explore These 10 Impressive iPad Tricks for Enhanced Productivity and Fun</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-live-picture-lock-screens-can-transform-your-iphone-experience-a-game-changing-oversight/"><u>Discover How Live Picture Lock Screens Can Transform Your iPhone Experience – A Game-Changing Oversight!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-hidden-gems-ios-17s-top-ten-upgrades-revealed/"><u>Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/te-your-video-game-top-10-keyword-strategy-resources-for-2024/"><u>Elevate Your Video Game Top 10 Keyword Strategy Resources for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>In 2024, Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
-<li><a href="https://blog-min.techidaily.com/no-credit-required-steps-for-building-an-itunes-account-on-apples-store/"><u>No Credit Required: Steps for Building an iTunes Account on Apple's Store</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pinnacle-headlines-engineer/"><u>[Updated] 2024 Approved Pinnacle Headlines Engineer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-rectifying-identity-mix-up-in-fb-text-exchange/"><u>[Updated] In 2024, Rectifying Identity Mix-Up in FB Text Exchange</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/apex-legends/"><u>Apex Legends フルダンプによる瞬時性向上 - 現在の仕様適用</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-list-11-streamers-go-to-audio-devices/"><u>Essential List 11 Streamers' Go-To Audio Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expressive-sketches-for-fortnite-icons/"><u>In 2024, Expressive Sketches for Fortnite Icons</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-blaze-curve-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Blaze Curve 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-web-analytics-unlock-potential-with-cookiebot-powered-insights/"><u>Revolutionize Web Analytics: Unlock Potential with Cookiebot Powered Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-eye-opening-reasons-iphones-can-be-mortifying-strategies-for-a-painless-digital-life/"><u>Top 10 Eye-Opening Reasons iPhones Can Be Mortifying: Strategies for a Painless Digital Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-fixing-iphone-wi-fi-connectivity-issues/"><u>Top Strategies for Fixing iPhone Wi-Fi Connectivity Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-theft-deterrence-a-deep-dive-into-built-in-security-features/"><u>Understanding iPhone Theft Deterrence: A Deep Dive Into Built-In Security Features</u></a></li>
 </ul></div>
 

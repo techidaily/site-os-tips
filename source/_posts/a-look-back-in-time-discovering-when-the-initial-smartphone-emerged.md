@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-09-13T16:15:14.961Z
-updated: 2024-09-16T16:13:41.616Z
+date: 2024-09-16T16:57:43.053Z
+updated: 2024-09-21T16:53:33.007Z
 tags:
   - ios
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -47,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -82,17 +88,21 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-scheduling-zoom-events/"><u>[New] 2024 Approved The Ultimate Guide to Scheduling Zoom Events</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>[New] 2024 Approved Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fading-fast-with-premiere-pro/"><u>[New] Fading Fast with Premiere Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>[New] Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>2024 Approved Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-7-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 7 Plus Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-lava-blaze-2-by-fonelab-android-recover-data/"><u>How to recover lost data from Lava Blaze 2?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-phantom-v-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Phantom V Flip Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-importance-of-using-gps-trackers-like-airtag-for-safety-and-convenience-in-cars/"><u>The Importance of Using GPS Trackers Like AirTag for Safety and Convenience in Cars</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-irresistible-factors-that-make-dropping-apple-arcade-impossible/"><u>Top 3 Irresistible Factors That Make Dropping Apple Arcade Impossible</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-day-proven-iphone-shortcut-techniques-for-enhanced-efficiency/"><u>Transform Your Day: Proven iPhone Shortcut Techniques for Enhanced Efficiency</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-steps-for-reactivating-autoplay-on-your-windows-10-computer/"><u>Troubleshooting Steps for Reactivating AutoPlay on Your Windows 10 Computer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unparalleled-editing-experience-vimeo-edition-awaits/"><u>[New] 2024 Approved Unparalleled Editing Experience Vimeo Edition Awaits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-fanfare-gaming-patch/"><u>2024 Approved Fanfare Gaming Patch</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-for-transforming-youtube-videos-into-animated-gifs/"><u>2024 Approved The Ultimate Guide for Transforming YouTube Videos Into Animated GIFs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-honor-v-purse-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Honor V Purse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-focus-handheld-premium-mobile-mounting-systems/"><u>Elite Focus Handheld Premium Mobile Mounting Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-search-of-a-sleek-tablet-why-the-ipad-mini-deserves-serious-consideration/"><u>In Search of a Sleek Tablet? Why the iPad Mini Deserves Serious Consideration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-username-functionality-updates-available-on-signal-platform/"><u>Introducing Username Functionality: Updates Available on Signal Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-ownership-is-it-worth-your-investment-essential-insights-for-potential-buyers/"><u>IPad Ownership: Is It Worth Your Investment? Essential Insights for Potential Buyers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/"><u>Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-efficiency-adding-widgets-to-your-iphones-lock-screen-tutorial/"><u>Maximize Efficiency: Adding Widgets to Your iPhone's Lock Screen Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/natural-luminescence-in-home-interiors-simple-steps-for-2024/"><u>Natural Luminescence in Home Interiors Simple Steps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-why-does-fcpx-keep-crashing-find-out-and-fix-it/"><u>New In 2024, Why Does FCPX Keep Crashing? Find Out and Fix It</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-year-on-reflecting-on-the-apple-watch-ultras-journey/"><u>One Year On: Reflecting on the Apple Watch Ultra's Journey</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-location-data-discover-new-privacy-controls-in-google-maps-recent-upgrade-for-mobile-users/"><u>Protect Your Location Data: Discover New Privacy Controls in Google Maps' Recent Upgrade for Mobile Users</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/ultimate-guide-convert-videos-for-playstation-portable-psp-models-psp-20003000gops3/"><u>Ultimate Guide: Convert Videos for PlayStation Portable (PSP) Models - PSP 2000/3000/Go/PS3</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-09-12T16:06:04.271Z
-updated: 2024-09-16T16:26:20.981Z
+date: 2024-09-14T16:00:15.677Z
+updated: 2024-09-21T16:00:21.986Z
 tags:
   - ios
 categories:
@@ -49,6 +49,13 @@ Bertel King / How-To Geek
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
@@ -63,13 +70,6 @@ Bertel King / How-To Geek
 
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Tabs Simplify Working With Multiple Documents
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
@@ -82,22 +82,16 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -105,22 +99,15 @@ Bertel King / How-To Geek
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -130,6 +117,13 @@ Bertel King / How-To Geek
  I love it when an app displays the current word count on-screen as I write, but tucking this information into a separate page is fine, too. I just need it to be available. In many note-taking apps, it isn't. This is the other big reason I'm not relying on Samsung Notes. It's a reason Google Keep and [many alternatives to Apple Notes](https://ai-voice-clone.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/) aren't well-suited to the job. It's a big part of why iA Writer and Jotterpad are.
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Extend Obsidian With Plug-ins
 
@@ -158,19 +152,15 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-5-android-video-capture-apps-for-screen-recording/"><u>[New] 2024 Approved Best 5 Android Video Capture Apps for Screen Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-lg-360-camera-mastered-a-full-review/"><u>[New] LG 360 Camera Mastered A Full Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ace-google-meet-selecting-ideal-video-call-bgs/"><u>[Updated] 2024 Approved Ace Google Meet Selecting Ideal Video Call BGs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/automatic-deletion-of-two-factor-authentication-alerts-a-guide-for-iphone-and-ipad-users/"><u>Automatic Deletion of Two-Factor Authentication Alerts: A Guide for iPhone & iPad Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-airpods-experience-with-the-game-changing-conversation-awareness-feature-activate-now/"><u>Boost Your AirPods Experience with the Game-Changing Conversation Awareness Feature - Activate Now!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/clearing-clutter-on-icloud-a-step-by-step-guide-to-reclaim-storage/"><u>Clearing Clutter on iCloud - A Step-by-Step Guide to Reclaim Storage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-ringtone-crafting-how-to-make-unique-tones-for-your-iphone/"><u>DIY Ringtone Crafting: How to Make Unique Tones for Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-switching-from-heic-picture-files-to-jpgs-for-iphone-and-ipad-users/"><u>Easy Guide: Switching From HEIC Picture Files to JPGs for iPhone & iPad Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/gaming-meets-high-fidelity-review-of-logitech-g533/"><u>Gaming Meets High Fidelity: Review of Logitech G533</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-smart-technique-for-iphone-videos-reduction-and-scaling/"><u>In 2024, The Smart Technique for iPhone Videos Reduction & Scaling</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-software-repair-fixing-problems-when-apps-wont-launch-correctly/"><u>Mac Software Repair: Fixing Problems When Apps Won't Launch Correctly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-fix-for-recurring-issues-with-the-wrath-of-the-righteous-game-stability/"><u>Pathfinder: Fix for Recurring Issues with 'The Wrath of the Righteous' Game Stability</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-5-best-mac-screen-seize-tips-char-limit-156-for-2024/"><u>Top 5 Best Mac Screen Seize Tips (Char Limit 156) for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-seamless-video-editing-the-top-5-free-online-video-merging-platforms/"><u>Updated In 2024, Seamless Video Editing The Top 5 Free Online Video Merging Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-media-symphony-coordinating-video-sharing/"><u>[New] 2024 Approved Social Media Symphony Coordinating Video Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-technology-behind-vr-goggles/"><u>[Updated] Understanding the Technology Behind VR Goggles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ae-lifesavers-budget-friendly-template-assortment-for-2024/"><u>AE Lifesavers Budget-Friendly Template Assortment for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apples-m1-performance-enhancing-video-editing-for-2024/"><u>Apple’s M1 Performance Enhancing Video Editing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-dell-latitude-e6420-drivers-fast-and-simple-steps/"><u>Download Your Dell Latitude E6420 Drivers: Fast and Simple Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/limited-time-offer-own-a-latest-9gen-ipad-for-only-250-lowest-market-rate-guaranteed/"><u>Limited Time Offer: Own a Latest 9Gen iPad for Only $250 – Lowest Market Rate Guaranteed!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-retrieving-your-parked-vehicle-a-step-by-step-guide-using-google-maps/"><u>Master the Art of Retrieving Your Parked Vehicle: A Step-by-Step Guide Using Google Maps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-apple-policy-enables-ios-apps-to-directly-connect-users-to-third-party-sites-for-buying/"><u>New Apple Policy Enables iOS Apps to Directly Connect Users to Third-Party Sites for Buying</u></a></li>
+<li><a href="https://os-tips.techidaily.com/nomad-stand-one-max-evaluation-uncovering-pros-and-cons-of-a-3-in-1-magsafe-power-solution/"><u>Nomad Stand One Max Evaluation: Uncovering Pros and Cons of a 3-in-1 MagSafe Power Solution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-tools-for-efficient-video-capture-on-windows-11/"><u>Top Tools for Efficient Video Capture on Windows 11</u></a></li>
 </ul></div>
 

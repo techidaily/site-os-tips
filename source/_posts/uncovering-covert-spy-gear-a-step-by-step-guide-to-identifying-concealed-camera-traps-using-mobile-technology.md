@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-09-11T16:12:21.696Z
-updated: 2024-09-16T16:05:54.182Z
+date: 2024-09-20T16:05:38.701Z
+updated: 2024-09-21T16:37:29.885Z
 tags:
   - ios
 categories:
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
@@ -61,22 +61,15 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
@@ -92,6 +85,13 @@ Josh Hendrickson / How-To Geek
  Some smartphones have filters to block out infrared light on their primary camera, but very few of them have filters on the front camera. To determine which camera will work for you, grab an infrared remote like the one you use for your TV. Point it at your smartphone's primary camera and press a button. If you see the light on the screen, then it can detect infrared. If you don't, try again with the front-facing camera.
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -120,15 +120,14 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-adding-emojis-in-youtube-discussions/"><u>[New] 2024 Approved Adding Emojis in YouTube Discussions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-best-no-cost-screen-players/"><u>[New] Best No-Cost Screen Players</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-best-of-breed-top-10-youtube-stations-for-journalism-for-2024/"><u>[Updated] Best of Breed Top 10 YouTube Stations for Journalism for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-action-cams-for-clear-unwavering-videos/"><u>[Updated] Pro-Level Action Cams for Clear, Unwavering Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearing-system-cache-partition-on-android-what-you-need-to-know/"><u>Clearing System Cache Partition on Android: What You Need To Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-live-content-with-manycam-top-software-choices-for-virtual-camera-solutions/"><u>Enhance Your Live Content with ManyCam: Top Software Choices for Virtual Camera Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-smartphones-the-alluring-titanium-and-cutting-edge-usb-c-of-apples-new-iphone-15-pro-unveiled/"><u>Revolutionizing Smartphones: The Alluring Titanium and Cutting-Edge USB-C of Apple's New iPhone 15 Pro Unveiled!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-guide-reflecting-your-iphone-display-onto-mac-with-ease/"><u>Seamless Guide: Reflecting Your iPhone Display Onto Mac with Ease</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sink-or-swim-with-confidence-the-ultimate-iphone-protection-in-apples-premium-waterproof-case/"><u>Sink or Swim with Confidence: The Ultimate iPhone Protection in Apple's Premium Waterproof Case</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-capturing-your-sms-exchange-on-screen/"><u>Step-by-Step Guide: Capturing Your SMS Exchange on Screen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-recording-internet-radios-simplified-tips-and-tricks-for-2024/"><u>[Updated] Recording Internet Radios Simplified Tips and Tricks for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-instructions-on-removing-the-password-requirement-from-your-iphone/"><u>Complete Instructions on Removing the Password Requirement From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-apple-airtags-understanding-their-functionality-and-suitability-for-you/"><u>Decoding Apple AirTags: Understanding Their Functionality and Suitability For You</u></a></li>
+<li><a href="https://os-tips.techidaily.com/demanding-the-ultimate-sound-experience-with-built-in-volume-buttons-for-my-future-earbud-case/"><u>Demanding the Ultimate Sound Experience with Built-In Volume Buttons for My Future Earbud Case!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/detecting-mobile-internet-speed-limits-understanding-and-identifying-throttled-data/"><u>Detecting Mobile Internet Speed Limits: Understanding and Identifying Throttled Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-play-40c-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-selection-the-10-best-apps-for-smartphone-video-calls/"><u>In 2024, Ultimate Selection The 10 Best Apps for Smartphone Video Calls</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-the-art-of-zooming-on-social-media-platform-snapchat-for-2024/"><u>Mastering the Art of Zooming on Social Media Platform, Snapchat for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-k70e-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi K70E</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones"
-date: 2024-09-11T16:07:52.769Z
-updated: 2024-09-16T16:29:51.380Z
+date: 2024-09-17T16:46:19.849Z
+updated: 2024-09-21T16:25:21.930Z
 tags:
   - ios
 categories:
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
 
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
@@ -85,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Changes I Want to See in Apple Intelligence in the Future
 
@@ -116,17 +116,16 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-stream-software-showdown-obs-vs-shadowplay/"><u>[Updated] In 2024, The Ultimate Stream Software Showdown OBS vs ShadowPlay</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-accomplishment-iphone-as-a-podcast-hub/"><u>2024 Approved Audio Accomplishment IPhone as a Podcast Hub</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-engagement-mastering-the-art-of-looped-videos-for-ig/"><u>2024 Approved Elevate Engagement Mastering the Art of Looped Videos for IG</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipating-googles-next-big-move-exclusive-preview-of-event-coverage/"><u>Anticipating Google's Next Big Move: Exclusive Preview of Event Coverage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-school-year-top-6-computer-system-enhancements/"><u>Boost Your School Year: Top 6 Computer System Enhancements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-itel-a70-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Itel A70 to Another | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-pitaka-magez-automotive-mobile-dock-revolutionizing-your-iphones-travel-experience/"><u>In-Depth Analysis of Pitaka MagEZ Automotive Mobile Dock - Revolutionizing Your iPhone's Travel Experience.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-evaluation-of-the-apple-watch-series-eb-consistent-quality-at-its-core/"><u>In-Depth Evaluation of the Apple Watch Series Eb – Consistent Quality at Its Core</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-173-enhancements-new-security-features-protecting-your-iphone-from-theft/"><u>IOS 17.3 Enhancements: New Security Features Protecting Your iPhone From Theft</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-your-neighborhood-air-conditions-effective-methods-for-assessing-environmental-cleanlinnss/"><u>Navigating Your Neighborhood Air Conditions: Effective Methods for Assessing Environmental Cleanlinnss</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-soundtrack-synthesis-crafting-the-perfect-youtube-list/"><u>[New] Soundtrack Synthesis Crafting the Perfect YouTube List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-symphony-of-social-sharing-adding-audio-to-instagram/"><u>[Updated] In 2024, The Symphony of Social Sharing Adding Audio to Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laugh-ledger-the-ultimate-list-of-hilarious-tweet-threads-for-2024/"><u>[Updated] Laugh Ledger The Ultimate List of Hilarious Tweet Threads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-images-with-movavis-on-line-tool-fast-free-from-tga-to-gif/"><u>Convert Your Images with Movavi's On-Line Tool - Fast, Free, From TGA to GIF</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-fixing-code-43-mistakes-for-seamless-computer-operations/"><u>Diagnosing and Fixing Code 43 Mistakes for Seamless Computer Operations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-p40plus-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Itel P40+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-data-recovery-recover-lost-data-from-huawei-nova-y71-by-fonelab-android-recover-data/"><u>Huawei Data Recovery – recover lost data from Huawei Nova Y71</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-truth-behind-unremarkable-smartphone-aesthetics-quality-over-style/"><u>The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-switch-why-i-made-the-transition-to-a-cellular-enabled-ipad/"><u>The Ultimate Switch: Why I Made The Transition To A Cellular-Enabled iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-free-dvd-ripping-tools-of-the-year-how-to-safely-rip-your-dvds-without-spending-a-penny/"><u>Top 10 Free DVD Ripping Tools of the Year: How to Safely Rip Your DVDs Without Spending a Penny</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-solutions-to-extend-your-apple-watchs-battery-life/"><u>Top 10 Solutions to Extend Your Apple Watch's Battery Life</u></a></li>
 </ul></div>
 

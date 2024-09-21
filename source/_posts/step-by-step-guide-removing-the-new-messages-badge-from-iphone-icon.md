@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon"
-date: 2024-09-13T16:27:06.479Z
-updated: 2024-09-16T16:27:11.206Z
+date: 2024-09-15T16:26:46.970Z
+updated: 2024-09-21T16:19:57.934Z
 tags:
   - ios
 categories:
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  If this doesn't solve your problem and you still see a number of unread messages on the Messages app on your iPhone home screen, however, we have a solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Fix Messages Showing Unread on iPhone
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ![The response to "Hey Siri, read my messages"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/siri-read-messages.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above solution worked to fix a stubborn stuck unread counter on the messages app on an iPhone running iOS 16\. Here are some other solutions we came across during our research that you may want to try if you still have this problem:
@@ -74,21 +74,17 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-step-by-step-increasing-viewership-with-facebook-mobile-broadcasts-for-2024/"><u>[New] Step-by-Step Increasing Viewership with Facebook Mobile Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fostering-connection-strategies-for-striking-fb-slideshows/"><u>[Updated] In 2024, Fostering Connection Strategies for Striking FB Slideshows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>2024 Approved Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-convert-waters-10-tips-for-youtube-to-mp4mpeg/"><u>2024 Approved Navigating the Convert Waters 10 Tips for YouTube to MP4/MPEG</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-ambient-ws-2902a-osprey-weather-station-revealed-packed-with-advanced-capabilities/"><u>Affordable Ambient WS-2902A Osprey Weather Station Revealed: Packed with Advanced Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-airdate-selection-podcast-release-tactics/"><u>In 2024, Mastering Airdate Selection Podcast Release Tactics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracking-device-in-compact-form/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracking Device in Compact Form</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-18-spotlights-unveiling-the-android-inspired-additions-to-apples-operating-system/"><u>IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-15-and-liquid-is-it-built-to-withstand-wet-conditions/"><u>IPhone 15 and Liquid: Is It Built to Withstand Wet Conditions?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-guide-steps-to-extract-and-share-videos-without-sound/"><u>IPhone Guide: Steps to Extract and Share Videos without Sound</u></a></li>
-<li><a href="https://os-tips.techidaily.com/limited-time-offer-claim-your-chance-to-win-a-free-apple-iphone-se/"><u>Limited Time Offer! Claim Your Chance to Win a Free Apple iPhone SE!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/major-update-apple-watchs-comprehensive-software-refresh/"><u>Major Update: Apple Watch's Comprehensive Software Refresh</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-google-lens-a-comprehensive-guide-for-iphone-users/"><u>Mastering Google Lens: A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/soundscapes-in-hd-techniques-for-precision-recording-for-2024/"><u>Soundscapes in HD Techniques for Precision Recording for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/winning-strategies-for-youtube-seo-titles-and-descriptions-for-2024/"><u>Winning Strategies for YouTube SEO Titles & Descriptions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamline-your-content-following-twitpic-rules/"><u>[Updated] 2024 Approved Streamline Your Content Following Twitpic Rules</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-25-perfect-presents-every-iphone-lover-will-adore/"><u>1. 25 Perfect Presents Every iPhone Lover Will Adore!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-new-gamma-playstation-emulator-now-available-for-ios-in-apples-app-store/"><u>1. New Gamma PlayStation Emulator Now Available for iOS in Apple's App Store!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-preventing-your-airpods-from-voice-activated-scribing-a-comprehensive-guide/"><u>1. Preventing Your AirPods From Voice Activated Scribing: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-steps-to-enable-recovery-mode-on-your-apple-ios-device/"><u>1. Steps to Enable Recovery Mode on Your Apple iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-on-moving-two-factor-authentication-codes-from-one-smartphone-to-another-with-google-authenticator/"><u>A Comprehensive Guide on Moving Two-Factor Authentication Codes From One Smartphone to Another with Google Authenticator.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-the-ultimate-5-gaming-webcam-winners-for-streaming-for-2024/"><u>Discover the Ultimate 5 Gaming Webcam Winners for Streaming for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harness-your-creativity-with-high-quality-free-images-from-these-12-sites/"><u>Harness Your Creativity with High-Quality, Free Images From These 12 Sites</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a05s-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A05s by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elite-camera-lineup-for-total-sphere-coverage/"><u>In 2024, Elite Camera Lineup for Total Sphere Coverage</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-volume-transitions-in-lumafusion-for-2024/"><u>Mastering Volume Transitions in Lumafusion for 2024</u></a></li>
 </ul></div>
 

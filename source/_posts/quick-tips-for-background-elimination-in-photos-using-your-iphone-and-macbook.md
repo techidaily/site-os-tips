@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook
-date: 2024-09-13T16:04:25.509Z
-updated: 2024-09-16T16:27:24.157Z
+date: 2024-09-18T16:37:06.880Z
+updated: 2024-09-21T17:02:24.885Z
 tags:
   - ios
 categories:
@@ -65,13 +65,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Accessing the Remove Background Quick Action in Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-12.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Remove the Background From an Image on a Mac
 
  Similar to iOS and iPadOS, Apple offers the Remove Background Quick Action on macOS, too, as long as you're using [macOS Mojave](https://youtube-docs.techidaily.com/-modification-tools-the-ultimate-guide-for-youtubers/) or later. It's available in the [Finder app](https://buynow-info.techidaily.com/1722645048665-experience-the-best-of-web-browsing-and-streaming-on-lenovos-newest-tablet-the-2020-tab-m10-hd-reviewed/), and using it is pretty straightforward.
@@ -82,22 +75,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Accessing context menu on an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, click on "Quick Actions" and select "Remove Background."
 
 ![Using the Remove Background Quick Action to remove an image's background in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finder will remove the background from your selected image and save it with a transparent background as a PNG file in the same folder.
 
  To remove backgrounds from more than one image in one go, first select all the images while holding the Command key. Then, Control-click on your selection (or tap with two fingers on your trackpad) to access the context menu and choose Quick Actions > Remove Background.
 
 ![Using the Remove Background Quick Action to remove backgrounds of multiple images at once in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Background Gets the Job Done Most of the Time
 
@@ -120,18 +120,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-captivating-online-titles-simplified/"><u>[Updated] Crafting Captivating Online Titles Simplified</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-experience-the-power-of-windows-on-your-iphone-with-seamless-simulation/"><u>1. Experience the Power of Windows on Your iPhone with Seamless Simulation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-superior-charging-experience-why-magsafe-is-a-compelling-reason-to-upgrade-your-iphone/"><u>1. Superior Charging Experience: Why MagSafe Is a Compelling Reason to Upgrade Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-experience-with-claude-3-4-key-advantages-over-chatgpt-you-cant-ignore/"><u>Elevate Your Experience with Claude 3 - 4 Key Advantages Over ChatGPT You Can't Ignore</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsoft-upgrades-windows-11-memory-functionality-for-improved-user-experience/"><u>Microsoft Upgrades Windows 11 Memory Functionality for Improved User Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-treatment-creating-gifs-without-spending-a-dime-for-2024/"><u>Twitter Treatment Creating GIFs Without Spending a Dime for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-iphone-models-iphone-16-series-unveiled-leaked-specs-and-rumors/"><u>Upcoming iPhone Models: IPhone 16 Series Unveiled - Leaked Specs and Rumors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-follow-the-simple-steps-below-to-flip-crop-resize-or-move-clips-with-final-cut-pro/"><u>Updated Follow the Simple Steps Below to Flip, Crop, Resize or Move Clips with Final Cut Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upgrade-your-chat-game-master-these-10-indispensable-imessage-tricks-for-immediate-use/"><u>Upgrade Your Chat Game: Master These 10 Indispensable iMessage Tricks for Immediate Use</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-quick-paths-to-influence-for-2024/"><u>[Updated] Mastering Instagram Quick Paths to Influence for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-peeling-back-the-layers-of-visual-past-a-guide-to-fb-image-searching-reversed/"><u>[Updated] Peeling Back the Layers of Visual Past A Guide to FB Image Searching (Reversed)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993761577-fixing-offline-origin-problem-it-works-again/"><u>Fixing Offline Origin Problem – It Works Again!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-six-strategies-to-prevent-your-iphones-storage-from-overflowing/"><u>Top Six Strategies to Prevent Your iPhone's Storage From Overflowing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transferring-your-apple-notes-between-iphone-and-mac-a-comprehensive-guide/"><u>Transferring Your Apple Notes Between iPhone and Mac - A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-communication-mastering-the-art-of-using-an-apple-watch-like-a-walkie-talkie/"><u>Transform Your Communication: Mastering the Art of Using an Apple Watch Like a Walkie-Talkie</u></a></li>
 </ul></div>
 

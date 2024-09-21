@@ -1,7 +1,7 @@
 ---
 title: "Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!"
-date: 2024-09-15T16:02:32.165Z
-updated: 2024-09-16T16:12:13.807Z
+date: 2024-09-18T16:42:38.842Z
+updated: 2024-09-21T16:41:17.959Z
 tags:
   - ios
 categories:
@@ -62,9 +62,23 @@ Related: [How to Use Inline Replies in Messages on iPhone and iPad](https://extr
 
 ![Reply to a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Reply-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You and your recipient will then see a line connecting the reply to the message in the main conversation. Select the Reply or Replies link below the message to see that entire "side conversation" with the rest blurred.
 
 ![Reply to a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Reply-MessagesThingsDidntKnowDo.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Track Flights and Packages
 
@@ -93,10 +107,10 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 ![Words highlighted and replaced with emoji in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Emoji-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use a Mention to Get Attention
@@ -112,19 +126,6 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
  You can control the [notifications for mentions in Messages](https://driver-install.techidaily.com/upgrade-nvidia-gtx-970-performance-on-windows-10/). On iPhone and iPad, go to Settings > Messages and use the Notify Me toggle. On Mac, go to Messages > Settings > General and use the check box for Notify Me When My Name is Mentioned.
 
 Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-capture.techidaily.com/updated-2024-approved-perfect-your-game-with-these-top-7-stardew-valley-modifications/) 
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Handwrite or Sketch a Message
 
@@ -157,16 +158,10 @@ Related: [How to Hide Spam Texts From Unknown Senders on iPhone](https://ios-unl
 ![Filters in Messages on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FiltersMac-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tapback to Quickly React
@@ -182,10 +177,10 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
  For older versions of iOS, iPadOS, or macOS, the recipient sees a text label instead of an icon.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Send Bubble or Screen Effects
@@ -195,13 +190,6 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
  On iPhone and iPad, type your message and then tap and hold the Send button. You'll see a screen with tabs at the top for the available Bubble and Screen effects. Select one to preview it and simply tap the Send button for the one you want.
 
 ![Effects in Messages on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EffectsiPhone-MessagesThingsDidntKnowDo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On Mac, type your message, select the capital A icon to the left of the message field, and pick "Message Effects." You'll see all Bubble and Screen effects together on one screen. Select one to see a preview and click the Send button to use it.
 
@@ -228,17 +216,15 @@ Related: [10 Great iPhone Features You Should Be Using](https://some-skills.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-slide-swivel-and-shift-mastering-the-rotation-ritual-for-stunning-photos-on-insta-sites/"><u>[New] 2024 Approved Slide, Swivel and Shift Mastering the Rotation Ritual for Stunning Photos on Insta Sites</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-15-indispentic-tools-to-launch-your-youtube-career/"><u>[New] In 2024, 15 Indispentic Tools to Launch Your YouTube Career</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-effortless-online-video-access-via-vimeo/"><u>[Updated] Effortless Online Video Access via Vimeo</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-screencast-o-matic-review/"><u>[Updated] In 2024, Screencast-O-Matic Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2-decoding-your-ios-devices-system-data-storage-a-guide-for-iphone-and-ipad-users/"><u>2. Decoding Your iOS Device's System Data Storage - A Guide for iPhone and iPad Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-tutorial-how-to-share-icloud-notes-from-ios-device-to-macos-system/"><u>A Step-by-Step Tutorial: How to Share iCloud Notes From iOS Device to macOS System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-ai-innovation-exclusive-preview-and-demonstration/"><u>Apple AI Innovation: Exclusive Preview and Demonstration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-ios-15-mastering-the-art-of-innovation-with-its-improved-flashlight-feature/"><u>Apple iOS 15: Mastering the Art of Innovation with Its Improved Flashlight Feature</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-f5-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/infuse-satire-and-smiles-kapwings-meme-builder/"><u>Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/snagting-smiles-on-iphones-and-androids-from-twitters-timeline-for-2024/"><u>Snagting Smiles on iPhones & Androids From Twitter's Timeline for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-insightful-overview-what-is-hugving-face-used-for/"><u>The Insightful Overview: What Is Hugving Face Used For?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-power-of-creativity-magix-video-pro-x-demystified/"><u>[New] 2024 Approved The Power of Creativity Magix Video Pro X Demystified</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-video-performance-vlc-versus-mx-for-2024/"><u>Evaluating Video Performance VLC Versus MX for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/fraps-for-gamers-a-screen-record-review-for-2024/"><u>Fraps for Gamers A Screen Record Review for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newest-rtx-2060-graphics-card-drivers-compatible-with-windows-11-10-8-and/"><u>Newest RTX 2060 Graphics Card Drivers: Compatible with Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-screen-from-inappropriate-images-on-iphonemac-with-ease/"><u>Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease</u></a></li>
+<li><a href="https://os-tips.techidaily.com/shame-mode-activated-uncover-the-10-most-embarrassing-iphone-habits-and-learn-how-to-break-free/"><u>Shame Mode Activated? Uncover the 10 Most Embarrassing iPhone Habits & Learn How to Break Free!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-imessage-dilemma-effective-8-step-guide-for-ios-and-macos-devices/"><u>Solve Your iMessage Dilemma: Effective 8-Step Guide for iOS & macOS Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-easy-guide-to-taking-and-saving-twitters-gifs-for-2024/"><u>The Easy Guide to Taking and Saving Twitter's Gifs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-common-pitfalls-in-crafting-chatgpt-prompts-and-how-to-dodge-them/"><u>Top 6 Common Pitfalls in Crafting ChatGPT Prompts and How to Dodge Them</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-on-print-via-application-guard-in-windows-11-edge/"><u>Turning On Print via Application Guard in Windows 11 Edge</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac"
-date: 2024-09-13T16:29:11.918Z
-updated: 2024-09-16T16:15:34.140Z
+date: 2024-09-19T16:30:36.433Z
+updated: 2024-09-21T16:14:50.061Z
 tags:
   - ios
 categories:
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 [1Password's passkey directory](https://passkeys.directory/) keeps track of all the websites, apps, and services that currently offer passkey login. We should continue to see more and more services adopting passkeys as they grow in popularity. That said, we're not expecting passwords to go away completely anytime soon, given just how deeply ingrained they're in our digital lives. Passwords and passkeys will continue to co-exist for the foreseeable future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Create Passkeys on an iPhone, iPad, or Mac
 
  Getting started with passkeys on your iPhone, iPad, or Mac is easy. That said, you've to get a few things in place:
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 * Enable iCloud Keychain on your device, as this is where all your passkeys will be stored.
 * Update to iOS 16, iPadOS 16, macOS Ventura, or tvOS 16, or later.
 * Make sure passkeys are supported by your browser. If you're using Safari or Chrome, you're golden.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  How to Enable Passkeys
 
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 ![AutoFill Passwords and Passkeys toggle turned on and iCloud Keychain enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/iphone-password-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Create a Passkey
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Passkeys option highlighted under the Security tab in Google Account settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone8-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To generate a new passkey, tap the "Create a Passkey**"** button located at the bottom. Then tap "Continue" to proceed.
 
 ![A button for creating a new passkey highlighted in Google Account dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone9-1.png) 
@@ -95,26 +102,13 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![iOS displaying a prompt to save a new passkey to iCloud Kitchen with the 'Continue' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone-10.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it! You've successfully created and saved a passkey for your Google Account on your Apple device. You can now log in to your Google Account by simply using facial recognition, fingerprint recognition, or your passcode. You can also safely [share your passkeys with your friends and family](https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-a60s-phone-withwithout-imei-number-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Sign In to Your Accounts with Passkeys
@@ -141,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![PayPal log in screen with the 'Log in with a Passkey' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-1-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A pop-up box should appear on the screen asking you whether you would like to use a passkey from another device. Select the option to sign in from an iPhone, iPad, or Android device and click "Continue."
 
 ![iCloud Keychain pop-up asking how would you like to sign in to paypal.com. The option to use passkey from another iPhone, iPad, or Android device is selected and the Continue button is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-2-3.png) 
@@ -163,6 +150,13 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
  Tap "Continue" to authenticate yourself with Face ID, Touch ID, or your passcode to complete the sign-in process.
 
 ![Prompt asking the user if they want to sign in to their PayPal account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-ios.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why You Should Be Using Passkeys Whenever Possible
 
@@ -187,20 +181,19 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-demystifying-the-advanced-features-in-vlc/"><u>[New] 2024 Approved Demystifying the Advanced Features in VLC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-money-matters-finns-financial-framework/"><u>[New] Money Matters Finn's Financial Framework</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-direct-youtube-video-capture-guide-for-2024/"><u>[Updated] Direct YouTube Video Capture Guide for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-enhance-videos-seamlessly-using-youtube-studio-editor/"><u>[Updated] Enhance Videos Seamlessly Using YouTube Studio Editor</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-sculpting-the-digital-experience-through-zooming-for-2024/"><u>[Updated] Sculpting the Digital Experience Through Zooming for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-perspective-ranking-the-top-11-multi-angle-cams/"><u>2024 Approved The Ultimate Perspective Ranking the Top 11 Multi-Angle Cams</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-and-simple-download-acer-wireless-bluetooth-drivers/"><u>Fast and Simple Download: Acer Wireless Bluetooth Drivers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-privacy-on-your-iphone-learn-the-quick-guide-to-blocking-unwanted-access/"><u>Protect Privacy on Your iPhone - Learn the Quick Guide to Blocking Unwanted Access</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-lost-iphone-contacts-a-step-by-step-guide/"><u>Restoring Lost iPhone Contacts - A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-mobile-shooting-with-belkins-auto-tracking-stand-pro-a-creative-videographers-dream-tripod-review/"><u>Revolutionizing Mobile Shooting with Belkin's Auto-Tracking Stand Pro - A Creative Videographer’s Dream Tripod Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/road-trip-planning-made-easy-with-google-maps-sharing-feature-learn-the-simple-steps/"><u>Road Trip Planning Made Easy with Google Maps Sharing Feature – Learn the Simple Steps!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/share-your-research-with-friends-the-latest-update-from-google-chrome-for-collaborative-browsing/"><u>Share Your Research with Friends – The Latest Update From Google Chrome for Collaborative Browsing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-the-mystery-of-forgotten-ios-backup-passwords-uncover-your-missing-keys-with-ease/"><u>Solve the Mystery of Forgotten iOS Backup Passwords - Uncover Your Missing Keys with Ease!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-transforming-your-ipad-into-a-secondary-monitor-for-your-mac/"><u>Step-by-Step Guide: Transforming Your iPad Into a Secondary Monitor for Your Mac</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/winxvideo-ai-comment-capturer-a-la-perfection-ecran-camera-web-et-son/"><u>WinXvideo AI: Comment Capturer À La Perfection Écran, Caméra Web Et Son</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-comprehensive-screen-shot-for-2024/"><u>[New] Capture Comprehensive Screen Shot for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-strategies-for-efficient-io-screen-recording/"><u>[Updated] Expert Strategies for Efficient IO Screen Recording</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-arcade-a-second-look-top-5-benefits-that-make-it-a-great-choice/"><u>Apple Arcade: A Second Look - Top 5 Benefits That Make It a Great Choice</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-watch-revolution-the-tinypod-transforms-it-into-a-music-player/"><u>Apple Watch Revolution: The TinyPod Transforms It Into a Music Player</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-service-interruptions-lead-to-iphone-application-failures/"><u>Apple's Service Interruptions Lead to iPhone Application Failures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/determine-if-your-iphone-is-previously-used-or-newly-refurbished/"><u>Determine if Your iPhone Is Previously Used or Newly Refurbished</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disabling-find-my-iphone-a-step-by-step-guide-and-essential-reasons/"><u>Disabling Find My iPhone: A Step-by-Step Guide & Essential Reasons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disabling-mute-feature-a-step-by-step-guide-for-iphones/"><u>Disabling Mute Feature: A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-12-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 12 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effortless-editing-in-obs-studio-with-top-5-hacks/"><u>In 2024, Effortless Editing in OBS Studio with Top 5 Hacks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-google-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Google Without PUK Codes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-beginning-lineups-for-panzoids/"><u>In 2024, The Essential Beginning Lineups for Panzoids</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-forgotten-basics-of-instagram-reels-success-for-2024/"><u>The Forgotten Basics of Instagram Reels Success for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/virtual-vibrance-instructions-for-weaving-echo-into-the-fabric-of-windows-and-internet-audio-streams/"><u>Virtual Vibrance Instructions for Weaving Echo Into the Fabric of Windows and Internet Audio Streams</u></a></li>
 </ul></div>
 
