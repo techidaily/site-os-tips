@@ -1,7 +1,7 @@
 ---
 title: Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
-date: 2024-09-15T16:27:35.242Z
-updated: 2024-09-21T16:32:20.243Z
+date: 2024-09-18T17:45:41.720Z
+updated: 2024-09-26T04:19:27.449Z
 tags:
   - ios
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Apple Watch Series 8 recording a Traditional Strength Training exercise using the Workout app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52559368560_69e3affd15_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  After picking up an iPad and learning about the Health app (and all the metrics it could track), I wanted to take the plunge. I shopped online and bought a used iPhone and Apple Watch, synced them up, and got tracking.
@@ -51,6 +58,13 @@ Tim Brookes / How-To Geek
 
  The Apple Watch even works with Apple's Fitness+ app, allowing me to see my heart rate and more important information in real-time while I work out, allowing me to ramp up or slow down as needed. In short, I could get a similar experience on Android with a lot more tinkering, but Apple makes it so easy without all of the added hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  My Daily Driver is Still Android
 
  I'm not a complete Apple convert. My main smartphone is still the Google Pixel 7a, and the prohibitively high prices of the iPhone line make it likely I won't completely switch to iOS any time soon. Also, as a gamer, I live or die by my Windows desktop and laptop, so a Mac is never on my mind when shopping for replacements.
@@ -70,16 +84,10 @@ Justin Duino / How-To Geek
 ![apple watch and iphone fitness+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/3cfb127b.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You need an Apple Watch to use Fitness+. The stats tracked by the Watch get shown on your iPhone screen. 
@@ -89,10 +97,10 @@ You need an Apple Watch to use Fitness+. The stats tracked by the Watch get show
  Best of all, the Apple Watch syncs with my health insurance provider, which offers rebates and rewards for healthy habits. This is something that not all Android smartwatches can do.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ...But It's Not Perfect
@@ -116,5 +124,21 @@ You need an Apple Watch to use Fitness+. The stats tracked by the Watch get show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro/"><u>[New] A Professional's Secret Efficiently Incorporating LUTs Into Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools/"><u>[New] In 2024, Easy Path From Spotify to YouTube Discover the Best Playlist Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>[New] In 2024, Uncovering Budget-Friendly Video Communication Apps PC/MAC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-escape-from-ennui-with-humor-top-20-funny-faces-in-social-media-jail/"><u>[Updated] In 2024, Escape From Ennui with Humor Top 20 Funny Faces in Social Media Jail</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-secondary-footage-a-filmmakers-guide/"><u>2024 Approved Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/5-best-solutions-for-when-your-iphones-swipe-lock-isnt-functioning/"><u>5 Best Solutions for When Your iPhone's Swipe Lock Isn't Functioning</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amaze-with-amazon-fire-tv-cube-the-pinnacle-of-rapid-streaming-devices/"><u>Amaze with Amazon Fire TV Cube: The Pinnacle of Rapid Streaming Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypass-itunes-error-3194-seamlessly-with-these-3-effective-strategies-proven-results/"><u>Bypass iTunes Error 3194 Seamlessly with These 3 Effective Strategies (Proven Results)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/determining-your-ipads-model-a-step-by-step-guide-using-the-serial-and-model-numbers/"><u>Determining Your iPad's Model: A Step-by-Step Guide Using the Serial and Model Numbers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-an-ipads-unresponsive-dark-screen-issue/"><u>How To Resolve An iPad's Unresponsive Dark Screen Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Galaxy A15 4G</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-how-to-run-a-giveaway-facebook-post/"><u>In 2024, How to Run a Giveaway Facebook Post</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-unmatched-contacts-in-ios-swift-actions-for-an-iphone-without-them/"><u>Recover Unmatched Contacts in iOS: Swift Actions for an iPhone Without Them</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-remedies-to-resolve-your-ipads-onoff-malfunction-issues/"><u>Top 5 Remedies to Resolve Your iPad’s On/Off Malfunction Issues</u></a></li>
+</ul></div>
 

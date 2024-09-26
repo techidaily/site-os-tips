@@ -1,7 +1,7 @@
 ---
 title: The Dawn of Ubiquitous Smartphone Conformity Across Platforms
-date: 2024-09-18T16:11:22.741Z
-updated: 2024-09-21T16:34:03.742Z
+date: 2024-09-25T06:31:18.040Z
+updated: 2024-09-26T01:36:03.547Z
 tags:
   - ios
 categories:
@@ -29,13 +29,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-generations.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In five generations, the biggest design changes are moving the cameras from stacked vertically to diagonal and a switch from glossy to matte glass. The last three generations, in particular, are essentially identical. You'd need to have a very keen eye to tell the iPhone 13 and 14 apart.
 
 ![Samsung Galaxy generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-generations.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For Samsung, I was able to go back three generations before finding discernable changes. While the company has maintained the same arrangement of five cameras and a flash since the Galaxy S20 Ultra, it played with the housing for a couple of years. That is until the S22 Ultra, which has now been repeated three times.
 
 ![Google Pixel generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pixel-generations.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Google is definitely the least offensive of the three, but I get the sense this is just the beginning. Google had a two-tone aesthetic going from the OG Pixel to the Pixel 3, then an iPhone-esque look with the Pixel 4 and Pixel 5, and we've seen this camera bar design for three generations now. The same design has also been used for the Pixel 6a and Pixel 7a (and almost certainly for the Pixel 8a as well).
 
@@ -47,6 +68,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The other part of the equation was U.S. carriers. AT&T, Sprint, T-Mobile, and Verizon all wanted to have unique offerings. Apple had the power to say no to these requests, but companies like Samsung, who didn't have that popularity yet, had to play ball. The Samsung Galaxy S series from 2010 is the perfect example.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ![Samsung Galaxy S 2010 variants.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-s-variants.jpg) 
 
  You wouldn't know it by looking, but the four phones in the image above are all from the same series. Known in most places as simply the "Galaxy S," the U.S. saw four models with not only unique names but completely unique designs. It's hard to imagine Samsung creating four separate looks for the Galaxy S24 series nowadays.
@@ -55,21 +83,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-variants.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tha image above shows a lot more variety than seen in the five generations following the iPhone X. The current state of smartphone design feels pretty uninspired, but there are some legitimate reasons why things have moved this way.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Did We Get Here?
 
@@ -94,5 +108,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-free-mp3-recorder-for-skype-chats/"><u>[New] In 2024, Essential Free MP3 Recorder for Skype Chats</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-compreran-exploration-of-giroptics-panorama/"><u>[Updated] 2024 Approved Compreran Exploration of Giroptic's Panorama</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-clearing-focus-techniques-for-blurring-meeting-backdrops/"><u>[Updated] In 2024, Clearing Focus Techniques for Blurring Meeting Backdrops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-templates-for-impactful-business-presentations/"><u>[Updated] In 2024, Essential Templates for Impactful Business Presentations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/decode-your-insta-performance-a-complete-look-at-user-behavior-for-2024/"><u>Decode Your Insta Performance A Complete Look at User Behavior for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-keep-openais-bots-from-harvesting-data-on-your-website/"><u>How to Keep OpenAI's Bots From Harvesting Data on Your Website</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-collaborative-chats-in-skype-windows-mac/"><u>The Ultimate Guide to Collaborative Chats in Skype (Windows, Mac)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-printing-out-mobile-text-chats-easily/"><u>The Ultimate Tutorial: Printing Out Mobile Text Chats Easily</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-frequent-issues-with-your-apple-watch-easy-troubleshooting-tips/"><u>Top 10 Frequent Issues with Your Apple Watch: Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-4-advantages-choosing-apple-airpods-over-a-soundbar-for-your-television-experience/"><u>Top 4 Advantages: Choosing Apple AirPods Over a Soundbar for Your Television Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-forecasts-anticipated-innovations-in-artificnial-intelligence-from-apples-worldwide-developers-conference-wwdc-2024/"><u>Top 5 Forecasts: Anticipated Innovations in Artificnial Intelligence From Apple's Worldwide Developers Conference (WWDC) 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-reasons-why-now-might-not-be-ideal-for-purchasing-a-latest-iphone-model/"><u>Top Reasons Why Now Might Not Be Ideal for Purchasing a Latest iPhone Model</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-phone-into-a-gaming-powerhouse-with-razers-kishi-ultra-the-definitive-console-controller-for-mobiles/"><u>Transform Your Phone Into a Gaming Powerhouse with Razer's Kishi Ultra – The Definitive Console Controller for Mobiles</u></a></li>
+</ul></div>
 

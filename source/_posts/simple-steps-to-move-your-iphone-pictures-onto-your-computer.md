@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Move Your iPhone Pictures Onto Your Computer
-date: 2024-09-16T16:21:24.624Z
-updated: 2024-09-21T16:05:02.312Z
+date: 2024-09-20T11:28:57.592Z
+updated: 2024-09-26T00:06:07.361Z
 tags:
   - ios
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Use File Explorer or Windows Explorer](https://article-knowledge.techidaily.com/2024-approved-storage-sizing-film-duration-in-gb/)
 * [Import Photos With Windows Photos (or Other Applications)](https://www.howtogeek.com/345540/how-to-transfer-photos-from-an-iphone-to-a-pc/#import-photos-with-windows-photos-or-other-applications)
 * [Sync Your Photos With iCloud Photo Library (or Other Services)](https://www.howtogeek.com/345540/how-to-transfer-photos-from-an-iphone-to-a-pc/#sync-your-photos-with-icloud-photo-library-or-other-services)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,6 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Make sure you're in "This PC," then double-click "Apple iPhone."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/this-pc-open-iphone.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On modern versions of iOS you'll see a number of folders with numerical names that contain your photos.
 
  On older versions of iOS you'll see a folder named DCIM, and your photos and videos will be stored in a 100APPLE folder. If you have lots of photos and videos, you'll see additional folders named 101APPLE, 102APPLE, and so on. If you use iCloud to store photos, you'll also see folders named 100Cloud, 101Cloud, and so on.
@@ -54,6 +68,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To import everything from your iPhone, you could just copy-and-paste or drag-and-drop the 100APPLE folder (and any other folders) inside the DCIM folder. Or, you could just grab the whole DCIM folder if you want. Just make sure to copy instead of move the items, if you want them to remain on your phone.
 
 ![Copy the photo folders from your iPhone to other devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/copy-photos-to-iphone.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you see files with the .HIEC file extension, that indicates your iPhone is taking photos using [the HEIF image format](https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/). This is the default setting as of [iOS 11](https://remote-screen-capture.techidaily.com/updated-2023s-best-screen-recorder-discover-with-camstudio/) and later, but you need to install the [HEIF image extension to view these files on Windows](https://sound-tweaking.techidaily.com/the-most-reliable-sites-to-stream-legal-background-music-collections-for-2024/).
 
@@ -73,13 +94,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Importing photos and videos from the iPhone with the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/importing-files-from-iphone.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Sync Your Photos With iCloud Photo Library (or Other Services)
 
  If you don't want to connect your iPhone to your PC via a cable, you can also use online photo synchronization services. These won't just upload photos from your iPhone to the cloud — they'll also download those photos from the cloud to your PC. You'll end up with a copy stored online and a copy stored on your PC.
@@ -87,6 +101,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For example, you can enable [iCloud Photo Library](https://extra-hints.techidaily.com/harmonic-hurdle-jumpstarts-best-tunes-to-initiate-audio-starts/) on your iPhone by heading to Settings > Photos and activating "iCloud Photo Library" if it isn't already enabled. Your iPhone will then automatically upload your photos to your Apple iCloud account.
 
 ![Open the Settings app, tap &quot;Photos,&quot; then tap the toggle next to &quot;iCloud Photos.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/icloud_annotated.png) 
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can then install [iCloud for Windows](https://support.apple.com/en-us/HT204283), sign in with your Apple ID, and enable the "Photos" feature in the iCloud control panel. Click the "Options" button to control where photos are stored on your PC and adjust other settings.
 
@@ -99,10 +126,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The Google Drive app can automatically synchronize photos between devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa30ed72d6fc.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Just keep in mind that with these services, you're actually syncing those folders. So, if you delete something from a synced folder on your PC, it is also deleted on your phone.
@@ -120,5 +147,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-windows-10s-complete-guide-to-saving-mov-content-with-ease/"><u>[New] 2024 Approved Windows 10'S Complete Guide to Saving .mov Content with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comparative-analysis-of-best-win-driven-art-tools/"><u>2024 Approved Comparative Analysis of Best Win-Driven Art Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/5yuv55s744gr54m55yil44gq44k44kw44ks6lplus95yqg44gx44gm44cb44ow44o844oh44op44oz5qmf6io944ks5yip55so44gz44kl5pa55rov/"><u>動画に特別なタグを追加して、ブーメラン機能を利用する方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-data-on-your-iphone-post-factory-reset/"><u>Complete Guide: Retrieving Lost Data on Your iPhone Post-Factory Reset</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-gala-the-glory-of-game-guardianship/"><u>Gaming Gala: The Glory of Game Guardianship</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/instagrams-algorithm-unlocked-optimizing-your-reels-for-2024/"><u>Instagram’s Algorithm Unlocked Optimizing Your Reels for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-alerts-downloading-and-altering-tamil-tunes/"><u>Melodic Alerts Downloading and Altering Tamil Tunes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-recover-your-viber-conversations-in-just-5-minutes/"><u>Quick Guide: Recover Your Viber Conversations in Just 5 Minutes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-your-missed-chats-expert-tips-for-restoring-erased-text-messages/"><u>Recover Your Missed Chats: Expert Tips for Restoring Erased Text Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-retrieve-unintentionally-removed-photos-from-an-ipad-device/"><u>Step-by-Step Tutorial: How to Retrieve Unintentionally Removed Photos From an iPad Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-iphone-smsmms-recovery-tools-for-202-best-free-and-subscription-options-available/"><u>Top 6 iPhone SMS/MMS Recovery Tools for 202지 - Best Free and Subscription Options Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unraveling-the-mystery-why-my-eccentric-rice-cooker-pods-just-dont-leave-me-behind/"><u>Unraveling the Mystery: Why My Eccentric Rice-Cooker Pods Just Don't Leave Me Behind</u></a></li>
+</ul></div>
 

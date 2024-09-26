@@ -1,7 +1,7 @@
 ---
 title: "Enhance iPad Experience: Let's Focus on Functionality, Not Diminishing Its Size"
-date: 2024-09-17T16:40:41.640Z
-updated: 2024-09-21T17:12:23.479Z
+date: 2024-09-25T08:04:35.844Z
+updated: 2024-09-25T21:15:36.773Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
  Apple has revealed its next-generation iPad Pros, packing an M4 chip, tandem OLED screen, and a thinner body than even the iPod Nano. This all sounds good, until you think about what they _could_ have done with that extra real estate instead of putting the iPad on a diet.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Was the iPad Too Thick?
 
  I own the M2 iPad Pro 12.9-inch model, which is the chonkiest modern iPad you can buy, and the model that directly precedes the latest M4 which have been slimmed down so much. I have never thought to myself "this iPad is too thick."
@@ -27,9 +34,23 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ![An iPad and MacBook inside a single MacBook sleeve.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fgpyj6bxmaqs8jb.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  I'm sure that many people will be absolutely enthralled at this new iPad that approaches the actual thickness of paper, though [Jerry Rig Everything already measures a 1-degree bend in their test unit out of the box](https://youtu.be/GN6ZlssqNAE?si=8fVXVaoOLd9zxr5-) so we'll see how it works out in the long term.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  MacBooks Have Better Battery Life–and That’s Wrong
 
@@ -40,10 +61,16 @@ Sydney Louw Butler / How-To Geek
  To be fair to Apple, battery tests for the M4 iPad Pros look good and over on [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs), for example, they've clocked the M4 Pro in just short of 15 hours. That's a significant improvement and brings it in line with the M3 MacBook Air. However, I'm of the opinion that the iPad should outpace the MacBook when it comes to battery life given the difference in how people use them on a daily basis.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Those M-Chips Could Use Better Cooling
@@ -53,13 +80,6 @@ Sydney Louw Butler / How-To Geek
 ##  Already Great Audio Could Be Better
 
  The iPad Pro's audio is [best in class](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). It's practically engineering black magic, and no sane person could claim it was bad. However, that doesn't mean it couldn't be better. More speakers, bigger speakers, deeper chambers—I don't know how they'd do it, but something tells me the audio engineers could have used that space for something special.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  More Ports Please
 
@@ -82,5 +102,20 @@ Sydney Louw Butler / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>[New] In 2024, Detailed Framework Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-cutting-edge-in-camera-technology-2024-edition/"><u>[New] The Cutting Edge in Camera Technology - 2024 Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-phones-to-cameras-enhancing-your-live-stream-setup/"><u>[Updated] 2024 Approved Phones to Cameras Enhancing Your Live Stream Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bugs-a-comprehensive-guide-to-fixing-assassins-creed-mirage-glitches/"><u>Beat the Bugs: A Comprehensive Guide to Fixing Assassin's Creed Mirage Glitches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-online-platforms-for-sending-and-receiving-text-messages-top-10-picks/"><u>Best Free Online Platforms for Sending and Receiving Text Messages - Top 10 Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-how-to-reflect-iphone-display-on-a-2024-vizio-television/"><u>Complete Tutorial: How to Reflect iPhone Display on a 2024 VIZIO Television</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-mirror-content-from-your-device-to-tv-without-using-apple-tv-the-latest-techniques/"><u>How to Successfully Mirror Content From Your Device to TV Without Using Apple TV: The Latest Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-motion-clearer-captures/"><u>In 2024, Mastering Motion Clearer Captures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-retrieving-words-from-pictures-a-comprehensive-guide-for-mobile-and-computer-users/"><u>Master the Art of Retrieving Words From Pictures: A Comprehensive Guide for Mobile & Computer Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-effective-strategies-for-locating-your-missing-iphone/"><u>Quick Guide: Effective Strategies for Locating Your Missing iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-iphone-charger-issues-tips-for-different-scenarios/"><u>Troubleshooting iPhone Charger Issues: Tips for Different Scenarios</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>Updated 2024 Approved Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windows-11-game-snapshots-top-5-capture-strategies-for-2024/"><u>Windows 11 Game Snapshots Top 5 Capture Strategies for 2024</u></a></li>
+</ul></div>
 

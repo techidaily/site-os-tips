@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans"
-date: 2024-09-05T07:48:29.301Z
-updated: 2024-09-06T07:48:29.301Z
+date: 2024-09-20T07:39:07.377Z
+updated: 2024-09-26T05:00:47.990Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736cfcb08614e4c3a629de687e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans
 
 ### Quick Links
@@ -26,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 * [​Smartphones Use Passive Cooling](https://instagram-video-recordings.techidaily.com/new-2024-approved-storystitcher-compelling-collage-for-instagram-users/)
 * [​More Alternatives to Fans Are In Development](https://some-knowledge.techidaily.com/new-from-basics-to-brilliance-fullscreen-proficiency-in-premiere/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Fans are not a good fit for smartphones due to their fragility, the lack of space, and how much phones get jostled.
@@ -39,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 * Smartphone apps contribute to less need for cooling by being designed not to drain your battery life.
 
  Mobile phones grow more powerful every year. A premium phone is far more powerful than a midrange PC and even has stronger graphics processing than an ultrabook with Intel-integrated graphics. Yet despite all that power, have you ever noticed how your phone lacks a fan? Why is that?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Moving Parts Need More Space and Can Break
 
@@ -56,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
 ![Snapdragon 8 Gen 3 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-8-gen-3-hero.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Qualcomm
 
  When trying to determine how energy efficient your CPU is, there’s one key term you’re looking for: [Thermal Design Power](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/). TDP is usually listed in watts and shows the maximum amount of heat the CPU is designed to generate when running under a full load. This doesn't tell you how much energy your device is pulling every hour, but it does give you the upper limit of what to expect.
@@ -73,17 +62,12 @@ Qualcomm
  How do phone CPUs manage to be both powerful and efficient? If you want to get into the tehnical weeds, check out this report from [Cadence PCB Designs](https://resources.pcb.cadence.com/blog/3-thermal-management-approaches-for-your-smartphone-2). Methods include temperature aware scheduling (slowing down hot processors in favor of cool ones), traffic throttling (directing network traffic through the chip in a way that avoids hotspots), and clock gating (stopping processor logic for a few microseconds at a time). But that's just scratching the surface.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  ​Mobile Apps Generate Less Heat, to Reduce Need for Cooling
 
  Software may seem not to occupy physical space, but it does, in the form of energy. Demanding software has higher energy requirements. So does poorly-written code. If an app pings the network incessantly, constantly requiring background processes to wake up from sleep, then it’s causing your device to use more energy.
@@ -91,11 +75,12 @@ Qualcomm
  I don’t think it’s offending anyone to say that not all mobile apps are brilliantly written pieces of code. Yet when you’re making a mobile app, an impact on battery life is a factor you're encouraged to care about. If running an app causes a phone to need to charge more often, you’ll hear about it from your users. Energy usage translates to heat. By keeping apps energy efficient, developers reduce the need for active cooling.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  ​Smartphones Use Passive Cooling
 
 ![A close-up image of an aluminum heatsink mounted on a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/shutterstock_1704910018.jpg) 
@@ -107,11 +92,12 @@ Qualcomm
  Passive cooling works very well for everyday operation, but unlike active cooling, it can’t ramp up how much heat it’s able to remove (again, like opening a window). That’s why some phones get particularly toasty when performing intensive tasks, like gaming. Your CPU’s generating more heat, and the phone lacks the ability to compensate. This is when [thermal throttling kicks in](https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/), reducing performance to buy components time to cool off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  ​More Alternatives to Fans Are In Development
 
  Some niche phones have contained fans. The [Lenovo Legion Phone Duel 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fgb%2Fen%2Fp%2Fphones%2Flenovo-phones%2Flegion-phone-duel%2Fl70081%2Fppippiz7081) actually packed two of them, but that was never expected to go mainstream. Smartphone makers are looking into other options for cooling a smartphone during intensive loads. One option is [vapor chamber cooling](https://visual-screen-recording.techidaily.com/updated-in-2024-lenovo-laptop-a-complete-guide-to-recording-screens/), which uses evaporation and condensation of a liquid to cool down electrical components. The Samsung Galaxy S23 series utilized vapor chamber cooling systems, for example. If you want to go further back in time, the Galaxy Note 9 had a [water carbon cooling system](https://techtrends.techidaily.com/future-message-planning-the-ultimate-trick-to-scheduling-sms-from-an-iphone/).
@@ -130,8 +116,6 @@ Qualcomm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +123,19 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>[New] Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-troubleshoot-mute-audio-in-tweeted-vids/"><u>[New] Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-agriculture-affinity-games-top-10-farmers-craft-for-comradeship/"><u>[Updated] Agriculture Affinity Games Top 10 Farmer's Craft for Comradeship</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-extensive-review-the-gecata-gamersoft-toolkit/"><u>2024 Approved Extensive Review The Gecata Gamersoft Toolkit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ais-pioneering-role-in-generating-podcast-names/"><u>AI's Pioneering Role in Generating Podcast Names</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-vs-android-comparing-mid-level-smartphones-to-outdated-iphones-discover-why-the-iphone-triumphs/"><u>IOS Vs. Android: Comparing Mid-Level Smartphones to Outdated iPhones - Discover Why the iPhone Triumphs.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-adopts-usb-c-bids-farewell-to-proprietary-chargers/"><u>IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-contact-blocking-a-step-by-step-guide/"><u>IPhone Contact Blocking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-silent-on-calls-discover-these-12-troubleshooting-steps-for-immediate-fixes/"><u>IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-maintain-high-video-standards-post-export/"><u>Techniques to Maintain High Video Standards Post-Export</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-complete-laptop-recording-manual-dell-edition/"><u>The Complete Laptop Recording Manual Dell Edition</u></a></li>
+</ul></div>
 

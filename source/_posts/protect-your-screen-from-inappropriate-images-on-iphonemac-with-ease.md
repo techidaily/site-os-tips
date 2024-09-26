@@ -1,7 +1,7 @@
 ---
 title: Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease
-date: 2024-09-17T16:10:19.395Z
-updated: 2024-09-21T16:40:45.502Z
+date: 2024-09-24T11:30:39.686Z
+updated: 2024-09-26T07:15:20.161Z
 tags:
   - ios
 categories:
@@ -46,27 +46,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Privacy & Security option in iOS Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Sensitive Content Warning."
 
 ![Sensitive Content Warning feature turned off on iPhone by default.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Toggle on the radio button for "Sensitive Content Warning."
 
 ![Sensitive Content Warning feaured enabled on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-3-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sensitive Content Warning should now be enabled for all the supported apps and services. If you don't want the feature to block NSFW media inside any of these apps or services, toggle off the switch next to them.
 
@@ -74,18 +67,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Also, keep in mind that if you disable Sensitive Content Warning for an app or service on your iPhone, it will also turn it off for a paired Apple Watch.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  On a Mac
 
  Launch System Settings on your Mac. Then select "Privacy & Security," scroll down, and select "Sensitive Content Warning."
 
 ![Sensitive Content Warning setting in macOS System Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-mac-1-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Toggle on the switch next to "Sensitive Content Warning," and it will enable the feature for all supported apps and services on the Mac.
 
@@ -93,28 +86,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Like on an iPhone or iPad, you can disable the feature for select apps and services if required. Though it's not available on as many Mac apps yet.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Sensitive Content Warning Looks Like (And How to Interact With It)
 
  With Sensitive Content Warning enabled, whenever you receive an obscene or sensitive photo or video inside a supported app or service, it will automatically get blurred. You'll see a warning message saying "This may be sensitive" on top of it.
 
 ![Sensitive Content Warning message inside iMessage on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sensitive-content-warning-message-on-iphone-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you can interact with this media in two ways. First, you can tap on "Show" to override the warning and view the photo or video. Or you can tap the alert icon (with an exclamation mark) to either block the sender or access Apple's safety resources to get more help.
 
 ![available actions on blurred media on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sensitive-content-warning-message-on-iphone-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Make Your Apple Devices People-Friendly
 
@@ -135,5 +136,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[New] Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-a-memorable-channel-presence-with-imagery/"><u>[Updated] Crafting a Memorable Channel Presence with Imagery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-content-youtube-thumbnail-artistry-on-mac-for-2024/"><u>[Updated] Elevate Your Content YouTube Thumbnail Artistry on Mac for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-superior-streaming-made-simple-enabling-av1-in-youtube/"><u>[Updated] Superior Streaming Made Simple Enabling AV1 in YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-skyrocket-space-utilization-top-20-cost-free-storage-providers-up-to-1tb/"><u>2024 Approved Skyrocket Space Utilization - Top 20 Cost-Free Storage Providers (Up To 1TB)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/8-reliable-tricks-to-resolve-your-iphone-alarm-issues-expert-tips-and-techniques/"><u>8 Reliable Tricks to Resolve Your iPhone Alarm Issues - Expert Tips and Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effectiveness-of-tenorshare-reiboot-insights-from-the-latest-2024-analysis/"><u>Effectiveness of Tenorshare ReiBoot: Insights From the Latest 2024 Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-location-services-on-your-iphone-simple-instructions-for-iphone-768xxrxs-users/"><u>How to Stop Location Services on Your iPhone: Simple Instructions for iPhone 7/6/8/X/XR/XS Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/latest-ios-upgrade-a-step-by-step-guide-on-keeping-your-ipad-current/"><u>Latest iOS Upgrade: A Step-by-Step Guide on Keeping Your iPad Current</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-instagram-cant-refresh-feed-issue-on-smartphones-a-comprehensive-guide/"><u>Solving the 'Instagram Can't Refresh Feed' Issue on Smartphones: A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streaming-mastery-record-hulu-playback-on-multiple-systems-for-2024/"><u>Streaming Mastery Record Hulu Playback on Multiple Systems for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-unlocking-a-zte-device/"><u>Top Strategies for Successfully Unlocking a ZTE Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-film-dialogues-unveiled/"><u>Top-Tier Film Dialogues Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-10-iphone-customization-apps-for-a-gorgeous-display/"><u>Ultimate Selection of 10 iPhone Customization Apps for a Gorgeous Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo A78? | Dr.fone</u></a></li>
+</ul></div>
 

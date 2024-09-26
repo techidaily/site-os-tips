@@ -1,7 +1,7 @@
 ---
 title: Why Simple and Understated Phone Designs Are Actually the Most Effective
-date: 2024-09-16T17:06:43.697Z
-updated: 2024-09-21T17:10:54.904Z
+date: 2024-09-23T04:10:24.912Z
+updated: 2024-09-26T08:08:08.374Z
 tags:
   - ios
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  We've Figured Out How to Make Good Phones
 
  When a technology is new, experimentation is the name of the game. We don't already know which design is the most durable, [how to make gadgets waterproof](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), or [how to allow for passive cooling](https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/). We're not even sure which of these things is important.
@@ -40,16 +47,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Even when it comes to foldable phones, developers know how to make great ones. Most of the experimentation has to do with durability and miniaturization, making components small enough that you can still fit flagship cameras on a device where each half needs to be thinner than that of an average phone. It would also be nice to get rid of the crease. But the fundamentals? Those are nailed down already.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Consistency Is Good for Brand Recognition
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -75,13 +82,6 @@ Tyler Hayes / How-To Geek
 
  This has worked in the iPhone's favor for a long time now. Each iPhone is a known quantity. The removal of the home button, the expansion of the screen size to fill the entire front of the device, and the addition of a camera bump are perhaps the most notable changes to the design of the phone since the release of the first model. This gradual evolution has meant that from year to year, each iPhone looks recognizable to people who own previous models. The software has expanded, but it has come with a degree of consistency that Android has not had over the same period of time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  ​We're More Productive When Things Stay the Same
 
 ![Person using the Camera app to take photo with the Google Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53249989394_936f059fc3_o.jpg) 
@@ -96,6 +96,12 @@ Justin Duino / How-To Geek
 
  The Galaxy S23 Ultra may have looked near identical to its predecessor, but according to [Android Police](https://www.androidpolice.com/samsung-flagship-phones-apple-iphone-sales/), the former outsold the latter by over 6 million units. Samsung was not punished for keeping so much the same. If anything, it was rewarded.
 
+##  Redesigning Hardware Is Less Sustainable
+
+ One aspect of our modern economy is that things that were perfectly fine get changed for no reason other than to convince consumers to buy something they already have all over again. This is inherently wasteful. Compared to most industries, the tech industry's replacement cycle is even faster. We might own a hammer for ten or twenty years without giving it much thought. A laptop? Maybe five. A phone? Every other year or so. Manufacturers and carriers alike want us to [upgrade our phones often](https://facebook-video-footage.techidaily.com/updated-in-2024-diving-into-the-world-of-haul-video-content/).
+
+ Whenever a phone changes, that means old cases no longer fit. We often have to throw out old charging cables and replace our earbuds. The impact throughout the supply chain is greater. All kinds of modules have to be resized and retooled. The more things that can be kept the same each year, the more we and manufacturers can reuse the stuff we already have.
+
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
   <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
@@ -103,15 +109,16 @@ Justin Duino / How-To Geek
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-##  Redesigning Hardware Is Less Sustainable
-
- One aspect of our modern economy is that things that were perfectly fine get changed for no reason other than to convince consumers to buy something they already have all over again. This is inherently wasteful. Compared to most industries, the tech industry's replacement cycle is even faster. We might own a hammer for ten or twenty years without giving it much thought. A laptop? Maybe five. A phone? Every other year or so. Manufacturers and carriers alike want us to [upgrade our phones often](https://facebook-video-footage.techidaily.com/updated-in-2024-diving-into-the-world-of-haul-video-content/).
-
- Whenever a phone changes, that means old cases no longer fit. We often have to throw out old charging cables and replace our earbuds. The impact throughout the supply chain is greater. All kinds of modules have to be resized and retooled. The more things that can be kept the same each year, the more we and manufacturers can reuse the stuff we already have.
-
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
 ![OnePlus Open outside display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -136,5 +143,20 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-easy-guide-record-mov-files-on-win-11-pc-for-2024/"><u>[New] Easy Guide Record MOV Files on Win 11 PC for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-examining-the-reasons-behind-instant-facebook-content-revocation/"><u>[New] In 2024, Examining the Reasons Behind Instant Facebook Content Revocation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-picks-free-fb-to-mp4-file-transformers-for-2024/"><u>[Updated] Top Picks Free FB to MP4 File Transformers for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-seamless-wmv-file-viewing-on-your-ipad-a-simple-guide/"><u>1. Seamless WMV File Viewing on Your iPad: A Simple Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-x-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo X Flip to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-restore-lost-or-deleted-applications-and-their-data-on-your-iphoneipad/"><u>Complete Guide: How to Restore Lost or Deleted Applications & Their Data on Your iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-restore-from-backup-discover-these-3-key-techniques-for-your-iphone/"><u>Effortlessly Restore From Backup: Discover These 3 Key Techniques for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-retrieving-deleted-drafts-on-tiktok-with-a-recovery-tool/"><u>Guide: Retrieving Deleted Drafts on TikTok with a Recovery Tool</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-quicktime-video-editing-101-tips-and-tricks-for-2024/"><u>New Mac QuickTime Video Editing 101 Tips and Tricks for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-missed-chats-top-3-techniques-to-retrieve-erased-texts-in-facebook-messenger-on-ios-devices/"><u>Revive Your Missed Chats: Top 3 Techniques to Retrieve Erased Texts in Facebook Messenger on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-lost-messages-a-guide-on-retrieving-texts-post-ios-update/"><u>Reviving Your Lost Messages: A Guide on Retrieving Texts Post-iOS Update</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-visions-instructions-for-posting-songs-on-youtube-for-2024/"><u>Vocal Visions Instructions for Posting Songs on YouTube for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/what-to-do-when-your-texts-vanish-expert-tips-and-tricks/"><u>What to Do When Your Texts Vanish: Expert Tips & Tricks</u></a></li>
+</ul></div>
 

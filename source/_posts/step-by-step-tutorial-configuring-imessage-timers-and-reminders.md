@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Configuring iMessage Timers & Reminders"
-date: 2024-09-13T16:13:09.945Z
-updated: 2024-09-16T16:30:18.519Z
+date: 2024-09-25T02:03:03.688Z
+updated: 2024-09-25T17:17:04.629Z
 tags:
   - ios
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Sometimes it's best to create a text message while you're thinking of it. But what if you don't want to actually send it until later? Here, we'll show you how to send a scheduled text message on iPhone at whatever time you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Can You Schedule a Text on iPhone?
 
  Yes, but it requires a workaround. As of November 2023, there is no built-in feature to schedule a text message. That doesn't mean it isn't possible, however — it just requires a bit of tinkering first.
@@ -30,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  One simple solution is to [set a reminder](https://win-answers.techidaily.com/troubleshoot-rogue-platform-resolve-constant-pc-collapses-and-play-smoothly/) using the Reminders app on iPhone. Then, when you receive the reminder, simply type and send your message at that time. However, that requires you to have access to your phone at the time you planned, which may not be the case.
 
  To schedule a prewritten text message that sends automatically, you'll need to [set up an automation](https://tech-savvy.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/) using the Shortcuts app. It may not be the ideal solution because it does take a few minutes to set up. Plus, you must remember to remove the automation if you don't want the message to repeat. But it's the delayed message solution closest to what you probably want, though, and below are the steps for this method.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Schedule a Text Message on iPhone
 
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Automation for a Time of Day and time](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/TimeOfDay-iPhoneScheduleText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can pick Sunrise or Sunset and choose an offset. For example, if you're recipient is an early bird, you can select a time around sunrise.
 
  Under Repeat at the bottom, choose Daily, Weekly, or Monthly. This is convenient if it's a message you want to send regularly, such as a reminder for a family member. You also need to pick "Run After Confirmation" or "Run Immediately."
@@ -66,31 +73,37 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Tap or search for the "Send Message" function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-send-message.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, on the subsequent screen, you'll use the top box to set up your text.
 
 ![The template for a "Send Message" Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-send-settings.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tap "Message" in blue and type your text. Then, tap "Recipients" in blue, select or [enter a contact](https://video-ai-editor.techidaily.com/updated-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-now/), and choose "Done."
 
 ![Text for the message and contact](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MessageRecipient-iPhoneScheduleText.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll then see the text message and recipient in the box. If you're happy with it, tap "Done" to finish.
 
 ![An example Shortcut sending "Happy Birthday" to Sandy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-happpy-bday-sandy.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll then return to the Automation screen in the Shortcuts app. You can schedule another text message the same way or simply close the app.
 
@@ -104,16 +117,16 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Swipe left on a Shortcut to delete it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To disable the automation, select it, tap "Automation," then select "Don't Run."
 
 ![Set the automation to "Don't Run."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-don-t-run.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apple offers a feature to [schedule an email in the Mail app](https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-f14-5g-try-these-fixes-by-drfone-android/), so hopefully down the road, we'll see a feature to schedule a text in Messages as well. In the meantime, at least you can schedule a text message on iPhone using Shortcuts.
 
@@ -130,5 +143,20 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-creative-collage-companions-the-top-8-smartphone-apps/"><u>[New] Creative Collage Companions The Top 8 Smartphone Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-slick-quick-fades-in-premiere/"><u>[New] Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-foremost-dialogue-maker-hub/"><u>[Updated] 2024 Approved Foremost Dialogue Maker Hub</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-mobile-thumbnail-creation-for-youtube/"><u>[Updated] Mastering Mobile Thumbnail Creation for YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-download-windows-movie-maker-6/"><u>How to Download Windows Movie Maker 6</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-xs-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone XS to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-video-creation-with-aiseesofts-capture-capabilities/"><u>In 2024, Unlocking Video Creation with Aiseesoft's Capture Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-user-directory-naming/"><u>Personalizing Your User Directory Naming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-satechi-charging-solutions-now-compatible-with-qi2-and-magsafe-standards/"><u>Revolutionary Satechi Charging Solutions: Now Compatible with Qi2 & MagSafe Standards</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-home-entertainment-the-formidable-impact-of-gamesirs-g8-galileo/"><u>Revolutionizing Home Entertainment: The Formidable Impact of GameSir's G8 Galileo</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safeguard-your-digital-memories-how-to-prevent-whatsapp-from-deleting-years-of-chats-and-media/"><u>Safeguard Your Digital Memories: How to Prevent WhatsApp From Deleting Years of Chats and Media</u></a></li>
+<li><a href="https://os-tips.techidaily.com/speed-assessment-of-iphone-15s-new-usb-c-charging-connector/"><u>Speed Assessment of iPhone 15'S New USB-C Charging Connector</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-capabilities-critical-look-at-western-digital-data-lifeguard-software/"><u>Unveiling the Capabilities: Critical Look at Western Digital Data LifeGuard Software</u></a></li>
+</ul></div>
 

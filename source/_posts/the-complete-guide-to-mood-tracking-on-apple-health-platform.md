@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Mood Tracking on Apple Health Platform
-date: 2024-09-10T16:22:49.168Z
-updated: 2024-09-16T16:04:28.266Z
+date: 2024-09-24T11:19:39.383Z
+updated: 2024-09-26T11:13:36.400Z
 tags:
   - ios
 categories:
@@ -29,18 +29,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Emotion and mood logging is available on an iPhone and iPad running iOS 17 or later and on an Apple Watch running watchOS 10 or later. Let's walk through the steps for enabling this feature on an iPhone (the same steps are also applicable to enabling the feature on an iPad).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  On Your iPhone
 
  To log an emotion or mood on your iPhone, open the Health app.
 
 ![An iPhone homepage highlighting the health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_cd28aa7ab788-1.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From the menu at the bottom, select "Browse" and tap on "Mental Wellbeing."
 
@@ -66,11 +66,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone showing a slider for mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_8ba0cfe8a561-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the next screen, you will be presented with some words to choose from that best describe your present emotional state. Selecting from the words is an optional step that Apple states is used to build a better overall picture of the mood logged in the previous step. Tap any optional words that describe your mood, then tap "Next." You will also have the option of choosing words from the selected words that have the biggest impact on you.
 
 ![An iPhone showing words to be selected by user for logging mood.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_230212c636de-1.jpeg) 
 
  When you've done this, your iPhone will log your emotion and associated words in the Health app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  On Your Apple Watch
 
@@ -88,16 +102,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An Apple Watch showing emotion logging options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-d1e4afaf-5e9a-4d41-8606-aab1518014d8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turn the Digital Crown to select a feeling. Rolling upwards will move toward pleasant feelings and rolling downwards will move towards unpleasant emotions. Then tap on the checkmark in the upper right corner.
 
 ![An Apple Watch screen showing mood selection for logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-4e5b1948-5c22-43af-b6d7-45e11f52761e.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you will be shown a list of words to better describe your selected emotion. Select any optional words, then tap the checkmark in the upper right corner of the screen.
 
@@ -135,19 +149,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone screen showing the different states from State of Mind feature in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6065.jpeg) 
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or, click on associations to view factors associated with your logs.
 
 ![An iPhone showing Associations in the Mental Wellbeing feature of Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6066.jpeg) 
@@ -155,6 +156,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Life Factors will show you factors such as Exercise Minutes, Mindful Minutes, Sleep, or Time in Daylight that might impact your mental well-being.
 
 ![An iPhone highlighting the life factors of the Mental Wellbeing feature in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6067.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Delete a Mood or Emotion Log
 
@@ -167,20 +182,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An iPhone highlighting how to delete health logs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6071.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Secure Is Your Mental Health Data?
 
@@ -201,5 +222,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-echoes-unleashed-mac-studio-techniques/"><u>[Updated] 2024 Approved Echoes Unleashed Mac Studio Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-combat-chronicles-leading-10-battle-royale-games/"><u>[Updated] In 2024, Combat Chronicles Leading 10 Battle Royale Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] In 2024, How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-anticipating-key-features-of-the-upcoming-ipad-mini-7-a-closer-look/"><u>1. Anticipating Key Features of the Upcoming iPad Mini 7: A Closer Look</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-resolving-your-iphones-unavailable-screen-a-step-by-step-guide/"><u>1. Resolving Your iPhone's 'Unavailable Screen': A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-transform-your-iphone-into-an-interactive-screen-with-standby/"><u>1. Transform Your iPhone Into an Interactive Screen with Standby</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-festive-gps-your-ultimate-guide-to-navigating-with-santas-sleigh-on-waze-during-the-holidays/"><u>A Festive GPS: Your Ultimate Guide to Navigating with Santa's Sleigh on Waze During the Holidays</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/converti-file-wav-a-formato-mov-online-gratuitamente-con-movavi/"><u>Converti File WAV a Formato MOV OnLine Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-a60s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel A60s Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-streamline-creative-processes-with-youtube-studio-editing-insights/"><u>In 2024, Streamline Creative Processes with YouTube Studio Editing Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pioneering-play-integrating-vr-in-recreation-for-2024/"><u>Pioneering Play Integrating VR in Recreation for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-why-imessage-requests-you-to-reconnect-with-friends-and-easy-repair-steps/"><u>Understanding Why iMessage Requests You To Reconnect with Friends & Easy Repair Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-a-world-of-vintage-gaming-on-your-mobile-with-retroarchs-latest-ios-and-tvos-release/"><u>Unleash a World of Vintage Gaming on Your Mobile with RetroArch's Latest iOS and tvOS Release</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphone-efficiency-a-comprehensive-guide-to-using-shortcuts/"><u>Unlocking iPhone Efficiency: A Comprehensive Guide to Using Shortcuts</u></a></li>
+</ul></div>
 

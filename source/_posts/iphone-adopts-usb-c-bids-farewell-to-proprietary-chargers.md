@@ -1,7 +1,7 @@
 ---
 title: IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers
-date: 2024-09-10T16:17:52.820Z
-updated: 2024-09-16T16:05:11.070Z
+date: 2024-09-21T17:04:21.480Z
+updated: 2024-09-25T18:28:50.710Z
 tags:
   - ios
 categories:
@@ -59,11 +59,25 @@ Apple
 
 ![AirPods Pro charging via iPhone 15 over USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_airpods.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apple
 
  Apple could have put the change off for a year, since “Autumn 2024” is right around the time when the iPhone 16 is due for release, but the company clearly thought that there was little point in waiting to make an inevitable change.
 
  The company previously made [comments](https://www.zdnet.com/article/eu-wants-usb-c-to-become-standard-charging-port-for-all-smartphones-to-cut-down-e-waste/) that suggested the mandate would “stifle” innovation and “harm consumers in Europe and around the world” though it’s not clear _how_ the company came to that conclusion. It’s fair to say that companies like Apple generally prefer to set trends rather than be forced to follow them.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Can You Use Any Old USB-C Cable?
 
@@ -80,10 +94,10 @@ Apple
 ![Lightning Cable Roundup Hero Shot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52421379823_7e23e26f10_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -92,18 +106,24 @@ Hannah Stryker / How-To Geek
 
  You can even pick up [Lightning to USB-C adapters](https://www.amazon.com/Lightning-Adapter-Compatible-Charging-Connector/dp/B08X4SXDQX/?tag=htg-v2-6gl43v1-20&ascsubtag=UUhtgUeUpU2000319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fiphone-adopts-usb-c%2F&asc%5Fcampaign=Short-Term) that turn your Lightning cables into USB-C cables, a far cheaper investment than buying a whole new set of cables.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Probably Not Worth Upgrading For
 
  The iPhone 15 and iPhone 15 Pro have some big improvements including better cameras, longer zooms, faster chips, new materials and colors, and much more. Though USB-C is a big deal, we’re not convinced it’s worth upgrading for alone outside of a few special use-case scenarios like recording video or shooting photos to external devices.
 
 ![iPhone 15 Pro being used in a photo shoot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_shooting.png) 
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -122,5 +142,21 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premier-mobile-and-desktop-mkv-software/"><u>[Updated] In 2024, Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-web-analytics-solutions/"><u>Cookiebot-Driven Web Analytics Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-realme-c67-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Realme C67 5G.</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-eliminate-delay-in-your-computer-keyboard-input-instantly/"><u>Expert Advice: Eliminate Delay in Your Computer Keyboard Input Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-why-the-iphone-reigns-supreme-in-mobile-video-experience/"><u>Exploring Why the iPhone Reigns Supreme in Mobile Video Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-frame-rate-lags-in-guilty-gear-strive-a-comprehensive-guide/"><u>Fixing Frame Rate Lags in Guilty Gear Strive: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-affordable-fixes-for-the-latest-iphone-model-say-hello-to-the-15-pro-deals/"><u>Get Affordable Fixes for the Latest iPhone Model: Say Hello to the 15 Pro Deals!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-quick-threat-neutralization-work-for-apple-devices-like-iphone-ipad-and-mac/"><u>How Does Quick Threat Neutralization Work for Apple Devices Like iPhone, iPad, and Mac?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-ensure-accurate-sleep-monitoring-on-your-apple-watch-solutions-that-work/"><u>How To Ensure Accurate Sleep Monitoring on Your Apple Watch – Solutions That Work!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-an-unresponsive-iphone-or-ipad-troubleshooting-steps/"><u>How to Fix an Unresponsive iPhone or iPad: Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-on-track-solutions-inside/"><u>How To Get Your Windows 11 Audio Back On Track - Solutions Inside!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-use-apples-airplay-feature-effectively-an-in-depth-explanation/"><u>How to Use Apple's AirPlay Feature Effectively: An In-Depth Explanation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/precision-screensaver-for-chromebooks/"><u>Precision Screensaver for Chromebooks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/premier-updates-facebooks-latest-gems-unearthed-for-2024/"><u>Premier Updates Facebook's Latest Gems Unearthed for 2024</u></a></li>
+</ul></div>
 

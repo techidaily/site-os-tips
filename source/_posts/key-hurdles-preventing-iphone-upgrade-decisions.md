@@ -1,7 +1,7 @@
 ---
 title: Key Hurdles Preventing iPhone Upgrade Decisions
-date: 2024-09-15T16:48:26.343Z
-updated: 2024-09-21T16:57:11.324Z
+date: 2024-09-23T10:14:04.908Z
+updated: 2024-09-25T16:24:59.721Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Rumors for the iPhone 16 are picking up, but the one aspect of a new phone that would make me excited about upgrading is something Apple gave up on years ago. I just want a smaller size.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The iPhone Mini Is Big Enough for Me
 
  Broadly speaking, most people prefer larger phones. They want a bigger screen, a bigger battery, and more space inside the device for better cameras and other components. This preference is clear from the sales trends. But not everybody feels the same way.
@@ -27,6 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone 12 Mini in the palm of a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-12-mini-in-the-palm-of-a-hand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dan Helyer / How-To Geek
 
  And I'm very happy to make the sacrifices that come with a smaller device. I generally try not to use my iPhone too much, so a smaller screen for videos, social media, and other distractions like that isn't necessarily a bad thing—it pushes me not to mindlessly scroll on my phone but to more deliberately find something to read, play, or watch elsewhere.
@@ -34,6 +48,13 @@ Dan Helyer / How-To Geek
  At the same time, the battery life has always been less of a concern for me because I'm trying not to use my phone too much, so I'm happy to put it on charge at home if the battery is a little low. For a long day out, I can just grab [a MagSafe battery pack](https://screen-sharing-recording.techidaily.com/updated-pinnacle-7-action-shooter-games/) and top up the charge on the go.
 
  And although it would be lovely to have the triple-lens setup of a larger, Pro iPhone, I can make do with the wide and ultrawide lenses I have. The photos are certainly high enough quality for me to capture and look back on my life.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  There's No Sign of an iPhone 16 Mini in Sight
 
@@ -44,16 +65,10 @@ Dan Helyer / How-To Geek
  There simply wasn't enough consumer interest to make a smaller iPhone worthwhile for Apple, especially considering the lower price tag attached to it. So I understand why the smaller iPhone line has ended, but that does leave me much less excited about an iPhone 16.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I'll Just Stick With What I Have
@@ -81,5 +96,18 @@ Dan Helyer / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-avoiding-common-nocturnal-photography-errors-for-2024/"><u>[Updated] Avoiding Common Nocturnal Photography Errors for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-podcastpioneers-charting-new-territories/"><u>2024 Approved PodcastPioneers Charting New Territories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-complete-windows-10-know-how-reference/"><u>2024 Approved The Complete WINDOWS 10 Know-How Reference</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eliminating-persistent-thread-stickers-on-insta-concealment-tips-and-tricks/"><u>Eliminating Persistent Thread Stickers on Insta: Concealment Tips & Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-hotspot-connection-failures-on-ios-devices-iphone-181716-top-causes-and-remedies/"><u>Fixing Hotspot Connection Failures on iOS Devices (iPhone 18/17/16): Top Causes and Remedies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-download-professionelle-dvd-dekodierung-software-fur-alle-arten-von-dvds/"><u>Gratis Download: Professionelle DVD-Dekodierung Software Für Alle Arten Von DVDs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-creating-stunning-time-lapse-videos-with-your-iphone/"><u>Guide: Creating Stunning Time-Lapse Videos with Your iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-videopad-video-editor-review-should-you-buy-it/"><u>New 2024 Approved The Ultimate Videopad Video Editor Review Should You Buy It?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-voice-memos-and-mic-functionality/"><u>Troubleshooting Tips: Resolving Issues with Voice Memos and Mic Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-connection-failures-why-cant-my-airplay-stream-to-apple-tv/"><u>Understanding Connection Failures: Why Can't My AirPlay Stream to Apple TV?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-mysteries-of-io-video-capture/"><u>Unveiling the Mysteries of IO Video Capture</u></a></li>
+</ul></div>
 
