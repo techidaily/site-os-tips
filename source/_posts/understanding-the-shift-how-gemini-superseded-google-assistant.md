@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Shift: How Gemini Superseded Google Assistant"
-date: 2024-09-20T21:30:39.876Z
-updated: 2024-09-26T04:43:36.121Z
+date: 2024-09-23T17:05:08.618Z
+updated: 2024-10-01T10:15:46.272Z
 tags:
   - ios
 categories:
@@ -27,16 +27,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
  Google was late to the AI game. The company released Bard in early 2023, behind ChatGPT and what would eventually become Microsoft Copilot. Bard was lackluster at first, but it has since had a major glow up to become "Gemini"—and Google Assistant is in its sights.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Google Gemini? Is It Different From Bard?
@@ -65,16 +59,16 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![sending text message using Google Gemini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102215_google.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Make Calls**: Gemini can also make phone calls by voice or tapping. You can say, "Call Mom" or "Dial 911," and Gemini will connect you to the right number.
 
 ![Using Google Gemini to initiate call on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102308_google.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Search the Web**: Gemini can help you find information on the web, such as weather, news, sports, or trivia. You can ask Gemini anything you want, such as "What's the weather like today?" or "Who is topping the Premier League?" and Gemini will show you the relevant results from Google.
 
@@ -88,20 +82,27 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Using Google Gemini to summarize an article on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103121_google.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **Play Games**: Gemini can also entertain you with fun games, such as trivia, hangman, or tic-tac-toe. You can say, "Let's play a game" or "I'm bored," and Gemini will suggest some games for you. You can also challenge Gemini to a game of rock-paper-scissors or coin-flip.
 
 ![Playing tic-tac-toe with Google Gemini on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103154_google.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Make Jokes**: Gemini can also make you laugh with some funny jokes, puns, or memes. You can say, "Tell me a joke" or "Show me a random meme," and Gemini will surprise you with some hilarious content.
 
 ![Google Gemini showing a random meme on prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103310_google.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Gemini is always learning and improving, so you can expect new features and updates in the future.
 
@@ -116,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ![Google Assistant helping Gemini.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-094859.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The good news is Google Assistant can "help" Gemini with some of these tasks still. If you're using Gemini as the default digital assistant on Android, it will essentially fall back to Assistant for timers and alarms, controlling smart home devices, on-device actions like turning on Bluetooth, broadcasting to smart speakers, and reading pages out loud.
@@ -129,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ##  How to Use Google Gemini AI
 
 ![Gemini AI tap selected in the Google app on an Apple iPhone 15 Pro Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53528020292_1ca68ef944_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -160,20 +154,17 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-perfect-windows-photos-implementing-sound-and-visual-filters-guide/"><u>[Updated] Perfect Windows Photos Implementing Sound & Visual Filters Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/combining-youtube-harmonies-in-moving-images/"><u>Combining YouTube Harmonies in Moving Images</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-resetting-your-iphoneipad-to-factory-defaults-with-icloud-backup/"><u>Complete Guide: Resetting Your iPhone/iPad to Factory Defaults with iCloud Backup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-da-dts-a-mp4-con-movavi-soluzione-veloce-ed-efficace/"><u>Conversione Gratuita Da DTS a MP4 Con Movavi - Soluzione Veloce Ed Efficace</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-on-extracting-photographs-from-an-itunes-system-restore/"><u>Expert Tips on Extracting Photographs From an iTunes System Restore</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-lost-iphone-sms-top-strategies-explored/"><u>How to Recover Lost iPhone SMS: Top Strategies Explored</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c02-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia C02?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-your-memories-effective-techniques-for-snapchat-photo-restoration-on-smartphones-androidios/"><u>Revive Your Memories: Effective Techniques for Snapchat Photo Restoration on Smartphones (Android/iOS)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securing-access-to-your-icloud-drive-images-and-documents-across-devices/"><u>Step-by-Step Guide: Securing Access to Your iCloud Drive Images & Documents Across Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-speedy-recovery-of-deleted-imessages-from-an-iphone/"><u>Step-by-Step Instructions for Speedy Recovery of Deleted iMessages From an iPhone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-best-way-to-start-your-day-in-italy-top-10-morning-greetings/"><u>The Best Way to Start Your Day in Italy: Top 10 Morning Greetings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-retrieve-accidentally-deleted-phone-numbers-on-ios-and-android-systems/"><u>Ultimate Guide: How to Retrieve Accidentally Deleted Phone Numbers on iOS and Android Systems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-10-best-cartoon-animation-apps-for-mobile/"><u>Updated Unleash Your Creativity 10 Best Cartoon Animation Apps for Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transformative-youtube-title-genesis-tools/"><u>[New] Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-your-frustration-a-step-by-step-fix-for-the-2024-dead-by-daylight-crashing-issues/"><u>Banish Your Frustration: A Step-by-Step Fix For The 2024 Dead By Daylight Crashing Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-the-latest-microsofts-ai-the-copilot-app-is-available-on-iphones/"><u>Explore the Latest Microsoft's AI: The Copilot App Is Available on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-elite-premium-protection-options-for-ipad-10gen-models/"><u>Exploring the Elite: Premium Protection Options for iPad 10Gen Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-pinnacle-period-in-smartphone-evolution-the-golden-age-unveiled/"><u>Exploring the Pinnacle Period in Smartphone Evolution – The Golden Age Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/from-iphones-to-pixel-phones-embracing-apple-and-cherishing-android-devices/"><u>From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-to-creating-and-adding-interactive-buttons-on-ios-devices/"><u>Guide to Creating and Adding Interactive Buttons on iOS Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966783589-seamless-driver-management-for-your-microsoft-surface-book-get-and-upgrade-with-ease/"><u>Seamless Driver Management for Your Microsoft Surface Book – Get & Upgrade with Ease!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-how-to-for-extracting-youtube-srt-files/"><u>The Essential How-To for Extracting YouTube SRT Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-how-to-streaming-content-from-your-mac-onto-your-tv/"><u>Ultimate How-To: Streaming Content From Your Mac Onto Your TV</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-msi-graphics-card-driver-on-windows-10-and-7-easily/"><u>Update MSI Graphics Card Driver on Windows 10 & 7. Easily!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/what-is-a-haul-video-and-how-to-edit-it/"><u>What Is a Haul Video and How to Edit It</u></a></li>
 </ul></div>
 

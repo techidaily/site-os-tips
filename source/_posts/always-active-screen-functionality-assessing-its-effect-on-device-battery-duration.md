@@ -1,7 +1,7 @@
 ---
 title: "Always Active Screen Functionality: Assessing Its Effect on Device Battery Duration"
-date: 2024-09-01T06:56:49.178Z
-updated: 2024-09-02T06:56:49.178Z
+date: 2024-09-23T18:44:13.847Z
+updated: 2024-09-30T16:07:42.398Z
 tags:
   - ios
 categories:
@@ -18,15 +18,19 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 * [How to Turn Off Always-On Display on Android](https://facebook-record-videos.techidaily.com/new-2024-approved-best-screen-recorder-for-youtube/)
 * [How to Turn Off Always-On Display on iPhone](https://win-able.techidaily.com/troubleshooting-tips-for-gta-5-online-connectivity-issues/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Your phone's always-on display does drain your battery, but the speed of battery depletion will depend on your device, operating system, and how you use it. That said, if you want to get more juice out of your battery, turning the feature off will help.
 
  Always-on display is a handy feature that lets you see the time and notifications without unlocking your phone. But is it draining your battery? Let's find out.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  What Is Always-On Display?
 
  The always-on display is a feature that makes useful information visible on your phone screen at all times, even when your phone is locked or asleep. For example, you can see the time, date, weather, and notifications without having to unlock your phone or press any buttons. This makes your life easier and saves you time and trouble.
@@ -47,9 +51,6 @@ Related: [Why Do Phone Batteries Still Only Last a Day?](https://article-posts.t
 
 ![DXOMARK always-on display test results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/phone-always-on-battery-test-results-dxomark.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 _DXOMARK_
 
  The one crucial thing to consider about the DXOMARK study is that it doesn't account for what you do with your phone when you are not using it. In the website's study, the phones were constantly displaying the elements of the always-on display feature. But in the real world, when you put your phone in your pocket or a bag, or it's sitting face-down on your desk, it can use the proximity sensor (depending on which phone you have) to recognize its environment and [turn off or dim the always-on elements](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU201553/https://www.att.com/device-support/article/wireless/KM1453603/Samsung/SamsungSMF926U). As a result, the battery consumption is considerably reduced.
@@ -58,9 +59,6 @@ _DXOMARK_
 
  So, all-in-all, the always-on display feature does eat up a lot of your battery, but the level of battery drain can vary depending on various factors, as explained above. Still, if you are struggling with your phone's battery life and need to bring out more uptime in a single charge, it's a good idea to disable the always-on display feature.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Turn Off Always-On Display on Android
 
  Although different Android phones may have slightly different menu options, here's how you can [switch off the always-on display on most Android devices](https://extra-hints.techidaily.com/smartest-spots-for-knowquizzes-a-new-year-ranking-2024/).
@@ -74,23 +72,20 @@ _DXOMARK_
 ![Turn on "Always Show Time and Info."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/6-pixel-enable-always-on-display.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Related: [How to Save Battery on Android](https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-xcover-6-pro-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/) 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn Off Always-On Display on iPhone
 
@@ -101,15 +96,22 @@ Related: [How to Save Battery on Android](https://android-location-track.techida
 ![Select "Display & Brightness" in your iPhone's settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/iphone-display-and-brightness.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you are on the "Display & Brightness" page, scroll down and locate the "Always On" option. You can toggle it to turn off the feature.
 
 ![Toggle off the "Always On" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/iphone-always-on-toggle.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Remember, as of June 2023, the always-on display feature is only available on the [Apple iPhone 14 Pro](https://youtube-blog.techidaily.com/-up-the-screen-techniques-for-stunning-youtube-visuals/) and the iPhone 14 Pro Max.
 
 Related: [Battery Health Tips: How to Make Your Phone Battery Last Longer](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/)
@@ -120,8 +122,6 @@ Related: [Battery Health Tips: How to Make Your Phone Battery Last Longer](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,23 @@ Related: [Battery Health Tips: How to Make Your Phone Battery Last Longer](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-recording-hulu-across-platforms/"><u>[Updated] 2024 Approved Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-revitalize-disappearing-watch-preview/"><u>[Updated] 2024 Approved Revitalize Disappearing Watch Preview</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-remove-yourself-from-discord-ecosystem-for-2024/"><u>[Updated] Remove Yourself From Discord Ecosystem for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-incorporating-film-into-lessons/"><u>2024 Approved Mastering the Art of Incorporating Film Into Lessons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-future-of-interactive-headsets-for-2024/"><u>Exploring the Future of Interactive Headsets for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-storage-effortless-steps-to-clear-out-unneeded-email-on-iphoneipad/"><u>Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-your-icloud-effective-strategies-for-clearing-out-space/"><u>Maximizing Your iCloud: Effective Strategies for Clearing Out Space</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-contractor-takes-charge-of-supporting-apples-innovative-on-the-road-help-system-via-satellites/"><u>New Contractor Takes Charge of Supporting Apple's Innovative On-The-Road Help System via Satellites</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-generation-of-adobes-ai-exploring-the-power-packed-features-within-the-latest-express-app-beta/"><u>New Generation of Adobe's AI: Exploring the Power-Packed Features Within the Latest Express App BETA</u></a></li>
+<li><a href="https://os-tips.techidaily.com/nomad-and-peak-design-unite-to-engineer-a-durable-stylish-shield-for-the-next-gen-iphone-15-pro/"><u>Nomad & Peak Design Unite to Engineer a Durable, Stylish Shield for the Next-Gen iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/number-1-in-the-8th-digital-image-blend-platform-for-2024/"><u>Number 1 in the 8Th Digital Image Blend Platform for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establishing-usb-recognition-on-older-windows-versions/"><u>Re-Establishing USB Recognition on Older Windows Versions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revitalizing-sports-performance-how-the-apple-watch-supports-athletes-rest-periods/"><u>Revitalizing Sports Performance: How the Apple Watch Supports Athlete's Rest Periods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-iphone-usage-with-these-10-covert-ios-shortcuts/"><u>Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-correct-critical-glitches-in-the-black-ops-4-gameplay/"><u>Steps to Correct Critical Glitches in the Black Ops 4 Gameplay</u></a></li>
+</ul></div>
 

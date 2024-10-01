@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: How I Keep My iPhone Free of Memory Issues"
-date: 2024-09-21T20:35:31.256Z
-updated: 2024-09-26T01:46:43.231Z
+date: 2024-09-27T12:29:33.453Z
+updated: 2024-10-01T00:15:12.599Z
 tags:
   - ios
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Delete App pop-up on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-01-delete-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For a better idea of what’s taking up the most space, open the Settings app and select General > iPhone Storage, then scroll down to the app list, which displays file size next to each app’s name. To delete an app, select it from the list and tap “Delete” to delete it entirely. Or tap “Offload App” to [delete the app but save its data](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-zero-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) separately so your progress and settings will remain if you reinstall it.
 
 ![Offload App and Delete App options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-02-offload-or-delete-app.jpg) 
@@ -36,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Automatic Offload Unused Apps option menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-03-auto-offload-apps-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Deleted apps [can be re-downloaded](https://instagram-video-files.techidaily.com/new-expert-tips-to-download-and-save-instagram-media-from-your-computer-for-2024/) (provided they’re not [removed from the App Store](https://win-able.techidaily.com/fixing-madden-nfl-20-pc-game-crashes-a-comprehensive-guide/) entirely) by opening the App Store and tapping your user profile, then selecting “Apps” and searching through your download history.
 
 ![App download history on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-04-redownload.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Clear Out Your Deleted Photos 
 
@@ -55,14 +62,14 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Recently Deleted photos menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-05-recently-deleted.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap “Select” in the top-right corner, then tap the three dots (…) that appear in the bottom-right corner. Choose “Delete All” from the pop-up menu, then tap “Delete From This iPhone” to permanently delete everything in your Recently Deleted folder. You'll want to do this regularly to keep your iPhone storage free.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  Pay Attention to the Size of Downloads 
 
@@ -73,20 +80,13 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![App file size info on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-06-app-store-info.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Something to keep in mind is that some apps and games (particularly [live service games](https://facebook-video-share.techidaily.com/unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube-for-2024/)) often download even more data once you start them up for the first time. Since I'm always trying to keep my iPhone storage free, I'm very particular about which large apps I download in the first place.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4  Move Photos and Videos to the Cloud 
 
@@ -102,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Upload file option in Google Drive app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-08-google-drive.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap the plus (+) icon in the bottom-right corner and select “Upload File” from the pop-up menu. Choose “Photos and Videos” (you may need to give the app access to your Photo Library first), select one or more photos or videos, then tap “Done.”
 
  Choose the “Recents” album from the pop-up menu and select the files again, then tap “Upload” to transfer them to the selected Google Drive folder.
@@ -116,22 +123,15 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Record Video resolution and fps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-10-record-video-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Back in the Camera menu, select “Formats” and change the Camera Capture setting to “High Efficiency.” Turn off the toggle next to “Apple ProRAW” to reduce photo file sizes, too.
 
 ![Apple ProRAW toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-12-apple-proraw.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Use an Old Phone for Spillover 
@@ -161,17 +161,18 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-investigation-vlc-screen-capturer/"><u>[Updated] 2024 Approved Investigation VLC Screen Capturer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-haven-for-harmonious-hits-download-classics-now/"><u>[Updated] Haven for Harmonious Hits Download Classics Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>2024 Approved Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-for-enhancing-your-videos-darkness-in-post-production/"><u>Effective Techniques for Enhancing Your Video's Darkness in Post-Production</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hypervision-pro-all-in-one-4k-screen-desks-for-2024/"><u>HyperVision Pro All-in-One 4K Screen Desks for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-14-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 14 In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>In 2024, The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-strategies-for-transferring-motorola-information-pc-cloud-and-device-options/"><u>Simple Strategies for Transferring Motorola Information: PC, Cloud & Device Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-moving-pictures-onto-a-computer-using-android-and-ios-devices/"><u>Step-by-Step Guide: Moving Pictures Onto a Computer Using Android and iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-and-securing-your-information-from-a-cracked-android-device/"><u>Step-by-Step Guide: Retrieving and Securing Your Information From a Cracked Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-for-accessing-information-in-your-ios-and-android-backup-files/"><u>Step-by-Step Strategies for Accessing Information in Your iOS & Android Backup Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-audio-extraction-techniques-for-instagram-media/"><u>[New] 2024 Approved Audio Extraction Techniques for Instagram Media</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-leading-5-display-choices-for-ps5-gamers/"><u>[New] 2024 Approved Leading 5 Display Choices for PS5 Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-definitive-guide-to-professional-level-youtube-video-edits/"><u>[New] In 2024, The Definitive Guide to Professional-Level YouTube Video Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comparing-top-tech-does-active-live-up-to-hype/"><u>[Updated] Comparing Top Tech Does Active Live Up to Hype?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-3dr-navigating-the-single-user-realm-of-3d-tech/"><u>[Updated] In 2024, '3DR' Navigating the Single User Realm of 3D Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-precision-in-video-documentation-windowsosxiphone-methods-for-2024/"><u>[Updated] Precision in Video Documentation Windows/OSX/iPhone Methods for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-retro-game-experience-on-your-iphone-for-free-without-needing-to-jailbreak/"><u>Enjoy Retro Game Experience on Your iPhone for FREE Without Needing to Jailbreak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-upgrades-needed-for-apples-next-big-thing-the-new-iphone/"><u>Essential Upgrades Needed for Apple's Next Big Thing - The New iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-projecting-iphone-visuals-on-your-mac-monitor/"><u>Expert Tips for Projecting iPhone Visuals on Your Mac Monitor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-curious-absence-of-smartphones-in-film-antagonist-scenes-the-iphone-exclusion/"><u>Exploring the Curious Absence of Smartphones in Film Antagonist Scenes: The iPhone Exclusion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-apple-sports-mobile-app-now-available-top-entertainment-for-enthusiastic-spectators/"><u>Free Apple Sports Mobile App Now Available: Top Entertainment for Enthusiastic Spectators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-common-problems-with-apple-carplay-for-a-seamless-driving-experience/"><u>How to Fix Common Problems with Apple CarPlay for a Seamless Driving Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-potential-steps-for-successful-optional-components-integration/"><u>Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration</u></a></li>
 </ul></div>
 

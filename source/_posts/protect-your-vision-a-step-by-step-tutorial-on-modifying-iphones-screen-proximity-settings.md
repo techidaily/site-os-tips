@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Vision: A Step-by-Step Tutorial on Modifying iPhone's Screen Proximity Settings"
-date: 2024-09-01T06:58:19.002Z
-updated: 2024-09-02T06:58:19.002Z
+date: 2024-09-30T07:54:53.630Z
+updated: 2024-10-01T00:15:02.333Z
 tags:
   - ios
 categories:
@@ -26,8 +26,12 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
  As of [iOS 17 and iPadOS 17](https://facebook-video-files.techidaily.com/analysis-variety-in-fb-video-aspects-for-2024/), your iPhone and iPad can alert you when you’re holding your devices too close to your face. Here’s how the Screen Distance feature works and how to enable it.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Is Screen Distance (And Who Should Use It)?
 
  Screen Distance uses the TrueDepth camera (that powers FaceID on iPhones and iPads) to assess the distance between your eyes and the screen continually. When the system detects that this distance has been less than 12 inches for a prolonged duration, it sends a warning and blocks you from using the device. It is worth noting that your iPhone or iPad cannot be tricked into disabling the alert by simply looking away from the screen. It requires you to face the screen and move more than 12 inches away before you can resume using your device.
@@ -38,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
  Anyone using a compatible iPhone and iPad can enable Screen Distance to ensure they use screens from a safer distance. For kids under the age of 13 and part of a [Family Sharing](https://screen-mirroring-recording.techidaily.com/2024-approved-facetimes-role-in-modern-communication-best-practices-for-recording-calls/) plan, though, Screen Distance is turned on by default. Please note that kids in the Family Sharing plan can still choose to disable the feature on their phones, and the family organizer of the plan will not be able to override the selection. The only way of enabling it again is through the child's phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Enable Screen Distance on iPhone and iPad
 
  The steps for enabling Screen Distance on the iPhone and the iPad are identical. You go to the Settings app, navigate to Screen Time, and enable Screen Distance. Let's walk through the steps for enabling this feature on an iPhone.
@@ -47,15 +58,16 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 ![The image shows a screenshot on the iPhone highlighting the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_8475_settings.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Navigate to the Screen Time setting.
 
 ![The image is a screenshot of the settings menu on an iPhone, highlighting Screen Time.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_5741_screentime.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Inside Screen Time, open the Screen Distance setting.
 
 ![The image is a screenshot of the settings app on an iPhone highlighting the Screen Distance setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_5742_screendistance.jpeg) 
@@ -65,8 +77,18 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 ![The image is a screenshot of the iPhone highlighting what the Screen Distance feature is.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_6655.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the next page, the device will continue to explain the Screen Distance feature further and give details about its functionality. Click on Continue to complete the setup and enable Screen Distance on your iPhone.
 
 ![The image is a screenshot of the iPhone, explaining how Screen Distance works.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_6656.jpeg) 
@@ -79,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![The image is a screenshot of the iPhone that shows the Screen Distance alert.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_5743-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Notice how the Continue button is disabled. To remove the alert, you should move your iPhone or iPad to a distance greater than 12 inches from your face (or until the grayed-out "Continue" button turns blue) and click on Continue.
 
 ![The image is a screenshot of the iPhone that shows the Screen Distance alert.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_5744.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The error will now disappear, and you can resume using your device.
 
@@ -94,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![Screenshot from an iPhone showing how to disable the Screen Distance feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_4293d4b50486-1-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The setup is required only once on a device. Disabling and re-enabling the Screen Distance alerts can be done by pushing this toggle in the future and does not require going through the setup steps again.
 
 <ins class="adsbygoogle"
@@ -105,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +135,24 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unearthing-unique-content-for-youtubes-spotlight/"><u>2024 Approved Unearthing Unique Content for Youtube's Spotlight</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypass-the-hassle-effective-strategies-for-rapid-fix-of-itunes-error-code-14-discover-how-in-under-10-steps/"><u>Bypass the Hassle: Effective Strategies for Rapid Fix of iTunes Error Code 14 - Discover How in Under 10 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-steps-to-overcome-imessage-activation-errors-a-comprehensive-guide/"><u>Essential Steps to Overcome iMessage Activation Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-strategies-for-repairing-an-ios-devices-damaged-screen/"><u>Essential Strategies for Repairing an iOS Device's Damaged Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-issues-with-a-non-responsive-alienware-command-center-interface/"><u>Fixing Issues with a Non-Responsive Alienware Command Center Interface</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/get-started-with-hevc-encoder-and-decoder-add-on-for-vlc-no-cost-full-features/"><u>Get Started with HEVC Encoder & Decoder Add-On for VLC - No Cost, Full Features!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-en-linea-convertir-archivos-mp3-a-mp4-con-eficiencia-mediante-movavi-herramienta-conversora-mpg/"><u>Gratis en Línea, Convertir Archivos MP3 a MP4 Con Eficiencia Mediante Movavi - Herramienta Conversora MPG</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-a2-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi A2 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-your-iphones-quick-battery-drainage-expert-advice-for-longer-life/"><u>How To Stop Your iPhone's Quick Battery Drainage: Expert Advice for Longer Life</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategies-elevating-interview-audio-quality-with-iphoneipad/"><u>In 2024, Expert Strategies Elevating Interview Audio Quality with iPhone/iPad</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-whatsapp-audio-chats/"><u>Mastering WhatsApp Audio Chats</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257493-missing-iphone-images-swift-recovery-strategies-inside/"><u>Missing iPhone Images? Swift Recovery Strategies Inside!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-solutions-for-bypassing-apples-iphone-activation-lock/"><u>Permanent Solutions for Bypassing Apple's iPhone Activation Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcasting-made-simple-easy-steps-to-capture-live-streams-for-2024/"><u>Podcasting Made Simple Easy Steps to Capture Live Streams for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-keeping-your-iphone-jailbroken-after-a-system-restore/"><u>Step-by-Step Guide: Keeping Your iPhone Jailbroken After a System Restore</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubled-by-a-glitchy-smartphone-discover-5-simple-fixes/"><u>Troubled by a Glitchy Smartphone? Discover 5 Simple Fixes!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme C51 | Dr.fone</u></a></li>
+</ul></div>
 

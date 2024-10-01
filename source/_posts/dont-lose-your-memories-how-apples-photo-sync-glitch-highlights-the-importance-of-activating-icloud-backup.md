@@ -1,7 +1,7 @@
 ---
 title: "Don't Lose Your Memories: How Apple's Photo Sync Glitch Highlights the Importance of Activating iCloud Backup"
-date: 2024-09-01T06:57:59.290Z
-updated: 2024-09-02T06:57:59.290Z
+date: 2024-09-26T05:04:06.168Z
+updated: 2024-09-30T18:41:58.877Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
  Apple just fixed a bug that made deleted photos reappear on people's iPhones, years after they hit the trash icon. This is a terrifying thought for those of us with iCloud Photos—could someone access my deleted photos on Apple's servers? Well, it turns out iCloud has an opt-in feature to make that even less likely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Happened With Apple's Deleted iPhone Photos?
 
  After [updating to iOS 17.5](https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-12-pro-without-previous-owner-by-drfone-ios/), several iPhone and iPad users found that previously deleted photos had reappeared in their libraries. And we're not talking about 30-day-old photos jumping out of [the Recently Deleted folder](https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-8-hd-phone-by-drfone-android/). We're talking about photos that were deleted months or years ago and should be long gone.
@@ -28,8 +35,12 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 ![iOS 17.5.1 update notes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ios-17-5-1-update-notes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Are Your Deleted iCloud Photos Safe?
 
  Apple's photo bug serves as a sobering reminder that [deleted files aren't actually deleted](https://screen-recording.techidaily.com/updated-enhancing-facebook-viewership-with-obs-broadcasts/) until they're rewritten with new information, which might not happen for a long time, if ever. It's nightmare fuel when you think of all the unflattering, upsetting, or…private…pictures you've ever erased, which may still be in a recoverable state somewhere.
@@ -39,15 +50,23 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 ![Synced photos number in iCloud Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/synced-photos-number-in-icloud-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, I know what you're thinking: iCloud is encrypted. That's means nobody is going to have an easy time infiltrating Apple's servers and recovering deleted photos. But the problem is that the decryption key for my iCloud account is also stored on Apple's servers, so it's technically possible for someone to decrypt and get at my deleted pictures, even if it is highly unlikely.
 
  Luckily, iCloud has an opt-in feature you can use to fix this issue: Advanced Data Protection.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Better Secure iCloud With Advanced Data Protection
 
  Advanced Data Protection is an turns on end-to-end encryption for more of your iCloud data—including iCloud Photos—and stores the decryption key for it on your trusted devices, instead of Apple's servers. That means if Apple did suffer a catastrophic data breach and villainous cyber criminals were scouring the deleted files for my old photos, they wouldn't be able to decrypt them without also having my iPhone or Mac and my login details.
@@ -68,8 +87,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +94,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[New] From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860250412-updated-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>[Updated] High-Quality Video Calling Solutions Top 10 Best Apps Ranked!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-fix-when-your-ipad-wont-connect-with-laptopdesktop-computers/"><u>A Comprehensive Guide to Fix When Your iPad Won't Connect with Laptop/Desktop Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/breaking-down-face-id-barriers-in-iphone-x-a-fix-guide/"><u>Breaking Down Face ID Barriers in iPhone X - A Fix Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-itel-a60-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/internet-solutions-beyond-cable-and-landline-phones/"><u>Internet Solutions Beyond Cable and Landline Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-frozen-ipad-solutions-when-your-device-gets-stuck-on-the-apple-icon/"><u>Troubleshooting a Frozen iPad: Solutions When Your Device Gets Stuck on the Apple Icon</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unstuck-iphone-7-top-6-techniques-to-revive-a-frozen-device/"><u>Unstuck iPhone 7: Top 6 Techniques to Revive a Frozen Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-wont-your-imessages-show-as-delivered-expert-tips-to-resolve-this-common-problem/"><u>Why Won't Your iMessages Show as Delivered? Expert Tips to Resolve This Common Problem</u></a></li>
+</ul></div>
 

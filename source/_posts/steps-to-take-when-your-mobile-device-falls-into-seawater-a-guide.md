@@ -1,7 +1,7 @@
 ---
 title: "Steps to Take When Your Mobile Device Falls Into Seawater: A Guide"
-date: 2024-09-01T06:58:25.218Z
-updated: 2024-09-02T06:58:25.218Z
+date: 2024-09-25T18:02:49.410Z
+updated: 2024-09-30T19:59:37.938Z
 tags:
   - ios
 categories:
@@ -32,8 +32,12 @@ Related: [What To Do If You Lose Your Two-Factor Phone](https://hardware-reviews
  If you have [AppleCare+ with Theft and Loss](https://support.apple.com/iphone/theft-loss-claims), you can file a claim for a lost iPhone---as long as you had "Find My" enabled on it.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Turn It Off, Dry Phone as Much as You Can
 
  Once your phone is out of the water, [power it off](https://facebook-videos.techidaily.com/new-elevate-engagement-escalate-ranks-on-fb-pages/) completely. Use a clean towel to dry the phone off as much as possible. If possible, remove the SIM card tray, any memory card trays, and the battery if it is not built into the phone. If it's in a case that is not waterproof, remove the case as well.
@@ -44,9 +48,6 @@ Related: [Stop Putting Your Phone in Rice](https://sim-unlock.techidaily.com/eas
 
  If your phone isn't water resistant, you may have heard that placing your smartphone in rice will help dry it out, but that's [just a myth](https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/). Rice will do nothing, and leaving it sitting there will give the saltwater stuck inside the phone body extra time to corrode the electronics. If you ever want to use the phone again, you're in a [race against time](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) to disassemble the phone and clean it out before corrosion permanently damages the internal circuitry.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  If Possible, Take the Phone Apart
 
  If you feel qualified and capable to disassemble your phone, use the [proper tools](https://www.ifixit.com/Store/Tools/all) to open it up as quickly as possible. iFixit publishes [free guides](https://www.ifixit.com/Device/Phone) that include detailed steps on how to disassemble many popular smartphone models.
@@ -58,8 +59,12 @@ Related: [How Water Damages Electronics](https://blog-min.techidaily.com/5-ways-
 Related: [How to Back Up Your iPhone With iTunes (and When You Should)](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Otherwise, Take it to a Professional
 
  Obviously, the disassembly steps above require a certain level of technical know-how and also the tools and parts to safely open a modern smartphone without damage. So if you're not comfortable with taking your phone apart, take it as soon as possible to a qualified smartphone repair shop. Tell them you dropped your phone in salt water, and they should know what to do. The phone will need immediate disassembly and deep cleaning inside and out if you want to save it.
@@ -69,8 +74,12 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  If they aren't willing to work on it right away and the phone is very important, take the phone somewhere else. If you have an iPhone, you could consider [getting an appointment](https://facebook-clips.techidaily.com/new-2024-approved-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/) at an Apple store, for example.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  An Ounce of Prevention
 
  Supposedly, Benjamin Franklin once [said](https://www.dictionary.com/browse/an-ounce-of-prevention-is-worth-a-pound-of-cure), "An ounce of prevention is worth a pound of cure." That means if you take small steps to prevent trouble before it happens, you can save yourself from a much bigger crisis later.
@@ -80,8 +89,12 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
 ![41uKdhSztZL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41ukdhsztzl-_sl500_-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  JOTO Universal Waterproof Phone Pouch 
 
 $7 $13 Save $6 
@@ -98,8 +111,6 @@ Inexpensive insurance against water exposure for a smartphone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +118,17 @@ Inexpensive insurance against water exposure for a smartphone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-innovative-visual-alteration-solutions-pixelpioneers-edge/"><u>[New] In 2024, Innovative Visual Alteration Solutions PixelPioneer's Edge</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-step-by-step-guide-to-personalize-and-change-video-covers-on-facebook/"><u>[New] In 2024, Step-by-Step Guide to Personalize and Change Video Covers on Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfectly-blended-hdr-your-guide-to-merging-in-adobe-lightroom/"><u>[New] Perfectly Blended HDR Your Guide to Merging in Adobe Lightroom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-thoroughly-disinfecting-iphone-screens-with-alcohol-wipes/"><u>Effective Techniques for Thoroughly Disinfecting iPhone Screens with Alcohol Wipes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-titles-google-cardboards-most-immersive-vr-games/"><u>In 2024, Best Titles Google Cardboard's Most Immersive VR Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-content-seo-mastery-starts-here/"><u>In 2024, Elevate Your Content SEO Mastery Starts Here</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-ios-devices-endless-shuffle-top-4-solutions-for-ipod-stuck-in-loop/"><u>Troubleshooting Your iOS Device's Endless Shuffle: Top 4 Solutions for iPod Stuck In Loop</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620253863-unable-to-send-messages-identify-the-issue-and-resolve-it-instantly/"><u>Unable to Send Messages? Identify the Issue and Resolve It Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unstick-your-idevice-from-update-process-with-easy-troubleshooting-techniques/"><u>Unstick Your iDevice From Update Process with Easy Troubleshooting Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-z-flip6-cost-launch-timeline-and-key-specifications/"><u>Unveiling the Samsung Galaxy Z Flip6: Cost, Launch Timeline & Key Specifications</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-09-22T23:31:57.491Z
-updated: 2024-09-26T10:39:31.753Z
+date: 2024-09-24T20:20:50.342Z
+updated: 2024-09-30T21:32:07.772Z
 tags:
   - ios
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -50,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -61,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -96,24 +102,16 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unparalleled-tech-for-capturing-live-screens-and-videos/"><u>[Updated] 2024 Approved Unparalleled Tech for Capturing Live Screens & Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-game-on-with-more-space-topping-10-hddssds-for-2024/"><u>[Updated] Game On with More Space Topping 10 HDD/SSDs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>[Updated] The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unearthing-user-generated-footage-on-facebook/"><u>[Updated] Unearthing User-Generated Footage on Facebook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experts-complete-handbook-for-iphone-and-android-backup-data-recovery-techniques/"><u>Expert's Complete Handbook for iPhone and Android Backup Data Recovery Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-your-free-asus-usb-bt400-driver/"><u>Get Your Free Asus USB-BT400 Driver</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-preserving-your-tunes-ultimate-strategies-for-securing-your-songs-on-all-iphones-model-15-14-13-and-earlier/"><u>Guide: Preserving Your Tunes - Ultimate Strategies for Securing Your Songs on All iPhones (Model 15, 14, 13, and Earlier)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-a-corrupted-iphone-backup-with-two-reliable-techniques/"><u>How to Fix a Corrupted iPhone Backup with Two Reliable Techniques</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-top-8-must-try-audio-capture-apps-for-live-broadcasting/"><u>In 2024, Top 8 Must-Try Audio Capture Apps for Live Broadcasting</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-rescue-mission-retrieving-your-valuable-information-beyond-itunes-and-icloud-boundaries/"><u>IPhone Rescue Mission: Retrieving Your Valuable Information Beyond iTunes and iCloud Boundaries</u></a></li>
-<li><a href="https://os-tips.techidaily.com/leading-iphone-data-extractor-in-2021-seamless-itunes-backup-transfer-to-windows-or-mac/"><u>Leading iPhone Data Extractor in 202#1. Seamless iTunes Backup Transfer to Windows or Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-video-preservation-the-optimal-strategies-for-saving-content-on-iphones-and-androids/"><u>Mastering Mobile Video Preservation: The Optimal Strategies for Saving Content on iPhones & Androids</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-top-4-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Quick Guide: Top 4 Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-iphones-essential-information-learn-how-to-backup-with-itunes/"><u>Secure Your iPhone's Essential Information: Learn How to Backup with iTunes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-thoughts-comparing-the-best-free-vs-paid-methods-for-backing-up-notes-on-an-iphone/"><u>Secure Your Thoughts: Comparing the Best Free vs Paid Methods for Backing Up Notes on an iPhone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/upgrading-retro-gaming-experience-expert-strategies-for-optimizing-classics-on-contemporary-pc-systems/"><u>Upgrading Retro Gaming Experience: Expert Strategies for Optimizing Classics on Contemporary PC Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/voiceover-dynamics-for-stellar-ppt-presentations-for-2024/"><u>Voiceover Dynamics for Stellar PPT Presentations for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/windows-11-compatible-quick-and-easy-dvd-ripper-seamlessly-transform-dvds-into-high-quality-mp4-files/"><u>Windows 11 Compatible Quick & Easy DVD Ripper: Seamlessly Transform DVDs Into High-Quality MP4 Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/yllatyskutenet-2024-tunnistusohjelmat-videoedita-kuin-vesileiman-lukukauden-edessa/"><u>Yllätyskutenet 2024: Tunnistusohjelmat Videoedita Kuin Vesileiman Lukukauden Edessä</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pushing-boundaries-with-vidmas-video-capture-features/"><u>[Updated] 2024 Approved Pushing Boundaries with Vidma's Video Capture Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-range-best-webcam-standers/"><u>2024 Approved Prime Range Best Webcam Standers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-asus-rog-phone-7-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Asus ROG Phone 7 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/controlling-your-iphone-15-charge-cycles-benefits-and-pitfalls/"><u>Controlling Your iPhone 15 Charge Cycles: Benefits and Pitfalls</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discontinuation-alert-apple-ceases-manufacturing-for-magsafe-accessories-including-battery-and-duo-charging-mat/"><u>Discontinuation Alert: Apple Ceases Manufacturing for MagSafe Accessories Including Battery and Duo Charging Mat</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-lose-your-memories-how-apples-photo-sync-glitch-highlights-the-importance-of-activating-icloud-backup/"><u>Don't Lose Your Memories: How Apple's Photo Sync Glitch Highlights the Importance of Activating iCloud Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-methods-to-dry-out-wet-iphone-speakers-successfully/"><u>Effective Methods to Dry Out Wet iPhone Speakers Successfully</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-remembering-special-dates-customizing-birthday-notifications-on-iphone/"><u>Effortlessly Remembering Special Dates: Customizing Birthday Notifications on iPhone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-y100i-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Y100i Pictures An Easy Method Explained.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System"
-date: 2024-09-23T18:50:26.062Z
-updated: 2024-09-26T09:36:07.065Z
+date: 2024-09-30T09:38:04.162Z
+updated: 2024-10-01T06:54:53.498Z
 tags:
   - ios
 categories:
@@ -23,18 +23,18 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 ![iPhone app icon colors](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-app-icon-colors.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A slightly more exciting icon-related feature is custom icons. You can now make the icons larger, which is incidentally a great [accessibility feature](https://program-issues.techidaily.com/solutions-for-stable-play-addressing-the-call-of-duty-mobile-warzone-20-pc-edition-freezing-issues/) for individuals who suffer from poor eyesight.
 
  What's even more interesting is that you can now change icon colors on all supported icons; you can pick automatic, light, dark, or tinted icons. Automatic mode switches icon colors between light and dark depending on the time of day, and you can even hit the sun icon to make your wallpaper slightly darker. The most interesting option is tinted. It automatically suggests an icon color based on your background, but you can pick any shade you wish, and all of your icons will turn to that color.
 
  Android has had [custom icon packs for years](https://fox-http.techidaily.com/updated-in-2024-navigating-the-complexities-of-mac-and-mixer-streaming/), and since you can download third-party icon packs, you can pick from a wide range of art styles. Nevertheless, I'm excited about this iOS addition because we'll likely see improved custom icon support among app developers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Game Mode
 
@@ -45,10 +45,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 ![iPhone Messages RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-messages-rcs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (Rich Communication Service) is a mobile communication protocol that significantly improves upon traditional SMS messaging by offering richer chat functionalities like file and media sharing. RCS has been available since Android 5 (2014), and it's finally coming to iPhones with iOS 18\. RCS support means you'll finally be able to chat properly and share stickers and high-res images with your Android friends.
@@ -57,36 +57,50 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 ![iPhone iOS 18 app lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-ios-18-app-lock.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  App locking is a new privacy feature that lets you lock any app you wish so that others can't access it, even if your phone is unlocked. When you want to open a locked app, you'll be required to use Face ID, Touch ID, or your passcode to unlock it. Previously, only authenticators and bank apps required authorization before you could access them. My [2019 Android 11 phone](https://fox-glue.techidaily.com/new-advanced-data-analytics-methods-for-market-research-analysis-for-2024/) has this feature, and I wouldn't be surprised to learn that it's available on Android devices that are even older.
 
 ##  Hiding Apps
 
  Another feature that's been around for years on Android phones is hidden apps. Similar to app lock, it's a privacy feature that ensures your friends don't see your most embarrassing apps on your home screen. When you hide an app on iOS 18, it goes into a locked "Hidden" folder that you can access just like any other locked app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Custom Lock Screen Shortcuts
 
 ![Custom lock screen shortcuts in iOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/newvoideop-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Apple](https://www.apple.com/mt/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/)
 
  The default lock screen shortcuts on iPhone are the camera on the right and the flashlight on the left. These shortcuts are nothing new, but what _is_ new is that you can now customize or even fully remove them. I'm surprised to see that Apple will let people launch third-party apps; Snapchat was shown as a shortcut example. Again, custom lock screen shortcuts are old news for Android users, as they've had this feature since Android 14.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Password Manager
 
 ![iPhone Passwords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-passwords.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) are useful utility tools that keep all of your passwords stored in one safe location. They suggest and load highly complex and unique passwords for each app and website you log in to. Android phones and Google Chrome share the Google Password Manager, and I've been using it for as long as I can remember.
@@ -97,25 +111,18 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 ![iOS 18 control center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-control-center.png) 
 
- Apple's Control Center is getting a customization overhaul with iOS 18\. You can change the layout completely by adding custom groups and resizing individual settings. The most exciting part is that you'll now be able to add third-party features directly from the Control Center, such as remote car unlock. [Quick settings customization](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) and third-party options have always been available on custom Android skins, but they were added to the OS with Android 6 in 2015.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Apple's Control Center is getting a customization overhaul with iOS 18\. You can change the layout completely by adding custom groups and resizing individual settings. The most exciting part is that you'll now be able to add third-party features directly from the Control Center, such as remote car unlock. [Quick settings customization](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) and third-party options have always been available on custom Android skins, but they were added to the OS with Android 6 in 2015.
 
 ##  Apple Mail Categories
 
 ![iOS 18 Mail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-mail.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Email categorization that's coming soon to the built-in Mail app looks a lot like Gmail labels. The app will now sort emails into Primary, Transactions, Updates, and Promotions, based on what type of email it is. Gmail has Primary, Promotions, Social, Updates, and Forums. Sounds familiar, right?
 
@@ -130,13 +137,6 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  Let's now shift our focus to [Apple Intelligence](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) and equivalent AI features in Android phones. For me, the standout feature is the Clean Up tool, which lets you remove unwanted objects from photos while preserving the original quality. It works exactly like the [Samsung Object Eraser](https://extra-resources.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/) and [Google Magic Editor](https://video-screen-grab.techidaily.com/in-2024-acethinker-screen-recorder-review/).
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  On-Device AI
 
@@ -169,20 +169,20 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-a-beginners-guide-to-professional-gif-creation-for-2024/"><u>[New] A Beginner's Guide to Professional GIF Creation for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-low-cost-recording-choices-top-11-vlogger-essentials/"><u>[Updated] In 2024, Low-Cost Recording Choices Top 11 Vlogger Essentials</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-explore-chromes-full-screen-multitasking-capabilities/"><u>2024 Approved Explore Chrome's Full-Screen Multitasking Capabilities</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-6-alternatives-to-chatgpt-for-smartphones-boosting-digital-interactions-anywhere/"><u>Discover the Ultimate 6 Alternatives to ChatGPT for Smartphones, Boosting Digital Interactions Anywhere</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-iphone-fix-a-step-by-step-guide/"><u>DIY iPhone Fix: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficiently-locating-texts-within-apples-messages-app-for-iphoneipad-users/"><u>Efficiently Locating Texts Within Apple's Messages App for iPhone/iPad Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficiently-sending-bulky-files-via-icloud-mail-a-step-by-step-guide-for-iphone-mac-and-windows-users/"><u>Efficiently Sending Bulky Files via iCloud Mail: A Step-by-Step Guide for iPhone, Mac & Windows Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-performance-the-evolution-of-premium-fitness-applications/"><u>Enhanced Performance: The Evolution of Premium Fitness Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/epic-games-brings-fortnite-back-to-ios-devices-and-debuts-on-android-platform/"><u>Epic Games Brings Fortnite Back to iOS Devices and Debuts on Android Platform</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-steps-prepare-and-update-before-switching-to-iphone-15/"><u>Essential Steps: Prepare and Update Before Switching to iPhone 15</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-engaging-environments-scenery-that-sells-streaming/"><u>In 2024, Engaging Environments Scenery That Sells Streaming</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-innovative-approaches-applying-luts-in-photoshop-cc-post-processing/"><u>In 2024, Innovative Approaches Applying LUTs in Photoshop CC Post-Processing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quality-control-best-free-lut-selections-and-links-reviewed/"><u>In 2024, Quality Control Best Free LUT Selections & Links Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-m-mock-1000a-the-supreme-18000mah-vehicle-booster-assessment/"><u>Ultimate Guide: M Mock 1000A - The Supreme 18000mAh Vehicle Booster Assessment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vivavideo-unpacked-a-comprehensive-overview/"><u>VivaVideo Unpacked A Comprehensive Overview</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-3-ways-to-download-youtubes-standardized-thumbnails-for-2024/"><u>[New] Unlock 3 Ways to Download YouTube’s Standardized Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-grow-to-1k-per-month-master-the-art-of-ig-popularity/"><u>[Updated] Grow to 1K Per Month Master the Art of IG Popularity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027646775-windows/"><u>「Windowsビデオエディター」を使ったスムーズな映像カット・マッシング手順解説</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erate-mac-youtube-video-matching-aspect-ratio/"><u>Accelerate Mac Youtube Video Matching Aspect Ratio</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-resetting-your-computer-with-a-system-restore-in-windows-versions-10-8-and-7/"><u>Complete Tutorial: Resetting Your Computer with a System Restore in Windows Versions 10, 8, and 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-methods-to-restore-or-update-passwords-on-a-windows-(span-stylefont-size16pxcolor03a5f9)7-desktop-system(span)/"><u>Effective Methods to Restore or Update Passwords on a Windows <Span Style=font-Size:16px;color:#03A5F9;>7 Desktop System</Span></u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-strategies-resolve-your-memory-card-issues-with-these-7-techniques/"><u>Essential Strategies: Resolve Your Memory Card Issues with These 7 Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-invalid-disk-failures-discover-the-best-3-techniques-for-stable-systems-and-easy-data-retrieval/"><u>Fixing Invalid Disk Failures? Discover the Best 3 Techniques for Stable Systems & Easy Data Retrieval</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-100-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor 100 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620260208-solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-rog-phone-7-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from ROG Phone 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-effective-remedies-for-correcting-sd-card-malfunctions/"><u>Top 7 Effective Remedies for Correcting SD Card Malfunctions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-nokia-n31-the-ultimate-starter-phone-for-tech-newbies/"><u>Unboxing Nokia N3.1: The Ultimate Starter Phone for Tech Newbies</u></a></li>
 </ul></div>
 

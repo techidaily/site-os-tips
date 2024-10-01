@@ -1,7 +1,7 @@
 ---
 title: My Desire for a Cosmic Galaxy Ring Denied by Samsung's Design
-date: 2024-09-01T06:58:15.881Z
-updated: 2024-09-02T06:58:15.881Z
+date: 2024-09-26T19:55:12.770Z
+updated: 2024-10-01T12:23:51.813Z
 tags:
   - ios
 categories:
@@ -19,11 +19,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  As a smart ring wearer, I was excited to see Samsung finally enter the market with a new wearable of its own. But my excitement quickly turned to disappointment when I noticed the large asterisk Samsung had placed on its latest Galaxy device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Introducing the Samsung Galaxy Ring
 
  Samsung’s long-awaited smart ring, the Galaxy Ring, [finally launched in mid-2024](https://video-capture.techidaily.com/essential-knowledge-how-io-screen-recorder-works/) to take on the market leader, the Oura Ring which is [now on its third-generation](https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-f5-5g-by-fonelab-android-recover-video/).
 
 ![A closeup of a hand wearing the Samsung Galaxy Smart Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53845587922_fea0fbb305_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -33,9 +47,6 @@ Justin Duino / How-To Geek
 
  Samsung has also borrowed from Oura the idea of distilling a lot of complex data into simple metrics, offering you daily sleep and energy scores. Additionally, the Galaxy Ring has FDA clearance to alert you about sleep apnea and irregular heart rhythms which could point to a potentially dangerous heart condition known as atrial fibrillation, or Afib.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  No Subscription Needed
 
  The big news, however, is what Oura _hasn’t_ copied from Oura—namely, the need for a subscription to gain full access to the data.
@@ -44,18 +55,12 @@ Justin Duino / How-To Geek
 
 ![Oura Ring held in a hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/oura-ring-held-in-a-hand.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How To Geek
 
  The Galaxy Ring, in contrast, gives full access to all available data in the Samsung Health app without any ongoing cost. At a time when consumers are increasingly suffering from subscription fatigue, that’s a big selling point for Samsung. It also means you can gift the ring (or pass it on to someone when you're done with it) without worrying about them needing to pay for a subscription to get the most out of it.
 
  But there’s a problem...
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Galaxy Ring Requires a Galaxy Phone
 
  Samsung has chosen to make the Ring exclusive to Galaxy smartphone owners. To be clear, that’s not a technical issue. The Samsung Health app runs on any smartphone, including iPhone, and the Ring sends its data to the app via a perfectly standard Bluetooth connection. There's no reason the Ring couldn't work with any smartphone that satisfies these requirements.
@@ -67,13 +72,12 @@ Justin Duino / How-To Geek
  No, this is a purely commercial decision. Samsung is hoping the Ring will be sufficiently appealing that making it exclusive to its Galaxy phones will persuade people to buy one.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  That’s a Gamble With Android
 
  For other Android phone owners, that’s a gamble. Some may not care about the brand of their phone, or be wedded to any particular features or design elements it may offer. That’s a slice of the market which may be happy to switch to Samsung the next time they upgrade. Perhaps some will even be keen enough on the Ring to upgrade ahead of schedule and buy a Galaxy phone now.
@@ -94,9 +98,6 @@ Justin Duino / How-To Geek
 
 ![Apple Watch Series 8 in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple_watch_s8_hand.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  So in making this decision, Samsung is robbing itself of a huge slice of the market. It's more than 70% of the US market, more than 50% in each of Canada and the UK, and more than a quarter of the market in EU countries.
@@ -104,8 +105,12 @@ Tim Brookes / How-To Geek
  It’s not just the size of the market, either. iPhone owners, on average, have higher disposable incomes, and a known propensity for buying sleek technology. Like, oh, I don’t know, a smart ring.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Samsung Won't Take Your Money
 
  I like my Oura Ring and I think the subscription fee is justified by the combination of the data it provides and the thoughtful ways the app presents that data. But if Samsung could have offered something similar without the annual cost, it could have won my business.
@@ -118,8 +123,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +130,19 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-polarr-photo-editor-features-in-detail/"><u>[New] Explore Polarr Photo Editor Features in Detail</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-boost-your-content-access-free-vocal-sfx/"><u>[New] In 2024, Boost Your Content Access Free Vocal SFX</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-text-tools-elevating-creative-compositions/"><u>[New] Top 10 Text Tools Elevating Creative Compositions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-action-avalon-10-thrilling-titles-comparable-to-gta-v/"><u>[Updated] Action Avalon 10 Thrilling Titles Comparable To GTA V</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-record-and-share-moments-instantly-using-vlcs-webcam-recorder/"><u>[Updated] In 2024, Record & Share Moments Instantly Using VLC's Webcam Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-garmin-gpsmap/"><u>Comprehensive Review of Garmin GPSMAP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficient-strategies-for-resolving-iphone-call-disruptions-verified-approaches/"><u>Efficient Strategies for Resolving iPhone Call Disruptions: Verified Approaches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/error-53-explained-simple-and-secure-solutions-inside/"><u>Error 53 Explained: Simple & Secure Solutions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-snappin-snapchat-5-swift-solutions-for-common-app-hiccups/"><u>Fix Snappin' Snapchat: 5 Swift Solutions for Common App Hiccups</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-and-simple-solutions-unstick-your-iphone-from-recovery-mode-in-just-3-steps/"><u>Safe and Simple Solutions: Unstick Your iPhone From Recovery Mode in Just 3 Steps!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-voicemail-failures-a-list-of-common-problems-and-full-proof-fixing-methods/"><u>Understanding iPhone Voicemail Failures: A List of Common Problems and Full-Proof Fixing Methods</u></a></li>
+</ul></div>
 

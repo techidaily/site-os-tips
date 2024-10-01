@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Productivity with iPhone Shortcuts – Tips & Tricks for Beginners
-date: 2024-09-01T06:57:21.021Z
-updated: 2024-09-02T06:57:21.021Z
+date: 2024-09-29T18:57:34.113Z
+updated: 2024-09-30T21:01:22.724Z
 tags:
   - ios
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Shortcuts are workflows that allow you to do things quickly on your iPhone. These workflows use a series of actions to speed up or automate repetitive tasks. Shortcuts can range from simple workflows with very few actions, to complex operations with many steps (and everything in between).
 
 ![Example of a more complex workflow in Shortcuts for iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/example_shortcut.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let’s say you have a set of photos that you want to resize. You can build a shortcut that prompts you for dimensions or automatically resizes to dimensions of your choosing.
 
@@ -57,23 +64,6 @@ Tim Brookes / How-To Geek
 
  You can also trigger these Shortcuts using Siri, by asking Siri to “run my Start Pomodoro shortcut” as an example. Shortcuts that are flagged to be displayed on Apple Watch will [show up in the Shortcuts app there](https://techidaily.com/how-to-hard-reset-oppo-k11-5g-without-password-drfone-by-drfone-reset-android-reset-android/), and you can [add them to Watch faces](https://some-knowledge.techidaily.com/new-in-search-of-greatness-top-15-timeless-stop-motion-films/) for quick access.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  How to Create Your Own Shortcuts
 
  To create a new workflow, open the Shortcuts app and make sure the “Shortcuts” tab is selected. Under “All Shortcuts” tap on the plus “+” icon in the top-right corner of the screen (you can choose a different folder if you want to save your Shortcut there instead).
@@ -82,13 +72,24 @@ Key features:
 
 ![Add Action to a new workflow in Shortcuts for iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/new_shortcut_add_action.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At the bottom of the screen is an “i” button. Tap on it to see some additional options, notably the option to show your workflow in the Share Sheet (so that you can use it as a destination for files or media), to show your workflow on an Apple Watch, as well as macOS options like using a shortcut as a Quick Action or pinning it to the menu bar.
 
 ![Toggle Share Sheet visibility in a Shortcuts workflow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/resize-image-ios-jpeg.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also find the option to allow the shortcut to run when your device is locked under the “Privacy” section, as well as a “Set-up” section that asks a series of questions when the Shortcut is first added (to gather data that’s critical to the Shortcut’s functioning).
 
  Creating a shortcut from scratch can be a daunting process if you’re not sure what you’re doing. For now, have a look at the available actions and settings. Try placing a few down and see what happens, even if you have no intention of building something cohesive.
@@ -99,9 +100,6 @@ Key features:
 
  At the top of the screen you can name your Shortcut, select an icon, and pick a color. At the bottom of the screen is a “Play” button that you can use to test your Shortcut as you build it. Don’t worry if you’re feeling a bit lost at this stage.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Some iPhone Shortcuts Ideas to Get You Started
 
  Let’s build a few workflows to get you up to speed with Shortcuts. The first thing we’ll build is a Shortcut that [records your weight in Apple Health](https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-file-management-six-tips-for-win-11s-mov-files/). When you run it you’ll be asked for your current weight, which will be recorded in the Health app, greatly speeding up the process.
@@ -110,16 +108,10 @@ Key features:
 
 ![A workflow for logging your body weight in Shortcuts for iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/record_weight_shortcut.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Now try running your Shortcut. You should see a prompt asking you for a value. Add your value then hit “Done” and your weight will be recorded. Head to the Health app and take a look at Weight under Body Measurements to confirm this worked.
 
 ![Providing input when running a Shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/record_weight_input.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 **Note:**  You may be prompted to give Shortcuts access to your Health data if you haven’t already done so. You can always manage these permissions under Settings > Privacy & Security.
 
  That’s a simple workflow that speeds up a process with a single action. Let’s take a look at something a little more complex by building a workflow that merges multiple PDFs into a single document.
@@ -131,11 +123,22 @@ Key features:
 ![Create a workflow to merge PDFs into a single document using Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/merge_pdf_shortcut.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you dismiss the Quick Look dialog without saving then your PDF won’t be saved. This is a good way to avoid clogging up storage. You could simply share the PDF straight to an email or a Messages conversation without saving it if you wanted.
 
  Hopefully, these two examples are enough to whet your appetite to create your own workflows in Shortcuts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Download Shortcuts Too
 
@@ -154,8 +157,12 @@ Key features:
 ![Shortcuts app for macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/shortcuts_app_mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Shortcuts to Trigger Automations
 
  Within the Shortcuts app, you’ll find an “Automations” tab. Here you can [build Automations that trigger based on events](https://extra-lessons.techidaily.com/peak-performance-win-tunes/) like a time, when you perform an action like tapping a payment card, or when you arrive or leave at a location.
@@ -170,8 +177,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +184,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-deconstructing-the-limits-to-longer-instagram-videos/"><u>[New] 2024 Approved Deconstructing the Limits to Longer Instagram Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-revenue-video-visionaries/"><u>[New] In 2024, High-Revenue Video Visionaries</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/echniques-for-emptying-youtubes-keep-queue-for-2024/"><u>[New] Techniques for Emptying YouTube's Keep Queue for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-likes-exploring-life-post-social-media/"><u>Beyond Likes: Exploring Life Post-Social Media</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphone-experience-seamlessly-zooming-in-and-out-using-these-5-effective-strategies/"><u>Boost Your iPhone Experience: Seamlessly Zooming in and Out Using These 5 Effective Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/break-free-the-chuckles-the-most-hilarious-facebook-detainment-stories-for-2024/"><u>Break Free the Chuckles The Most Hilarious Facebook Detainment Stories for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-best-non-prezi-software-and-web-options-for-dynamic-presentations/"><u>Discover the Best Non-Prezi Software & Web Options for Dynamic Presentations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-secure-your-data-by-moving-old-phone-passwords-to-your-new-iphone/"><u>Easy Steps: Secure Your Data by Moving Old Phone Passwords to Your New iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-motion-clearer-captures/"><u>Mastering Motion Clearer Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-issues-with-the-steam-platform-when-the-store-does-not-load/"><u>Repairing Issues with the Steam Platform When the Store Does Not Load</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-beginners-can-reset-their-iphones-email-password-swiftly/"><u>Simple Guide: How Beginners Can Reset Their iPhone's Email Password Swiftly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unsubscribing-from-tv-services-via-ios-device/"><u>Step-by-Step Instructions: Unsubscribing From TV Services via iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-significance-of-heic-image-encoding-for-iphone-photography-key-facts-you-need-to-know/"><u>The Significance of HEIC Image Encoding for iPhone Photography: Key Facts You Need to Know</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-catalog-of-remarkable-education-websites-for-2024/"><u>The Ultimate Catalog of Remarkable Education Websites for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-4-strategies-for-finding-your-lost-iphone-or-ipad/"><u>Top 4 Strategies for Finding Your Lost iPhone or iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-simple-ways-to-connect-your-ipad-to-computermactv/"><u>Top 6 Simple Ways to Connect Your iPad to Computer/Mac/TV</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-digital-touch-messaging-a-comprehensive-guide-for-iphone-users/"><u>Understanding Digital Touch Messaging: A Comprehensive Guide for iPhone Users</u></a></li>
+</ul></div>
 

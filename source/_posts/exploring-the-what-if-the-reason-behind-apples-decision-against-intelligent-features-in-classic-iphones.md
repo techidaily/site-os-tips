@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones"
-date: 2024-09-24T09:40:01.671Z
-updated: 2024-09-26T08:54:04.539Z
+date: 2024-09-23T22:30:48.498Z
+updated: 2024-10-01T00:31:35.787Z
 tags:
   - ios
 categories:
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
@@ -83,40 +83,28 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
 
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
 
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Changes I Want to See in Apple Intelligence in the Future
@@ -142,20 +130,16 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-max-effects-for-vector-files/"><u>[New] Max Effects for Vector Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-uncovering-notable-versions-within-microsofts-movie-maker/"><u>[New] Uncovering Notable Versions Within Microsoft's Movie Maker</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-vsg-hd-screen-snapper-reports-extensive-breakdown/"><u>2024 Approved VSG HD Screen Snapper Reports Extensive Breakdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc7360n-drivers-seamless-download-and-installation-for-windows-1187-users/"><u>Brother MFC7360N Drivers: Seamless Download & Installation for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-for-bulk-deletion-of-ios-contacts/"><u>Expert Strategies for Bulk Deletion of iOS Contacts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-apps-for-refined-dji-aerial-filmmaking-for-2024/"><u>Leading Apps for Refined DJi Aerial Filmmaking for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leading-screen-grabbers-top-picks-for-windows-11-for-2024/"><u>Leading Screen Grabbers Top Picks for Windows 11 for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-iphones-space-effective-techniques-for-freeing-up-storage-on-ios-12-devices/"><u>Maximize Your iPhone's Space: Effective Techniques for Freeing Up Storage on iOS 12 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-compatibility-problems-with-input-devices-and-screens/"><u>Overcoming Compatibility Problems with Input Devices and Screens</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-deletion-top-5-methods-for-removing-albums-off-your-iphone/"><u>Permanent Deletion: Top 5 Methods for Removing Albums Off Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-preparing-your-iphone-for-resale/"><u>Step-by-Step Guide: Preparing Your iPhone for Resale</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-techniques-for-thorough-iphone-data-wipe-complete-and-safe/"><u>Top 3 Techniques for Thorough iPhone Data Wipe: Complete & Safe</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-for-earning-top-dollar-on-pre-owned-iphones/"><u>Top Strategies for Earning Top Dollar on Pre-Owned iPhones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-non-functioning-mic-on-your-steelseries-arctis-99x-wireless-earphones/"><u>Troubleshooting Tips for Non-Functioning Mic on Your SteelSeries Arctis 9/9X Wireless Earphones</u></a></li>
-<li><a href="https://techidaily.com/windows-spotlight-not-working-in-windows-10-fixed/"><u>Windows Spotlight Not Working in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-fabricate-funny-images-on-giphy-for-2024/"><u>[Updated] Fabricate Funny Images on Giphy for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-s18-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo S18 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beat-the-server-blues-expert-advice-to-correct-a-500-error-code/"><u>Beat the Server Blues: Expert Advice to Correct a 500 Error Code</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-hot-40-by-fonelab-android-recover-video/"><u>How to recover old videos from your Hot 40</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-use-your-phone-as-a-webcam-to-record-videos/"><u>In 2024, How to Use Your Phone as A Webcam to Record Videos?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stuck-on-apple-logo-troubleshoot-your-apple-watch-with-effective-solutions/"><u>Stuck on Apple Logo? Troubleshoot Your Apple Watch with Effective Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-essential-guide-when-are-bluetooth-adapters-necessary-for-your-lightning-headphones/"><u>The Essential Guide: When Are Bluetooth Adapters Necessary for Your Lightning Headphones?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-future-is-now-anticipating-artificial-intelligence-upgrades-for-apple-devices-this-fall/"><u>The Future Is Now: Anticipating Artificial Intelligence Upgrades for Apple Devices This Fall</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-troubleshoot-non-syncing-of-iphones-calendar-with-microsoft-outlook/"><u>The Ultimate Guide to Troubleshoot Non-Syncing of iPhones Calendar with Microsoft Outlook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-practical-applications-of-iphones-visual-lookup-tool/"><u>Top 6 Practical Applications of iPhone's Visual Lookup Tool</u></a></li>
 </ul></div>
 

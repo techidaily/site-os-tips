@@ -1,7 +1,7 @@
 ---
 title: From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices
-date: 2024-09-23T17:43:56.472Z
-updated: 2024-09-25T16:39:23.197Z
+date: 2024-09-28T10:34:30.499Z
+updated: 2024-09-30T19:08:46.646Z
 tags:
   - ios
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I'm so deep in the Apple ecosystem that you can only see the top of my head, but the one Apple product I just can't learn to love is its most popular—the iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I’m 99% Apple Now
@@ -39,13 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Even the Apple TV has converted me. Tired of flaky Android TV boxes and [unreliable smart TV apps](https://screen-sharing-recording.techidaily.com/2024-approved-qualitysnap-video-reporter-checkup/), I used my iPad trade-in money to buy a third-generation Apple TV 4K on a whim. As with iPads and Macs, I think Apple might have a customer for life when it comes to streaming boxes.
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  I’ve Tried the iPhone Twice
 
@@ -61,6 +54,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![AI generated isometric pixel art representation of an apple iphone inside a walled garden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_isometric_pixel_art_representation_of_an_apple__d1c8c3ba-aac6-407f-83fd-cdea5c783184_3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  I need my iPad to be like a toaster or a TV. I don't want to tinker with it, it just needs to work. My Mac is already just as open to software as a Windows or Linux machine. Though macOS might complain about software that's not from the Mac App store or digitally signed, it will still begrudgingly let you install it.
@@ -69,16 +69,16 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The iPhone Form Factor Isn’t Great
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -92,18 +92,18 @@ Corbin Davenport / How-To Geek
 
  Nonetheless, photos taken on iPhone do nothing for me. In particular I like taking [macro photos](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/) as well as portrait photos, and while the macro camera mode on my iPhone 14 Pro was plenty capable, I just couldn't get the same sorts of shots that my S21 Ultra or S22 Ultra can manage.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Is the Battery Life So Awful?
 
  I can live with the esthetics and photos that aren't to my taste, but going from having a day and a half of battery power on my S22 Ultra to a phone that barely ekes out a full day of normal use is not fun. I have zero battery anxiety with my Samsung phone, but felt it return with a vengeance with my last iPhone.
 
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  I’m Willing to Try Again
 
@@ -126,18 +126,24 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-superior-web-based-recording-tools-the-leaders-2023-for-2024/"><u>[New] Superior Web-Based Recording Tools - The Leaders 2023 for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>[Updated] 2024 Approved Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-fusing-genres-a-youtube-music-strategy/"><u>2024 Approved Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-arcade-a-second-look-top-5-benefits-that-make-it-a-great-choice/"><u>Apple Arcade: A Second Look - Top 5 Benefits That Make It a Great Choice</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-watch-revolution-the-tinypod-transforms-it-into-a-music-player/"><u>Apple Watch Revolution: The TinyPod Transforms It Into a Music Player</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-service-interruptions-lead-to-iphone-application-failures/"><u>Apple's Service Interruptions Lead to iPhone Application Failures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/complete-step-by-step-tutorial-on-creating-your-own-kodi-system-from-the-ground-up/"><u>Complete Step-by-Step Tutorial on Creating Your Own Kodi System From the Ground Up</u></a></li>
-<li><a href="https://os-tips.techidaily.com/determine-if-your-iphone-is-previously-used-or-newly-refurbished/"><u>Determine if Your iPhone Is Previously Used or Newly Refurbished</u></a></li>
-<li><a href="https://os-tips.techidaily.com/disabling-find-my-iphone-a-step-by-step-guide-and-essential-reasons/"><u>Disabling Find My iPhone: A Step-by-Step Guide & Essential Reasons</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/erfassen-von-bildschirmausgaben-and-sprachdokumentation-mit-winxvideo-ai-die-optimale-software/"><u>Erfassen Von Bildschirmausgaben & Sprachdokumentation Mit WinXVideo AI - Die Optimale Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-8ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 8/iPad/iPod</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unveiling-the-top-5-ios-tools-for-psp-gameplay/"><u>In 2024, Unveiling the Top 5 iOS Tools for PSP Gameplay</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-techniques-to-keep-your-mechanical-keyboard-spotless/"><u>The Definitive Techniques to Keep Your Mechanical Keyboard Spotless</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-captivating-conversations-mastering-zooms-filter-features/"><u>[New] Crafting Captivating Conversations Mastering Zoom's Filter Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-optimal-plot-generation-portal/"><u>[New] In 2024, Optimal Plot Generation Portal</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-guide-to-audio-selection-in-video-unboxing/"><u>[New] In 2024, The Ultimate Guide to Audio Selection in Video Unboxing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-ios-applications-for-playing-psp-classics/"><u>[Updated] Essential iOS Applications for Playing PSP Classics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-using-vlc-from-mpeg-4-to-all-media-types/"><u>2024 Approved The Ultimate Guide to Using VLC From MPEG-4 to All Media Types</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-guide-to-valheim-sowing-seeds/"><u>In 2024, Ultimate Guide to Valheim Sowing Seeds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004159445-sea-of-thieves-launch-problems-heres-what-you-need-to-know/"><u>Sea of Thieves Launch Problems? Here's What You Need to Know!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-resolving-emergency-sos-feature-problems-on-iphones/"><u>Step-by-Step Tutorial: Resolving Emergency SOS Feature Problems on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-on-hold-iphone-charge-warnings-in-their-tracks-discover-these-8-fix-methods/"><u>Stop 'On-Hold' IPhone Charge Warnings in Their Tracks! Discover These 8 Fix Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlining-your-phonebook-a-quick-guide-to-removing-several-iphone-contacts-at-once/"><u>Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surprising-features-revealed-discover-the-games-that-excel-on-m1-and-m2-ipads/"><u>Surprising Features Revealed: Discover the Games that Excel on M1 and M2 iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-cell-phone-practices-that-shorten-battery-lifespan-avoid-these-mistakes/"><u>Top Cell Phone Practices That Shorten Battery Lifespan: Avoid These Mistakes!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-iphone-13-pro-max/"><u>Top-Rated Protective Covers for iPhone 13 Pro Max</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-an-obsolete-apple-timepiece-into-vintage-clockwork-art/"><u>Transforming an Obsolete Apple Timepiece Into Vintage Clockwork Art</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-chaos-into-order-discover-why-families-adore-using-cozi-for-life-management/"><u>Transforming Chaos Into Order: Discover Why Families Adore Using Cozi for Life Management</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-common-glitches-in-apples-financial-services/"><u>Troubleshooting Common Glitches in Apple's Financial Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-cannot-connect-to-app-store-issue-on-your-iphoneipad/"><u>Troubleshooting Steps: Resolving 'Cannot Connect to App Store' Issue on Your iPhone/iPad</u></a></li>
 </ul></div>
 

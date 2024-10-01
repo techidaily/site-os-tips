@@ -1,7 +1,7 @@
 ---
 title: Discover Easy Ways to Dive Into Using Apple's iPhone Shortcuts Feature!
-date: 2024-09-01T07:00:00.509Z
-updated: 2024-09-02T07:00:00.509Z
+date: 2024-09-30T05:49:15.461Z
+updated: 2024-10-01T06:46:20.794Z
 tags:
   - ios
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Build Your Own Shortcuts](https://facebook-videos.techidaily.com/updated-facebook-live-cutting-edge-strategies-audiences/)
 
  Shortcuts is a powerful app that speeds up and automates simple repetitive actions. Learning how to use Shortcuts to compliment your daily iPhone or Mac use and save time and effort. Here’s how to get started.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are iPhone Shortcuts?
 
@@ -49,19 +56,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Circled + icon for Work Reminder Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4375.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Once you add the shortcut, you will be prompted to enter your work address. To activate the shortcut, you can either tap its icon from the Shortcuts app, or say "Siri, Remind me at Work." Once activated, you will be prompted to type or speak your reminder, which will appear as a notification when you arrive at work.
 
 ![Reminder entry screen for Remind me at Work shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_b0f2bf3e7a55-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Clean Up Screenshots
 
  Freeing up space on your phone is always a good idea. One great way to get rid of some unnecessary photos is with the "Clean Up Screenshots" shortcut. This quickly displays all of your screenshots, letting you delete or save them all in one place. You can select specific screenshots to be kept, deleted, or saved to your files. This shortcut can be added from the "Photography" section of the gallery.
@@ -69,29 +74,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Clean up Screenshots shortcut from the Gallery section of Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6f93abbb172a-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can activate this shortcut by tapping its icon in the Shortcuts app or by saying "Siri, clean up screenshots". Depending on how many screenshots you have on your phone, it may take some time to load. Once loaded, you can select some of your screenshots, and press "Done". You can then choose whether you want to save or delete your selections.
 
 ![Save or delete screenshot option from Clean up Screenshots shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_c6d9733e5f12-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  When Do I Need to Leave By?
 
  It can be hard to know exactly when you need to leave for work each day, especially with varying traffic. Luckily, there's a pre-made shortcut that can make that decision a little easier. The "When Do I Need to Leave By" shortcut uses traffic and location information to estimate when you need to leave for work or school. You can find and add this shortcut in the "Morning Routine" section of the gallery.
 
 ![Gallery in the Shortcuts app showing the "When Do I Need to Leave By" shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4386.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  You will be prompted to enter your home and work addresses. Once you do, you can activate the shortcut by tapping its icon in the Shortcuts app or by saying "Siri, when do I need to leave by?". When activated, an alert will appear informing you of your estimated travel time as well as when you should leave to make it on time.
 
 ![Alert showing travel time to work after running an iPhone shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4372.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Translate Text
 
@@ -99,9 +114,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Gallery with the "Translate Text" shortcut circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4403-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To run the shortcut, tap its icon in the Shortcuts app or say "Siri, translate text". Once activated, you can type or paste in whatever text you want, and the shortcut will automatically detect its language. You can then choose which language to translate into from a language list.
 
 Close 
@@ -112,6 +124,13 @@ Close
 
 !["Explore Apple Music" section of the Shortcuts gallery with "Make Top 25 Playlist" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4373.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This shortcut can be run directly from the Shortcuts app, or by saying "Siri, make top 25 playlist". Once run, the playlist will automatically find your 25 most played songs and generate a playlist containing them.
 
 ##  Email Last Image
@@ -120,16 +139,17 @@ Close
 
 ![Gallery section of Shortcuts app with "Email Last Image" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4409-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  You can run this shortcut from the Shortcuts app or by saying "Siri, email last image." The first time you use it, you will be prompted to grant the shortcut permission to access your photos. Once granted, an email containing your most recent photo will be generated. All you need to do is enter a message and a recipient.
 
 ![An email generated from "Email Last Image" shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4410-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Pomodoro Timer
 
  The Pomodoro technique is a productivity method that [splits your working time into bursts with breaks in between](https://hardware-updates.techidaily.com/how-to-get-the-latest-geforce-gtx-460-graphics-card-drivers-installed-on-your-pc/). The idea is that your brain is best able to focus and perform in 25-minute intervals, with 5-minute breaks between. If you are interested in trying out the Pomodoro method for your next work or school projects, there's a shortcut that can help you.
@@ -143,8 +163,12 @@ Close
 ![Time enter screen of the "Pomodoro Timer" shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_4415.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Build Your Own Shortcuts
 
  Once you have had some time to play around with different shortcuts, you might want to branch out beyond the Apple Gallery. There are many places you can find [third-party shortcuts](https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-5g-location-without-installing-software-drfone-by-drfone-virtual-android/), built by other users for different tasks.
@@ -185,8 +209,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +216,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads-for-2024/"><u>[New] Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-professional-tips-for-sims-game-capture/"><u>[Updated] 2024 Approved Professional Tips for Sims Game Capture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fast-friending-mastering-the-art-of-profile-searches/"><u>[Updated] In 2024, Fast Friending Mastering the Art of Profile Searches</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-techniques-for-salvaging-flawed-hevc-footage/"><u>Advanced Techniques for Salvaging Flawed HEVC Footage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-out-voicemail-entries-from-your-iphone-contact-list/"><u>Clearing Out Voicemail Entries From Your iPhone Contact List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-logitech-g733-microphone-failures-and-fixes/"><u>Effective Solutions for Logitech G733 Microphone Failures and Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-wipe-out-all-message-data-from-your-iphone-once-and-forall/"><u>Effective Strategies: How to Wipe Out All Message Data From Your iPhone Once and ForAll</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-steps-to-delete-your-youtube-browsing-and-search-logs/"><u>Effortless Steps to Delete Your YouTube Browsing and Search Logs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-erase-apple-device-maps-history-secrets-for-a-total-wipeout/"><u>Effortlessly Erase Apple Device Maps History: Secrets for a Total Wipeout</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-on-cleaning-and-sanitizing-your-iphone-before-a-new-owner/"><u>Expert Tips on Cleaning and Sanitizing Your iPhone Before a New Owner</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-up-space-on-your-iphone-by-deleting-app-cache-a-step-by-step-guide/"><u>Free Up Space on Your iPhone by Deleting App Cache: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-removing-safaris-saved-data-from-iphoneipad-using-two-simple-techniques/"><u>Guide: Removing Safari's Saved Data From iPhone/iPad Using Two Simple Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y100?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>In 2024, Archive of Awe High-Quality GIF Preservation for Tweeters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-mastering-the-art-of-deleting-images-from-your-iphone/"><u>Ultimate Tutorial: Mastering the Art of Deleting Images From Your iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-x-flip-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo X Flip Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

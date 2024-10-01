@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Resolving Emergency SOS Feature Problems on iPhones"
-date: 2024-09-22T07:52:59.473Z
-updated: 2024-09-25T20:47:25.382Z
+date: 2024-09-28T23:58:21.339Z
+updated: 2024-09-30T18:58:18.194Z
 tags:
   - ios
 categories:
@@ -18,10 +18,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 * [How to Fix "SOS Only" on an iPhone](https://extra-tips.techidaily.com/bringing-smiles-without-dollars-the-mememakers-way-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,31 +32,24 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 
  If you see "SOS Only" on your iPhone at the top of the screen you'll have trouble making calls, sending texts, or accessing the internet. Here's what's going on and how to get things back to normal.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Does "SOS Only" Mean on iPhone?
 
  The "SOS Only" or just "SOS" warning appears in the carrier field, at the top of the screen on your iPhone. This means that the only calls you can make on your iPhone are emergency calls to numbers like 911 (US), 112 (Europe), 999 (UK), or 000 (Australia).
 
 ![Making an SOS call in a rural area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/sos_only_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Tim Brookes / How-To Geek_
 
  Normal calls to standard numbers won't work and you won't be able to send text messages. Data services that connect to the internet also won't work. Your phone is effectively limited to calling police, fire, ambulance, coastguard, mountain rescue, or similar emergency services you may have in whatever country you are in.
 
  If you have an iPhone with Crash Detection or an Apple Watch with Fall Detection or other emergency services, these will still work as normal while you see the "SOS Only" warning.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Does My Phone Say "SOS Only"?
 
@@ -65,6 +58,13 @@ _Tim Brookes / How-To Geek_
  This means you can still call for help if you find yourself in trouble but outside of normal cell phone range. "SOS Only" will appear when you're traveling abroad depending on which country you are calling from.
 
  "SOS Only" can also appear at times when your cell phone provider is experiencing outages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Fix "SOS Only" on an iPhone
 
@@ -75,10 +75,10 @@ _Tim Brookes / How-To Geek_
 ![Airplane Mode toggle in Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/airplane_mode.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also try [restarting your iPhone](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/) if this doesn't work, which should cause your device to re-establish a connection with your carrier.
@@ -98,17 +98,24 @@ _Tim Brookes / How-To Geek_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-video-editing-showdown-bandicams-capabilities-compared-to-camtasia/"><u>[New] 2024 Approved Video Editing Showdown Bandicam's Capabilities Compared to Camtasia</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pinnacle-of-slow-motion-tech-slomos-full-review-2024/"><u>[New] The Pinnacle of Slow-Motion Tech SloMo's Full Review, 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-your-overwatch-saga-effortlessly/"><u>[Updated] Capture Your Overwatch Saga Effortlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-macgo-ios-eraser-advantages-disadvantages-comparisons-and-frequently-asked-questions/"><u>Comprehensive Guide: Macgo iOS Eraser - Advantages, Disadvantages, Comparisons, and Frequently Asked Questions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-deletion-of-iphone-gaming-applications-steps-for-swiftly-eliminating-data-and-cache/"><u>Effortless Deletion of iPhone Gaming Applications: Steps for Swiftly Eliminating Data and Cache</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-clearing-out-your-conversations-deleting-facebook-messenger-chats-from-ios-and-android-devices/"><u>Guide: Clearing Out Your Conversations - Deleting Facebook Messenger Chats From iOS & Android Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/maximizing-your-gaming-pace-with-improved-fps-techniques-in-tainted-grail-conquest/"><u>Maximizing Your Gaming Pace with Improved FPS Techniques in Tainted Grail: Conquest</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-mp4-editor-for-windows-8-quick-and-easy-video-editing/"><u>New In 2024, Best MP4 Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-the-game-pigeon-application-from-your-iphones-messages/"><u>Step-by-Step Guide: Removing the Game Pigeon Application From Your iPhone's Messages</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-vpn-selection-for-gamers-top-ranked-and-comprehensive-review-by-tech-experts-zdnet/"><u>Ultimate VPN Selection for Gamers: Top-Ranked & Comprehensive Review by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-free-green-screen-apps-for-mobile-devices-updated-2023/"><u>Updated 2024 Approved Best Free Green Screen Apps for Mobile Devices (Updated 2023)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-scanner-now-functional/"><u>Windows 11: Scanner Now Functional</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-deciding-on-the-best-upgrade-for-your-4k-vision/"><u>[New] 2024 Approved Deciding on the Best Upgrade for Your 4K Vision</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-dj-design-samples-high-quality-downloads-ready-for-2024/"><u>[New] Exclusive DJ Design Samples High-Quality Downloads Ready for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lightning-fast-windowed-photo-reader-for-win11/"><u>[Updated] In 2024, Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-reddit-experts-briefly-meet-at-snapchat/"><u>2024 Approved Reddit Experts Briefly Meet at Snapchat</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-apple-magsafe-battery-charger-at-only-32-shop-now/"><u>Affordable Apple MagSafe Battery Charger at Only $32 - Shop Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-watch-series-9-analysis-unwavering-performance-and-reliability/"><u>Apple Watch Series 9 Analysis - Unwavering Performance and Reliability</u></a></li>
+<li><a href="https://os-tips.techidaily.com/blood-oximetry-tracking-eliminated-from-select-apple-watch-series-devices/"><u>Blood Oximetry Tracking Eliminated From Select Apple Watch Series Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/celebrate-independence-day-with-urban-armor-gear-enjoy-20-off-everything-sitewide/"><u>Celebrate Independence Day with Urban Armor Gear - Enjoy 20% Off Everything Sitewide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-removing-water-from-your-iphones-audio-ports/"><u>Complete Guide: Removing Water From Your iPhone's Audio Ports</u></a></li>
+<li><a href="https://os-tips.techidaily.com/determining-the-pixel-dimensions-and-resolution-of-images-on-your-ios-device/"><u>Determining the Pixel Dimensions and Resolution of Images on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-easy-ways-to-dive-into-using-apples-iphone-shortcuts-feature/"><u>Discover Easy Ways to Dive Into Using Apple's iPhone Shortcuts Feature!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-installing-broadcom-bluetooth-driver-on-windows-11-8-or-7/"><u>Easy Guide: Installing Broadcom Bluetooth Driver on Windows 11, 8, or 7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-new-nickwatch-on-us-soil-amidst-excitement-of-kids-choice-awards/"><u>Experience New NickWatch on US Soil Amidst Excitement of Kid's Choice Awards</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-thunderbolt-dock-g2-software-for-120w-and-230w-chargers/"><u>Get the Latest HP Thunderbolt Dock G2 Software for 120W and 230W Chargers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-game-console-sound-amplification-and-modifications-for-ps4ps5/"><u>In 2024, Game Console Sound Amplification and Modifications for PS4/PS5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-management-add-gmail-accounts-to-outlook-windows/"><u>Masterful Management: Add Gmail Accounts to Outlook, Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-sony-vegas-for-professional-youtube-video-creation/"><u>Navigating Sony Vegas for Professional YouTube Video Creation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upgrade-your-fitness-tracker-how-the-tinypod-converts-your-apple-watch-into-an-mp3-device/"><u>Upgrade Your Fitness Tracker: How the TinyPod Converts Your Apple Watch Into an MP3 Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/wirelessly-amplify-your-voice-using-your-iphone-as-an-audio-input-device-on-mac/"><u>Wirelessly Amplify Your Voice: Using Your iPhone as an Audio Input Device on Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Demystifying iPhone AAE Files: Should You Be Deleting Them?"
-date: 2024-09-20T17:07:20.987Z
-updated: 2024-09-25T21:37:04.864Z
+date: 2024-09-25T00:01:37.179Z
+updated: 2024-10-01T08:13:20.109Z
 tags:
   - ios
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  If you transfer photos from an iPhone or iPad to a Windows PC, you might see some files with the extension "AAE" stored along with the images. We'll explain this mysterious file type and what you should do with them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Are AAE Files?
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ![AAE Files and corresponding HEIC files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2023-10-31_09h49_10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this case, we opened up our iPhone with Windows Explorer and found two related files: the original image (IMG\_0244.HEIC) and the corresponding AAE file (IMG\_0244.AAE). 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Does AAE Stand For?
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  If you'd like to open the files again later on a Mac, iPhone, or iPad, you could keep the AAE files with your original photos in the same directory, and the Photos app should be able to read them. In doing so, Photos will be able to see the edits you originally made in the Photos app before transferring your images to a non-Apple platform.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Can You Open an AAE File?
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 ![The contents of an AAE file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/text-of-an-aae-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Photos app on iPhone, iPad, and Mac uses those AAE files silently in a way that's transparent to the user, so you don't have to worry about "opening" them on those platforms, either. If AAE files exist in the same folder as the photos that they refer to, Photos will know how to use them automatically. Good luck!
@@ -102,22 +102,17 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-stealthiest-instagram-story-viewers/"><u>[New] In 2024, The Stealthiest Instagram Story Viewers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-watching-outdated-facebook-chronicles-mobilelaptop/"><u>[New] In 2024, Watching Outdated Facebook Chronicles (Mobile/Laptop)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>[New] Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-igtv-vs-youtube-a-comprehensive-feature-breakdown/"><u>[Updated] 2024 Approved Understanding IGTV Vs. YouTube A Comprehensive Feature Breakdown</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-foobar2000-wave-router/"><u>2024 Approved Foobar2000 Wave Router</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620255487-comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/easy-guide-converting-vob-files-to-avi-format-using-windows/"><u>Easy Guide: Converting VOB Files to AVI Format Using Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-overcoming-iphones-dwindling-network-strength-with-these-7-proven-solutions/"><u>Expert Tips: Overcoming iPhones' Dwindling Network Strength with These 7 Proven Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-notification-issues-on-your-iphone-top-8-solutions-for-ios-10-11-and-12/"><u>Fixing Notification Issues on Your iPhone: Top 8 Solutions for iOS 10, 11 & 12</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/getting-started-with-digital-image-detailing/"><u>Getting Started with Digital Image Detailing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y100i-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y100i Phone Pattern Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-18-troubleshooting-solving-iphones-sound-issues-step-by-step/"><u>IOS 18 Troubleshooting: Solving iPhone's Sound Issues Step-by-Step</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-your-iphones-personal-hotspot-issues-step-by-step-troubleshooting-guide/"><u>Solving Your iPhone's Personal Hotspot Issues: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-recovery-options-on-ios-android-devices-and-pcs/"><u>Step-by-Step Guide: Activating Recovery Options on iOS, Android Devices & PCs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-24-issues-with-the-iphone-6-comprehensive-troubleshooting-guide/"><u>Top 24 Issues with the iPhone 6: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-troubleshooting-tips-for-repairing-a-persistent-snapchat-error-on-iphones-and-android-devices/"><u>Top 6 Troubleshooting Tips for Repairing a Persistent Snapchat Error on iPhones and Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices/"><u>[New] 2024 Approved The Ultimate Ranking Top 10 Video Conferencing Apps on Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ngage-and-learn-students-choice-of-best-historical-youtubes-for-2024/"><u>[New] Engage & Learn Students' Choice of Best Historical YouTubes for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-optimal-speech-recognition-the-google-methodology/"><u>[New] In 2024, Optimal Speech Recognition The Google Methodology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-the-ultimate-guide-to-youtube-live-streaming/"><u>[New] In 2024, The Ultimate Guide to YouTube Live Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-quality-video-uplift-immaculate-resolution/"><u>[New] Top Quality Video Uplift Immaculate Resolution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/defining-moments-understanding-why-this-is-considered-the-best-era-for-smartphones/"><u>Defining Moments: Understanding Why This Is Considered the Best Era for Smartphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-these-top-10-essential-siri-shortcuts-on-your-iphone-for-supercharged-productivity/"><u>Discover These Top 10 Essential Siri Shortcuts on Your iPhone for Supercharged Productivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-implementing-a-functional-action-button-on-your-iphone/"><u>Easy Steps: Implementing a Functional Action Button on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-handle-overheating-devices/"><u>Effective Strategies: How to Handle Overheating Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-exercise-routine-with-these-essential-fitness-tracker-hacks-6-tips/"><u>Elevate Your Exercise Routine with These Essential Fitness Tracker Hacks (6 Tips)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 3 to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 

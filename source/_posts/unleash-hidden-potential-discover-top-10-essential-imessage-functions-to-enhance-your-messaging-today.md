@@ -1,7 +1,7 @@
 ---
 title: "Unleash Hidden Potential: Discover Top 10 Essential iMessage Functions To Enhance Your Messaging Today"
-date: 2024-09-01T06:56:43.491Z
-updated: 2024-09-02T06:56:43.491Z
+date: 2024-09-24T10:47:25.128Z
+updated: 2024-09-30T23:39:50.870Z
 tags:
   - ios
 categories:
@@ -38,6 +38,26 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Contact tagged in bold in an iMessage group chat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/contact-tagged-in-bold-in-an-imessage-group-chat.png) 
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Stickers 
 
  Stickers are a great way to liven up your messages. They are completely customizable, and your iPhone can make a sticker out of almost any image with a clear subject.
@@ -46,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Circled plus icon in iMessage conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/circled-plus-icon-in-imessage-conversation.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  From here, you will see a menu with several options. Tap the "Stickers" button.
 
 ![Circled 'Stickers' button in iMessage addition menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/circled-stickers-button-in-imessage-addition-menu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here, you will be able to send any stickers you have already made, as well as add new ones. You can select a photo from your photo library by tapping the "+" button. Your iPhone will automatically cut the photo out from its background. If you tap and hold on one of your stickers, you can add fun effects, like a comic or puffy style.
 
@@ -60,6 +84,13 @@ Close
  Once you've created some stickers, you can send them the same way you'd send an image. You can even drag your stickers overtop of messages in your conversation.
 
 ![Sticker of sunglasses placed on top of a message in iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/img_4178.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  Edit and Unsend Messages 
 
@@ -72,8 +103,12 @@ Close
  If you press "Undo Send", the message will disappear. The other party will know you've unsent a message, but they will not be able to see what it was. If you edit a message, the other person will be able to see that it has been edited, as well as the original.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4  In-Line Threads 
 
  Whether you're having a long conversation with someone, or have a busy group chat, sometimes you want to respond to a specific iMessage from earlier in the conversation. Luckily, iMessage lets you do so with in-line threads. Replying to a specific message will link your response to it directly, as well as notify the sender that you've responded to their message.
@@ -82,9 +117,6 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  Flight Tracking 
 
  Communication is key when flying, especially if someone is planning to meet you when you land. Your iPhone can help make your airport communication that much easier with in-app flight tracking, allowing you to see the information about someone's flight right from the iMessage app.
@@ -102,8 +134,12 @@ Close
 ![Plus icon circled within iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/plus-icon-circled-within-imessage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This brings you to a menu with several options. Tap the "Location" button.
 
 ![iMessage options menu with 'Location' circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/imessage-options-menu-with-location-circled.png) 
@@ -111,6 +147,13 @@ Close
  From here, you have a few options. You can select "Request" to ask for the other person's location, which they can accept. You can also share your own location for one hour, until the end of the day, or indefinitely.
 
 ![iMessage location sharing options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/img_16909b176048-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once a location is shared, the other party can select the message and view the sender's location in real time.
 
@@ -122,16 +165,10 @@ Close
 
 ![iMessage menu with Show Recently Deleted button circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/img_4200.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you tap this button, you will be able to see conversations you have deleted recently. You can check off any conversations you want to recover, and tap the "Recover" button in the bottom-right corner to return them to your iMessage conversation list.
 
 ![iMessage recently deleted menu with 'Recover' button circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/img_4198-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 8  Voice Recordings With Transcriptions 
 
  Don't feel like typing? iMessage has you covered. You can send a voice message on iMessage for your conversation partner to listen to. It even comes with a transcription, so whoever you send it to can read what you've said if they're unable to listen.
@@ -141,27 +178,20 @@ Close
 ![Plus icon circled in an iMessage conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/plus-icon-circled-in-an-imessage-conversation.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once the "+" button is pressed, you are brought to a menu with several options. Press the "Audio" button.
 
 ![iMessage options with 'Audio' button circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/imessage-options-with-audio-button-circled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  As soon as you press the "Audio" button, your phone starts recording what you say. Once you have completed your message, press the "Stop" icon to end the recording. You can then listen to what you've said, and press the Send arrow to send it. Once it has sent, the other person will be able to play your message back, as well as read the transcription created.
 
 ![Audio message with transcription sent on iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/img_4202.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 9  Message Effects 
 
  Have you ever noticed confetti when you text someone "Congratulations", or balloons when you send "Happy Birthday"? These are iMessage effects, and you can use them whenever you want. There are all kinds of effects you can add to your messages that will play when they are opened. Lasers, hearts, a spotlight—you can even add invisible ink to your message, which will hide the text behind a blur until it's swiped over.
@@ -182,9 +212,6 @@ Close
 
 ![iMessage app with pinned contact circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/imessage-app-with-pinned-contact-circled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can unpin them at any time by pressing and holding on to their contact photo, and then selecting "Unpin".
 
 ---
@@ -197,8 +224,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +231,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-budget-conscious-obs-tweaks-and-tricks/"><u>[New] Budget-Conscious OBS Tweaks and Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevating-your-twitters-with-a-snapchat-integration/"><u>[Updated] 2024 Approved Elevating Your Twitters with a Snapchat Integration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplifying-macs-screen-recording-a-shortcut-hack-manual/"><u>[Updated] Simplifying Mac's Screen Recording A Shortcut Hack Manual</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pushing-videography-to-new-heights-with-the-1j5-camera/"><u>2024 Approved Pushing Videography to New Heights with the 1J5 Camera</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-switch-steps-to-migrate-information-from-iphone-to-android-devices/"><u>Easy Switch: Steps to Migrate Information From iPhone to Android Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-strategies-for-smooth-clear-sound-in-zoom-powered-podcasts/"><u>In 2024, Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streaming-aerial-adventures-on-fb-from-dji-drone/"><u>Streaming Aerial Adventures on FB From DJI Drone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-solutions-restoring-sound-during-calls-on-your-ios-and-android-devices/"><u>Troubleshooting Solutions: Restoring Sound During Calls on Your iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-tackle-and-prevent-rapid-apple-watch-power-depletion/"><u>Ultimate Guide: How to Tackle and Prevent Rapid Apple Watch Power Depletion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-must-have-magsafe-attachments-for-iphones-2023-edition/"><u>Ultimate Guide: Must-Have MagSafe Attachments for iPhones - 2023 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-elite-iphone-15-skins-and-shells/"><u>Ultimate Selection: Elite iPhone 15 Skins & Shells</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unbeatable-deal-apples-m1-ipad-air-at-its-all-time-low-price/"><u>Unbeatable Deal: Apple's M1 iPad Air at Its All-Time Low Price</u></a></li>
+</ul></div>
 

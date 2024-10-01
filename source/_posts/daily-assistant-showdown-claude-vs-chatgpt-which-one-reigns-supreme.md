@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2024-09-23T04:45:09.257Z
-updated: 2024-09-26T10:44:29.326Z
+date: 2024-09-29T01:16:49.516Z
+updated: 2024-09-30T20:42:34.778Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  GPT vs. Claude On The Web
 
 [Several companies compete in the AI race](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/), but two consistently make headlines and are followed by cutting-edge enthusiasts: OpenAI and Anthropic. Both companies have made significant progress in putting together an impressive web application that users can use for free, with some limitations.
@@ -32,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
 
@@ -60,16 +60,10 @@ Dibakar Ghosh / How-To Geek / Midjourney
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which App Performs Better?
@@ -88,13 +82,6 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -102,6 +89,13 @@ Jason Dookeran/How-to-Geek
  I ran both apps through basic algebra tests, US History, Geography, and Science. The questions I asked were simple enough that a tenth-grader would know them, and both engines responded correctly. The only difference here is Claude's response time, which consistently came in between four and five times faster than ChatGPT. Claude once again takes pole position, giving it an unassailable 3–0 lead.
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Hallucinations Still Happen On Mobile
 
@@ -126,20 +120,20 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-build-a-metaverse-identity-a-streamlined-design-process/"><u>[New] 2024 Approved Build a Metaverse Identity A Streamlined Design Process</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-prime-action-recorder-with-in-face-view-for-2024/"><u>[Updated] Prime Action Recorder with In-Face View for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-filmoras-creative-certification-protocol/"><u>[Updated] Understanding Filmora's Creative Certification Protocol</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-deciphering-screen-recorders-bandicam-or-camtasia/"><u>2024 Approved Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-guide-to-turn-off-ig-predictions/"><u>2024 Approved The Guide to Turn Off IG Predictions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/direct-connection-how-to-project-iphone-screen-onto-roku-television-no-wifi-required/"><u>Direct Connection: How to Project iPhone Screen Onto Roku Television, No WiFi Required</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-your-iphones-ios-journey-tips-for-personalizing-the-home-and-lock-screen-settings/"><u>Enhancing Your iPhone's iOS Journey: Tips for Personalizing the Home and Lock Screen Settings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-iphones-inability-to-connect-to-5g-networks-a-comprehensive-guide/"><u>Fixing iPhone's Inability to Connect to 5G Networks: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-nvidia-geforce-gtx-1660-drivers-update-a-comprehensive-tutorial-for-gamers-and-professionals/"><u>Hassle-Free NVIDIA GeForce GTX 1660 Drivers Update: A Comprehensive Tutorial for Gamers and Professionals</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-extract-written-content-from-images-using-your-phone-or-desktop/"><u>How to Effortlessly Extract Written Content From Images Using Your Phone or Desktop</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-zoom-on-apple-tv-with-airplay-a-step-by-step-guide-for-seamless-video-conferencing/"><u>How To Fix Zoom on Apple TV with AirPlay: A Step-By-Step Guide for Seamless Video Conferencing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro Max Without Passcode Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ps4-network-type-trouble-follow-this-comprehensive-fix-tutorial/"><u>PS4 Network Type Trouble? Follow This Comprehensive Fix Tutorial!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-for-casting-your-iphone-display-on-a-tv-screen-even-without-using-apples-device/"><u>Simple Steps for Casting Your iPhone Display on a TV Screen, Even Without Using Apple's Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/waiting-for-chatgpt-on-your-pc-heres-a-top-notch-open-source-chat-ai-to-get-you-started/"><u>Waiting for ChatGPT on Your PC? Here's a Top-Notch Open Source Chat AI to Get You Started!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-visual-storyteller-youtube-cinematic-training/"><u>[New] In 2024, Mastering the Visual Storyteller YouTube Cinematic Training</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-action-camera-boosters-and-their-buyers-guide/"><u>[Updated] 2024 Approved Action Camera Boosters and Their Buyer's Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-boosting-earnings-with-effective-social-media-video-marketing-techniques-for-2024/"><u>[Updated] Boosting Earnings with Effective Social Media Video Marketing Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-video-reach-optimize-tags-for-600esplus-growth-for-2024/"><u>[Updated] Elevate Video Reach Optimize Tags for $6,00Es+ Growth for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-12-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207064318-forza-horizon-asterisk-4-noise-solutions-eliminate-silence-and-enjoy-the-race-again/"><u>Forza Horizon Asterisk 4 Noise Solutions - Eliminate Silence and Enjoy the Race Again!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-recover-text-messages-and-media-files-from-an-ios-devices-itunes-backup/"><u>How to Recover Text Messages and Media Files From an iOS Device's iTunes Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-archive-your-messages-comprehensive-guide-to-sms-backup-for-iphone-and-android-devices/"><u>How to Securely Archive Your Messages: Comprehensive Guide to SMS Backup for iPhone and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-iphone-image-preservation-key-techniques-for-ios-1314-photo-backup-mastery/"><u>Mastering iPhone Image Preservation: Key Techniques for iOS 13/14 Photo Backup Mastery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-small-business-video-markets-for-2024/"><u>Navigating Small Business Video Markets for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-communications-easy-steps-for-archiving-text-messages-on-ios-and-android-phones/"><u>Protect Your Communications: Easy Steps for Archiving Text Messages on iOS & Android Phones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-to-boot-your-ipad-without-pressing-the-power-button/"><u>Simple Steps to Boot Your iPad Without Pressing the Power Button</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-strategies-how-to-seamlessly-save-your-iphones-sms-with-minimal-hassle/"><u>Simple Strategies: How to Seamlessly Save Your iPhone's SMS with Minimal Hassle</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securely-syncing-your-ipad-pro-mini-air-with-icloud/"><u>Step-by-Step Guide: Securely Syncing Your iPad (Pro, Mini, Air) with iCloud</u></a></li>
 </ul></div>
 

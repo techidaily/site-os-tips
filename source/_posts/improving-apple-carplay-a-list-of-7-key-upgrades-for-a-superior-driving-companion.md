@@ -1,7 +1,7 @@
 ---
 title: "Improving Apple CarPlay: A List of 7 Key Upgrades for a Superior Driving Companion"
-date: 2024-09-01T06:57:14.190Z
-updated: 2024-09-02T06:57:14.190Z
+date: 2024-09-26T18:47:55.027Z
+updated: 2024-10-01T12:35:13.540Z
 tags:
   - ios
 categories:
@@ -35,6 +35,13 @@ Jason Montoya / How-To Geek
 
  You’d probably have to trigger the mode manually from Control Center. Savvy drivers could [build an automation in Shortcuts](https://extra-lessons.techidaily.com/peak-performance-win-tunes/) that triggers the interface whenever the iPhone connects to a specific Bluetooth device (your old car is more likely to have wireless audio than Apple CarPlay or Android Auto, after all).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  A “Driving Stats” App 
 
  Your iPhone has access to all sorts of information at any given time, including direction of travel, precise location and the name of the area you’re currently driving through, current elevation, and some approximation of your speed based on GPS data.
@@ -45,9 +52,6 @@ Jason Montoya / How-To Geek
 
  GPS speedometers are available on the App Store, and some navigation apps, such as Google Maps, already include this feature. Your iPhone has a compass app that includes your elevation and bearing. Maps knows exactly where you are. A “Driving Stats” app could simply put this information into an interface that is easy to read at a glance.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 3  Improved and Customizable Notifications 
 
  This could be a result of the low-resolution display on the older model of Volkswagen Golf that I drive, but CarPlay notifications don’t work quite how I’d like them to. Turn-by-turn directions appear at the bottom of the screen, frequently obscuring the “Home” button, scroll buttons in Maps, and even media controls.
@@ -58,12 +62,16 @@ Jason Montoya / How-To Geek
 
 ![Apple iPhone 15 volume buttons and mute switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-19.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  If you have an iPhone 15 or later that lacks the physical mute toggle, Apple has added a “Set Silent Mode” trigger in Shortcuts. You could use this to create a Shortcut that toggles mute, then create an Automation that uses connecting to CarPlay as the trigger. The rest of us have to remember to switch modes physically.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Improvements to Apple Maps 
 
@@ -71,9 +79,6 @@ Corbin Davenport / How-To Geek
 
 ![An unsealed rural Australian road.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_8018.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  I find that Apple Maps has more up-to-date and detailed Street View imagery compared with Google, which makes it great for planning trips and scouting out destinations before I get in the car. Siri’s route suggestions are genuinely useful since I’m a creature of habit. But Maps could do with some improvements.
@@ -85,8 +90,12 @@ Tim Brookes / How-To Geek
  The beauty of modern navigation systems is that they quickly course-correct and get you back on track, but I’d still rather have a bit more transparency. Zooming out on the Maps view can provide some help here, but I’d rather not be squinting at the map or scrolling around on the touchscreen when I’m supposed to be paying attention to the road.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5  Better Apple Music Controls 
 
  As an Apple Music subscriber, I’m mostly satisfied with how the service integrates with CarPlay. The limited interface means that you can’t do too much while you’re supposed to be concentrating on the road, but sometimes it feels a little too restrictive.
@@ -97,9 +106,6 @@ Tim Brookes / How-To Geek
 
 ![Apple Music Now Playing screen while streaming internet radio.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_2498.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  The Now Playing screen could also use some work. Why can’t I see the usual Apple Music tabs at the top of the screen, so I don’t have to tap “Back” to close Now Playing and then select the tab I want? Why can't I scrub through songs using the progress bar (the same is true in Apple’s Podcasts app)?
 
 ## 6  Better Internet Radio 
@@ -113,14 +119,24 @@ Tim Brookes / How-To Geek
  Anything would be better than the current situation. Apple made [a brand new app just for classical music](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-8-without-previous-owner-by-drfone-ios/), so maybe it’s time for a separate internet radio app too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7  A Better Siri (Coming Soon) 
 
  Siri is the safest way to interact with your iPhone when using CarPlay since it doesn’t involve taking your eyes off the road or touching a screen. Unfortunately, [Siri is still pretty bad in iOS 17](https://fox-http.techidaily.com/updated-2024-approved-delving-into-magix-photo-editors-features/).
 
 ![The Siri icon in Apple CarPlay.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_2500.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The good news is that Apple will be making some big improvements to Siri with the arrival of [Apple Intelligence in iOS 18](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/). The bad news is that [not all iPhone owners will get access to Apple Intelligence](https://some-tips.techidaily.com/2024-approved-unlocking-success-in-live-streaming-of-cricket-matches/). You’ll need an iPhone 15 Pro at least to get access to the new assistant.
 
@@ -138,8 +154,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +161,22 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-most-shared-tweets-of-the-year-viewer-analysis/"><u>[New] 2024 Approved Most Shared Tweets of the Year Viewer Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-to-a-consensus-in-news-endings/"><u>[New] In 2024, Cutting to a Consensus in News Endings</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-analyzing-which-chatbot-takes-the-lead-in-intelligent-conversations/"><u>Claude Vs. ChatGPT: Analyzing Which Chatbot Takes the Lead in Intelligent Conversations.</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/clayton-c-peddy-leading-abbyy-as-the-esteemed-chief-information-security-officer/"><u>Clayton C. Peddy: Leading ABBYY as the Esteemed Chief Information Security Officer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-premium-white-hd-backgrounds-for-iphones-at-no-cost/"><u>Download Premium White HD Backgrounds for iPhones at No Cost</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-reduce-cpu-load-during-phasmophobia-gameplay/"><u>Effective Strategies to Reduce CPU Load During Phasmophobia Gameplay</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/innovative-tricks-for-powering-up-your-iphone-without-traditional-methods/"><u>Innovative Tricks for Powering Up Your iPhone without Traditional Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keeping-private-how-to-set-a-password-on-your-iphones-note-app-for-added-security/"><u>Keeping Private: How to Set a Password on Your iPhone's Note App for Added Security</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixels-personal-soundtrack-a-selection-guide/"><u>Pixel's Personal Soundtrack A Selection Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simplified-group-communication-the-ultimate-guide-for-sending-group-texts-on-ios-and-android/"><u>Simplified Group Communication: The Ultimate Guide for Sending Group Texts on iOS & Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-boot-sector-virus-error-code-0xc00000e9-on-windows-pcs/"><u>Step-by-Step Solution for Boot Sector Virus (Error Code 0xC00000E9) on Windows PCs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-mirroring-ipads-on-chromecast-plus-the-ideal-substitutes/"><u>The Ultimate Guide to Mirroring iPads on Chromecast – Plus the Ideal Substitutes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-ios-17-release-will-your-iphone-8-be-upgradable/"><u>Upcoming iOS 17 Release: Will Your iPhone 8 Be Upgradable?</u></a></li>
+</ul></div>
 

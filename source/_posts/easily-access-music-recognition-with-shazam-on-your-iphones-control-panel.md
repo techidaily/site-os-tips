@@ -1,7 +1,7 @@
 ---
 title: Easily Access Music Recognition with Shazam on Your iPhone's Control Panel
-date: 2024-09-01T06:58:57.329Z
-updated: 2024-09-02T06:58:57.329Z
+date: 2024-09-27T12:33:03.342Z
+updated: 2024-09-30T16:33:46.813Z
 tags:
   - ios
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap the 'Settings' app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-tap-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, scroll down and select the "Control Center" option.
 
 ![Tap 'Control Center' in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-control-center.png) 
@@ -40,9 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap and hold the three-line icon, then drag Music Recognition up or down to change where it appears.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-tap-three-line-hamburger-menu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Use Shazam's Music Recognition Button on iPhone and iPad
 
  Now, with the Shazam button added to your iPhone or iPad, it's time to use the music recognition feature.
@@ -52,22 +56,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Tap the shazam icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-tap-shazam-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once active and listening for music, the Shazam button will light up and slowly pulse.
 
 ![The Shazam icon turns blue when it is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-shazam-button-is-active.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  When the song is identified, a banner notification will appear at the top of your display. Tap on it to learn more about the song and artist.
 
 ![The identified song will be displayed at the top of the Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-song-identifeid.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the music isn't recognized after 10 to 15 seconds, a notification will let you know that it couldn't find anything.
 
  The "Music Recognition" notification will also appear on your lock screen and Notification Center if you missed the banner. 
@@ -75,15 +77,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The identified song displayed at the bottom of the Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-hey-jude-the-beatles.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You will be taken to Shazam's website after tapping on the "Music Recognition" notification. Here, you can listen to a preview of the song, add it to your Apple Music library, read the song's lyrics, and more.
 
 ![An identified song open to the Shazam site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-the-song-on-shazam.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want additional functionality, you can also [install the Shazam app from the App Store](https://apps.apple.com/us/app/shazam-music-discovery/id284993459). It lets you view you Shazam history, generate playlists based on what you Shazamed, and more.
 
 <ins class="adsbygoogle"
@@ -92,8 +102,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +109,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-dive-deep-into-tiktoks-voiceover-realm-for-2024/"><u>[New] Dive Deep Into TikTok's Voiceover Realm for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-ppt-transformers-to-vimeo/"><u>[New] In 2024, Expert PPT Transformers to Vimeo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/data-collection-and-analysis/"><u>Data Collection and Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/five-effective-methods-to-troubleshoot-and-repair-your-non-responsive-ipad-power-buttons/"><u>Five Effective Methods to Troubleshoot and Repair Your Non-Responsive iPad Power Buttons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-and-fix-iphone-charging-issues-under-different-scenarios/"><u>How To Troubleshoot and Fix iPhone Charging Issues Under Different Scenarios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-unveiling-its-role-in-modern-machine-learning/"><u>Hugging Face: Unveiling Its Role in Modern Machine Learning</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>In 2024, How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-navigating-instagrams-pathway-to-picture-posting/"><u>In 2024, Navigating Instagram's Pathway to Picture Posting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-imyfone-fixppo-effective-comprehensive-guide-and-insights-into-this-iphone-unlocking-solution/"><u>Is iMyFone Fixppo Effective? Comprehensive Guide and Insights Into This iPhone Unlocking Solution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-top-7-remedies-when-your-iphone-cant-open-outlook/"><u>Quick Fixes: Top 7 Remedies When Your iPhone Can't Open Outlook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-ways-to-speed-up-your-iphones-battery-charging-rate-proven-strategies/"><u>Quick Ways to Speed Up Your iPhone's Battery Charging Rate - Proven Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-tracking-your-ios-device-with-find-my-feature-via-mac-comprehensive-tutorial/"><u>Step-by-Step Guide: Tracking Your iOS Device with 'Find My' Feature via Mac [Comprehensive Tutorial]</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ramayana-of-valmiki-translation-by-mn-kutty/"><u>The Ramayana of Valmiki (Translation by M.N Kutty)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-m34-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy M34 5G Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-backspace-key-functionality-issues/"><u>Troubleshooting Guide: Fixing 'Backspace Key' Functionality Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-when-your-facebook-messenger-app-continuously-shuts-down/"><u>Troubleshooting Tips for When Your Facebook Messenger App Continuously Shuts Down</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-iphone-potential-with-dfu-mode-comprehensive-entry-and-egress-strategies/"><u>Unlock Your iPhone Potential with DFU Mode: Comprehensive Entry & Egress Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-future-of-wearables-rumors-surrounding-the-new-apple-rings-release-date-and-specifications/"><u>Unveiling the Future of Wearables: Rumors Surrounding the New Apple Ring's Release Date & Specifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171456866-upgrade-to-efficiency-embrace-the-newest-nvidia-drivers-now/"><u>Upgrade to Efficiency: Embrace the Newest Nvidia Drivers Now!</u></a></li>
+</ul></div>
 

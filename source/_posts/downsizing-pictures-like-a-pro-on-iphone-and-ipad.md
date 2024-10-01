@@ -1,7 +1,7 @@
 ---
 title: Downsizing Pictures Like a Pro on iPhone & iPad
-date: 2024-09-01T06:57:00.501Z
-updated: 2024-09-02T06:57:00.501Z
+date: 2024-09-28T12:00:41.422Z
+updated: 2024-10-01T07:32:53.661Z
 tags:
   - ios
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The editor in the Photos app is quite feature-rich, but you can't change the file size of photos. Luckily, you can use a shortcut or a third-party app to resize or reduce photo size on iPhone and iPad. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Resize a Photo Using Shortcuts
 
  If you need to reduce a photo's resolution or file size, look no further [than the Shortcuts app](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/). Shortcuts is Apple's built-in automation tool that helps you create your own tools and simplify multi-step processes that you perform frequently.
@@ -27,8 +34,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Just looking to crop a photo, rather than make the entire image smaller? You can [crop images in the Photos app](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) itself by tapping the "Edit" button.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Creating an Image Resize Shortcut
 
  Using Shortcuts, you can create simple automations that follow predefined steps. In this guide, we'll create a shortcut that can take single or multiple photos, resize them based on your input, and save the resulting output back to the Photos app.
@@ -48,13 +59,14 @@ Close
 ![The 'Resize' function followed by a 'Save' function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/8saveimage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Adding the Shortcut to the Share Sheet
 
  The shortcut is now created. Open the dropdown menu near the "Done" button, and select "Rename." Name the Shortcut whatever you like, but make it logical. Three Shortcuts named "sdklfhk," "ahjsdbn," and "qwuioeq" wouldn't be helpful.
@@ -66,8 +78,12 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Using the Shortcut to Resize an Image
 
  You're all done in the Shortcuts app. Next, launch Photos on your iPhone or iPad. In Photos, select a photo (or the photos) that you want to resize and tap the "Share" button (which looks like a square with an arrow pointing upward from it).
@@ -78,18 +94,6 @@ Close
 
  If you tried increasing the size of an image and it came out blurry or pixelated, you can [try a free or paid AI tool to upscale it](https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y36i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/) instead.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Resize a Photo Using a Third-Party App
 
  While Shortcuts can be a great tool for power users (a single shortcut can save you a lot of time if you're going to be resizing images often), taking the time to create the shortcut can feel like overkill if you only want to resize a few photos every now and then.
@@ -116,8 +120,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +127,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-overcoming-crusader-kings-3-shutdowns-and-restarts-on-your-computer/"><u>[FIXED] Overcoming Crusader Kings 3 Shutdowns and Restarts on Your Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fundamentals-of-copywriting-for-engaging-fb-campaigns-for-2024/"><u>[New] Fundamentals of Copywriting for Engaging FB Campaigns for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions-for-2024/"><u>[New] Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-metaverse-meme-creation-tips-and-trends/"><u>[Updated] Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-access-and-use-your-tv-service-through-your-iphone/"><u>Complete Guide: How to Access and Use Your TV Service Through Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-ipod-touch-generation-2-video-conversion-handbook-easy-guide-for-media-transfer/"><u>Comprehensive iPod Touch Generation 2 Video Conversion Handbook – Easy Guide for Media Transfer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-guide-resolving-your-apple-id-login-problems-swiftly/"><u>Expert Guide: Resolving Your Apple ID Login Problems Swiftly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-ios-device-superuser-access-create-passwords-and-usernames-on-the-go/"><u>Free iOS Device Superuser Access: Create Passwords & Usernames on the Go</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-i-replace-a-broken-or-missing-key-on-my-laptops-keyboard/"><u>How Do I Replace a Broken or Missing Key on My Laptop's Keyboard?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-secure-your-whatsapp-with-a-strong-password-on-iphone-and-android-devices/"><u>How to Secure Your WhatsApp with a Strong Password on iPhone & Android Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27e-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27e Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-video-editing-for-dummies-10-essential-youtube-insights/"><u>In 2024, Video Editing for Dummies 10 Essential YouTube Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-social-shares-comprehensive-instagram-posting-strategies-for-ultimate-engagement/"><u>Master the Art of Social Shares: Comprehensive Instagram Posting Strategies for Ultimate Engagement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-integration-a-comprehensive-guide-on-using-manycam-with-skype/"><u>Mastering the Integration: A Comprehensive Guide on Using ManyCam with Skype</u></a></li>
+<li><a href="https://os-tips.techidaily.com/personalizing-your-iphone-experience-a-step-by-step-guide-to-modifying-fonts-on-your-device/"><u>Personalizing Your iPhone Experience: A Step-by-Step Guide to Modifying Fonts on Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-effortlessly-blurring-images-and-portions-on-your-iphone/"><u>Quick Guide: Effortlessly Blurring Images & Portions on Your iPhone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-drives-update-guide-for-winos/"><u>Speedy Drives Update Guide for WINOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-project-your-iphone-screen-onto-any-television-with-and-without-an-apple-tv/"><u>Ultimate Guide: How to Project Your iPhone Screen Onto Any Television – With and Without an Apple TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-7-mac-focused-vids-for-2024/"><u>Ultimate List 7 Mac-Focused Vids for 2024</u></a></li>
+</ul></div>
 

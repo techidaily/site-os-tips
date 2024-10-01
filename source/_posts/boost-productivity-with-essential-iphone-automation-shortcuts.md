@@ -1,7 +1,7 @@
 ---
 title: Boost Productivity with Essential iPhone Automation Shortcuts
-date: 2024-09-01T06:57:55.102Z
-updated: 2024-09-02T06:57:55.102Z
+date: 2024-09-27T17:49:18.863Z
+updated: 2024-10-01T12:17:41.951Z
 tags:
   - ios
 categories:
@@ -39,9 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can add the shortcuts mentioned below if you're reading this article on an iPhone, iPad, or Mac using the included links. We've also included instructions for finding them in the Shortcuts gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Going Into Work Mode
 
  Setting goals and sticking to them can seem like the end of the world when you wake up feeling lazy. And if you have had one of these days while having to work on something important (especially from home), you desperately need a dose of motivation.
@@ -61,8 +58,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Honorable mentions for work-related shortcuts include "[Start My Next Meeting](https://www.icloud.com/shortcuts/4bb3717f0c8645708dbd2424e68924ad)" plus "[How Many Days Until](https://www.icloud.com/shortcuts/fceeb63e141a487c90fd947bab22ea5d)" and "[Create Meeting Note](https://www.icloud.com/shortcuts/17f708d05efe463faf6bf1e1de5dd248)."
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Keeping Track of What I Drink
 
  Logging my water intake is critical, and Shortcuts lets me do that in a few simple taps.
@@ -71,18 +72,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Log Water in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Configure this shortcut in the app to change how you want your water intake to be measured.
 
 ![Log Water in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_9946.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Another hydration-related shortcut is "[Log Caffeine](https://www.icloud.com/shortcuts/6d04d2498fb54440bac9e122a2d03fbd)," which lets you log what type of coffee you have, and which size. "[Tea Timer](https://www.icloud.com/shortcuts/503898ba627c401f989b292f96244173)" is also a fun one, letting you choose from a menu of teas including black, green, and oolong, then chimes your phone when your tea break is over.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Getting My Workout In
 
  Another crucial aspect of a productive day is movement. Shortcuts lets you [track your weight](https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-yuva-2-drfone-by-drfone-virtual-android/), workouts, and activity with actions integrated with Apple Health. These shortcuts are also convenient to use through the Apple Watch.
@@ -102,8 +111,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Reflect on the Day in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_30.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Create Your Own Shortcuts
 
  If you are looking for something beyond what Shortcuts gallery offers, you can build a shortcut from scratch.
@@ -113,8 +126,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Add Action in a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_35.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, you can click on variables and change them. By clicking on the drop-down menu, you can rename the action, choose a different icon, or duplicate it. Learning how to properly use Shortcuts will help you get the most out of it.
 
 ---
@@ -129,8 +146,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +153,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-4k-monitors-for-mac-the-ultimate-list/"><u>[Updated] 2024 Approved Best 4K Monitors for Mac - The Ultimate List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-comprehensive-list-of-premium-windows-edits-apps/"><u>[Updated] 2024 Approved Comprehensive List of Premium Windows Edits Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-optimize-your-next-4k-camera-lens-purchase/"><u>[Updated] How to Optimize Your Next 4K Camera Lens Purchase</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-resolve-iphone-6s-unresponsive-zoom-issue-top-5-proven-strategies/"><u>Effortless Ways to Resolve iPhone 6'S Unresponsive Zoom Issue: Top 5 Proven Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-resolve-your-idevices-find-my-feature-why-it-wont-share-location-and-how-to-fix-it/"><u>Effortlessly Resolve Your iDevice's 'Find My' Feature: Why It Won't Share Location & How To Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-audio-problems-with-microphones-on-windows-11-computers/"><u>Guide to Resolving Audio Problems with Microphones on Windows 11 Computers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-a-non-functioning-voice-recording-app-on-your-device/"><u>How to Fix a Non-Functioning Voice Recording App on Your Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y78plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y78+ Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-g310-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia G310</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-remedies-resolving-itunes-error-14-within-minutes-top-10-methods/"><u>Quick & Easy Remedies: Resolving iTunes Error 14 Within Minutes - Top 10 Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-itunes-error-code-3194-three-guaranteed-methods-for-a-smooth-download/"><u>Resolving iTunes Error Code 3194: Three Guaranteed Methods for a Smooth Download</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-iphones-facial-recognition-top-7-methods-to-restore-face-id-functionality/"><u>Revive Your iPhone's Facial Recognition: Top 7 Methods to Restore Face ID Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-savings-with-our-expert-advice-on-buying-refurbished-iphone-models-online-at-unbeatable-prices/"><u>Secure Your Savings with Our Expert Advice on Buying Refurbished iPhone Models Online at Unbeatable Prices</u></a></li>
+<li><a href="https://article-files.techidaily.com/sharpfocusx7-size-your-photography-right/"><u>SharpFocusX7 Size Your Photography Right</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-causes-of-iphone-voicemail-issues-and-comprehensive-solutions/"><u>Top 10 Causes of iPhone Voicemail Issues and Comprehensive Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!"
-date: 2024-09-20T09:01:52.440Z
-updated: 2024-09-26T01:13:53.925Z
+date: 2024-09-29T02:40:03.711Z
+updated: 2024-09-30T18:20:36.375Z
 tags:
   - ios
 categories:
@@ -25,31 +25,38 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![Apple Watch Ultra underwater](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/11c676ed.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Apple_
 
  In the end, it turns out that even the humble mainstream Apple Watch would have been good enough, and the Watch Ultra was never really put to the test. While I'm sure that there are plenty of extreme athletes out there who really need an Ultra, for most people it's probably like having an SUV in the suburbs, never seeing anything steeper than a curb.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fitness Features Don’t Need a Smartwatch Anymore
 
  One of the main reasons we started using smartwatches in the first place was to track our daily steps and ensure that we were getting enough exercise. The thing is, you don't actually need a "smart" watch to do that anymore. At least when it comes to tracking steps. Watchmakers like Casio now offer regular [watches with Bluetooth](https://www.amazon.com/Casio-G-Shock-Step-Tracker-Bluetooth-GBA-800UC-5ACR/dp/B07PLT244R?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003048&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmy-wife-ditched-her-apple-watch-ultra-for-a-casio-and-you-might-too%2F&asc%5Fcampaign=Evergreen) that still lets you connect to an app and collect basic fitness data. Likely enough for the average person who isn't specifically a fitness nut, but just wants to know if they got their 10K steps in for the day.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Constant Charging Is an Utter Pain
 
 ![Apple Watch Ultra box contents spread out on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/070ea52d.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Bill Loguidice / Review Geek_
 
@@ -59,27 +66,20 @@ _Bill Loguidice / Review Geek_
 
 ![Showing a Apple Watch Ultra 2 on a wrist](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-1.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tyler Hayes / How-To Geek
 
  While this has more to do with overall smartwatch fatigue than the Ultra in particular, one major reason for my significant other reaching the end of her rope and changing to a Casio "dumb" watch is that there's no hiding from your phone notifications. This wouldn't be so bad if you could deal with those notifications on the watch itself. However, in most cases she'd have to pull out her iPhone anyway to reply, see a picture, watch a video, or whatever else the notification was about. So the watch wasn't even cutting down on her phone time, it was just putting a superfluous step in front of pulling the phone out one way or another.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Ultra Keeps Waking Her Up at Night
 
  Since that longer battery life doesn't mean she didn't have to charge the watch overnight anyway, it brought up another annoying issue. We invested in one of those triple-charger stands that holds an iPhone, Apple Watch, and AirPods at the same time. However, the Watch Ultra would light up randomly during the night, waking her up. She even tried turning the watch off completely before putting it on charge, but it would eventually turn itself on while charging. Sure, you could just shove it in a drawer, but that defeats the
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Obvious Features Are Still Missing From the Ultra
 
@@ -102,20 +102,20 @@ Tyler Hayes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-secrets-to-mastering-photosvideos-in-windows-11-for-2024/"><u>[New] Secrets to Mastering Photos/Videos in Windows 11 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphones-guide-to-night-photography-excellence/"><u>[Updated] IPhone's Guide to Night Photography Excellence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-fun-navigating-ifunny-meme-app/"><u>2024 Approved Unlocking Fun Navigating iFunny Meme App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/accelerate-your-macs-safari-tips-for-achieving-lightning-fast-load-times/"><u>Accelerate Your Mac's Safari - Tips for Achieving Lightning-Fast Load Times</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-for-when-your-airpods-refuse-to-pair-with-a-macbook-a-step-by-step-guide/"><u>Effective Solutions for When Your AirPods Refuse to Pair With a MacBook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/einbinden-von-isos-in-windows-1087-eine-effiziente-methode-zum-brennen-von-daten-auf-dvds-erklart/"><u>Einbinden Von ISOs in Windows 10/8/7: Eine Effiziente Methode Zum Brennen Von Daten Auf DVDs Erklärt</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f15-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F15 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-12-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 12 and iPad Securely</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nokia-130-music-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nokia 130 Music via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/swift-fixes-stellar-and-apple-mov-collaboration/"><u>Swift Fixes: Stellar & Apple MOV Collaboration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-quicktime-issues-solutions-for-mac-users/"><u>Troubleshooting QuickTime Issues: Solutions for Mac Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-protecting-your-content-efficient-macmacbook-backup-techniques-using-internal-and-external-storage-devices/"><u>Ultimate Guide to Protecting Your Content: Efficient Mac/MacBook Backup Techniques Using Internal and External Storage Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-preserve-your-memories-secure-mac-photo-storage-techniques/"><u>Ultimate Guide: Preserve Your Memories - Secure Mac Photo Storage Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unmasking-bogus-antivirus-alerts-learn-5-effective-defense-tactics/"><u>Unmasking Bogus Antivirus Alerts - Learn 5 Effective Defense Tactics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>[New] Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spin-cycle-in-the-ice-arena-of-22/"><u>[Updated] Spin Cycle in the Ice Arena of '22</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-to-restore-video-input-on-displays-guide/"><u>DIY Solutions to Restore Video Input on Displays (Guide)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a34-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A34 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-capturing-content-with-confidence-winning-strategies-for-igtv-acquisition/"><u>In 2024, Capturing Content with Confidence Winning Strategies for IGTV Acquisition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-13-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 13 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-minecraft-screen-capture-a-mac-guide/"><u>Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protonmail-and-protoncalendar-update-introducing-over-38-enhancements/"><u>ProtonMail & ProtonCalendar Update: Introducing Over 38 Enhancements!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revamped-and-reimagined-a-comprehensive-review-of-the-new-belkin-qi2-boostcharge-pro-dual-wall-and-car-mount-a-modern-take-on-an-iconic-3-in-1-iphone-charge19/"><u>Revamped and Reimagined: A Comprehensive Review of the New Belkin Qi2 BoostCharge Pro Dual Wall & Car Mount, a Modern Take on an Iconic 3-in-1 iPhone Charger</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revamping-the-experience-the-upcoming-transformation-of-apple-watch-software/"><u>Revamping the Experience: The Upcoming Transformation of Apple Watch Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-integration-your-guide-to-connecting-iphone-with-mac/"><u>Seamless Integration: Your Guide to Connecting iPhone with Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-non-rotating-screens-on-your-iphoneipad/"><u>Solving the Issue of Non-Rotating Screens on Your iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-accessing-stored-credit-card-information-on-your-ios-safari-browser/"><u>Step-by-Step Guide: Accessing Stored Credit Card Information on Your iOS Safari Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-graphics-drivers-to-enhance-your-minecraft-adventures-in-windows/"><u>Troubleshooting Graphics Drivers to Enhance Your Minecraft Adventures in Windows</u></a></li>
 </ul></div>
 

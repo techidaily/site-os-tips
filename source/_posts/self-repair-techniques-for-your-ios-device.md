@@ -1,7 +1,7 @@
 ---
 title: Self-Repair Techniques for Your iOS Device
-date: 2024-09-01T06:59:29.542Z
-updated: 2024-09-02T06:59:29.542Z
+date: 2024-09-30T02:51:54.275Z
+updated: 2024-09-30T21:08:51.174Z
 tags:
   - ios
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Is your [iPhone](https://vimeo-videos.techidaily.com/in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/) not working like it used to? Is the screen or another part of the hardware physically broken? You do have some DIY options if you want to fix your iPhone yourself. We'll tell you what you need to know and walk you through the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  First: Determine the Extent of The Repairs
 
  Before you start, it's important to understand how much damage you've incurred and what likely needs to be replaced. This can help you decide which route you want to go with the repair or whether or not to bother with the repair process at all. Sometimes it makes more sense to [replace an iPhone outright](https://screen-sharing-recording.techidaily.com/updated-2024-approved-creative-mc-survival-habitat-concepts/), even if you turn to the second-hand market.
@@ -42,8 +39,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If your smartphone is a complete mess, but you want to [avoid spending top dollar for a brand new iPhone](https://youtube-tips.techidaily.com/ed-secure-extraction-of-audio-from-youtube-at-zero-cost/), try buying used instead. Just run through [a few checks before you buy a used iPhone](https://games-able.techidaily.com/8-crucial-tweaks-that-can-elevate-your-ps4s-capabilities/) including checking [whether it's been repaired already](https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/).
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Apple's Self Repair Program to Fix Your Own iPhone
 
  Apple [launched its Self Service Repair program](https://www.reviewgeek.com/103437/hell-freezes-over-apple-announces-a-self-service-repair-program/) in 2022\. This allows the owners of some iPhone models to rent tools and purchase parts in order to repair their own iPhones.
@@ -58,9 +59,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Remove iPhone display with iPhone repair kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/apple_repair_tools.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 _Apple_
 
  When you order parts, you'll need to supply [the serial number](https://facebook-record-videos.techidaily.com/new-in-2024-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/) of the iPhone you are repairing. You'll find this under Settings > General > About, on the original box, and listed under the device list accessible via [your Apple ID](https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-s17t-drfone-by-drfone-virtual-android/) on another Apple device. The parts you order are locked to this serial number, so make sure you get it right.
@@ -68,6 +66,13 @@ _Apple_
  From here, it's a case of following the instructions in Apple's manual to complete the repair. Once you're done, you can return the old parts to Apple for recycling. Apple offers credit for many of the parts for sale in its repair store, which will be credited to the payment method used to rent tools and purchase parts.
 
 [Self repair using this method isn't cheap](https://win11.techidaily.com/discover-your-ip-command-prompt-guide-for-pcs/). To replace a cracked iPhone 13 display, you're looking at $49 for tool rental and $269.95 for the display bundle. Returning your old display nets you a $33.60 credit, which means your total out-of-pocket cost would be $285.35 without considering the time you spend on the repair.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Third-Party Tools and Parts to Fix Your Own iPhone
 
@@ -83,9 +88,6 @@ _Apple_
 
 ![iFixit Pro Tech Toolkit with manual](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52675222665_a0052ed794_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Marcus Mears III / How-To Geek
 
  Cost-wise, iFixit often works out slightly cheaper than Apple. For an iPhone 13 display replacement you can buy [a kit](https://www.ifixit.com/products/iphone-13-screen) that has everything you need in it for $239.99\. You can then follow the [iFixit iPhone 13 Screen Replacement guide](https://www.ifixit.com/Guide/iPhone+13+Screen+Replacement/145897) which has detailed steps for those specific tools.
@@ -101,12 +103,12 @@ Marcus Mears III / How-To Geek
 ![Shutterstock_1070504012-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1070504012-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 From the Commerce Team
 
 #####  Stop Paying for AppleCare+ and Save Money with AKKO Instead
@@ -116,8 +118,12 @@ Whether you're dealing with a cracked screen, liquid damage, or even a lost/stol
 [See at Getakko](https://akko.pxf.io/c/156932/1055578/13571?subId1=UUhtgUeUpU206070&subId2=ehtg&u=https%3A%2F%2Fdeals.getakko.com%2Fsignup%2Fphone-protection-5%2F&ourl=https%3A%2F%2Fdeals.getakko.com%2Fsignup%2Fphone-protection-1mo-2%2F%22target%3D%22%5Fblank) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Take Your iPhone to a Repair Shop
 
  Your last option is to take your phone to a standard repair shop that lacks Apple authorization. This comes with many of the same pitfalls as taking the iFixit route (some features may not work correctly afterward), but you won't have to perform the work yourself, and the cost will likely be cheaper than any of the other options.
@@ -136,8 +142,6 @@ Whether you're dealing with a cracked screen, liquid damage, or even a lost/stol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +149,16 @@ Whether you're dealing with a cracked screen, liquid damage, or even a lost/stol
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tele-loop-techniques-easy-endless-watching-on-television/"><u>[Updated] Tele-Loop Techniques Easy, Endless Watching on Television</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pilot-to-producer-editing-mastery-in-drone-filmmaking/"><u>2024 Approved From Pilot to Producer Editing Mastery in Drone Filmmaking</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-outage-check-learn-these-5-techniques-to-confirm-if-its-operational/"><u>ChatGPT Outage Check - Learn These 5 Techniques to Confirm If It's Operational</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/client-speaks-on-data-revival/"><u>Client Speaks on Data Revival</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-battery-life-7-proven-strategies-to-get-your-android-phone-charging-again/"><u>Reviving Battery Life: 7 Proven Strategies to Get Your Android Phone Charging Again</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-gain-full-control-over-your-android-device-using-kingroot/"><u>Step-by-Step Guide: Gain Full Control Over Your Android Device Using KingRoot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-smartphone-why-it-wont-power-up-and-effective-solutions-that-work/"><u>Troubleshooting Your Smartphone: Why It Won’t Power Up & Effective Solutions That Work</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-accelerating-android-devices-discover-the-leading-10-boosters-for-peak-performance/"><u>Ultimate Guide to Accelerating Android Devices: Discover the Leading 10 Boosters for Peak Performance</u></a></li>
+</ul></div>
 

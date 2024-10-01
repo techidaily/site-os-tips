@@ -1,7 +1,7 @@
 ---
 title: Guide to Creating and Adding Interactive Buttons on iOS Devices
-date: 2024-09-22T21:25:08.022Z
-updated: 2024-09-26T07:53:46.102Z
+date: 2024-09-30T08:39:04.517Z
+updated: 2024-09-30T20:08:50.575Z
 tags:
   - ios
 categories:
@@ -31,19 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Go to "Assistive Touch" and toggle it on at the top of the screen.
 
 ![Toggle on "Assistive Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-21_16-49-36.png) 
@@ -52,22 +39,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap "Top Level Menu."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0373.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select one of the shortcuts and replace it with one of the available actions. Do this for as many of the slots as you'd like.
 
 ![Select a shortcut and an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0375.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, when you open the menu, you'll have quick access to the actions you selected.
@@ -75,17 +55,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Action buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0377.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want even easier access to a specific action, you can select it as the Single-Tap, Double-Tap, or Long Press option for the floating button. This way you don't have to open the menu all the way.
 
 ![Custom Actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0378.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, a virtual button on the screen is not as convenient as a physical button, but it does have the added benefit of having more than one action.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Back of the iPhone as an "Action Button"
 
@@ -93,16 +87,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll down to "Back Tap."
 
 ![Select "Back Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0379.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the "Double Tap" or "Triple Tap" gesture.
 
@@ -141,20 +135,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-redirect-macs-image-backup-to-new-folder/"><u>[Updated] In 2024, Redirect Mac's Image Backup to New Folder</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/comprehensive-review-transforming-pc-setup-with-plugable-11-in-1-multi-port-hdmi-hub-the-ultimate-companion-for-seamless-windows-task-management/"><u>Comprehensive Review: Transforming PC Setup with Plugable 11-in-1 Multi-Port HDMI Hub - The Ultimate Companion for Seamless Windows Task Management</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-tech-meets-elegance-in-samsung-un65ru8000fxzas-smart-tv-features/"><u>Cutting-Edge Tech Meets Elegance in Samsung UN65RU8000FXZA's Smart TV Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/disabling-mute-feature-a-step-by-step-guide-for-iphones/"><u>Disabling Mute Feature: A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-improved-web-search-capabilities-and-real-time-sporting-events-on-google-chrome/"><u>Discover Improved Web Search Capabilities & Real-Time Sporting Events on Google Chrome</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ditching-google-maps-in-favor-of-waze-understanding-my-motivation-behind-the-change/"><u>Ditching Google Maps in Favor of Waze: Understanding My Motivation Behind the Change</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-for-activating-emergency-caller-id-skip-on-ios-devices/"><u>Easy Steps for Activating Emergency Caller ID Skip on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tips-on-how-to-perform-a-successful-airpods-software-update/"><u>Easy Tips on How to Perform a Successful AirPods Software Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-contact-editing-discover-the-latest-upgrade-for-microsoft-outlook-on-mobile-devices/"><u>Enhanced Contact Editing: Discover the Latest Upgrade for Microsoft Outlook on Mobile Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/exploring-the-full-potential-of-obs-screen-capture/"><u>Exploring the Full Potential of OBS Screen Capture</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-google-pixel-fold-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Google Pixel Fold Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y78-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y78 5G</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-premier-guide-to-free-online-meetings-and-sharing-screens-for-2024/"><u>The Premier Guide to FREE Online Meetings & Sharing Screens for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-cut-to-quality-perfecting-videos-with-enhancer-22/"><u>[New] 2024 Approved Cut to Quality Perfecting Videos with Enhancer 2.2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chortlecove-app-where-laughter-thrives-online/"><u>[New] ChortleCove App - Where Laughter Thrives Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-financial-frontier-achieving-video-monetization-mastery/"><u>[New] YouTube's Financial Frontier Achieving Video Monetization Mastery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-experience-the-power-of-windows-on-your-iphone-with-seamless-simulation/"><u>1. Experience the Power of Windows on Your iPhone with Seamless Simulation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-superior-charging-experience-why-magsafe-is-a-compelling-reason-to-upgrade-your-iphone/"><u>1. Superior Charging Experience: Why MagSafe Is a Compelling Reason to Upgrade Your iPhone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-data-driven-decision-making-in-your-youtube-shorts-strategy/"><u>2024 Approved Data-Driven Decision Making in Your YouTube Shorts Strategy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-zte-nubia-flip-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of ZTE Nubia Flip 5G? Try These Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-poco-x6-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco X6 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-5-gratis-open-source-graphics-engines/"><u>Leading 5 Gratis, Open-Source Graphics Engines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-samsung-smart-tv-apps-the-ultimate-list-for-202n4/"><u>Must-Have Samsung Smart TV Apps: The Ultimate List for 202N4</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208484589-reviving-keyboard-vertical-arrow-buttons-expert-solutions-for-you/"><u>Reviving Keyboard Vertical Arrow Buttons: Expert Solutions for You!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-apple-watch-a-guide-to-fix-sleep-tracking-issues/"><u>Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-the-power-top-10-remarkable-ipad-capabilities-waiting-to-transform-your-digital-life/"><u>Unleash the Power: Top 10 Remarkable iPad Capabilities Waiting to Transform Your Digital Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secret-easily-locate-and-verify-your-phone-number-on-any-smartphone/"><u>Unlock the Secret: Easily Locate and Verify Your Phone Number on Any Smartphone!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-iphone-models-iphone-16-series-unveiled-leaked-specs-and-rumors/"><u>Upcoming iPhone Models: IPhone 16 Series Unveiled - Leaked Specs and Rumors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upgrade-your-chat-game-master-these-10-indispensable-imessage-tricks-for-immediate-use/"><u>Upgrade Your Chat Game: Master These 10 Indispensable iMessage Tricks for Immediate Use</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2024-09-19T00:54:01.923Z
-updated: 2024-09-25T22:08:47.454Z
+date: 2024-09-25T02:38:22.951Z
+updated: 2024-10-01T09:44:52.938Z
 tags:
   - ios
 categories:
@@ -32,25 +32,38 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now tap on the blue “Type” field and select “Weight” from the list. Tap on “Sample Value” and choose “Ask Each Time” from the field just above the keyboard. Finally, select the unit you want to use (this should already default to your preferred measurement, likely “lb” or “kg”).
 
 ![Finishing up adding an action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now give your workflow a name by tapping the field at the top of the screen (it will likely have the “Log Health Sample” placeholder text, grayed out). Tap “Rename” and call it something like “Record weight” and then tap “Choose Icon” and pick something appropriate.
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To save, hit “Done” in the top-right corner of the screen. That’s it!
@@ -63,25 +76,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Edit" button on the iPhone widgets screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now tap on the widget you just added, and next to the “Shortcut” field choose the “Record weight” shortcut you just created. The widget will be added, drag it into place and you’re done. You can also [place these widgets on a regular Home screen](https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/) if you’d rather.
 
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Seeing Results
 
@@ -90,6 +89,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
 
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Getting the Most Out of Apple Health
 
@@ -112,15 +118,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-just-how-significant-is-itop-in-screencasting-world-for-2024/"><u>[New] Just How Significant Is ITop in Screencasting World for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-techniques-for-immaculate-vr-gaming-footage/"><u>2024 Approved Techniques for Immaculate VR Gaming Footage</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-90-gt-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 90 GT by Name | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile/"><u>In 2024, Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-smartphone-lifespan-expert-tips-for-fixing-swift-iphone-battery-percentage-changes/"><u>Secure Your Smartphone Lifespan: Expert Tips for Fixing Swift iPhone Battery Percentage Changes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/setting-up-an-iphone-without-a-sim-card-essential-steps-and-tips/"><u>Setting Up an iPhone Without a SIM Card: Essential Steps and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-regaining-access-to-your-locked-iphone-without-the-old-password/"><u>Step-by-Step Guide: Regaining Access to Your Locked iPhone Without the Old Password</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-most-immersive-iphone-vr-games-ever/"><u>The Most Immersive iPhone VR Games Ever</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-your-pc-toms-comprehensive-hardware-insights/"><u>Unlocking the Potential of Your PC: Tom's Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-reasons-behind-a-laggy-ipad-top-strategies-for-speed-restoration/"><u>Unveiling the Reasons Behind a Laggy iPad: Top Strategies for Speed Restoration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-screen-record-on-mac-with-shortcuts/"><u>[Updated] In 2024, How to Screen Record on Mac with Shortcuts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-panoramics-selecting-the-best-8k-cameras/"><u>[Updated] Pinnacle Panoramics Selecting the Best 8K Cameras</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-zoom-in-or-out-tailoring-your-youtube-viewing-pace/"><u>2024 Approved Zoom in or Out? Tailoring Your YouTube Viewing Pace</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-information-from-your-iphones-sd-card/"><u>Complete Guide: Retrieving Lost Information From Your iPhone's SD Card</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-step-by-step-guide-how-to-safely-restore-your-iphone-without-losing-any-data/"><u>Complete Step-by-Step Guide: How to Safely Restore Your iPhone Without Losing Any Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/default-methods-to-retrieve-accidentally-deleted-facebook-messenger-conversations-a-step-by-step-guide/"><u>Default Methods to Retrieve Accidentally Deleted Facebook Messenger Conversations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/finding-ways-to-retrieve-lost-phone-numbers-from-your-iphone-even-without-a-previous-copy/"><u>Finding Ways to Retrieve Lost Phone Numbers From Your iPhone, Even without a Previous Copy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lgs-virtual-frontier-a-comprehensive-vr-review-for-2024/"><u>LG's Virtual Frontier A Comprehensive VR Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-shift-your-essential-steps-to-embrace-the-windows-10-creators-edition/"><u>Master the Shift - Your Essential Steps to Embrace the Windows 10 Creator's Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-imessages-top-tips-for-secure-backups-and-must-have-utilities-on-ios-devices/"><u>Maximize Your iMessages: Top Tips for Secure Backups and Must-Have Utilities on iOS Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/real-client-experience-data-retrieval/"><u>Real Client Experience: Data Retrieval</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-lost-iphone-applications-quickly-the-ultimate-troubleshooting-guide/"><u>Recover Lost iPhone Applications Quickly – The Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-lost-or-hidden-conversations-three-methods-for-restoring-deleted-facebook-messenger-messages-on-iphone/"><u>Recover Lost or Hidden Conversations: Three Methods for Restoring Deleted Facebook Messenger Messages on iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-lost-iphone-messages-through-itunes-expert-tips-and-tricks/"><u>Restoring Lost iPhone Messages Through iTunes: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-ps4-mic-problems-top-fixes-for-a-quiet-console/"><u>Solving PS4 Mic Problems: Top Fixes For A Quiet Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sports-enthusiasts-guide-to-free-live-game-streams-top-picks/"><u>Sports Enthusiasts' Guide to Free Live Game Streams - Top Picks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas-for-2024/"><u>The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas for 2024</u></a></li>
 </ul></div>
 

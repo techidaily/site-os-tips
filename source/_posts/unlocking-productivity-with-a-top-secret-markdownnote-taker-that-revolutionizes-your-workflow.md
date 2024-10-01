@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-09-21T11:08:26.958Z
-updated: 2024-09-25T21:52:20.117Z
+date: 2024-09-26T05:40:30.213Z
+updated: 2024-09-30T18:20:54.056Z
 tags:
   - ios
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best writing tool is the one you have on you. For me, that's my smartphone, but it's no good without the right app. After searching high and low, I finally found an app that just about does it all. If you haven't yet heard of Obsidian, it may be the best note taking app for you, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is Obsidian?
 
  Obsidian describes itself as your "second brain." It's one of quite a few "personal knowledge base" or "knowledge management apps" that take a different approach to organizing your notes. Obsidian allows internal linking between notes, searching through notes, and an interactive graph that shows the connections between notes.
@@ -38,10 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  While I'm focusing on the Android version, Obsidian is available for basically any platform you can think of, whether that's on your PC, tablet, or phone. I use [the Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002537/https://play.google.com/store/apps/details?id=md.obsidian&hl=en%5FUS&gl=US), but the mobile version of Obsidian is largely the same [on the iPhone and iPad](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) as well. Now, let's get into what makes Obsidian so good.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Notes Are Saved As Accessible Plain Text Files
@@ -55,13 +62,6 @@ Bertel King / How-To Geek
  Many popular alternatives are similar, be it iA Writer or Jotterpad. Yet as someone who writes for a living, I don't want to be dependent on any one app or cloud service continuing to exist for me to access my work. And you don't have to, either.
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
@@ -82,10 +82,10 @@ Bertel King / How-To Geek
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -100,6 +100,13 @@ Bertel King / How-To Geek
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Even though Obsidian is a Markdown editor, you don't actually need to know how to write Markdown to format your text. The app contains a formatting bar directly above your keyboard. When you tap the bold icon, Obsidian will surround the highlighted text with asterisks, which is how Markdown communicates that something needs to be in bold. If you want to turn something into a heading, tap the heading icon, and Obsidian will insert a hashtag. One hashtag denotes Heading 1, two hashtags denote Heading 2, and so on.
@@ -110,13 +117,6 @@ Bertel King / How-To Geek
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
  There are many, many ways to write things on Android. Technically, I could do most of my work using Google Keep if I particularly wanted to, but there are certain bits of information professional writers really need access to. Primarily, this is word count.
@@ -126,10 +126,10 @@ Bertel King / How-To Geek
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Can Extend Obsidian With Plug-ins
@@ -159,17 +159,22 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-how-to-add-crop-and-edit-music-to-canva-video/"><u>[New] How To Add, Crop And Edit Music To Canva Video?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-list-best-history-yt-channels-for-knowledge-seekers/"><u>[New] The Ultimate List Best History YT Channels For Knowledge Seekers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-managing-your-samsung-account-sign-up-login-troubleshooting-password-reset-deletion-process-and-secure-data-recovery/"><u>Complete Guide to Managing Your Samsung Account: Sign Up, Login Troubleshooting, Password Reset, Deletion Process, and Secure Data Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-methods-for-eliminating-malware-from-your-android-devices/"><u>Effective Methods for Eliminating Malware From Your Android Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/effortless-facebook-video-extras-the-best-fire-browser-plugins-of-2023/"><u>Effortless Facebook Video Extras The Best Fire-Browser Plugins of 2023</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-intel-centrino-n-6205-wifi-card-drivers-here/"><u>Get Your Intel Centrino N 6205 WiFi Card Drivers Here</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-bridging-the-budget-barrier-channel-size-doesnt-matter/"><u>In 2024, Bridging the Budget Barrier Channel Size Doesn't Matter</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-your-android-lock-screen-code-easy-steps-to-regain-access/"><u>Lost Your Android Lock Screen Code? Easy Steps to Regain Access!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-premiere-pro-simplified-guide-to-managing-audio-layers-for-2024/"><u>Mastering Premiere Pro Simplified Guide to Managing Audio Layers for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-for-restoring-deleted-sms-on-verizon-and-atandt-phones/"><u>Step-by-Step Process for Restoring Deleted SMS on Verizon and AT&T Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/trouble-logging-into-snapchat-heres-how-you-can-overcome-these-login-issues/"><u>Trouble Logging Into Snapchat? Here's How You Can Overcome These Login Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones/"><u>[New] In 2024, Crafting Captivating YouTube Presence The Ultimate Guide to Making Thumbnails on Phones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-vsco-photo-workflow-analysis/"><u>[New] The Ultimate VSCO Photo Workflow Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-green-grounds-a-selection-of-free-downloadable-videography-sets/"><u>[Updated] 2024 Approved Green Grounds A Selection of Free, Downloadable Videography Sets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027133056-2024and/"><u>2024年のビデオ統合：ヴィメーロで動画ダウンロード&保存ガイド</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-monochrome-to-spectrum-modifying-the-look-of-your-windows-11-taskbar/"><u>From Monochrome to Spectrum: Modifying the Look of Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-apple-allows-international-users-to-remove-safari-app-but-denies-same-privilege-within-the-united-states/"><u>How Apple Allows International Users to Remove Safari App but Denies Same Privilege Within the United States</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-do-i-understand-and-remove-iphones-aae-files-effectively/"><u>How Do I Understand & Remove iPhone's AAE Files Effectively?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-google-pixel-fold-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Google Pixel Fold online without jailbreak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/identifying-iphone-battery-woes-is-replacement-needed/"><u>Identifying iPhone Battery Woes: Is Replacement Needed?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y28-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y28 5G FRP?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-search-of-perfection-gopros-1-10-case-review/"><u>In Search of Perfection - GoPro's #1-10 Case Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/international-progress-for-iphones-overcoming-boundaries-abroad-while-standing-strong-stateside/"><u>International Progress for iPhones: Overcoming Boundaries Abroad While Standing Strong Stateside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-the-updated-partner-for-apples-satellite-based-emergency-aid-service/"><u>Introducing the Updated Partner for Apple's Satellite-Based Emergency Aid Service</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-it-too-late-expert-insights-on-timing-your-next-iphone-upgrade/"><u>Is It Too Late? Expert Insights on Timing Your Next iPhone Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-device-harmony-a-step-by-step-tutorial-on-iphone-and-mac-synchronization/"><u>Mastering Device Harmony: A Step-by-Step Tutorial on iPhone and Mac Synchronization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-productivity-advanced-tips-for-optimizing-reminders-in-ios-17/"><u>Maximizing Productivity: Advanced Tips for Optimizing Reminders in iOS 17</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-sync-failures-with-icloud-discover-tips-to-secure-your-messages-on-apples-cloud-service/"><u>WhatsApp Sync Failures with iCloud? Discover Tips to Secure Your Messages on Apple's Cloud Service</u></a></li>
 </ul></div>
 

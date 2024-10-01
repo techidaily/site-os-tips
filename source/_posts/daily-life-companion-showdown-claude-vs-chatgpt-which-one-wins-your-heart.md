@@ -1,7 +1,7 @@
 ---
 title: "Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?"
-date: 2024-09-25T01:17:09.519Z
-updated: 2024-09-25T18:36:01.797Z
+date: 2024-09-30T11:48:56.974Z
+updated: 2024-10-01T12:14:27.594Z
 tags:
   - ios
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  GPT vs. Claude On The Web
@@ -39,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
 
@@ -91,15 +84,22 @@ Jason Dookeran/How-to-Geek
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
 
@@ -120,24 +120,20 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-fundamentals-of-compelling-documentary-screenplay-for-2024/"><u>[New] The Fundamentals of Compelling Documentary Screenplay for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity/"><u>[Updated] 2024 Approved The Complete Blueprint for Screen Capture Excellence with Adobe Captivity</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-a-stellar-visual-identity-the-ultimate-guide-to-yt-design/"><u>2024 Approved Crafting a Stellar Visual Identity The Ultimate Guide to YT Design</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-for-moving-your-apple-id-password-onto-an-android-device-methods-and-best-practices/"><u>Comprehensive Tutorial for Moving Your Apple ID Password Onto an Android Device - Methods & Best Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conscious-communication-chatgpt-as-a-therapeutic-aid/"><u>Conscious Communication: ChatGPT as a Therapeutic Aid</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-blocking-access-and-deleting-share-from-your-macs-keychain-safely/"><u>Guide: Blocking Access and Deleting 'Share' From Your Mac's Keychain Safely</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-disable-share-this-feature-with-password-storage-on-your-device/"><u>How to Disable Share This Feature with Password Storage on Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/icloud-keychain-demystified-easy-ways-to-manage-and-access-your-saved-passwords-on-iphone/"><u>ICloud Keychain Demystified: Easy Ways to Manage and Access Your Saved Passwords on iPhone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mastering-podcast-title-craft-the-essential-handbook/"><u>In 2024, Mastering Podcast Title Craft The Essential Handbook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>In 2024, Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/itunes-backup-essentials-step-by-step-instructions-for-protecting-your-devices-information/"><u>ITunes Backup Essentials: Step-by-Step Instructions for Protecting Your Device's Information</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-itunes-backups-a-comprehensive-guide-to-saving-your-data-securely/"><u>Mastering iTunes Backups: A Comprehensive Guide to Saving Your Data Securely</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-time-lapse-photography-on-samsung-phones/"><u>Mastering Time-Lapse Photography on Samsung Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-through-toms-computer-and-hardware-analysis/"><u>Navigating the Digital World Through Tom's Computer & Hardware Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-integration-transferring-your-apple-keychain-passwords-amongst-multiple-devices/"><u>Seamless Integration: Transferring Your Apple Keychain Passwords Amongst Multiple Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-how-to-delete-your-entire-itunes-backup-from-pc-or-icloud/"><u>Step-by-Step Process: How to Delete Your Entire iTunes Backup From PC or iCloud</u></a></li>
-<li><a href="https://os-tips.techidaily.com/success-guide-resolving-the-iphone-7-x-cannot-restore-backup-issue-efficiently/"><u>Success Guide: Resolving the iPhone 7-X 'Cannot Restore Backup' Issue Efficiently</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725287183626-winxvideo-ai/"><u>Winxvideo AI 使用手冊：影片加強、錄製及編輯技巧</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-brighten-your-surroundings-with-21plus-collage-wonders/"><u>[New] Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-screen-recording-on-your-hp-laptop-effortlessly-for-2024/"><u>[New] Navigating Screen Recording on Your HP Laptop Effortlessly for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-the-world-of-pc-screencasters-with-ease/"><u>[New] Navigating the World of PC Screencasters with Ease</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-sculpting-waterway-content-with-flair/"><u>[New] Sculpting Waterway Content with Flair</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-method-to-dismantle-youtube-shorts/"><u>[Updated] The Ultimate Method to Dismantle YouTube Shorts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-ryzen-5-2600-driver-download-fast-simple-steps/"><u>AMD Ryzen 5 2600 Driver Download - Fast, Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/geforce-rtx-3070-ti-driver-download-support-for-win-11-8-and-7-available-now/"><u>GeForce RTX 3070 Ti Driver Download - Support for Win 11, 8 & 7 Available Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-vision-a-step-by-step-tutorial-on-modifying-iphones-screen-proximity-settings/"><u>Protect Your Vision: A Step-by-Step Tutorial on Modifying iPhone's Screen Proximity Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sidecar-feature-connecting-your-mac-and-ipad-seamlessly/"><u>Sidecar Feature: Connecting Your Mac and iPad Seamlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stay-safe-on-the-road-waze-highlights-accident-prone-streets/"><u>Stay Safe on the Road: Waze Highlights Accident-Prone Streets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recording-and-preserving-iphone-voice-messages/"><u>Step-by-Step Guide: Recording and Preserving iPhone Voice Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-how-to-locate-and-retrieve-lost-airpods/"><u>Step-by-Step Strategies: How to Locate and Retrieve Lost AirPods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/steps-to-take-when-your-mobile-device-falls-into-seawater-a-guide/"><u>Steps to Take When Your Mobile Device Falls Into Seawater: A Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/supercharged-ai-elevates-siri-and-popular-apps-for-a-brighter-future-with-apple/"><u>Supercharged AI Elevates Siri & Popular Apps for a Brighter Future with Apple</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats-for-2024/"><u>Updated Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats for 2024</u></a></li>
 </ul></div>
 

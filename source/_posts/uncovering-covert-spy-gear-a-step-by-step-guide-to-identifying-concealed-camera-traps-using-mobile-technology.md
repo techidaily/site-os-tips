@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-09-19T21:50:10.703Z
-updated: 2024-09-26T00:06:46.770Z
+date: 2024-09-25T18:04:49.497Z
+updated: 2024-10-01T03:08:54.431Z
 tags:
   - ios
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  A family recently [discovered](https://arstechnica.com/information-technology/2019/04/airbnb-guest-found-hidden-surveillance-camera-by-scanning-wi-fi-network/) a rude surprise at their Airbnb: a hidden camera disguised as a smoke detector in the living room. Here are two ways to check for cameras—in an Airbnb or elsewhere—using only an iPhone or Android phone.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hidden Cameras Are a Real Danger
 
  If you're staying in a hotel or an Airbnb, hidden cameras can be a worry. In the case of Airbnb, [your host is required to list any cameras](https://www.airbnb.com/help/article/887/what-are-airbnb-s-rules-about-electronic-surveillance-devices-in-listings) they have, whether or not they're turned on. Additionally, Airbnb does not allow hosts to place cameras in bathrooms or sleeping areas, even if that's a living room with a foldout bed.
@@ -33,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  Manufacturers design cameras disguised as other everyday objects, like [smoke detectors](https://www.amazon.com/Detector-Wireless-Cameras-Detection-Security/dp/B09Y5KX3YL?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), [clocks](https://www.amazon.com/AMCSXH-Detection-Security-Remote-Real-Support/dp/B07H23TVY7?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), [USB hubs](https://www.amazon.com/Spy-Camera-WiFi-1080P-Detection/dp/B07NQHH1RK/?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), and even [wireless chargers](https://www.amazon.com/Wireless-Charger-Hidden-Detection-Security/dp/B07M91T1F7?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen). These can be used for legitimate reasons in your own home—for example, to hide a camera a burglar can't find or to monitor a nanny with that person's consent. But how do you ensure someone isn't targeting you with a hidden camera? With a single app and your phone's camera, you can do a sweep for hidden cameras when you check in.
 
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Scan for Networked Cameras
 
@@ -51,16 +51,22 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
@@ -69,28 +75,28 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -127,18 +133,24 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-undo-macos-sierras-os-x-transition/"><u>[Updated] 2024 Approved How to Undo MacOS Sierra's OS X Transition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-taking-flight-in-edits-top-9-choices-for-every-drone-enthusiast-for-2024/"><u>[Updated] Taking Flight in Edits Top 9 Choices for Every Drone Enthusiast for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-revolutionizing-game-soundscapes-with-ps-console-tweaks/"><u>2024 Approved Revolutionizing Game Soundscapes with PS Console Tweaks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-shedding-light-on-videography-excellence/"><u>2024 Approved Shedding Light on Videography Excellence</u></a></li>
-<li><a href="https://os-tips.techidaily.com/alternative-video-chatting-solutions-top-5-beyond-facetime-on-android-devices/"><u>Alternative Video Chatting Solutions: Top 5 Beyond FaceTime on Android Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-strategies-for-youtube-and-twitch-via-obs/"><u>Essential Strategies for YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fashionable-functionality-or-just-a-flashy-facade-evaluating-the-amazfit-gts-hybrid-watch-review/"><u>Fashionable Functionality or Just a Flashy Facade? Evaluating the Amazfit GTS Hybrid Watch Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-experience-the-power-of-a-new-superior-radiator-with-moora-iv-600-nine-incredible-200mm-fans-weighing-over-35lbs-at-just-600/"><u>Next-Level Gaming: Experience the Power of a New Superior Radiator with MOORA IV 600 - Nine Incredible 200Mm Fans, Weighing Over 35Lbs at Just $600</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y78plus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y78+ Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-free-ios-emulators-available-for-your-android-device-right-now/"><u>Top 6 Free iOS Emulators Available for Your Android Device Right Now</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-favorite-google-play-songs-into-ringtones-a-step-by-step-guide-for-android-users/"><u>Transform Your Favorite Google Play Songs Into Ringtones: A Step-by-Step Guide for Android Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-gaming-experience-mastering-call-of-duty-mobile-on-pc-with-three-effective-techniques/"><u>Transform Your Gaming Experience: Mastering Call of Duty Mobile on PC with Three Effective Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-moving-images-mirrorless-versus-dslr/"><u>[New] In 2024, Capturing Moving Images Mirrorless Versus DSLR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimal-video-recording-best-fullscreen-tools-for-pcmac/"><u>[Updated] 2024 Approved Optimal Video Recording Best Fullscreen Tools for PC/Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-elevating-your-twitters-with-a-snapchat-integration/"><u>[Updated] In 2024, Elevating Your Twitters with a Snapchat Integration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-stellar-photo-alterations-frameshift-prowess/"><u>[Updated] In 2024, Stellar Photo Alterations FrameShift Prowess</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-verified-posts-do-they-matter/"><u>2024 Approved Instagram Verified Posts - Do They Matter?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-top-tier-vr-game-equipment-list/"><u>2024 Approved Premium Top-Tier VR Game Equipment List</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/doporucovaci-videovy-program-jako-premium-movavi-efekty-s-doplnek/"><u>Doporučovací Vídeový Program Jako - Premium Movavi Efekty S Doplněk</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-factors-that-cause-subpar-dvd-image-clarity-when-watching-on-an-xbox-one-device/"><u>Exploring Factors That Cause Subpar DVD Image Clarity When Watching on an Xbox One Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-smart-8-hd-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Smart 8 HD? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-guide-smoothly-installing-the-surface-dock-driver-in-just-a-few-steps/"><u>Instant Access Guide: Smoothly Installing the Surface Dock Driver in Just a Few Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-navigation-and-entertainment-apps-compatible-with-carplay/"><u>Top-Rated Navigation & Entertainment Apps Compatible with CarPlay</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-malfunctioning-iphone-touchscreen-effective-solutions/"><u>Troubleshooting a Malfunctioning iPhone Touchscreen: Effective Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncover-hidden-gems-in-music-through-apple-music-radio-dont-miss-out/"><u>Uncover Hidden Gems in Music Through Apple Music Radio – Don't Miss Out!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-free-access-to-apple-devices-through-targets-exclusive-promotion/"><u>Unlock Free Access to Apple Devices Through Target's Exclusive Promotion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secret-of-eternal-iphone-charges-exclusive-tips-for-constant-low-power-usage/"><u>Unlock the Secret of Eternal iPhone Charges: Exclusive Tips for Constant Low Power Usage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-simplicity-using-assistive-features-to-convert-modern-iphones-into-fundamental-phones/"><u>Unlocking Simplicity: Using Assistive Features to Convert Modern iPhones Into Fundamental Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmatched-value-why-you-should-consider-the-iphone-13-as-your-next-phone/"><u>Unmatched Value: Why You Should Consider the iPhone 13 as Your Next Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-top-choice-in-support-stands-a-comprehensive-review-of-kuxius-x3nova-pro-max-for-ipads/"><u>Unveiling the Top Choice in Support Stands: A Comprehensive Review of Kuxiu's X3nova Pro Max for iPads</u></a></li>
 </ul></div>
 

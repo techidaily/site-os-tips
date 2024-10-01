@@ -1,7 +1,7 @@
 ---
 title: Efficient Methods for Exiting All Open Safari Sessions on iPhone/iPad
-date: 2024-09-01T06:59:00.935Z
-updated: 2024-09-02T06:59:00.935Z
+date: 2024-09-27T03:20:17.869Z
+updated: 2024-09-30T20:37:56.436Z
 tags:
   - ios
 categories:
@@ -31,26 +31,43 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The tab switcher button in Safari on iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/tab_Switcher_button_ipad.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On the iPhone, it's in the lower-right corner of the screen.
 
 ![The tab switcher button in Safari on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/tab_switcher_button_iphone.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Place your finger on the tab switcher button and hold it there for a moment, preforming a "long press." In the menu that pops up, select "Close All Tabs." (There will be a number in the choice that lists the number of open tabs.)
 
 ![Hold the button, then tap "Close All Tabs."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/close3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When Safari asks you to confirm with another pop-up, tap "Close All Tabs" again. After that, all of your browser tabs will close.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Close All Safari Tabs on the Tab Switcher Screen
 
  There's another way to quickly close all tabs in Safari on iPhone and iPad. First, open "Safari," then tap the tab switcher button once.
@@ -58,22 +75,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The tab switcher button in Safari on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/tab_switcher_button_iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the tab switcher screen, locate the "Done" button, which is located in the upper-right corner of the screen on the iPad and in the lower-right corner of the screen on the iPhone.
 
  Long-press the "Done" button — place and hold your finger there for a moment until a pop-up appears. In the pop-up, select "Close All Tabs." The exact name of the pop-up action will vary, depending on the number of tabs you have open.
 
 ![The open tabs on Safari.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0135.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Safari will ask you to confirm closing all the tabs with another pop-up message. Select "Close All Tabs" again. Then all of your Safari tabs will close instantly. The same action works in Private Browsing mode. Pretty handy!
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Reopen Recently Closed Tabs
 
  If you accidentally closed all of your tabs and would like to get them back, you can retrieve them one at a time as long as you aren't in [Private Browsing mode](https://voice-adjusting.techidaily.com/navigating-the-art-of-selecting-top-notch-sound-designers-for-2024/). Just tap the tab switcher button, then [long-press the "+" button until a "Recently Closed Tabs" list appears](https://screen-recording.techidaily.com/updated-adjusting-visuals-in-teams-conversations-at-any-time/). From there you can tap on entries in the list to open them again in Safari. Good luck!
@@ -84,8 +99,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +106,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-the-instagram-video-constraint-for-2024/"><u>[Updated] Demystifying the Instagram Video Constraint for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boosting-iphone-signal-strength-expert-advice-and-effective-techniques-to-combat-weak-connectivity/"><u>Boosting iPhone Signal Strength: Expert Advice and Effective Techniques to Combat Weak Connectivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-to-follow-steps-to-install-llama-version-2-on-your-computer/"><u>Easy-to-Follow Steps to Install LLAMA Version 2 On Your Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-for-iphones-unable-to-complete-ios-1817-update-process/"><u>Effective Solutions for iPhones Unable to Complete iOS 18/17 Update Process</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tutorial-effortless-ways-to-access-or-disconnect-from-ipods-recovery-environment/"><u>Expert Tutorial: Effortless Ways to Access or Disconnect From iPod's Recovery Environment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-open-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus Open to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-embed-codegpt-within-your-visual-studio-code-setup/"><u>How to Embed CodeGPT Within Your Visual Studio Code Setup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620249023-identifying-bogus-virus-alerts-learn-how-plus-discover-essential-tips-for-protection/"><u>Identifying Bogus Virus Alerts? Learn How + Discover Essential Tips for Protection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-memes-perfecting-social-media-videos-on-fb-and-insta/"><u>In 2024, Crafting Memes Perfecting Social Media Videos on FB & Insta</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pixelstreamer-pro-enhanced-os-recorder-for-2024/"><u>PixelStreamer Pro Enhanced OS Recorder for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-x7b-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor X7b with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620256256-struggling-with-your-iphones-screen-top-solutions-inside/"><u>Struggling With Your iPhone's Screen? Top Solutions Inside!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-freeing-up-your-iphone-top-3-effective-strategies/"><u>The Ultimate Guide to Freeing Up Your iPhone: Top 3 Effective Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-how-to-fix-when-your-fitbit-device-refuses-to-sync/"><u>Troubleshooting: How to Fix When Your Fitbit Device Refuses to Sync</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-todays-most-popular-platforms-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Most Popular Platforms: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-features-of-the-rca-video-doorbell-cam-expert-review-inside/"><u>Unveiling the Powerful Features of the RCA Video Doorbell Cam - Expert Review Inside!</u></a></li>
+</ul></div>
 

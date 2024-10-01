@@ -1,7 +1,7 @@
 ---
 title: Why It's Time to Embrace Plastic over Titanium for Future iPhone Models
-date: 2024-09-01T06:56:46.996Z
-updated: 2024-09-02T06:56:46.996Z
+date: 2024-09-24T09:51:46.378Z
+updated: 2024-10-01T04:13:09.400Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  When I say "iPhone 15 Pro," you say "titanium." This awe-inspiring metal gives the iPhone 15 Pro a new shine, and it's expected to become a staple of premium smartphone design. But you can keep your titanium. I just want a plastic iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Titanium iPhone Is a Marketing Gimmick
 
  At launch, the [iPhone 15 Pro's](https://facebook-video-content.techidaily.com/new-direct-interaction-enhancing-live-broadcasts-with-desktop-share/) titanium mid-frame felt like nothing more than a footnote. This is the first iPhone with [USB-C charging](https://extra-resources.techidaily.com/magix-image-suite-assessment/), it's got a customizable ["Action" button](https://youtube-lab.techidaily.com/banish-stutter-and-freeze-optimize-your-outriders-gameplay/), and the Pro Max model comes with a new 5x telephoto lens. With all these great improvements, who cares about a thin piece of metal?
@@ -33,9 +40,6 @@ Hannah Stryker / How-To Geek
 
  The majority of [iPhone 15 Pro advertisements](http://youtu.be/rvOAOJ9681g?) don't even mention weight. They just repeat the word "titanium" without any explanation, leaving customers to use their imagination and fill in the gaps. It's an ingenious marketing tactic, but it's also a bit toxic. We need an iPhone that's more affordable and durable. Instead, Apple is doing the smartphone equivalent of gold-plated USB cables or magical audiophile equipment. "It's premium, so it must be better!"
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Give Me a Plastic iPhone!
 
  From the start, Apple has intentionally made the iPhone a semi-affordable luxury item. This often comes at the expense of things that _actually_ matter, such as usability or price. Just look at the iPhone 4\. It introduced a flashy new design, but it suffered from cellular interference and had a fragile back panel. When customers complained, Steve Jobs accused them of [using the phone wrong](https://www.theguardian.com/technology/blog/2010/jun/25/iphone-reception-problems-solved).
@@ -45,8 +49,12 @@ Hannah Stryker / How-To Geek
 ![The iPhone 5c on display in four colors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/35-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Anton\_Ivanov/Shutterstock.com](https://www.shutterstock.com/image-photo/prague-czech-republic-aug-6-2017-1155042934)
 
  The plastic iPhones didn't suffer from any weird engineering problems. They weren't fragile; in fact, they were more durable than their aluminum or glass-backed counterparts. Critics may have compared the iPhone 5c to a cheap toy (it certainly looked like one), but they always complemented the quality and strength of Apple's plastic, which was reinforced by an internal metal frame.
@@ -60,16 +68,23 @@ Hannah Stryker / How-To Geek
  On the other hand, a circular supply chain will take years to develop. Samsung uses a ton of [recycled plastic](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fexplore%2Fsustainability%2Fsustainable-materials%2F) in its products, so why shouldn't Apple?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Next iPhone SE Is a Perfect Candidate for Plastic
 
 ![iPhone SE with clownfish wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-se-clownfish.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  It's safe to assume that flagship iPhones will never use plastic housing. The iPhone 3G and 3GS were an exception to the rule, and Apple only made an exception because its original aluminum housing sucked the life out of cellular and Bluetooth signals.
@@ -92,8 +107,6 @@ Corbin Davenport / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +114,24 @@ Corbin Davenport / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-master-the-art-of-hulu-screen-capturing-windows-mac-and-mobile-edition/"><u>[New] 2024 Approved Master the Art of Hulu Screen Capturing Windows, Mac & Mobile Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garmins-ultra-30-camera-unveiled-a-comprehensive-guide/"><u>[Updated] Garmin's Ultra 30 Camera Unveiled A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-powerpoint-presentation-soundtracking-secrets/"><u>2024 Approved PowerPoint Presentation Soundtracking Secrets</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/adopting-a-global-communication-lifestyle-in-24/"><u>Adopting a Global Communication Lifestyle in '24</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-flying-experience-with-the-syma-x5c-ready-to-fly-quadcopter-reviewed/"><u>Affordable Flying Experience with the SYMA X5C Ready-to-Fly Quadcopter Reviewed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/daily-assistant-showdown-claude-vs-chatgpt-which-one-reigns-supreme/"><u>Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/date-set-apples-anticipated-iphone-15-reveal-is-officially-scheduled-for-insert-event-date/"><u>Date Set! Apple's Anticipated iPhone 15 Reveal Is Officially Scheduled for [Insert Event Date]</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-hidden-gems-explore-these-10-impressive-ipad-tricks-for-enhanced-productivity-and-fun/"><u>Discover Hidden Gems: Explore These 10 Impressive iPad Tricks for Enhanced Productivity and Fun</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-live-picture-lock-screens-can-transform-your-iphone-experience-a-game-changing-oversight/"><u>Discover How Live Picture Lock Screens Can Transform Your iPhone Experience – A Game-Changing Oversight!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-hidden-gems-ios-17s-top-ten-upgrades-revealed/"><u>Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embracing-the-future-with-my-magneatic-phone-wallet-top-reasons-that-have-changed-everything/"><u>Embracing the Future with My Magneatic Phone Wallet: Top Reasons That Have Changed Everything</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-ipad-experience-lets-focus-on-functionality-not-diminishing-its-size/"><u>Enhance iPad Experience: Let's Focus on Functionality, Not Diminishing Its Size</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-enhanced-capabilities-in-iphone-15-pro-with-action-buttons-and-usb-type-c-ports/"><u>Explore Enhanced Capabilities in iPhone 15 Pro with Action Buttons and USB Type-C Ports</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-instagram-for-podcast-promotion/"><u>In 2024, Navigating Instagram for Podcast Promotion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-game-installation-errors-with-our-origin-games-step-by-step-tutorial/"><u>Resolve Game Installation Errors with Our Origin Games Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upscaling-your-youtube-visuals-for-2024/"><u>Upscaling Your YouTube Visuals for 2024</u></a></li>
+</ul></div>
 

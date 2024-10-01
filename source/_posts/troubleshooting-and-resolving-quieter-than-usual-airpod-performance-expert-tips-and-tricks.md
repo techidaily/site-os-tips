@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving Quieter Than Usual AirPod Performance: Expert Tips & Tricks"
-date: 2024-09-01T06:56:35.603Z
-updated: 2024-09-02T06:56:35.603Z
+date: 2024-09-27T05:23:32.707Z
+updated: 2024-09-30T20:13:28.038Z
 tags:
   - ios
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
 ![Woman putting AirPods Pro in ear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/airpods-pro-in-ear.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white-wireless-headphones-copy-space-1750927877)_
 
  Given that there's a possibility that your iPhone's volume buttons have failed (like mine did), try adjusting the AirPods volume using Siri. Just call the voice assistant and ask it to turn the volume up or down. You can also use the Control Center to modify the volume levels. If you're using the [AirPods Pro (2nd Generation)](https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27-pro-by-drfone-android/), try using the swipe controls on the stem to turn the volume up or down. On the AirPods Max, there's a digital crown on the left ear cup that can help you adjust the loudness.
@@ -47,9 +54,6 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
 
 ![Dirty primary acoustic outlet of Apple AirPods with accumulated earwax, grease and dirt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dirty-airpods.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Michael Vi/Shutterstock.com](https://www.shutterstock.com/image-photo/dirty-primary-acoustic-outlet-apple-airpods-2121511106)
 
  If you've exposed your AirPods to anything that might cause stains or other damage, use a 70% isopropyl alcohol wipe to [clean the exterior surfaces of your AirPods](https://facebook-clips.techidaily.com/leading-downloader-software-facebooks-top-choices-5-for-2024/) (the regular version, AirPods Pro, or the AirPods Max). However, [Apple](https://support.apple.com/en-in/102672) advises against using alcohol wipes on the knit mesh canopy and ear cushions on the AirPods Max.
@@ -58,9 +62,6 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
 
  A word of caution: do not submerge or run the AirPods under water. Unlike iPhones, they aren't water-resistant, and you might damage the device permanently.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Take the Ear Tip Test
 
  To ensure that you're using the right ear tip and that there's no sound leakage from your AirPods Pro, [take the Ear Tip Test](https://facebook-video-share.techidaily.com/updated-flickering-fonts-2-innovative-text-techniques/). You see, using the wrong ear tip can result in reduced sound quality, making you want to increase the loudness for a better listening experience.
@@ -81,9 +82,6 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the play button at the bottom of the screen while taking the ear tip fit test on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  If the test suggests that the ear tips you're using are a good fit, that's good. Otherwise, try using a different ear tip as per the recommendation.
@@ -93,8 +91,12 @@ Shikhar Mehrotra / How-To Geek
 Shikhar Mehrotra / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Switch From ANC or Transparency to Regular Mode
 
  The [AirPods Pro and AirPods Max feature three listening modes](https://article-posts.techidaily.com/new-tips-and-tricks-erasing-unwanted-backdrops-for-2024/). First, there's the noise cancelation mode that reduces the level of background noise. Then there's the transparency mode that captures the environmental sound from the microphone and relays it in your ear. Last but not least, there's the regular listening mode, which relies on passive noise cancelation and AirPods' sound quality to deliver a balanced experience.
@@ -103,9 +105,6 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the noise cancelation modes in Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/airpods-noise-cancelation-modes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  On a Mac you'll find this option in the top-right corner of the screen, just click on your AirPods under "Sound" and choose which listening mode you want to use.
@@ -129,18 +128,38 @@ Shikhar Mehrotra / How-To Geek
 ![Screenshot of the Sounds & Haptics menu with an arrow next to the Headphone Safety option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
 
  Turn off "Headphone Notifications" and "Reduce Loud Audio."
 
 ![Screenshot of the Headphone Safety menu with arrows next to the required options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Sound/Equalizer Settings
 
@@ -156,6 +175,13 @@ Shikhar Mehrotra / How-To Geek
 
 ![Image of the EQ menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
 
  If you've enabled Dolby Atmos, disable the setting and see if the AirPods feel louder than before.
@@ -163,13 +189,24 @@ Shikhar Mehrotra / How-To Geek
 ![Screenshot of the Dolby Atmos menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
 
  In the same menu, turn off "Sound Check."
 
 ![Screenshot of the Sound Check option in the Apple Music settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-9.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -177,14 +214,21 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of Apple Music settings on Mac with an arrow next to the required options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Is One AirPod Quieter Than The Other? Here's The Fix
 
  If [one AirPod is quieter than the other](https://program-issues.techidaily.com/resolving-persistent-crashing-issues-on-dead-by-daylight-latest-tips/), chances are that the audio balance isn't at the center. This is one of the most common problems faced by AirPods users. More often than not, the problem stems from momentary glitches or unbalanced stereo settings. Luckily, there are two ways to fix this issue.
@@ -201,18 +245,12 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the iPhone's Accessibility menu with an arrow next to Audio & Visual option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
  Check the slider's position under "Balance." If it isn't at the center, drag it to the middle of the bar so that the value on top of it reads "0.00."
 
 ![Screenshot of the audio balance slider in Audio & Visual menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Shikhar Mehrotra / How-To Geek
 
 ##  Recalibrate Your AirPods' Volume
@@ -241,8 +279,6 @@ Kris Wouk / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +286,21 @@ Kris Wouk / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-of-the-best-1-ranked-4k-gaming-pcs/"><u>[New] Best of the Best #1 Ranked 4K Gaming PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastery-in-momentum-regaining-erased-reddit-posts-for-2024/"><u>[New] Mastery in Momentum Regaining Erased Reddit Posts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-mac-toolkit-capturing-netflix-views/"><u>[Updated] In 2024, The Ultimate Mac Toolkit Capturing Netflix Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-your-contents-potential-viral-short-tags/"><u>[Updated] Unleashing Your Content’s Potential Viral Short Tags</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>2024 Approved Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
+<li><a href="https://os-tips.techidaily.com/compatibility-check-can-your-apple-device-support-the-upcoming-ios-17-and-ipados/"><u>Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-using-apples-facetime-app-on-android-phones/"><u>Complete Guide to Using Apple's FaceTime App on Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-iphone-problem-solving-strategies-for-seamless-performance/"><u>Comprehensive iPhone Problem-Solving Strategies for Seamless Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-delay-simplify-retrieving-your-apple-id-in-a-matter-of-minutes/"><u>Don't Delay! Simplify Retrieving Your Apple ID in a Matter of Minutes.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-monitor-your-weight-with-this-revolutionary-iphone-automation-tool/"><u>Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-ipads-capabilities-introducing-orion-seamless-ipad-to-monitor-connectivity-for-enhanced-productivity/"><u>Elevate Your iPad's Capabilities: Introducing Orion - Seamless iPad to Monitor Connectivity for Enhanced Productivity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/macbook-pro-air-unsupported-in-ubuntu-mate-2004-solved/"><u>MacBook Pro Air Unsupported in Ubuntu Mate 20.04 [Solved]</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-getting-filmora-for-free-no-hidden-fees-for-2024/"><u>Updated The Ultimate Guide to Getting Filmora for Free No Hidden Fees for 2024</u></a></li>
+</ul></div>
 

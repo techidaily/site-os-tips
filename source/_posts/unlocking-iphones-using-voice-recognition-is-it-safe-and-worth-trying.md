@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-09-20T18:30:52.488Z
-updated: 2024-09-25T21:14:23.642Z
+date: 2024-09-30T12:36:22.143Z
+updated: 2024-10-01T10:06:31.284Z
 tags:
   - ios
 categories:
@@ -18,11 +18,31 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 * [Solving Face ID Issues](https://tech-savvy.techidaily.com/the-comprehensive-guide-to-scholarly-writing-and-ai/)
 * [Unlock Your iPhone With an Apple Watch, Too](https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Set up a custom command within Voice Control settings to execute the sequence of button taps required to enter your passcode on your iPhone lock screen, then trigger it with a phrase. Alternatively, avoid putting iPhone security at risk and instead tweak Face ID to improve performance.
 
  A seemingly useful trick for unlocking your iPhone has been doing the rounds on social media which allows you to unlock your iPhone with a simple voice command. While it might sound handy, it's one tip you should probably avoid if you want to keep your device secure.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Unlocking Your iPhone With Your Voice
 
@@ -36,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Mark passcode on iPhone lock screen (example)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_passcode-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Head back to Settings > Accessibility > Voice Control, tap on "Customize Commands" followed by "Create New Command..." and type (or speak) the phrase you want to use.
 
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
@@ -51,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Run custom gesture using Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/run_custom_gesture.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Voice Unlocking Is a Bad Idea
 
@@ -71,10 +84,10 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
  This technique is often touted as a way to unlock your iPhone when your hands are dirty, but if you're unlocking your iPhone you're probably going to touch the screen anyway. Don't forget you can always enable Siri from the lock screen under Settings > Siri & Search > Allow Siri When Locked and enable "Hey Siri" while you're there to use your iPhone hands-free without bypassing your passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Solving Face ID Issues
@@ -86,13 +99,6 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
 
  Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Unlock Your iPhone With an Apple Watch, Too
 
@@ -115,17 +121,17 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-sky-to-screen-advanced-methods-in-drone-video-editing/"><u>[New] From Sky to Screen Advanced Methods in Drone Video Editing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-sharing-showdown-deciding-between-vimeo-youtube-and-dailymotion/"><u>[Updated] Video Sharing Showdown Deciding Between Vimeo, YouTube & DailyMotion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/15-effective-ways-to-troubleshoot-and-repair-your-iphones-malfunctioning-gps-featuring-the-latest-iphone-12/"><u>15 Effective Ways to Troubleshoot and Repair Your iPhone's Malfunctioning GPS, Featuring the Latest iPhone 12</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazons-economical-sound-experience-a-review-of-basic-soundbar/"><u>Amazon's Economical Sound Experience: A Review of Basic Soundbar</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-tips-for-resetting-your-ipod-device-solutions-included/"><u>Comprehensive Troubleshooting Tips for Resetting Your iPod Device - Solutions Included</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-audios-wav-directamente-al-formato-linea-congratuito-usando-herramientas-de-movavi/"><u>Convertir Audios WAV Directamente Al Formato Línea Congratuito Usando Herramientas De Movavi</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-solutions-resolve-iphone-models-15-11-and-x-echo-issues-with-these-4-steps/"><u>Effortless Solutions: Resolve iPhone (Models 15-11 & X) Echo Issues with These 4 Steps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-olympic-spirits-2022s-short-track-feat/"><u>In 2024, Olympic Spirits 2022'S Short-Track Feat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/masterful-tips-the-top-6-power-packed-visual-studio-code-modules-for-seamless-chatgpt-functionality/"><u>Masterful Tips: The Top 6 Power-Packed Visual Studio Code Modules for Seamless ChatGPT Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-ai-learning-board-games-and-creating-visuals-with-my-gpt-bot/"><u>Mastering the Art of AI: Learning Board Games & Creating Visuals with My GPT Bot</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-public-domain-video-downloads/"><u>New The Ultimate Guide to Public Domain Video Downloads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cinematic-chronicles-in-depth-video-tech-reviews/"><u>[New] Cinematic Chronicles In-Depth Video Tech Reviews</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-copyright-clash-violation-removal-came-quick/"><u>[New] In 2024, Copyright Clash Violation, Removal Came Quick</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-most-outstanding-smartphones-a-closer-look-at-leading-iphones/"><u>2023'S Most Outstanding Smartphones: A Closer Look at Leading iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-iphones-built-to-resist-water-and-how-much-exposure-is-safe/"><u>Are iPhones Built to Resist Water, and How Much Exposure Is Safe?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertissez-gratuitement-un-fichier-mxf-au-format-wav-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Un Fichier MXF Au Format WAV en Ligne Avec Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/current-status-of-game-emulator-legality-safe-or-on-the-brink-of-illegalization/"><u>Current Status of Game Emulator Legality: Safe or on the Brink of Illegalization?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-power-of-apples-freeform-app-in-streamlining-your-daily-routine/"><u>Discover the Power of Apple's Freeform App in Streamlining Your Daily Routine</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-apples-vision-pro-the-most-shocking-features-and-innovations-exposed/"><u>Discovering Apple's Vision Pro: The Most Shocking Features and Innovations Exposed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-linking-several-bluetooth-speakers-to-a-single-source/"><u>Guide: Linking Several Bluetooth Speakers To A Single Source</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-narzo-60-pro-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme Narzo 60 Pro 5G Phones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g14-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G14 Phone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-guide-to-effective-twitter-de-following-for-2024/"><u>The Ultimate Guide to Effective Twitter De-Following for 2024</u></a></li>
 </ul></div>
 

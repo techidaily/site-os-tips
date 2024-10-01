@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhone Efficiency: A Comprehensive Guide to Using Shortcuts"
-date: 2024-09-01T06:57:47.303Z
-updated: 2024-09-02T06:57:47.303Z
+date: 2024-09-29T01:08:19.624Z
+updated: 2024-10-01T12:36:09.848Z
 tags:
   - ios
 categories:
@@ -51,11 +51,25 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![Trigger workflows from your Apple Watch Shortcuts app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/watch_shortcuts.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Shortcuts that are flagged to run from the Share Sheet will appear beneath the sharing options when you tap the Share button. This is useful for workflows that depend on single or multiple inputs, particularly media or file-based inputs.
 
  You can also trigger these Shortcuts using Siri, by asking Siri to “run my Start Pomodoro shortcut” as an example. Shortcuts that are flagged to be displayed on Apple Watch will [show up in the Shortcuts app there](https://techidaily.com/how-to-hard-reset-oppo-k11-5g-without-password-drfone-by-drfone-reset-android-reset-android/), and you can [add them to Watch faces](https://some-knowledge.techidaily.com/new-in-search-of-greatness-top-15-timeless-stop-motion-films/) for quick access.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Create Your Own Shortcuts
 
@@ -69,9 +83,6 @@ Tim Brookes / How-To Geek
 
 ![Toggle Share Sheet visibility in a Shortcuts workflow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/resize-image-ios-jpeg.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can also find the option to allow the shortcut to run when your device is locked under the “Privacy” section, as well as a “Set-up” section that asks a series of questions when the Shortcut is first added (to gather data that’s critical to the Shortcut’s functioning).
 
  Creating a shortcut from scratch can be a daunting process if you’re not sure what you’re doing. For now, have a look at the available actions and settings. Try placing a few down and see what happens, even if you have no intention of building something cohesive.
@@ -81,8 +92,12 @@ Tim Brookes / How-To Geek
 ![Define input type in a new Shortcuts workflow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/new_shortcut_inputs.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  At the top of the screen you can name your Shortcut, select an icon, and pick a color. At the bottom of the screen is a “Play” button that you can use to test your Shortcut as you build it. Don’t worry if you’re feeling a bit lost at this stage.
 
 ##  Some iPhone Shortcuts Ideas to Get You Started
@@ -97,9 +112,6 @@ Tim Brookes / How-To Geek
 
 ![Providing input when running a Shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/record_weight_input.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 **Note:**  You may be prompted to give Shortcuts access to your Health data if you haven’t already done so. You can always manage these permissions under Settings > Privacy & Security.
 
  That’s a simple workflow that speeds up a process with a single action. Let’s take a look at something a little more complex by building a workflow that merges multiple PDFs into a single document.
@@ -115,24 +127,35 @@ Tim Brookes / How-To Geek
  Hopefully, these two examples are enough to whet your appetite to create your own workflows in Shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  You Can Download Shortcuts Too
 
  Don’t fancy creating your own Shortcuts? The good news is that you don’t have to. There are thousands of Shortcuts out there that you can download right away. Some of them you will find on the “Gallery” tab in the Shortcuts app. Find one you like then tap the plus “+” button next to it.
 
 ![The iPhone Shortcuts gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/shortcut_gallery.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Alternatively, you can download Shortcuts from other sources. Make sure you trust the source you’re downloading from (or can see that other users have verified the source for you), though Shortcuts are pretty safe there’s always a possibility that bad actors will try and take advantage.
 
  We’ve got a [guide to finding and downloading Shortcuts](https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-5g-location-without-installing-software-drfone-by-drfone-virtual-android/) that is worth a read. Arguably the best source for Shortcuts is the [r/Shortcuts](http://reddit.com/r/shortcuts) subreddit. There’s also [ShortcutsGallery.com](https://shortcutsgallery.com) and [Routinehub](https://routinehub.co).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Sync Shortcuts Between iPhone, iPad, and Mac
 
  Shortcuts should automatically sync between your devices, provided you use the same Apple ID on your iPhone, iPad, and Mac. You’ll find your saved Shortcuts in the relevant app. Due to the differing nature of Apple’s desktop and mobile operating systems, not all Shortcuts are compatible with all devices (but many are).
@@ -140,8 +163,12 @@ Tim Brookes / How-To Geek
 ![Shortcuts app for macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/shortcuts_app_mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Shortcuts to Trigger Automations
 
  Within the Shortcuts app, you’ll find an “Automations” tab. Here you can [build Automations that trigger based on events](https://extra-lessons.techidaily.com/peak-performance-win-tunes/) like a time, when you perform an action like tapping a payment card, or when you arrive or leave at a location.
@@ -156,8 +183,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +190,24 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects/"><u>[New] 2024 Approved Bring Your Vision to Life Incorporating Free LUT Filters Into OBS Projects</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-download-twitter-gif-3-ways-to-download-gifs-from-twitter-on-your-pc/"><u>[New] 2024 Approved Download Twitter GIF 3 Ways to Download GIFs From Twitter on Your PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-video-recording-titans-obs-studio-vs-fraps-face-off-for-2024/"><u>[New] Video Recording Titans OBS Studio vs Fraps Face-Off for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-music-reactions-years-top-ten-showcase/"><u>2024 Approved YouTube Music Reactions Year's Top Ten Showcase</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-at-your-fingertips-configuring-ai-conversations-for-android-users-and-ios-enthusiasts/"><u>ChatGPT at Your Fingertips: Configuring AI Conversations for Android Users & iOS Enthusiasts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comparing-gphone-and-iphone-top-8-criteria-determining-the-clear-winner/"><u>Comparing Gphone and iPhone: Top 8 Criteria Determining the Clear Winner</u></a></li>
+<li><a href="https://os-tips.techidaily.com/for-every-mention-of-a-natural-remedy-exercise-sunlight-exposure-mindful-meditation-light-therapy-and-omega-3-fatty-acids-associate-it-with-a-corresponding-14/"><u>For Every Mention of a Natural Remedy (Exercise, Sunlight Exposure, Mindful Meditation, Light Therapy, and Omega-3 Fatty Acids), Associate It with a Corresponding Mythical Creature that Would Benefit Most From This Remedy in Terms of Their Legendary Lore</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6 Plus From Your Apple ID</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-apple-id-login-problems-a-comprehensive-guide/"><u>Solving Your Apple ID Login Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-configuring-xbox/"><u>Step-by-Step Guide: Downloading & Configuring Xbox 지오블기슬라이터드라이버</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sudden-iphone-photo-loss-effective-fixes-and-tips/"><u>Sudden iPhone Photo Loss: Effective Fixes and Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-setting-up-an-emoji-keyboard-on-your-iphone/"><u>The Ultimate Guide to Setting Up an Emoji Keyboard on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-icloud-unlocking-tools-for-removing-cloud-locks-on-ios-devices/"><u>Top Rated iCloud Unlocking Tools for Removing Cloud Locks on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-tips-ultimate-guide-to-troubleshooting-your-non-responsive-ipad-keyboard/"><u>Top Tips: Ultimate Guide to Troubleshooting Your Non-Responsive iPad Keyboard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-reasons-behind-a-laggy-ipad-top-strategies-for-speed-restoration/"><u>Unveiling the Reasons Behind a Laggy iPad: Top Strategies for Speed Restoration</u></a></li>
+</ul></div>
 

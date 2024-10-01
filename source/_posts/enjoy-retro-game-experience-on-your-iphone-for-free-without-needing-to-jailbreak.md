@@ -1,7 +1,7 @@
 ---
 title: Enjoy Retro Game Experience on Your iPhone for FREE Without Needing to Jailbreak
-date: 2024-09-01T06:57:06.633Z
-updated: 2024-09-02T06:57:06.633Z
+date: 2024-09-23T19:39:10.639Z
+updated: 2024-09-30T23:48:56.065Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Make Use of Delta's Full Feature Set](https://some-knowledge.techidaily.com/ideal-webcams-to-upgrade-your-zoom-video-quality-for-2024/)
 * [More Emulators Are Coming](https://tiktok-clips.techidaily.com/2024-approved-funhouse-finds-unveiling-the-hottest-tiktok-gaming-phenoms/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Emulators are now officially available for iPhone, legally, but you'll need to supply your own games (and downloading ROMs you do not own is illegal).
@@ -28,8 +35,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The days of jailbreaking your iPhone to play emulated games are over. Here’s how easy it is to play retro games on iOS and iPadOS, for free.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Emulators Are Now (Officially) Available for iPhone
 
  In April 2024 Apple sent an email to developers informing them of several changes to what is and isn’t permissible on the App Store. This included allowing “retro game console emulator apps” for the first time. Before the change, installing emulators required a jailbreak or building and [sideloading the app](https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/) yourself.
@@ -46,15 +57,25 @@ Tim Brookes / How-To Geek
 
  So why the sudden change? Apple is probably jumping before it is pushed. The EU has mandated that the iPhone open up to third-party App Stores, so Apple may be trying to avoid future problems. There’s also nothing inherently illegal about emulators, even though big players like Nintendo are vehemently opposed.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Play Classic Nintendo Games With Delta
 
  Speaking of Nintendo, the first emulator to arrive on the App Store is [Delta](https://github.com/rileytestut/Delta?tab=readme-ov-file), a multiple system emulator that includes cores for the NES, SNES, Nintendo 64, Game Boy (Color), Game Boy Advance, and Nintendo DS. There are also plans to support the Sega Genesis in a future update.
 
 ![Super Mario 64 on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/n64_super_mario_64.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Delta brings together many different emulation projects like [Nestopia](https://nestopia.sourceforge.net), [Snes9x](https://github.com/snes9xgit/), [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), and [melonDS](https://github.com/melonDS-emu/melonDS) under one simple application. The project is a spiritual successor to GBA4iOS, an emulator you may have heard of if you’ve dabbled in the iOS emulation scene before.
 
  You can [download Delta from the App Store](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) for iPhone, though it also works on iPad and macOS. As per Apple’s guidelines, the emulator doesn’t come with anything in playable form. You’ll need to supply your own ROMs, which you can transfer using a variety of methods.
@@ -67,9 +88,6 @@ Tim Brookes / How-To Geek
 
  You can also open the relevant app on your iPhone (you’ll need to do this for Google Drive and cloud storage providers that don’t integrate with Files). You should be able to tap on a ROM file to automatically have it open in Delta. If you have more than one app that can handle that file type, you’ll be asked which app you want to use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ###  Transfer Games via AirDrop
 
  AirDrop works in much the same way. Simply find the native ROM file on the device you want to AirDrop from (like a Mac) and send it to your target device. The file will be saved in your device’s Downloads folder. Use Files to find Downloads, tap on the ROM and it will open in Delta (or prompt you to select an app, after which you can choose Delta).
@@ -92,9 +110,6 @@ Tim Brookes / How-To Geek
 
 ![8BitDo SN30 closeup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/pxl_20240304_204309207-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Kris Henges / How-To Geek
 
  To pair a controller, put your controller into pairing mode (usually by holding down the power button, as is the case with Xbox and PlayStation pads), then head to Settings > Bluetooth. Wait for the list of devices to refresh, and then tap on your controller when it appears. It should pair automatically and be ready for use immediately.
@@ -103,9 +118,6 @@ Kris Henges / How-To Geek
 
  For best results, a controller clip will allow you to mount your iPhone on top of your controller for a comfortable portable experience. You can also purchase controllers like the [Backbone](https://playbackbone.com) or [Razer Kishi](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2002864&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fmobile-controllers%2Frazer-kishi%2F) which turns your iPhone into something that resembles a Nintendo Switch, providing the most comfortable playing experience.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Make Use of Delta's Full Feature Set
 
  Delta is packed with extra features, many of which you don’t need to activate. For example, artwork for any games you add should be automatically downloaded. You can always tap and hold a game and then choose “Change Artwork” to nominate your own.
@@ -115,8 +127,12 @@ Kris Henges / How-To Geek
 ![The Delta emulator pause menu with save, load, and other options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/pause_menu.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The “Menu” button also hides a few other features, like a “Fast Forward” option for skipping ahead, a “Hold Buttons” option for automating certain operations, and the “Cheat Codes” section which allows you to use Game Genie or GameShark cheat codes in your games.
 
  If you prefer to use touch controls, you can install custom controller skins from the [Delta Skins repository](https://delta-skins.github.io). You can transfer these as you would a ROM, opening the file in the app or using the “iTunes” import option once you’ve transferred via a cable.
@@ -126,8 +142,12 @@ Kris Henges / How-To Geek
 ![Assining multiple controllers in Delta for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/controller_assign.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also set up a Delta Sync under “Settings” which not only syncs your game library but all of your game saves, save states, controller skins, cheats, and controller mappings. Toggle “Delta Sync” on then use the Dropbox or Google Drive buttons to link your cloud storage account.
 
  Lastly, you can customize your Delta home screen to either show what you’ve recently been playing or a selection of your favorite games. This can be particularly handy when your collection grows to an unwieldy size. Head to “Settings” and tap “Home Screen Shortcuts” to get started.
@@ -144,8 +164,6 @@ Kris Henges / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +171,20 @@ Kris Henges / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>[New] In 2024, Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-nvidia-screen-recorder-record-games-with-ease-for-2024/"><u>[New] NVIDIA Screen Recorder - Record Games with Ease for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-method-for-combining-gopro-footage-with-full-spherical-vids-for-2024/"><u>Advanced Method for Combining GoPro Footage with Full Spherical Vids for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-music-download-tips-expert-guide-to-enriching-your-ipads-playlist-at-no-cost/"><u>Free Music Download Tips: Expert Guide to Enriching Your iPad's Playlist at No Cost</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-or-stolen-how-to-retrieve-your-missing-iphone-safely/"><u>Lost or Stolen? How to Retrieve Your Missing iPhone Safely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/replacing-the-turing-benchmark-unveiling-5-cutting-edge-artificial-intelligence-tests/"><u>Replacing the Turing Benchmark: Unveiling 5 Cutting-Edge Artificial Intelligence Tests</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unlocking-the-potential-of-your-iphones-wifi-sharing-abilities/"><u>Step-by-Step Instructions: Unlocking the Potential of Your iPhone's WiFi Sharing Abilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-6-gopro-helmet-harnesses-tips-and-techniques-unveiled-for-2024/"><u>Top 6 GoPro Helmet Harnesses Tips and Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-auto-play-features-why-your-iphone-chooses-songs-on-apple-music/"><u>Understanding Auto-Play Features: Why Your iPhone Chooses Songs on Apple Music</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-screen-time-functions-and-steps-to-deactivate/"><u>Understanding iPhone Screen Time: Functions & Steps to Deactivate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-android-phones-address-book-guide-a-beginners-tutorial/"><u>Unlocking Your Android Phone's Address Book Guide: A Beginner's Tutorial</u></a></li>
+</ul></div>
 

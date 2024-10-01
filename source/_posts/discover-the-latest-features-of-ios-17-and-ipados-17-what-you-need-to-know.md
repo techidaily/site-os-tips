@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Features of iOS 17 & iPadOS 17: What You Need to Know"
-date: 2024-09-01T07:00:02.925Z
-updated: 2024-09-02T07:00:02.925Z
+date: 2024-09-27T03:49:34.981Z
+updated: 2024-10-01T11:31:41.647Z
 tags:
   - ios
 categories:
@@ -47,9 +47,6 @@ _Apple_
 
 ![iMessage search filters in iOS 17](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/messages_search_filter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 _Apple_
 
  There are some nice quality-of-life improvements to chats too. A new "catch up" arrow takes you right to the newest message you haven't yet read (great for busy group chats), and you can reply in-line to messages easier with a simple swipe. Audio messages you receive will now be transcribed, perfect if you're unable to listen to them at the time. You can also see the locations of friends who have shared their position right in the conversation.
@@ -86,26 +83,23 @@ _Apple_
 
  The feature won't work with numbers flagged as spammers, which is a nice touch. This builds on Apple's [already useful Voicemail Transcription feature](https://extra-support.techidaily.com/in-2024-maximizing-your-android-game-adventure-with-kinemaster-review/), though support can vary depending on your carrier and location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  FaceTime Gets Audio and Video Messages, Apple TV Integration
 
  FaceTime callers can now leave messages if the recipient is unavailable, just like they can with a regular phone call. This works for both video and audio messages, depending on the type of call placed. There are also some new reactions that you can trigger with gestures, much like the message-send effects found in Messages (including balloons, fireworks, hearts, and more).
 
 ![Leaving a FaceTime video message in iOS 17](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/facetime_messages.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 _Apple_
 
  On top of this, Apple TV 4K owners can now pass FaceTime calls to their TV, which builds on the [Continuity Camera feature added in 2022's iOS and macOS updates](https://dvd-bd.techidaily.com/diy-tutorial-transform-your-mp4-videos-into-a-professional-costless-dvd-with-ease/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  StandBy View
 
  Apple Watch users will be familiar with [Nightstand Mode](https://extra-lessons.techidaily.com/2024-approved-branding-beyond-words-eye-catching-podcast-graphics/), and now a similar feature is coming to the iPhone. Simply turn your iPhone on its side to enter StandBy View, which shows information at a glance that's designed to be viewed at a distance.
@@ -113,6 +107,13 @@ _Apple_
  The mode includes a range of different clock styles, which you can access by swiping up and down, or view photos from your library by swiping side to side. You can add widgets to certain clock faces to see information like the weather, a calendar, smart home controls, and widgets from third-party apps. Your iPhone will also surface useful information based on your usage patterns in this mode.
 
 ![StandBy view in iOS 17 on an iPhone 14 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/standby_mode_iphone.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Apple_
 
@@ -126,29 +127,18 @@ _Apple_
 
 ![Sharing contact details with NameDrop on iOS 17](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/namedrop_ios_17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 _Apple_
 
  The same proximity-based AirDrop feature works with other content like photos or videos, supposedly improving local sharing between two iPhones. On top of this, AirDrop now allows you to initiate a large transfer (like a video) and step out of range, at which point the transfer will continue over the internet. If you've ever sat around waiting for an AirDrop transfer to finish, that's a more than welcome improvement.
 
  On top of AirDrop features, iOS 17 will finally let people share AirTags. The beacons previously were limited to a single user but now allow you to invite contacts to see the location of your AirTag and automatically opt-out of any [warnings associated with that AirTag](https://fox-boxes.techidaily.com/2024-approved-empower-creatives-with-xps-film-compositions-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  More Accurate Autocorrect
 
  Apple was also keen to stress that it has made improvements to the underlying autocorrect model for better suggestions. Sentence-level autocorrect corrects entire sentences after you have typed them. You can tap on words to get back to the word you initially typed, which is handy when autocorrect is a little too zealous. On top of this, your iPhone can now learn profanity too.
 
 ![Improved autocorrect features in iOS 17](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ios_17_autocorrect.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 _Apple_
 
  The other big typing improvement is in-line predictions that appear as you type. These suggestions let you quickly finish sentences or phrases, and they mirror features you've probably already used elsewhere (Gmail's email prediction springs to mind).
@@ -156,8 +146,12 @@ _Apple_
 ![iOS 17 in-line text predictions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ios_17_predict_text.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Apple_
 
 ###  Offline Maps, Personal Voice, and More
@@ -168,9 +162,6 @@ _Apple_
 
 ![iOS 17 wrap-up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ios_17_wrap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 _Apple_
 
 ##  What's Coming to iPadOS 17?
@@ -180,19 +171,40 @@ _Apple_
  Let's take a look at some of the big new features coming to your Apple tablet later in the year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Interactive Widgets for the Home Screen
 
  The iPad has had Home Screen widgets for a while, but in iPadOS 17 they get a lot more interactive. You can now do things within widgets that don't require you to open a companion app. This includes things like checking off reminders, controlling your smart home devices, or accessing features within third-party apps since they, too, can take advantage of improved widgets.
 
 ![Interactive home screen widgets on iPadOS 17](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ipad_widgets.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Apple_
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  A More Useful Customizable Lock Screen
 
  iPadOS adds a customizable Lock Screen, just like you'll find on the iPhone. The release includes some built-in wallpapers, like a new astronomy set that lets you customize which celestial body you want to see. You can, of course, use your own photos, and this includes Live Photos which Apple enhances with a slow-motion effect that interpolates additional frames.
@@ -203,35 +215,22 @@ _Apple_
 
  Just like the iPhone, you can set your typeface, add filters, and define a color scheme. Live Activities are another Lock Screen improvement, which are essentially fancier notifications that show up-to-date information. See flight information, sports scores, food delivery status, timers, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Apple Health Comes to iPad
 
  It's odd that it's taken Apple so long to add a Health app to the iPad, but the feature is official as of iPadOS 17\. Health syncs securely with your iPhone, allowing you to record and browse the information you have added or gathered from wearables like the Apple Watch.
 
 ![Apple Health on the iPad in iPadOS 17](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ipadOS_17_health.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Apple_
 
  Health features the same useful medication reminders, the ability to share and export certain information to pass along to health professionals, and support for third-party apps that you have granted access to Health for monitoring trends and progress.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ###  Better PDF Support
 
  Do you use your iPad to fill out forms? iPadOS 17 improves the PDF experience by using machine learning to recognize fields, even if they're not properly defined within the body of the PDF. You can then use autofill to fill out your contact information automatically, saving you time.
 
 ![Using autofill to fill out a scanned PDF in iPadOS 17](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/pdf_ipadOS_17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 _Apple_
 
  The improvements also work with documents you have scanned in Notes, as well as Apple Mail's "Reply Back" in-line annotation feature.
@@ -253,9 +252,20 @@ _Apple_
 ![iPadOS 17 wrap-up from WWDC 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ipad_os_wrap.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Apple_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Coming Fall 2023
 
@@ -269,8 +279,6 @@ _Apple_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +286,24 @@ _Apple_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-balancing-speed-and-quality-choosing-between-lower-and-higher-fps/"><u>[New] Balancing Speed & Quality Choosing Between Lower and Higher FPS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-premier-iphone-watermark-apps-reviewed/"><u>[New] In 2024, Premier iPhone Watermark Apps Reviewed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/erase-or-hide-a-skype-contact-forever-a-fast-2-step-guide-for-iphone-users/"><u>Erase or Hide a Skype Contact Forever: A Fast 2-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620240011-get-the-beat-on-your-device-discover-how-to-easily-move-tunes-from-an-ipod-touchshufflenano-no-itunes-required/"><u>Get the Beat on Your Device: Discover How to Easily Move Tunes From an iPod Touch/Shuffle/Nano - No iTunes Required</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-boost-your-ipads-speed-diagnosing-issues-and-implementing-effective-remedies/"><u>How to Boost Your iPad's Speed: Diagnosing Issues & Implementing Effective Remedies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-completeblock-instagram-search-records-from-iphone-devices-forever/"><u>How to Completeblock Instagram Search Records From iPhone Devices Forever</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-completely-erase-your-apple-map-activity-from-iphone/"><u>How to Completely Erase Your Apple Map Activity From iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c210-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia C210 Lock Screen Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242029-mastering-cache-management-erase-browsing-data-from-chrome-and-safari-on-your-ipad-effortlessly/"><u>Mastering Cache Management: Erase Browsing Data From Chrome & Safari on Your iPad Effortlessly!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-integrating-chatgpt-into-your-excel-workflows/"><u>Maximizing Productivity: Integrating ChatGPT Into Your Excel Workflows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-iphone-and-ipad-downloading-messages-issue/"><u>Solve iPhone & iPad Downloading Messages Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-freeing-your-device-from-the-icloud-activation-restriction/"><u>Step-by-Step Guide: Freeing Your Device From the iCloud Activation Restriction</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/topmate-c302-under-50-a-comprehensive-examination-of-budget-friendly-laptop-cooling-pad-performance/"><u>TopMate C302 Under $50 – A Comprehensive Examination of Budget-Friendly Laptop Cooling Pad Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-insights-into-computing-visit-toms-hardware-hub/"><u>Ultimate Insights Into Computing - Visit Tom's Hardware Hub</u></a></li>
+</ul></div>
 

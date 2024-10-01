@@ -1,7 +1,7 @@
 ---
 title: "Predicted Breakthroughs for AI at the Upcoming Apple WWDC 2024: A Look Into Future Possibilities."
-date: 2024-09-05T07:42:33.687Z
-updated: 2024-09-06T07:42:33.687Z
+date: 2024-09-25T23:15:53.294Z
+updated: 2024-10-01T03:11:15.411Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded262febe57a071aa1b9c893a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Predicted Breakthroughs for AI at the Upcoming Apple WWDC 2024: A Look Into Future Possibilities.
 
 ### Quick Links
@@ -28,17 +22,12 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
  There have been hints about Apple’s AI ambitions coming this year but CEO [Tim Cook laid it out](https://www.reuters.com/technology/apple-shareholders-reject-ai-disclosure-proposal-2024-02-28/), saying Apple had, “incredible breakthrough potential for generative AI.” Here’s what I think is coming at [Apple's WWDC developer conference](https://youtube-video-recordings.techidaily.com/charting-the-course-to-earnings-with-youtube-videos-for-2024/) on June 10.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1  Siri Will Become a Proper Chatbot/LLM 
 
  Instead of having people turning to ChatGPT, I think Apple wants people to give Siri another chance to answer all their questions, without hearing, “I can show you some results if you look at your iPhone.” During the most inopportune times, it feels like a lot of times Siri instantly shoves people to a website, rather than fully handling response generation.
@@ -51,32 +40,15 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
 ![A WWDC2024 logo on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wwdc.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2  Siri Will Remain the Brand for Apple's (New) AI Assistant 
 
  This isn’t “new Coke,” but it could be “new Siri.” Apple is infamous for its product branding, often replacing one MacBook or iPad with a new one and letting customers and media default to calling it the new whatever. I think the same thing could happen here. There's just too much inherent brand recognition for Apple to leave behind, despite some of it being frustrating.
@@ -84,11 +56,12 @@ Apple
  We should get a new Siri, completely revamped and improved, but it will still be Siri in name. If that happens, so be it. The important part is the functionality. If I had my way, I wouldn’t hate some differentiation from the old to the new, however. "Siri AI" rolls off the tongue nicely.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3  Apple Watch Will Become a Better Assistant Conduit 
 
  Tech startup, Humane announced its [Ai Pin](https://extra-support.techidaily.com/navigating-finances-in-your-podcast-journey-for-2024/), a self-contained AI-powered device, and all I could think about was how all its pieces, save for a camera, were pretty much already in the Apple Watch. Apple almost has an AI device on its hands. If Siri is going to become more assistive, it would be handy to not even need to pull your phone out of your pocket.
@@ -106,17 +79,12 @@ Apple
  I hope there will still be some minor additions like better editing tools built into Photos; erasing unwanted items as the primary example. But I don’t think there’s a chance Apple will suddenly begin letting the Photos app or Camera app dabble in fantasy. Unlike the [Pixel 8](https://youtube-tips.techidaily.com/24-simple-guide-youtube-to-mp3-on-mac/), I don’t see Apple letting generative AI create wholly fictional photo scenes for people, at least not this year.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5  Generative AI Will Come to Apps Like Mail, Music, Fitness, and Others 
 
  Instead of shoving AI into Photos immediately, I think Apple will spend its time injecting other, more unexpected, apps full of artificial intelligence.
@@ -137,8 +105,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +112,22 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlock-youtube-potential-with-top-igtv-editors/"><u>[New] In 2024, Unlock YouTube Potential with Top IGTV Editors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-seamlessly-shift-focus-with-picart-clear-borders/"><u>[Updated] 2024 Approved Seamlessly Shift Focus with PicArt Clear Borders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-top-5-list-ps3-games-on-windows-platforms/"><u>[Updated] 2024 Approved Ultimate Top 5 List PS3 Games on Windows Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-calendar-imprinting-techniques-in-photography/"><u>[Updated] In 2024, Calendar Imprinting Techniques in Photography</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-fixing-iphone-wont-restore-from-icloud-backup-problem/"><u>Complete Guide: Fixing 'iPhone Won't Restore From iCloud Backup' Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-securely-backing-up-and-keeping-your-iphone-data-in-icloud/"><u>Comprehensive Tutorial on Securely Backing Up and Keeping Your iPhone Data in iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficiently-syncing-iphone-images-with-your-mac-a-step-by-step-guide/"><u>Efficiently Syncing iPhone Images with Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-guide-effortless-iphone-data-transfer-from-pc-with-and-without-itunes/"><u>Expert Guide: Effortless iPhone Data Transfer From PC with and without iTunes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-manually-back-up-your-iphone-using-these-3-quick-and-easy-techniques/"><u>How to Manually Back Up Your iPhone Using These 3 Quick and Easy Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g-5g-2023-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G 5G (2023)? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-ios-tools-to-explore-and-manage-your-phones-sync-files/"><u>Leading iOS Tools to Explore and Manage Your Phone's Sync Files</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-iphones-important-reminders-a-step-by-step-guide-to-free-and-premium-note-backup-solutions/"><u>Protect Your iPhone's Important Reminders: A Step-by-Step Guide to Free and Premium Note-Backup Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-day-discover-9-ways-chatgpt-enhances-daily-living/"><u>Streamline Your Day: Discover 9 Ways ChatGPT Enhances Daily Living</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-instagram-slowness-top-6-solutions-for-both-iphone-and-android/"><u>Troubleshoot Instagram Slowness: Top 6 Solutions for Both iPhone & Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-access-clearing-windowss-prior-passcode/"><u>Winning Back Access: Clearing “Windows's Prior Passcode”</u></a></li>
+</ul></div>
 

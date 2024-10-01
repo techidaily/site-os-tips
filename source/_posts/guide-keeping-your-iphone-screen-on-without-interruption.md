@@ -1,7 +1,7 @@
 ---
 title: "Guide: Keeping Your iPhone Screen On Without Interruption"
-date: 2024-09-22T19:41:27.514Z
-updated: 2024-09-26T02:59:38.879Z
+date: 2024-09-24T02:02:54.493Z
+updated: 2024-10-01T08:18:18.155Z
 tags:
   - ios
 categories:
@@ -29,16 +29,22 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
 ![Open Settings on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/launch_settings_iphone-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In "Settings," tap "Display & Brightness."
 
 ![Tap "Display & Brightness" in iPhone Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/tap_display_brightness.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the "Display & Brightness" settings, scroll down and tap "Auto-Lock."
 
@@ -47,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 ![Tap "Auto-Lock" in "Display & Brightness" in iPhone Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/iphone_tap_auto-lock.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In "Auto-Lock," you will see a list of time options. These determine the length of time your iPhone's screen will stay lit before turning off and going into Lock mode.
@@ -60,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 ![Tap "Never" in "Auto-Lock" settings in iPhone Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/iphone_tap_never.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, exit "Settings." Whenever you wake your iPhone, its screen will stay lit and will not go into Lock mode until you push the power button.
@@ -71,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  If you keep having trouble with a dimming screen even with "Auto-Lock" disabled, it could be because "Auto-Brightness" is enabled. ["Auto-Brightness" can be disabled](https://instagram-clips.techidaily.com/updated-mastering-instagram-utilizing-search-to-expand-your-filters-for-2024/) under the Accessibility options in the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  It's Usually Best to Reenable Auto-Lock Again Later
@@ -98,16 +104,22 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>[New] Crafting Captivating Edu-Videos Essential Techniques and Tips for YouTube Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-obs-tutorial-broadcasting-on-youtube-from-home-for-2024/"><u>[Updated] OBS Tutorial Broadcasting on Youtube From Home for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-illuminating-craftsmanship-avoiding-common-film-lighting-pitfalls/"><u>2024 Approved Illuminating Craftsmanship Avoiding Common Film-Lighting Pitfalls</u></a></li>
-<li><a href="https://fox-links.techidaily.com/cutting-edge-complete-rotation-videography-equipment-for-2024/"><u>Cutting Edge Complete Rotation Videography Equipment for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-downloading-of-bilibili-media-in-mp4-format-a-step-by-step-tutorial/"><u>Effortless Downloading of Bilibili Media in MP4 Format – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-apples-latest-marvel-a-comprehensive-look-at-the-iphone-15-pro-with-revolutionary-titanium-frame-and-enhanced-usb-c/"><u>Inside Apple's Latest Marvel - A Comprehensive Look at the iPhone 15 Pro with Revolutionary Titanium Frame & Enhanced USB-C</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-digital-id-adoption-gains-ground-in-california/"><u>IPhone Digital ID Adoption Gains Ground in California</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-professional-email-management-a-top-ten-guide-to-utilizing-apples-mail-app-on-your-iphone/"><u>Mastering Professional Email Management: A Top-Ten Guide to Utilizing Apple's Mail App on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-lifespan-top-7-strategies-for-enhanced-battery-durability-in-airpods-and-airpods-pro/"><u>Maximizing Lifespan: Top 7 Strategies for Enhanced Battery Durability in AirPods & AirPods Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-strategies-for-re-booting-windows-explorer-11/"><u>Swift Strategies for Re-Booting Windows Explorer 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-brief-snippet-analysis-for-beginners/"><u>[New] Brief Snippet Analysis for Beginners</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-convert-twitter-vids-to-customized-soundtracks/"><u>[New] Convert Twitter Vids to Customized Soundtracks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-cutting-ties-with-instagram-navigating-a-permanent-exit-strategy/"><u>[Updated] In 2024, Cutting Ties with Instagram Navigating a Permanent Exit Strategy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-10-steadicam-choices-for-drone-cinematography-pros-for-2024/"><u>[Updated] Top 10 Steadicam Choices for Drone Cinematography Pros for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-spots-for-stunning-3d-metallic-type-creations/"><u>2024 Approved Leading Spots for Stunning 3D Metallic Type Creations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-activating-recovery-mode-on-your-ipad-a-must-read-for-newbies-and-experts/"><u>Complete Guide To Activating Recovery Mode On Your iPad - A Must Read For Newbies And Experts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-mirror-your-ipad-on-smart-tvs-using-three-effective-techniques/"><u>Easy Tutorial: Mirror Your iPad on Smart TVs Using Three Effective Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-smart-8-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Smart 8 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-apple-iphones-ios-17-draining-battery-glitches-quickly/"><u>How to Resolve Apple iPhone's iOS 17 Draining Battery Glitches Quickly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improve-your-ios-user-experience-a-guide-to-customizing-iphone-home-and-lock-screens/"><u>Improve Your iOS User Experience: A Guide to Customizing iPhone Home and Lock Screens</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improving-photo-quality-easily-detailed-instructions-for-apple-devices/"><u>Improving Photo Quality Easily: Detailed Instructions for Apple Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-hot-30-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Hot 30 5G Easily?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726220282528-movavi/"><u>Movaviプログラム無料試験版使用制限ガイド</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-terminating-your-apple-id-account-forever-with-these-five-strategies/"><u>Quick Guide: Terminating Your Apple ID Account Forever with These Five Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/regain-access-to-your-locked-ipad-expert-strategies-for-removing-the-screen-lock-code/"><u>Regain Access to Your Locked iPad: Expert Strategies for Removing the Screen Lock Code</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-expectations-from-nvidias-revolutionary-arm-processors/"><u>Top 5 Expectations From NVIDIA's Revolutionary ARM Processors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-concept-of-screen-time-on-iphones-a-guide-to-disabling-it/"><u>Unraveling the Concept of Screen Time on iPhones – A Guide to Disabling It</u></a></li>
 </ul></div>
 
