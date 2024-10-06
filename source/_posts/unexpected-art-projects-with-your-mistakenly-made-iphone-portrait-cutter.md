@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2024-09-27T01:44:29.221Z
-updated: 2024-10-01T11:16:32.548Z
+date: 2024-10-03T18:45:25.071Z
+updated: 2024-10-06T16:34:00.297Z
 tags:
   - ios
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Creating Cutouts is Easy
 
  As long as you have an iPhone XS or second-generation iPhone SE or newer, creating a cutout is so easy you’ll probably do it by mistake. You can [isolate subjects in photos](https://extra-support.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/) including people, pets, and inanimate objects like signs or clothing.
@@ -33,10 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Isolating a subject from an image in iPhone Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1922.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -44,13 +51,6 @@ Tim Brookes / How-To Geek
  You can also create cutouts using the Files app, isolating subjects in images saved to your iCloud Drive or internal storage. To do this, long-press a photo and use the “Quick Actions” menu to “Remove Background.” In Safari, you can long press on a photo to reveal the context menu and then choose “Copy Subject” to copy the subject to your clipboard.
 
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create Stickers Using Photo Cutouts
 
@@ -64,13 +64,26 @@ Tim Brookes / How-To Geek
 
 ![iPhone stickers for use in iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1924.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a Mood Board
@@ -100,22 +113,15 @@ Tim Brookes / How-To Geek
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Highlight the Subject in Almost Any App
 
@@ -168,15 +174,24 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-10-best-gopro-cases-review/"><u>[New] In 2024, Top 10 Best GoPro Cases Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-cash-app-introduces-comparable-high-yield-savings-features-as-the-apple-card/"><u>1. Cash App Introduces Comparable High-Yield Savings Features as the Apple Card</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-mastering-mobile-security-a-step-by-step-guide-to-setting-up-passkeys-on-ios-and-macos-devices/"><u>1. Mastering Mobile Security: A Step-by-Step Guide to Setting Up Passkeys on iOS & macOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-whatsapp-successfully-executes-bold-move-with-profit-surge/"><u>1. WhatsApp Successfully Executes Bold Move with Profit Surge</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-a-guide-to-risk-management-and-mitigation-strategies-in-market-research/"><u>2024 Approved A Guide to Risk Management and Mitigation Strategies in Market Research</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-pioneering-popularity-with-powerful-instagram-videos/"><u>2024 Approved Pioneering Popularity with Powerful Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-seamless-process-of-instagram-video-content/"><u>2024 Approved Seamless Process of Instagram Video Content</u></a></li>
-<li><a href="https://fox-that.techidaily.com/find-my-app-mastery-how-to-track-down-your-vanished-iphone/"><u>Find My App Mastery: How to Track Down Your Vanished iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-removing-dust-and-fingerprints-from-modern-television-screens-safely/"><u>Top Tips for Removing Dust and Fingerprints From Modern Television Screens Safely</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-humanes-ai-pin-is-perfectly-designed-for-enhanced-iphone-photography/"><u>Why Humane's AI Pin Is Perfectly Designed for Enhanced iPhone Photography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-finding-the-right-youtube-keywords-for-2024/"><u>[New] The Ultimate Guide to Finding the Right YouTube Keywords for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-gaming-content-on-youtube/"><u>[Updated] In 2024, Mastering Gaming Content on YouTube</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-access-and-use-your-tv-service-through-your-iphone/"><u>Complete Guide: How to Access and Use Your TV Service Through Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-ipod-touch-generation-2-video-conversion-handbook-easy-guide-for-media-transfer/"><u>Comprehensive iPod Touch Generation 2 Video Conversion Handbook – Easy Guide for Media Transfer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tricks-to-reach-the-advanced-setup-menu-of-windows-11-pcs/"><u>Easy Tricks to Reach the Advanced Setup Menu of Windows 11 PCs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-guide-resolving-your-apple-id-login-problems-swiftly/"><u>Expert Guide: Resolving Your Apple ID Login Problems Swiftly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-ios-device-superuser-access-create-passwords-and-usernames-on-the-go/"><u>Free iOS Device Superuser Access: Create Passwords & Usernames on the Go</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-secure-your-whatsapp-with-a-strong-password-on-iphone-and-android-devices/"><u>How to Secure Your WhatsApp with a Strong Password on iPhone & Android Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-15-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 15 Plus?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-10-ai-subtitle-translators-for-content-creators/"><u>In 2024, Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-social-shares-comprehensive-instagram-posting-strategies-for-ultimate-engagement/"><u>Master the Art of Social Shares: Comprehensive Instagram Posting Strategies for Ultimate Engagement</u></a></li>
+<li><a href="https://os-tips.techidaily.com/personalizing-your-iphone-experience-a-step-by-step-guide-to-modifying-fonts-on-your-device/"><u>Personalizing Your iPhone Experience: A Step-by-Step Guide to Modifying Fonts on Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-effortlessly-blurring-images-and-portions-on-your-iphone/"><u>Quick Guide: Effortlessly Blurring Images & Portions on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-wi-fi-connection-issues-on-your-microsoft-surface-pro/"><u>Solving Wi-Fi Connection Issues on Your Microsoft Surface Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-guide-to-skyrocketing-video-views/"><u>Step-by-Step Guide to Skyrocketing Video Views</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-strategies-for-boosting-your-facebook-usage-efficiency/"><u>Top 5 Strategies for Boosting Your Facebook Usage Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-windows-11s-default-home-path/"><u>Tweaking Windows 11'S Default Home Path</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-project-your-iphone-screen-onto-any-television-with-and-without-an-apple-tv/"><u>Ultimate Guide: How to Project Your iPhone Screen Onto Any Television – With and Without an Apple TV</u></a></li>
 </ul></div>
 

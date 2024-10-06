@@ -1,7 +1,7 @@
 ---
 title: "Wirelessly Amplify Your Voice: Using Your iPhone as an Audio Input Device on Mac"
-date: 2024-09-05T07:44:01.178Z
-updated: 2024-09-06T07:44:01.178Z
+date: 2024-10-01T17:18:59.648Z
+updated: 2024-10-06T19:56:43.736Z
 tags:
   - ios
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14bebfbfd43367d29eb599c5ee29.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wirelessly Amplify Your Voice: Using Your iPhone as an Audio Input Device on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Make sure your Mac and iPhone are running macOS Ventura and iOS 16, or later. Then sign them both into the same Apple ID account.
@@ -45,16 +33,24 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
  You do not need a specific model of Mac or iPhone to use this feature. So long as your devices are running macOS Ventura and iOS 16 (or later releases), you're good. An iPad running iPadOS 16 (or later) can also be used as a wired or wireless Mac microphone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use the iPhone as Your System-Wide Mic on macOS
 
 ![Selecting the iPhone as a microphone in macOS settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/21-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After meeting the requirements listed in the above section, your iPhone will appear as an audio input device on most websites and apps. But if you want apps and websites to automatically select your iPhone, you need to set it as your system-wide microphone. This is a quick and easy process, and while it isn't necessary, it's the best way to check that everything's working. Also, some of your Mac's default apps (including Voice Memo) are only allowed to use macOS's system-wide microphone.
 
  Open your Mac's System Settings and click the "Sound" tab in the sidebar. Under the "Output & Input" section, you'll see two tabs—one for your audio output devices, and another for your audio input devices. Your iPhone should appear under the audio input tab. Select your iPhone, and it will become the system-wide audio input device. (If you complete this process while your iPhone is plugged into your Mac, it will operate as a wired mic with reduced latency.)
@@ -62,39 +58,22 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 ![Notification that shows on-screen when using iPhone as Mac microphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/20-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Andrew Heinzman / How-To Geek
 
  When you use the iPhone as a wired or wireless mic, a dialog box with "Pause" and "Disconnect" controls will appear on its lock screen. Pressing the "Pause" button will mute the mic's audio. The "Disconnect" button cuts the connection completely, as if you've unplugged the microphone.
 
  Once your iPhone shows the dialog box with "Pause" and "Disconnect" buttons, look at the "Input Level" meter at the bottom of your Mac's "Sound" settings page. Speak near the iPhone (or make other noises), and the meter should respond accordingly. If you want to test the iPhone's microphone quality, open Voice Memos on your Mac and record yourself speaking. (By default, Voice Memos applies some compression to your recordings. You can select the [lossless recording](https://support.apple.com/guide/voice-memos/change-voice-memos-settings-vm0ba246ff3e/) setting to avoid compression, though the difference in quality is negligible on most speakers and headphones.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Select Your iPhone as a Mic on Websites, Apps, and Games
 
 ![Selecting the iPhone as a microphone in Google Meet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You don't _need_ to set your iPhone as your Mac's system-wide microphone. And, for better or worse, some websites and apps won't comply with your system-wide microphone setting. In any case, you can manually select your iPhone from the website or app's audio input menu.
 
  This is an extremely simple process, especially on video chat platforms like Zoom and Google Meet. However, audio input settings can be hard to find in video editors, DAWs, and other specialized applications.
@@ -102,6 +81,13 @@ Andrew Heinzman / How-To Geek
  If you're using a browser-based video chat service, such as Google Meet (or Zoom if you're directed by an invite link), your microphone settings will appear in the preview lobby before you join a meeting. Click the "Microphones" dropdown menu, select your iPhone, and you're good to go. After doing this once, the video chat service may automatically select your iPhone-turned-microphone the next time you log in.
 
 ![Selecting a microphone in the Zoom desktop app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/12-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Desktop video chat platforms, including the Zoom app, add a few steps to this process. Open Zoom or your video chat platform of choice and press the Command and comma (CMD+,) keys at the same time. This will open the app's settings. Then, navigate to the "Audio" or "Sound" tab. Under the "Microphones" or "Audio Input Devices" dropdown, select your iPhone.
 
@@ -125,8 +111,6 @@ Andrew Heinzman / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +118,21 @@ Andrew Heinzman / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-greatest-competitors-to-vimeos-cameo-editor-platform/"><u>[New] In 2024, Greatest Competitors to Vimeo's Cameo Editor Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/recision-editing-for-professionalism-adding-chapter-breakpoints-on-youtube/"><u>[New] Precision Editing for Professionalism Adding Chapter Breakpoints on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-a-step-by-step-journey-through-the-landscape-of-instagram-reels/"><u>2024 Approved A Step-by-Step Journey Through the Landscape of Instagram Reels</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-android-experience-with-these-easy-8-speeding-techniques/"><u>Boost Your Android Experience with These Easy 8 Speeding Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/broken-cell-phone-screen-discover-quick-fix-solutions-today/"><u>Broken Cell Phone Screen? Discover Quick Fix Solutions Today!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-eradicating-viruses-in-android-phones-and-tablet-computers/"><u>Comprehensive Guide: Eradicating Viruses in Android Phones and Tablet Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-for-everyone/"><u>Decoding AI for Everyone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-to-swiftly-sideloading-on-android-for-enhanced-customization-and-freedom/"><u>Easy Guide to Swiftly Sideloading on Android for Enhanced Customization & Freedom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-to-gain-full-control-rooting-your-samsung-galaxy-s-series-s8-s7-s6-edge-using-pingpong-method/"><u>Easy Steps to Gain Full Control: Rooting Your Samsung Galaxy S Series (S8, S7, S6 Edge) Using PingPong Method</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-conceal-the-stubborn-threads-emblem-on-your-instagram-profile/"><u>How To Conceal The Stubborn Threads Emblem On Your Instagram Profile</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-t2-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-x-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone X</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Phone with Broken Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

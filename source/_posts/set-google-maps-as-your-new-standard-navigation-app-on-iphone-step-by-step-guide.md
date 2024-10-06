@@ -1,7 +1,7 @@
 ---
 title: Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide
-date: 2024-09-05T07:43:37.243Z
-updated: 2024-09-06T07:43:37.243Z
+date: 2024-10-04T18:19:48.468Z
+updated: 2024-10-06T18:27:29.079Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-iphone-with-the-google-maps-icon-highlighted.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide
 
 ### Quick Links
@@ -24,11 +18,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Next, Make Gmail Your Default Mailing App](https://youtube-webster.techidaily.com/24-revenue-calculation-for-every-clicked-video/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can't make Google Maps the default navigation app on an iPhone, but you can when using Chrome and Gmail.
@@ -47,12 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Fortunately, since iOS 14, you can change the default browser and [email app on your iPhone](https://win11.techidaily.com/leveraging-advanced-tools-for-improved-admin-workflows-in-windows/). You can set the former to Chrome and the latter to Gmail. Since apps within Google's ecosystem prefer other Google apps, map links opened in Chrome and Gmail will open Google Maps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  First, Make Chrome Your Default Mobile Browser
 
  By setting your default browser to Chrome, map links will open in Google Maps when using it. But first, ensure you have downloaded Google Chrome from the [App Store](https://apps.apple.com/us/app/google-chrome/id535886823).
@@ -65,18 +54,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Chrome settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chrome-settings-page-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Setting the default browser to Chrome in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-chrome-default-browser-iphone.PNG) 
 
 Close 
@@ -92,26 +69,22 @@ Close
 ![The "Gmail" option in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-gmail-option-iphone.PNG) 
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The Gmail settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-settings-page-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Setting the default mail app to Gmail in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-default-mail-app-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -120,11 +93,12 @@ Close
 ![Tapping the hamburger menu in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-inbox-iphone.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Selecting the "Settings" option in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-option-gmail-iphone.PNG) 
 
 Close 
@@ -136,11 +110,12 @@ Close
 ![Setting Google Maps as the default navigation app in Gmail on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setting-google-maps-default-gmail-iphone.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close 
 
  The Google Maps options will have a blue checkmark on the right when selected as the default.
@@ -155,8 +130,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +137,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-techniques-for-saving-roblox-playback-on-mac/"><u>[New] In 2024, Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-your-craft-exclusive-free-templates-and-tips/"><u>[New] Master Your Craft Exclusive Free Templates & Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-discover-the-ultimate-metaverse-glasses-selection/"><u>[Updated] In 2024, Discover the Ultimate Metaverse Glasses Selection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-vibrant-visions-practical-color-application-skills-for-2024/"><u>[Updated] Vibrant Visions Practical Color Application Skills for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-progression-of-ipados-a-chronological-versions-overview/"><u>Decoding the Progression of iPadOS: A Chronological Versions Overview</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620197950-download-these-free-ios-simulation-apps-on-android-today-top-picks/"><u>Download These Free iOS Simulation Apps on Android Today – Top Picks!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-guide-how-to-easily-mirror-your-samsung-display-with-allshare-cast/"><u>Effortless Guide: How to Easily Mirror Your Samsung Display with AllShare Cast</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-and-premium-methods-a-complete-2024-tutorial-on-mastering-among-us-gameplay-on-your-computer/"><u>Free and Premium Methods: A Complete 2024 Tutorial on Mastering Among Us Gameplay on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a70-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A70 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/samsungs-2023-revamp-bd-j5900-explored/"><u>Samsung's 2023 Revamp BD-J5900 Explored</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-continuous-playback-top-4-methods-for-perpetual-videos-on-android-devices/"><u>Seamless Continuous Playback: Top 4 Methods for Perpetual Videos on Android Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-to-fresh-install-amd-video-driver-software-quickly/"><u>Simple Steps to Fresh Install AMD Video Driver Software Quickly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-converting-and-displaying-heic-files-on-android-smartphones/"><u>Step-by-Step Guide: Converting & Displaying HEIC Files on Android Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-solution-to-lidadll-glitch/"><u>Swift Solution to Lida.dll Glitch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling Microsoft 365'S New Innovative Widget for Enhanced User Experience
-date: 2024-09-05T07:43:02.584Z
-updated: 2024-09-06T07:43:02.584Z
+date: 2024-09-30T18:54:44.267Z
+updated: 2024-10-06T17:10:52.037Z
 tags:
   - ios
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-365-logo-and-some-of-its-apps.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling Microsoft 365'S New Innovative Widget for Enhanced User Experience
 
 The Microsoft 365 app is the one-stop shop for Office apps, Copilot, and other tools on your iPhone, iPad, or Android device. Now, there’s a new widget to help you jump back into your recent documents.
@@ -31,12 +19,6 @@ The Microsoft 365 app is the one-stop shop for Office apps, Copilot, and other t
 
 ![Screenshot of Recents widget, showing a file called Jessica Career Conversation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft
 
  Microsoft said in a blog post, “You can add Recent Files widgets for Word, Excel, and PowerPoint directly to your iPhone or iPad home screen. The widgets allow you to both view and open your most recently accessed files in that app from the home screen on your device.”
@@ -53,8 +35,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,4 +42,33 @@ Microsoft
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-configuring-safe-area-mode-and-pip-in-modern-macos/"><u>[New] Configuring Safe Area Mode & PIP in Modern MacOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-gaming-snaps-top-5-windows-11-tactics-for-2024/"><u>[New] Mastering Gaming Snaps Top 5 Windows 11 Tactics for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pocket-playlist-portraits-actors-and-audio-art/"><u>[New] Pocket Playlist Portraits Actors & Audio Art</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximize-impact-with-these-11-economical-youtube-naming-tools/"><u>[Updated] In 2024, Maximize Impact with These 11 Economical YouTube Naming Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-your-igtv-presence-with-new-covers/"><u>[Updated] In 2024, Transforming Your IGTV Presence with New Covers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/four-proven-methods-to-fix-iphone-software-update-issues-averting-the-update-unsuccessful-message/"><u>Four Proven Methods to Fix iPhone Software Update Issues: Averting the 'Update Unsuccessful' Message</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620246698-immediate-remedies-for-muted-iphones-expert-tips-to-restore-volume-fast/"><u>Immediate Remedies for Muted iPhones: Expert Tips to Restore Volume Fast!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-correcting-dysfunctional-amazon-prime-video-subtitles/"><u>Mastering the Art of Correcting Dysfunctional Amazon Prime Video Subtitles</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-for-your-non-charging-iphone-effortless-solutions/"><u>Quick Fixes for Your Non-Charging iPhone: Effortless Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-ccleaner-performance-in-win11/"><u>Reviving CCleaner Performance in Win11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-problem-of-non-functional-iphone-screen-reflection-on-tvs-and-desktop-systems-a-comprehensive-guide/"><u>Solving the Problem of Non-Functional iPhone Screen Reflection on TVs and Desktop Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-internet-sacred-text-archive-poetic-edda-skaldskaparmal-volsunga-saga-and-helgi-hundingsbane-online-available-at-(httpwwwsacred-textscomneueddh)/"><u>The Internet Sacred Text Archive – Poetic Edda: Skáldskaparmál, Volsunga Saga & Helgi Hundingsbane [Online] Available At: <http://www.sacred-texts.com/neu/eddh></u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-ios-15-adoption/"><u>The Ultimate Guide to iOS 15 Adoption</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-making-your-iphone-notes-synchronize-perfectly-with-your-pc-or-mac/"><u>Troubleshooting Guide: Making Your iPhone Notes Synchronize Perfectly with Your PC or Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-optimal-ios-health-apps-comparing-drfone-repair-tools-with-exceptional-alternatives/"><u>Ultimate Guide to Optimal iOS Health Apps - Comparing Dr.Fone Repair Tools with Exceptional Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-steps-to-remove-your-ai-assistant-from-snapchat/"><u>Ultimate Guide: Steps to Remove Your AI Assistant From Snapchat</u></a></li>
+<li><a href="https://os-tips.techidaily.com/when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

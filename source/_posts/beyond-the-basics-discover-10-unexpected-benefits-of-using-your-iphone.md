@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Basics: Discover 10 Unexpected Benefits of Using Your iPhone"
-date: 2024-09-05T07:46:08.844Z
-updated: 2024-09-06T07:46:08.844Z
+date: 2024-09-29T18:15:45.570Z
+updated: 2024-10-06T19:36:14.620Z
 tags:
   - ios
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ## Beyond the Basics: Discover 10 Unexpected Benefits of Using Your iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Measure Distances by Pointing Your Camera](https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-14-pro-max-by-drfone-ios/)
@@ -39,17 +33,12 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 ![Using the iPhone's Measure app to measure a cat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/measure_app_iphone.png) 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  The app works using augmented reality (AR), where the measurement is overlaid in the camera viewfinder. Drop points to measure multiple differences, and then use the shutter button to snap a picture. The app is fairly accurate, though you should be aware that measurements are approximate.
@@ -57,22 +46,24 @@ Tim Brookes / How-To Geek
  It’s perfect for getting a rough idea of the distance between two points.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Measure Angles and Check Things Are Level
 
  The Measure app has another trick up its sleeve: the ability to check angles and act as a digital spirit level. Open the Measure app and tap on the “Level” tab, then place your iPhone on a surface to measure the angle. At 0º (level) the black level indicator will turn green.
 
 ![Measuring levels using the iPhone Measure app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/iphone_spirit_level.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can place your iPhone flat (camera face-down) or in horizontal or landscape orientations to measure the angle and tap on the screen to reconfigure the spirit level. This feature uses various sensors inside your device.
 
@@ -88,32 +79,8 @@ Tim Brookes / How-To Geek
 
 ![A selection of background sounds available on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/background_sounds.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enable your iPhone’s Accessibility Shortcut (by triple-clicking the Side button) to quickly trigger the feature under Settings > Accessibility > Accessibility Shortcut.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Create 3D Models
 
  Perhaps one of the most impressive iPhone features is the ability to create 3D scans simply by moving your device around a space. You can do this with a standard iPhone using photogrammetry techniques, which convert 2D images into 3D models, with an app like Polycam.
@@ -121,6 +88,13 @@ Tim Brookes / How-To Geek
  Alternatively, get a much more accurate and detailed model [using the LiDAR scanner on a Pro model iPhone](https://fox-boxes.techidaily.com/updated-in-2024-comprehensive-guide-youtube-to-mpeg-transcoding/). The iPhone 12 Pro and above (and some models of iPad) feature this type of scanner, which stands for Light Detection And Ranging. It’s like RADAR but for light waves, where the light bounces back into your iPhone to build a 3D picture.
 
  If you have an iPhone Pro with LiDAR capability you’ll likely notice improvements to many other handy features including distance measuring in the Measure app, focus speed in the Camera app, and AR performance in apps like Pokémon Go.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Speak for You and Mimic Your Voice
 
@@ -145,19 +119,14 @@ Tim Brookes / How-To Geek
 ![iPhone Sound Recognition accessibility menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/sound_recognition_iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When your device detects a sound it will send you a notification alerting you. Alternatively, you can use the feature to trigger an automation. To do this, launch the Shortcuts app (or download it for free from the [App Store](https://apps.apple.com/us/app/shortcuts/id915249334) if you don’t already have it) then use the “Automation” tap to create a new Personal Automation and use “Sound Recognition” as the trigger.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Limit the Time You Spend on Social Media
 
  Social media can take up way too much of your time without you realizing it. Fortunately, you can use Screen Time on your iPhone to [limit how much time you spend on social media](https://extra-resources.techidaily.com/top-10-photo-grid-apps-to-make-your-pictures-stand-out/). Head to Settings > Screen Time > App Limits to enable app limits and define how much time you want to spend on these apps per day.
@@ -168,12 +137,6 @@ Tim Brookes / How-To Geek
 
  This feature is great as a reminder rather than an outright blocker. You can decide to ignore it, but simply having a prompt is sometimes enough to make you more aware of where your time is going (especially when you’re supposed to be working).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Isolate Subjects in Photos and Videos
 
  Isolate subjects on your iPhone using the Photos app. Open a photo (or pause a video) and tap and hold a subject until your iPhone highlights them. From here you can choose to “Copy” the subject, make an iMessage sticker using the “Add Sticker” option, or “Share” it to another app.
@@ -185,11 +148,12 @@ Tim Brookes / How-To Geek
  This feature is also used by your iPhone when [creating Depth Effect lock screen backgrounds](https://network-issues.techidaily.com/enhancing-gameplay-fixing-civ-5-crashes/).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Help You Converse in Another Language
 
  There are many apps you can download from the App Store to translate speech and text, but Apple includes one on your iPhone that can even work offline. Launch the Translate app to get started, either by selecting languages and typing or using the microphone icons to speak your side of the conversation aloud.
@@ -208,8 +172,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +179,18 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-2023-quick-share-tweeted-videos-for-whatsapp/"><u>[New] In 2024, 2023 Quick Share Tweeted Videos for WhatsApp</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-adding-images-to-instagram-made-simple-for-2024/"><u>[Updated] Adding Images to Instagram Made Simple for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-solutions-for-retrieving-deleted-iphone-contact-info/"><u>Complete Solutions for Retrieving Deleted iPhone Contact Info</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-ultimate-beginners-tutorial-for-reducing-file-size-with-adobe-premiere-pro/"><u>Easy Steps: Ultimate Beginner's Tutorial for Reducing File Size with Adobe Premiere Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50i-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50i</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-texts-a-step-by-step-guide-to-recovering-deleted-sms/"><u>How to Retrieve Lost Texts: A Step-by-Step Guide to Recovering Deleted SMS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-15-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-screen-replacement-services-affordable-options-and-estimated-costs-explained/"><u>IPhone Screen Replacement Services: Affordable Options & Estimated Costs Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-recovering-deleted-files-from-iphone-external-storage/"><u>Step-by-Step Tutorial on Recovering Deleted Files From iPhone External Storage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-technique-for-retrieving-deleted-content-on-iphones-discover-here/"><u>The Ultimate Technique for Retrieving Deleted Content on iPhones - Discover Here!</u></a></li>
+</ul></div>
 

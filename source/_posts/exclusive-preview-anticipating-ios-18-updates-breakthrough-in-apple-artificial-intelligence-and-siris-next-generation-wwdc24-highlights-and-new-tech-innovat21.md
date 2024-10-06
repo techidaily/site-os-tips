@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Preview: Anticipating iOS 18 Updates, Breakthrough in Apple Artificial Intelligence, and Siri's Next Generation - WWDC24 Highlights & New Tech Innovations!"
-date: 2024-09-05T07:47:22.093Z
-updated: 2024-09-06T07:47:22.093Z
+date: 2024-10-03T19:21:58.227Z
+updated: 2024-10-06T19:54:46.689Z
 tags:
   - ios
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 ## Exclusive Preview: Anticipating iOS 18 Updates, Breakthrough in Apple Artificial Intelligence, and Siri's Next Generation - WWDC24 Highlights & New Tech Innovations!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [iOS 18: Biggest iPhone Update or a Big Nothing Burger](https://extra-support.techidaily.com/updated-mastering-zoom-on-xbox-one-a-step-by-step-guide/)
@@ -41,11 +35,12 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
  You may be able to place Home Screen icons [wherever you want](https://www.macrumors.com/2024/03/24/ios-18-home-screen-app-icon-customization/#), and there will be [new accessibility shortcuts](https://www.macrumors.com/2024/03/07/ios-18-macos-15-accessibility/) and [Maps features](https://9to5mac.com/2024/03/27/ios-18-apple-maps-upgrades/). Apple has confirmed that the [Messages app will gain RCS support](https://on-screen-recording.techidaily.com/updated-tech-tip-saving-google-meets-on-phone-devices-for-2024/) to improve the messaging experience between iPhone and Android. Thankfully, [iOS 18 is expected to be supported by](https://9to5mac.com/2024/02/27/ios-18-devices-rumor/) the same iPhone models as iOS 17.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  iPadOS 18: Another Take on iPad Multitasking?
 
  The rumor mill has been uncharacteristically quiet regarding iPadOS 18, also codenamed “Crystal.” Of course, Apple is expected to infuse the iPad with the same AI-powered features as the iPhone, which could [end support for older iPads powered by the A10X Fusion chip](https://www.macrumors.com/2024/02/27/ipados-18-compatible-ipads-rumor/).
@@ -53,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
  Don’t worry if you won’t be able to install iPadOS 18—you can always [repurpose your old iPad into the ultimate kid’s tablet](https://techidaily.com/the-way-to-recover-deleted-contacts-on-huawei-p60-without-backup-by-fonelab-android-recover-contacts/).
 
  Though unconfirmed, iPadOS 18 may refine Stage Manager to encourage more people to [use this controversial multitasking feature](https://extra-support.techidaily.com/new-perfecting-inshot-transitions-techniques/). We’re also holding our breath for true multi-account support on the iPad, a longstanding feature request.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  macOS 15: The End of the Road for Intel-Based Macs
 
@@ -74,18 +76,6 @@ Tyler Hayes / How-To Geek
 
  We certainly expect Siri on watchOS 11 to be more responsive and useful, based on a new large language model. New health and fitness features also seem plausible but don’t expect visual changes because watchOS 10 updated the design across stock apps last year.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  tvOS 18: Another Unimpressive Update
 
  The software powering Apple TV and HomePod should support new Siri AI features, boost interoperability, and deepen AirPlay integration. Don’t expect significant visual changes in tvOS until a screen-equipped [HomePod replaces touch controls](https://fox-info.techidaily.com/new-behind-the-scenes-crafting-a-screenplay/) with a proper user interface.
@@ -97,11 +87,12 @@ Apple
  But don’t write tvOS off just yet! Surprises are certainly possible, as evidenced by more than a [dozen improvements in the current tvOS 17 software,](https://www.makeuseof.com/best-new-apple-tv-features-tvos-17/) like bringing FaceTime to the big screen, implementing multiuser support and a dialogue-boosting feature, revamping the Control Center, [adding support for VPN apps on your Apple TV](https://extra-support.techidaily.com/updated-step-up-your-photography-game-with-these-top-8-tablets/), and more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Siri 2.0 May Finally Be Able to Answer Complex Questions
 
 [Bloomberg’s Mark Gurman has learned](https://www.bloomberg.com/news/newsletters/2023-10-22/what-is-apple-doing-in-ai-revamping-siri-search-apple-music-and-other-apps-lo1ffr7p) that Siri will use Apple’s large language model to answer more complex questions, something we’ve been waiting for ages.
@@ -109,6 +100,13 @@ Apple
  To that end, Apple is rumored to supercharge its Neural Engine coprocessor with significantly more cores. Doing so would enable Siri to use on-device processing to understand more queries without an internet connection than is currently possible.
 
 ![An image asking Siri why the assistant is so bad, with Siri responding I'm just trying to do my job.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/siri_so_bad.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, Siri should be more contextually relevant and able to perform complex, multistep tasks. While Apple’s assistant should see a significant leap in iOS 18, we’ll see if the improvements will be enough to change the public’s perception of Siri as the dumbest assistant of them all.
 
@@ -118,22 +116,17 @@ Apple
 
 ![Front view of a person wearing Apple Vision Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/front-view-of-a-person-wearing-apple-vision-pro.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  For example, visionOS 1 doesn’t support app folders or Home Screen customization. Early adopters also want a better way to access the Notification and Control Center, and we’re rooting for greater interoperability with other Apple devices, including multiple display support for the Mac Virtual Display feature.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  HomePod and AirPods May Get Small Audio Improvements
 
  Every year, various computational audio enhancements hit AirPods and HomePod. The new audio features coming down the wire this year are guaranteed to require the enhanced Apple H2 chipset powering the second-generation USB-C AirPods Pro from 2022.
@@ -148,22 +141,10 @@ Apple
 
  This is bad news for owners of AirPods Max, Apple’s $550 over-ear headphones with the H1 chip. Anyone not using the USB-C AirPods Pro will probably need to upgrade to enjoy new features coming this year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  New Hardware Announcements Possible
 
  While WWDC is about software, sometimes Apple unveils new hardware at the event. Last year, it unveiled the Vision Pro, M2-powered Mac Studio and Mac Pro workstations, and a new 15-inch MacBook Air. This year’s WWDC might bring two new mid-range AirPods models and updated AirPods Max with USB-C, running the H2 chip to support the latest audio features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  WWDC Is Apple’s Biggest Event of the Year
 
  New iPhone announcements still generate the most excitement, which is understandable given the iPhone is Apple’s most popular gadget. But even though WWDC is a software-focused event aimed at developers, it sets the tone for the next 12 months by introducing new features to the software platforms that power the company’s hardware.
@@ -176,8 +157,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +164,19 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-warzone-wonders-your-a-list-of-top-7-fps-adventures/"><u>[New] 2024 Approved Warzone Wonders - Your A-List of Top 7 FPS Adventures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-key-to-a-profitable-yt-channel-accurate-monetization-verification-for-2024/"><u>[New] The Key to a Profitable YT Channel Accurate Monetization Verification for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-digital-arena-100plus-titles-for-the-true-gamer/"><u>2024 Approved Digital Arena 100+ Titles for the True Gamer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-understanding-and-applying-youtube-markup/"><u>2024 Approved Understanding & Applying YouTube Markup</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-pova-5-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Pova 5? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-performance-the-evolution-of-premium-fitness-applications/"><u>Enhanced Performance: The Evolution of Premium Fitness Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/epic-games-brings-fortnite-back-to-ios-devices-and-debuts-on-android-platform/"><u>Epic Games Brings Fortnite Back to iOS Devices and Debuts on Android Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-steps-prepare-and-update-before-switching-to-iphone-15/"><u>Essential Steps: Prepare and Update Before Switching to iPhone 15</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-professional-gaming-on-mobile-with-razer-kishi-ultra-the-premium-console-style-controller/"><u>Experience Professional Gaming on Mobile with Razer Kishi Ultra: The Premium Console-Style Controller</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-guide-ultimate-iphone-solutions-for-any-issue-you-might-face/"><u>Expert Guide: Ultimate iPhone Solutions for Any Issue You Might Face</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-c22mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia C22Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y28-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y28 5G</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Capturing Ideas and Emotions: Expert Tips on Utilizing Apple's Journal Application for iOS Devices"
-date: 2024-09-27T20:33:30.841Z
-updated: 2024-10-01T11:58:19.992Z
+date: 2024-09-30T16:26:12.017Z
+updated: 2024-10-06T17:42:17.831Z
 tags:
   - ios
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 * [Add a Journaling Schedule](https://youtube-tips.techidaily.com/approved-turning-views-into-revenue-mastering-youtubes-financial-landscape/)
 * [Delete an Entry](https://visual-screen-recording.techidaily.com/discovering-costless-software-for-streaming-sessions/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use the Journal app to write journal entries with photos, videos, and locations, or take inspiration from the app's personalized suggestions.
@@ -36,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 * Lock your journal entries for added privacy in Settings > Journal > Lock Journal.
 
  Apple added the Journal app to iPhones with the update to iOS 17.2\. This intuitive app makes it easy to chronicle moments in your life, reflect on past experiences, or simply document your thoughts. We'll show you how to do everything from adding your first entry to locking it all behind a passcode.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Set Up Journal's Permissions
 
@@ -53,18 +53,25 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
  Now tap on "Journaling Suggestions."
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ![iPhone screen highlighting journaling suggestions.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7154.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will notice that all journaling suggestions are currently inactive. You can turn them on by toggling the switches for the data points that you would like to see suggestions for in the Journal app.
 
 ![iPhone settings screen showing inactive journaling suggestions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_0ba7c8265a3c-1.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You have now configured permissions and allowed the Journal app to access your data to provide personalized suggestions for creating new journal entries.
 
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
  When you are done writing the entry, click on "Done" to save it. With this, you have now created your first journal entry.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Explore Your Personalized Suggestions
 
  Once you have opted in to receive personalized suggestions for creating journal entries, the Journal app will create suggestions in two forms. One is by suggesting new entries based on your activities from photos, music, or workouts, and the other is by giving you reflection thoughts to think about and write. Let's look at both suggestions.
@@ -111,14 +111,14 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
 ![iPhone screen showing suggested prompts for new journal entries.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7122.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The writing prompts can be refreshed by tapping the "refresh" icon in the top right corner.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Manage Your Journaling Suggestions
 
@@ -127,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
  You will now be shown all the data that the app uses to build suggestions. You can turn off the switches for any suggestions you do not want to see and tap the link for "Clear History" if you would like to remove any existing suggestions that appear in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ![iPhone screen showing a list of active permissions.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7155.jpeg) 
@@ -141,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
  It's important to note that skipping suggestions alone (without disabling individual data points like Activity, Media, and Photos from Settings > Privacy & Security> Journaling Suggestions) will not limit the access that the app has to your personal data, it will only stop the app from showing suggestions to you for new journal entries.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Review Your Journal Entries
 
  As you continue to use the Journal app and create entries, you will have a digital archive of your life's moments. Let's look at how you can navigate through and review these entries with ease.
@@ -157,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
  Tapping on the ellipsis icon in the bottom right corner of an entry will give you options to edit, bookmark, or delete the entry. You can use this option to edit existing journal entries or bookmark them, which adds entries to a custom list, making them easier to filter and find.
 
 ![An iPhone screen highlighting the ellipsis icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7125.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use the "Filter" button at the top right to find journal entries based on some pre-defined app filters as seen below.
 
@@ -177,19 +163,33 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
 ![iPhone homepage highlighting settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7127.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll down to find the "Journal" app and click on it.
 
 ![An iPhone settings page highlighting journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7128.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One of the items in the Journal app settings is "Lock Journal." Click on it to enable the lock feature for your journal entries.
 
 ![An iPhone screen highlighting lock journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7129.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, you have the option to set Face ID, Touch ID, or your device passcode for authentication. Additionally, Apple also gives you the option to define an idle time duration after which it will ask you to re-authenticate.
@@ -239,21 +239,18 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-storyboarding-through-instagram-slides/"><u>[New] 2024 Approved Storyboarding Through Instagram Slides</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-extract-and-save-video-previews-free-and-easy/"><u>[Updated] 2024 Approved Extract and Save Video Previews, Free & Easy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-visuals-a-stepwise-guide-to-sdr-transformation-into-hdri/"><u>Enhancing Visuals A Stepwise Guide to SDR Transformation Into HDRI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-7-virtual-playgrounds-the-ultimate-game-selection-for-kids/"><u>Explore These 7 Virtual Playgrounds: The Ultimate Game Selection for Kids</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-correct-the-yellow-hue-on-your-iphone-display-a-step-by-step-guide/"><u>How to Correct the Yellow Hue on Your iPhone Display: A Step-by-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone XS Max?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-successfully-restore-your-iphone-data-in-icloud-discover-the-5-essential-steps/"><u>How To Successfully Restore Your iPhone Data in iCloud - Discover the 5 Essential Steps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/locating-your-itunes-backups-a-step-by-step-guide-to-finding-and-managing-backup-files/"><u>Locating Your iTunes Backups: A Step-by-Step Guide to Finding and Managing Backup Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-art-of-safeguarding-voice-memos-on-iphone-a-guide-to-4-reliable-backup-techniques/"><u>Master the Art of Safeguarding Voice Memos on iPhone: A Guide to 4 Reliable Backup Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safeguard-your-important-ios-content-by-learning-to-use-itunes-for-iphone-backups/"><u>Safeguard Your Important iOS Content by Learning to Use iTunes for iPhone Backups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-mastering-the-art-of-syncing-your-ipad-with-itunes/"><u>Simple Steps: Mastering the Art of Syncing Your iPad with iTunes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-poco-x5-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Poco X5 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-choice-finding-a-top-tier-144hz-monitor/"><u>The Best Choice: Finding a Top-Tier 144Hz Monitor</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-top-8-ios-backup-solutions-for-safeguarding-your-precious-information/"><u>The Ultimate List of Top 8 iOS Backup Solutions for Safeguarding Your Precious Information</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-backup-strategies-for-your-iphone-mastering-pciclouditunes-techniques-with-simple-steps/"><u>Ultimate Backup Strategies for Your iPhone : Mastering PC/iCloud/iTunes Techniques with Simple Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-reimagining-focus-the-new-age-of-zooming-clear/"><u>[Updated] 2024 Approved Reimagining Focus The New Age of Zooming Clear</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-playlist-construction-on-youtube/"><u>2024 Approved The Art of Playlist Construction on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-google-pixel-fold-2-what-to-expect-for-price-release-date-and-tech-specs/"><u>Inside Scoop on Google Pixel Fold 2 - What to Expect for Price, Release Date, and Tech Specs?</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-more-pins-strategies-for-start-screen/"><u>Show More Pins: Strategies for Start Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-investors-guide-to-choosing-yt-channels/"><u>The Investor's Guide to Choosing YT Channels</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-recommended-magsafe-compatible-gadgets-for-your-iphone/"><u>Top Recommended MagSafe Compatible Gadgets for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-ranking-apple-watch-bands-a-comprehensive-selection/"><u>Top-Ranking Apple Watch Bands : A Comprehensive Selection</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-protectors-a-comprehensive-buyers-guide/"><u>Top-Rated iPad Protectors : A Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-and-resolving-quieter-than-usual-airpod-performance-expert-tips-and-tricks/"><u>Troubleshooting and Resolving Quieter Than Usual AirPod Performance: Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-intel-hd-graphics-630-problems-on-your-windows-pc/"><u>Troubleshooting Guide: Fixing Intel HD Graphics 630 Problems on Your Windows PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-compact-power-solution-reviewed-affordable-apple-road-warrior-essentials-with-the-mophie-multi-charger/"><u>Ultimate Compact Power Solution Reviewed: Affordable Apple Road Warrior Essentials with the Mophie Multi-Charger</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-shrinking-video-files-on-iphone-for-easy-sharing/"><u>Ultimate Guide: Shrinking Video Files on iPhone for Easy Sharing</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-voice-over-for-2024/"><u>Updated What Is AI Voice Over for 2024</u></a></li>
 </ul></div>
 

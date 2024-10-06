@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Tutorial: How to Share iCloud Notes From iOS Device to macOS System"
-date: 2024-09-05T07:44:04.351Z
-updated: 2024-09-06T07:44:04.351Z
+date: 2024-09-30T17:10:04.093Z
+updated: 2024-10-06T16:20:09.208Z
 tags:
   - ios
 categories:
@@ -9,37 +9,13 @@ categories:
 thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f80591ecadf09ffda8a120cc.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Step-by-Step Tutorial: How to Share iCloud Notes From iOS Device to macOS System
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Export Apple Notes on an iPhone or iPad](https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-11-proplus-drfone-by-drfone-virtual-android/)
 * [How to Export Apple Notes on a Mac](https://extra-tips.techidaily.com/smiling-photos-and-videos-iphones/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Whether you're switching away from Apple Notes, archiving your notes, or sharing notes with someone, you'll first need to export them all.
@@ -48,23 +24,24 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
  If you're switching away from Apple Notes, want to share notes with someone, or just like to archive your notes, exporting all your notes is the first step in the process. Follow along as we look at a few different ways to do this on your iPhone and iPad, or Mac.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Export Apple Notes on an iPhone or iPad
 
  You can export your notes on an iPhone or iPad in two ways. You can either use the Apple Notes app to export your notes as TXT files or the Apple Pages app to export the notes in other [formats like RTF](https://some-approaches.techidaily.com/updated-transforming-creativity-into-a-sustainable-livelihood/), PDF, and more.
 
  Both methods allow you to export only one note at once.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Export an Apple Note as a Text File
 
@@ -74,41 +51,31 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
 ![Share button in Apple Notes on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-3.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Save to Files" from the Share Sheet that opens up.
 
 ![Save to Files option in Apple Notes Share Sheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By default, Notes will open the save prompt in the "On My iPhone" location in the Files app. If you want to save the note somewhere else, navigate to that location. Then, tap the text field at the bottom of the screen and give an appropriate name to the note file so that it's easier to find it later.
 
 ![Adding a custom name for the exported note in Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-6.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, hit the "Save" button to export and save the note in the Files app.
 
 ![Saving an exported Apple Note in Files app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Export an Apple Note as a PDF, RTF, or Word File
 
@@ -118,16 +85,17 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
 ![Share button in Apple Notes app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Open in Pages" from the Share Sheet.
 
 ![Open in Pages option in Apple Pages' Share Sheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This will open the note in the Pages app. Now, tap the Share button at the top of the note.
 
 ![Share button in the Apple Pages app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-7x.jpg) 
@@ -136,30 +104,39 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
 ![Export and Send option in Apple Pages app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-8.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can access the Export menu by tapping the three-dot menu in the top-right corner of the screen and selecting the "Export" option on the list.
 
  Select your preferred file format for the note, and wait for the app to export the note.
 
 ![Choosing an output format to export an Apple Note on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-iphone-9.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once it's done, hit the button titled "Share" to access the Share Sheet. From here, select "Save to Files," choose your preferred save location, and rename the file to something easy to remember. Finally, hit "Save."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Export Apple Notes on a Mac
 
  Just like the Notes app on the iPhone and iPad, Apple's Notes app for the Mac also comes with built-in export functionality. However, it works a little differently, and you can only export your notes as PDFs. If you want to export them in other formats, or in bulk, you'll need to use a dedicated tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Export a Note Using the Apple Notes App
 
  Using the Apple Notes app is the easiest way to export your notes on a Mac.
@@ -173,11 +150,12 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 ![Adding a name and choosing the location to export an Apple Note.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-mac-6-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click the "Where" drop-down to select where you want to save the note. Finally, hit "Save."
 
 ###  Export Multiple Apple Notes Using Exporter
@@ -190,12 +168,6 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
 ![Granting Exporter app access to control Apple Notes on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-mac-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Exporter will begin scanning all the folders in the Notes app for your notes. At the end of it, it'll return the total number of notes you have in the app.
 
 ![Exporter app showing the number of notes available for export.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-apple-notes-on-mac-3.jpg) 
@@ -228,8 +200,6 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +207,22 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-outstanding-youtube-outro/"><u>[Updated] How to Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-productions-no-cost-sounds-available/"><u>[Updated] In 2024, Enhance Productions No-Cost Sounds Available</u></a></li>
+<li><a href="https://os-tips.techidaily.com/advanced-techniques-to-remove-multiple-iphone-contacts-efficiently/"><u>Advanced Techniques to Remove Multiple iPhone Contacts Efficiently</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-unveiling-the-features-and-capabilities-of-wondershares-dr-fone-data-eraser-for-ios/"><u>Comprehensive Analysis: Unveiling the Features and Capabilities of Wondershare's Dr. Fone Data Eraser for iOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-steps-how-to-manage-and-remove-chats-and-messages-on-snapchat/"><u>Effective Steps: How to Manage and Remove Chats & Messages on Snapchat</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-p40plus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P40+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 13 Pro?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unlocking-potential-with-android-camera-apps/"><u>In 2024, Unlocking Potential with Android Camera Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-iphone-to-its-default-state-a-comprehensive-tutorial-for-wiping-and-refreshing-your-device/"><u>Resetting Your iPhone to Its Default State: A Comprehensive Tutorial for Wiping and Refreshing Your Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tackling-latency-issues-for-smooth-video-conferencing-on-xbox-one-for-2024/"><u>Tackling Latency Issues for Smooth Video Conferencing on Xbox One for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-erasing-iphone-reminders-a-step-by-step-tutorial/"><u>The Ultimate Guide: Erasing iPhone Reminders - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-simple-ways-to-free-up-space-by-deleting-unnecessary-ios-apps/"><u>Top 3 Simple Ways to Free Up Space by Deleting Unnecessary iOS Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-securely-profit-from-your-used-iphones-with-expert-techniques/"><u>Ultimate Guide: Securely Profit From Your Used iPhones with Expert Techniques</u></a></li>
+</ul></div>
 

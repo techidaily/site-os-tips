@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2024-09-26T12:20:27.511Z
-updated: 2024-09-30T17:57:49.641Z
+date: 2024-10-01T19:36:20.270Z
+updated: 2024-10-06T19:30:02.524Z
 tags:
   - ios
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  User ratings and reviews help developers improve their apps but nagging users with in-app pop-ups asking for reviews or ratings isn't acceptable. Thankfully, Apple lets you turn off these pesky rating and review requests on your iPhone and Mac. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad
 
  If you're fed up with apps on your iPhone or iPad popping up rating and review requests every time you use them, you can turn off the in-app requests from the Settings app to settle this once and for all.
@@ -26,29 +33,22 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![iPhone Settings app with App Store highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down to locate the "In-App Ratings & Reviews" option. Then, flip the toggle switch next to it off.
 
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -89,22 +89,18 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-instabeats-intellectual-property-overview/"><u>2024 Approved InstaBeats Intellectual Property Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725289355055-dvd/"><u>DVD暗号化を解除するのは合法か違法か？疑問を解消します</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-apowerrescue-detailed-overview-of-functions-cost-analysis-and-comparable-solutions/"><u>Exploring ApowerRescue: Detailed Overview of Functions, Cost Analysis, and Comparable Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-incompatibility-of-corsair-icue-software-in-windows-11-operating-system/"><u>Fixing the Incompatibility of Corsair iCUE Software in Windows 11 Operating System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862836417-grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-attention-grabber-composer/"><u>In 2024, Top Attention Grabber Composer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-model-x-to-6-mastering-the-recovery-of-erased-memos-and-jottings/"><u>IPhone Model X to 6: Mastering the Recovery of Erased Memos and Jottings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/missing-from-my-phone-recover-vanished-iphone-pictures-fast/"><u>Missing From My Phone: Recover Vanished iPhone Pictures Fast</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-restoring-lost-sms-on-your-iphone-in-minutes/"><u>Quick Guide: Restoring Lost SMS on Your iPhone in Minutes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-your-iphones-past-effective-steps-for-reclaiming-erased-web-and-search-data/"><u>Restore Your iPhone's Past: Effective Steps for Reclaiming Erased Web & Search Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-deleted-chat-contacts-in-facebook-messenger-for-iphones-a-step-by-step-guide/"><u>Restoring Deleted Chat Contacts in Facebook Messenger for iPhones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-lost-messages-a-step-by-step-guide-to-recovering-deleted-mms-photos-from-your-iphone/"><u>Reviving Lost Messages: A Step-by-Step Guide to Recovering Deleted MMS Photos From Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-yard-work-with-fun-and-ease-discover-the-joy-of-a-remote-controlled-lawnmower-tech-review-by-zdnet/"><u>Revolutionize Yard Work with Fun and Ease - Discover the Joy of a Remote-Controlled Lawnmower | Tech Review by ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/start-screen-special-free-editing-tools/"><u>Start Screen Special Free Editing Tools</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os/"><u>Top 7 Video Streaming Innovations Excel on YouTube with iPhones/Android OS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-remedies-for-resolving-iphone-audio-issues/"><u>Top Remedies for Resolving iPhone Audio Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-unboxing-magic-7-ways/"><u>[New] Transforming Unboxing Magic 7 Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-screens-sole-contender-software-or-hardware-triumph/"><u>[Updated] The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2690dw-printing-device-get-the-latest-software-update-now/"><u>Brother L2690dw Printing Device: Get the Latest Software Update Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-started-with-your-apple-card-iphone-financing-by-ensuring-mobile-service-is-active/"><u>Get Started with Your Apple Card iPhone Financing by Ensuring Mobile Service Is Active</u></a></li>
+<li><a href="https://os-tips.techidaily.com/gone-but-not-forgotten-the-tale-of-the-initial-game-emulator-on-ios/"><u>Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/goodbye-to-apples-pay-later-service-embracing-the-change-with-gratitude/"><u>Goodbye to Apple's Pay Later Service – Embracing the Change with Gratitude</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-embracing-sleep-analysis-transformed-my-rest-insights-from-a-skeptic-to-advocate/"><u>How Embracing Sleep Analysis Transformed My Rest: Insights From a Skeptic to Advocate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/identifying-a-blocked-caller-id-via-imessage-a-step-by-step-guide/"><u>Identifying a Blocked Caller ID via iMessage – A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-5-best-gaming-webcams-streammers-must-try/"><u>In 2024, 5 Best Gaming Webcams Streammers Must Try</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inter-device-clipart-sync-a-comprehensive-guide-to-iphoneipad-and-mac-integration/"><u>Inter-Device Clipart Sync: A Comprehensive Guide to iPhone/iPad & Mac Integration</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-magicard-rio-pro-driver-available-for-windows-users-windows-11-8n-and-7/"><u>Latest Magicard Rio Pro Driver Available for Windows Users (Windows 11, 8.n, and 7)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vuebell-video-doorbell-review/"><u>VueBell Video Doorbell Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad"
-date: 2024-09-23T18:08:20.572Z
-updated: 2024-09-30T16:23:52.338Z
+date: 2024-10-01T17:30:00.094Z
+updated: 2024-10-06T17:23:05.578Z
 tags:
   - ios
 categories:
@@ -28,11 +28,25 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Apple's Mail app doesn't provide a lot of control over how much storage it uses. it wants to download and store a lot of emails so they can be indexed and searchable with [Spotlight](https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/). On iOS the Mail app may take up gigabytes of storage space because it wants to store a complete offline copy of your email. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  See How Much Space Mail is Using
 
  You can see how much space your iPhone or iPad's Mail app is using in the same way you'd [see how much space any other app is using](https://extra-guidance.techidaily.com/2024-approved-srs-mastery-innovative-conversion-techniques/). Open the Settings app on your device, and head to General > iPhone Storage.
 
 ![Open Settings, then go to General > iPhone Storage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-iphone-storage.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll down in the list and look for the Mail app. This displays how much space is used by "Mail and Attachments." 
 
@@ -46,32 +60,18 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Tap the three-line button in the bottom left, then tap the "Filter By" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-tap-three-line-button-tap-filter-by.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap the toggle next to 
 
 ![Filters from the mail app, including "Only Mail with Attachments," "Only from VIP," and "Only Mail Sent Today."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-only-mail-with-attachments.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **You probably don't want to do this!** Any emails you delete from your phone will be deleted from the server if you [use IMAP for your email](https://fox-glue.techidaily.com/2024-approved-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/), which you probably do. Even if this wasn't a problem, this would take a long time. There's also no way to delete an attachment from an email—you just have to delete the entire email.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Better Solution: Remove and Re-Add the Account
 
@@ -84,22 +84,21 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![Tap the "Delete Account" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-delete-gmail-account.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, power down your iPhone or iPad and start it back up to ensure all offline caches are completely cleared. Open the Mail app and you'll be asked to provide your email account details again. 
 
  Your iPhone will start downloading emails again, but this will clear out that old backlog of cached emails and file attachments.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Limit the Number of Emails Your Service Provides to Mail
 
@@ -110,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
  To clear your download cache, you'll want to remove and re-add the email account from your iPhone after changing this setting.
 
 ![Limit the size of IMAP folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-folder-size-limits.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Another Email App instead of Mail
 
@@ -144,22 +150,19 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-trends-transforming-facebook-ad-campaigns/"><u>[New] 2024 Trends Transforming Facebook Ad Campaigns</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-combining-igtv-with-insta-stories/"><u>[New] Mastering the Art of Combining IGTV with Insta Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smartphone-photographers-guide-to-top-5-android-editors/"><u>[New] Smartphone Photographers' Guide to Top 5 Android Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-pathway-to-proficient-league-of-legends-screen-recordings/"><u>[Updated] In 2024, The Pathway to Proficient League of Legends Screen Recordings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebooks-aplus-covers-ranking-the-best-photo-making-websites/"><u>2024 Approved Facebook's A+ Covers Ranking the Best Photo Making Websites</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-5-methods-to-resolve-stalled-whatsapp-backups-on-android-devices/"><u>Best 5 Methods to Resolve Stalled WhatsApp Backups on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-transfer-every-image-from-google-photos-across-devices-and-platforms/"><u>Complete Guide: How to Transfer Every Image From Google Photos Across Devices & Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-how-to-retrieve-data-from-iphone-and-android-device-backups/"><u>Comprehensive Tutorial on How to Retrieve Data From iPhone & Android Device Backups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-methods-to-perform-an-efficient-factory-restore-on-your-htc-handset-with-screen-lock/"><u>Easy Methods to Perform an Efficient Factory Restore on Your HTC Handset with Screen Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620202417-effortlessly-upload-photos-from-your-android-device-to-computer-or-google-photos-detailed-instructions-inside/"><u>Effortlessly Upload Photos From Your Android Device to Computer or Google Photos - Detailed Instructions Inside</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-implemented-for-stuttering-frame-drops-during-sifu-pc-playthroughs/"><u>Fixes Implemented for Stuttering Frame Drops During 'Sifu' PC Playthroughs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-understanding-the-google-podcast-app-for-2024/"><u>In Depth Analysis Understanding the Google Podcast App for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-and-usage-tips-on-the-verizon-backup-assistant-tool/"><u>In-Depth Analysis and Usage Tips on the Verizon Backup Assistant Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-5-fixes-for-paused-whatsapp-backup-issues-on-android-phones/"><u>Ultimate Guide: Top 5 Fixes for Paused WhatsApp Backup Issues on Android Phones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-your-instagram-presence-with-these-9-game-changing-tips/"><u>[New] In 2024, Elevate Your Instagram Presence with These 9 Game-Changing Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>[New] Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-down-the-process-for-youtube-comment-highlights/"><u>[Updated] 2024 Approved Breaking Down the Process for YouTube Comment Highlights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-ios-the-secrets-of-screen-casts/"><u>[Updated] In 2024, Mastering iOS The Secrets of Screen Casts</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhanced-productivity-learn-to-record-your-mac-screen/"><u>In 2024, Enhanced Productivity Learn to Record Your Mac Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-poco-m6-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Poco M6 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-lag-and-improve-fps-in-war-thunder-expert-tips-to-enhance-your-gaming-experience/"><u>Overcome Lag and Improve FPS in War Thunder: Expert Tips to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-an-overheated-iphone-identifying-the-reasons-and-implementing-solutions/"><u>Troubleshooting an Overheated iPhone: Identifying the Reasons & Implementing Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-stuck-ios-updates-on-iphone-a-guide-with-11-effective-fixes/"><u>Troubleshooting Stuck iOS Updates on iPhone: A Guide with 11 Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-wi-fi-connection-issues-how-to-solve-your-airpods-continuous-disconnection-problems/"><u>Troubleshooting Wi-Fi Connection Issues: How to Solve Your AirPods' Continuous Disconnection Problems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-apps-enhancing-your-driving-experience-on-apples-carplay/"><u>Ultimate Selection of Apps Enhancing Your Driving Experience on Apple's CarPlay</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unbelievable-top-9-ios-apps-that-outperform-on-your-high-end-ipad-models/"><u>Unbelievable: Top 9 iOS Apps That Outperform on Your High-End iPad Models!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-hidden-white-noise-features-for-better-sleep/"><u>Unlock Your iPhone's Hidden White Noise Features for Better Sleep</u></a></li>
 </ul></div>
 

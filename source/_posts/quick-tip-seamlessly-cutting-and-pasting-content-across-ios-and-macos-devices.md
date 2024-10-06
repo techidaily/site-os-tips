@@ -1,7 +1,7 @@
 ---
 title: "Quick Tip: Seamlessly Cutting and Pasting Content Across iOS & macOS Devices"
-date: 2024-09-05T07:46:42.387Z
-updated: 2024-09-06T07:46:42.387Z
+date: 2024-10-03T19:00:37.891Z
+updated: 2024-10-06T19:28:13.921Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b169f3541bab98402d648f2f7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Tip: Seamlessly Cutting and Pasting Content Across iOS & macOS Devices
 
 ### Quick Links
@@ -25,11 +19,12 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 * [More Useful iPhone Tricks](https://some-approaches.techidaily.com/updated-preserving-audio-broadcasts-a-simple-internet-radio-technique/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Tap the "Show Text" icon that appears in Apple Photos or Preview to select and copy text in any image or video on your iPhone, iPad, or Mac.
@@ -65,31 +60,21 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 ![Selectable text on a sign in Safari browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-06-at-15-39-00.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why This Is So Useful
 
  This neat trick circumvents the inability to select and copy text on certain websites. [Use your iPhone, iPad, or Mac to take a screenshot](https://video-capture.techidaily.com/updated-in-2024-videographers-guide-to-capturing-sports-competitions/) and then copy the text as normal. I’ve used this trick to copy recipes from YouTube’s description box in the iPhone app, for example.
@@ -99,25 +84,14 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 ![Selecting the text on a keyring using a photo in Apple Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select_text_photo.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  More Useful iPhone Tricks
 
  There are plenty of other [iPhone screenshot tricks you’re probably not using](https://extra-skills.techidaily.com/updated-interlinkers-companion-navigating-instra-to-tiktok/), like capturing full web pages and using a gesture instead of the usual button presses.
@@ -130,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +111,24 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigate-your-newly-enjoyed-facebook-movies-with-this-2023-guide/"><u>[New] 2024 Approved Navigate Your Newly Enjoyed Facebook Movies with This 2023 Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>[New] In 2024, Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-gaming-pros-choice-of-5-microphones/"><u>[New] In 2024, YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-tools-for-quality-4k-video-recording/"><u>[Updated] 2024 Approved Essential Tools for Quality 4K Video Recording</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-easy-guide-setting-up-automated-texts-on-your-ios-device/"><u>1. Easy Guide: Setting Up Automated Texts on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/3-key-features-i-hope-apple-enables-for-utilizing-my-personalized-ai-avatars-speech/"><u>3 Key Features I Hope Apple Enables for Utilizing My Personalized AI Avatar's Speech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-on-the-side-balancing-employment-with-youtube/"><u>Creating on the Side Balancing Employment with YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-find-x7-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Find X7 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-in-depth-analysis-of-latest-hardware-gadgets/"><u>Expert Reviews by Tom: In-Depth Analysis of Latest Hardware Gadgets</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-for-fixing-the-mass-effect-legendary-edition-startup-issue/"><u>Resolved: Troubleshooting Steps for Fixing the Mass Effect Legendary Edition Startup Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-your-iphone-into-a-bluetooth-microphone-for-your-mac-computers/"><u>Transforming Your iPhone Into a Bluetooth Microphone for Your Mac Computers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-icloud-plus-by-apple-a-comprehensive-guide/"><u>Understanding iCloud Plus by Apple: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-comfort-discover-the-new-ios-18-feature-that-eases-motion-sickness-on-your-device/"><u>Unlocking Comfort: Discover the New iOS 18 Feature That Eases Motion Sickness on Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-hidden-functions-10-amazing-tricks-within-apple-imessage-app/"><u>Unveiling Hidden Functions: 10 Amazing Tricks Within Apple iMessage App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-enhanced-features-why-the-apple-pencil-pro-is-a-major-leap-forward/"><u>Unveiling the Enhanced Features: Why the Apple Pencil Pro Is a Major Leap Forward</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-ios-18-has-me-thrilled-a-perspective-from-a-dedicated-android-lover/"><u>Why iOS 18 Has Me Thrilled: A Perspective From a Dedicated Android Lover</u></a></li>
+</ul></div>
 

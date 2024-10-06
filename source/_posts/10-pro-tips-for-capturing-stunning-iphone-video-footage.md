@@ -1,7 +1,7 @@
 ---
 title: 10 Pro Tips for Capturing Stunning iPhone Video Footage
-date: 2024-09-05T07:47:07.926Z
-updated: 2024-09-06T07:47:07.926Z
+date: 2024-10-05T19:36:21.320Z
+updated: 2024-10-06T16:53:09.190Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your iPhone can shoot great videos, whether you’re creating Instagram reels, documenting your travels, or pursuing higher-quality productions. Here’s how to get the most out of your iPhone and shoot the best possible video, whatever the occasion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Set Up Your Camera Settings Properly 
 
  Perhaps the most important step in getting good, usable video capture from your iPhone is to ensure that your camera settings are configured correctly. There’s nothing more frustrating than finding out that you’ve been shooting at the wrong resolution or frame rate _after_ the fact.
@@ -26,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Head to Settings > Camera and tap “Record Video” to toggle between 720p, 1080p, and 4K resolution. Though 4K will take up the most space (about 190MB per minute at 30 fps in HDR), it will give you the best possible quality. Even if you’re shooting for a 1080p resolution production, having 4K footage allows you to “punch in” and crop out parts of the frame without losing quality.
 
 ![Choose iPhone video resolution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone_video_modes.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Frame rate is another thing to consider. Depending on your iPhone, you can choose between 24, 30, and 60 fps in 4K mode. 24 fps is the frame rate used by filmmakers to get a “cinematic” look. 60 fps is a high frame rate mode that will take up more space (about 440MB per minute at 4K HDR).
 
@@ -35,21 +49,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Toggling HDR video in the iPhone Camera settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/hdr_video_mode.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Use the “HDR Video” toggle to turn the feature on or off. Once you’ve seen your videos in HDR, it’s hard to go back to SDR footage. Most video editors do a decent job of converting HDR video to SDR when necessary. As time passes, HDR video will become much more prevalent until it is eventually a standard feature.
 
  Think of HDR video a bit like 4K. The iPhone could shoot in 4K way before most people had a 4K-capable TV. If you started shooting old videos in 4K when the setting first became available, you'll probably notice how good they look on modern TVs when you watch them today. HDR will pay off in the future, though it consumes more storage space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2  Better Lighting Means Better Video 
 
@@ -61,12 +70,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This may mean standing next to a window and using the available light to better light your face or subject. It could mean buying an iPhone ring light or other video light for use in dark conditions. It might even simply mean turning a few lamps on, or standing beneath a streetlight when shooting at night.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  Lock Focus and Exposure When Shooting 
 
  There’s one small thing you can do to improve the production quality of your iPhone video: lock focus and exposure. While setting up your shot, tap and hold on a focus point until you see “AE/AF Lock” appear on the screen. This means that your focus point won’t move, and your iPhone won’t adjust its exposure while you shoot.
@@ -77,18 +80,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Auto exposure and auto focus lock in iPhone Camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ae_af_lock.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  It’s great for shots where you’re moving, like if you’re walking down a street or along a narrow path and you always want to be focused on a set point in the distance. It's also good for avoiding the iPhone “blooming” and adjusting exposure constantly.
@@ -101,28 +92,23 @@ Tim Brookes / How-To Geek
 
 ![iPhone zoom levels highlighted in the viewfinder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone_zoom_level.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  I frequently encounter this issue with my iPhone 13 Pro. The telephoto sensor is visibly worse than the wide, managing an aperture of only f/2.8 compared to f/1.5 on my main wide camera. Low light shots in particular look noticeably worse on the telephoto. You’re better off zooming with your feet (by moving closer or further away) and sticking to the main “1x” wide camera where possible.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
+<span id="1993651">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5  Stable Footage Looks Best 
 
  Even older iPhone models have some form of image stabilization, which should be enabled automatically when shooting. You can enable “Enhanced Stabilization” on iPhone 14 and later which zooms in slightly to improve image stabilization.
@@ -130,6 +116,13 @@ Tim Brookes / How-To Geek
  The iPhone 14 and later also feature Action Mode, which you can enable by tapping the “Running person” icon at the top of the screen when in video mode on compatible models.
 
 ![iPhone 14 Action Mode toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/running_man.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This mode will crop your footage to HD (1080p) or 2.8K, so it should be used only when the resolution hit (down from 4K) is justified. It does a tremendous job of stabilizing very shaky footage, like when you’re shooting handheld while running or have your iPhone mounted to a bike's handlebars.
 
@@ -143,34 +136,10 @@ Tim Brookes / How-To Geek
 
 ![Shallow depth of field in Cinematic mode on an iPhone camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cinematic_mode_video-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Cinematic Mode isn’t perfect for all occasions, and some may find the faux depth effect a little over the top. It’s fun to experiment with, just switch to it in the Camera app (it’s a separate mode, next to Video).
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7  Don’t Forget About Time Lapse Mode 
 
  The iPhone Camera app can shoot great Time Lapse videos with zero input from you. You don’t get to customize things like image intervals, but the iPhone will work everything out for you and condense minutes or hours into seconds, perfect for creating small movies of the setting sun, a backyard project, or even a car journey.
@@ -180,11 +149,12 @@ Tim Brookes / How-To Geek
  Remember that you can tap and hold an object to lock focus and exposure, then adjust exposure to your liking before you start your time lapse. This is essential if you want to capture a video where the exposure remains the same to visualize fading light, like during a sunset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8  Consider Shooting in ProRes 
 
  Under Settings > Camera > Formats you’ll find a “ProRes” toggle as long as you have a Pro iPhone (starting with the iPhone 13 Pro). ProRes captures much higher video quality at the expense of file size.
@@ -205,18 +175,6 @@ Tim Brookes / How-To Geek
 
  There’s a lot more to this app than first meets the eye. You can sample it all with a free trial and then purchase the app outright for a one-off fee of $12.95\. Previously I would have recommended [FiLMiC Pro](https://apps.apple.com/us/app/filmic-pro-video-camera/id436577167) here, but the app was sold on and has since moved to a subscription model. [FiLMiC Legacy](https://apps.apple.com/us/app/filmic-legacy/id6443816015) may still be worth a look, if you want a free video app.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10  Don’t Forget About Sound 
 
  Patching up bad video footage with some clever processing and editing isn't so hard, but the same can't be said for audio. We’d recommend investing in a proper microphone for your iPhone or using a separate audio recorder to get the best possible sound quality.
@@ -233,8 +191,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +198,21 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-demystifying-encoding-a-beginners-approach-to-av1/"><u>[Updated] Demystifying Encoding A Beginner's Approach to AV1</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-selection-for-captivating-youtube-content-starts/"><u>[Updated] The Ultimate Selection for Captivating YouTube Content Starts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-vivid-visions-the-practical-use-of-color/"><u>[Updated] Vivid Visions The Practical Use of Color</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-use-video-titles-and-youtube-tags-for-more-views/"><u>2024 Approved How to Use Video Titles and YouTube Tags for More Views?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-ways-to-fix-a-non-functioning-steamvr-system/"><u>Efficient Ways to Fix a Non-Functioning SteamVR System</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-pro-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 Pro to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/review-of-huawei-p10s-multimedia-features-and-functionality-for-2024/"><u>Review of Huawei P10’s Multimedia Features & Functionality for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-non-rotating-screens-on-your-iphoneipad/"><u>Solving the Issue of Non-Rotating Screens on Your iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-accessing-stored-credit-card-information-on-your-ios-safari-browser/"><u>Step-by-Step Guide: Accessing Stored Credit Card Information on Your iOS Safari Browser</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-printing-documents-from-your-ios-device/"><u>Step-by-Step Guide: Printing Documents From Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-evolution-of-charging-power-in-depth-analysis-and-insights-into-the-upgraded-belkin-qi2-boostcharge-pro-with-its-newly-integrated-dual-wall-and-car-moun22/"><u>The Evolution of Charging Power: In-Depth Analysis and Insights Into the Upgraded Belkin Qi2 BoostCharge Pro with Its Newly Integrated Dual Wall & Car Mount for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-iphones-dominance-in-my-gaming-life-reasons-im-sticking-with-mobile-play/"><u>The iPhone's Dominance in My Gaming Life - Reasons I'm Sticking with Mobile Play!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-missed-opportunity-how-your-vintage-iphone-had-the-potential-to-support-apple-ai/"><u>The Missed Opportunity: How Your Vintage iPhone Had the Potential to Support Apple AI</u></a></li>
+</ul></div>
 

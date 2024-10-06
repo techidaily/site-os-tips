@@ -1,7 +1,7 @@
 ---
 title: Creative Uses for Your Unintentional iPhone Photo Crop Masterpiece
-date: 2024-09-05T07:46:13.582Z
-updated: 2024-09-06T07:46:13.582Z
+date: 2024-10-04T16:45:32.064Z
+updated: 2024-10-06T17:26:22.900Z
 tags:
   - ios
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53212394387_79e19a5a26_o.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Creative Uses for Your Unintentional iPhone Photo Crop Masterpiece
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Creating Cutouts is Easy](https://facebook-video-footage.techidaily.com/updated-earning-through-youtube-partnerships-for-2024/)
@@ -63,11 +51,12 @@ Tim Brookes / How-To Geek
 ![iPhone stickers for use in iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1924.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
 
 ##  Create a Mood Board
@@ -82,6 +71,13 @@ Tim Brookes / How-To Geek
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Create a Visual Log of Outfits and More
 
  This was an idea I saw [shared by TikTok user](https://www.tiktok.com/@macaulay%5Fflower/video/7142962238343630126) macaulay\_flower and it’s a stroke of genius. By taking a full-body selfie, you can create a visual log of outfits that can be easily stored in Apple Notes. Each time you come up with a new look, take another image, copy the subject, and paste it into your note.
@@ -90,34 +86,30 @@ Tim Brookes / How-To Geek
 
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Them in Instagram Stories
 
  Once you’ve copied a subject to your clipboard, using it in an Instagram story is easy if you know how. Once you’ve got your background sorted, you can tap anywhere within the frame to add text. Tap again to reveal the “Paste” option and use it to add a subject from your clipboard to your story.
 
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Highlight the Subject in Almost Any App
 
  You can copy these cutouts to your clipboard or tap the “Share” option to use them almost anywhere. Many of these use cases depend on clipboard functionality, and sometimes you have to think outside of the box to see the potential.
@@ -126,12 +118,6 @@ Tim Brookes / How-To Geek
 
  On top of this, you can “Share” to Reminders if you want a visual representation of the item, book cover, person, and so on. You can also paste or “Share” into a Messages conversation, skipping the process of turning your image into a sticker before using it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use Them in Memes, Posters, and Creative Projects
 
  You can do almost anything on your iPhone or iPad these days, including creative work. The iPhone doesn’t have a proper “Photoshop equivalent” app for designing images and combining multiple cutouts on a single canvas, but there are ways you can use the iPhone to get creative work done.
@@ -140,18 +126,6 @@ Tim Brookes / How-To Geek
 
 ![Adding a subject to a Google Doc using the iPhone paste functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1929.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Publishing apps like [Apple Pages](https://apps.apple.com/us/app/pages/id361309726) and [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640), in addition to slideshow tools like [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) and [Apple Keynote](https://apps.apple.com/us/app/keynote/id409183694?mt=12) also natively support the feature. Design and layout apps like [Canva](https://apps.apple.com/us/app/canva-design-art-ai-editor/id897446215) and [PicCollage](https://apps.apple.com/au/app/piccollage-ai-photo-editor/id448639966) both support pasting of subjects once they’ve been copied to your clipboard.
@@ -159,6 +133,13 @@ Tim Brookes / How-To Geek
  Using these apps you can make use of templates to design a wide variety of digital and printable materials, from Instagram posts to business cards. In most cases, all you need to do is tap or long-tap and select “Paste.” Sometimes you’ll find this option underneath an ellipsis “...” menu instead.
 
  Many apps support the feature, you just need to experiment. Though you can’t refine what is selected as part of the subject isolation process, the feature makes it much easier to create impressive-looking work on mobile.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Save for Use as a Transparent PNG
 
@@ -178,8 +159,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +166,20 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-essential-guide-to-mac-based-lecture-recording/"><u>[New] In 2024, The Essential Guide to Mac-Based Lecture Recording</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-key-takeaways-on-youtube-tv-an-overview-of-its-advantages/"><u>[Updated] 2024 Approved Key Takeaways on YouTube TV An Overview of Its Advantages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2-how-to-turn-off-automatic-transcription-on-your-airpods-for-enhanced-privacy-and-control/"><u>2. How to Turn Off Automatic Transcription on Your AirPods for Enhanced Privacy and Control</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-chuckle-factory-designing-7-video-ideas-for-humorists/"><u>2024 Approved Chuckle Factory Designing 7 Video Ideas for Humorists</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-background-generator/"><u>2024 Approved What Is AI Background Generator?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-itel-p40-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-others-replicate-apples-success-with-modular-connectivity-in-electronics/"><u>Can Others Replicate Apple's Success with Modular Connectivity in Electronics?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-artificial-intelligence-powered-backdrops-the-ultimate-guide-for-your-instagram-storytelling/"><u>Creating Artificial Intelligence-Powered Backdrops: The Ultimate Guide for Your Instagram Storytelling</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-fixes-to-restore-sound-on-your-iphone-headphones/"><u>Expert Fixes to Restore Sound on Your iPhone Headphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-game-requires-a-system-restart-to-play-valorant/"><u>How to Fix Your Game Requires a System Restart to Play'' Valorant</u></a></li>
+<li><a href="https://os-tips.techidaily.com/regain-access-3-straightforward-techniques-for-retrieving-deleted-photos-on-ios-devices/"><u>Regain Access: 3 Straightforward Techniques for Retrieving Deleted Photos on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-strategy-for-iphone-12-recovery-with-icloud-backup-feature-explained/"><u>Step-by-Step Strategy for iPhone 12 Recovery with iCloud Backup Feature Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-facebook-polling-in-communities/"><u>The Ultimate Guide to Facebook Polling in Communities</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Strategies for Automating Your WhatsApp Notifications for Key Occasions
-date: 2024-09-05T07:43:43.257Z
-updated: 2024-09-06T07:43:43.257Z
+date: 2024-10-01T19:00:36.454Z
+updated: 2024-10-06T17:28:43.414Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  My friends used to get upset with me because I always forgot to wish them happy birthday exactly at midnight. It’s not that I don’t care about wishing them a happy birthday, but I always get caught up in something else. To avoid this and prevent missing other events, I’ve started scheduling messages on WhatsApp.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Schedule WhatsApp Messages on Android
 
  No, WhatsApp hasn't released an official way to schedule messages. However, many third-party apps on the [Play Store](https://win-answers.techidaily.com/enhancements-made-in-the-latest-fix-for-football-manager-2020-reliable-performance-guaranteed/) can help you schedule WhatsApp messages on your Android smartphone. SKEDit is one of the best options available.
@@ -28,45 +35,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![WhatsApp option in the SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/whatsapp-option-in-the-skedit-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Recipients option in the SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/recipients-option-in-the-skedit-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Type your message in the message field and add any attachments if needed. Next, select the date and time for the scheduled message and tap the check icon at the top.
 
 ![SKEDit app message field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/skedit-app-message-field.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check icon in SKEDit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/check-icon-on-skedit-app.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  That's it! The app will automatically send the scheduled message without requiring any further input from you.
@@ -76,6 +60,13 @@ Close
  On your iPhone, you can use the Shortcuts app to schedule a WhatsApp or any other [text message](https://facebook-video-footage.techidaily.com/updated-enhanced-engagement-with-effective-youtube-video-outros-strategies-for-2024/). If you don't have the app installed on your iPhone, [download it from the App Store](https://apps.apple.com/us/app/shortcuts/id915249334) and then open it. Tap "Automation" at the bottom and choose "New Automation." Then, select "Time of Day."
 
 ![New Automation option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-automation-option-in-the-shortcuts-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Time of Day option in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/time-of-day-option-in-the-shortcuts-app.jpg) 
 
@@ -95,21 +86,16 @@ Close
 
 ![Done option in the Shortcut app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/done-option-in-the-shortcut-app.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  That's about it. The WhatsApp message will be sent automatically at the scheduled time. Make sure to delete the automation task once you no longer need the scheduled message.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Schedule WhatsApp Messages on WhatsApp Web
 
@@ -118,41 +104,38 @@ Close
 ![Extensions tab in Chrome Web Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-tab-in-chrome-web-store.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, click the "Add to Chrome" button on the Blueticks page.
 
 ![Add To Chrome option in Web Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-to-chrome-option-in-web-store.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click "Add Extension" when the pop-up window appears.
 
 ![Add Extension option in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-extension-option-in-chrome.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the extension is installed, click the extensions icon in the Chrome toolbar and then click "Blueticks." Create a Blueticks account and log in.
 
 ![Extensions icon in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-icon-in-chrome.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After that, open [WhatsApp Web on Chrome](https://web.whatsapp.com/) and launch the conversation of the person you want to schedule a message for, type the message in the message field, then click the clock icon next to it.
 
 ![Clock icon in WhatsApp Web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clock-icon-in-whatsapp-web-1.jpg) 
@@ -161,18 +144,6 @@ Close
 
 ![Schedule Send optoin in WhatsApp Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/schedule-send-optoin-in-whatsapp-web.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  WhatsApp competitor [Telegram](https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-12plus-5g-drfone-by-drfone-virtual-android/) has had the message scheduling feature for a while. So, it's very likely that this feature will eventually be added to WhatsApp. Until then, you can use the workarounds discussed above to schedule messages on WhatsApp.
@@ -183,8 +154,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +161,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-savants-a-comprehensive-guide-to-hd-recorders/"><u>[Updated] Screen Savants A Comprehensive Guide to HD Recorders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2003-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2003 file</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-windows-1011-sm-bus-controller-discrepaninas/"><u>Addressing Windows 10/11 SM Bus Controller Discrepaninas</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-managing-your-samsung-account-sign-up-login-troubleshooting-password-reset-deletion-process-and-secure-data-recovery/"><u>Complete Guide to Managing Your Samsung Account: Sign Up, Login Troubleshooting, Password Reset, Deletion Process, and Secure Data Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-methods-for-eliminating-malware-from-your-android-devices/"><u>Effective Methods for Eliminating Malware From Your Android Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/embrace-the-season-ideal-winter-backgrounds-for-yt/"><u>Embrace the Season Ideal Winter Backgrounds for YT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-top-10-best-photo-layering-and-editing-apps-iosandroid-for-2024/"><u>Explore Top 10 Best Photo Layering & Editing Apps iOS/Android for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-your-android-lock-screen-code-easy-steps-to-regain-access/"><u>Lost Your Android Lock Screen Code? Easy Steps to Regain Access!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-strategies-for-fixing-recurring-snapchat-failures-across-iphones-and-androids/"><u>Revolutionary Strategies for Fixing Recurring Snapchat Failures Across iPhones and Androids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secretly-delete-texts-from-phone-without-backup-iphone-and-android-steps/"><u>Secretly Delete Texts From Phone Without Backup: IPhone & Android Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-process-for-restoring-deleted-sms-on-verizon-and-atandt-phones/"><u>Step-by-Step Process for Restoring Deleted SMS on Verizon and AT&T Phones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tech-insights-exploring-the-exceptional-performance-of-apple-ipad-pro-11-inch-market-leader-reviewed/"><u>Top Tech Insights: Exploring the Exceptional Performance of Apple iPad Pro (11-Inch) - Market Leader Reviewed!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/trouble-logging-into-snapchat-heres-how-you-can-overcome-these-login-issues/"><u>Trouble Logging Into Snapchat? Here's How You Can Overcome These Login Issues</u></a></li>
+</ul></div>
 

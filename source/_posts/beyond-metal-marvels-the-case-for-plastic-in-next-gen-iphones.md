@@ -1,7 +1,7 @@
 ---
 title: "Beyond Metal Marvels: The Case for Plastic in Next-Gen iPhones"
-date: 2024-09-05T07:46:07.678Z
-updated: 2024-09-06T07:46:07.678Z
+date: 2024-10-05T16:04:41.721Z
+updated: 2024-10-06T16:48:51.283Z
 tags:
   - ios
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c669607905f5ab705b440efbb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beyond Metal Marvels: The Case for Plastic in Next-Gen iPhones
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The titanium mid-frame of the iPhone 15 Pro is a marketing gimmick that focuses on weight reduction but doesn't offer any other benefits.
@@ -32,11 +20,12 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
  When I say "iPhone 15 Pro," you say "titanium." This awe-inspiring metal gives the iPhone 15 Pro a new shine, and it's expected to become a staple of premium smartphone design. But you can keep your titanium. I just want a plastic iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Titanium iPhone Is a Marketing Gimmick
 
  At launch, the [iPhone 15 Pro's](https://facebook-video-content.techidaily.com/new-direct-interaction-enhancing-live-broadcasts-with-desktop-share/) titanium mid-frame felt like nothing more than a footnote. This is the first iPhone with [USB-C charging](https://extra-resources.techidaily.com/magix-image-suite-assessment/), it's got a customizable ["Action" button](https://youtube-lab.techidaily.com/banish-stutter-and-freeze-optimize-your-outriders-gameplay/), and the Pro Max model comes with a new 5x telephoto lens. With all these great improvements, who cares about a thin piece of metal?
@@ -51,12 +40,6 @@ Hannah Stryker / How-To Geek
 
  The majority of [iPhone 15 Pro advertisements](http://youtu.be/rvOAOJ9681g?) don't even mention weight. They just repeat the word "titanium" without any explanation, leaving customers to use their imagination and fill in the gaps. It's an ingenious marketing tactic, but it's also a bit toxic. We need an iPhone that's more affordable and durable. Instead, Apple is doing the smartphone equivalent of gold-plated USB cables or magical audiophile equipment. "It's premium, so it must be better!"
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Give Me a Plastic iPhone!
 
  From the start, Apple has intentionally made the iPhone a semi-affordable luxury item. This often comes at the expense of things that _actually_ matter, such as usability or price. Just look at the iPhone 4\. It introduced a flashy new design, but it suffered from cellular interference and had a fragile back panel. When customers complained, Steve Jobs accused them of [using the phone wrong](https://www.theguardian.com/technology/blog/2010/jun/25/iphone-reception-problems-solved).
@@ -66,11 +49,18 @@ Hannah Stryker / How-To Geek
 ![The iPhone 5c on display in four colors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/35-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Anton\_Ivanov/Shutterstock.com](https://www.shutterstock.com/image-photo/prague-czech-republic-aug-6-2017-1155042934)
 
  The plastic iPhones didn't suffer from any weird engineering problems. They weren't fragile; in fact, they were more durable than their aluminum or glass-backed counterparts. Critics may have compared the iPhone 5c to a cheap toy (it certainly looked like one), but they always complemented the quality and strength of Apple's plastic, which was reinforced by an internal metal frame.
@@ -83,16 +73,24 @@ Hannah Stryker / How-To Geek
 
  On the other hand, a circular supply chain will take years to develop. Samsung uses a ton of [recycled plastic](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fexplore%2Fsustainability%2Fsustainable-materials%2F) in its products, so why shouldn't Apple?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Next iPhone SE Is a Perfect Candidate for Plastic
 
 ![iPhone SE with clownfish wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-se-clownfish.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  It's safe to assume that flagship iPhones will never use plastic housing. The iPhone 3G and 3GS were an exception to the rule, and Apple only made an exception because its original aluminum housing sucked the life out of cellular and Bluetooth signals.
@@ -115,8 +113,6 @@ Corbin Davenport / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +120,16 @@ Corbin Davenport / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-exclusive-insights-into-making-memorable-instagram-movies-for-2024/"><u>[New] Exclusive Insights Into Making Memorable Instagram Movies for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-6-strategies-for-leveraging-chatgpt-in-data-analysis/"><u>Discover the Top 6 Strategies for Leveraging ChatGPT in Data Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-guide-engage-with-audio-content-seamlessly/"><u>In 2024, IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a56s-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A56s 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-lost-sms-on-iphone-methods-for-ios-devices-with-latest-update-support/"><u>Recover Lost SMS on iPhone: Methods for iOS Devices with Latest Update Support</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revisit-vanished-chats-the-ultimate-technique-for-retrieving-deleted-message-threads/"><u>Revisit Vanished Chats: The Ultimate Technique for Retrieving Deleted Message Threads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-deleted-phone-numbers-a-complete-tutorial-on-retrieving-contacts-with-itunes-backups/"><u>Revive Deleted Phone Numbers: A Complete Tutorial on Retrieving Contacts with iTunes Backups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-lost-contact-information-from-your-itunes-backup/"><u>Step-by-Step Guide: Restoring Lost Contact Information From Your iTunes Backup</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can I Use My iPhone in the Rain Without Damage?
-date: 2024-09-29T11:11:33.665Z
-updated: 2024-10-01T09:30:50.444Z
+date: 2024-10-01T18:37:51.471Z
+updated: 2024-10-06T19:05:18.100Z
 tags:
   - ios
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Want a "Water-Proof" iPhone? Use a Case](https://howto.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Be Careful Submerging Your iPhone in Water](https://extra-information.techidaily.com/frostbound-feats-olympic-ice-innovations/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Recent iPhone models have different IP ratings, including IP68 for the iPhone 15 through to the iPhone XS, though newer models can be submerged for longer.
@@ -29,18 +36,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Modern iPhones are [water-resistant](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), but the strength of that protection varies from model to model. Performing maintenance and repairs on your iPhone can compromise this protection. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which iPhones Are Water-Resistant?
 
  The iPhone 15, iPhone 14, iPhone 13, and iPhone 12 families of devices (including all Pro, Pro Max, Plus, and mini models) have an IP68 rating. Apple states that these devices can withstand being submerged up to a depth of 6 meters for 30 minutes (that's almost 20 feet). 
 
 ![Person holding an iPhone 15 Pro Max.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53228140359_7acd288927_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -93,13 +100,6 @@ Corbin Davenport / How-To Geek
 
  In other words, Apple explicitly recommends against dunking your iPhone underwater. iPhone water resistance seems to be the last line of defense. While the iPhone has been tested to withstand an IP67 or IP68 water rating, it's not worth intentionally getting your iPhone wet. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Is My iPhone Still Water Resistant After Repairs?
 
  Apple-approved service shouldn't affect your iPhone's water resistance, but third-party repairs could result in your iPhone not being waterproof afterward. On the [iFixit forum](https://www.ifixit.com/Answers/View/343117/Will+iPhone+7+keep+it%27s+water+resistance+after+repair#answer343137), Experimac's Justin Berman notes that the water-resistant rating is tied closely to the presence of adhesive strips located on the display assembly.
@@ -121,10 +121,10 @@ Corbin Davenport / How-To Geek
  Even if you have AppleCare+, you will still have to pay the flat fee to have your IP68-rated iPhone replaced if it becomes water-damaged.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Want a "Water-Proof" iPhone? Use a Case
@@ -148,10 +148,16 @@ Keep most smartphones dry and sand-free with this floating universal cover from 
 [OtterBox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU213226/https://www.otterbox.com/) is another respected brand in the rugged case market. The Frē series now supports MagSafe and allows you to take your iPhone to depths of up to 2 meters (6.6ft) for an hour, with built-in drop protection and an included lanyard.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Be Careful Submerging Your iPhone in Water
@@ -175,18 +181,18 @@ Keep most smartphones dry and sand-free with this floating universal cover from 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-curated-collection-best-free-footage-websites-ranked/"><u>[New] 2024 Approved Curated Collection Best Free Footage Websites Ranked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-enhance-video-visibility-with-effective-thumbnail-scaling/"><u>[Updated] Enhance Video Visibility with Effective Thumbnail Scaling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-conferencing-combining-the-power-of-zoom-and-skype/"><u>[Updated] Mastering Video Conferencing Combining the Power of ZOOM & SKYPE</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-exploration-of-vsco-image-processing/"><u>2024 Approved Comprehensive Exploration of VSCO Image Processing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-greatest-anime-platforms-online-plus-step-by-step-tutorial-on-securing-your-watchlist-for-offline-enjoyment/"><u>Discover the Greatest Anime Platforms Online + Step-by-Step Tutorial on Securing Your Watchlist for Offline Enjoyment</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-speedy-realignment-youtube-videos-for-mac-views/"><u>In 2024, Speedy Realignment YouTube Videos for MAC Views</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-journey-discover-how-to-share-your-google-map-route-for-a-seamless-travel-experience/"><u>Maximize Your Journey: Discover How to Share Your Google Map Route for a Seamless Travel Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-awesome-experience-with-the-paprika-app-why-you-shouldnt-wait/"><u>My Awesome Experience with the Paprika App - Why You Shouldn't Wait</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-desire-for-a-cosmic-galaxy-ring-denied-by-samsungs-design/"><u>My Desire for a Cosmic Galaxy Ring Denied by Samsung's Design</u></a></li>
-<li><a href="https://os-tips.techidaily.com/phone-overheating-follow-these-tips-to-cool-things-down/"><u>Phone Overheating? Follow These Tips to Cool Things Down!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-3-best-free-screen-recorder-apps-for-windows-with-no-watermark-techradar-comparison/"><u>Top 3 Best Free Screen Recorder Apps for Windows (with No Watermark) – TechRadar Comparison</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-your-windows-media-player-connection-issues/"><u>Troubleshooting Steps: Resolving Your Windows Media Player Connection Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-essential-srt-compendium-for-all-levels/"><u>[New] In 2024, The Essential SRT Compendium for All Levels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-streamline-your-gaming-experience-with-top-tools/"><u>[Updated] 2024 Approved Streamline Your Gaming Experience with Top Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-template-transformations-build-unique-logos-for-pennies/"><u>2024 Approved Template Transformations Build Unique Logos for Pennies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-android-emulators-top-9-picks-for-windows-and-mac-users/"><u>Best Android Emulators: Top 9 Picks for Windows & Mac Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chronological-adventure-the-best-way-to-experience-the-x-men-universe-on-screen/"><u>Chronological Adventure: The Best Way to Experience the X-Men Universe on Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-mobile-alerts-how-to-design-and-set-up-unique-phone-tones-for-ios-and-android-phones/"><u>DIY Mobile Alerts: How to Design and Set Up Unique Phone Tones for iOS & Android Phones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-huawei-nova-y71-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Huawei Nova Y71? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-internet-explorer-has-stopped-error-effective-solutions/"><u>Resolving the 'Internet Explorer Has Stopped' Error: Effective Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-access-to-greyed-out-pin-unlock-option/"><u>Restoring Access to Greyed-Out Pin Unlock Option</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620198160-simplified-mobile-experience-operating-android-directly-from-your-desktop-no-jailbreaking-needed/"><u>Simplified Mobile Experience: Operating Android Directly From Your Desktop, No Jailbreaking Needed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-creating-personalized-ringtones-on-iphone-and-android-devices/"><u>Step-by-Step Guide: Creating Personalized Ringtones on iPhone & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-for-seamlessly-projecting-your-galaxy-screen-using-allshare-cast-technology/"><u>Step-by-Step Tutorial for Seamlessly Projecting Your Galaxy Screen Using AllShare Cast Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-android-apps-for-securely-storing-and-managing-your-passwords/"><u>Top-Rated Android Apps for Securely Storing and Managing Your Passwords</u></a></li>
 </ul></div>
 

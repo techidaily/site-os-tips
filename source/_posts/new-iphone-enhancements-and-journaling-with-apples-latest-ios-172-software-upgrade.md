@@ -1,7 +1,7 @@
 ---
 title: New iPhone Enhancements & Journaling with Apple's Latest iOS 17.2 Software Upgrade
-date: 2024-09-05T07:45:35.397Z
-updated: 2024-09-06T07:45:35.397Z
+date: 2024-10-02T17:04:56.641Z
+updated: 2024-10-06T19:33:55.181Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/5-1.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New iPhone Enhancements & Journaling with Apple's Latest iOS 17.2 Software Upgrade
 
 Apple [rolled out iOS 17 and iPadOS 17](https://screen-recording.techidaily.com/enhanced-team-collaboration-with-slack-plus-filmora-timelines-for-2024/) earlier this year as a major update for iPhone and iPad devices. After a few weeks of beta testing, iOS 17.2 and iPadOS 17.2 are now available, offering a new preinstalled app and some helpful features.
@@ -82,8 +76,6 @@ Apple [rolled out iOS 17 and iPadOS 17](https://screen-recording.techidaily.com/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +83,33 @@ Apple [rolled out iOS 17 and iPadOS 17](https://screen-recording.techidaily.com/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-journey-to-the-core-of-instagram-finding-all-about-free-filters/"><u>[Updated] 2024 Approved Journey to the Core of Instagram Finding All About Free Filters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-conducting-engaging-interviews/"><u>2024 Approved The Art of Conducting Engaging Interviews</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-z-flip-5-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy Z Flip 5 FRP Bypass Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-iphone-data-restoration-tools-beyond-tenorshare/"><u>Comprehensive Analysis of iPhone Data Restoration Tools Beyond Tenorshare</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-comparisons-tenorshare-iphone-data-retrieval-vs-top-contenders/"><u>Expert Comparisons: Tenorshare iPhone Data Retrieval Vs. Top Contenders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-and-tricks-a-comprehensive-manual-for-erasing-your-snapchat-account-forever/"><u>Expert Tips and Tricks: A Comprehensive Manual for Erasing Your Snapchat Account Forever</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726029641925-mp4windows-10/"><u>MP4ファイルの効果的な集約手順:Windows 10プラス方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-lost-images-from-your-ipod-touch-a-step-by-step-guide/"><u>Recovering Lost Images From Your iPod Touch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-memories-effective-techniques-for-recovering-images-from-icloud/"><u>Revive Your Memories: Effective Techniques for Recovering Images From iCloud</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-3-major-privacy-hazards-associated-with-chatbot-technology/"><u>Unveiling 3 Major Privacy Hazards Associated With Chatbot Technology</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Upcoming 'Unleashed' Presentation: Revealing New iPad Lineup & More Surprises!"
-date: 2024-09-05T07:46:06.512Z
-updated: 2024-09-06T07:46:06.512Z
+date: 2024-10-05T17:28:22.895Z
+updated: 2024-10-06T16:38:30.535Z
 tags:
   - ios
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ## Apple's Upcoming 'Unleashed' Presentation: Revealing New iPad Lineup & More Surprises!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Upcoming Apple "Let Loose" event may unveil new iPad Pros with OLED screens, Apple M4 chips, & new Apple Pencil gestures. (114 characters)
@@ -27,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
  The invitation suggests that fresh new iPads and a new Apple Pencil mode are locked for the event, but what else? Here's everything we expect to see at the "Let Loose" event.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  iPad Pro Goes OLED, Brings a Matte Display Option
 
  Reimagined around a full screen Face ID experience and thin design, the 2018 iPad Pro is still an incredible device. But after six years, the iPad Pro is about to undergo a major upgrade.
@@ -40,11 +28,12 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 ![An iPad Pro standing up vertically in the Pitaka MagEZ Folio 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52928203880_87ed4c353e_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Bloomberg's Mark Gurman [claims](https://www.bloomberg.com/news/newsletters/2024-04-28/apple-rivals-retool-to-compete-with-iphone-and-vision-pro-ios-18-and-ai-details-lvjhucsv) that the next iPad Pro will debut the Apple M4 chip before it even appears in a Mac. Tipped as Apple's first true AI processor thanks to a beefed up [Neural Engine](https://www.makeuseof.com/what-is-a-neural-engine-how-does-it-work/), the M4 could be required for on-device large language models.
@@ -58,6 +47,13 @@ Hannah Stryker / How-To Geek
  A matte display coating reduces light reflections and refractions.
 
  Apple debuted a landscape FaceTime camera on the tenth-generation iPad, with the expectation that it would come to all models so you'll no longer appear sideways on video calls. The next iPad Pro should replace the current M2 models unless Apple sells them at a premium, at which point it could keep LCD models as a lower-priced alternative.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  iPad Air Gets a New 12.9-Inch Screen Size
 
@@ -79,6 +75,13 @@ Apple
 
  Such complaints could soon become a thing of the past as Apple reportedly revamped the keyboard attachment with an aluminum top case. It should make the next Magic Keyboard hold up much better over time. Along with a bigger trackpad, the redesign should bring a laptop-like feel to your setup, Mark Gurman reported on [Bloomberg](https://www.bloomberg.com/news/newsletters/2023-08-27/ipad-pro-2024-magic-keyboard-redesigned-tablet-m3-september-12-event-details-lltgk6fv).
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Fourth-Generation Apple Pencil With New Gestures
 
  iPadOS 17.5 references an unreleased Apple Pencil "V4" paving the way for fresh rumors about Apple's upcoming event. There have been three models of Apple styli so far, and a new model could use force sensors to bring a squeeze gesture.
@@ -87,12 +90,6 @@ Apple
 
  A fourth-generation Apple Pencil could also work with drawing apps on the Apple Vision Pro headset, including Freeform and Pixelmator, [MacRumors](https://www.macrumors.com/2024/03/25/apple-pencil-visionon-support-in-testing/) has learned.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  New FineWoven Colors Before Apple Pulls the Plug
 
  Apple has woven itself into quite a mess with FineWoven cases, its eco-friendly leather replacement described as "luxurious and durable microtwill" that became a PR nightmare.
@@ -104,11 +101,12 @@ Apple
  Apple could unveil a new leather alternative to replace FineWoven alongside new iPhones in September.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  New Mid-Cycle iPhone Color
 
  Like clockwork, new iPhones are unveiled in the fall. As of 2017, Apple devised a strategy to keep sales flowing in quieter periods: introduce a new color mid-cycle. The approach works, as it keeps the current iPhone in the news before the next model arrives.
@@ -119,12 +117,6 @@ Christian Zibreg / How-To Geek | Apple
 
  We've had purple, green, yellow, and red iPhones, among others. We believe the tradition will continue and expect a new iPhone color at the event.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  iOS and iPadOS 17.5 Release Dates
 
  New iPads will come pre-loaded with iPadOS 17.5, which includes references to unreleased hardware. And if history is anything to go by, iPadOS 17.5 will launch to the public ahead of new iPads.
@@ -143,8 +135,6 @@ Christian Zibreg / How-To Geek | Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +142,19 @@ Christian Zibreg / How-To Geek | Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-step-by-step-download-vimeo-to-mp4-files/"><u>[New] 2024 Approved Step-by-Step Download Vimeo to MP4 Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-harmonize-video-quality-with-instagrams-visual-theme-for-2024/"><u>[New] Harmonize Video Quality with Instagram's Visual Theme for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlimited-view-of-youtube-cover-pics-no-payment-required/"><u>[New] Unlimited View of YouTube Cover Pics No Payment Required</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-call-histories-from-your-smartphone/"><u>Complete Guide: Retrieving Lost Call Histories From Your Smartphone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-to-resolving-asus-pce-ac56-driver-challenges-in-different-windows-editions/"><u>Comprehensive Guide to Resolving ASUS PCE-AC56 Driver Challenges in Different Windows Editions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-for-restoring-accidentally-deleted-images-from-your-iphone-device/"><u>Effective Strategies for Restoring Accidentally Deleted Images From Your iPhone Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-removed-ios-apps-and-preserving-user-information-securely/"><u>Expert Tips for Retrieving Removed iOS Apps and Preserving User Information Securely</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-retrieving-lost-phonebook-entries-post-iphone-system-error/"><u>Guide: Retrieving Lost Phonebook Entries Post-iPhone System Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-k70-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi K70 online without jailbreak</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tough-missions-await-the-contingency-of-additional-launches-for-stranded-starliner-crew-members/"><u>Tough Missions Await: The Contingency of Additional Launches for Stranded Starliner Crew Members</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-v-purse-by-drfone-android/"><u>Universal Unlock Pattern for Honor V Purse</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-covers-materials-and-protection-benefits/"><u>Xbox Covers: Materials & Protection Benefits</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style"
-date: 2024-09-27T17:18:49.230Z
-updated: 2024-10-01T00:54:23.453Z
+date: 2024-09-30T17:25:56.077Z
+updated: 2024-10-06T19:33:41.938Z
 tags:
   - ios
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 * [Redesigning Hardware Is Less Sustainable](https://win-howtos.techidaily.com/how-to-fix-nier-automata-crashes-on-your-windows-computer/)
 * [Even Techies Don't Want Change As Much As We Think We Do](https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Good smartphones designs remain consistent in part because there are limited ways to make powerful, durable, and comfortable devices.
@@ -32,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  We've Figured Out How to Make Good Phones
 
  When a technology is new, experimentation is the name of the game. We don't already know which design is the most durable, [how to make gadgets waterproof](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), or [how to allow for passive cooling](https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/). We're not even sure which of these things is important.
@@ -47,22 +47,21 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  Even when it comes to foldable phones, developers know how to make great ones. Most of the experimentation has to do with durability and miniaturization, making components small enough that you can still fit flagship cameras on a device where each half needs to be thinner than that of an average phone. It would also be nice to get rid of the crease. But the fundamentals? Those are nailed down already.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Consistency Is Good for Brand Recognition
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -73,13 +72,6 @@ Tyler Hayes / How-To Geek
 
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You Can Still Switch Brands to Try Something New
 
  A wide range of varying smartphone designs still exist. These differences simply exist between brands rather than specific models. If you like a muted minimalist design, Samsung caters to that. If you want your smartphone brand to serve as a status symbol, iPhones have an Apple logo that's easy to see. If you want hardware that lights up or feels very cyberpunk, buy a [Nothing Phone](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) or an ROG Phone.
@@ -87,6 +79,13 @@ Tyler Hayes / How-To Geek
  The same is true of the software experience. Apple and Google phones place a premium on having a cohesive experience that offers the essentials. Samsung offers people the ability to tweak whatever they want. Motorola and ASUS offer experiences that lie somewhere in between.
 
  When you're bored, satisfy your thirst for novelty by switching brands, but know you can switch back to the familiar when you so choose.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  ​You Can Get a Better Version of the Phone You Already Have
 
@@ -120,6 +119,13 @@ Justin Duino / How-To Geek
 
 ![OnePlus Open outside display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  Those of us who review gadgets tend to discourage innovation more often than we think. Consider how Samsung used the fact that the Z Fold line can flip open to experiment with making the device more narrow and easy to hold. Many have complained that it isn't the size and shape of a standard phone. In contrast, people have praised the newer OnePlus Open for looking like a standard slab phone when closed. The holy grail, apparently, is for foldable phones to be almost indistinguishable from slab phones.
@@ -145,20 +151,17 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-maximizing-your-youtube-income-through-understanding-cpm/"><u>[New] In 2024, Maximizing Your YouTube Income Through Understanding CPM</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-mac-device-visuals-and-acoustics-in-one/"><u>[New] In 2024, Ultimate Mac Device Visuals & Acoustics in One</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2-how-to-turn-off-automatic-transcription-on-your-airpods-for-enhanced-privacy-and-control/"><u>2. How to Turn Off Automatic Transcription on Your AirPods for Enhanced Privacy and Control</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-success-a-compre-pointed-guide-to-reddit-content-creation/"><u>2024 Approved Unlocking Success A Compre Pointed Guide to Reddit Content Creation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-unveiling-imyfone-d-back-features-and-insights/"><u>Comprehensive Guide: Unveiling IMyFone D-Back Features & Insights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-experience-boost-your-sites-traffic-with-smart-tracking/"><u>Cookiebot-Enhanced Experience: Boost Your Site's Traffic with Smart Tracking!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-iphone-message-apps-backup-restore-and-unmissable-features/"><u>Essential iPhone Message Apps: Backup, Restore & Unmissable Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-fixes-to-restore-sound-on-your-iphone-headphones/"><u>Expert Fixes to Restore Sound on Your iPhone Headphones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-master-the-use-of-musical-emoji-features-on-instawow/"><u>How to Master the Use of Musical Emoji Features on InstaWow</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-investments-elite-4k-dslr-mounting-solutions/"><u>In 2024, Best Investments Elite 4K DSLR Mounting Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-coordinated-audio-visual-grouping-space/"><u>In 2024, Coordinated Audio-Visual Grouping Space</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/regain-access-3-straightforward-techniques-for-retrieving-deleted-photos-on-ios-devices/"><u>Regain Access: 3 Straightforward Techniques for Retrieving Deleted Photos on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-strategy-for-iphone-12-recovery-with-icloud-backup-feature-explained/"><u>Step-by-Step Strategy for iPhone 12 Recovery with iCloud Backup Feature Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-techniques-for-perfect-green-screen-cinematography/"><u>[New] Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-13t-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi 13T Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/charge-forward-the-best-inspiration-movies-for-2024/"><u>Charge Forward The Best Inspiration Movies for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994881275-days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dearmob-user-manual-effortlessly-move-music-from-ios-device-to-pc-with-windows-os/"><u>DearMob User Manual: Effortlessly Move Music From iOS Device to PC with Windows OS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-dearmob-mac-security-the-ultimate-user-manual/"><u>Essential DearMob Mac Security: The Ultimate User Manual</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-move-your-iphone-applications-to-a-mac-a-comprehensive-guide-by-dearmob/"><u>How to Seamlessly Move Your iPhone Applications to a Mac: A Comprehensive Guide by DearMob</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-redmi-note-13-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Redmi Note 13 5G Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloses-online-umwandeln-von-ogg-in-ogv-mit-movavi-media-converter/"><u>Kostenloses Online-Umwandeln Von OGG in OGV Mit Movavi Media Converter</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-for-navigating-and-utilizing-dearmob-iphone-app-on-windows-platforms/"><u>The Ultimate Tutorial for Navigating and Utilizing DearMob iPhone App on Windows Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-stability-fixes-addressing-persistent-game-crash-issues-successfully/"><u>Total War: Warhammer II Stability Fixes - Addressing Persistent Game Crash Issues Successfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-music-masterpiece-awaits-step-by-step-to-youtube-playlist-perfection-webmobile-for-2024/"><u>Your Music Masterpiece Awaits Step-by-Step to YouTube Playlist Perfection (Web/Mobile) for 2024</u></a></li>
 </ul></div>
 

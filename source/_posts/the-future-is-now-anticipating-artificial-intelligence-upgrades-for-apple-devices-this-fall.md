@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Now: Anticipating Artificial Intelligence Upgrades for Apple Devices This Fall"
-date: 2024-09-05T07:45:49.390Z
-updated: 2024-09-06T07:45:49.390Z
+date: 2024-09-29T19:26:06.424Z
+updated: 2024-10-06T18:43:44.409Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e102029671a46187318bc7e5be93.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future Is Now: Anticipating Artificial Intelligence Upgrades for Apple Devices This Fall
 
 ### Quick Links
@@ -29,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 * [Integrated ChatGPT](https://extra-resources.techidaily.com/updated-7-superior-mac-video-applications/)
 * [Apple Intelligence Compatibility](https://tech-haven.techidaily.com/empowering-android-with-the-advanced-ai-features-of-bing/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Fall 2024 brings Apple Intelligence to iPhone, iPad, and Mac models with an A17 Pro or M1 processor and later.
@@ -37,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
  If you have an iPhone 15 Pro or an iPad or Mac with an M1 processor or better, Apple Intelligence could transform how you interact with your smartphone, tablet, and computer. Here’s what to expect ahead of the launch in fall 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What is Apple Intelligence?
 
  Apple Intelligence is Apple’s version of large language model (LLM) artificial intelligence. It’s a lot like existing [tools like ChatGPT and Google Gemini](https://extra-support.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/), except it works solely within Apple’s ecosystem. Many of Apple’s existing tools and apps will receive support for Apple Intelligence when the feature launches.
@@ -50,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 ![Apple Intelligence presentation slide at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_splash.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Apple
 
  These new AI features are set to arrive in the fall with the release of iOS 18, iPadOS 18, and macOS 15 Sequoia.
@@ -68,11 +64,12 @@ Apple
 ![Siri's new look debuted at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_siri.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Apple
 
  You’ll be able to issue more complex commands and Siri should be able to understand them. You might ask for Siri to find you photos taken with a specific person in a certain location, then edit the photo, and then send it to a contact. Context is maintained so Siri stays on the same page, every step of the way.
@@ -85,12 +82,6 @@ Apple
 
  Apple stressed that Siri improvements will be ongoing over the life of the next update cycle, so expect the assistant to get more intelligent with new updates to iOS 18, iPadOS 18, and macOS 15 Sonoma.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Apple Intelligence Speaks Your Language
 
  Apple Intelligence allows you to generate and parse text in ways that should be useful right across the system, whether you’re on a phone, tablet, or computer. Apple has introduced a set of writing tools that allow you to highlight and then rewrite sections of text, adjusting for tone. You can generate new versions or revert to the original text at any time.
@@ -109,11 +100,25 @@ Apple
 
  Lastly, Apple Intelligence will sort your notifications based on importance. A new “Reduce Interruptions” toggle will only surface the most important notifications, like a smarter version of [Time Sensitive notifications introduced in iOS 15](https://hardware-updates.techidaily.com/download-and-update-hp-laserjet-1320-printer-drivers-on-windows/).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Generate Images Like Custom Emoji
 
  Apple’s model also includes generative image capabilities, starting with Genmoji. Short for “generative emoji,” Apple Intelligence will create new emoji based on your prompts, with multiple options for you to sort through. You can then [send them as tapbacks](https://tiktok-clips.techidaily.com/new-in-2024-capture-hearts-on-tiktok-designed-templates-for-visual-impact/), [stickers](https://some-approaches.techidaily.com/new-unlocking-windows-10-key-skills-you-need/), or as in-line emoji in your messages. Apple also showed off a feature that generates emoji based on contact appearance.
 
 ![A T-Rex on a surfboard emoji generated by Apple Intelligence.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_genmoji-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -149,18 +154,6 @@ Apple
 
  If Apple can pull it off, this could be something special.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Personal Context is Everything
 
  The real difference between Apple’s implementation and something like ChatGPT is that your iPhone (or iPad, or Mac) is at the core of the experience. Your device already understands a lot about you: the people you talk to, when you leave for work, the places you frequent, and so on.
@@ -169,17 +162,24 @@ Apple
 
 ![A demonstration of the context in Apple Intelligence at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_context.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple
 
  Search is one area where this context can really come in handy. With Apple Intelligence you can ask Siri to find a link from someone you received last week, regardless of whether you can remember if it was an email or a message. You can surface information from conversations that you forgot to make a note of, like an address or what time you’re supposed to be meeting.
 
  Siri can make use of all of the information on your device that the assistant already knows. Some examples include the contents of your inbox, the files you’ve recently saved, topics in message threads, reminders you’ve forgotten about, links you’ve shared, upcoming calendar events, passes you’ve added to the Wallet app, and so on.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Privacy is Built-In
 
@@ -193,12 +193,6 @@ Apple
 
  It remains to be seen just how many of these requests can be performed on-device. As devices become more powerful, it’s likely we’ll see the majority of these operations completed offline in the future. Apple is all-in on AI at this point, so expect future chip designs to prioritize Apple Intelligence capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Integrated ChatGPT
 
  Siri will also have a window to ChatGPT 4o, arriving “later this year” according to the WWDC announcement. Apple claims that requests to ChatGPT won’t be logged, and you’ll even be able to connect your OpenAI account to access premium features if you’re a subscriber.
@@ -208,29 +202,18 @@ Apple
  ChatGPT integration will be free to all Apple Intelligence users.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Apple Intelligence Compatibility
 
  Unfortunately, Apple Intelligence requires a modern Apple device like the iPhone 15 Pro (A17) or an iPad or Mac with an M1 processor. Both the [iPhone 16 and iPhone 16 Pro](https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-n55-hard-reset-drfone-by-drfone-reset-android-reset-android/) are expected to be compatible with the service thanks to the upcoming A18 chip.
 
 ![Hardware required to run Apple Intelligence on iOS, iPadOS and macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_chips.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While Apple Intelligence might have been the biggest announcement of WWDC 2024, Apple also sent shockwaves around the world with [the announcement of an iPadOS Calculator app](https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-narzo-60-5g-by-drfone-android/).
 
 <ins class="adsbygoogle"
@@ -239,8 +222,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +229,19 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-approaches-for-rising-through-the-rankings/"><u>2024 Approved Innovative Approaches for Rising Through the Rankings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-frozen-windows-guard-in-windows-11/"><u>Addressing Frozen Windows Guard in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-nubia-red-magic-8s-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p40-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P40 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-discover-the-leading-8-artificial-intelligence-chrome-extensions/"><u>Maximizing Efficiency: Discover the Leading 8 Artificial Intelligence Chrome Extensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/questioning-the-necessity-of-windows-unveiling-4-key-reasons-to-consider-alternatives/"><u>Questioning the Necessity of Windows: Unveiling 4 Key Reasons to Consider Alternatives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cod-black-ops-fortress-fixing-lag-spikes-and-improving-frame-rate/"><u>Resolving Cod: Black Ops Fortress - Fixing Lag Spikes & Improving Frame Rate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-old-imessages-tips-for-users-whove-moved-beyond-ios-versions-12-13-and-14/"><u>Restoring Old iMessages: Tips for Users Who've Moved Beyond iOS Versions 12, 13, and 14</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-memories-effective-techniques-for-snapchat-photo-restoration-on-smartphones-androidios/"><u>Revive Your Memories: Effective Techniques for Snapchat Photo Restoration on Smartphones (Android/iOS)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securing-access-to-your-icloud-drive-images-and-documents-across-devices/"><u>Step-by-Step Guide: Securing Access to Your iCloud Drive Images & Documents Across Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-speedy-recovery-of-deleted-imessages-from-an-iphone/"><u>Step-by-Step Instructions for Speedy Recovery of Deleted iMessages From an iPhone</u></a></li>
+</ul></div>
 

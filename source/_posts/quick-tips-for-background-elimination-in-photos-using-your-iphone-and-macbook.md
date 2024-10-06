@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook
-date: 2024-09-29T16:46:51.271Z
-updated: 2024-10-01T09:43:25.310Z
+date: 2024-10-02T17:39:37.753Z
+updated: 2024-10-06T19:58:41.616Z
 tags:
   - ios
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Remove the Background From an Image on a Mac](https://tech-savvy.techidaily.com/1721432117935-stay-safe-not-seducedgoogles-bard-malware-warning/)
 * [Remove Background Gets the Job Done Most of the Time](https://youtube-data.techidaily.com/n-2024-from-chords-to-chart-toppers-essential-musician-focused-youtube-content/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * iOS, iPadOS and macOS have a "Remove Background" Quick Action in the Files app for easy background removal from images on iPhones and iPads.
@@ -31,19 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * The Remove Background feature is accurate but may not work well if the background is busy or lacks distinction from the subject.
 
  Removing the background from an image can be a cumbersome task with traditional photo editing tools. But if you use an iPhone or Mac, there's a quick and easy way to remove backgrounds from images. Let's take a look.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Remove the Background From an Image on an iPhone or iPad
 
@@ -61,15 +41,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Saving photos to Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to move the images to a separate folder, you'll need to create one first. Tap the three-dot icon to the left of Save in the top-right corner of the app and select "New Folder."
 
 ![Creating a new folder in Files app to move Photos images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, give the folder a name and hit "Save" to save the selected images.
@@ -93,10 +80,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Accessing the Remove Background Quick Action in Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-12.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Remove the Background From an Image on a Mac
@@ -109,22 +96,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Accessing context menu on an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, click on "Quick Actions" and select "Remove Background."
 
 ![Using the Remove Background Quick Action to remove an image's background in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finder will remove the background from your selected image and save it with a transparent background as a PNG file in the same folder.
 
  To remove backgrounds from more than one image in one go, first select all the images while holding the Command key. Then, Control-click on your selection (or tap with two fingers on your trackpad) to access the context menu and choose Quick Actions > Remove Background.
 
 ![Using the Remove Background Quick Action to remove backgrounds of multiple images at once in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Background Gets the Job Done Most of the Time
 
@@ -147,24 +141,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/mp2wavmovavi/"><u>簡易的方法：在網路上無需付費從MP2轉WAV，享用Movavi編輯工具</u></a></li>
-<li><a href="https://fox-where.techidaily.com/bootstrapping-executable-guide-on-using-an-exe-file-with-cli-commands/"><u>Bootstrapping Executable: Guide on Using an EXE File with CLI Commands</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-detailed-ice-cream-snapshot-analysis-report/"><u>In 2024, Detailed Ice Cream Snapshot Analysis Report</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-facebook-lives-demystified-the-best-ways-to-record-a-stream/"><u>In 2024, Facebook Lives Demystified The Best Ways to Record a Stream</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-meizu-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Meizu Lock Screen Password?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-transfer-how-to-move-your-google-images-seamlessly-into-the-cloud-on-icloud/"><u>Simple Transfer: How to Move Your Google Images Seamlessly Into the Cloud on iCloud</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-ios-push-alerts-and-hiding-lockscreen-notifications/"><u>Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-saving-and-transferring-your-conversations-with-chatgpt/"><u>Step-by-Step Guide: Saving and Transferring Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://os-tips.techidaily.com/struggling-to-locate-your-essential-mobile-app-on-demand/"><u>Struggling to Locate Your Essential Mobile App on Demand?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/submerge-your-device-safely-secure-your-phone-from-splashes-and-spills-with-esrs-cutting-edge-aquatic-pouch-for-iphones/"><u>Submerge Your Device Safely: Secure Your Phone From Splashes and Spills with ESR's Cutting-Edge Aquatic Pouch for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-truth-behind-unremarkable-smartphone-aesthetics-quality-over-style/"><u>The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-switch-why-i-made-the-transition-to-a-cellular-enabled-ipad/"><u>The Ultimate Switch: Why I Made The Transition To A Cellular-Enabled iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-solutions-to-extend-your-apple-watchs-battery-life/"><u>Top 10 Solutions to Extend Your Apple Watch's Battery Life</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-choice-after-testing-endless-ipad-mini-keyboard-case-options-a-comprehensive-review/"><u>Top Choice After Testing Endless iPad Mini Keyboard Case Options: A Comprehensive Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-iphone-15-leather-protectors-ultimate-selection/"><u>Top-Rated iPhone 15 Leather Protectors: Ultimate Selection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-your-streaming-enabling-av1-technology-in-youtube-for-2024/"><u>Transform Your Streaming Enabling AV1 Technology in YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-wintoys-a-short-guide-to-a-powerful-windows-tool/"><u>What Is Wintoys? A Short Guide to a Powerful Windows Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-diving-deep-reviewing-your-old-tweets/"><u>[New] 2024 Approved Diving Deep Reviewing Your Old Tweets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-essential-11-guides-to-expert-color-grading-and-correction/"><u>[New] 2024 Approved Essential 11 Guides to Expert Color Grading and Correction</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-skills-a-tailored-approach-to-graphic-careers/"><u>[New] 2024 Approved Harnessing Skills A Tailored Approach to Graphic Careers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-designing-direct-access-to-your-channels-subscribe-page/"><u>[Updated] 2024 Approved Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitters-peak-moments-highest-viewed-videos/"><u>[Updated] In 2024, Twitter's Peak Moments Highest-Viewed Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-users-essential-toolkit-seamlessly-syncing-your-apps-with-proven-backup-and-restore-techniques/"><u>Android Users' Essential Toolkit: Seamlessly Syncing Your Apps with Proven Backup and Restore Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/back-up-your-memories-for-free-set-up-automatic-google-photo-sync/"><u>Back Up Your Memories for Free: Set Up Automatic Google Photo Sync</u></a></li>
+<li><a href="https://os-tips.techidaily.com/backing-up-android-device-information-on-your-computer-with-helium-no-rooting-required/"><u>Backing Up Android Device Information on Your Computer with Helium: No Rooting Required</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-safeguarding-your-conversations-securely-backing-up-whatsapp-chats-on-samsung-devices/"><u>Complete Guide: Safeguarding Your Conversations - Securely Backing up WhatsApp Chats on Samsung Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-securely-syncing-your-mobile-data-on-iphone-and-android/"><u>Complete Guide: Securely Syncing Your Mobile Data on iPhone & Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-securely-backing-up-your-data-on-samsung-galaxy-s4-s5-s6-and-s7/"><u>Comprehensive Guide: Securely Backing Up Your Data on Samsung Galaxy S4, S5, S6, and S7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-set-up-your-linksys-wusb63e-wi-fi-usb-adapter-drivers-a-comprehensive-guide/"><u>How to Get & Set Up Your Linksys WUSB63e Wi-Fi USB Adapter Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-broken-or-missing-functionality-of-a-laptop-with-a-diy-key-reattachment-trick/"><u>How to Restore Broken or Missing Functionality of a Laptop with a DIY Key Reattachment Trick</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620202232-keep-your-pics-safe-without-costing-a-penny-effortless-auto-upload-on-google-photos/"><u>Keep Your Pics Safe Without Costing a Penny - Effortless Auto-Upload on Google Photos!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-virtualdub-review-does-it-still-hold-up-plus-top-alternatives-to-consider/"><u>New 2024 Approved Virtualdub Review Does It Still Hold Up? Plus, Top Alternatives to Consider</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-sticky-keys-problem-with-an-easy-keyboard-reset-technique/"><u>Solve Your Sticky Keys Problem with an Easy Keyboard Reset Technique</u></a></li>
 </ul></div>
 

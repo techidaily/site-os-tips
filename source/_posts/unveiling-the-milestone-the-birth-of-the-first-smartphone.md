@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-09-27T10:24:19.324Z
-updated: 2024-10-01T07:56:08.578Z
+date: 2024-09-29T17:30:41.370Z
+updated: 2024-10-06T16:55:42.540Z
 tags:
   - ios
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -61,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -96,16 +102,24 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-experts-choice-best-free-video-tools-listing/"><u>[Updated] In 2024, Expert's Choice Best Free Video Tools Listing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-evaluation-gecata-pro-monitoring/"><u>2024 Approved Comprehensive Evaluation Gecata Pro Monitoring</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/fluent-in-content-sharing-tiktok-twitter-transition-for-2024/"><u>Fluent in Content Sharing TikTok-Twitter Transition for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-razr-40-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Razr 40 Ultra Quickly? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-10-recommended-free-online-photo-editor/"><u>In 2024, 10 Recommended Free Online Photo Editor</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-unlocking-your-youtube-potential-through-brand-partnerships/"><u>In 2024, Unlocking Your YouTube Potential Through Brand Partnerships</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-hidden-implications-of-apples-recent-stance-on-video-game-emulation/"><u>The Hidden Implications of Apple's Recent Stance on Video Game Emulation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-smart-move-reasons-to-wait-before-upgrading-your-apple-watch/"><u>The Smart Move: Reasons to Wait Before Upgrading Your Apple Watch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-apple-carplay-issues-expert-solutions-and-tips/"><u>Troubleshooting Apple CarPlay Issues: Expert Solutions and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-must-have-ipad-enhancements-for-the-year-2023/"><u>Ultimate Selection: Must-Have iPad Enhancements for the Year 2023</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/blueprint-to-youtube-success-top-tips-for-outstanding-shorts-for-2024/"><u>Your Blueprint to Youtube Success Top Tips for Outstanding Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[New] In 2024, Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-screen-protectors-that-enhance-vr-filming-for-2024/"><u>[New] Screen Protectors That Enhance VR Filming for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/churn-out-custom-internet-echo-jokes-for-2024/"><u>Churn Out Custom Internet Echo Jokes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-collection-best-free-footage-websites-ranked/"><u>Curated Collection Best Free Footage Websites Ranked</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/elevate-your-online-presence-with-manycam-the-ultimate-solution-for-virtual-cam-and-video-editing-tools/"><u>Elevate Your Online Presence with ManyCam - The Ultimate Solution for Virtual Cam and Video Editing Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-responsive-touch-screens-in-apples-ipad-ios-1110912-models/"><u>Fixing Non-Responsive Touch Screens in Apple's iPad (iOS 11/10/9/12) Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/geautomatiseerd-online-wegrensconverteren-uit-webm-naar-wav-gratis-van-movavi/"><u>Geautomatiseerd Online Wegrensconverteren: Uit Webm Naar Wav - Gratis Van Movavi!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-top-3-methods-for-enforcing-parental-control-on-your-childs-snapchat-app-on-ios-devices/"><u>Guide: Top 3 Methods for Enforcing Parental Control on Your Child's Snapchat App on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-uncover-your-icloud-password-with-just-your-devices-imei-number-expert-secrets-revealed/"><u>How To Uncover Your iCloud Password With Just Your Device's IMEI Number - Expert Secrets Revealed!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinpointing-the-premier-hdr-cameras-for-photography/"><u>In 2024, Pinpointing the Premier HDR Cameras for Photography</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-mysteries-accessing-secretive-youtube-content/"><u>In 2024, Unveiling the Mysteries Accessing Secretive YouTube Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/laughterlink-join-now-and-start-your-journey/"><u>LaughterLink Join Now & Start Your Journey</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolve-iphone-recovery-mode-issues-quickly-with-these-3-secure-methods/"><u>Resolve iPhone Recovery Mode Issues Quickly with These 3 Secure Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ringtones-gone-rogue-discover-10plus-methods-for-reviving-the-sound-on-iphone-ipad-and-android-devices/"><u>Ringtones Gone Rogue? Discover 10+ Methods for Reviving the Sound on iPhone, iPad & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/siri-stuck-top-10-fixes-to-reactivate-siri-on-your-iphone-comprehensive-tutorial/"><u>Siri Stuck? Top 10 Fixes to Reactivate Siri on Your iPhone – Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/struggling-with-your-iphones-screen-top-solutions-inside/"><u>Struggling With Your iPhone's Screen? Top Solutions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-complete-gods-and-goddesses-of-ancient-egypt/"><u>The Complete Gods and Goddesses of Ancient Egypt</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-and-solving-iphone-heat-up-a-comprehensive-guide/"><u>Understanding and Solving iPhone Heat-Up: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mechanics-how-are-chatbots-programmed-to-engage-in-dialogue-with-humans/"><u>Unveiling the Mechanics: How Are Chatbots Programmed to Engage in Dialogue with Humans?</u></a></li>
 </ul></div>
 

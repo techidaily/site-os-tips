@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2024-09-30T03:55:00.180Z
-updated: 2024-10-01T09:44:38.928Z
+date: 2024-10-01T19:52:38.560Z
+updated: 2024-10-06T17:22:07.907Z
 tags:
   - ios
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 * [The Deeper Fix: Disable Notifications on Lock Screen](https://vp-tips.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 * If you don't want to use "Do Not Disturb," disable lock screen notifications individually for each app in your device's notification settings. Open Settings, tap "Notifications," select the app, and uncheck the "Lock Screen" option.
 
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
 
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Deeper Fix: Disable Notifications on Lock Screen
 
  If you don't want to use Do Not Disturb mode to keep your iPhone or iPad from lighting up when you receive notifications (if you still want all incoming phone calls to come through, for example), you'll have to [dig into your device's notification settings](https://eaxpv-info.techidaily.com/new-2024-approved-how-to-clear-black-boards-in-your-youtube-videos/).
@@ -57,31 +57,31 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Settings, tap "Notifications."
 
 ![Tap "Notifications" in the listed options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-notifications.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Notifications, scroll through the list and tap the name of the app that you want to prevent from waking your screen. In this case, we're using Messages as an example, but you could do it for Facebook Messenger, Signal, Twitter, FaceTime, or any other app.
 
 ![We selected the Messages app in the Notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-messages.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the app's notification settings, tap "Lock Screen" to uncheck it.
 
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
 
@@ -102,20 +102,18 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-guide-to-creating-compact-engaging-youtube-content/"><u>[New] In 2024, Expert Guide to Creating Compact, Engaging YouTube Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-secrets-to-excellent-screen-recordings-on-lenovo/"><u>[New] In 2024, Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-perfect-your-tiktok-with-these-stitching-techniques/"><u>[Updated] 2024 Approved Perfect Your TikTok With These Stitching Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-advanced-photo-editing-canvas-backdrop-eradication/"><u>[Updated] Advanced Photo Editing Canvas Backdrop Eradication</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-epic-sound-stories-and-dialogues/"><u>[Updated] Epic Sound Stories and Dialogues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-five-essential-benefits-of-restoring-deleted-information-from-iphones-via-desktop-or-laptop-systems/"><u>Discover the Five Essential Benefits of Restoring Deleted Information From iPhones via Desktop or Laptop Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-accidentally-erased-files-on-ios-devices-through-specialized-recovery-applications/"><u>Expert Tips for Retrieving Accidentally Erased Files on iOS Devices Through Specialized Recovery Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-screen-replacement-services-affordable-options-and-estimated-costs-explained/"><u>IPhone Screen Replacement Services: Affordable Options & Estimated Costs Explained</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards-for-2024/"><u>Reversing the Flow A Guide to Tracing Instagram Pics Backwards for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/serene-visual-narratives-for-bedtime/"><u>Serene Visual Narratives for Bedtime</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-play-7t-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor Play 7T</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-recovering-deleted-files-from-iphone-external-storage/"><u>Step-by-Step Tutorial on Recovering Deleted Files From iPhone External Storage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-technique-for-retrieving-deleted-content-on-iphones-discover-here/"><u>The Ultimate Technique for Retrieving Deleted Content on iPhones - Discover Here!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-effective-solutions-to-resolve-your-iphones-picture-sending-issues/"><u>Top 3 Effective Solutions to Resolve Your iPhone's Picture-Sending Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-concealed-apps-on-your-iphone-expert-techniques-revealed/"><u>Unveiling Concealed Apps on Your iPhone: Expert Techniques Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-tactics-for-gameplay-screen-captures/"><u>[New] 2024 Approved Top Tactics for Gameplay Screen Captures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-anglers-companion-best-action-cams-for-fishing/"><u>[New] The Angler’s Companion Best Action Cams for Fishing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leveraging-multimedia-tools-for-enhanced-screencasts/"><u>[Updated] 2024 Approved Leveraging Multimedia Tools for Enhanced Screencasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-user-experience-combining-instagram-and-facebook-for-2024/"><u>[Updated] Enhancing User Experience Combining Instagram & Facebook for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-narzo-60x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme Narzo 60x 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-for-relocating-video-content-from-iphone-to-a-windows-computer-with-the-dearmob-solution/"><u>Complete Guide for Relocating Video Content From iPhone to a Windows Computer with the DearMob Solution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-syncing-and-controlling-your-ios-data-on-a-pc-with-microsoft-windows-tips-from-the-deardroid-handbook/"><u>Comprehensive Guide: Syncing & Controlling Your iOs Data on a PC with Microsoft Windows - Tips From the Deardroid Handbook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dearmobs-step-by-step-instructions-for-syncing-iphone-and-mac-apps-effortlessly/"><u>DearMob's Step-by-Step Instructions for Syncing iPhone and Mac Apps Effortlessly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-transformation-of-g64-and-g64x-videos-into-mp4-comprehensive-tutorial/"><u>Effortless Transformation of G64 and G64X Videos Into MP4 - Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-for-dearmob-users-on-downloading-iphones-clouded-memories-photos-and-videos-onto-a-pcmac-system/"><u>Guide for DearMob Users on Downloading iPhone's Clouded Memories (Photos & Videos) Onto a PC/Mac System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-sync-songs-from-your-iphone-to-a-windows-laptop-step-by-step-dearmob-tutorial/"><u>How to Sync Songs From Your iPhone to a Windows Laptop - Step-by-Step DearMob Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-affordable-facetime-replacements-for-android/"><u>In 2024, Affordable FaceTime Replacements for Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamlessly-transfer-your-iphone-ebooks-to-a-windows-laptop-using-dearmobs-easy-guidelines/"><u>Seamlessly Transfer Your iPhone eBooks to a Windows Laptop Using DearMob's Easy Guidelines</u></a></li>
 </ul></div>
 

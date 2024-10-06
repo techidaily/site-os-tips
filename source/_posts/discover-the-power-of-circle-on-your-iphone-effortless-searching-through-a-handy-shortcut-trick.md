@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!"
-date: 2024-09-29T11:26:16.581Z
-updated: 2024-09-30T21:18:56.772Z
+date: 2024-09-29T19:12:11.763Z
+updated: 2024-10-06T18:16:54.399Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is Circle to Search?
 
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
@@ -30,13 +37,6 @@ Justin Duino / How-To Geek
  Highlight text with a tap or draw a circle around an image or video, and the search engine brings up all the related results. Although I use an iPhone as my daily driver, I've tried Circle to Search on the Galaxy S23 Ultra, and it's pretty nifty. Unfortunately, the feature is only available on select Android phones, including the [recent Samsung Galaxy S series and Pixel smartphones](https://some-knowledge.techidaily.com/updated-focusing-your-view-a-guide-to-zooming-on-microsoft-teams/).
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Get Circle to Search Functionality on Your iPhone
 
@@ -57,32 +57,26 @@ Justin Duino / How-To Geek
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
@@ -91,10 +85,10 @@ Justin Duino / How-To Geek
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
@@ -106,10 +100,10 @@ Justin Duino / How-To Geek
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
@@ -141,18 +135,16 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-sharing-twitter-video-feeds-via-facebook-platform/"><u>[New] In 2024, Sharing Twitter Video Feeds via Facebook Platform</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-can-a-brief-subscribe-boost-your-content-viewing/"><u>[Updated] In 2024, Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings/"><u>2024 Approved Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bluetooth-compatibility-pairing-a-laptop-with-wireless-audio-speakers/"><u>Bluetooth Compatibility: Pairing a Laptop with Wireless Audio Speakers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-phantom-v-flip-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Phantom V Flip to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-cutting-edge-strategies-for-iptv-capture-success/"><u>In 2024, Cutting-Edge Strategies for IPTV Capture Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-beginners-path-to-professional-windows-10-video-production/"><u>In 2024, The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for Excel</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rugged-elegance-peak-design-collaborates-with-the-nomad-collective-on-an-exclusive-iphone-15-pro-protector/"><u>Rugged Elegance: Peak Design Collaborates with the Nomad Collective on an Exclusive iPhone 15 Pro Protector</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-guide-on-reinitializing-your-iphone-device/"><u>Simple Guide on Reinitializing Your iPhone Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-to-move-your-iphone-pictures-onto-your-computer/"><u>Simple Steps to Move Your iPhone Pictures Onto Your Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-popular-apple-watch-glitches-a-guide-to-quick-and-effective-solutions/"><u>Solving Popular Apple Watch Glitches: A Guide to Quick & Effective Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-marketing-brilliance-top-10-innovative-approaches-for-video-ads-for-2024/"><u>[New] Insta-Marketing Brilliance Top 10 Innovative Approaches for Video Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>[Updated] Unveiling the Shadows A Systematic Guide to Hidden YouTube Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-master-methods-chronicling-your-ps3-gameplay/"><u>2024 Approved Master Methods Chronicling Your PS3 Gameplay</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activating-your-revo-toolbox-with-ease-a-users-manual/"><u>Activating Your Revo Toolbox with Ease – A User's Manual</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-web-speeds-by-deleting-cache-and-cookies-history/"><u>Boost Your iPhone's Web Speeds by Deleting Cache and Cookies History</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-instructions-for-thoroughly-formatting-your-ipod-prior-to-resale/"><u>Comprehensive Instructions for Thoroughly Formatting Your iPod Prior to Resale</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-the-ultimate-method-to-remove-browsing-data-like-search-history-and-cookies-on-your-ipad/"><u>Comprehensive Tutorial: The Ultimate Method to Remove Browsing Data Like Search History and Cookies on Your iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/"><u>How to Reset Waze Location Memory on iOS Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Pro Max without passcode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-fixes-for-windows-11-photo-app-freezes/"><u>In 2024, Quick Fixes for Windows 11 Photo App Freezes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-email-ringtones-the-ultimate-walkthrough-for-assigning-new-sounds-to-gmail-messages/"><u>Tailoring Email Ringtones: The Ultimate Walkthrough for Assigning New Sounds to Gmail Messages</u></a></li>
 </ul></div>
 

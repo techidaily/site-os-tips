@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Undiscovered Markdown & Notetaking Tool: A Hidden Gem!"
-date: 2024-09-05T07:46:15.963Z
-updated: 2024-09-06T07:46:15.963Z
+date: 2024-09-29T16:49:29.775Z
+updated: 2024-10-06T16:56:02.117Z
 tags:
   - ios
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c767371cdaf8ce5e5162404d28c7d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Ultimate Undiscovered Markdown & Notetaking Tool: A Hidden Gem!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Obsidian?](https://facebook-video-files.techidaily.com/updated-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/)
@@ -34,11 +22,12 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 * [You Can Extend Obsidian With Plug-ins](https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Obsidian saves notes as plain text files, giving you full control over your data and allowing easy backups.
@@ -58,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 ##  Notes Are Saved As Accessible Plain Text Files
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -81,15 +77,16 @@ Bertel King / How-To Geek
 
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tabs Simplify Working With Multiple Documents
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -99,15 +96,22 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -116,11 +120,12 @@ Bertel King / How-To Geek
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
@@ -133,18 +138,6 @@ Bertel King / How-To Geek
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can Extend Obsidian With Plug-ins
 
  As web browsers have taught us, add-ons enable a program defined for one task to do almost anything else. Obsidian comes with a decent number of plug-ins, and there is an abundance of third-party options from community members as well.
@@ -163,8 +156,6 @@ Bertel King / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +163,26 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>[Updated] 2024 Approved Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop/"><u>[Updated] Perfect Your Profile Easy Guide for Instagram Videos From Desktop</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-quick-guide-instant-access-to-iphones-camera-app/"><u>1. Quick Guide: Instant Access to iPhone's Camera App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/12-hidden-siri-tricks-for-a-supercharged-iphone-experience/"><u>12 Hidden Siri Tricks for a Supercharged iPhone Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/activate-a-mobile-account-today-for-apple-card-iphone-finance-options/"><u>Activate a Mobile Account Today for Apple Card iPhone Finance Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-arcade-a-second-look-top-5-benefits-that-make-it-a-great-choice/"><u>Apple Arcade: A Second Look - Top 5 Benefits That Make It a Great Choice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-deleting-a-twitch-account/"><u>Comprehensive Instructions for Deleting a Twitch Account</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-social-sync-with-these-3-smart-tagging-approaches-in-fb/"><u>Enhance Social Sync with These 3 Smart Tagging Approaches in FB</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-lens-peering-into-microsofts-bda/"><u>GPU Lens: Peering Into Microsoft's BDA</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-12-proplus-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme 12 Pro+ 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/iphone-cinematography-guide-8-insider-secrets-to-professional-video-creation/"><u>IPhone Cinematography Guide 8 Insider Secrets to Professional Video Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-class-on-repairing-logitech-f710-drivers-for-windows-xp-vista-7-8-and-beyond/"><u>Master Class on Repairing Logitech F710 Drivers for Windows XP, Vista, 7, 8, and Beyond</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surviving-the-chaos-fixing-issues-in-the-ios-18-photos-app-a-guide-for-apple/"><u>Surviving the Chaos: Fixing Issues in the iOS 18 Photos App - A Guide for Apple</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-words-that-shaped-a-warrior-culture/"><u>The Words That Shaped a Warrior Culture</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-apple-airpods-pro-peripherals-the-ultimate-guide/"><u>Top-Rated Apple AirPods Pro Peripherals: The Ultimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-full-screen-crashes-in-sonic-frontiers-pc-edition/"><u>Troubleshooting Full-Screen Crashes in Sonic Frontiers PC Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-setting-up-emergency-calls-on-your-iphone/"><u>Ultimate Guide to Setting Up Emergency Calls on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-dual-layer-oled-display-on-apples-latest-ipad-pro-a-comprehensive-guide/"><u>Understanding the Dual-Layer OLED Display on Apple's Latest iPad Pro: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-top-5-must-try-ios-18-accessibility-enhancements-for-an-effortless-user-experience/"><u>Unlock Top 5 Must-Try iOS 18 Accessibility Enhancements for an Effortless User Experience</u></a></li>
+</ul></div>
 

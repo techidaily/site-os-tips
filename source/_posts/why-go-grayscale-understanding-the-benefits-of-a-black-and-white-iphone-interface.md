@@ -1,7 +1,7 @@
 ---
 title: Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface
-date: 2024-09-22T00:13:08.551Z
-updated: 2024-09-25T21:23:52.593Z
+date: 2024-10-03T18:16:04.430Z
+updated: 2024-10-06T16:15:07.027Z
 tags:
   - ios
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * [How to Turn Your iPhone Screen Grayscale](https://youtube-blog.techidaily.com/024-approved-speedy-fortnite-cover-art-creation/)
 * [How to Automatically Enable and Disable Grayscale at Sunset and Sunrise](https://instagram-video-files.techidaily.com/instagram-visual-mastery-crop-and-edit-videos-like-pros/)
 * [Or Use a Black and White iPhone Wallpaper](https://games-able.techidaily.com/managing-failed-transactions-on-steam/)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,13 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Switching your display to black and white can help [prevent eye strain](https://fox-http.techidaily.com/8-premier-online-photo-frame-creators-revealed/). It reduces the amount of contrast and visual stimuli your eyes experience, which can help you avoid eye fatigue and headaches, especially if you're the kind of person who's constantly in front of a screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Turn Your iPhone Screen Grayscale
 
  You can turn your iPhone screen grayscale in a few easy steps. First, head to the "Settings" app and tap on “Accessibility.”
@@ -60,13 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![iPhone Accessibility settings with 'Display & Text Size' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down until you find the "Color Filters" setting and tap on it.
 
 ![iPhone 'Display and Text' settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-3.png) 
@@ -75,23 +54,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Toggling the 'Color Filters' setting on in the iPhone Accessibility settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And select “Grayscale” from the options.
 
 ![Setting 'Grayscale' mode in the color filters section of the iPhone Accessibility menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your phone should now display in black-and-white mode.
 
@@ -107,9 +72,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The "Automation' tab in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img_6017.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it's your first time creating an automation tap on "Create Personal Automation" to create a new automation.
 
 ![Creating a new automation in 'Shortcuts' for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you've created an automation in the past, tap on the "+" button in the top right corner to create a new automation.
 
@@ -128,10 +107,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![The 'New Automation' creation page with a focus on the time the automation will run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've made your choice, hit "Done" in the top right corner.
@@ -139,10 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![The 'New Automation' creation page in the Shortcuts app with a focus on the time the automation will run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-5-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now it's time to attach an action to your automation. Tap the "Add Action" button to choose what your automation will do.
@@ -153,16 +132,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The search bar in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the next page, you should find an automation to "Turn Color Filters On." Ensure that this is correct and tap "Next."
 
 ![The 'Actions' page when creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By default, your iPhone asks you for permission before running any automation. To turn this option off and seamlessly turn your phone grayscale at sunset, toggle the "Ask Before Running" option off.
 
@@ -172,13 +151,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![A dialog box in the Shortcuts app asking for confirmation to turn off 'ask before running.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hit "Done."
 
 ![Creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, you're halfway done. You've successfully created an automation to turn on grayscale mode at sunset, and it should look something like this.
 
 ![Existing iPhone automations that have already been created in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-12.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you need to create another automation to turn grayscale mode off at sunrise. To do that, repeat the steps you took to create the first automation, but this time, under "Time of Day," select "Sunrise" instead.
 
@@ -219,22 +219,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits/"><u>[New] In 2024, From Basics to Brilliance The Ultimate Guide to HDR Portraits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-screen-recorder-for-windows-10-download/"><u>[New] In 2024, Simple Screen Recorder for Windows 10 Download</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-hero5-black-or-yi-comparing-top-actions-cameras-for-2024/"><u>[Updated] Hero5 Black or YI Comparing Top Actions Cameras for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ps4-gameplay-to-video-an-in-depth-obs-recording-guide/"><u>[Updated] PS4 Gameplay to Video - An In-Depth OBS Recording Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-expert-tips-for-crafting-an-individualized-xbox-game-bar-in-windows/"><u>Elevate Your Gameplay: Expert Tips for Crafting an Individualized Xbox Game Bar in Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/leading-third-place-ipad-recording-software-guide/"><u>Leading Third-Place iPad Recording Software Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recognizing-when-its-time-5-clear-indicators-for-an-immediate-smartphone-upgrade/"><u>Recognizing When It's Time: 5 Clear Indicators for an Immediate Smartphone Upgrade</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simplify-your-digital-life-effortless-notification-management-tips-for-iphone-and-ipad/"><u>Simplify Your Digital Life: Effortless Notification Management Tips for iPhone & iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/splitting-the-screen-on-an-iphone-a-complete-guide/"><u>Splitting the Screen on an iPhone: A Complete Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/star-studded-dreams-the-quest-for-my-ideal-galaxy-ringer-from-samsung/"><u>Star-Studded Dreams: The Quest for My Ideal Galaxy Ringer From Samsung</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-customizing-your-iphone-lock-screen-with-widgets/"><u>Step-by-Step Guide: Customizing Your iPhone Lock Screen with Widgets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-your-printer-on-macos/"><u>Step-by-Step Guide: Setting Up Your Printer on macOS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-s24plus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy S24+ FRP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/switching-to-monochrome-a-comprehensive-guide-on-making-your-iphone-display-grey-scale/"><u>Switching to Monochrome: A Comprehensive Guide on Making Your iPhone Display Grey-Scale</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-eye-opening-reasons-iphones-can-be-mortifying-strategies-for-a-painless-digital-life/"><u>Top 10 Eye-Opening Reasons iPhones Can Be Mortifying: Strategies for a Painless Digital Life</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-sideways-to-straight-quick-video-flipping-solutions/"><u>Updated 2024 Approved From Sideways to Straight Quick Video Flipping Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-youtube-views-secrets-for-a-million-followers/"><u>[New] 2024 Approved Mastering Youtube Views Secrets for a Million Followers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-resources-for-crafting-eye-catching-youtube-ends-for-2024/"><u>[New] Essential Resources for Crafting Eye-Catching YouTube Ends for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-collage-crafting-made-simple/"><u>[Updated] IPhone Collage Crafting Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-top-free-screen-recorders-ranked-list/"><u>2024 Approved Explore the Top Free Screen Recorders Ranked List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-data-transfer-rates-of-the-latest-iphone-15-usb-c-interface/"><u>Exploring the Data Transfer Rates of the Latest iPhone 15 USB-C Interface</u></a></li>
+<li><a href="https://os-tips.techidaily.com/galileo-by-gamesir-a-powerhouse-in-the-realm-of-console-gaming/"><u>Galileo by GameSir: A Powerhouse in the Realm of Console Gaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improve-ipad-performance-apple-quality-over-size/"><u>Improve iPad Performance: Apple - Quality Over Size!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-poco-x5-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Poco X5 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-search-of-a-sleek-tablet-why-the-ipad-mini-deserves-serious-consideration/"><u>In Search of a Sleek Tablet? Why the iPad Mini Deserves Serious Consideration</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-flv-video-editors-for-beginners-and-pros-alike-for-2024/"><u>New Best Free FLV Video Editors for Beginners and Pros Alike for 2024</u></a></li>
 </ul></div>
 

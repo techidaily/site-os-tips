@@ -1,7 +1,7 @@
 ---
 title: "Silence Intrusive Numbers on Your iPhone: Tips for Blocking SMS"
-date: 2024-09-05T07:47:40.449Z
-updated: 2024-09-06T07:47:40.449Z
+date: 2024-10-05T18:44:53.380Z
+updated: 2024-10-06T16:52:45.001Z
 tags:
   - ios
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec8900c30ab49d86e203a9429b2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Silence Intrusive Numbers on Your iPhone: Tips for Blocking SMS
 
 ### Quick Links
@@ -31,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 * [Block a Contact in Instant Messaging Apps on Your iPhone](https://instagram-clips.techidaily.com/updated-in-2024-find-anything-you-want-to-know-about-instagram-video-limit/)
 * [Take Control of Your Inbox](https://ai-video-tools.techidaily.com/updated-top-cartoon-animation-creators-for-mobile-devices/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Blocking someone on an iPhone is an easy and efficient way to stop unwanted texts and calls.
@@ -45,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  Blocking someone is an effective way to avoid receiving messages from them on your iPhone. In iOS, you can block phone numbers or contacts to stop receiving text messages or calls without needing a third-party app. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Block a Contact or Number in the Messages App
 
  The easiest way to stop receiving text messages from a contact or phone number is to block them directly in the Messages app. One benefit of this approach is that it doesn't require you to save a phone number to your Contacts to block it.
@@ -60,17 +36,12 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 ![A conversation open in the Messages app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Hit the **"**Info" button on the following screen.
 
 ![Info button on the profile of a contact in the Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-2.jpg) 
@@ -79,18 +50,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
 ![Block Caller option in the iOS Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-3.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, confirm blocking the number or contact by tapping "Block Contact."
 
 ![Confirming blocking a contact using the Block Contact button in the Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-4.jpg) 
@@ -105,32 +64,21 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
 ![iPhone Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, navigate to "Blocked Contacts."
 
 ![Blocked Contacts option in Messages settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  From there, tap "Add New" and select the contact you no longer want to receive text messages from on your iPhone.
 
 ![Add New button in the Settings app to add a contact to the blocked list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Filter Messages From Unknown Senders on Your iPhone
 
  Both of the methods above can help you block texts from a phone number or contact in your contacts list. However, these aren't as helpful if you receive texts from too many unknown numbers. Sure, you could still block the messages when they arrive, but it's far from an efficient approach.
@@ -146,11 +94,19 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 ![Enabling message filtering on iPhone to filter messages from unknown senders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Block a Contact in Instant Messaging Apps on Your iPhone
 
  Spam isn't just limited to regular calls or texts these days. It's also becoming increasingly common on internet messaging apps like WhatsApp, Signal, and more. Thankfully, a lot of these apps let you block people to avoid receiving calls or texts from them.
@@ -169,14 +125,22 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
 ![Block and Report option in the WhatsApp app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/block-text-messages-on-an-iphone-14.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you do this, you won't receive any calls or text messages from that phone number on WhatsApp.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Take Control of Your Inbox
 
  Whether you want to stop receiving texts from certain people or get rid of the annoying spam messages from marketers, this guide should help you avoid unwanted conversations and take control of your inbox, so you can focus only on the conversations that matter.
@@ -189,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +160,26 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-obs-vs-wirecast-which-should-you-trust-for-live-for-2024/"><u>[New] OBS Vs. Wirecast - Which Should You Trust for Live for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-orb-shaper-essentials/"><u>[New] Orb Shaper Essentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027559484-pc17live/"><u>簡単ガイド:PCおよびスマホにて「17LIVE」ライブ配信を記録し、永久保持する方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-undiscovered-markdown-and-notetaking-tool-a-hidden-gem/"><u>Discover the Ultimate Undiscovered Markdown & Notetaking Tool: A Hidden Gem!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-local-air-purity-a-comprehensive-guide-on-monitoring-atmospheres-health/"><u>Discovering Local Air Purity: A Comprehensive Guide on Monitoring Atmosphere's Health</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-and-test-drive-the-newly-released-ios-18-beta-version/"><u>Download and Test Drive the Newly Released iOS 18 Beta Version!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-ios-print-functionality-explained/"><u>Easy Tutorial: IOS Print Functionality Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-for-monitoring-sleep-quality-with-your-apple-watch/"><u>Effective Strategies for Monitoring Sleep Quality with Your Apple Watch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-resolve-logitech-c615-driver-problems/"><u>Effortless Guide to Resolve Logitech C615 Driver Problems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-mobile-photography-why-upgrading-your-phones-camera-is-a-must/"><u>Elevate Your Mobile Photography: Why Upgrading Your Phone's Camera Is a Must</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-mental-health-through-iphone-monitoring-techniques/"><u>Enhancing Mental Health Through iPhone Monitoring Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-the-pro-lineup-the-case-for-colorful-innovations-at-apple/"><u>Enhancing the Pro Lineup: The Case for Colorful Innovations at Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-techniques-enhancing-your-iphones-video-production-quality-with-these-10-strategies/"><u>Expert Techniques: Enhancing Your iPhone's Video Production Quality with These 10 Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-xp-330-ready-professional-driver-software-download/"><u>Get Your Epson XP-330 Ready: Professional Driver Software Download</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-motion-secrets-from-a-pro-canon-time-lapse-viewer/"><u>In 2024, Masterful Motion Secrets From a Pro Canon Time-Lapse Viewer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-y100-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo Y100 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveil-the-subject-background-removal-techniques-in-photopea/"><u>In 2024, Unveil the Subject Background Removal Techniques in Photopea</u></a></li>
+<li><a href="https://windows11.techidaily.com/multi-monitor-magic-custom-wallpapers-for-each-screen/"><u>Multi-Monitor Magic: Custom Wallpapers for Each Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/resetting-keyboards-made-simple-an-ultimate-tutorial/"><u>Resetting Keyboards Made Simple: An Ultimate Tutorial</u></a></li>
+</ul></div>
 

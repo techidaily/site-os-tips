@@ -1,7 +1,7 @@
 ---
 title: "Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides"
-date: 2024-09-26T20:29:25.421Z
-updated: 2024-10-01T09:43:04.255Z
+date: 2024-10-01T18:54:39.877Z
+updated: 2024-10-06T18:17:02.842Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 * [iOS 18 Is Lurking Around the Corner](https://howto.techidaily.com/what-to-do-when-vivo-x100-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 
  iOS 17.5 and iPadOS 17.5 are here in the wake of Apple's recent iPad announcements. If you already have the updates installed, grab your iPhone and follow along as we round up the latest features, changes, and design tweaks.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Here’s Everything New in iOS 17.5
 
@@ -52,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Sony's over-ear headphones set against a colorful gradient background.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/sony-wh-1000xm5-headphones-three-quarters-view.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  The New Quartiles Word Game
 
  Quartlies is a new word game for News+ subscribers in the US and Canada, which joins Crossword and Crossword Mini in the News app on iPhone, iPad, and Mac. To get started hit the “Following” tab, select “Puzzles” in the sidebar, and choose “Quartiles” at the top.
@@ -83,13 +83,6 @@ Close
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fourth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fourth-splash-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fifth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fifth-splash-screen.png) 
 
 Close 
@@ -101,19 +94,6 @@ Close
 ![Choosing the Rankings option from the contextual menu while playing Quartiles in the News app on iPhone.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-contextual-menu-rankings-option-selected.png) 
 
 ![The Ranking screen while playing the Quartiles word game in the News app on iPhone.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-quartiles-rankings.png) 
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -171,16 +151,16 @@ Close
 
 ![Apple News app settings on iPhone in iOS 17.5 with all offline items in the Download Options section enabled.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-iphone-settings-download-options-recent-stories-saved-stories-magazine-issues-puzzles-audio-stories-enabled.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Flip on the new “Optimize Storage” toggle at the bottom to save cellular data by using smaller article images. This is automatically enabled when the app detects low storage.
 
 ![Apple News app settings on iPhone in iOS 17.5 with the Optimize Storage in the Download Options section enabled.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-iphone-settings-download-options-optimize-storage-enabled.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To read an article offline, you must save it first. With iOS 17.5, you can now delete all saved stories from iCloud at once using the new “Clear” button in Following > Saved Stories.
 
@@ -190,14 +170,14 @@ Close
 
 ![Apple News app on iPhone displaying a confirmation prompt to clear saved stories.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-saved-stories-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fighting Spam Calls on Group FaceTime
 
@@ -216,13 +196,6 @@ Close
 > **Battery Not Recognized:** This can happen if the battery is not a genuine Apple part or was installed incorrectly. View more details in PARTS AND SERVICE HISTORY in Settings.
 
 [Apple announced](https://www.apple.com/newsroom/2024/04/apple-to-expand-repair-options-with-support-for-used-genuine-parts/) that iOS 18’s parts and service history in Settings > General > About will show if the device has a new or used genuine Apple component, making it even easier to [check whether a used iPhone has been repaired](https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/) with aftermarket parts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  MDMs Can Enforce iOS Beta Versions
 
@@ -254,20 +227,27 @@ Close
 
 ![Find My on iPhone displaying a Repair State confirmation prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-remove-iphone-confimration-prompt.png) 
 
-!['Ready for Repair' banner in the iPhone's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-iphone-repair-state-banner.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+!['Ready for Repair' banner in the iPhone's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-iphone-repair-state-banner.png) 
 
 Close 
 
  Your iPhone continues to function normally when in the Repair State mode. Find My and Activation Lock continue to work, and the device can be put in Lost Mode. An iPhone in a repair state is labeled with a small stethoscope icon in the device list.
 
 ![Find My showing an iPhone with a stethoscope icon denoting Repair State is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-device-list-iphone-repair-state-stethoscope-icon-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Repair State currently only works with iPhones.
 
@@ -297,19 +277,6 @@ Close
 
 ![iOS 17.5 Privacy settings with Passkeys Access for Web Browsers highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-settings-app-privacy-and-security-passkeys-access-highlighted-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close 
 
 ###  A Redesigned Reading Goal Progress Indicator
@@ -318,13 +285,40 @@ Close
 
 ![Reading goal icon in Apple's Books app on iOS 17.4](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-books-app-reading-goal-icon.png) 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Reading goal icon in Apple's Books app on iOS 17.5](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-books-app-reading-goal-icon.png) 
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Privacy Prompts for Altitude Data
 
  iOS 17.5 seeks Motion & Fitness permission when apps like hiking trackers request altitude data. iOS 17.4 debuted this privacy prompt but didn’t consistently enforce it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3 New iPad-Only Features in iPadOS 17.5
 
@@ -361,18 +355,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-10-free-premium-quality-photo-collage-ios-apps/"><u>[New] 2024 Approved Top 10 Free, Premium Quality Photo Collage iOS Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-free-luts-showcase-10-standouts-with-direct-downloads/"><u>[New] Free LUTs Showcase 10 Standouts with Direct Downloads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-instant-subtitling-hacks-for-all-your-facebook-videos/"><u>[New] In 2024, Instant Subtitling Hacks for All Your Facebook Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-switching-from-heic-to-jpg-transfer-between-your-iphone-ipad-and-mac/"><u>Easy Steps: Switching From HEIC to JPG Transfer Between Your iPhone, iPad & Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortlessly-convert-your-vob-videos-to-compatible-ebgp-online-no-cost/"><u>Effortlessly Convert Your VOB Videos to Compatible ebGp Online - No Cost!</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-performance-with-virtual-memory-on-windows-11/"><u>Enhancing Performance with Virtual Memory on Windows 11</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/gratis-download-eines-hochauflosenden-videoplayers-volle-unterstutzung-von-full-hd-and-hd-720p-videos-auf-dem-pc/"><u>Gratis Download Eines Hochauflösenden Videoplayers – Volle Unterstützung Von Full HD & HD 720P Videos Auf Dem PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-no-cost-sms-services-sendreceive-messages-using-any-device/"><u>The Ultimate List of No-Cost SMS Services: Send/Receive Messages Using Any Device!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-ways-to-stream-your-casting-ipad-on-a-roku-device/"><u>Top 3 Ways to Stream Your Casting iPad on a Roku Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-steps-on-crafting-inexpensive-iphone-ringtone-alternatives/"><u>Ultimate Steps on Crafting Inexpensive iPhone Ringtone Alternatives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unable-to-print-from-ipad-heres-how-to-find-and-troubleshoot-printer-connections/"><u>Unable to Print From iPad? Here's How to Find and Troubleshoot Printer Connections</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-history-a-comprehensive-tutorial-for-restoring-previous-whatsapp-chats-across-smartphones/"><u>Unlocking History: A Comprehensive Tutorial for Restoring Previous WhatsApp Chats Across Smartphones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-find-n3-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Find N3 FRP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-iphone-data-restoration-tools-beyond-tenorshare/"><u>Comprehensive Analysis of iPhone Data Restoration Tools Beyond Tenorshare</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/copycat-chronicles-the-science-of-satire-for-2024/"><u>Copycat Chronicles The Science of Satire for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creating-cinematic-magic-in-small-spaces-a-guide-to-dorm-room-wireless-theatre-systems/"><u>Creating Cinematic Magic in Small Spaces: A Guide to Dorm Room Wireless Theatre Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dungeon-dynamics-6-innovative-use-cases-of-chatgpt-as-a-dm-assistant/"><u>Dungeon Dynamics: 6 Innovative Use-Cases of ChatGPT as a DM Assistant</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-comparisons-tenorshare-iphone-data-retrieval-vs-top-contenders/"><u>Expert Comparisons: Tenorshare iPhone Data Retrieval Vs. Top Contenders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-and-tricks-a-comprehensive-manual-for-erasing-your-snapchat-account-forever/"><u>Expert Tips and Tricks: A Comprehensive Manual for Erasing Your Snapchat Account Forever</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v29-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V29 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-unleashed-mastering-the-art-of-downgrading-with-tinyumbrella/"><u>IOS Unleashed: Mastering the Art of Downgrading with TinyUmbrella</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers/"><u>New In 2024, Movie Mastery Unlocked Easy Tips and Tricks for Filmmakers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perplexing-perspective-shifts-in-instagram-video-feeds/"><u>Perplexing Perspective Shifts in Instagram Video Feeds</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-lost-images-from-your-ipod-touch-a-step-by-step-guide/"><u>Recovering Lost Images From Your iPod Touch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-texts-on-your-apple-device-a-step-by-step-guide-for-macos-users/"><u>Retrieve Accidentally Deleted Texts on Your Apple Device: A Step-by-Step Guide for macOS Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-memories-effective-techniques-for-recovering-images-from-icloud/"><u>Revive Your Memories: Effective Techniques for Recovering Images From iCloud</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-intersection-of-design-and-efficiency-in-professional-environments-for-2024/"><u>The Intersection of Design & Efficiency in Professional Environments for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-s23-ultra-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy S23 Ultra Device</u></a></li>
 </ul></div>
 

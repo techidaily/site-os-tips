@@ -1,7 +1,7 @@
 ---
 title: "Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!"
-date: 2024-09-28T04:14:11.252Z
-updated: 2024-09-30T22:03:23.075Z
+date: 2024-10-02T19:53:27.175Z
+updated: 2024-10-06T18:29:30.909Z
 tags:
   - ios
 categories:
@@ -19,22 +19,15 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is Circle to Search?
 
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -51,22 +44,16 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tap on "Add Action."
 
@@ -90,15 +77,22 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
@@ -106,10 +100,10 @@ Justin Duino / How-To Geek
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
@@ -141,24 +135,21 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exploring-screen-recording-with-the-latest-spring-update/"><u>[Updated] 2024 Approved Exploring Screen Recording with the Latest Spring Update</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-navigating-the-future-vrs-role-in-business-strategy-for-2024/"><u>[Updated] Navigating the Future VR's Role in Business Strategy for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-skyline-artistry-review-studio-25-in-focus-2023/"><u>2024 Approved Skyline Artistry Review Studio 25 in Focus, 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/boosting-zoom-screen-sharpness-essential-tips/"><u>Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/camrecorder-essential-techniques-for-gaming-pros/"><u>CamRecorder Essential Techniques for Gaming Pros</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-the-hp-zbook-firefly-15-g8-the-definitive-portable-powerhouse/"><u>Expert Insights on the HP ZBook Firefly 15 G8: The Definitive Portable Powerhouse</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-13-pro-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 13 Pro to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/make-moves-on-mobile-snag-top-deals-for-iphone-games-with-todays-prime-day-offerings/"><u>Make Moves on Mobile - Snag Top Deals for iPhone Games with Today's Prime Day Offerings!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-efficiency-transforming-your-day-with-the-power-of-strategic-time-management/"><u>Mastering Efficiency: Transforming Your Day with the Power of Strategic Time Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-facetime-on-your-android-device-a-step-by-step-guide/"><u>Mastering FaceTime on Your Android Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-battery-life-with-iphones-low-power-mode/"><u>Maximizing Battery Life with iPhone's Low Power Mode</u></a></li>
-<li><a href="https://os-tips.techidaily.com/newly-discovered-details-on-the-next-gen-iphones-iphone-16-16-pro-and-max-insider-information-revealed/"><u>Newly Discovered Details on the Next-Gen iPhones (iPhone 16, 16 Pro & Max) - Insider Information Revealed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-for-background-elimination-in-photos-using-your-iphone-and-macbook/"><u>Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/save-big-with-100-off-on-apples-compact-ipad-mini-ideal-for-on-the-go-adventures/"><u>Save Big with $100 Off on Apple's Compact iPad Mini – Ideal for On-the-Go Adventures</u></a></li>
-<li><a href="https://os-tips.techidaily.com/shop-the-latest-ipad-air-and-ipad-pro-models-top-features-revealed/"><u>Shop the Latest iPad Air & iPad Pro Models: Top Features Revealed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solution-found-updated-external-sonos-software-corrects-audio-malfunctions/"><u>Solution Found: Updated External Sonos Software Corrects Audio Malfunctions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-your-mobile-network-provider-what-is-a-phone-carrier/"><u>Understanding Your Mobile Network Provider: What Is a Phone Carrier?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlock-creative-potential-with-digiartys-special-offers-on-software-tools/"><u>Unlock Creative Potential with Digiarty's Special Offers on Software Tools!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-breaking-down-augmented-realitys-mysteries/"><u>[Updated] Breaking Down Augmented Reality's Mysteries</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elevating-your-subtitling-game-with-advanced-srt-techniques/"><u>[Updated] Elevating Your Subtitling Game with Advanced SRT Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-visual-tweets-the-panorama-of-threaded-video-for-2024/"><u>[Updated] Visual Tweets The Panorama of Threaded Video for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>2024 Approved Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-explorations/"><u>Discover the Latest in Tech with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-edge-40-neo-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Edge 40 Neo Location Settings | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-erasing-damaged-audiovideo-files-overcoming-unremovable-corruptions/"><u>Effective Techniques for Erasing Damaged Audio/Video Files: Overcoming Unremovable Corruptions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-ways-to-monitor-and-organize-your-ipads-memory-tips-for-handling-apps-files-and-more/"><u>Effective Ways to Monitor and Organize Your iPad's Memory: Tips for Handling Apps, Files, and More</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences/"><u>In 2024, Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-illumination-strategies-for-filming/"><u>In 2024, Essential Illumination Strategies for Filming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-ipads-space-management-a-guide-to-assessing-storage-for-optimal-app-performance/"><u>Mastering Your iPad's Space Management: A Guide to Assessing Storage for Optimal App Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reclaiming-storage-on-your-iphone-essential-strategies-following-the-latest-ios-17-refresh/"><u>Reclaiming Storage on Your iPhone: Essential Strategies Following the Latest iOS 17 Refresh</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-privacy-the-ultimate-3-step-guide-to-total-iphone-data-deletion/"><u>Secure Your Privacy: The Ultimate 3-Step Guide to Total iPhone Data Deletion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securely-removing-temp-files-and-flushing-cache-on-ios-devices/"><u>Step-by-Step Guide: Securely Removing Temp Files & Flushing Cache on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-methods-for-deleting-unnecessary-ios-files-and-expanding-your-iphone-storage/"><u>Top 3 Methods for Deleting Unnecessary iOS Files and Expanding Your iPhone Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choosing-windows-11-is-a-wise-decision-over-macos/"><u>Why Choosing Windows 11 Is a Wise Decision over MacOS</u></a></li>
 </ul></div>
 

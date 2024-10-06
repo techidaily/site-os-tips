@@ -1,7 +1,7 @@
 ---
 title: How Does the iPhone Handle Urgent Alerts and Reminders?
-date: 2024-09-05T07:45:23.529Z
-updated: 2024-09-06T07:45:23.529Z
+date: 2024-10-01T17:46:02.928Z
+updated: 2024-10-06T18:43:22.216Z
 tags:
   - ios
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Allow "Time Sensitive" Notifications in Focus](https://tech-recovery.techidaily.com/hilarious-idevice-tricks-ultimate-guide-to-ipod-iphone-and-ipad-prank-ideas/)
 * [How to Turn Off "Time Sensitive" Notifications](https://buynow-tips.techidaily.com/superior-wireless-audiophiles-choice-for-tv/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * "Time Sensitive" notifications are a special class that have higher priority and can break through notification blocks.
@@ -30,11 +37,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Enabling Focus Mode from Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/Enabling-Focus-Mode-from-Control-Center.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  "Time Sensitive" notifications are simply a special class of notifications that are given higher priority. They were introduced in [iOS 15](https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-5-emulators-transforming-old-ps1-games-on-pcs/) alongside [the "Focus" feature](https://youtube-data.techidaily.com/24-stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/), and that's really where they are the most useful.
 
  Since these notifications have a higher priority, they can be allowed to break through the times when you may be blocking other notifications. They also stay on your lock screen for an hour. It's a way of saying "I want to block notifications but I don't want to miss anything important."
@@ -44,11 +52,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Unfortunately, you don't get to decide what qualifies a notification as "Time Sensitive," that's up to the app developers. It's possible that an app could abuse the feature. All you can do is decide if you want to allow an app to use Time Sensitive notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Allow "Time Sensitive" Notifications in Focus
 
  The area where Time Sensitive notifications come into play the most is Do Not Disturb and Focus modes. During the setup process, you'll have the choice to allow these notifications to get through even if you've blocked other notifications from the app.
@@ -69,30 +78,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap the "Apps" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-apps-priority-notifications.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap the toggle for "Time Sensitive Notifications" underneath the apps that can bypass "Do Not Disturb." 
 
 ![Enable the "Time Sensitive Locations" toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-time-sensitive-notifications.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, when the Focus mode is enabled, Time Sensitive notifications won't be blocked. Even if you're not allowing notifications from the app, the Time Sensitive notifications will get through.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Turn Off "Time Sensitive" Notifications
 
  What if an app is marking notifications as "Time Sensitive" and you don't agree? Or maybe an app is abusing the priority to shove annoying notifications in your face. You can turn off Time Sensitive notifications for any app.
@@ -101,44 +92,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Time Sensitive notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/NnUbMN2feKZH9Q9cgkTJRnXs-C5c1ReWddrAzqoKRNA-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%5F15%5Fbeta%5F1%5Foption%5Fto%5Fkeep%5For%5Fturn%5Foff%5Ftime/)_
 
  If you don't feel like waiting around for that, you can turn them off manually as well. Open the "Settings" app from the home screen on your iPhone or iPad.
 
 ![Open the &quot;Settings&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/2021-08-17_17-17-33.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Notifications."
 
 ![Tap "Notifications" to configure notifications on an app-by-app basis.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-tap-notifications.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Find the app that you want to turn off Time Sensitive notifications for.
 
 ![Open "Calendar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-calendar6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Toggle the switch off for "Time Sensitive Notifications." Note that not every app will have this option.
 
 ![Toggle the "Time Sensitive Notifications" options to "Off."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-time-sensitive-notifications-off.png) 
@@ -151,8 +132,6 @@ _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +139,18 @@ _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>[New] 2024 Approved Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-identifying-top-video-capturing-tools-for-win11/"><u>[Updated] 2024 Approved Identifying Top Video Capturing Tools for Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-budget-friendly-hd-desktop-recording-tools-roundup/"><u>[Updated] In 2024, Budget-Friendly HD Desktop Recording Tools Roundup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ps5-elite-gaming-screens-top-5-hdmi-21-ultra-high-res-monitors-for-2024/"><u>[Updated] PS5 Elite Gaming Screens Top 5 HDMI 2.1 Ultra High-Res Monitors for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bent-iphone-beyond-repair-retrieve-your-valuable-data-instantly/"><u>Bent iPhone Beyond Repair? Retrieve Your Valuable Data Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beyond-the-basics-exploring-unconventional-strategies-for-restoring-lost-facebook-messages/"><u>Beyond the Basics: Exploring Unconventional Strategies for Restoring Lost Facebook Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-musicales-transforma-tu-aif-en-un-formato-m4r-por-medio-de-movavi/"><u>Conversión Gratuita De Archivos Musicales: Transforma Tu AIF en Un Formato M4R Por Medio De Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-data-from-an-iphone-backup-in-itunes-or-icloud-on-your-mac/"><u>How to Retrieve Data From an iPhone Backup in iTunes or iCloud on Your Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-disappeared-phone-numbers-a-step-by-step-guide-to-recovering-lost-contacts-post-itunes-backup/"><u>Reviving Your Disappeared Phone Numbers: A Step-by-Step Guide to Recovering Lost Contacts Post-iTunes Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-unsticking-your-iphone-from-constant-headset-connectivity/"><u>Step-by-Step Solutions: Unsticking Your iPhone From Constant Headset Connectivity</u></a></li>
+</ul></div>
 

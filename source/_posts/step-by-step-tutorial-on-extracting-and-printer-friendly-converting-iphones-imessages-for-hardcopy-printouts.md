@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts
-date: 2024-09-30T01:26:09.670Z
-updated: 2024-09-30T18:42:58.666Z
+date: 2024-10-05T17:55:04.455Z
+updated: 2024-10-06T18:36:16.965Z
 tags:
   - ios
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  iPhone text messages---including [iMessage](https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-max-by-drfone-ios/)\---live on your iPhone or [Mac](https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-12plus-5g-frp-bypass-by-drfone-android/). If you want to get those messages into the real world---either for court or personal records---you'll need to get creative. We'll show you two ways to print text messages on iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Print iPhone Text Messages Screenshots
 
  The best way to preserve and print the authentic look of iPhone text messages is by taking screenshots. Printing screenshots isn't the most elegant solution, but it does work.
@@ -40,30 +47,37 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to &quot;Screenshots.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-55-05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, tap "Select" at the top of the screen and choose all the screenshots you'd like to print.
 
 ![Tap &quot;Select&quot; and choose screenshots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-56-16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With the screenshots selected, tap the share icon (square with arrow pointing up) in the bottom left.
 
 ![Tap the share button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-57-21.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll up and select "Print" from the share menu.
 
 ![Select &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-58-16.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apple's built-in printing options will appear. Tap "Printer" to select a printer connected to the same Wi-Fi network, or tap the share icon to save it as a PDF and print it somewhere else.
@@ -78,20 +92,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_15-34-00.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This method isn't the greatest if you have a lot of screenshots to print since it puts each screenshot on its own page. However, it's easy, and it gets the job done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Print an iPhone Text Message Transcript
@@ -103,6 +110,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Download the app for [Windows](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&cuid=UUhtgUeUpU202435&u=https%3A%2F%2Fwww.imobie.com%2Fanytrans%2F) or [Mac](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&cuid=UUhtgUeUpU202435&u=https%3A%2F%2Fwww.imobie.com%2Fanytrans%2F) and plug your iPhone to your PC with a USB cable. After the initial setup is complete, we'll go to the "Messages" section.
 
 ![Go to &quot;Messages.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-15-37.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see all of the conversations from your iPhone appear. Check the box next to the conversation you'd like to print.
 
@@ -116,23 +130,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select &quot;Print Now.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-19-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Windows or Mac print dialog window will open. Select your printer and preferences and click "Print!"
 
 ![Choose printer settings and click &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-20-58.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You're all set! The transcript is a much neater presentation, but it does come with the downside of appearing more easily editable. That's something to consider if you need the text messages for legal purposes.
 
@@ -155,18 +155,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-freezing-your-gameplay-xbox-one-screenshot-essentials-for-2024/"><u>[New] Freezing Your Gameplay Xbox One Screenshot Essentials for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-glimpses-identifying-who-sees-your-pics/"><u>[New] In 2024, Instagram Glimpses Identifying Who Sees Your Pics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-viewing-vr-films-and-games-on-ios/"><u>[New] Step-by-Step Guide to Viewing VR Films & Games on IOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-yuzu-emulation-windows-tips/"><u>Accelerating Yuzu Emulation: Windows Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/bent-iphone-beyond-repair-retrieve-your-valuable-data-instantly/"><u>Bent iPhone Beyond Repair? Retrieve Your Valuable Data Instantly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/beyond-the-basics-exploring-unconventional-strategies-for-restoring-lost-facebook-messages/"><u>Beyond the Basics: Exploring Unconventional Strategies for Restoring Lost Facebook Messages</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app-for-2024/"><u>From Novice to Pro The Ultimate Guide to Gaming with KineMaster App for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-data-from-an-iphone-backup-in-itunes-or-icloud-on-your-mac/"><u>How to Retrieve Data From an iPhone Backup in iTunes or iCloud on Your Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-disappeared-phone-numbers-a-step-by-step-guide-to-recovering-lost-contacts-post-itunes-backup/"><u>Reviving Your Disappeared Phone Numbers: A Step-by-Step Guide to Recovering Lost Contacts Post-iTunes Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-unsticking-your-iphone-from-constant-headset-connectivity/"><u>Step-by-Step Solutions: Unsticking Your iPhone From Constant Headset Connectivity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-efficient-way-to-grab-all-episodes-on-your-idevice-for-2024/"><u>The Efficient Way to Grab All Episodes on Your iDevice for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-flawless-path-to-popularizing-tiktok-imagery/"><u>The Flawless Path to Popularizing TikTok Imagery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-hidden-data-how-to-retrieve-removed-phone-conversation-logs-from-iphone/"><u>Uncovering Hidden Data: How to Retrieve Removed Phone Conversation Logs From iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-10-best-live-streaming-services-for-church-you-should-know/"><u>[New] 2024 Approved 10 Best Live Streaming Services for Church You Should Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-secure-privacy-blur-out-details-efficiently-ps/"><u>2024 Approved Secure Privacy Blur Out Details Efficiently PS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/decouvrez-les-6-gratuites-des-logiciels-phares-pour-clonage-et-sauvegarde-de-dvdfilms-copiez-sans-limite-avec-nos-recommandations/"><u>Découvrez Les 6 Gratuites Des Logiciels Phares Pour Clonage Et Sauvegarde De DVD/Films : Copiez Sans Limite Avec Nos Recommandations!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/digital-vault-for-internet-streams-a-recording-blueprint/"><u>Digital Vault for Internet Streams A Recording Blueprint</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tip-navigate-with-ease-by-zooming-out-of-google-maps-using-a-single-swipe/"><u>Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embracing-health-tracking-the-exceptional-value-of-the-oura-ring-beyond-my-aversion-to-subscription-services/"><u>Embracing Health Tracking: The Exceptional Value of the Oura Ring Beyond My Aversion to Subscription Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/epic-games-launches-mobile-gaming-stores-on-android-and-ios-devices/"><u>Epic Games Launches Mobile Gaming Stores on Android & iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-tips-how-i-keep-my-iphone-free-of-memory-issues/"><u>Essential Tips: How I Keep My iPhone Free of Memory Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-latest-in-apples-ai-now-open-for-trials/"><u>Experience the Latest in Apple's AI - Now Open for Trials!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 11 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-ping-command-a-step-by-step-guide-to-test-your-network-connectivity/"><u>Mastering the Ping Command: A Step-by-Step Guide to Test Your Network Connectivity</u></a></li>
 </ul></div>
 

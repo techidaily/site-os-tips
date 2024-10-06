@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Creating and Installing Personalized iPhone Ringtones"
-date: 2024-09-24T09:10:19.808Z
-updated: 2024-09-30T20:16:41.706Z
+date: 2024-09-30T19:55:43.686Z
+updated: 2024-10-06T18:51:52.312Z
 tags:
   - ios
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * [Step Five: Add the Ringtone File to Your Phone](https://extra-approaches.techidaily.com/in-2024-mastering-faces-incorporating-motion-blur-in-photos-with-picsart/)
 * [Step Six: Choose the Ringtone](https://youtube-videos.techidaily.com/famebit-alternatives-for-finding-youtube-sponsorships/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To add a custom ringtone to your iPhone, convert the audio file to AAC, ensure it is less than 40 seconds long, and rename the file extension to ".m4r"
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
  Apple [no longer offers iTunes](https://instagram-videos.techidaily.com/updated-2024-approved-the-invisible-hand-decoding-instagrams-update-effects/) on Macs starting with macOS Catalina, [so you'll need to use an alternative method to get custom ringtones onto your iPhone on newer versions of macOS](https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-12-drfone-by-drfone-virtual-android/). The instructions in this article still work if you're using iTunes on Windows or if you have an older version of macOS that still has iTunes. Additionally, we had some issues with the version of iTunes downloaded from the Microsoft Store, but the [version available for download on the Apple website](https://www.apple.com/itunes/download/win64) worked perfectly. If you encounter problems, try installing the version downloaded from Apple.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step Two: Choose a Sound File
 
  Of course, you'll need a sound clip you want to convert and use as a ringtone for this. You probably already have some idea of what you want to use. if not, go ahead and find something you like. You can use absolutely any sound file you find.
@@ -50,20 +64,27 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Click "Open."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/click-Open.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the part of the audio file you want to use and click the "Save" button.
 
 ![Select the portion of the audio file you want, then click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/select-the-portion-you-want-and-click-Save.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Download the edited clip to your PC by clicking "Save" again. This is the file you'll need to import into iTunes.
 
 ![Click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/click-save.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step Three: Convert the MP3 to AAC
 
@@ -73,22 +94,15 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Drag your audio file into itunes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00db266b1ee.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the sound file in iTunes and click File > Convert > Create AAC Version.
 
 ![Navigate to File &gt; Convert &gt; Create AAC Version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00db47621d4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step Four: Rename Your AAC File
@@ -98,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
  To keep track of which is which, right-click the headings in the library and enable the "Kind" column.
 
 ![Enable the &quot;Kind&quot; column, which lets you sort files by file type.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a021d47372f5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll see a new "Kind" column telling you which file is which. The "MPEG audio file" is the original MP3, while the "AAC audio file" is your new AAC file. You can right-click the MPEG audio file version (that's the MP3) and remove it from your library if you like.
 
@@ -116,22 +123,15 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Drag the AAC version of the file to your desktop, or any other folder you want.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dbb71cda0.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll get the ringtone file as an AAC file with [the .m4a file extension](https://eaxpv-info.techidaily.com/new-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/). If you don't see an extension after the file name, you'll need to [enable file extensions](https://facebook-video-footage.techidaily.com/updated-free-youtube-revenue-predictor-tools/). Right-click the file, click "rename" or hit the [rename button](https://video-screen-grab.techidaily.com/updated-how-to-facetime-on-android-easily/), and change the file extension to .m4r. For example, if the file is named Song.m4a, change it to Song.m4r.
 
 ![Change the file extension to .m4r.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dbce3d6e5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step Five: Add the Ringtone File to Your Phone
@@ -168,16 +168,22 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![The "Sound and Haptics" options on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-ringtone-button.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then choose your custom ringtone. Any custom ringtones you've added will appear at the top of the list, and all of the default ringtones will be listed below the small line.
 
 ![A custom ringtone on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/great-gig-in-the-sky.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also [assign that ringtone to a specific contact](https://youtube-zero.techidaily.com/ed-2024-approved-branding-excellence-youtube-naming-masterclass/), so you know who's calling just by the sound.
 
@@ -186,10 +192,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ![If you want to remove the ringtone, right click and click &quot;Delete from Library.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dd95c71d6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're not short on space, there isn't any real need to delete the ringtones you add. You can have as many as you'd like!
@@ -209,16 +215,15 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unable-to-see-video-sony-a6400-troubleshoot-guide/"><u>[New] Unable To See Video Sony A6400 Troubleshoot Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-fresh-content-massive-traction-secrets-to-a-thriving-insta-account/"><u>[Updated] 2024 Approved Fresh Content, Massive Traction Secrets to a Thriving Insta Account</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-restoring-deleted-items-from-itunes-backup-efficient-data-recovery-solutions/"><u>Complete Guide to Restoring Deleted Items From iTunes Backup: Efficient Data Recovery Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-regain-full-control-of-your-gmail-with-these-proven-forgotten-password-solutions/"><u>Expert Strategies: Regain Full Control of Your Gmail with These Proven Forgotten Password Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/palette-knives-can-be-used-to-scrape-off-excess-underglaze-or-create-textured-effects/"><u>Palette Knives Can Be Used to Scrape Off Excess Underglaze or Create Textured Effects.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-lost-chats-a-step-by-step-guide-to-retrieving-deleted-messages-from-itunes-backups/"><u>Recovering Lost Chats: A Step-by-Step Guide to Retrieving Deleted Messages From iTunes Backups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-accessing-and-extracting-iphone-backups-stored-in-itunes-or-icloud-on-a-mac-device/"><u>Step-by-Step Guide: Accessing and Extracting iPhone Backups Stored in iTunes or iCloud on a Mac Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-deleted-contacts-on-iphone-even-if-you-dont-have-a-backup/"><u>Step-by-Step Guide: Recovering Deleted Contacts on iPhone, Even If You Don't Have a Backup</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-video-and-folder-compression-in-macos-finder/"><u>Step-by-Step Guide: Video & Folder Compression in macOS Finder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-shaping-images-with-photoshop-curves-for-2024/"><u>Tips for Shaping Images with Photoshop Curves for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-how-to-for-your-youtube-music-collection/"><u>[New] The Ultimate How-To for Your YouTube Music Collection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-step-by-step-guide-to-launching-your-own-product-critique-network-for-2024/"><u>[Updated] A Step-by-Step Guide to Launching Your Own Product Critique Network for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-maximizing-vscos-potential/"><u>[Updated] Expert Tips for Maximizing VSCO's Potential</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2-understanding-changes-apples-updated-policies-for-pc-emulation-software-within-its-app-marketplace/"><u>2. Understanding Changes: Apple's Updated Policies for PC Emulation Software Within Its App Marketplace</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xr-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XR without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-se-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone SE without Password?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-discover-essential-uses-of-your-12-in-one-airpods/"><u>Unlock the Full Potential: Discover Essential Uses of Your 12-In-One AirPods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmatched-convenience-with-magsafe-a-strong-motivation-for-upgrading-your-iphone/"><u>Unmatched Convenience with MagSafe: A Strong Motivation for Upgrading Your iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/usb-car-chargers-examined-discover-our-analysis-on-high-output-vs-build-quality/"><u>USB Car Chargers Examined: Discover Our Analysis on High Output vs Build Quality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-simple-and-understated-phone-designs-are-actually-the-most-effective/"><u>Why Simple and Understated Phone Designs Are Actually the Most Effective</u></a></li>
 </ul></div>
 

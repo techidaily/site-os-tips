@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-09-25T18:04:49.497Z
-updated: 2024-10-01T03:08:54.431Z
+date: 2024-10-05T17:47:54.794Z
+updated: 2024-10-06T18:20:35.347Z
 tags:
   - ios
 categories:
@@ -17,19 +17,19 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 * [How to Scan for Networked Cameras](https://fox-http.techidaily.com/eliminating-blur-taming-shutter-vibration/)
 * [How to Spot Night Vision Cameras](https://facebook-video-share.techidaily.com/new-instant-subscription-monitoring-tools/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Use an app like Fing to scan the Wi-Fi network for unknown devices, or devices that identify themselves as cameras.
 * You can use your cellphone's camera to find concealed cameras by looking for infrared lights. Infrared lights typically appear purple, but they may also appear white or blue.
 
  A family recently [discovered](https://arstechnica.com/information-technology/2019/04/airbnb-guest-found-hidden-surveillance-camera-by-scanning-wi-fi-network/) a rude surprise at their Airbnb: a hidden camera disguised as a smoke detector in the living room. Here are two ways to check for cameras—in an Airbnb or elsewhere—using only an iPhone or Android phone.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hidden Cameras Are a Real Danger
 
@@ -56,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
@@ -74,29 +68,22 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -105,6 +92,13 @@ Josh Hendrickson / How-To Geek
  Some smartphones have filters to block out infrared light on their primary camera, but very few of them have filters on the front camera. To determine which camera will work for you, grab an infrared remote like the one you use for your TV. Point it at your smartphone's primary camera and press a button. If you see the light on the screen, then it can detect infrared. If you don't, try again with the front-facing camera.
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -133,24 +127,24 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-moving-images-mirrorless-versus-dslr/"><u>[New] In 2024, Capturing Moving Images Mirrorless Versus DSLR</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimal-video-recording-best-fullscreen-tools-for-pcmac/"><u>[Updated] 2024 Approved Optimal Video Recording Best Fullscreen Tools for PC/Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-elevating-your-twitters-with-a-snapchat-integration/"><u>[Updated] In 2024, Elevating Your Twitters with a Snapchat Integration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-stellar-photo-alterations-frameshift-prowess/"><u>[Updated] In 2024, Stellar Photo Alterations FrameShift Prowess</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-verified-posts-do-they-matter/"><u>2024 Approved Instagram Verified Posts - Do They Matter?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-top-tier-vr-game-equipment-list/"><u>2024 Approved Premium Top-Tier VR Game Equipment List</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/doporucovaci-videovy-program-jako-premium-movavi-efekty-s-doplnek/"><u>Doporučovací Vídeový Program Jako - Premium Movavi Efekty S Doplněk</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-factors-that-cause-subpar-dvd-image-clarity-when-watching-on-an-xbox-one-device/"><u>Exploring Factors That Cause Subpar DVD Image Clarity When Watching on an Xbox One Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-smart-8-hd-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Smart 8 HD? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-access-guide-smoothly-installing-the-surface-dock-driver-in-just-a-few-steps/"><u>Instant Access Guide: Smoothly Installing the Surface Dock Driver in Just a Few Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-navigation-and-entertainment-apps-compatible-with-carplay/"><u>Top-Rated Navigation & Entertainment Apps Compatible with CarPlay</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-a-malfunctioning-iphone-touchscreen-effective-solutions/"><u>Troubleshooting a Malfunctioning iPhone Touchscreen: Effective Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncover-hidden-gems-in-music-through-apple-music-radio-dont-miss-out/"><u>Uncover Hidden Gems in Music Through Apple Music Radio – Don't Miss Out!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-free-access-to-apple-devices-through-targets-exclusive-promotion/"><u>Unlock Free Access to Apple Devices Through Target's Exclusive Promotion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secret-of-eternal-iphone-charges-exclusive-tips-for-constant-low-power-usage/"><u>Unlock the Secret of Eternal iPhone Charges: Exclusive Tips for Constant Low Power Usage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-simplicity-using-assistive-features-to-convert-modern-iphones-into-fundamental-phones/"><u>Unlocking Simplicity: Using Assistive Features to Convert Modern iPhones Into Fundamental Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unmatched-value-why-you-should-consider-the-iphone-13-as-your-next-phone/"><u>Unmatched Value: Why You Should Consider the iPhone 13 as Your Next Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-top-choice-in-support-stands-a-comprehensive-review-of-kuxius-x3nova-pro-max-for-ipads/"><u>Unveiling the Top Choice in Support Stands: A Comprehensive Review of Kuxiu's X3nova Pro Max for iPads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-lightning-loop-top-10-agile-games-on-mobilepc-for-2024/"><u>[New] Lightning Loop Top 10 Agile Games on Mobile/PC for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-instagram-video-to-mp3-sound-for-2024/"><u>[Updated] From Instagram Video to Mp3 Sound for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rapidly-evolving-yt-spaces-enhancing-cerebral-growth/"><u>[Updated] Rapidly Evolving YT Spaces Enhancing Cerebral Growth</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descubra-os-melhores-conversores-de-video-gratis-para-windows-10-e-por-que-sao-otimos/"><u>Descubra Os Melhores Conversores De Vídeo Grátis Para Windows 10 E Por Que São Ótimos!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-or-update-your-konica-minolta-printers-latest-drivers/"><u>How To Easily Get or Update Your Konica Minolta Printer's Latest Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-immediate-redirect-of-incoming-calls-to-iphones-voicemail-easy-troubleshooting-steps/"><u>How to Stop Immediate Redirect of Incoming Calls to iPhone's Voicemail: Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a2-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A2</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-integrating-airpods-with-your-desktop-system/"><u>In 2024, Integrating AirPods with Your Desktop System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-syncing-problems-solved-steps-for-fixing-music-playlist-and-image-transfer-between-itunesmac-and-device/"><u>IPhone Syncing Problems Solved: Steps for Fixing Music, Playlist and Image Transfer Between iTunes/Mac and Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20FRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-free-conversion-of-arw-to-png-format-movavi/"><u>Online Free Conversion of ARW to PNG Format - Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-these-simple-steps-to-turn-on-two-step-verification/"><u>Secure Your Apple Account with These Simple Steps to Turn On Two-Step Verification</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-to-free-an-iphone-from-persistent-earpiece-configuration/"><u>Step-by-Step Solutions to Free an iPhone From Persistent Earpiece Configuration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/struggling-with-muted-iphone-learn-effective-solutions-to-revive-its-volume/"><u>Struggling with Muted Iphone? Learn Effective Solutions to Revive Its Volume</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-solution-expert-tips-for-resolving-iphone-alarm-issues-effectively/"><u>The Ultimate Solution: Expert Tips for Resolving iPhone Alarm Issues Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-frozen-ipad-solutions-when-your-device-gets-stuck-on-the-apple-icon/"><u>Troubleshooting a Frozen iPad: Solutions When Your Device Gets Stuck on the Apple Icon</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unstuck-iphone-7-top-6-techniques-to-revive-a-frozen-device/"><u>Unstuck iPhone 7: Top 6 Techniques to Revive a Frozen Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-wont-your-imessages-show-as-delivered-expert-tips-to-resolve-this-common-problem/"><u>Why Won't Your iMessages Show as Delivered? Expert Tips to Resolve This Common Problem</u></a></li>
 </ul></div>
 

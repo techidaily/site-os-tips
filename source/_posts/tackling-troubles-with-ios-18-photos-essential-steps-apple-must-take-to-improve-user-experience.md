@@ -1,7 +1,7 @@
 ---
 title: "Tackling Troubles with iOS 18 Photos: Essential Steps Apple Must Take to Improve User Experience"
-date: 2024-09-05T07:47:46.419Z
-updated: 2024-09-06T07:47:46.419Z
+date: 2024-10-02T18:01:31.339Z
+updated: 2024-10-06T17:18:21.969Z
 tags:
   - ios
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf69849bc4b8a8c3c123bbebb43d1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tackling Troubles with iOS 18 Photos: Essential Steps Apple Must Take to Improve User Experience
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Redesigned Photos App Feels More Like Social Media](https://facebook-video-footage.techidaily.com/new-leveraging-colored-backdrops-for-seamless-edits/)
@@ -30,12 +18,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 * [The Photos App Has Never Been This Crowded Before](https://mondly-stories.techidaily.com/embrace-multilingualism-with-these-7-afrikaans-advantages-from-mondly/)
 * [What Can Apple Do to Fix the Photos App?](https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nubia-z50-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The redesigned Photos app in iOS 18 feels too much like a social media app, with needless repetition and a cluttered layout.
@@ -45,11 +27,12 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
  iOS 18 brings a lot of new features and changes. While most of these changes have been well-received by early testers, the redesigned Photos app is getting mixed reviews. I think it's a total nightmare, and Apple needs to make some big changes before the app releases in the fall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Redesigned Photos App Feels More Like Social Media
 
  When I upgraded [iOS 18](https://snapchat-videos.techidaily.com/new-convenient-tutorial-snapchat-installation-macos-style/) early to test the software in beta and opened the [Photos app](https://apps.apple.com/us/app/photos/id1584215428), my first thought was, "Wait, did I open a social media app?" Everything immediately felt crowded, and I was completely lost about where to find the photo I was looking for.
@@ -67,11 +50,12 @@ Close
  Before I sharpen my pitchfork further, I want to clarify that [iOS 18 is still in beta](https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/). Apple can (and likely will still make changes) If you have iOS 18 installed on your iPhone in this pre-release state and are experiencing performance issues, that's common with operating systems in their beta phase. There's no need to worry about it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  "Recent Days" and "Recently Saved" Cause Confusion
 
  When you access your photos library via the carousel, you will notice that you have the option to sort the photos by months and years. For sorting the images by date, Apple has introduced a completely new collection in the Photos app called Recent Days.
@@ -85,11 +69,12 @@ Close
  Another thing I found frustrating is that the Photos app shows the same photo in multiple places. For example, if you [take a portrait photo](https://eaxpv-info.techidaily.com/new-top-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube/) with your iPhone, you'll notice that it appears in the main photo library, the Recent Days collection, and the Portraits collection. Why can't Apple take a simpler approach like most Android phones, where a photo appears only once in the Photos app?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Photos App Has Never Been This Crowded Before
 
  By now, you've probably guessed that my main concern with the redesigned Photos app is that it has more collections than ever before. On iOS 17, the Photos app is divided into four tabs — Library, For You, Albums, and Search. Simple, right?
@@ -97,6 +82,13 @@ Close
  However, in the iOS 18 Photos app, Apple got rid of all the tabs. Now, there's one single, long, scrollable page containing a large number of collections. At the top, you have the carousel. Then, below it, there are different collections. This includes Recent Days, People, Pinned Collections, Memories, Trips, Albums, Shared Albums, Featured Photos, Media Types, and Utilities.
 
  The availability of so many collections makes the Photos app feel more cluttered than before. Also, if you're like me and don't care much about Featured Photos and Memories in the Photos app, you now have no choice but to see them (and they get in the way, all of the time).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Can Apple Do to Fix the Photos App?
 
@@ -120,8 +112,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +119,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-keep-your-identity-under-wraps-while-livestreaming/"><u>[New] Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-next-level-mac-cam-apps-avoiding-the-bandicamp-route/"><u>[New] Next-Level Mac Cam Apps Avoiding the Bandicamp Route</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-dark-domain-vs-radiant-realm-the-final-face-off/"><u>[Updated] 2024 Approved Dark Domain vs Radiant Realm The Final Face-Off</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Oppo Reno 8T?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-and-shine-the-top-5-video-quality-tools-for-2024/"><u>Streamline & Shine The Top 5 Video Quality Tools for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-six-strategies-to-prevent-your-iphones-storage-from-overflowing/"><u>Top Six Strategies to Prevent Your iPhone's Storage From Overflowing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transferring-your-apple-notes-between-iphone-and-mac-a-comprehensive-guide/"><u>Transferring Your Apple Notes Between iPhone and Mac - A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-communication-mastering-the-art-of-using-an-apple-watch-like-a-walkie-talkie/"><u>Transform Your Communication: Mastering the Art of Using an Apple Watch Like a Walkie-Talkie</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-hidden-features-10-surprising-ways-your-iphone-enhances-daily-life/"><u>Unlock Hidden Features: 10 Surprising Ways Your iPhone Enhances Daily Life</u></a></li>
+</ul></div>
 

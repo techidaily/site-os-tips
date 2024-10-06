@@ -1,7 +1,7 @@
 ---
 title: "The Race in Silicon Valley: Measuring the Performance Leap From Apple's A16 to A17 Chipset"
-date: 2024-09-05T07:46:52.930Z
-updated: 2024-09-06T07:46:52.930Z
+date: 2024-10-01T16:41:37.675Z
+updated: 2024-10-06T16:43:13.055Z
 tags:
   - ios
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b49411aac162c7581850732b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Race in Silicon Valley: Measuring the Performance Leap From Apple's A16 to A17 Chipset
 
 Apple’s introduction of the A17 Pro system-on-chip sees Apple’s chip production move to a newer, smaller process and adds a new GPU core to boot. So what’s the real-world implication of this change?
@@ -43,15 +37,16 @@ Apple’s introduction of the A17 Pro system-on-chip sees Apple’s chip product
 
 ![The A17 Pro chip found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Apple also improved the GPU, adding an additional GPU core for a total of six cores with Apple claiming a 20% improvement over the A16 Bionic and support for hardware ray tracing and better shading for improved handling of realistic lighting effects in 3D applications.
 
  Apple boosted the transistor count to 19 billion and added hardware support for AV1 decoding, a [video codec that’s set to one day replace HEVC](https://fox-info.techidaily.com/new-2024-approved-foundational-approach-to-gradual-volume-adjustment/). The A17 Pro is manufactured using TSMC’s N3B process, which is considered to produce [“true” 3-nanometer chips](https://tools.techidaily.com).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Much Better is the A17 Pro?
 
@@ -62,11 +57,12 @@ Apple’s introduction of the A17 Pro system-on-chip sees Apple’s chip product
 ![iPhone single core performance compared between models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_single_core_geekbench.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Geekbench
 
  Tom’s Guide produced a [set of benchmarks](https://www.tomsguide.com/features/iphone-15-pro-benchmarks) that compare not only Geekbench but some real-world tests like transcoding 4K video to 1080p in Adobe Premier Rush. This saw the A17 Pro shave anywhere from two to six seconds off the best A16 Bionic scores.
@@ -74,21 +70,29 @@ Geekbench
 ![iPhone Metal performance compared between models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_metal_geekbench.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Geekbench
 
  Keep in mind that benchmarks don’t always coincide with real-world usage. There will be some variance in scores purely down to the way that chip tolerances work. Not all silicon is the same, there are differences in different batches of chips and that explains the ever-fluctuating scores.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Does the A17 Pro Make the iPhone 15 Pro Worth It?
 
  If you’re wondering if you should upgrade from the iPhone 14 Pro to the iPhone 15 Pro purely for a speed bump, the answer is probably not. If you play a lot of 3D games then you might see things differently. The GPU improvements will yield a performance bump, and Apple’s plan of bringing “AAA” games like _Resident Evil: Village_ to mobile will [require either an iPhone 15 Pro or iPad with an M1 chip](https://www.ign.com/articles/resident-evil-village-for-iphone-15-pro-is-out-on-october-30).
@@ -99,12 +103,6 @@ Geekbench
 
  If you’re looking for a reason to upgrade, we’d point to more tangible benefits like the 5x optical zoom featured in the iPhone 15 Pro Max, the Action button that replaces the ring/silent switch, and the inclusion of USB-C for charging and data transfer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The A17 Pro is Apple’s First 3nm Chip
 
  The A17 Pro breaks new ground as Apple’s first 3-nanometer chip. The number refers to the size of the individual transistors featured on the chip. In essence, the smaller the transistors the more of them you can fit on a chip. This is evident by Apple adding three billion more transistors to the A17 Pro (at 19 billion) compared to the A16 Bionic (at 16 billion).
@@ -125,8 +123,6 @@ Geekbench
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +130,22 @@ Geekbench
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-delving-into-the-realm-of-yis-action-video-potential/"><u>[Updated] In 2024, Delving Into the Realm of Yi's Action Video Potential</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-nexus-of-playfulness-for-young-gamers/"><u>[Updated] The Nexus of Playfulness for Young Gamers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-logitech-combo-touch-evaluation-an-ideal-substitute-for-the-apple-ipads-input-device/"><u>1. Logitech Combo Touch Evaluation: An Ideal Substitute for the Apple iPad's Input Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-mastering-alert-settings-a-guide-to-controlling-your-ios-device-notifications/"><u>1. Mastering Alert Settings: A Guide to Controlling Your iOS Device Notifications</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-create-a-sports-highlight-video-a-simple-guide/"><u>2024 Approved How to Create a Sports Highlight Video - a Simple Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ifunny-memes-unlocked-download-and-use-in-a-flash/"><u>2024 Approved IFunny Memes Unlocked Download & Use in a Flash</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-utilizing-the-apple-watch-for-enhanced-sleep-analysis/"><u>A Comprehensive Guide: Utilizing the Apple Watch for Enhanced Sleep Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-iphones-covert-rain-sounds-a-guide-to-improving-your-sleep-quality/"><u>Access iPhone's Covert Rain Sounds: A Guide to Improving Your Sleep Quality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-watch-a-must-have-companion-for-athlete-recovery-and-downtime/"><u>Apple Watch: A Must-Have Companion for Athlete Recovery and Downtime</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-recording-quality-with-8-amazing-free-tips/"><u>Boost Your iPhone's Recording Quality with 8 Amazing Free Tips!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-four-streaming-ways-to-showcase-fb-live-events-on-tv/"><u>In 2024, Four Streaming Ways to Showcase FB Live Events on TV</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic5-ultimate-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic5 Ultimate Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-best-notetaking-apps-for-apples-ipad-family/"><u>The Ultimate Guide: Best Notetaking Apps for Apple's iPad Family</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-you-shouldnt-ignore-adding-emergency-contacts-to-your-apple-phone-and-how-to-do-it/"><u>Why You Shouldn't Ignore Adding Emergency Contacts to Your Apple Phone and How to Do It!</u></a></li>
+</ul></div>
 

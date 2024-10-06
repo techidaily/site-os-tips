@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Syncing and Editing iPhone Contacts via Windows PC Using DearMob"
-date: 2024-09-24T00:55:31.618Z
-updated: 2024-09-30T22:00:49.471Z
+date: 2024-09-29T17:12:19.184Z
+updated: 2024-10-06T16:03:21.775Z
 tags:
   - iphone-manager
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 ## How to Manage iPhone Contacts on PC
 
 [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/), an easy-to-use iOS and iPadOS manager, empowers the iPhone users to organize the contact items without limits. You can export the iPhone contacts to your Windows computer, or import the file on Windows to your iPhone; you can add new contacts, edit the existed contacts, and even delete the unwanted contacts; furthermore, you can sync the contacts on iPhone to your Windows contact folder, back them up and restore when necessary, and merge the same contacts into just one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create and Manage Groups of Contacts
 
@@ -38,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 ![export contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-manage-contact-new-feature.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Important Note:**
@@ -56,9 +69,23 @@ For iPhone 7/7Plus/SE first-gen and older models, Apple dropped the support for 
 
 To create new groups, you can go to icloud.com > Contacts, and click the Plus icon; or use the Contact app on Mac to create groups and sync it to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Export Contacts from iPhone to Windows Computer
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Please make sure that the iCloud Contact is off, or DearMob cannot access your iPhone contact data.
 
@@ -69,16 +96,23 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
 ![export contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-export-contact.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-* Supported output formats including: **VCF**, **PDF**, **TXT** and **HTML**.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+* Supported output formats including: **VCF**, **PDF**, **TXT** and **HTML**.
 
 ## Import Contacts from Windows Computer to iPhone
 
@@ -91,13 +125,6 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 ![import contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-import-contact.jpg) 
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Only .vcf format file supported.
 
@@ -119,17 +146,17 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can click **Edit** icon to undo editing.
 
   
 3\. Hit **Sync** button to transfer edited contact to your iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Contacts on iPhone
 
@@ -137,21 +164,7 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
 ![delete contact](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-delete-contact.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * To undo deleting before hitting the Sync button, you can click the grey Del button on the contact card, or the Cancel button on the bottom left corner.
 * To select multiple contacts, use Ctrl-click or Shift-click.
@@ -197,20 +210,13 @@ DearMob enable users to back up iPhone contacts in .bak file on your Windows com
 
 ![merge contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-merge-contact.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Manage iPhone Contacts on PC?
@@ -256,24 +262,22 @@ Deleting multiple contacts on iPhone direcly can be tricky. Using an iPhone mana
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-these-6-must-have-instagram-reel-tools/"><u>[New] Discover These 6 Must-Have Instagram Reel Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-techniques-for-turning-youtube-watching-into-a-screenshot/"><u>[New] In 2024, Free Techniques for Turning YouTube Watching Into a Screenshot</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtubes-visual-flow-five-budget-friendly-methods/"><u>[New] Mastering YouTube's Visual Flow - Five Budget-Friendly Methods</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-your-photos-on-instagram-green-screen/"><u>[New] Transforming Your Photos on Instagram Green Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices-for-2024/"><u>[Updated] Free, Cross-Platform 4K Playback Tools for Win & OS X Devices for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-streamline-your-youtube-experience-shareable-playlists/"><u>[Updated] In 2024, Streamline Your YouTube Experience Shareable Playlists</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-hidden-photoshop-photo-editing-tips-for-beginners/"><u>10 Hidden Photoshop Photo Editing Tips for Beginners</u></a></li>
-<li><a href="https://os-tips.techidaily.com/access-and-manage-your-mac-from-anywhere-top-4-mobile-apps-for-ios-users/"><u>Access and Manage Your Mac From Anywhere: Top 4 Mobile Apps for iOS Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-steps-for-performing-a-full-wipe-on-an-encrypted-ios-device-without-access-to-apple-id/"><u>Comprehensive Steps for Performing a Full Wipe on an Encrypted iOS Device without Access to Apple ID</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-find-x7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Find X7 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620255552-iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-connection-display-your-ipadiphone-on-the-screen-via-five-unique-techniques/"><u>Mastering the Connection: Display Your iPad/iPhone on the Screen via Five Unique Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620255746-overcome-your-iphones-failed-update-dilemma-with-these-four-effective-solutions/"><u>Overcome Your iPhone's Failed Update Dilemma with These Four Effective Solutions!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-your-drenched-device-top-strategies-for-repairing-a-waterlogged-iphone/"><u>Revive Your Drenched Device: Top Strategies for Repairing a Waterlogged iPhone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/securely-snap-fb-video-conversations-4-methods-for-2024/"><u>Securely Snap FB Video Conversations [4 Methods] for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-your-whatsapp-problems-with-these-proven-tips-and-tricks/"><u>Solve Your WhatsApp Problems with These Proven Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-issue-how-to-fix-iphone-contacts-failure-in-sync-with-icloud/"><u>Solving the Issue: How to Fix iPhone Contacts Failure in Sync with iCloud</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-wii-console-disc-reading-issues/"><u>Troubleshooting Guide: How to Fix Wii Console Disc Reading Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-auto-play-feature-why-is-apple-music-always-ready-to-go-on-your-iphone/"><u>Understanding the Auto-Play Feature: Why Is Apple Music Always Ready to Go on Your iPhone?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-for-swift-reaction-in-discord-dialogues/"><u>[New] 2024 Approved Step by Step for Swift Reaction in Discord Dialogues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unveiling-high-end-picture-sources-at-zero-cost/"><u>[New] 2024 Approved Unveiling High-End Picture Sources at Zero Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>[New] Learn to Cropping & Composition The Audio-Visual Balance in Canvas</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-storytelling-on-snapchat-top-15-ideas/"><u>2024 Approved Elevate Your Storytelling on Snapchat (Top 15 Ideas)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlock-visual-storytelling-potential-with-snapchat-edits/"><u>2024 Approved Unlock Visual Storytelling Potential with Snapchat Edits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-playstation-portable-games-on-iphone-with-the-latest-ppsspp-mobile-emulator/"><u>Enjoy PlayStation Portable Games on iPhone with the Latest PPSSPP Mobile Emulator</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expanding-apples-appeal-why-adding-vibrant-hues-to-professional-gadgets-matters/"><u>Expanding Apple's Appeal: Why Adding Vibrant Hues to Professional Gadgets Matters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-classic-emulators-on-ios-insights-from-a-weekend-retro-gaming-adventure/"><u>Exploring Classic Emulators on iOS: Insights From a Weekend Retro Gaming Adventure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-appeal-of-remaining-loyal-to-apples-integrated-technology-universe/"><u>Exploring the Appeal of Remaining Loyal to Apple's Integrated Technology Universe</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-brother-dcp-l2540dw-ready-on-pc-free-windows-driver-downloads-and-installation-tutorials/"><u>Get Your Brother DCP-L2540DW Ready on PC: Free Windows Driver Downloads & Installation Tutorials</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-ios-163-enhances-protection-of-your-apple-id-via-the-innovative-use-of-hardware-authentication-keys/"><u>How iOS 16.3 Enhances Protection of Your Apple ID via the Innovative Use of Hardware Authentication Keys</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-link-your-ipad-with-your-television-a-step-by-step-guide/"><u>How to Link Your iPad with Your Television: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-and-maintain-your-iphones-sound-level-a-step-by-step-fix-for-dropping-volume-issues/"><u>How to Restore and Maintain Your iPhone's Sound Level – A Step-by-Step Fix for Dropping Volume Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-safeguard-your-live-streams-on-periscope-for-2024/"><u>How To Safeguard Your Live Streams on Periscope for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insta-influence-playbook-the-9-actions-that-build-a-brand/"><u>In 2024, Insta Influence Playbook The 9 Actions that Build a Brand</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>In 2024, Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-pitaka-magez-automotive-mobile-dock-revolutionizing-your-iphones-travel-experience/"><u>In-Depth Analysis of Pitaka MagEZ Automotive Mobile Dock - Revolutionizing Your iPhone's Travel Experience.</u></a></li>
 </ul></div>
 

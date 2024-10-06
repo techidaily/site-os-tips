@@ -1,7 +1,7 @@
 ---
 title: Fixing Stuck Screen Orientation on iOS Devices - Quick Guide
-date: 2024-09-05T07:44:26.904Z
-updated: 2024-09-06T07:44:26.904Z
+date: 2024-10-02T17:00:50.110Z
+updated: 2024-10-06T19:09:42.893Z
 tags:
   - ios
 categories:
@@ -19,18 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Restart the iPhone or iPad](https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-k11-5g-frp-bypass-with-best-methods-by-drfone-android/)
 * [Reset All Settings](https://facebook-record-videos.techidaily.com/new-easy-path-to-popularity-two-tactics-for-youtube-fame-for-2024/)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Swipe down from the top-right corner of the iPhone or iPad screen to open the Control Center, then tap the lock icon to allow for screen rotation.
@@ -39,6 +27,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The iPhone and the iPad screen rotates almost seamlessly based on how you're holding it. But if your display is stuck in portrait or landscape orientation, here are a couple of ways to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Turn Off Orientation Lock on iPhone
 
  If your iPhone display is stuck in portrait and won't rotate to landscape even when you hold your handset sideways, the Portrait Orientation Lock might be the culprit. Fortunately, we can quickly disable this lock from the iOS Control Center.
@@ -46,6 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you're using an iPhone X-style device with a notch, swipe down from the top-right corner of the screen to reveal the Control Center.
 
 ![Swipe down from top-right corner to access Control Center on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Swipe-down-from-top-right-corner-to-access-Control-Center-on-iPhone.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're using an iPhone 8 or earlier device with a physical Home button, swipe up from the bottom of the screen to reveal the Control Center.
 
@@ -59,12 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Now, when you turn your iPhone sideways, your iOS device should switch to the landscape format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Turn Off Rotation Lock on iPad
 
  Unlike an iPhone, the iPad can be locked in both the landscape and portrait orientation. This is why the feature is called Rotation Lock on the iPad.
@@ -75,18 +71,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Swipe down from top-right corner on iPad to use Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Swipe-down-from-top-right-corner-on-iPad-to-use-Control-Center.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're using iOS 11, double-click the Home button to reveal the App Switcher and the Control Center area on the right. If you're using iOS 10 and earlier, swipe up from the bottom of the screen.
 
  Now, tap on the "Rotation Lock" button (the button has a lock icon with a circle around it) to toggle the rotation lock. Again, the button will be shown with a white background when enabled and a "Rotation Lock: Off" message will be displayed when disabled.
@@ -94,11 +78,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Tap on Rotation Lock button to disable orientation lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Tap-on-Rotation-Lock-button-to-disable-orientation-lock.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Restart the App
 
  If you've disabled Orientation or Rotation Lock, and you're still facing the same issue, the next thing to check is the app you're using.
@@ -110,27 +95,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Quit Apps From App Switcher on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Quit-Apps-From-App-Switcher-on-iPhone.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, locate the app you want to quit and then swipe up on the preview.
 
  Locate the app from the Home screen and open it again. If the issue was with the app, you should now be able to rotate the iPhone or iPad screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Restart the iPhone or iPad
 
  If the issue persists across multiple apps, it might be a bug with the iPhone or the iPad. Usually, a simple reboot takes care of such problems.
@@ -141,16 +115,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Swipe your finger on the &quot;Slide to Power Off&quot; slider to turn off the device](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/iphone-power-off.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, press the "Sleep/Wake button" or the "Side button" to turn on the iOS or iPadOS device. While you're at it, you [might want to try force restarting your iPhone](https://tiktok-video-recordings.techidaily.com/new-friendly-reminder-how-to-chill-at-someones-tiktok-party/) to see if it fixes the issue.
 
  Once the iPhone or iPad reboots, the issue should (hopefully) be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Reset All Settings
 
  If the issue persists, you can try resetting iOS or iPadOS settings as a second-to-last resort. The last resort is [resetting the iPhone or the iPad itself](https://snapchat-videos.techidaily.com/updated-conquer-snapchat-with-pro-pinning-tips/).
@@ -161,18 +136,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap on Reset button from General section in Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Tap-on-Reset-button-from-General-section-in-Settings.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here, tap on "Reset All Settings."
 
 ![Tap on Reset All Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Tap-on-Reset-All-Settings.png) 
@@ -191,8 +154,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +161,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-sprinkle-some-joy-incorporating-emojis-into-youtube-discussions-for-2024/"><u>[Updated] Sprinkle Some Joy Incorporating Emojis Into Youtube Discussions for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/3-simple-methods-for-deleting-your-iphones-whatsapp-cache-a-comprehensive-guide/"><u>3 Simple Methods for Deleting Your iPhone's WhatsApp Cache: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/delete-once-delete-forever-effective-techniques-for-fully-removing-games-and-apps-from-ios-devices/"><u>Delete Once, Delete Forever: Effective Techniques for Fully Removing Games & Apps From iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-erasing-damaged-audiovideo-files-overcoming-unremovable-corruptions/"><u>Effective Techniques for Erasing Damaged Audio/Video Files: Overcoming Unremovable Corruptions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-ways-to-monitor-and-organize-your-ipads-memory-tips-for-handling-apps-files-and-more/"><u>Effective Ways to Monitor and Organize Your iPad's Memory: Tips for Handling Apps, Files, and More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-add-music-to-instagram-video/"><u>How to Add Music to Instagram Video</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-masterful-mix-sweeping-sound-sections/"><u>In 2024, Masterful Mix Sweeping Sound Sections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-snapmaster-z7-pro-excellence-in-picture-magnification/"><u>In 2024, SnapMaster Z7 Pro Excellence in Picture Magnification</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-ipads-space-management-a-guide-to-assessing-storage-for-optimal-app-performance/"><u>Mastering Your iPad's Space Management: A Guide to Assessing Storage for Optimal App Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-stream-anything-the-ultimate-chromecast-video-playback-guide/"><u>New Stream Anything The Ultimate Chromecast Video Playback Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reclaiming-storage-on-your-iphone-essential-strategies-following-the-latest-ios-17-refresh/"><u>Reclaiming Storage on Your iPhone: Essential Strategies Following the Latest iOS 17 Refresh</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revamping-game-graphics-update-your-driver-to-boost-play-experience-in-forza-horizon-e/"><u>Revamping Game Graphics: Update Your Driver to Boost Play Experience in Forza Horizon E</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y36-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y36 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-the-art-of-iphone-rebooting-across-all-versions/"><u>Ultimate Guide: Mastering the Art of iPhone Rebooting Across All Versions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-avi-file-editing-a-beginners-guide-to-splitting-and-trimming/"><u>Updated 2024 Approved Mastering AVI File Editing A Beginners Guide to Splitting and Trimming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Embracing the Era of Mobile Device Standardization
-date: 2024-09-05T07:47:18.598Z
-updated: 2024-09-06T07:47:18.598Z
+date: 2024-10-02T18:42:27.926Z
+updated: 2024-10-06T19:04:30.471Z
 tags:
   - ios
 categories:
@@ -22,11 +22,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For those of us who witnessed the incredible explosion of smartphone popularity in the early 2000s, it's hard to believe we're nearly two decades removed from the original iPhone announcement. There's been an astounding number of devices launched since then, and most of them have been very unique. Over time, like jagged rocks going through a tumbler, that uniqueness has been polished away.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  A Sea of Sameness
 
  In the last few years, the major players in smartphones have seemed to settle on design identities for their devices. The year-over-year design changes are so minuscule that we're [millimeters away from being able to use last-generation cases on new phones](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-x100-pro-to-mac-drfone-by-drfone-android/). Apple and Samsung are two of the biggest offenders, but Google is starting to do the same thing.
@@ -40,11 +41,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Samsung Galaxy generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-generations.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  For Samsung, I was able to go back three generations before finding discernable changes. While the company has maintained the same arrangement of five cameras and a flash since the Galaxy S20 Ultra, it played with the housing for a couple of years. That is until the S22 Ultra, which has now been repeated three times.
 
 ![Google Pixel generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pixel-generations.jpg) 
@@ -53,38 +55,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That's the smartphone landscape of today. There are, of course, many other great devices from a variety of manufacturers, but Apple, Samsung, and Google are responsible for a majority of the phones seen out in the wild in the U.S.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  When Phones Were Fun
 
  The early days of smartphones were wild times. Manufacturers were trying to figure out how people wanted to use these new devices. The touchscreen was obviously an essential component, but other than that, almost everything else was up for grabs. It was as if someone threw a bunch of keyboards, trackballs, buttons, materials, and cases into a machine and pulled a "Randomize" lever.
 
  The other part of the equation was U.S. carriers. AT&T, Sprint, T-Mobile, and Verizon all wanted to have unique offerings. Apple had the power to say no to these requests, but companies like Samsung, who didn't have that popularity yet, had to play ball. The Samsung Galaxy S series from 2010 is the perfect example.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ![Samsung Galaxy S 2010 variants.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-s-variants.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You wouldn't know it by looking, but the four phones in the image above are all from the same series. Known in most places as simply the "Galaxy S," the U.S. saw four models with not only unique names but completely unique designs. It's hard to imagine Samsung creating four separate looks for the Galaxy S24 series nowadays.
 
  That's an extreme example, but it shows the variety of smartphones in the early 2010s. Phone makers were seemingly going back to the drawing board with each new phone. Even the iPhone models, which have always maintained consistency between generations, could be told apart just by looking at them.
@@ -92,18 +70,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![iPhone generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-variants.png) 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Tha image above shows a lot more variety than seen in the five generations following the iPhone X. The current state of smartphone design feels pretty uninspired, but there are some legitimate reasons why things have moved this way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Did We Get Here?
 
@@ -121,8 +101,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +108,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-full-scope-understanding-online-performance-artists-for-2024/"><u>[New] Full Scope Understanding Online Performance Artists for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ain-massive-viewership-with-a-small-financial-investment/"><u>[New] Gain Massive Viewership with a Small Financial Investment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-harnessing-the-potential-of-quantum-hdr-imaging/"><u>2024 Approved Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertir-facilement-des-caf-vers-ogg-sans-frais-services-de-conversion-video-experts-chez-movavi/"><u>Convertir Facilement Des CAF Vers OGG Sans Frais - Services De Conversion Vidéo Experts Chez Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-banner-game-mastering-visual-branding-techniques/"><u>In 2024, Elevate Your Banner Game Mastering Visual Branding Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-rtl8188cu-wi-fi-drivers-compatible-with-windows-11-and-7-free-download/"><u>Realtek RTL8188CU Wi-Fi Drivers Compatible with Windows 11 & 7 - Free Download</u></a></li>
+<li><a href="https://facebook.techidaily.com/unfollow-path-severing-social-media-connections/"><u>Unfollow Path: Severing Social Media Connections</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secret-of-eternal-iphone-charges-exclusive-tips-for-constant-low-power-usage/"><u>Unlock the Secret of Eternal iPhone Charges: Exclusive Tips for Constant Low Power Usage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-simplicity-using-assistive-features-to-convert-modern-iphones-into-fundamental-phones/"><u>Unlocking Simplicity: Using Assistive Features to Convert Modern iPhones Into Fundamental Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmatched-value-why-you-should-consider-the-iphone-13-as-your-next-phone/"><u>Unmatched Value: Why You Should Consider the iPhone 13 as Your Next Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-top-choice-in-support-stands-a-comprehensive-review-of-kuxius-x3nova-pro-max-for-ipads/"><u>Unveiling the Top Choice in Support Stands: A Comprehensive Review of Kuxiu's X3nova Pro Max for iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/vision-pros-uncertain-horizon-my-apprehensions-about-the-impact-of-introducing-visionos-2/"><u>Vision Pro’s Uncertain Horizon: My Apprehensions About the Impact of Introducing visionOS 2</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-samsungs-device-network-rivalries-apple-exploring-the-strength-of-their-unique-ecosystem/"><u>Why Samsung's Device Network Rivalries Apple: Exploring the Strength of Their Unique Ecosystem</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Sleuthing: Methods for Finding and Exposing Stealth Surveillance Cameras in Your Vicinity"
-date: 2024-09-05T07:45:38.855Z
-updated: 2024-09-06T07:45:38.855Z
+date: 2024-10-04T17:01:49.448Z
+updated: 2024-10-06T19:25:29.179Z
 tags:
   - ios
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2f673e094959a8fdb4cdbd5b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Smartphone Sleuthing: Methods for Finding and Exposing Stealth Surveillance Cameras in Your Vicinity
 
 ### Quick Links
@@ -29,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 * [How to Scan for Networked Cameras](https://fox-http.techidaily.com/eliminating-blur-taming-shutter-vibration/)
 * [How to Spot Night Vision Cameras](https://facebook-video-share.techidaily.com/new-instant-subscription-monitoring-tools/)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Use an app like Fing to scan the Wi-Fi network for unknown devices, or devices that identify themselves as cameras.
@@ -48,12 +24,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
  A family recently [discovered](https://arstechnica.com/information-technology/2019/04/airbnb-guest-found-hidden-surveillance-camera-by-scanning-wi-fi-network/) a rude surprise at their Airbnb: a hidden camera disguised as a smoke detector in the living room. Here are two ways to check for cameras—in an Airbnb or elsewhere—using only an iPhone or Android phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hidden Cameras Are a Real Danger
 
  If you're staying in a hotel or an Airbnb, hidden cameras can be a worry. In the case of Airbnb, [your host is required to list any cameras](https://www.airbnb.com/help/article/887/what-are-airbnb-s-rules-about-electronic-surveillance-devices-in-listings) they have, whether or not they're turned on. Additionally, Airbnb does not allow hosts to place cameras in bathrooms or sleeping areas, even if that's a living room with a foldout bed.
@@ -74,9 +44,23 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
@@ -84,24 +68,19 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
@@ -114,17 +93,18 @@ Josh Hendrickson / How-To Geek
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Josh Hendrickson / How-To Geek
 
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -138,8 +118,6 @@ Josh Hendrickson / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +125,26 @@ Josh Hendrickson / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-screenshots-software-series/"><u>[New] Best Screenshots Software Series</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-new-tech-horizon-with-microsofts-hololens-review/"><u>[New] In 2024, The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-11-best-instagram-photo-editors/"><u>[New] In 2024, Top 11 Best Instagram Photo Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-savvy-fetching-and-storing-twitters-animated-gifs-for-2024/"><u>[New] Social Savvy Fetching and Storing Twitter's Animated GIFs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-next-gen-vr-accessories-your-must-have-guide/"><u>[Updated] 2024 Approved Next-Gen VR Accessories Your Must-Have Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-data-on-your-iphone-post-factory-reset/"><u>Complete Guide: Retrieving Lost Data on Your iPhone Post-Factory Reset</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a24-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A24 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-images-a-step-by-step-guide-to-recovering-deleted-snaps-from-android-and-iphone/"><u>How To Retrieve Lost Images: A Step-by-Step Guide to Recovering Deleted Snaps From Android and iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aging-youtube-insights-for-content-growth/"><u>Leveraging YouTube Insights for Content Growth</u></a></li>
+<li><a href="https://fox-access.techidaily.com/minimalist-approach-to-podcast-livestream-for-2024/"><u>Minimalist Approach to Podcast Livestream for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-recover-deleted-iphone-contacts-on-your-mac-with-easy-steps/"><u>Quick Fixes: Recover Deleted iPhone Contacts on Your Mac with Easy Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-recover-your-viber-conversations-in-just-5-minutes/"><u>Quick Guide: Recover Your Viber Conversations in Just 5 Minutes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-methods-restore-accidentally-deleted-iphone-notes-within-a-few-minutes/"><u>Quick Methods: Restore Accidentally Deleted iPhone Notes Within a Few Minutes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rejuvenate-your-ipads-performance-rediscover-peak-functionality-today/"><u>Rejuvenate Your iPad's Performance: Rediscover Peak Functionality Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-erased-texts-on-your-ipod-touch-5th-and-4th-generation/"><u>Step-by-Step Guide: Recovering Erased Texts on Your iPod Touch (5Th and 4Th Generation)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-retrieve-unintentionally-removed-photos-from-an-ipad-device/"><u>Step-by-Step Tutorial: How to Retrieve Unintentionally Removed Photos From an iPad Device</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-pro-snipers-on-macos-for-2024/"><u>Top 5 Pro Snipers on macOS for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-iphone-smsmms-recovery-tools-for-202-best-free-and-subscription-options-available/"><u>Top 6 iPhone SMS/MMS Recovery Tools for 202지 - Best Free and Subscription Options Available</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-burning-and-playback-mastery-a-step-by-step-user-manual/"><u>WinX DVD Burning and Playback Mastery: A Step-by-Step User Manual</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease"
-date: 2024-09-25T00:49:21.930Z
-updated: 2024-10-01T05:33:34.471Z
+date: 2024-10-03T18:41:10.637Z
+updated: 2024-10-06T17:00:23.656Z
 tags:
   - ios
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Select text, copy it, and paste it into a note, email, or document from anywhere using your iPhone, iPad, or Mac. This trick can help you circumvent all kinds of pesky limitations or even grab “IRL” text by taking a photo.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Copy Any Text on iPhone or iPad
 
  You can copy text within images or videos right on your iPhone and iPad. The only limitation here is that your device must be able to recognize it as text, so messy handwriting and fancy fonts probably won’t work.
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 !['Show Text' icon on a screenshot in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show_text_icon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tap on this and the text in the image should immediately be highlighted. You can now select this text as you would any other, by tapping and holding your finger until the text selection tool appears. Drag the start and end points where you want them, or hit “Select All” to grab everything.
@@ -52,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  This trick also works in Safari, just tap and hold an image then choose “Show Text” first.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Copy Any Text on Mac
@@ -74,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why This Is So Useful
 
  This neat trick circumvents the inability to select and copy text on certain websites. [Use your iPhone, iPad, or Mac to take a screenshot](https://video-capture.techidaily.com/updated-in-2024-videographers-guide-to-capturing-sports-competitions/) and then copy the text as normal. I’ve used this trick to copy recipes from YouTube’s description box in the iPhone app, for example.
@@ -92,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  More Useful iPhone Tricks
@@ -119,16 +113,20 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-quality-videos-a-guide-to-apple-device-screen-recording/"><u>[New] 2024 Approved Crafting Quality Videos A Guide to Apple Device Screen Recording</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-your-pathway-to-stunning-timelapses-using-gopro-hero5-black/"><u>[New] In 2024, Your Pathway to Stunning Timelapses Using GoPro Hero5 Black</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-efficiently-record-your-gotomeeting-conferences/"><u>[Updated] In 2024, Efficiently Record Your GoToMeeting Conferences</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-guide-generating-your-own-cost-free-iphone-tones/"><u>DIY Guide: Generating Your Own Cost-Free iPhone Tones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-easily-cast-your-ios-devices-screen-on-a-projector/"><u>How To Easily Cast Your iOS Device's Screen on a Projector</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-use-of-iphone-front-selfie-camera-mirror-feature/"><u>Mastering the Use of iPhone Front (Selfie) Camera Mirror Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-whatsapp-security-setting-up-a-robust-password-protection-for-ios-and-android-users/"><u>Mastering WhatsApp Security: Setting Up a Robust Password Protection for iOS & Android Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-kindness-when-talking-to-tech-alexa-siri-gpt/"><u>Navigating Kindness When Talking to Tech (Alexa, Siri, GPT)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-on-chip-machine-learning-insights-into-its-mechanics-and-applications/"><u>Navigating On-Chip Machine Learning: Insights Into Its Mechanics and Applications</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/render-images-with-radial-light-diffusion-technique/"><u>Render Images with Radial Light Diffusion Technique</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-your-iphone-display-with-the-microsoft-xbox-one/"><u>Step-by-Step Guide: Syncing Your iPhone Display with the Microsoft Xbox One</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-best-free-video-viewing-software-guide-top-16/"><u>[New] 2024 Approved Best Free Video Viewing Software Guide - Top 16</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-mastery-of-video-filters-in-zoom/"><u>[New] In 2024, Step-by-Step Mastery of Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-gear-for-ultimate-vr-glove-experience/"><u>[New] Pioneering Gear for Ultimate VR Glove Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screenmaster-review-the-latest-in-tech-capture/"><u>[Updated] In 2024, ScreenMaster Review The Latest in Tech Capture</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-imyfone-d-back-overview-tips-benefits-and-user-experience/"><u>Complete IMyFone D-Back Overview – Tips, Benefits, & User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-retrieving-bookmarks-in-safari-after-itunes-restoration/"><u>Comprehensive Tutorial on Retrieving Bookmarks in Safari After iTunes Restoration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-custom-tiktok-ringtone-for-mobile-devices/"><u>Creating Custom TikTok Ringtone for Mobile Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620268460-discover-the-best-iphone-file-recovery-tools-retrieve-your-accidentally-deleted-data-in-just-5-steps/"><u>Discover the Best iPhone File Recovery Tools - Retrieve Your Accidentally Deleted Data in Just 5 Steps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-best-video-editor-for-vimeo/"><u>In 2024, Best Video Editor for Vimeo</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-in-script-to-speech-turning-xmlttml-files-to-srt-wonders/"><u>In 2024, Mastery in Script-to-Speech Turning XML/TTML Files to SRT Wonders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-your-lost-iphone-videos-a-step-by-step-guide-to-data-recovery/"><u>Rescue Your Lost iPhone Videos: A Step-by-Step Guide to Data Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-lost-connections-the-ultimate-iphone-restoration-manual/"><u>Reviving Lost Connections: The Ultimate iPhone Restoration Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-advice-t17238628801243/"><u>Tom's Tech Insights: Expert Gadget Reviews and Advice</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-cross-device-connectivity-easy-steps-to-view-icloud-photos-and-files-everywhere/"><u>Unlocking Cross-Device Connectivity: Easy Steps to View iCloud Photos and Files Everywhere</u></a></li>
 </ul></div>
 

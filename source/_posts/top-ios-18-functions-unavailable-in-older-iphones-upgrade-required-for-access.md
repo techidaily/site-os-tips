@@ -1,7 +1,7 @@
 ---
 title: Top IOS 18 Functions Unavailable in Older iPhones - Upgrade Required for Access
-date: 2024-09-27T02:17:21.797Z
-updated: 2024-09-30T21:28:28.376Z
+date: 2024-10-04T19:16:36.721Z
+updated: 2024-10-06T19:32:57.869Z
 tags:
   - ios
 categories:
@@ -30,23 +30,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A collage of thumbnails, with each promoting a different iOS 18 feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-key-features-wwdc24-slide.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  Several new features in iOS 18 will arrive via subsequent updates released later this year and next. This staggered release strategy has turned the otherwise dull mid-cycle OS updates into feature-packed events, giving Apple fans something to look forward to the whole year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Automatic Mail Categorization
 
@@ -72,6 +58,13 @@ Apple
 
  Bloomberg's Mark Gurman claims that [Siri's AI superpowers](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/)—like onscreen awareness, controlling apps and devices, answers based on your data, and seamless integration with ChatGPT—will be available when iOS 18.4 launches next spring.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3 iOS 18 Features That Require an iPhone 12 or Later
 
  Many new features need the A14 chip from the iPhone 12, a 2020 handset. If you haven't upgraded your iPhone recently and these are important to you, consider buying an iPhone 16 when it arrives in September.
@@ -96,29 +89,28 @@ Apple
 
  However, you'll need at least an iPhone 11 to enjoy clearer dialogue in movies. Enhance Dialogue is available "with compatible content in supported apps" when using built-in speakers, wired headphones, AirPods, or other Bluetooth speakers and headphones.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What About Apple Intelligence?
 
 [In the name of preserving a smooth user experience](https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-angling-images-a-comprehensive-instagram-rotation-handbook/), Apple Intelligence requires the A17 Pro chip from the iPhone 15 Pro. Yup, you read that right. Even if you own the latest non-Pro model like an iPhone 15 or iPhone 15 Plus, you're going to need to upgrade to use Apple Intelligence.
 
 ![A wrap-up of features made possible with Apple Intelligence at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_wrap_up-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  On the Mac and iPad, Apple Intelligence requires an Apple Silicon chip like the Apple M1 or newer. This is the minimum hardware to use even the most [basic AI features such as writing tools](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/), Genmoji (custom emoji), and Image Playground (creating AI images from prompts)—let alone advanced ones like a more powerful Siri.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  iOS 18 Features Requiring Extra Accessories
 
@@ -131,21 +123,22 @@ Apple
 ![An AirPods card on iPhone listing new features like voice isolation and responding to Siri with head movement.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-light-mode-airpods-card-new-features-overview.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Responding to Siri With Head Shakes
 
  Shaking or nodding your head to decline or accept calls requires the AirPods Pro 2.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Voice Isolation on AirPods
 
@@ -162,10 +155,10 @@ Apple
 ![A chat in the iPhone's Messages app, with satellite connectivity guidance displayed at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-messages-via-satellite-connectivity-guidance-connected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -173,19 +166,6 @@ Apple
 ###  Hands-Free Smart Lock Unlocking
 
  Unlocking smart locks wirelessly using iOS 18's Express Mode without taking an iPhone out of your pocket requires [Ultra Wideband](https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-c67-4g-by-drfone-android/) connectivity provided by the U11 chip, found in the Apple Watch Series 6 and later and the iPhone 11 or newer. This leaves the iPhone XR, iPhone XS, iPhone XS Max, and iPhone SE owners locked out.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  iOS 18: These 9 Features Are English-Only
 
@@ -202,13 +182,6 @@ Apple
 
  Solving mathematical equations as you're writing them in the Notes app supports common mathematical symbols, but you must write your math using Western Arabic numerals or type it using Arabic (Eastern & Western) or Devanagari numerals.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  About Topographic Maps
 
  Topographic maps have hit Maps on iOS 18 after debuting on the Apple Watch a year earlier. If you live in the United States and Japan, you'll be able to access detailed trail networks and hikes for 63 US national parks, as well as create your own hikes and download topographic maps for offline navigation with turn-by-turn voice guidance.
@@ -220,6 +193,13 @@ Apple
 ![Two framed iPhone screenshots showcasing AI-powered Safari highlights and Reader Mode summaries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-safari-app-reader-mode-summaries-page-highlights.png) 
 
 Apple
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  About Call Recording and Transcription
 
@@ -234,9 +214,23 @@ Apple
 * Cantonese (China mainland, Hong Kong)
 * Portuguese (Brazil)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  iOS 18: Geo-Blocking and Other Restrictions
 
  And lastly, some of iOS 18's new features are restricted to specific countries and regions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  InSight in the Apple TV App
 
@@ -285,24 +279,14 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-infinite-space-top-10-external-hard-drives-for-ps5/"><u>[New] In 2024, Infinite Space Top 10 External Hard Drives for PS5</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breakdown-of-artificial-intelligence-making-sense-of-ai-concepts/"><u>Breakdown of Artificial Intelligence: Making Sense of AI Concepts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-mylifetime-show-episodes-as-mp4-files-easy-guide-and-best-tools/"><u>Download MyLifetime Show Episodes as MP4 Files - Easy Guide & Best Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco Is Unlocked</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mpeg-4pc/"><u>MPEG-4動画ファイルPCへの効果的な圧縮手順</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-printing-documents-from-your-ios-device/"><u>Step-by-Step Guide: Printing Documents From Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-evolution-of-charging-power-in-depth-analysis-and-insights-into-the-upgraded-belkin-qi2-boostcharge-pro-with-its-newly-integrated-dual-wall-and-car-moun22/"><u>The Evolution of Charging Power: In-Depth Analysis and Insights Into the Upgraded Belkin Qi2 BoostCharge Pro with Its Newly Integrated Dual Wall & Car Mount for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-iphones-dominance-in-my-gaming-life-reasons-im-sticking-with-mobile-play/"><u>The iPhone's Dominance in My Gaming Life - Reasons I'm Sticking with Mobile Play!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-missed-opportunity-how-your-vintage-iphone-had-the-potential-to-support-apple-ai/"><u>The Missed Opportunity: How Your Vintage iPhone Had the Potential to Support Apple AI</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-significance-of-the-latest-ios-update-unveiling-why-ios-18-matters/"><u>The Significance of the Latest iOS Update: Unveiling Why iOS 18 Matters</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-essential-tips-and-tricks-for-maximizing-your-new-iphones-potential/"><u>Top 10 Essential Tips & Tricks for Maximizing Your New iPhone's Potential</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-apple-airtag-add-ons-and-gadgets-the-ultimate-list-for-2n4/"><u>Top Apple AirTag Add-Ons and Gadgets: The Ultimate List for 2N4</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-iphone-charger-devices/"><u>Top Rated iPhone Charger Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-apple-watch-series-8-band-options/"><u>Top-Rated Apple Watch Series 8 Band Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-instagrams-potential-successful-post-tactics-for-2024/"><u>[Updated] Unlocking Instagram's Potential Successful Post Tactics for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>2024 Approved Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dealing-with-unwanted-thread-accolades-on-ig-effective-disguise-strategies/"><u>Dealing with Unwanted Thread Accolades on IG - Effective Disguise Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/melody-seeker-find-mp3-on-fb/"><u>Melody Seeker Find MP3 on FB</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sudden-iphone-photo-loss-effective-fixes-and-tips/"><u>Sudden iPhone Photo Loss: Effective Fixes and Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/thrustmaster-t300-controller-drivers-free-download-for-windows-11-and-10-systems/"><u>Thrustmaster T300 Controller Drivers - Free Download for Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-icloud-unlocking-tools-for-removing-cloud-locks-on-ios-devices/"><u>Top Rated iCloud Unlocking Tools for Removing Cloud Locks on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-tips-ultimate-guide-to-troubleshooting-your-non-responsive-ipad-keyboard/"><u>Top Tips: Ultimate Guide to Troubleshooting Your Non-Responsive iPad Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-the-leading-wireless-range-routers/"><u>Ultimate Selection: The Leading Wireless Range Routers</u></a></li>
 </ul></div>
 
