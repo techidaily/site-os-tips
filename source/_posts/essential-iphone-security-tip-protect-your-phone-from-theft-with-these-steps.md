@@ -1,7 +1,7 @@
 ---
 title: "Essential iPhone Security Tip: Protect Your Phone From Theft with These Steps"
-date: 2024-09-10T10:38:53.681Z
-updated: 2024-09-11T10:38:53.681Z
+date: 2024-10-09T11:16:31.200Z
+updated: 2024-10-11T21:27:59.690Z
 tags:
   - ios
 categories:
@@ -18,29 +18,16 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
  Your iPhone has a lot of built-in protections in case it gets stolen. But a cunning thief might snatch it out of your hand after you unlocked it and stop you tracking it by enabling Airplane Mode. I created this shortcut to protect myself in case either of those things happen.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What iPhone Thieves Do When They Snatch an iPhone
 
 ![Airplane Mode enabled in iPhone Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/airplane-mode-enabled-in-iphone-control-center.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Most of us have [Find My enabled](https://win-able.techidaily.com/overcoming-valheim-stability-issues-a-guide-to-stop-pc-freezing-and-crashing/) so we can easily track our iPhone if it ever goes missing or gets stolen. However, it's very easy for a thief to stop location tracking by enabling Airplane Mode from the Control Center.
 
@@ -54,20 +41,6 @@ Close
 
  But the shortcut below will give you even more protection.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  How an iPhone Shortcut Can Help
 
  The idea behind this shortcut is pretty simple. The first thing most thieves will do after stealing an iPhone is enable Airplane Mode to stop location tracking, so we can make that an automation trigger to run a custom "Theft Protection" shortcut. You could use this shortcut to run all kinds of actions, but I suggest disabling Airplane Mode and locking the screen.
@@ -76,19 +49,12 @@ Close
 
  If you haven't used the Shortcuts app before, here are some other [cool shortcuts you might want to try out](https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/).
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  A Guide to Creating This Shortcut
 
@@ -96,19 +62,12 @@ Close
 
  Both steps of these instructions are crucial, so don't skip one.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ###  Step 1: Create a "Theft Protection" Shortcut
 
@@ -126,35 +85,14 @@ Close
 
 ![Actions to take a photo in 'Theft Protection' shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/actions-to-take-a-photo-in-theft-protection-shortcut.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Taking a photo slows the shortcut down, so it could be more secure to go without it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ###  Step 2: Create an Automation Trigger for Your Shortcut
 
@@ -184,8 +122,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,12 +129,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-entertaining-videoland-audit/"><u>[New] 2024 Approved Entertaining Videoland Audit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs/"><u>[New] In 2024, Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-podcast-branding-with-ai-naming-generators/"><u>[New] Revolutionizing Podcast Branding with AI Naming Generators</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/captivating-cold-ideal-snowy-scenes-to-brighten-videos-for-2024/"><u>Captivating Cold Ideal Snowy Scenes to Brighten Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-insights-ai-versus-astrological-fortune-telling/"><u>Future Insights: AI versus Astrological Fortune Telling</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-activating-dfu-and-recovery-modes-on-iphones-and-ipads/"><u>Guide: Activating DFU & Recovery Modes on iPhones and iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/hands-on-review-of-the-vibrant-nomad-glow-in-the-dark-sports-band-for-apple-watch/"><u>Hands-On Review of the Vibrant Nomad Glow-in-the-Dark Sports Band for Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-often-should-you-charge-your-airtags-duration-of-use-explored/"><u>How Often Should You Charge Your AirTags? Duration of Use Explored</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-issues-with-receiving-texts-from-iphones/"><u>How to Troubleshoot Issues with Receiving Texts From iPhones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/los-mejores-convertidores-de-video-h265hevc-opciones-mas-innovadoras-de-2023-para-usuarios-de-windows-mac-y-en-linea/"><u>Los Mejores Convertidores De Video H.265/HEVC: Opciones Más Innovadoras De 2023 Para Usuarios De Windows, Mac Y en Línea</u></a></li>
+</ul></div>
 

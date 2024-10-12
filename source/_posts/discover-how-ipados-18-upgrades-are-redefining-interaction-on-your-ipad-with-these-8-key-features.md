@@ -1,7 +1,7 @@
 ---
 title: Discover How iPadOS 18 Upgrades Are Redefining Interaction on Your iPad with These 8 Key Features
-date: 2024-09-10T10:41:01.274Z
-updated: 2024-09-11T10:41:01.274Z
+date: 2024-10-11T11:58:36.762Z
+updated: 2024-10-12T04:33:45.710Z
 tags:
   - ios
 categories:
@@ -22,25 +22,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The New Photos App Keeps Libraries Organized](https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/)
 * [iPadOS 18 and Apple Intelligence](https://facebook-videos.techidaily.com/in-2024-discovering-the-future-of-broadcast-roku-and-facebook-live/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -58,39 +45,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Apple's new Control Center for iPadOS 18 on an iPad's screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-control-center-in-ipados-18.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Apple
 
  You can add more options to a particular Control Center page by tapping the plus icon in the top left corner. You can swipe down from the top right corner to open the Control Center and then drag the slider on the right to browse through the different pages or you can use a single, continuous swipe to land on a particular group.
 
  Doubling down on customization, Apple includes the ability to adjust the icon size in the Control Center if an app offers more than a toggle. Last but not least, you can also [add controls from your favorite third-party apps](https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-a60-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/) (if their developers have one).
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Personalize Your Home Screen the Way You Want
 
@@ -108,19 +67,12 @@ Apple
 
 ![The new floating tab bar on iPadOS .](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-floating-tab-bar-1.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Apple
 
@@ -142,39 +94,18 @@ Apple
 
 ![Solving basic math problems with Math Notes on iPadOS18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/math-notes-on-ipados-18-1.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Apple
 
  What's more interesting is that the solution will automatically appear on the screen wherever you put the equals sign in your handwriting (more on that later). Using Math Notes, students can learn new mathematical concepts like assigning values to variables and solving equations with them, using the graphing feature to create a visual representation of solutions.
 
  We'll have to wait and see how accurate and reliable Math Notes is, but it seems to work fine with basic mathematical expressions and even a few complex ones as seen in the demo. The feature is accessible in a new "Math Notes" folder in [the Apple Notes app](https://tech-recovery.techidaily.com/professional-insights-mastering-the-use-of-slack-in-your-business-environment/). Saved solutions are available from the sidebar like they usually are in the Notes app.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Smart Script Can Recognize Your Handwriting
 
@@ -196,43 +127,16 @@ Apple
 
  After some digging, I came across this video from [Tom at Paperless Movement](https://www.youtube.com/watch?v=WWROY2pJqxk). It shows how the handwriting detection technology isn't 100% effective at the moment (iPadOS 18 is currently in the beta testing phase). The video shows how the iPad didn't recognize the value for some variables when the host tried to solve a mathematical expression that involved several of them. Further, it also reveals how the placement of the final equation can impact the result. Hopefully, Apple will rectify such errors before the public release in September 2024.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  SharePlay Now Provides Real-Time Drawing and Remote Access
 
 ![Drawing on screen using new SharePlay on iPadOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-shareplay-feature-on-ipados-18.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Apple
 
@@ -242,25 +146,25 @@ Apple
 
  Another feature that could be very useful for family members playing tech support personnel and Apple's service center professionals is the remote iPad control. As a word of caution, we would always warn users against providing remote device control to strangers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The New Photos App Keeps Libraries Organized
 
  The Photos app in iPadOS 18 automatically organizes libraries so you can easily access your favorite memories without searching for them. In the app, users will notice a familiar photo grid that showcases the most recent pictures, along with the new Collections section that categorizes photos by themes without placing them in different albums, as is the case with iPadOS 17\. The themes could be based on time, people, users' favorite memories, etc.
 
 ![New Apple Photos app showcasing the Collections at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-apple-photos-app.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Apple
 
@@ -274,19 +178,12 @@ Apple
 
 ![Various options provided by the Writing Tools on iPadOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/writing-tools-on-ipados-18.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Apple
 
@@ -302,8 +199,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -311,12 +206,17 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-smart-8-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Smart 8 to Roku | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expanded-free-editing-features-unveiled-in-google-photos/"><u>Expanded Free Editing Features Unveiled in Google Photos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-enhanced-performance-with-the-latest-new-ipad-air-featuring-an-advanced-m2-processor-and-expanded-13-display-choice/"><u>Experience Enhanced Performance with the Latest New iPad Air Featuring an Advanced M2 Processor & Expanded 13 Display Choice</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-ios-18s-enhanced-home-screen-and-innovative-email-functionality-whats-new-in-the-latest-release/"><u>Explore iOS 18'S Enhanced Home Screen & Innovative Email Functionality: What’s New in the Latest Release</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-impact-how-ios-18-revolutionizes-mobile-technology/"><u>Exploring the Impact: How iOS 18 Revolutionizes Mobile Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-compatibility-mode-work-within-the-microsoft-office-suite-exploring-its-functions-and-uses/"><u>How Does Compatibility Mode Work Within the Microsoft Office Suite? Exploring Its Functions and Uses</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g34-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G34 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-logitech-speaker-sound-card-programs-on-windows-1078-devices/"><u>Install Logitech Speaker Sound Card Programs on Windows 10/7/8 Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/step-by-step-augmenting-youtube-video-space-for-2024/"><u>Step-by-Step Augmenting YouTube Video Space for 2024</u></a></li>
+</ul></div>
 

@@ -1,27 +1,13 @@
 ---
 title: A Comprehensive Guide on Moving Two-Factor Authentication Codes From One Smartphone to Another with Google Authenticator.
-date: 2024-09-10T10:38:39.567Z
-updated: 2024-09-11T10:38:39.567Z
+date: 2024-10-06T18:37:14.423Z
+updated: 2024-10-12T10:23:05.796Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/Google-Authenticator-hero-1.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## A Comprehensive Guide on Moving Two-Factor Authentication Codes From One Smartphone to Another with Google Authenticator.
 
@@ -31,26 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 * [How to Use Google Authenticator on Multiple Phones](https://smart-video-editing.techidaily.com/updated-2024-approved-download-royalty-free-videos-from-these-top-websites/)
 * [Google Authenticator vs. Authy](https://desktop-recording.techidaily.com/updated-in-2024-insider-guide-recording-full-desktop-scenes-in-w8/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Key Takeaways
 
  To transfer Google Authenticator 2FA accounts to a new phone, open the menu in the app and select "Transfer Accounts." Choose "Export Accounts" and select the accounts to transfer. A QR code will be generated, which you can scan with Google Authenticator on the new device. You can also sync your codes with your Google account.
@@ -59,25 +25,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  Thankfully, it's not difficult to move Google Authenticator codes from one phone to another. In 2020, Google added a "Transfer Accounts" feature. This allows you to import or export authentication codes from one phone to another. More recently, in 2023, [Google added the ability to sync codes across devices](https://some-guidance.techidaily.com/new-the-photographers-guide-to-maximizing-lunapic-potential/).
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983552">
+<span id="1983545">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How to Transfer Google Authenticator to a New Phone
 
@@ -87,6 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Open the hamburger menu and tap "Transfer Accounts."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/2023-05-02_16-03-52.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, we want the "Export Accounts" option.
 
 ![Select "Export Accounts."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/2023-05-02_15-53-23.jpg) 
@@ -95,33 +61,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Select accounts and tap "Next."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/2023-05-02_16-06-18.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  This will generate a QR code, which you'll need to scan with your new device.
 
 ![QR code for transfer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/2023-05-02_15-53-38.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Again, open the Authenticator app on your new device ([iPhone](https://apps.apple.com/us/app/google-authenticator/id388497605) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU213734/https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en%5FUS&gl=US)) and select "Transfer Accounts" from the [hamburger menu](https://review-topics.techidaily.com/recover-your-contacts-after-oppo-reno-8t-has-been-deleted-by-fonelab-android-recover-contacts/). This time, select "Import Accounts."
 
 ![Select "Import Accounts."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/2023-05-02_16-05-37.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scan the QR code displayed on your original device. The accounts will be imported and immediately available in the Authenticator app. That's all there is to it!
 
@@ -139,35 +105,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Sign in with Google account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/2023-05-02_15-38-27.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Using the sync feature is very convenient to enable 2FA on more than once device at a time; just be aware of the security risks it brings with it. Google Authenticator is also not end-to-end encrypted (as of May 2023), which adds even more security concerns to the sync feature.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Google Authenticator vs. Authy
 
@@ -185,8 +123,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,12 +130,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-50-essential-screen-savers-for-online-video-calls/"><u>[New] In 2024, 50 Essential Screen Savers for Online Video Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-social-media-savvy-tips-and-tricks-for-captivating-storytelling/"><u>2024 Approved Social Media Savvy Tips and Tricks for Captivating Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-lesser-known-media-players-post-vlc/"><u>2024 Approved Unveiling the Lesser-Known Media Players Post-VLC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automatic-deletion-of-two-factor-authentication-alerts-a-guide-for-iphone-and-ipad-users/"><u>Automatic Deletion of Two-Factor Authentication Alerts: A Guide for iPhone & iPad Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-airpods-experience-with-the-game-changing-conversation-awareness-feature-activate-now/"><u>Boost Your AirPods Experience with the Game-Changing Conversation Awareness Feature - Activate Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-clutter-on-icloud-a-step-by-step-guide-to-reclaim-storage/"><u>Clearing Clutter on iCloud - A Step-by-Step Guide to Reclaim Storage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-ringtone-crafting-how-to-make-unique-tones-for-your-iphone/"><u>DIY Ringtone Crafting: How to Make Unique Tones for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-switching-from-heic-picture-files-to-jpgs-for-iphone-and-ipad-users/"><u>Easy Guide: Switching From HEIC Picture Files to JPGs for iPhone & iPad Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoying-portable-steam-games-a-world-beyond-the-steam-deck/"><u>Enjoying Portable Steam Games: A World Beyond the Steam Deck</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-narratives-distributed-among-8-movie-segments/"><u>In 2024, Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/insider-secrets-to-record-sims-gaming-for-2024/"><u>Insider Secrets to Record Sims Gaming for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixing-the-issue-when-your-app-wont-launch-due-to-error-code-0xc000007b/"><u>Solved: Fixing the Issue When Your App Won't Launch Due to Error Code 0xC000007B</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/viral-visuals-stories-of-success/"><u>Viral Visuals Stories of Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-amd-radeon-v2410-graphics-drivers-features-and-improvements/"><u>What's New in AMD Radeon v24.10 Graphics Drivers - Features and Improvements</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide"
-date: 2024-10-04T19:53:14.191Z
-updated: 2024-10-06T16:00:14.878Z
+date: 2024-10-10T16:26:56.373Z
+updated: 2024-10-11T23:21:06.467Z
 tags:
   - ios
 categories:
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 * [How Does Back Tap Work on iPhones?](https://facebook-clips.techidaily.com/new-mastery-over-buffering-in-vimeo-streams-revised-tips-for-2024/)
 * [Turn Your iPhone's Flashlight on with Back Tap](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
  It used to be necessary to create a special flashlight shortcut to make this work, but no longer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ##  Turn Your iPhone's Flashlight on with Back Tap
@@ -52,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-to-open-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Settings, navigate to Accessibility > Touch.
 
 ![Scroll to the "Physical and Motor" section, then tap "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-touch-in-physical-and-motor.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In "Touch Settings," select "Back Tap." It is at the bottom of the page.
 
@@ -71,20 +57,34 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![Select "Double Tap" or "Triple Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-double-or-triple-tap.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, scroll down through the actions list until you see the Flashlight option. A blue checkmark will appear next to it once it is active.
 
 ![Select "Flashlight" in the tap menu. A blue check appears next to it when it is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/double-tap-flashlight-enabled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press back once to make sure the change is registered, then exit Settings.
 
 ![Double Tap now displays "Flashlight."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/double-tap-flashlight-is-actually-on.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next time you double or triple tap the back of your iPhone (depending on how you set it up), your iPhone flashlight will turn on. Tap the back two or three times again to turn it off. Have fun illuminating dark spaces!
 
@@ -103,19 +103,18 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-peak-performance-frames-per-second-slow-motion/"><u>[New] In 2024, Peak Performance Frames Per Second Slow Motion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-decoding-the-purpose-why-does-fb-use-a-blue-icon/"><u>[Updated] Decoding the Purpose Why Does FB Use a Blue Icon?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-cam-protection-the-ultimate-10-guide/"><u>2024 Approved Cam Protection The Ultimate 10 Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-data-on-your-iphone-post-factory-reset/"><u>Complete Guide: Retrieving Lost Data on Your iPhone Post-Factory Reset</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/handbrake-2024-windows-and-mac/"><u>HandBrake 日本語対応バージョン 2024年ダウンロード・インストールガイド: Windows & Mac</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-a1x-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo A1x 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-foldfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel FoldFRP Lock</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-macaw-mambo-march/"><u>In 2024, Macaw Mambo March</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-recover-your-viber-conversations-in-just-5-minutes/"><u>Quick Guide: Recover Your Viber Conversations in Just 5 Minutes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rejuvenate-your-ipads-performance-rediscover-peak-functionality-today/"><u>Rejuvenate Your iPad's Performance: Rediscover Peak Functionality Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-erased-texts-on-your-ipod-touch-5th-and-4th-generation/"><u>Step-by-Step Guide: Recovering Erased Texts on Your iPod Touch (5Th and 4Th Generation)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-retrieve-unintentionally-removed-photos-from-an-ipad-device/"><u>Step-by-Step Tutorial: How to Retrieve Unintentionally Removed Photos From an iPad Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-iphone-smsmms-recovery-tools-for-202-best-free-and-subscription-options-available/"><u>Top 6 iPhone SMS/MMS Recovery Tools for 202지 - Best Free and Subscription Options Available</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unleashing-creativity-how-to-master-io-screen-capture-for-2024/"><u>Unleashing Creativity How to Master IO Screen Capture for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unseen-but-not-untouched-instagram-guide/"><u>[New] Unseen but Not Untouched Instagram Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-bio-essentials-the-ultimate-guide-to-crafting-impactful-social-media-profiles/"><u>[Updated] In 2024, Bio Essentials The Ultimate Guide to Crafting Impactful Social Media Profiles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-drone-propeller-rankings-for-top-flyers-for-2024/"><u>[Updated] Ultimate Drone Propeller Rankings for Top Flyers for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficiently-handling-apple-podcastsitunes-u-on-a-windows-pc-comprehensive-dearmob-user-manual/"><u>Efficiently Handling Apple Podcasts/iTunes U on a Windows PC | Comprehensive DearMob User Manual</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974976204-obtain-your-behringer-usb-sound-card-software-start-recording-today/"><u>Obtain Your Behringer USB Sound Card Software - Start Recording Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-apps-pestering-you-for-ratings-a-guide-to-deactivating-review-prompts-on-ios-and-macos-devices/"><u>Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-timely-notifications-in-ios-a-comprehensive-guide/"><u>Understanding Timely Notifications in iOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-productivity-with-apples-freeform-a-guide-to-enhancing-personal-organization/"><u>Unleash Productivity with Apple’s Freeform – A Guide to Enhancing Personal Organization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-apples-advancements-discover-key-features-of-iphone-15-and-15-pro-series/"><u>Unveiling Apple's Advancements: Discover Key Features of iPhone 15 and 15 Pro Series</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-best-websites-like-omegle/"><u>Updated Top 10 Best Websites Like Omegle</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-every-application-needs-a-functional-design-as-simple-as-the-tea-timer-app/"><u>Why Every Application Needs a Functional Design as Simple as the Tea Timer App</u></a></li>
 </ul></div>
 

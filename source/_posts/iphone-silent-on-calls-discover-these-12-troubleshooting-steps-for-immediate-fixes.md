@@ -1,7 +1,7 @@
 ---
 title: IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!
-date: 2024-09-22T02:58:54.651Z
-updated: 2024-09-26T10:24:10.319Z
+date: 2024-10-08T21:57:57.898Z
+updated: 2024-10-11T22:13:18.718Z
 tags:
   - ios
 categories:
@@ -53,13 +53,6 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 !["Allow Calls From" Focus settings on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/allow_calls_focus_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some Focus modes can be triggered automatically whenever you start a certain activity. For example, if you have set up the Fitness profile within Focus settings calls may be silenced whenever you [start any type of workout on your Apple Watch](https://on-screen-recording.techidaily.com/new-elite-ipad-speech-recording-tools-3/). You can disable a mode, or set specific parameters to avoid it blocking your calls.
 
 ##  Check You're Reachable via Cellular or Wi-Fi Calls
@@ -68,22 +61,22 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Check Wi-Fi Calling and cellular reception on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wi-fi_calling_iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In areas of poor or no signal where you have Wi-Fi reception, you may also be able to [use iPhone Wi-Fi calling](https://screen-capture.techidaily.com/updated-2024-approved-finding-the-ultimate-cam-choice-post-manycam/). This will route standard cellular calls through the internet instead. For this to work you'll need to enable Wi-Fi calling under Settings > Phone > Wi-Fi Calling.
 
 ![Toggle Wi-Fi Calling on or off on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/wifi_calling_toggle.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make Sure Your Mobile Plan is Active
@@ -102,6 +95,13 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Disable or allow calls on other Apple devices in iPhone Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/allow_calls_other_devices_iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check the Caller Isn't Blocked by Mistake
 
  It's surprisingly easy to [block a contact](https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c22-drfone-by-drfone-virtual/) by mistake. If you have a specific friend or family member whose calls seem to consistently fail, it's worth checking they aren't on your block list. You can do this under the Phone app by tapping the "Contacts" tab and finding the person in question.
@@ -110,20 +110,13 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Unblock a caller your iPhone contacts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/unblock_caller_iPhone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also review your full list of blocked contacts under Settings > Phone > Blocked Contacts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable the "Silence Unknown Callers" Option
@@ -132,14 +125,14 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Toggle the option to "Silence Unknown Callers" in the iPhone Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/silence_unknown_callers_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Any calls from these numbers that are silenced will be sent to voicemail. You'll still see the call in your call log under Phone > Recent.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Disable Any Call Filtering Apps
 
@@ -151,27 +144,20 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Turn off Call Forwarding on your iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/call_forwarding_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check a Contact's Custom Ringtone
 
  If you have [set a custom ringtone for a contact](https://youtube-zero.techidaily.com/ed-2024-approved-branding-excellence-youtube-naming-masterclass/) and the tone isn't working properly, you should just hear your default ringtone instead. It's worth double-checking and even disabling the ringtone altogether if you think it may be causing problems. You can do this under the Phone app on the "Contacts" tab by finding the contact and tapping on the "Ringtone" field.
 
 ![Check any custom ringtones against a contact card on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/custom_ringtone_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Remember that musical ringtones that rely on Apple Music need to be saved offline on your device to work. To do this, find the track in question, tap and hold, then select "Download" from the menu that appears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Your iPhone Won't Ring when CarPlay is Connected
 
@@ -185,7 +171,27 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Restart iPhone using Siri](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/restart_iphone_siri.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The easiest way to do this is to ask Siri to restart your iPhone for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Consider FaceTime or Another VoIP Service
 
@@ -210,17 +216,24 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-use-youtube-analytics-to-grow-your-channel/"><u>[New] 2024 Approved How to Use YouTube Analytics to Grow Your Channel?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incorporating-personal-flair-fonts-for-ae-projects/"><u>[New] Incorporating Personal Flair Fonts for AE Projects</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-art-of-color-correction-best-practices-top-11/"><u>[New] The Art of Color Correction Best Practices (Top 11)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-androids-budget-friendly-video-call-leaders/"><u>2024 Approved Android's Budget-Friendly Video Call Leaders</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-make-your-time-lagged-footage-shine-with-easy-android-tricks/"><u>2024 Approved Make Your Time-Lagged Footage Shine with Easy Android Tricks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel A70 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-enhancing-media-top-5-streamlining-gadgets/"><u>In 2024, Enhancing Media Top 5 Streamlining Gadgets</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oneplus-nord-n30-se-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best OnePlus Nord N30 SE Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-your-apple-watch-a-comprehensive-tutorial-for-beginners-and-pros/"><u>Resetting Your Apple Watch - A Comprehensive Tutorial for Beginners and Pros</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-text-message-delivery-problems-when-communicating-with-iphone-users/"><u>Resolving Text Message Delivery Problems When Communicating with iPhone Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-personal-item-security-with-the-nomad-tracker-card-a-users-in-depth-analysis/"><u>Revolutionizing Personal Item Security with the Nomad Tracker Card – A User's In-Depth Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/risky-gamble-pays-off-big-time-for-whatsapp/"><u>Risky Gamble Pays Off Big Time for WhatsApp</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectacular-20-anime-openers-hits/"><u>[New] Spectacular 20 Anime Openers' Hits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-guide-deleting-items-from-your-youtubeumbers-list/"><u>[Updated] In 2024, Guide Deleting Items From Your YouTube'umbers List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mcb-template-pack-download-now/"><u>[Updated] MCB Template Pack Download Now</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/common-queries-and-insights-on-managing-iphones-voicemail-system/"><u>Common Queries & Insights on Managing iPhone's Voicemail System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-solutions-fixing-your-iphones-wi-fi-connection-issues-in-just-7-steps/"><u>Essential Solutions: Fixing Your iPhone's Wi-Fi Connection Issues in Just 7 Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-for-the-microsoft-v4000-ergokeyboard-software/"><u>Hassle-Free Installation for the Microsoft V4000 ErgoKeyboard Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-uncover-your-icloud-password-with-just-your-devices-imei-number-expert-secrets-revealed/"><u>How To Uncover Your iCloud Password With Just Your Device's IMEI Number - Expert Secrets Revealed!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620251539-imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-performance-effective-strategies-for-enhancing-fps-in-war-thunder/"><u>Maximizing Performance: Effective Strategies for Enhancing FPS in War Thunder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ringtones-gone-rogue-discover-10plus-methods-for-reviving-the-sound-on-iphone-ipad-and-android-devices/"><u>Ringtones Gone Rogue? Discover 10+ Methods for Reviving the Sound on iPhone, iPad & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/siri-stuck-top-10-fixes-to-reactivate-siri-on-your-iphone-comprehensive-tutorial/"><u>Siri Stuck? Top 10 Fixes to Reactivate Siri on Your iPhone – Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-definitive-strategy-for-reviving-a-blocked-iphone-secrets-to-access-unlock-and-data-retrieval/"><u>The Definitive Strategy for Reviving a Blocked iPhone: Secrets to Access, Unlock, and Data Retrieval</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-life-of-the-greek-gods/"><u>The Life of the Greek Gods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-zte-nubia-z60-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track ZTE Nubia Z60 Ultra Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tp-link-ac1200-wifi-expander-re305-an-expert-review-for-optimal-home-networking/"><u>TP-Link AC1200 WiFi Expander Re305: An Expert Review for Optimal Home Networking</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-your-origin-game-setup-heres-how-you-can-fix-it/"><u>Trouble with Your Origin Game Setup? Here's How You Can Fix It</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-iphone-photography-dealing-with-unresponsive-image-capture-functionality/"><u>Troubleshooting Tips for iPhone Photography: Dealing with Unresponsive Image Capture Functionality</u></a></li>
 </ul></div>
 

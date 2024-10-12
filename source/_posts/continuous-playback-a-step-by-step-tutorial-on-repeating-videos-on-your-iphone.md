@@ -1,7 +1,7 @@
 ---
 title: "Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone"
-date: 2024-10-02T16:41:09.647Z
-updated: 2024-10-06T18:21:26.488Z
+date: 2024-10-11T07:05:03.738Z
+updated: 2024-10-12T12:55:05.711Z
 tags:
   - ios
 categories:
@@ -17,10 +17,16 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 * [Make a YouTube Video Play in a Loop on iPhone](https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 * To make a YouTube video play in a loop on your iPhone, tap the three dots on the video playback page and select "Loop Video".
 
  Using just the [built-in features in iPhone's Photos](https://screen-recording.techidaily.com/new-2024-approved-android-capture-king-spam-free-edition/) and YouTube app, you can make your videos play in a loop for as long as you want. This eliminates the need to manually re-play your videos, and we'll show you how to do that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Play a Video in iPhone's Photos App in a Loop
 
@@ -49,22 +62,15 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select "Options" at the lower-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/3-iphone-slideshow-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the "Slideshow Options" page, tap "Theme."
 
 ![Select "Theme."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-iphone-slideshow-theme.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the "Themes" screen, choose a simple theme so you can focus on your video. "Origami" is a good option. Then, in the top-left corner, tap "Back."
@@ -74,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  Turn off the slideshow music so you can hear your video's audio. Do this by selecting "Music" and tapping "None." Then go back to the previous page.
 
 ![Select "Music" and tap "None."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-disable-iphone-slideshow-music.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Put your video in a loop by enabling the "Repeat" option. Then, in the top-right corner, tap "Done" to save your changes.
 
@@ -99,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  On the video playback page, in the top-right corner, tap the three dots.
 
 ![Select the three dots in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-youtube-video-menu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From the open menu, select "Loop Video."
 
@@ -121,24 +127,20 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-exclusive-ig-edits-for-apple-and-android-users/"><u>[New] Exclusive IG Edits for Apple & Android Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-streamlining-media-formats-from-srt-to-advanced-standards-for-2024/"><u>[New] Streamlining Media Formats From SRT to Advanced Standards for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-earn-big-on-tiktok-unveiling-the-top-8-profitable-approaches/"><u>[Updated] 2024 Approved Earn Big on TikTok Unveiling the Top 8 Profitable Approaches</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-streamlining-meetings-with-snap-camera-on-teams/"><u>[Updated] 2024 Approved Streamlining Meetings with Snap Camera on Teams</u></a></li>
-<li><a href="https://os-tips.techidaily.com/creating-custom-iphone-ringtones-from-dvd-audio-tracks-a-step-by-step-guide/"><u>Creating Custom iPhone Ringtones From DVD Audio Tracks: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-these-4-effective-ways-to-track-down-your-missing-ios-device/"><u>Discover These 4 Effective Ways to Track Down Your Missing iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easily-stream-from-apple-to-microsoft-connect-your-iphone-to-xbox-one/"><u>Easily Stream From Apple to Microsoft: Connect Your iPhone to Xbox One</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oppo-a78-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Oppo A78</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-build-with-gskills-trident-z5-rgb-memory-sticks-an-ideal-choice-for-2x48gb-motherboard-setups/"><u>Elevate Your Build with G.SKILL's Trident Z5 RGB Memory Sticks - An Ideal Choice for 2X48GB Motherboard Setups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/freies-installieren-von-geometry-dash-vollstandiger-losung-auf-iosipados-professionelle-tipps-zum-herunterladen/"><u>Freies Installieren Von Geometry Dash Vollständiger Lösung Auf iOS/iPadOS - Professionelle Tipps Zum Herunterladen</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-enhance-image-clarity-a-comprehensive-guide-for-iphone-users/"><u>How to Enhance Image Clarity: A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-blithe-clip-recorder-appraisal/"><u>In 2024, Blithe Clip Recorder Appraisal</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/leading-password-management-solutions-for-iphones-unlock-easily-with-the-best-3-options-available-today/"><u>Leading Password Management Solutions for iPhones: Unlock Easily with the Best 3 Options Available Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-resolution-of-livekernelevent-error-number-117/"><u>Mastering the Resolution of LiveKernelEvent Error Number 117</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-enhance-ipad-speed-and-address-slow-down-issues-effectively/"><u>Quick Guide: Enhance iPad Speed & Address Slow Down Issues Effectively</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-mastering-zoom-functionality-on-your-iphone-with-five-simple-techniques/"><u>Quick Guide: Mastering Zoom Functionality on Your iPhone with Five Simple Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/three-effective-methods-to-uninstall-lightspeed-mdm-user-profiles/"><u>Three Effective Methods to Uninstall LightSpeed MDM User Profiles</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-h265hevc-video-compression-tools-a-guide-to-efficiently-encoding-hd-and-4k-content/"><u>Top H.265/HEVC Video Compression Tools: A Guide to Efficiently Encoding HD and 4K Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-capturing-adventures-in-high-definition-with-intova-x/"><u>[Updated] 2024 Approved Capturing Adventures in High Definition With Intova X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-silent-sounds-garagebands-volume-control-magic/"><u>[Updated] Mastering Silent Sounds Garageband's Volume Control Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-review-for-hero4-black/"><u>Complete Review for Hero4 Black</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-home-film-expertise-in-a-flash-top-5-diy-tips-for-speed/"><u>In 2024, Home Film Expertise in a Flash Top 5 DIY Tips for Speed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-video-retrieval-how-to-restore-accidentally-deleted-footage/"><u>IPhone Video Retrieval: How to Restore Accidentally Deleted Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-ultimate-guide-to-manycam-and-virtual-camera-applications/"><u>Live Streaming Mastery: Ultimate Guide to ManyCam and Virtual Camera Applications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4-compression-mastery-minimize-size-while-maintaining-superior-quality/"><u>MP4 Compression Mastery: Minimize Size While Maintaining Superior Quality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/professional-stability-systems-for-youtube-filmmakers/"><u>Professional Stability Systems for YouTube Filmmakers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/realms-unchained-guide-to-the-best-of-no-cost-mmos-for-2024/"><u>Realms Unchained Guide to the Best of No-Cost MMOs for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-to-retrieve-deleted-snaps-on-iphone-and-android-devices/"><u>Simple Guide: How to Retrieve Deleted Snaps on iPhone and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mastering-iphone-backup-password-restoration/"><u>Step-by-Step Tutorial on Mastering iPhone Backup Password Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-returning-ios-device-to-original-state-and-recovering-data-via-itunes-or-finder/"><u>Step-by-Step Tutorial: Returning iOS Device to Original State & Recovering Data via iTunes or Finder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-image-restoration-apps-on-windowsmac-2024-edition/"><u>The Ultimate Guide to the Top 5 iPhone Image Restoration Apps on Windows/Mac, 2024 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-essential-ios-applications-for-effortlessly-retrieving-lost-iphone-contact-details/"><u>Top 6 Essential iOS Applications for Effortlessly Retrieving Lost iPhone Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-for-restoring-lost-notes-on-any-iphone-version-models-from-iphone-4-to-iphone-12/"><u>Ultimate Troubleshooting for Restoring Lost Notes on Any iPhone Version (Models From iPhone 4 to iPhone 12)</u></a></li>
 </ul></div>
 

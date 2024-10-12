@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues"
-date: 2024-10-02T17:48:20.717Z
-updated: 2024-10-06T16:35:18.035Z
+date: 2024-10-08T04:14:51.010Z
+updated: 2024-10-11T23:11:21.041Z
 tags:
   - ios
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
  Wearing your Apple Watch to bed only to discover it’s not tracking your sleep is frustrating. This problem can appear randomly, for seemingly no reason. Here are some tips on getting it working again.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Make Sure Sleep Tracking is Turned On
 
  Sleep tracking is an optional function of your Apple Watch, so you’ll need to turn it on to use it. [Set up sleep tracking on your Apple Watch](https://instagram-clips.techidaily.com/updated-2024-approved-developing-dynamic-instagram-highlights/) using the Sleep app on your Watch (tap “Use This Watch for Sleep”) or under Watch > Sleep on your iPhone.
@@ -42,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
  You might also want to have a look under Health > Sleep > Data Sources & Access to make sure your Apple Watch is listed as a data source. If it’s not, keep reading for a fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Set Up a Sleep Schedule
 
  In theory, all you need to track sleep with your Apple Watch is to turn the feature on and set up a sleep schedule. This effectively tells your Apple Watch when you’re going to be in bed so it can monitor your vitals and detect sleep stages.
@@ -51,22 +51,15 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 ![Select the days of the week and time to set up a sleep schedule.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_set_day.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ensure you set a sleep schedule that covers every day of the week. So if you normally wake up at 7 am with an alarm on a weekday and like to sleep in on the weekends, make a separate schedule that applies only to the weekends _without_ an alarm.
 
  If you’re noticing gaps in your sleep data that fall on the weekend, it could be because you only set up a sleep schedule that applies to weekdays.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Reset Your Sleep Schedule to Resolve Issues
 
@@ -78,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
  This could help, but you should also…
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Make Sure You’re Using Sleep Focus
 
  When I turned Sleep Focus off one night, my Watch randomly didn’t record my sleep. Apple’s own [support document](https://support.apple.com/en-au/guide/watch/apd830528336/watchos) states that: “Apple Watch tracks your sleep based on the sleep schedule you create,” but also goes on to note that “Apple Watch can also track your sleep when your Sleep Focus starts.”
@@ -86,31 +86,11 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Make your sleep schedule mirror your Sleep Focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can go to Settings > Focus > Sleep and tap “Schedule” to set your own time. When your alarm goes off in the morning, the Sleep Focus will be disabled. If you have no alarm set, you’ll need to disable Sleep Focus on your Apple Watch using Control Center (tap the Side button once, then tap the “Bed” icon).
 
  There’s a lot of anecdotal evidence online that enabling Sleep Focus seems to help resolve issues with the Apple Watch recording sleep. One [Reddit commenter](https://www.reddit.com/r/AppleWatch/comments/yrq8un/comment/j4unvzh/) cites this as a fix for the Apple Watch not showing up as a data source, while another Apple Support Communities member [claims](https://discussions.apple.com/thread/254876987?answerId=260088273022#260088273022) that Sleep Focus is necessary for their Watch to record sleep.
 
  Like your sleep schedule, make sure this Focus mode is set to enable every day of the week.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Remove and Prioritize Data Sources
 
@@ -120,14 +100,14 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Setting sleep data source priority in the Apple Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/data_sources.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To make changes, you’ll need to tap “Edit” at the top of the “Data Sources & Access” screen. You can then tap a source to disable it, or tap and drag (using the horizontal lines) to reorder. Place your Apple Watch at the top of the stack, then hit “Done.”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Make Sure You Sleep for at Least Four Hours
 
@@ -138,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
  One night I went to bed without enough charge (Apple recommends 30% to see you through the night) and I woke up to a dead Apple Watch. This meant that my sleep data wasn’t recorded. Maybe the Watch died before I met the prerequisite of four hours of sleep, or maybe the data is lost if Sleep Focus doesn’t turn off "cleanly" in the morning.
 
 ![An Apple Watch Series 9 being charged.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53213258883_bbc5534fec_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -161,6 +148,13 @@ Hannah Stryker / How-To Geek
 
 ![Unpairing an Apple Watch using the iPhone Watch app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/unpair_watch.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll need to set the Watch up again by tapping “Add Watch” on the same screen, then pointing the camera at the pairing pattern that displays on your Apple Watch.
 
 ---
@@ -182,24 +176,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-maximizing-your-idevices-screen-record-functionality/"><u>[New] 2024 Approved Maximizing Your iDevice's Screen Record Functionality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-crafting-co-branded-narratives-for-youtube-audiences/"><u>[New] Crafting Co-Branded Narratives for YouTube Audiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-master-the-art-of-recording-10-best-no-cost-mac-software/"><u>[New] In 2024, Master the Art of Recording 10 Best No-Cost Mac Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-crafting-compelling-stories-unveiling-the-secrets-to-winning-facebook-bios/"><u>[Updated] In 2024, Crafting Compelling Stories Unveiling the Secrets to Winning Facebook Bios</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-premier-mac-tools-beyond-bandicam/"><u>2024 Approved Premier Mac Tools Beyond Bandicam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-how-to-embed-transcripts-on-instagram-stories/"><u>Complete Walkthrough: How To Embed Transcripts On Instagram Stories</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-for-when-your-airpods-refuse-to-pair-with-a-macbook-a-step-by-step-guide/"><u>Effective Solutions for When Your AirPods Refuse to Pair With a MacBook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficiently-relocating-your-complete-mac-photography-archive-onto-an-outer-storage-device/"><u>Efficiently Relocating Your Complete Mac Photography Archive Onto an Outer Storage Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-using-the-activity-monitor-on-a-mac-for-efficient-system-supervision/"><u>Guide: Using the Activity Monitor on a Mac for Efficient System Supervision</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-perform-a-clean-install-of-macos-on-your-macbook-pro-before-resale/"><u>How to Perform a Clean Install of macOS on Your MacBook Pro Before Resale</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-surging-views-selecting-best-hashtags-for-yt/"><u>In 2024, Surging Views Selecting Best Hashtags for YT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-next-big-thing-in-gaming-the-xbox-vr-headset-specs-release-info-and-pricing-revealed/"><u>Inside Look at the Next Big Thing in Gaming: The Xbox VR Headset – Specs, Release Info & Pricing Revealed!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-se-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone SE in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-your-mac-login-credentials-easy-steps-to-recover-or-reset-your-mac-password/"><u>Lost Your Mac Login Credentials? Easy Steps to Recover or Reset Your Mac Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcoming-password-issues-on-macbook-proair-and-imac-effective-techniques-for-restoration/"><u>Overcoming Password Issues on MacBook Pro/Air & iMac - Effective Techniques for Restoration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-how-to-recover-deleted-admin-username-and-password-on-macos-with-minimal-fuss/"><u>Quick Tips: How to Recover Deleted Admin Username & Password on macOS with Minimal Fuss</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-safari-problems-on-mac-for-enhanced-browsing/"><u>Resolving Safari Problems on Mac for Enhanced Browsing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ryzen-9-9950x-world-record-breakthrough-in-cinebench-r23-tests-achieved-with-a-blistering-65-ghz-frequency/"><u>Ryzen 9 9950X World Record Breakthrough in Cinebench R23 Tests, Achieved with a Blistering 6.5 GHz Frequency</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-rebuilding-and-resetting-your-macbook-pros-os-x-system-prior-to-selling/"><u>Step-by-Step Guide: Rebuilding and Resetting Your MacBook Pro's OS X System Prior to Selling</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-easy-on-methods-for-fish-voice-change-using-windows-platforms-for-2024/"><u>[Updated] Easy-On Methods for Fish Voice Change Using Windows Platforms for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-m6-pro-4g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-unstick-your-windows-keyboard-buttons-a-complete-guide/"><u>How to Unstick Your Windows Keyboard Buttons – A Complete Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-x50-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor X50 Screen | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-it-worth-investing-in-an-apple-pencil-when-you-purchase-an-ipad/"><u>Is It Worth Investing in an Apple Pencil When You Purchase an iPad?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/measuring-daily-movement-with-just-your-smartphone-tips-for-iphone-and-android-users/"><u>Measuring Daily Movement with Just Your Smartphone - Tips for iPhone and Android Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/meet-the-new-nomad-mini-tracker-your-personal-battery-powered-location-finder-on-a-credit-card/"><u>Meet the New Nomad Mini Tracker: Your Personal, Battery-Powered Location Finder on a Credit Card!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mophies-latest-charge-case-for-iphone-13-reviewed-is-the-additional-battery-worth-the-trade-offs/"><u>Mophie's Latest Charge Case for iPhone 13 Reviewed: Is the Additional Battery Worth the Trade-Offs?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigate-without-worry-apples-latest-update-brings-offline-functionality-to-its-mapping-service/"><u>Navigate Without Worry! Apple's Latest Update Brings Offline Functionality to Its Mapping Service</u></a></li>
+<li><a href="https://os-tips.techidaily.com/practical-comparison-choosing-between-claude-and-chatgpt-for-your-everyday-needs/"><u>Practical Comparison: Choosing Between Claude and ChatGPT for Your Everyday Needs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recognizing-when-its-time-5-clear-indicators-for-an-immediate-smartphone-upgrade/"><u>Recognizing When It's Time: 5 Clear Indicators for an Immediate Smartphone Upgrade</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlock-your-best-freefire-videos-with-key-insights/"><u>Unlock Your Best FreeFire Videos with Key Insights</u></a></li>
 </ul></div>
 

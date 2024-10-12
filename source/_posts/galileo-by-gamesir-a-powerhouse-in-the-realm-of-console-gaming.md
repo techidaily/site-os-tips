@@ -1,7 +1,7 @@
 ---
 title: "Galileo by GameSir: A Powerhouse in the Realm of Console Gaming"
-date: 2024-09-10T10:43:14.533Z
-updated: 2024-09-11T10:43:14.533Z
+date: 2024-10-05T08:44:22.244Z
+updated: 2024-10-11T17:12:54.520Z
 tags:
   - ios
 categories:
@@ -22,20 +22,6 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 ![Coros Apex 2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/coros-apex-2-pro.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  GameSir G8 Galileo Mobile Gaming Controller
 
@@ -85,20 +71,6 @@ Expand
 
 [$79.99 at Amazon](https://www.amazon.com/GameSir-Galileo-Controller-Android-Gamepad-Joysticks/dp/B0CSXVQ3NZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001946&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgamesir-g8-galileo-review%2F&asc%5Fcampaign=Affiliate) [$79.99 at GameSir](https://www.gamesir.hk/products/gamesir-g8-galileo) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Comfort and Size: Did the Duke Have It Right?
 
  I know the original [Xbox’s Duke controller](https://www.forbes.com/sites/mitchwallace/2021/09/04/the-giant-xbox-duke-controller-is-getting-a-20th-anniversary-makeover/?sh=182f8e411c5f) hasn’t been the best example of a shining achievement in gaming, but after some time with the G8 Galileo, I’m wondering if maybe we’ve been overcompensating with small, scrunched controller designs and not even knowing it. I use a DualShock 4 and an official Xbox wireless controller several times a week, and for so long they both felt like the ideal size. Now, with the G8 in recent memory, I pine for something a little more substantial.
@@ -106,20 +78,6 @@ Expand
  GameSir’s G8 Galileo mobile controller, compatible with most Android devices, features all the expected buttons, from d-pads to thumbsticks and triggers, but moving between them feels more natural and unexpectedly more comfortable for my fingers. I had to make sure I wasn’t going crazy, so I tested it on a game that, on a normal controller, was murder on my stiff, old, arthritic hands—"Doom Eternal."
 
 ![GameSir G8 Galileo closeup of buttons with phone playing Brawlhalla](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/53377669744_b18b402354_o.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Sergio Rodriguez / How-To Geek
 
@@ -129,20 +87,6 @@ Sergio Rodriguez / How-To Geek
 
  Due to its versatility, it also is the most customizable way to play, at least when compared to the console’s shrinking to a handheld, convenient size.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Button Mapping and Customization Enhance the Experience
 
  As with [GameSir’s X2 Pro controller](https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-pattern-lock-without-factory-reset-by-drfone-android/), a big part of the experience with the G8 is customizing it to your liking. In fact, it’s bigger. With this model, customization goes a step further than previous, with options for button mapping accompanied by a set of different textured thumbsticks and the ability to swap between PlayStation, G-Touch, and Android modes on the fly.
@@ -151,19 +95,12 @@ Sergio Rodriguez / How-To Geek
 
 ![GameSir Mobile Controller faceplate removed to show interchangeable thumbstick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/gamesir-mobile-controller-faceplate.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Mark LoProto / How-To Geek
 
@@ -172,6 +109,19 @@ Mark LoProto / How-To Geek
  The app isn’t essential, but it condenses your entire mobile gaming experience into one location. From the home screen, I could quickly access Xbox Game Pass, PS Remote Play, and Steam Link, along with any other games or apps I added manually. If the point of a mobile cloud controller is convenience, GameSir hit a home run.
 
  Of course, even the best stumble, and a few things are holding the G8 back from near perfection. Unfortunately, much of it, GameSir has no control of.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Some Frequent Hiccups
 
@@ -183,19 +133,12 @@ Close
 
  It’s not a dealbreaker at all, and there are plenty of benefits that come with the app to warrant using it, but as I watch my phone’s 128GB fill up, I get a little itchy at being forced to use more software. Especially when it just kind of serves as a bridge to a different app, and that’s kind of where my biggest problem lies.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  It’s All a Matter of Apps
 
@@ -219,25 +162,12 @@ Sergio Rodriguez / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #####  GameSir G8 Galileo Mobile Gaming Controller
 
@@ -253,8 +183,6 @@ GameSir's G8 Galileo takes the best parts of console gaming and condenses it int
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,12 +190,24 @@ GameSir's G8 Galileo takes the best parts of console gaming and condenses it int
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-optimizing-ad-revenue-on-youtube-with-new-strategies/"><u>[New] 2024 Approved Optimizing Ad Revenue on YouTube with New Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-key-pages-to-acquire-text-styling-assets/"><u>[New] Key Pages to Acquire Text Styling Assets</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-installing-tiktok-your-path-to-joyful-macbook-experience-for-2024/"><u>[Updated] Installing TikTok Your Path to Joyful MacBook Experience for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ent-streaming-stars/"><u>Affluent Streaming Stars</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-4-the-vanguard-of-verified-social-networking/"><u>ChatGPT 4: The Vanguard of Verified Social Networking</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-a-red-screen-on-your-iphone-expert-tips-and-solutions/"><u>How to Fix a Red Screen on Your iPhone: Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-relocate-data-from-solid-state-drive-to-hard-disk-drive-in-windows-versions/"><u>How to Relocate Data From Solid State Drive to Hard Disk Drive in Windows Versions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-unresponsive-apps-essential-solutions-for-ios-and-android-users/"><u>How to Troubleshoot Unresponsive Apps: Essential Solutions for iOS and Android Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-zero-30-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Zero 30 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-iphone-mailbox-items-expert-tips-and-troubleshooting-steps/"><u>Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/secret-strategies-to-outshine-with-canva-photos-for-2024/"><u>Secret Strategies to Outshine with Canva Photos for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-process-restoring-an-iphones-factory-settings-post-jailbreak/"><u>Step-by-Step Process: Restoring an iPhone's Factory Settings Post-Jailbreak</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-cheap-cameras-for-dynamic-shots/"><u>Top 10 Cheap Cameras For Dynamic Shots</u></a></li>
+</ul></div>
 

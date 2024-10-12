@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Productivity: A Step-by-Step Guide on Setting Up Your iPad as a Secondary Display for Windows and macOS Computers"
-date: 2024-10-04T18:30:35.166Z
-updated: 2024-10-06T16:29:51.745Z
+date: 2024-10-06T00:25:36.522Z
+updated: 2024-10-12T11:59:10.977Z
 tags:
   - ios
 categories:
@@ -15,6 +15,13 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 * [How to Use iPad as a Second Monitor For Windows](https://eaxpv-info.techidaily.com/new-how-to-live-without-the-convenience-of-youtube-shorts-for-2024/)
 * [How to Use iPad as a Second Display For Your Mac](https://hardware-reviews.techidaily.com/expert-tips-on-hardware-from-toms-technology-corner/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Sign in to "Duet Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/IMG_0049.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first time you use Duet Display, you'll need to connect your iPad to your PC [with a cable](https://games-able.techidaily.com/bypassing-steam-disconnection-in-windows-11/). We can switch to wireless mode for future connections later.
 
  Once the devices are connected with a cable, and Duet Display is signed in and running on both, you'll see a brief zoom-out animation on your Windows display, and the desktop will be extended to your iPad.
@@ -43,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 ![Duet Display extending displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/PXL_20230518_192447239.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -55,27 +81,20 @@ Joe Fedewa / How-To Geek
 
 ![Select "Display Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should see two screens--one representing your main computer monitor (1), and the other representing your iPad (2). Click and drag the iPad screen to position it as it's positioned in real life, then click "Apply."
 
 ![Move display and click "Apply."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is also where you can choose to "Extend These Displays" or "Duplicate These Displays," which is screen mirroring.
 
 ![How to use Displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-29-46.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, let's take a look at Duet Display's settings. Open the Windows app and switch to the "Settings" tab.
 
@@ -85,13 +104,6 @@ Joe Fedewa / How-To Geek
 
 ![Click "Enable Duet Air."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-30-37.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the "Connected Devices" tab, you can adjust a number of other display settings. We recommend keeping the "Frame Rate" at "60 FPS" and "Performance" at "High Power," but you can lower both if your computer isn't powerful enough to handle them or if it's losing too much battery power.
 
  As for "Resolution," try a couple of options and see what works best for you. The higher you go, the slower the experience will be, but the lower you go, the less you'll be able to see on the screen.
@@ -99,10 +111,10 @@ Joe Fedewa / How-To Geek
 ![Display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-33-03.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've tweaked things to your liking, you're ready to go! It should be noted that Duet Display is also [available for macOS](https://updates.duetdisplay.com/AppleSilicon) if you happen to not like Sidecar or your Mac doesn't support the feature.
@@ -129,16 +141,22 @@ Joe Fedewa / How-To Geek
 
 ![iPad in the Mac display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-4.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the iPad itself, you'll see a sidebar with commonly used Mac controls.
 
 ![Sidecar UI showing Safari running How to Geek Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Sidecar-UI-showing-Safari-running-How-to-Geek-Website.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's the basics for Sidecar on Mac. It's a pretty remarkable and seamless experience. You can even [use your iPad with an Apple Pencil as a drawing pad for your Mac](https://extra-resources.techidaily.com/2024-approved-complete-exploration-of-morphvox-technology-for-voice-transformation/). If Sidecar is not an option for you, there are [some alternatives to try](https://screen-video-capture.techidaily.com/new-groundbreiting-recording-solutions-for-environmental-films-for-2024/).
 
@@ -163,18 +181,18 @@ Related: [How to Use Your iPad as an External Mac Display With Sidecar](https://
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-reviving-the-past-essential-vhs-visuals-in-todays-edits/"><u>[New] Reviving the Past Essential VHS Visuals in Today's Edits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-understanding-permissions-the-key-to-saving-google-meets/"><u>[New] Understanding Permissions The Key to Saving Google Meets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-complete-ginger-island-in-stardew/"><u>2024 Approved The Complete Ginger Island in Stardew</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-call-histories-from-your-smartphone/"><u>Complete Guide: Retrieving Lost Call Histories From Your Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-for-restoring-accidentally-deleted-images-from-your-iphone-device/"><u>Effective Strategies for Restoring Accidentally Deleted Images From Your iPhone Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-removed-ios-apps-and-preserving-user-information-securely/"><u>Expert Tips for Retrieving Removed iOS Apps and Preserving User Information Securely</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-amplify-your-influence-the-ultimate-list-of-instagram-apps/"><u>In 2024, Amplify Your Influence The Ultimate List of Instagram Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-itel-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Itel Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vanguard-websites-for-3d-letterforms/"><u>In 2024, Vanguard Websites for 3D Letterforms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/recover-absent-watch-icon-on-fb-for-2024/"><u>Recover Absent Watch Icon on FB for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-deleted-messages-across-iphone-models-iphone-5-4s-6-etc/"><u>Step-by-Step Guide: Retrieving Deleted Messages Across iPhone Models (iPhone 5, 4S, 6, Etc.)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-deleted-text-messages-from-your-ipad-or-ipad-mini/"><u>Step-by-Step Guide: Retrieving Deleted Text Messages From Your iPad or iPad Mini</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/stream-side-stacking-pewdiepies-payday-portion/"><u>Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-key-10-acoustic-amplifiers-for-android-ios/"><u>[New] 2024 Approved Key 10 Acoustic Amplifiers for Android, iOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-20-pro-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-basics-of-isoiec-19770-22e09-essential-information-on-software-identification-markers/"><u>Exploring the Basics of ISO/IEC 19770-2:2E09 – Essential Information on Software Identification Markers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-music-download-tips-expert-guide-to-enriching-your-ipads-playlist-at-no-cost/"><u>Free Music Download Tips: Expert Guide to Enriching Your iPad's Playlist at No Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-performance-premier-all-in-one-cooler-reviews-and-comparisons/"><u>Leading Performance: Premier All-In-One Cooler Reviews & Comparisons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-or-stolen-how-to-retrieve-your-missing-iphone-safely/"><u>Lost or Stolen? How to Retrieve Your Missing iPhone Safely</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-7-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 7 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-personal-reminders-a-step-by-step-guide-to-enabling-passcode-locks-in-ios-notes/"><u>Secure Your Personal Reminders: A Step-by-Step Guide to Enabling Passcode Locks in iOS Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719372954607-swift-rescue-solving-windows-problems-with-expertise/"><u>Swift Rescue: Solving Windows Problems with Expertise</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-no-cost-sms-services-sendreceive-messages-using-any-device/"><u>The Ultimate List of No-Cost SMS Services: Send/Receive Messages Using Any Device!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-android-phones-address-book-guide-a-beginners-tutorial/"><u>Unlocking Your Android Phone's Address Book Guide: A Beginner's Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-hackers-seek-out-chatgpt-conversations/"><u>Why Hackers Seek Out ChatGPT Conversations?</u></a></li>
 </ul></div>
 

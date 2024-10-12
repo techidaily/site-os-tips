@@ -1,7 +1,7 @@
 ---
 title: Review of the Twelve South Butterfly Dual-Function Power Bank with MagSafe - Perfect for On-the-Go Charging
-date: 2024-09-10T10:42:20.183Z
-updated: 2024-09-11T10:42:20.183Z
+date: 2024-10-08T10:47:27.241Z
+updated: 2024-10-12T06:56:09.996Z
 tags:
   - ios
 categories:
@@ -20,20 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Twelve South doesn’t label its new [ButterFly 2-in-1 MagSafe Charger](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) as a travel accessory, and you can use it at home, but it is, in fact, a device meant to pack away and travel with. It’s great because the petite iPhone and Apple Watch charger bends, tilts, and snaps together, all in the name of functional portability.
 
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
 
@@ -68,43 +54,9 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 [$129.95 at Twelve South](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) [$129.95 at Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  The ButterFly 2-in-1 Charger Is Perfectly Small
 
 ![Twelve South Butterfly charger next to iPhone for thickness comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-thickness-comparison.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek
 
@@ -122,23 +74,23 @@ Hannah Stryker / How-To Geek
 
  To help offset some of the cost, the ButterFly charger comes with a 30W USB-C charger, a braided USB-C cable, and international wall adapters. It’s certainly a nice touch, but I’ll only be adding the cable to my collection. The power adapter isn’t huge, but it is still nearly the same volume as the ButterFly itself. And the international adapters seem like a waste all around. (Anyone willing to buy a $130 charger _probably_ already has an international plug solution.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Practical For Packing Compared to Other Products
 
 ![Twelve South Butterfly charger with accessories laid out on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-with-accessories.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek
 
@@ -154,6 +106,13 @@ Hannah Stryker / How-To Geek
 
 ![iPhone horizontal on the Twelve South ButterFly 2-in-1 charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/iphone-twelve-south-stand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  When each device is charging by itself, the other side is folded underneath, facedown. I can’t think of times when I would only want to charge my watch, but using it for an iPhone without having the watch portion spread out is a nice touch.
@@ -164,23 +123,16 @@ Hannah Stryker / How-To Geek
 
  The ButterFly 2-in-1 MagSafe Charger is available now, directly from Twelve South and Apple. It has been back ordered at [Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) until early February, but more supply should be available in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Twelve South ButterFly 2-in-1 MagSafe Charger?
 
 ![Apple Watch Charger on Twelve South standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/apple-watch-charger-on-twelve-south-but.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek
 
@@ -191,26 +143,6 @@ Hannah Stryker / How-To Geek
  I agree that the value is not ideal here. Other options can accomplish similar things for much cheaper. But the product itself performs well with only minor cosmetic distractions. So, if your budget is flexible or you travel enough to justify it, then the ButterFly is a solid product.
 
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
 
@@ -242,8 +174,6 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,12 +181,20 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-is-auroras-premium-tech-a-wise-investment-in-2024/"><u>[New] Is Aurora's Premium Tech a Wise Investment, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-in-class-iphone-and-android-video-enhancers/"><u>[Updated] 2024 Approved Best-In-Class iPhone and Android Video Enhancers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-finding-your-audio-voice-match-the-perfect-mic-to-your-channels-character/"><u>[Updated] Finding Your Audio Voice Match the Perfect Mic to Your Channel's Character</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-saving-smiles-the-ultimate-list-of-twitvid-tools/"><u>[Updated] In 2024, Saving Smiles The Ultimate List of TwitVid Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-tips-for-multisnap-creation-on-snapchat-for-2024/"><u>[Updated] Innovative Tips for Multisnap Creation on Snapchat for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-touch-id-issues-fast-top-10-remedies-for-iphone-and-ipad/"><u>Fix Your Touch ID Issues Fast: Top 10 Remedies for iPhone and iPad</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-note-30-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Note 30 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x8b-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ovids-metamorphoses-book-14-translated-by-a-w-mair-and-j-g-hanhardt-loeb-classical-library/"><u>Ovid's Metamorphoses, Book 14, Translated by A. W. Mair and J. G. Hanhardt (Loeb Classical Library)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/return-crafting-kit/"><u>Return Crafting Kit</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-tiktok-issues-a-comprehensive-troubleshooting-guide-for-android-and-ios-users/"><u>Solving TikTok Issues: A Comprehensive Troubleshooting Guide for Android and iOS Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-dual-authentication-on-your-apple-id/"><u>Step-by-Step Guide: Activating Dual-Authentication on Your Apple ID</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-safely-crack-into-your-zte-smartphone/"><u>Ultimate Guide: How to Safely Crack Into Your ZTE Smartphone</u></a></li>
+</ul></div>
 

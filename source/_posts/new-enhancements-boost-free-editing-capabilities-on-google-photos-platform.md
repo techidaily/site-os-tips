@@ -1,27 +1,13 @@
 ---
 title: New Enhancements Boost Free Editing Capabilities on Google Photos Platform
-date: 2024-09-10T10:40:09.427Z
-updated: 2024-09-11T10:40:09.427Z
+date: 2024-10-07T17:38:09.942Z
+updated: 2024-10-12T08:24:16.416Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-photos-app-in-an-app-folder.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## New Enhancements Boost Free Editing Capabilities on Google Photos Platform
 
@@ -32,20 +18,6 @@ Google Photos gives you some photo storage and editing tools for free, but getti
  The full list of features now available for free includes Magic Eraser, Photo Unblur, HDR effect, Portrait blur, Color pop, Portrait light, Sky suggestions, Cinematic photos, Styles in the collage editor, and Video effects. Magic Eraser is probably the most useful tool there, and it was initially exclusive to Pixel phones until [rolling out as a paid subscription feature in February 2023](https://some-skills.techidaily.com/2024-approved-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/).
 
 ![Comparison of Google Photos editing features.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/blogheader_april_gtm_2024-width-1200-format-webp-copy.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Google
 
@@ -65,8 +37,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,12 +44,31 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-prime-video-titans-the-tweeted-and-tested-binge-masters/"><u>[New] 2024 Approved Prime Video Titans The #Tweeted and Tested Binge Masters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-2021s-best-screen-capture-tools-roundup/"><u>[Updated] 2024 Approved The 2021'S Best Screen Capture Tools Roundup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-and-tricks-for-effective-cd-handling-with-wmp/"><u>2024 Approved Tips & Tricks for Effective CD Handling with WMP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-look-back-the-evolution-of-apple-watch-ultra-after-its-first-year-in-the-market/"><u>A Look Back: The Evolution of Apple Watch Ultra After Its First Year in the Market</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/easy-plot-development-basics/"><u>Easy Plot Development Basics</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-for-downloading-and-installing-aoc-driver-software-on-various-windows-versions/"><u>Easy Steps for Downloading and Installing AOC Driver Software on Various Windows Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-in-anthem-after-upgrading-to-windows-11/"><u>How to Restore Audio in Anthem After Upgrading to Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-m14-4g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy M14 4G Without PUK Codes</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-success-the-path-to-parody-proficiency/"><u>Spoofing Success The Path to Parody Proficiency</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-phones-hidden-potential-with-live-photo-screen-magic-the-ultimate-underrated-ios-treat/"><u>Unlock Your Phone's Hidden Potential with Live Photo Screen Magic: The Ultimate Underrated iOS Treat</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-secret-how-smartphones-match-pc-performance-without-cooling-fans/"><u>Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-top-10-secret-enhancements-in-ios-17/"><u>Unveiling the Top 10 Secret Enhancements in iOS 17</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-enhancements-a-major-improvement-for-web-applications-on-ios-devices/"><u>Upcoming Enhancements: A Major Improvement for Web Applications on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-i-prefer-airpods-to-soundbars-with-my-tv-the-top-four-reasons-explained/"><u>Why I Prefer AirPods to Soundbars with My TV - The Top Four Reasons Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-the-iphone-15-pro-might-be-your-next-best-pick-for-portable-gaming/"><u>Why the iPhone 15 Pro Might Be Your Next Best Pick for Portable Gaming.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/your-iphone-will-host-contacts-list-in-new-app-soon-heres-why-it-matters/"><u>Your iPhone Will Host Contacts List in New App Soon - Here's Why It Matters</u></a></li>
+</ul></div>
 
-
-
-
-
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

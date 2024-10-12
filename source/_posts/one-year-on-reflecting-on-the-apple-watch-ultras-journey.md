@@ -1,33 +1,13 @@
 ---
 title: "One Year On: Reflecting on the Apple Watch Ultra's Journey"
-date: 2024-09-10T10:43:24.426Z
-updated: 2024-09-11T10:43:24.426Z
+date: 2024-10-05T18:48:02.888Z
+updated: 2024-10-12T01:12:12.611Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3de6a774edbf948a46452563c.png
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## One Year On: Reflecting on the Apple Watch Ultra's Journey
 
@@ -44,20 +24,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
  When we [reviewed the Apple Watch Ultra](https://www.reviewgeek.com/136216/apple-watch-ultra-review/) in the fall of 2022, we gave it a score of 8 out of 10 and an Editor's Choice award. Now, almost a year later, we can confidently state that Apple's largest and most-rugged Apple Watch is worth purchasing.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/f5f1153b.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -115,20 +81,6 @@ Expand
 
 [See at Amazon](http://www.amazon.com/dp/B0BDJ9M2K4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904577&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-watch-ultra-long-term-review%2F&asc%5Fcampaign=Affiliate) [$799 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-gps-cellular-49mm-titanium-case-with-midnight-ocean-band-titanium%2F6339708.p%3FskuId%3D6339708%252F) [$799 at apple](https://www.apple.com/shop/buy-watch/apple-watch-ultra/) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Evaluating Apple Watch Ultra One Year Later
 
 ![Apple Watch Ultra on a wrist showing the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/9e8eecf1-ddc8-4bcc-98e5-ff2fa78c9712.JPG) 
@@ -153,29 +105,16 @@ Tyler Hayes / How-To Geek
 
  The story of the Apple Watch Ultra is a culmination of all the little things. It’s good at the more advanced fitness tasks, but it has also been helpful for mundane daily tasks.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  An Ultra Design For the Future
 
 ![Showing the Action button on Apple Watch Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/07/2cebf0af-d53c-45af-892e-1e1585aa1524-1.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -183,19 +122,12 @@ Tyler Hayes / How-To Geek
 
  Apple doesn’t release sales figures and doesn’t comment on the percentage of different models, so it’s hard to say definitively, but again, from observation, it’s clear that Apple Watch Ultra has been a hit.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Apple Watch Ultra Health and Fitness
 
@@ -205,19 +137,12 @@ Tyler Hayes / How-To Geek
 
  Plenty of the Ultra’s niceties also play a role in fitness. The brighter screen has been easier to see during runs and buttons are ever-so-slightly easier to tap. The case and screen seem more durable, too, after banging the watch on plenty of things without a scratch to speak of.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Price and Value of Apple Watch Ultra
 
@@ -231,20 +156,6 @@ Tyler Hayes / How-To Geek
 
 ![Showing the digital crown on Apple Watch Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/07/4ccb7153-2fd7-4b57-b022-da2e6b7f26fc-1.JPG) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Tyler Hayes / How-To Geek
 
  For onlookers, the most desirable and repulsive aspect of the [Apple Watch Ultra](http://www.amazon.com/dp/B0BDJ9M2K4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904577&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-watch-ultra-long-term-review%2F&asc%5Fcampaign=Affiliate) is its size. If you’re just not interested in a bigger watch, no matter what it may offer, then it’s just not the smartwatch for you. The [Series 8](https://remote-screen-capture.techidaily.com/voice-recording-mastery-with-ipad-tools/) is a great Apple Watch, too, by the way.
@@ -254,6 +165,13 @@ Tyler Hayes / How-To Geek
  There are rumors that there will be an Apple Watch Ultra 2\. It’s unclear what improvements would come to a second version, although one report claims the [watch would get lighter while utilizing the same materials](https://www.macrumors.com/2023/07/24/apple-planning-to-reduce-apple-watch-ultra-weight/). Unless you can find a deal now, it’s probably worth waiting to see what Apple Watch Ultra 2 looks like. As I look back over my year with the first Apple Watch Ultra, it’s clear that it has been a raging success in theory and practice.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/f5f1153b.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -271,8 +189,6 @@ The Apple Watch Ultra is the most rugged in Apple's lineup of smartwatches, feat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,12 +196,24 @@ The Apple Watch Ultra is the most rugged in Apple's lineup of smartwatches, feat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-playback-problem-why-cant-i-watch-video-on-sony-a6400/"><u>[Updated] Playback Problem Why Can't I Watch Video on Sony A6400?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youthful-youtube-ventures-crafting-creative-videos-on-a-mac/"><u>2024 Approved Youthful YouTube Ventures Crafting Creative Videos on a Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-mini-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 mini Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-free-from-silent-a-guide-to-restore-your-iphones-sound/"><u>Breaking Free From Silent: A Guide to Restore Your iPhone's Sound</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-top-11-list-of-soundscape-capturers/"><u>Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-methods-to-view-battery-status-on-iphones-and-ipads/"><u>Easy Methods to View Battery Status on iPhones and iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/garuda/"><u>Garuda -</u></a></li>
+<li><a href="https://os-tips.techidaily.com/identifying-bogus-virus-alerts-learn-how-plus-discover-essential-tips-for-protection/"><u>Identifying Bogus Virus Alerts? Learn How + Discover Essential Tips for Protection!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a1x-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y17s-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y17s</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locate-your-ipad-model-details-through-its-unique-identifiers-an-easy-walkthrough/"><u>Locate Your iPad Model Details Through Its Unique Identifiers – An Easy Walkthrough</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modify-primary-save-options-for-microsoft-office-2016-word-excel-powerpoint/"><u>Modify Primary Save Options for Microsoft Office 2016 (Word, Excel, PowerPoint)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-wins-top-7-strategies-to-resolve-iphone-wi-fi-connection-problems/"><u>Quick Wins! Top 7 Strategies to Resolve iPhone Wi-Fi Connection Problems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-mystery-missing-emails-on-your-iphone-and-easy-fixes/"><u>Solving the Mystery: Missing Emails on Your iPhone and Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-tutorial-eliminating-sound-lag-and-sync-issues/"><u>Ultimate 2024 Tutorial: Eliminating Sound Lag and Sync Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-ios-13-update-enhancements-mastering-the-new-functionality-of-the-journal-application/"><u>Unveiling iOS 13 Update Enhancements: Mastering the New Functionality of the Journal Application</u></a></li>
+<li><a href="https://fox-info.techidaily.com/video-filter-installation-in-zoom-the-simplified-method/"><u>Video Filter Installation in Zoom The Simplified Method</u></a></li>
+</ul></div>
 

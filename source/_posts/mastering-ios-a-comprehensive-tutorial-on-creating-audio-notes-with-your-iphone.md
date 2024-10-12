@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS: A Comprehensive Tutorial on Creating Audio Notes with Your iPhone"
-date: 2024-10-02T18:44:43.907Z
-updated: 2024-10-06T17:17:24.460Z
+date: 2024-10-04T18:31:09.602Z
+updated: 2024-10-12T01:17:34.668Z
 tags:
   - ios
 categories:
@@ -35,30 +35,38 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Sound wave icon in the Messages app to quickly start a new voice recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Start speaking your message. If you want to take a pause, hit the stop button (with a red square icon) to pause the recording.
 
 ![Pausing a voice recording in the Messages app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-4-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap the plus (+) button (with a timestamp to its right) to resume recording and start speaking again.
 
 ![Resuming a voice recording in the Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you've finished speaking, hit the stop button again to end the recording. At any point, if you want to discard a voice recording, hit the x button.
 
 ![Discarding a recorded voice recording in the iPhone Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-6.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With your message recorded, you can either send it directly or review it. To send the message, simply hit the upward-pointing arrow button to the right of the input field.
 
@@ -72,22 +80,15 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Saving the send voice message in the Messages app on the iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-15-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or, if you want a permanent solution, you can change the expiry setting for voice messages to prevent automatic deletion and automatically save all your future voice messages. To do this, open "Settings" on your iPhone and select "Messages."
 
 ![iPhone Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll down and tap on "Expire" under the "Audio Messages" section.
@@ -99,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 ![Setting voice message expiry on iPhone to Never.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-12.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Listen and Reply to a Voice Message on Your iPhone
@@ -113,18 +114,18 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Playing a received voice message on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-23.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the voice message starts playing, slide right or left on the audio waveform to fast-forward or rewind the message.
 
  Alternatively, you can raise the phone to your ear to listen to the voice message. You'll need the Raise to Listen feature enabled for this feature to work. To turn it on, in iPhone "Settings," go to "Messages," and toggle the switch for "Raise to Listen" on.
 
 ![Enabling the Raise to Listen option in Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-25.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lastly, you can also check a voice message's content without actually playing it. Simply look at the transcript under the voice message to know what the message contains. This is useful when you're in a situation where you can't play the audio but need to check a voice message someone has sent to you.
 
@@ -141,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
  Hit the arrow button to send the message. You can also preview the message if you want.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What You Need to Know About Sending and Receiving Voice Messages on an iPhone
@@ -155,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  Apple doesn't explicitly mention how long a voice message you can send on an iPhone. But based on a few forum discussions, it looks like you can't send voice messages longer than 30 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Do Voice Messages Use the Same Read Receipt Settings as Regular Messages?
 
  Yes, Apple shows read receipts for voice messages on the Messages app.
@@ -171,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
  Lastly, if a voice message is saved, the Messages app shows "Kept" under the message to inform the other person in the conversation that their message has been saved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  What Languages Does the Transcript Feature Support?
@@ -204,16 +198,20 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-earn-wisely-the-simple-triad-method-for-scrutinizing-youtube-profits/"><u>[New] In 2024, Earn Wisely The Simple Triad Method for Scrutinizing YouTube Profits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-insights-on-market-research-for-effective-business-decisions/"><u>2024 Approved Key Insights on Market Research for Effective Business Decisions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-restoring-deleted-texts-and-notes-on-any-generation-iphones/"><u>Complete Guide: Restoring Deleted Texts & Notes on Any Generation iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-restoring-your-iphone-12-using-an-icloud-backup-a-step-by-step-walkthrough/"><u>Complete Guide: Restoring Your iPhone 12 Using an iCloud Backup - A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-guide-reactivating-a-faulty-wacom-stylus-on-pc-running-windows-11-or-10/"><u>Fix Guide: Reactivating a Faulty Wacom Stylus on PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratis-hevc-h265-videokomprimierungstool-fur-hochauflosende-4k-und-8k-wiedergabe/"><u>Gratis HEVC H.265 Videokomprimierungstool Für Hochauflösende 4K Und 8K Wiedergabe</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-iphone-contacts-efficiently-with-and-without-using-backups/"><u>How to Retrieve Lost iPhone Contacts Efficiently – With and Without Using Backups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/icloud-recovery-techniques-proven-strategies-for-retrieving-lost-messages/"><u>ICloud Recovery Techniques: Proven Strategies for Retrieving Lost Messages</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/imovie-cropping-query-the-hidden-logic-behind-it-for-2024/"><u>IMovie Cropping Query The Hidden Logic Behind It for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-software-update-quadro-rtx-6000/"><u>Latest Software Update - Quadro RTX 6000</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-effective-techniques-to-retrieve-whatsapp-data-on-ios-devices/"><u>Quick & Effective Techniques to Retrieve WhatsApp Data on iOS Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/igital-wealth-creation-through-video-networking-for-2024/"><u>[New] Digital Wealth Creation Through Video Networking for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-red-dead-redemption-2-stuck-on-loading-screen/"><u>[Solved] Red Dead Redemption 2 Stuck on Loading Screen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-photoshop-stability-enhancement-essentiality/"><u>[Updated] 2024 Approved Photoshop Stability Enhancement - Essentiality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-screen-snatchers-handbook-by-zd-software-experts-for-2024/"><u>[Updated] The Ultimate Screen Snatcher’s Handbook by ZD Software Experts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unified-iptv-streaming-services-for-2024/"><u>[Updated] Unified IPTV Streaming Services for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-corporate-mobility-manage-devices-seamlessly-using-verizon-wireless-mdm-technology/"><u>Enhance Corporate Mobility: Manage Devices Seamlessly Using Verizon Wireless MDM Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-14-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-itel-p55-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Itel P55 Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-high-performance-hardware-for-live-video-feeds/"><u>In 2024, High-Performance Hardware for Live Video Feeds</u></a></li>
+<li><a href="https://os-tips.techidaily.com/preventing-heic-photos-in-airdrop-tips-for-converting-images-on-ios-and-macos-devices/"><u>Preventing HEIC Photos in Airdrop: Tips for Converting Images on iOS and macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphone-charging-problems-effective-strategies-for-a-better-battery-life/"><u>Solving iPhone Charging Problems: Effective Strategies for a Better Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-or-removing-your-facebook-profile-from-an-iphone-device/"><u>Step-by-Step Guide: Disabling or Removing Your Facebook Profile From an iPhone Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unlocking-the-potential-of-your-iphones-wifi-sharing-abilities/"><u>Step-by-Step Instructions: Unlocking the Potential of Your iPhone's WiFi Sharing Abilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-auto-play-features-why-your-iphone-chooses-songs-on-apple-music/"><u>Understanding Auto-Play Features: Why Your iPhone Chooses Songs on Apple Music</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-screen-time-functions-and-steps-to-deactivate/"><u>Understanding iPhone Screen Time: Functions & Steps to Deactivate</u></a></li>
 </ul></div>
 

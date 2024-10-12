@@ -1,27 +1,13 @@
 ---
 title: "Mastering Device Harmony: A Step-by-Step Tutorial on iPhone and Mac Synchronization"
-date: 2024-09-10T10:38:01.115Z
-updated: 2024-09-11T10:38:01.115Z
+date: 2024-10-06T11:42:20.917Z
+updated: 2024-10-12T09:46:47.917Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947afe8b79e803b03fc556698ce.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Mastering Device Harmony: A Step-by-Step Tutorial on iPhone and Mac Synchronization
 
@@ -38,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![Check your Apple ID under System Settings on a Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/apple_id_macos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For this to work, you’ll need to be signed in to the same [Apple ID](https://ai-video-editing.techidaily.com/updated-how-to-use-deep-fried-meme-maker-for-2024/) on both devices. Make sure you’re signed in to the same account by launching Settings on an iPhone or System Settings on a Mac and checking that the same name and picture appear at the top of the menu on both devices.
 
  By default, most core apps will use iCloud for storage purposes which pushes changes to all of your connected devices. For example, if you change a contact’s number or add a new to-do item in Reminders, these changes should appear in the respective macOS apps too.
@@ -46,81 +39,32 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![View a list of apps using iCloud on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/apps_using_icloud.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Some apps like Notes specifically allow you to [separate data with “On My iPhone”](https://fox-info.techidaily.com/updated-in-2024-aspers-secrets-soundscapes-that-lull-you-to-sleep/) and “On My Mac” storage options. This can be one of the reasons why your [Apple Notes seemingly won’t sync over iCloud](https://youtube-videos.techidaily.com/updated-capture-spectacular-video-on-youtube-top-webcam-picks/). Other settings and data will sync over iCloud, like [passwords stored in your iCloud Keychain](https://video-content-creator.techidaily.com/updated-in-2024-lossless-vlc-trimming-on-mac-the-ultimate-solution-for-video-editing/), Wi-Fi credentials, Safari tabs, and [Apple Health data](https://fox-glue.techidaily.com/new-2024-approved-from-kitchens-to-cameras-7-essentials-for-flavorful-filmmaking/).
 
 !["On My iPhone" Apple Notes storage keeps things off iCloud Drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/notes_on_my_iphone.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Data stored in iCloud will often take up iCloud Storage Space, of which you get 5GB by default. There are some exceptions, like device settings, passwords, contacts, reminders, calendars, and Health data. You can view a breakdown of your iCloud usage under (System) Settings > Your Name > iCloud > Manage Storage.
 
 ![View total iCloud storage space usage on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/icloud_storage_space.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  You Can Still Sync and Backup Manually Using Finder
 
  Before macOS Catalina, iTunes was used to sync data over the iPhone. iTunes last appeared in macOS Mojave and now all syncing duties are taken care of right within Finder. The process is still almost identical, it’s just that you can now select your iPhone in the Finder sidebar rather than having to open iTunes first.
 
 ![Select your iPhone in macOS Finder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/iphone_finder.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Connect your iPhone to your Mac with [a suitable cable](https://fox-helps.techidaily.com/2024-approved-top-6-virtual-reality-vr-gloves-to-check-out/) and grant access when prompted to do so (on your Mac, and your iPhone). Now [open up Finder](https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y17s-drfone-by-drfone-virtual-android/) and under “Locations” in the sidebar select the iPhone you just plugged in.
 
@@ -132,27 +76,27 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![Transfer files to or from iPhone using Finder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/transfer_iphone_file_finder.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is a much quicker way of transferring large or numerous files. For example, saving videos shot with an app like [Filmic Pro](https://apps.apple.com/us/app/filmic-pro-video-camera/id436577167) to your Mac, or transferring a collection of tracker music files to an app like [Modizer](https://apps.apple.com/us/app/modizer/id393964792).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sync Photos and Videos with the Photos App
 
  If you’re only interested in importing your media to your Mac, you can do this using the Photos app instead. With your iPhone connected, open Photos and then choose your iPhone under the “Import” section of the sidebar. Photos will determine what is and is not in your library and you can click on “Import All New Items” to complete the sync.
 
 ![Import photos from iPhone using Photos for Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/macos_photos.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Items will be placed into your Photo library based on their metadata. You’ll also find a list of recently imported files under the “Imports” section.
 
@@ -164,6 +108,19 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![Store iPhone backups in iCloud for peace of mind](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/icloud_backups.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Since Apple disabled its Photo Stream service in mid-2023, storing your images and videos in the cloud using iCloud Photo Library (and [iCloud Shared Photo Library](https://snapchat-videos.techidaily.com/new-2024-approved-a-deep-dive-into-video-platform-wars-tiktok-vs-snapchat/)) is far more compelling than it once was. Photo Stream would push photos from your iPhone or iPad to your Mac automatically for a limited time, whereas iCloud Photo Library stores everything in the cloud.
 
 ![Media stored in iCloud Photo Library is available on all devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/photos_in_icloud.jpg) 
@@ -172,35 +129,7 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![Store Mac Desktop and Documents folders in iCloud Drive to access anywhere](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/icloud_drive_documents_desktop.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Paid iCloud storage plans, known by Apple as iCloud+, start at $0.99 per month for 50GB with options at $2.99 (200GB) and $9.99 (2TB) for those who need more storage.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  iCloud+ Comes with Other Benefits
 
@@ -214,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,12 +150,26 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-7-free-video-editing-programs-that-work-flawlessly-for-2024/"><u>[New] 7 Free Video Editing Programs That Work Flawlessly for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-leaderboard-of-first-zeoid-innovations-for-2024/"><u>[New] The Leaderboard of First Zeoid Innovations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tech-savvy-apps-for-artful-picture-presentation/"><u>[New] Top Tech-Savvy Apps for Artful Picture Presentation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unleashing-video-power-the-galaxy-s8-in-4k/"><u>[New] Unleashing Video Power The Galaxy S8 in 4K</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovate-with-ease-top-sites-for-downloadable-text-extensions-for-2024/"><u>[Updated] Innovate with Ease Top Sites for Downloadable Text Extensions for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/4k-resolution-unveiled-in-chroma-focused-lenses-for-2024/"><u>4K Resolution Unveiled in Chroma-Focused Lenses for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-iphone-security-tip-protect-your-phone-from-theft-with-these-steps/"><u>Essential iPhone Security Tip: Protect Your Phone From Theft with These Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-classic-dos-with-new-idos-3-version-your-one-stop-shop-store-destination/"><u>Experience Classic DOS with New iDOS 3 Version - Your One-Stop Shop Store Destination!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-apple-vision-pro-welcome-to-the-dawn-of-facial-recognition-technology/"><u>Exploring the Apple Vision Pro: Welcome to the Dawn of Facial Recognition Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/extend-your-iphones-power-cycle-top-5-user-friendly-tips-for-longer-battery-life/"><u>Extend Your iPhone's Power Cycle: Top 5 User-Friendly Tips for Longer Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-on-schedule-smartly-discover-how-google-maps-helps-timing-your-journey-perfectly/"><u>Get On Schedule Smartly - Discover How Google Maps Helps Timing Your Journey Perfectly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-disabling-do-not-disturb-feature-on-your-ios-device/"><u>Guide: Disabling 'Do Not Disturb' Feature on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-cozi-revolutionized-our-familys-daily-routine-the-ultimate-organizational-tool/"><u>How Cozi Revolutionized Our Family's Daily Routine: The Ultimate Organizational Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/illuminate-your-night-with-ease-the-ultimate-trick-to-enable-iphone-flashlight-via-backside-pressure/"><u>Illuminate Your Night with Ease: The Ultimate Trick to Enable iPhone Flashlight via Backside Pressure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-apples-latest-marvel-a-comprehensive-look-at-the-iphone-15-pro-with-revolutionary-titanium-frame-and-enhanced-usb-c/"><u>Inside Apple's Latest Marvel - A Comprehensive Look at the iPhone 15 Pro with Revolutionary Titanium Frame & Enhanced USB-C</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ion-air-pro-3-visionary-revolutionizing-action-video/"><u>ION Air Pro 3 Visionary - Revolutionizing Action Video</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-transforming-podcast-content-into-high-quality-mp3-audio-a-step-by-step-guide/"><u>New Transforming Podcast Content Into High-Quality MP3 Audio A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-the-persistent-windows-update-error-0x80070490-resolved/"><u>Step-by-Step Solutions to the Persistent 'Windows Update Error' - 0X80070490 Resolved</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-oneplus-6t-a-perfect-blend-of-excellence-and-economy/"><u>Unveiling the OnePlus 6T: A Perfect Blend of Excellence and Economy</u></a></li>
+</ul></div>
 

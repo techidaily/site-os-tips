@@ -1,7 +1,7 @@
 ---
 title: How to Handle Accidentally Dropping Your Phone Into Saltwater
-date: 2024-09-24T06:02:31.667Z
-updated: 2024-09-26T06:10:28.471Z
+date: 2024-10-11T02:52:46.847Z
+updated: 2024-10-11T19:54:07.940Z
 tags:
   - ios
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  You're having a great day at the beach or on the ocean, but your fingers slip, and splash! Down goes your smartphone into the briny deep---or hopefully, just into a few inches of salt water. Either scenario can be devastating, so here's what you should do.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  First, Try to Find It
@@ -38,13 +38,6 @@ Related: [What To Do If You Lose Your Two-Factor Phone](https://hardware-reviews
 
  If you have [AppleCare+ with Theft and Loss](https://support.apple.com/iphone/theft-loss-claims), you can file a claim for a lost iPhone---as long as you had "Find My" enabled on it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Turn It Off, Dry Phone as Much as You Can
 
  Once your phone is out of the water, [power it off](https://facebook-videos.techidaily.com/new-elevate-engagement-escalate-ranks-on-fb-pages/) completely. Use a clean towel to dry the phone off as much as possible. If possible, remove the SIM card tray, any memory card trays, and the battery if it is not built into the phone. If it's in a case that is not waterproof, remove the case as well.
@@ -56,10 +49,16 @@ Related: [Stop Putting Your Phone in Rice](https://sim-unlock.techidaily.com/eas
  If your phone isn't water resistant, you may have heard that placing your smartphone in rice will help dry it out, but that's [just a myth](https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/). Rice will do nothing, and leaving it sitting there will give the saltwater stuck inside the phone body extra time to corrode the electronics. If you ever want to use the phone again, you're in a [race against time](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) to disassemble the phone and clean it out before corrosion permanently damages the internal circuitry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  If Possible, Take the Phone Apart
@@ -72,6 +71,13 @@ Related: [How Water Damages Electronics](https://blog-min.techidaily.com/5-ways-
 
 Related: [How to Back Up Your iPhone With iTunes (and When You Should)](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Otherwise, Take it to a Professional
 
  Obviously, the disassembly steps above require a certain level of technical know-how and also the tools and parts to safely open a modern smartphone without damage. So if you're not comfortable with taking your phone apart, take it as soon as possible to a qualified smartphone repair shop. Tell them you dropped your phone in salt water, and they should know what to do. The phone will need immediate disassembly and deep cleaning inside and out if you want to save it.
@@ -81,10 +87,10 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  If they aren't willing to work on it right away and the phone is very important, take the phone somewhere else. If you have an iPhone, you could consider [getting an appointment](https://facebook-clips.techidaily.com/new-2024-approved-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/) at an Apple store, for example.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  An Ounce of Prevention
@@ -120,22 +126,22 @@ Inexpensive insurance against water exposure for a smartphone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-crafting-excellence-essential-tips-for-ginger-island-life-for-2024/"><u>[New] Crafting Excellence Essential Tips for Ginger Island Life for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/esigning-an-editorial-epilogue/"><u>[New] Designing an Editorial Epilogue</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-eco-effective-marketing-green-screens-and-cta-boosting/"><u>[Updated] Eco-Effective Marketing Green Screens & CTA Boosting</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoid-these-6-pitfalls-when-writing-chatgpt-prompts-for-optimal-results/"><u>Avoid These 6 Pitfalls When Writing ChatGPT Prompts for Optimal Results</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-glasses-and-screens-vrs-evolutionary-tale/"><u>Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-vivo-y78plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y78+ Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-the-art-of-obs-and-fb-live/"><u>In 2024, Mastering the Art of OBS and FB Live</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-transforming-your-ipad-into-a-secondary-monitor-for-your-mac/"><u>Step-by-Step Guide: Transforming Your iPad Into a Secondary Monitor for Your Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-to-deactivate-dnd-functionality-on-iphones/"><u>Step-by-Step Instructions to Deactivate DND Functionality on iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-growing-trend-of-oversized-phones-why-are-they-becoming-the-norm/"><u>The Growing Trend of Oversized Phones: Why Are They Becoming the Norm?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-shocking-improvement-of-airpods-pro-2-my-ultimate-review/"><u>The Shocking Improvement of AirPods Pro 2 - My Ultimate Review!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-critical-enhancements-i-expect-in-the-latest-iphone-model-before-consideration/"><u>Top 5 Critical Enhancements I Expect in the Latest iPhone Model Before Consideration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-apple-pencil-substitutes-enhance-your-ipad-experience/"><u>Top Apple Pencil Substitutes: Enhance Your iPad Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-ios-18-update-perks-every-android-fan-should-know/"><u>Top iOS 18 Update Perks Every Android Fan Should Know!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-fitness-applications-for-iphones-transform-your-body-this-summer/"><u>Top Rated Fitness Applications for iPhones: Transform Your Body This Summer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-top-10-unique-tiktok-filters-sparking-engagement/"><u>[New] 2024 Approved Top 10 Unique TikTok Filters Sparking Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synergy-strategies-for-ig-and-tiktok/"><u>[New] Synergy Strategies for IG & TikTok</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-discover-8-trusted-online-content-marketing-tools/"><u>[Updated] Discover 8 Trusted Online Content Marketing Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257121-6-effective-strategies-to-resolve-non-functioning-iphone-reminders-in-no-time/"><u>6 Effective Strategies to Resolve Non-Functioning iPhone Reminders in No Time</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/eliminate-camera-tremors-master-3-techniques-for-smoothing-shaky-footage-in-adobe-after-effects/"><u>Eliminate Camera Tremors: Master 3 Techniques for Smoothing Shaky Footage in Adobe After Effects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-refresh-the-samsung-usb-driver-on-your-smartphone/"><u>How to Refresh the Samsung USB Driver on Your Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-immediate-redirect-of-incoming-calls-to-iphones-voicemail-easy-troubleshooting-steps/"><u>How to Stop Immediate Redirect of Incoming Calls to iPhone's Voicemail: Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-6-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 6 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-syncing-problems-solved-steps-for-fixing-music-playlist-and-image-transfer-between-itunesmac-and-device/"><u>IPhone Syncing Problems Solved: Steps for Fixing Music, Playlist and Image Transfer Between iTunes/Mac and Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-these-simple-steps-to-turn-on-two-step-verification/"><u>Secure Your Apple Account with These Simple Steps to Turn On Two-Step Verification</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-to-free-an-iphone-from-persistent-earpiece-configuration/"><u>Step-by-Step Solutions to Free an iPhone From Persistent Earpiece Configuration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/struggling-with-muted-iphone-learn-effective-solutions-to-revive-its-volume/"><u>Struggling with Muted Iphone? Learn Effective Solutions to Revive Its Volume</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-solution-expert-tips-for-resolving-iphone-alarm-issues-effectively/"><u>The Ultimate Solution: Expert Tips for Resolving iPhone Alarm Issues Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-frozen-ipad-solutions-when-your-device-gets-stuck-on-the-apple-icon/"><u>Troubleshooting a Frozen iPad: Solutions When Your Device Gets Stuck on the Apple Icon</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamers-tips-shouldnt-sway-dev-motivation/"><u>Why Gamers' Tips Shouldn't Sway Dev Motivation</u></a></li>
 </ul></div>
 

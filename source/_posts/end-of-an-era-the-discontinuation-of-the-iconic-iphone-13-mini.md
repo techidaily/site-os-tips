@@ -1,27 +1,13 @@
 ---
 title: "End of an Era: The Discontinuation of the Iconic iPhone 13 Mini"
-date: 2024-09-10T10:41:06.156Z
-updated: 2024-09-11T10:41:06.156Z
+date: 2024-10-06T07:13:00.675Z
+updated: 2024-10-12T05:58:50.273Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed2333f21b240bf9f3028949436.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## End of an Era: The Discontinuation of the Iconic iPhone 13 Mini
 
@@ -30,26 +16,6 @@ Last year, when Apple released [the iPhone 14 range](https://extra-information.t
  As of the time of writing, the iPhone 13 Mini can't be bought through the Apple Store anymore, as Apple decided to discontinue the smaller model at the same time as the iPhone 12\. Currently, as Apple is getting ready to start selling the iPhone 15 and the iPhone 15 Pro this Friday, you can only order the iPhone 14, the iPhone 14 Plus, and the iPhone 13 — there's no sight of the smaller model anywhere on Apple's website anymore, and you can't choose it as a size on the iPhone 13 listing. You might still be able to get it through other retailers, as well as on physical Apple stores if you're lucky, but once stock runs out, your only option might very well be the second-hand market.
 
 ![iPhone 13 No Mini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-13-no-mini.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Apple
 
@@ -65,8 +31,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,12 +38,28 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-building-a-thriving-igtv-following-the-ultimate-guide/"><u>[New] In 2024, Building a Thriving IGTV Following The Ultimate Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-pixels-of-reality-navigating-the-world-of-instagram-authenticity-for-2024/"><u>[Updated] Pixels of Reality Navigating the World of Instagram Authenticity for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-x8b-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor X8b FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-effective-look-up-table-lut-applications-in-adobe-photoshop-cc/"><u>In 2024, Innovative Techniques for Effective Look-Up Table (LUT) Applications in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-low-cost-time-tracking-tools/"><u>In 2024, Premier Low-Cost Time Tracking Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-guide-best-ways-to-recognize-sound-in-windows-11-devices/"><u>In 2024, Quick Guide Best Ways to Recognize Sound in Windows 11 Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-anatomy-of-apple-m1-chip-redefining-tech/"><u>In 2024, The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/macrium-reflect/"><u>Macrium Reflect 快速修复：解決複制失敗 五招</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-transfer-how-to-move-your-google-images-seamlessly-into-the-cloud-on-icloud/"><u>Simple Transfer: How to Move Your Google Images Seamlessly Into the Cloud on iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-ios-push-alerts-and-hiding-lockscreen-notifications/"><u>Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/struggling-to-locate-your-essential-mobile-app-on-demand/"><u>Struggling to Locate Your Essential Mobile App on Demand?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/submerge-your-device-safely-secure-your-phone-from-splashes-and-spills-with-esrs-cutting-edge-aquatic-pouch-for-iphones/"><u>Submerge Your Device Safely: Secure Your Phone From Splashes and Spills with ESR's Cutting-Edge Aquatic Pouch for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-truth-behind-unremarkable-smartphone-aesthetics-quality-over-style/"><u>The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style</u></a></li>
+<li><a href="https://win-blog.techidaily.com/xcom-2-not-starting-troubleshooting-guide-for-windows-users/"><u>XCOM 2 Not Starting: Troubleshooting Guide for Windows Users</u></a></li>
+</ul></div>
 
-
-
-
-
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

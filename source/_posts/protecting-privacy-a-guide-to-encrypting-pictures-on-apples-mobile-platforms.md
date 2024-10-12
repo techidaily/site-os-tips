@@ -1,7 +1,7 @@
 ---
 title: "Protecting Privacy: A Guide to Encrypting Pictures on Apple's Mobile Platforms"
-date: 2024-09-10T10:43:26.882Z
-updated: 2024-09-11T10:43:26.882Z
+date: 2024-10-11T04:47:22.937Z
+updated: 2024-10-11T19:23:30.798Z
 tags:
   - ios
 categories:
@@ -26,19 +26,12 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
  Sometimes, you need to protect your iPhone or iPad photos from prying eyes that might also have access to your device. We'll show you how to protect your photos using the Photos app and the Notes app.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How Does Password Protecting Photos Work?
 
@@ -58,33 +51,12 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
 ![Enter your passcode to view your hidden photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-passcode-view-album.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  How to Password Protect Photos Using Notes
 
@@ -92,43 +64,9 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
 ![In Notes, tap the new note button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/tap_new_note_button.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  On the first line of the new note, type some text that won't attract too much attention. This will appear in the list of notes, even after you lock it.
 
 ![Name the note something inconspicuous.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-random-name.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Tap the Add Photo icon (the camera) in the toolbar. On an iPad, you'll find this at the top. On an iPhone, it'll either be above the on-screen keyboard or at the bottom of the screen.
 
@@ -136,47 +74,27 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
 ![Tap "Choose Photo or Video.?](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-choose-photo-or-video.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, tap the thumbnail of each photo you want to add (a checkmark will indicate they're selected). When you're done, tap "Add."
 
 ![Select the photo you want to protect, then tap "Add."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-add-photos.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Notes will insert the photos you selected into the note file. To lock the note, tap the Ellipsis icon (the three dots in a circle), then select "Lock."
 
 ![Tap the ellipsis icon then tap "Lock."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-select-ellipsis-then-tap-lock.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you've previously set a Notes password, you'll be asked to type it; after you do so, tap "OK."
 
@@ -184,29 +102,16 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
 ![Use the iPhone passcode or use a special password to lock the note.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-iphone-passcode-or-pw.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type a password and a hint. If your device supports it, you'll also have the option to lock Notes using Touch or Face ID. After you've typed your info and made your selections, tap "Done."
 
 ![Set your password.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-pick-iphone-password.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Notes will confirm the lock has been added, but don't walk away yet! This only enables the lock setting---you'll still have to lock the note itself to make it secure.
 
@@ -218,31 +123,18 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
 ![The "This Note is Locked" message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/12-note-is-locked.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  When Notes asks for your password, type it, and then tap "OK."
 
  You'll then see all the photos you added to the secure note.
 
  Make sure you also visit the Photos app and delete the images you just password-protected. After that, you'll need to visit the ["Recently Deleted" folder](https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-smart-8-hd-phone-by-drfone-android/) in Photos and delete them there, as well.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Secure Are Locked iPhone or iPad Notes?
 
@@ -258,8 +150,6 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,12 +157,21 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-11-missing/"><u>[Fixed] Advanced Display Settings Windows 11 Missing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-strategies-for-eye-popping-fb-ad-videos/"><u>[New] In 2024, Strategies for Eye-Popping FB Ad Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-sightcast-peer-review-system/"><u>[Updated] 2024 Approved SightCast Peer Review System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-camcorder-features-direct-look-up/"><u>[Updated] Superior Camcorder Features – Direct Look-Up</u></a></li>
+<li><a href="https://os-tips.techidaily.com/5-best-solutions-for-when-your-iphones-swipe-lock-isnt-functioning/"><u>5 Best Solutions for When Your iPhone's Swipe Lock Isn't Functioning</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypass-itunes-error-3194-seamlessly-with-these-3-effective-strategies-proven-results/"><u>Bypass iTunes Error 3194 Seamlessly with These 3 Effective Strategies (Proven Results)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/determining-your-ipads-model-a-step-by-step-guide-using-the-serial-and-model-numbers/"><u>Determining Your iPad's Model: A Step-by-Step Guide Using the Serial and Model Numbers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-an-ipads-unresponsive-dark-screen-issue/"><u>How To Resolve An iPad's Unresponsive Dark Screen Issue</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-picks-for-tiktok-conversion-tools-mp4-edition/"><u>In 2024, Top Picks for TikTok Conversion Tools MP4 Edition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-combine-mpeg-videos-for-free-top-5-options-for-2024/"><u>New Combine MPEG Videos for Free Top 5 Options for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-unmatched-contacts-in-ios-swift-actions-for-an-iphone-without-them/"><u>Recover Unmatched Contacts in iOS: Swift Actions for an iPhone Without Them</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/shadows-and-highlights-for-text-depth-in-illustrator-for-2024/"><u>Shadows & Highlights for Text Depth in Illustrator for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-remedies-to-resolve-your-ipads-onoff-malfunction-issues/"><u>Top 5 Remedies to Resolve Your iPad’s On/Off Malfunction Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-bert-nlp-model-key-features-and-distinctions-from-gpt/"><u>Understanding the BERT NLP Model: Key Features and Distinctions From GPT</u></a></li>
+</ul></div>
 

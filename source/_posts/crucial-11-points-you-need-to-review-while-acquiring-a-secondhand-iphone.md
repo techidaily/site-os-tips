@@ -1,7 +1,7 @@
 ---
 title: Crucial 11 Points You Need To Review While Acquiring a Secondhand iPhone
-date: 2024-09-05T07:48:07.896Z
-updated: 2024-09-06T07:48:07.896Z
+date: 2024-10-10T01:02:22.438Z
+updated: 2024-10-12T07:45:48.668Z
 tags:
   - ios
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Crucial 11 Points You Need To Review While Acquiring a Secondhand iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Basics of Buying a Used iPhone](https://extra-hints.techidaily.com/dark-moments-decoded-for-iphone-users/)
@@ -32,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Check the Other Buttons Too](https://extra-guidance.techidaily.com/updated-modernized-guide-of-queries-for-engaging-podcast-discussions/)
 * [Do All the Cameras Work as Advertised?](https://techidaily.com/undelete-lost-music-from-redmi-a2plus-by-fonelab-android-recover-music/)
 * [Other Options for Saving Money on an iPhone](https://sound-tweaking.techidaily.com/updated-pushing-boundaries-top-15-revolutionary-songs-in-rock/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,17 +58,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Genuine sellers will understand your insistence on being safe and smart. If they have nothing to hide, they'll be happy for you to inspect the item. It's within their interest to meet in well-lit, public places where they are also likely to feel safe too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  1\. Does the iPhone Turn On?
 
  Perhaps the most important thing to check is whether or not the iPhone powers up. This seems obvious, but some sellers may try and pass off an iPhone that won't boot as having a dead battery. Don't fall for this, and make sure the iPhone boots to the lock screen or "Hello" prompt.
 
  Furthermore, you might want to insist that the iPhone includes a charger and wall adapter too. An iPhone without these items is more likely to be stolen (though the seller may simply have decided to keep them instead). If possible, check that the iPhone charges normally too; consider carrying a [portable battery](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) and power cable if you have them.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. Is Activation Lock Still Enabled?
 
@@ -91,35 +93,24 @@ Hannah Stryker / How-To Geek
 
  Once you're happy with the iPhone, insist that the seller remove Activation Lock and [erase the iPhone](https://facebook-video-content.techidaily.com/group-gallery-video-extractor/) using "Erase All Content and Settings" under Settings > General > Transfer or Reset iPhone. This requires that the seller enter their Apple ID password to disable Activation Lock, so you know you'll be able to use the phone once you take ownership of it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. Is There Any Visible Damage?
 
  Most used iPhones are going to have scuffs and scratches, even if they were kept in a case for their entire lives. If the iPhone is handed to you in a case, always remove it to get a better look. Fully inspect the device for any signs of [visible damage](https://extra-tips.techidaily.com/audio-visual-harmony-in-digital-photos-for-2024/), including scratches and small cracks around the edge of the display.
 
 ![An iPhone with a badly cracked screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Nick Lewis / How-To Geek
 
  Dents in the chassis are a little more concerning since this could suggest damage to internal components like the battery. Check to see if the iPhone sits flat on a surface face down, since this will indicate if any force has caused the chassis to bend. Inspect the camera assembly to see if the lenses are damaged or scratched.
 
  Don't worry too much about superficial damage, but take it into account when it comes to the price of the item. A mint condition iPhone that's had a [screen protector](https://www.lifesavvy.com/reviews/the-best-iphone-12-screen-protectors-for-your-device/) and [tough case](https://tiktok-video-recordings.techidaily.com/2024-approved-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/) on from day one will be worth more than a scratched-up iPhone, so you can use this to help understand whether the seller is asking a fair price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. How's the Battery Health?
 
@@ -130,12 +121,20 @@ Nick Lewis / How-To Geek
 ![iPhone Battery Health](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/battery_health.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When battery health declines significantly, the iPhone may begin to slow down as it attempts to balance performance with longevity. If anything other than "Peak Performance Capability" is being reported, [it's time to replace the battery](https://instagram-video-files.techidaily.com/in-2024-playlist-power-instagrams-musical-edge/) since you aren't getting the most out of the device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Have Any Parts Been Replaced, and Is It Refurbished?
 
@@ -152,23 +151,18 @@ _Apple_
  Genuine parts are generally regarded as being of higher quality than many [third-party](https://fox-http.techidaily.com/updated-merge-audio-files-into-powerpoint-staging-for-2024/) parts that are cheaper to produce. There's no way of telling for sure, but a genuine battery replacement (for example) may provide more peace of mind than something of unknown origin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  7\. What's the Performance Like?
 
  Use the iPhone a bit and see how it performs. Take the age of the device into consideration, and be aware that older devices will be more sluggish than newer ones. You're looking for obvious signs of slowdown that might suggest something is wrong with an internal component.
 
  A few simple tests you can perform include browsing a responsive website like [apple.com](http://www.apple.com), searching for an app [using Spotlight](https://facebook-videos.techidaily.com/new-elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds-for-2024/), launching and perusing the App Store, zooming and scrolling around the in-built Maps app, accessing [Notification Center](https://snapchat-videos.techidaily.com/updated-2024-approved-saving-snaps-from-snapchat-on-camera-roll-a-guide/) and [Control Center](https://youtube-blog.techidaily.com/ring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/), and swiping between [widgets and app icons](https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-13t-by-drfone-android/) on your home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  8\. How's the Display Condition?
 
  If the iPhone has a traditional edge-lit LCD (like in the iPhone XR, SE, and 11), check that all of the lights are working. If the iPhone has an OLED display (known as [Super Retina XDR](https://extra-skills.techidaily.com/mastering-powerpoints-voice-recognition-feature-for-2024/) as seen in the iPhone X, 12, and 13) then you should check for [burn-in (permanent image retention)](https://video-screen-grab.techidaily.com/in-2024-virtual-arena-transcript/) too. Neither of these will necessarily affect how the device functions, and may not be visible under normal usage, but you should know about a problem before you buy.
@@ -181,18 +175,6 @@ _Apple_
 
  It's also a good idea to check the earpiece volume, and the only way of doing so is by making a phone call. It can be really hard to use your iPhone if this speaker becomes damaged since the person on the other end of the phone [may be too quiet or muffled](https://win-howtos.techidaily.com/unstuck-with-your-corsair-keyboard-effective-solutions-for-restoration/). If you don't have a SIM card in the iPhone for this, consider connecting to public Wi-Fi or a [personal hotspot](https://extra-hints.techidaily.com/in-2024-a-comprehensible-list-of-the-leading-5-online-title-innovators/) and [using FaceTime](https://tiktok-clips.techidaily.com/updated-insightful-comparison-of-triller-and-tiktoks-content-models-max-156-chars/) instead.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  10\. Check the Other Buttons Too
 
  Check to make sure the mute switch works correctly, located on the left side of the iPhone. Beneath this, you'll find volume rockers. These buttons are useful for turning up call volume and taking photos, plus you'll need to use them if ever you want to [force restart your iPhone](https://win-amazing.techidaily.com/instant-access-to-thrustmaster-t150-drivers-user-friendly-guide-on-swift-software-setup/).
@@ -203,46 +185,23 @@ Hannah Stryker / How-To Geek
   
  The side button on the right side of the iPhone is used to wake and sleep your iPhone, invoke Siri, force restart, and access Apple Pay and other Wallet functions. Make sure everything works as expected, and feels good to press. A "mushy" button may be on the way out.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  11\. Do All the Cameras Work as Advertised?
 
  Finally, check all of the cameras and lenses. Open the Camera app and switch to the front-facing camera, then use all of the cameras on the rear of the device (including [ultra-wide and telephoto](https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-14-pro-max-by-drfone-ios/) if you have them).
 
 ![The camera array on an iPhone 15.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53212394387_79e19a5a26_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  In good light, the image should be relatively clear and not grainy. The image should update smoothly (not like a slide show), and tapping the screen should focus on that particular area.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Other Options for Saving Money on an iPhone
 
  You don't necessarily have to buy a used iPhone to save money. There are quite a few ways you can [save money and still get a new or "as new" device](https://extra-information.techidaily.com/easy-steps-to-personalize-movie-outro-templates-for-free/). One of the best ways to do this is to buy [a refurbished iPhone directly from Apple](https://www.apple.com/shop/refurbished/iphone).
@@ -255,8 +214,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +221,23 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-mixer-connectivity-seamless-live-broadcast-on-macos/"><u>[New] Mixer Connectivity Seamless Live Broadcast on macOS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-reviving-your-shows-heartbeat-saving-facebook-livestream-pauses/"><u>[Updated] In 2024, Reviving Your Show's Heartbeat Saving Facebook Livestream Pauses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>2024 Approved Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-plainvidwin11-intuitive-simple-screen-recorder-for-pcs/"><u>2024 Approved PlainVidWin11 Intuitive, Simple Screen Recorder for PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-for-sale-best-drones-to-buy/"><u>Drone for Sale - Best Drones to Buy</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-g24-power-by-drfone-android/"><u>How to Bypass FRP from Motorola G24 Power?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-13-mini-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 13 mini without Apple Account</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-voice-how-your-iphone-communicates-as-powerfully-as-apples-first-macintosh/"><u>Revolutionary Voice: How Your iPhone Communicates as Powerfully as Apple's First Macintosh</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-car-induced-discomfort-with-iphones-latest-ios-18-update-for-a-smoother-ride-experience/"><u>Say Goodbye to Car-Induced Discomfort with iPhone's Latest iOS 18 Update for a Smoother Ride Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-phone-easily-how-to-modify-iphone-password-settings/"><u>Secure Your Phone Easily: How to Modify iPhone Password Settings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/securing-your-online-presence-off-facebook-activities-exposed-for-2024/"><u>Securing Your Online Presence Off-Facebook Activities Exposed for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/slow-charge-on-your-iphone-discover-why-and-how-to-fix-it/"><u>Slow Charge on Your iPhone? Discover Why and How to Fix It!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-iphones-ios-updating-issues-top-11-solutions/"><u>Solving Your iPhones iOS Updating Issues: Top 11 Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-troubleshooting-for-quality-bluetooth-connectivity-with-qualcomm-atheros-on-windows-11/"><u>Step-by-Step Troubleshooting for Quality Bluetooth Connectivity with Qualcomm Atheros on Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlining-security-effortless-removal-of-2fa-notifications-from-ios-devices/"><u>Streamlining Security: Effortless Removal of 2FA Notifications From iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-compelling-reason-behind-my-daily-mobile-decor-transformations/"><u>The Compelling Reason Behind My Daily Mobile Décor Transformations</u></a></li>
+</ul></div>
 

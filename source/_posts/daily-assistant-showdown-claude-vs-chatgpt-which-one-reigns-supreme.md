@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2024-10-05T17:26:58.439Z
-updated: 2024-10-06T18:24:35.317Z
+date: 2024-10-10T16:39:05.112Z
+updated: 2024-10-12T09:47:59.580Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  GPT vs. Claude On The Web
 
 [Several companies compete in the AI race](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/), but two consistently make headlines and are followed by cutting-edge enthusiasts: OpenAI and Anthropic. Both companies have made significant progress in putting together an impressive web application that users can use for free, with some limitations.
@@ -32,28 +39,15 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
 
@@ -82,10 +76,10 @@ Close
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Dookeran/How-to-Geek
@@ -96,16 +90,16 @@ Jason Dookeran/How-to-Geek
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
 
@@ -126,18 +120,21 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-streamlining-tiktok-posts-for-facebook-exposure/"><u>[Updated] 2024 Approved Streamlining TikTok Posts for Facebook Exposure</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-steps-for-effective-screen-capture-in-adobe-captivity/"><u>[Updated] Essential Steps for Effective Screen Capture in Adobe Captivity</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>[Updated] In 2024, Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/capture-crystal-clear-sounds-top-8-free-techniques-for-enhanced-iphone-audio/"><u>Capture Crystal Clear Sounds: Top 8 Free Techniques for Enhanced iPhone Audio</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-the-butterfly-two-in-one-charger-by-twelve-south-the-travelers-must-have-companion-with-magsafe-technology/"><u>Comprehensive Analysis of the ButterFly Two-in-One Charger by Twelve South: The Traveler's Must-Have Companion with MagSafe Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/creating-animated-gifs-using-your-iphone-a-step-by-step-guide/"><u>Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-repair-guide-mastering-the-art-of-fixing-iphone-15-and-m2-mac-mini/"><u>DIY Repair Guide: Mastering the Art of Fixing iPhone 15 & M2 Mac Mini</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204038036-fixing-the-endless-loop-windows-update-stuck-on-100-percent-solution-inside/"><u>Fixing the Endless Loop: Windows Update Stuck on 100 Percent - Solution Inside</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-facile-pour-senregistrer-une-image-de-son-dvd-sur-un-disque-dur-via-winx-dvd-copy-pro-methode-iso/"><u>Guide Facile Pour S'enregistrer Une Image De Son DVD Sur Un Disque Dur via WinX DVD Copy Pro - Méthode ISO</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update drivers on Windows 10 & 7</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-unlocking-image-clarity-techniques-for-online-cropping/"><u>In 2024, Unlocking Image Clarity Techniques for Online Cropping</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-constructing-an-elegant-transition-for-decreasing-auditory-intensity/"><u>New Constructing an Elegant Transition for Decreasing Auditory Intensity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/why-does-my-photo-booth-video-keep-freezing-in-2024/"><u>Why Does My Photo Booth Video Keep Freezing, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[New] 2024 Approved Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-complete-business-guide-to-facebook-marketing-mastery/"><u>[New] In 2024, The Complete Business Guide to Facebook Marketing Mastery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-time-your-instagram-content-for-max-engagement-for-2024/"><u>[Updated] How to Time Your Instagram Content For Max Engagement for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leading-edge-facebook-film-archives-for-2024/"><u>[Updated] Leading Edge Facebook Film Archives for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-eliminatebgmaster-highest-quality-erasure/"><u>2024 Approved EliminateBgMaster Highest Quality Erasure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/3-simple-methods-for-deleting-your-iphones-whatsapp-cache-a-comprehensive-guide/"><u>3 Simple Methods for Deleting Your iPhone's WhatsApp Cache: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-12-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme 12 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/delete-once-delete-forever-effective-techniques-for-fully-removing-games-and-apps-from-ios-devices/"><u>Delete Once, Delete Forever: Effective Techniques for Fully Removing Games & Apps From iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-erasing-damaged-audiovideo-files-overcoming-unremovable-corruptions/"><u>Effective Techniques for Erasing Damaged Audio/Video Files: Overcoming Unremovable Corruptions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-release-magicard-rio-pro-driver-suite-now-available-for-major-windows-versions/"><u>Get the Newest Release: Magicard Rio Pro Driver Suite - Now Available for Major Windows Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Files</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-how-to-remove-music-tracks-from-your-ipod-touch-nano-shuffle-classic/"><u>Quick Fixes: How To Remove Music Tracks From Your iPod (Touch, Nano, Shuffle, Classic)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/remote-data-wipe-on-iphone-without-find-my-expert-tips-revealed/"><u>Remote Data Wipe on iPhone Without 'Find My' – Expert Tips Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-change-rendering-api-issue-error-2024-in-dota-2-fast-solutions/"><u>Resolving the 'Change Rendering API' Issue (Error 2024) in Dota 2 - Fast Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-a-fresh-start-clearing-content-and-settings-on-your-iphone-15-device/"><u>Step-by-Step Instructions for a Fresh Start: Clearing Content and Settings on Your iPhone 15 Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-the-art-of-iphone-rebooting-across-all-versions/"><u>Ultimate Guide: Mastering the Art of iPhone Rebooting Across All Versions</u></a></li>
 </ul></div>
 

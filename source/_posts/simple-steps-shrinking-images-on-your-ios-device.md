@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Shrinking Images on Your iOS Device"
-date: 2024-09-10T10:43:31.773Z
-updated: 2024-09-11T10:43:31.773Z
+date: 2024-10-07T21:07:34.397Z
+updated: 2024-10-11T23:01:18.241Z
 tags:
   - ios
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc04665184817513adef7255fa53df8a70.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Simple Steps: Shrinking Images on Your iOS Device
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -46,19 +18,18 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
  The editor in the Photos app is quite feature-rich, but you can't change the file size of photos. Luckily, you can use a shortcut or a third-party app to resize or reduce photo size on iPhone and iPad. Here's how.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How to Resize a Photo Using Shortcuts
 
@@ -68,19 +39,12 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
  Just looking to crop a photo, rather than make the entire image smaller? You can [crop images in the Photos app](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) itself by tapping the "Edit" button.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ###  Creating an Image Resize Shortcut
 
@@ -100,21 +64,21 @@ Close
 
 ![The 'Resize' function followed by a 'Save' function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/8saveimage.png) 
 
- By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Adding the Shortcut to the Share Sheet
 
@@ -125,20 +89,6 @@ Close
  Then, on the shortcut screen, tap the "Done" button again to save the shortcut.
 
 Close 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ###  Using the Shortcut to Resize an Image
 
@@ -176,8 +126,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,12 +133,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultra-hd-marvel-hp-dreamcolor-z32-x-analysis/"><u>[New] Ultra HD Marvel HP DreamColor Z32 X Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-open-source-templates-transform-your-youtube-channel/"><u>[Updated] In 2024, Open-Source Templates Transform Your YouTube Channel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[Updated] In 2024, Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-free-text-animation-for-artists/"><u>[Updated] Navigating Free Text Animation for Artists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-list-best-for-android-pics/"><u>[Updated] The Ultimate List Best for Android Pics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-windows-melodies/"><u>2024 Approved Masterful Windows Melodies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clearing-up-the-confusion-a-guide-to-reactivating-icloud-settings-on-apples-mobile-gadgets/"><u>Clearing Up the Confusion: A Guide to Reactivating iCloud Settings on Apple's Mobile Gadgets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-for-tracking-childrens-usage-of-snapchat-through-iphone-monitoring-techniques/"><u>Effective Strategies for Tracking Children’s Usage of Snapchat Through iPhone Monitoring Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-ios-update-glitches-a-guide-for-iphone-and-ipad-on-versions-18-to-13/"><u>Resolving iOS Update Glitches: A Guide for iPhone and iPad on Versions 18 to 13</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-iphones-how-to-overcome-the-persistent-charging-screen-problem/"><u>Troubleshooting iPhones: How to Overcome the Persistent Charging Screen Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/trusted-methods-for-effective-troubleshooting-of-apple-pencil-connection-issues/"><u>Trusted Methods for Effective Troubleshooting of Apple Pencil Connection Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-newest-nvidia-geforce-rtx-3060-ti-driver-version-compatible-with-windows-11/"><u>Update to Newest NVIDIA GeForce RTX 3060 Ti Driver Version Compatible with Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Shift Begins as iPhones Embrace Universal USB-C Port Technology
-date: 2024-09-10T10:39:22.863Z
-updated: 2024-09-11T10:39:22.863Z
+date: 2024-10-05T16:33:53.298Z
+updated: 2024-10-12T10:39:47.177Z
 tags:
   - ios
 categories:
@@ -31,31 +31,18 @@ Apple
 
 ![iPhone 15 Pro recording video via USB-C to an external drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_video_record.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Apple
 
  The iPhone is well overdue for the switch to USB-C, particularly compared to Android devices which have been using the standard for years. Nintendo embraced USB-C for the Switch in 2017, and both Microsoft and Sony use USB-C ports on their Xbox Series and PlayStation 5 consoles.
 
  It’s now easier to carry a single cable wherever you go to charge your iPhone, iPad, MacBook, Switch, Android tablet, Windows laptop, and so on. The new USB-C iPhones can even be used to charge the Apple Watch and AirPods with the right adapter (and who knows what else, once the technology is put through its paces).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  One Connector, Two Standards
 
@@ -65,37 +52,16 @@ Apple
 
 ![iPhone 15 charging via USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_usb-c.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Apple
 
  This shouldn’t affect charging, which Apple says will net you 50% charge in 30 minutes when using a 20w charger or better (for both base and Pro models) so if you never use a cable to transfer data then you likely won’t notice any speed limitations.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How the EU Forced Apple’s Hand
 
@@ -113,19 +79,12 @@ Apple
 
  The company previously made [comments](https://www.zdnet.com/article/eu-wants-usb-c-to-become-standard-charging-port-for-all-smartphones-to-cut-down-e-waste/) that suggested the mandate would “stifle” innovation and “harm consumers in Europe and around the world” though it’s not clear _how_ the company came to that conclusion. It’s fair to say that companies like Apple generally prefer to set trends rather than be forced to follow them.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Can You Use Any Old USB-C Cable?
 
@@ -135,31 +94,18 @@ Apple
 
  On top of a compliant cable (which Apple should include in the box), you’ll need a suitably powerful 20w or better USB-C adapter to fast charge your iPhone. Check out [our list of best phone chargers](https://some-techniques.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc-for-2024/) and [best portable battery packs](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) for some ideas.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  What About Your Old Lightning Cables?
 
  If you’re coming from an iPhone introduced in 2022 or earlier, you’ve probably amassed a spaghetti-like mess of Lightning cables. Hang on to them. Without dedicated cables, you’ll need to use [Apple’s cursed USB-C to Lightning dongle](https://eaxpv-info.techidaily.com/new-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/) to charge your iPhone.
 
 ![Lightning Cable Roundup Hero Shot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52421379823_7e23e26f10_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -173,20 +119,6 @@ Hannah Stryker / How-To Geek
 
 ![iPhone 15 Pro being used in a photo shoot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_shooting.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Apple
 
  Apple didn’t just ditch Lightning on the iPhone 15, the company also [updated the AirPods Pro to include USB-C charging](https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-f15-5g-pc-drfone-by-drfone-android/).
@@ -197,8 +129,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,12 +136,20 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-5-secure-methods-to-maximize-instagram-earnings/"><u>[New] In 2024, Top 5 Secure Methods to Maximize Instagram Earnings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-making-your-instagram-story-pop-with-youtube-vids/"><u>[Updated] 2024 Approved Making Your Instagram Story Pop with YouTube Vids</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/a-comedians-guide-to-the-best-free-royalty-free-background-music-sources/"><u>A Comedians Guide to the Best Free, Royalty-Free Background Music Sources</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-restoring-damaged-registry-and-system-files-in-windows-11/"><u>Complete Guide: Restoring Damaged Registry and System Files in Windows 11</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-deliberately-creating-low-quality-videos/"><u>Guide: Deliberately Creating Low-Quality Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-ensure-accurate-sleep-monitoring-on-your-apple-watch-solutions-that-work/"><u>How To Ensure Accurate Sleep Monitoring on Your Apple Watch – Solutions That Work!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-an-unresponsive-iphone-or-ipad-troubleshooting-steps/"><u>How to Fix an Unresponsive iPhone or iPad: Troubleshooting Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nubia Z50 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-use-apples-airplay-feature-effectively-an-in-depth-explanation/"><u>How to Use Apple's AirPlay Feature Effectively: An In-Depth Explanation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/icloud-for-windows-receives-significant-upgrade-discover-the-latest-features/"><u>ICloud for Windows Receives Significant Upgrade - Discover the Latest Features!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-100-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor 100 Pro?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-like-a-pro-unlocking-squid-game-dialogues-in-korean/"><u>Speak Like a Pro: Unlocking Squid Game Dialogues in Korean</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-transforming-your-android-or-iphone-into-a-windows-microphone-device/"><u>Ultimate Tutorial: Transforming Your Android or iPhone Into a Windows Microphone Device</u></a></li>
+</ul></div>
 

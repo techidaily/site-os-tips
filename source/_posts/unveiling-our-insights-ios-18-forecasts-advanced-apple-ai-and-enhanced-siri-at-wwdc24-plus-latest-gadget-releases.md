@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Our Insights: IOS 18 Forecasts, Advanced Apple AI & Enhanced Siri at WWDC24 Plus Latest Gadget Releases!"
-date: 2024-09-10T10:40:38.032Z
-updated: 2024-09-11T10:40:38.032Z
+date: 2024-10-10T06:30:17.866Z
+updated: 2024-10-12T07:04:19.810Z
 tags:
   - ios
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 ---
 
 ## Unveiling Our Insights: IOS 18 Forecasts, Advanced Apple AI & Enhanced Siri at WWDC24 Plus Latest Gadget Releases!
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -40,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
  Apple will preview its latest software advances on June 10, 2024, at its annual WWDC event with iOS 18, iPadOS 18, macOS 15, tvOS 15, watchOS 11, and visionOS 2 developer betas likely to drop after the keynote, ahead of public launches this fall. Here’s what we expect from WWDC24.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  iOS 18: Biggest iPhone Update or a Big Nothing Burger
 
  There have been surprisingly few leaks about iOS 18 (codenamed “Crystal”), [an AI-focused update](https://sound-issues.techidaily.com/fixing-headphone-issues-on-windows-11-a-step-by-step-guide/) Apple reportedly deems among the biggest iPhone updates ever. It could also end up being a big nothing burger, as the rumors went from Apple creating a generative AI chatbot to licensing existing chatbots from [Google, OpenAI](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools), and [Baidu](https://www.wsj.com/tech/ai/baidu-shares-rise-on-news-that-apple-will-use-its-ai-services-in-china-products-fede5a4f?st=jzvpd6rr5bmw9u3&reflink=desktopwebshare%5Fpermalink).
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
  A writing assistant may complete your sentences in Pages and Messages. The Keynote app should build slides from prompts. And the Music app might automatically generate playlists.
 
  You may be able to place Home Screen icons [wherever you want](https://www.macrumors.com/2024/03/24/ios-18-home-screen-app-icon-customization/#), and there will be [new accessibility shortcuts](https://www.macrumors.com/2024/03/07/ios-18-macos-15-accessibility/) and [Maps features](https://9to5mac.com/2024/03/27/ios-18-apple-maps-upgrades/). Apple has confirmed that the [Messages app will gain RCS support](https://on-screen-recording.techidaily.com/updated-tech-tip-saving-google-meets-on-phone-devices-for-2024/) to improve the messaging experience between iPhone and Android. Thankfully, [iOS 18 is expected to be supported by](https://9to5mac.com/2024/02/27/ios-18-devices-rumor/) the same iPhone models as iOS 17.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  iPadOS 18: Another Take on iPad Multitasking?
 
@@ -66,35 +66,29 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
  If your Mac is starting to feel a little tired, a few [simple steps can help give it a whole new lease of life](https://hardware-help.techidaily.com/get-your-dell-wi-fi-card-working-fresh-drivers-here/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  watchOS 11: Taking a Back Seat With a Smaller Update
 
  watchOS 10 only brought two notable features: the enhanced double-tap gesture and NameDrop. Bloomberg’s Mark Gurman [describes](https://www.bloomberg.com/news/articles/2023-11-07/apple-delays-work-on-ios-18-macos-15-watchos-11-due-to-problems-with-bugs) watchOS 11 as a “minor update” with a bunch of quality-of-life enhancements but few new features.
 
 ![Showing the new Snoopy watch face on Apple Watch Ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-3.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  We certainly expect Siri on watchOS 11 to be more responsive and useful, based on a new large language model. New health and fitness features also seem plausible but don’t expect visual changes because watchOS 10 updated the design across stock apps last year.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  tvOS 18: Another Unimpressive Update
 
@@ -102,37 +96,16 @@ Tyler Hayes / How-To Geek
 
 ![Wall-mounted TV set with Apple TV 4K and Siri Remote underneath, with the TV running FaceTime via Continuity Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-tvos-17-facetime-continuity-camera.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Apple
 
  But don’t write tvOS off just yet! Surprises are certainly possible, as evidenced by more than a [dozen improvements in the current tvOS 17 software,](https://www.makeuseof.com/best-new-apple-tv-features-tvos-17/) like bringing FaceTime to the big screen, implementing multiuser support and a dialogue-boosting feature, revamping the Control Center, [adding support for VPN apps on your Apple TV](https://extra-support.techidaily.com/updated-step-up-your-photography-game-with-these-top-8-tablets/), and more.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Siri 2.0 May Finally Be Able to Answer Complex Questions
 
@@ -142,20 +115,6 @@ Apple
 
 ![An image asking Siri why the assistant is so bad, with Siri responding I'm just trying to do my job.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/siri_so_bad.jpeg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Also, Siri should be more contextually relevant and able to perform complex, multistep tasks. While Apple’s assistant should see a significant leap in iOS 18, we’ll see if the improvements will be enough to change the public’s perception of Siri as the dumbest assistant of them all.
 
 ##  visionOS 2: Fixing Spatial Computing’s Teething Issues
@@ -163,20 +122,6 @@ Apple
  The software powering the [Vision Pro](https://tiktok-videos.techidaily.com/formulating-a-heartfelt-tiktok-epilogue-for-2024/) headset is barely one year old, but Apple isn’t standing still. With no rumors about new features, we expect visionOS 2 (codenamed “Constellation”) will focus on fixing many teething issues plaguing the current version.
 
 ![Front view of a person wearing Apple Vision Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/front-view-of-a-person-wearing-apple-vision-pro.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -187,20 +132,6 @@ Tyler Hayes / How-To Geek
  Every year, various computational audio enhancements hit AirPods and HomePod. The new audio features coming down the wire this year are guaranteed to require the enhanced Apple H2 chipset powering the second-generation USB-C AirPods Pro from 2022.
 
 ![Apple's HomePod mini speaker set against a colorful gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/apple-homepod-mini-2100x1400.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Apple
 
@@ -214,20 +145,6 @@ Apple
 
  While WWDC is about software, sometimes Apple unveils new hardware at the event. Last year, it unveiled the Vision Pro, M2-powered Mac Studio and Mac Pro workstations, and a new 15-inch MacBook Air. This year’s WWDC might bring two new mid-range AirPods models and updated AirPods Max with USB-C, running the H2 chip to support the latest audio features.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  WWDC Is Apple’s Biggest Event of the Year
 
  New iPhone announcements still generate the most excitement, which is understandable given the iPhone is Apple’s most popular gadget. But even though WWDC is a software-focused event aimed at developers, it sets the tone for the next 12 months by introducing new features to the software platforms that power the company’s hardware.
@@ -240,8 +157,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,12 +164,24 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-best-practices-choosing-youtubes-most-popular-video-formats-for-2024/"><u>[Updated] Best Practices Choosing YouTube's Most Popular Video Formats for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-maximizing-efficiency-streamlined-methods-to-download-vimeo-videos/"><u>[Updated] In 2024, Maximizing Efficiency Streamlined Methods to Download Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creator-studio-vs-youtube-studio-beta/"><u>[Updated] YouTube Creator Studio Vs. YouTube Studio (Beta)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-health-management-explore-8-key-chatgpt-integrations-for-wellbeing/"><u>Elevate Health Management: Explore 8 Key ChatGPT Integrations for Wellbeing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-google-pixel-7a-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Google Pixel 7a</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y36-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y36 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-persistent-issue-of-microsoft-edge-freezing-in-windows-11-problem-solved/"><u>Overcoming the Persistent Issue of Microsoft Edge Freezing in Windows 11 - Problem Solved</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-reveals-phoenix-app-the-ultimate-mac-companion-for-image-restoration/"><u>Stellar Reveals Phoenix App: The Ultimate Mac Companion for Image Restoration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/synthizing-screenshots-and-slides-seamlessly/"><u>Synthizing Screenshots & Slides Seamlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-10th-gen-case-selection-the-ultimate-guide/"><u>Top-Rated iPad 10Th Gen Case Selection - The Ultimate Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-leading-usb-c-power-solutions-for-your-devices/"><u>Ultimate Guide: Leading USB-C Power Solutions for Your Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-top-iphone-15-pro-skins-and-shields/"><u>Ultimate Selection: Top iPhone 15 Pro Skins & Shields</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-shift-how-gemini-superseded-google-assistant/"><u>Understanding the Shift: How Gemini Superseded Google Assistant</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-immediate-savings-exclusive-deals-on-every-apple-airpods-model/"><u>Unlock Immediate Savings: Exclusive Deals on Every Apple AirPods Model</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-iphones-hidden-potential-search-using-circle-with-these-simple-shortcut-steps/"><u>Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-discover-essential-uses-of-your-12-in-one-airpods/"><u>Unlock the Full Potential: Discover Essential Uses of Your 12-In-One AirPods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmatched-convenience-with-magsafe-a-strong-motivation-for-upgrading-your-iphone/"><u>Unmatched Convenience with MagSafe: A Strong Motivation for Upgrading Your iPhone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Embracing Health Tracking: The Exceptional Value of the Oura Ring Beyond My Aversion to Subscription Services"
-date: 2024-10-04T16:40:03.775Z
-updated: 2024-10-06T19:52:32.792Z
+date: 2024-10-07T02:15:01.072Z
+updated: 2024-10-12T11:42:23.172Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
 
  I've been an Apple Watch user since launch week, way back in 2015\. But after finally finding myself lusting after some good old-fashioned dumb watches, I sought another way to get health and fitness data. An Oura Ring proved to be the solution, despite the requirement for a subscription to get the full benefit.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Problem With Subscriptions
 
  It can sometimes feel like everything is a subscription these days. Logitech even mooted [the idea of a subscription mouse](https://facebook-video-footage.techidaily.com/updated-explore-new-movie-landscapes-top-7-alternates-for-2024/).
@@ -29,18 +36,18 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
 
  My personal preference is to avoid subscriptions as much as possible. I'd far rather buy an app outright for a fair sum than pay even a very small subscription forever more. But if there's any field where a subscription might be justified, it's health tech.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Value of Health Tech Cannot Be Overstated
 
  I'd argue that health tech has been one of the most significant developments in the past decade or so. There have been numerous examples of health and fitness trackers saving lives, be that from [detecting a fall](https://remote-screen-capture.techidaily.com/new-unleash-windowsmac-premium-pc-and-mac-screen-capture-tools/) or identifying [signs of serious heart conditions](https://instagram-video-files.techidaily.com/the-ultimate-blueprint-for-effective-use-of-audio-emojis-for-2024/).
 
 ![A set of Oura Rings, in different finishes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oura
 
@@ -50,48 +57,28 @@ Oura
 
  For the best part of a decade, I wore an Apple Watch. There's no doubt that a high-end smartwatch combines a lot of functionality into a single device. I used it as a contactless payment card, used wrist taps for navigation when using Apple Maps, answered my phone when it was in another room, and used it for occasional Siri requests. But smart rings have their own benefits.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  You Can Wear Any Watch (or No Watch)
 
  This was the original selling point for me. After a decade of looking at almost the same device, I was bored with it. Yes, you can mix it up with different faces and complications, but I'm very minimalist in my design preferences, so I always quickly returned to using the same simple face in plain white and with a single complication.
 
  Being able to rotate three different dumb watches has proven a very pleasant change.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Charge Weekly, Not Daily
 
  Using an Apple Watch as a sleep tracker either requires a second watch, so you can wear one overnight while the other is charging, or a _very_ disciplined charging regime (take it off when you wake up, put it on charge while you shower and breakfast, put it back on). My Oura Ring, in contrast, needs charging for a couple of hours every six or seven days.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Potentially Greater Accuracy
 
  So far as I can tell, high-end smartwatches and smart rings use the same sensors, yet there's data to suggest that the latter tend to be more accurate. The prevailing theory is that watch straps tend not to be fully tightened, as a tight strap is uncomfortable, so a ring gets much closer and more reliable contact.
 
 ![Oura promo shot of a hand wearing a ring, reaching for a phone with the app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/oura-promo-shot.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oura
 
@@ -104,6 +91,13 @@ Oura
  It wasn't love at first sight. The Apple Health app has a cleaner look and is incredibly easy to browse. The Oura app, in contrast, seemed to cram in a lot of data, and I suspected the result was going to be information overload.
 
  But the extremely thoughtful design of the app means that hasn't been the case at all; quite the reverse. The app offers four types of information.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Headline Metrics
 
@@ -155,10 +149,10 @@ Oura
  I also like the gentle but effective way it nudges me. For example, while writing this piece, I was informed that I'm close to my activity target for the day, and that a 22-minute walk would do it. Guess what I'm going to be doing as soon as I finish writing?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Generalized Recommendations
@@ -167,14 +161,20 @@ Oura
 
 ![Advice on a breathing pattern, seen in the app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/breathing.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 (Screengrab)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Tip for Anyone Considering an Oura Ring
 
@@ -203,14 +203,22 @@ Oura
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-live-stream-on-youtube-gaming/"><u>[Updated] 2024 Approved How to Live Stream on YouTube Gaming?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/analyzing-user-feedback-the-latest-on-lg-bp350-display-tech-for-2024/"><u>Analyzing User Feedback The Latest on LG BP350 Display Tech for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-study-gopro-slr4-sliver-feature-review-for-2024/"><u>Comprehensive Study GoPro SLR4 Sliver Feature Review for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-is-it-time-to-air-fb-videos-on-traditional-screens/"><u>In 2024, Is It Time to Air FB Videos on Traditional Screens?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-app-installation-issues/"><u>Simple Troubleshooting Steps to Resolve App Installation Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/speedy-reset-tactics-mastering-the-art-of-quick-android-phone-reboots/"><u>Speedy Reset Tactics: Mastering the Art of Quick Android Phone Reboots</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-functionality-of-a-drenched-smartphones-screen-and-audio-components/"><u>Step-by-Step Guide: Restoring Functionality of a Drenched Smartphone’s Screen and Audio Components</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-unlocking-your-androids-potential-with-kingoroot/"><u>Step-by-Step Guide: Unlocking Your Android's Potential with KingoRoot</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nhance-click-through-rates-with-good-thumbnails/"><u>[New] Enhance Click-Through Rates with Good Thumbnails</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-elite-collection-best-kung-fu-arcade-games/"><u>[Updated] 2024 Approved The Elite Collection Best Kung Fu Arcade Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-explaining-video-trims-the-logic-of-trimming/"><u>[Updated] Explaining Video Trims The Logic of Trimming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lightning-lingers-quick-and-fluid-gaming-choices-for-laptops/"><u>[Updated] Lightning Lingers Quick & Fluid Gaming Choices for Laptops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-internet-explorer-malfunctions-effective-strategies-for-quick-restoration/"><u>Dealing with Internet Explorer Malfunctions: Effective Strategies for Quick Restoration</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/grabacion-de-mp4-a-formato-matroska-mkv-sin-costo-alguno-guia-paso-a-paso-con-movavi/"><u>Grabación De MP4 a Formato Matroska (MKV) Sin Costo Alguno: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/innovative-approaches-to-capturing-moments-with-zooms-snaps/"><u>Innovative Approaches to Capturing Moments with Zoom's Snaps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-8-camera-stands-for-ultra-hd-shooting-for-2024/"><u>Optimal 8 Camera Stands for Ultra-HD Shooting for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncover-the-top-secret-tricks-of-ios-transforming-your-iphone-experience/"><u>Uncover the Top Secret Tricks of iOS: Transforming Your iPhone Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-apple-airtag-charging-requirements-and-battery-life/"><u>Understanding Apple AirTag Charging Requirements & Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphones-share-focus-mode-a-comprehensive-guide/"><u>Understanding iPhone's 'Share Focus' Mode: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-compressed-data-a-step-by-step-guide-to-accessing-zip-files-on-your-ios-devices/"><u>Unlocking Compressed Data: A Step-by-Step Guide to Accessing ZIP Files on Your iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-fresh-capabilities-discover-the-iphone-improvements-in-apples-recent-ios-1evolution-version-172-update/"><u>Unlocking Fresh Capabilities: Discover the iPhone Improvements in Apple's Recent iOS 1Evolution, Version 17.2 Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-iphones-secret-science-mode-a-guide-to-accessing-built-in-scientific-calculator/"><u>Unlocking Your iPhone's Secret Science Mode: A Guide to Accessing Built-In Scientific Calculator</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-microsoft-365s-new-innovative-widget-for-enhanced-user-experience/"><u>Unveiling Microsoft 365'S New Innovative Widget for Enhanced User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/update-before-upgrading-to-the-latest-iphone-tips-for-a-smooth-transition/"><u>Update Before Upgrading to the Latest iPhone - Tips for a Smooth Transition</u></a></li>
 </ul></div>
 
