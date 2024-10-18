@@ -1,7 +1,7 @@
 ---
 title: "Surviving the Chaos: Fixing Issues in the iOS 18 Photos App - A Guide for Apple"
-date: 2024-09-10T10:46:04.863Z
-updated: 2024-09-11T10:46:04.863Z
+date: 2024-10-14T18:08:33.125Z
+updated: 2024-10-18T12:16:41.209Z
 tags:
   - ios
 categories:
@@ -9,41 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53308719769d03bba8108cbbd.png
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Surviving the Chaos: Fixing Issues in the iOS 18 Photos App - A Guide for Apple
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -52,19 +18,12 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 * [The Photos App Has Never Been This Crowded Before](https://mondly-stories.techidaily.com/embrace-multilingualism-with-these-7-afrikaans-advantages-from-mondly/)
 * [What Can Apple Do to Fix the Photos App?](https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nubia-z50-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -74,19 +33,12 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  iOS 18 brings a lot of new features and changes. While most of these changes have been well-received by early testers, the redesigned Photos app is getting mixed reviews. I think it's a total nightmare, and Apple needs to make some big changes before the app releases in the fall.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  The Redesigned Photos App Feels More Like Social Media
 
@@ -104,19 +56,12 @@ Close
 
  Before I sharpen my pitchfork further, I want to clarify that [iOS 18 is still in beta](https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/). Apple can (and likely will still make changes) If you have iOS 18 installed on your iPhone in this pre-release state and are experiencing performance issues, that's common with operating systems in their beta phase. There's no need to worry about it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  "Recent Days" and "Recently Saved" Cause Confusion
 
@@ -130,25 +75,12 @@ Close
 
  Another thing I found frustrating is that the Photos app shows the same photo in multiple places. For example, if you [take a portrait photo](https://eaxpv-info.techidaily.com/new-top-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube/) with your iPhone, you'll notice that it appears in the main photo library, the Recent Days collection, and the Portraits collection. Why can't Apple take a simpler approach like most Android phones, where a photo appears only once in the Photos app?
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  The Photos App Has Never Been This Crowded Before
 
@@ -180,8 +112,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,12 +119,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-essential-skills-for-capturing-soundless-videography/"><u>[New] Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-revolutionize-your-tiktok-photos-with-proven-hacks-for-2024/"><u>[New] Revolutionize Your TikTok Photos with Proven Hacks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-arena-aces-unbeatable-10-royale-games/"><u>[Updated] Arena Aces Unbeatable 10 Royale Games</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-transferring-data-from-ipad-to-icloud-macbook-itunes-or-an-external-hard-drive/"><u>Comprehensive Guide: Transferring Data From iPad to iCloud, MacBook, iTunes, or an External Hard Drive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertissez-vos-fichiers-nsv-en-mp3-sans-frais-decouvrez-comment-avec-notre-guide-rapide/"><u>Convertissez Vos Fichiers NSV en MP3 Sans Frais - Découvrez Comment Avec Notre Guide Rapide!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-transfer-your-music-from-iphone-to-macpc-with-complete-backup-steps/"><u>Easy Guide: Transfer Your Music From iPhone to Mac/PC with Complete Backup Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-epson-perfection-v39-drivers-for-microsoft-windows-versions-7-8-1-free-downloads-available/"><u>Easy Installation of Epson Perfection V39 Drivers for Microsoft Windows Versions (7, 8, 1#) – Free Downloads Available!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ipad-and-itunes-backup-guide-a-beginners-tutorial/"><u>Effortless iPad & iTunes Backup Guide - A Beginner's Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ensuring-data-safety-a-users-manual-for-backing-up-ipads-pro-mini-and-air-to-icloud-services/"><u>Ensuring Data Safety: A User's Manual for Backing Up iPads (Pro, Mini, and Air) to iCloud Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-starting-wordpad-efficiently-on-windows/"><u>Essential Guide: Starting WordPad Efficiently on Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-whatsapp-icloud-backup-issue-solutions-to-overcome-the-stuck-at-0-bytes-problem/"><u>Fix Your WhatsApp iCloud Backup Issue: Solutions to Overcome the 'Stuck at 0 Bytes' Problem</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-x5-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco X5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-note-30-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Note 30 Pro Phone?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/soundtrack-synthesis-crafting-the-perfect-youtube-list-for-2024/"><u>Soundtrack Synthesis Crafting the Perfect YouTube List for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-iphone-file-saving-applications-protect-your-data-with-these-leading-choices/"><u>Top 8 iPhone File-Saving Applications: Protect Your Data with These Leading Choices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-the-issue-of-iphone-failing-to-sync-with-icloud/"><u>Troubleshooting Steps: Resolving the Issue of iPhone Failing to Sync with iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-guide-sync-your-iphone-with-icloud-complete-backup-strategies/"><u>Ultimate Step-by-Step Guide: Sync Your iPhone with iCloud - Complete Backup Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-apples-itunes-backup-process-methods-and-locations/"><u>Understanding Apple's iTunes Backup Process: Methods & Locations</u></a></li>
+</ul></div>
 

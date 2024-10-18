@@ -1,7 +1,7 @@
 ---
 title: Finding Lost Photographs After Accidental Deletion on iOS and macOS Devices
-date: 2024-08-18T09:15:44.615Z
-updated: 2024-08-19T09:15:44.615Z
+date: 2024-10-12T04:08:46.177Z
+updated: 2024-10-18T11:59:27.443Z
 tags:
   - ios-recovery
 categories:
@@ -45,9 +45,6 @@ How to Recover Deleted Data from iPhone
 * [How to Recover Deleted Data from iphone Using iTunes Backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 * [How to Recover Deleted Data from iphone Using iCloud Backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Recover Deleted Data Directly from iPhone
 
  Taking recovering iPhone text messages as an example, let's see how FoneLab iPhone Data Recovery can do for you:
@@ -57,9 +54,6 @@ Step 1 Open iPhone Data Recovery
  Install and launch FoneLab, here the "iPhone Data Recovery" feature is right here. Click it.
 
 ![Open iPhone Data Recovery](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-interface.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 Step 2 Connect iPhone to computer
 
@@ -70,10 +64,6 @@ Step 3 Start to scan iPhone
  Click "**Start Scan** " button to scan all your iPhone data. Soon, the software will show you how many existing and deleted files have been found.
 
 ![Connect iPhone to computer](https://www.aiseesoft.com/images/iphone-data-recovery/connecting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 Step 4 Preview deleted texts on iPhone (WhatsApp messages included)
 
@@ -87,6 +77,13 @@ Step 5 Recover deleted text messages
 
  That's it! Now you can check all the deleted messages on your computer. As you can see, this method is easy to operate, and it causes no data loss at all. Apart from recovering deleted text messages on your iPhone 15/14/13/12/11/XS/XR/X/8/7/SE/6/5/4, you can also simply use iPhone Data Recovery to transfer existing messages from iPhone to computer for backup, along with other files including contacts, call history, photos, notes, calendar, safari history, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recover lost iPhone data with iTunes backup
 
  There is another worse situation when you lost the valuable data without backup files. Here we suggest you a powerful[FoneLab - iPhone data recovery](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) to help you recover your deleted/lost data and better protect your files. First, download and install it on your PC/Mac.
@@ -98,17 +95,18 @@ Step 1 Open iPhone Data Recovery
  From the interface, choose**Recover from iTunes Backup File** mode from the left panel.
 
 ![Recover from iTunes Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-from-itunes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
 Step 2 Scan iTunes backup
 
  All iTunes backup files will display with device name, latest backup data and serial number. Select an iTunes backup file that contains deleted text messages from the list, and then click "**Start Scan** " button to scan iTunes backup.
 
 ![Recover from iTunes](https://www.aiseesoft.com/images/iphone-data-recovery/recover-itunes-backup.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3 View data in the backup
@@ -116,8 +114,12 @@ Step 3 View data in the backup
  After the scanning process, all iPhone files will be listed as different categories on the left. As you can see, the deleted ones will be marked in red while the existing ones are in black. You can also toggle "Only display the deleted item(s)" on if the deleted data is what you want.
 
 ![View Deleted Text Messages in the Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-text-messages-from-itunes-backup-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4 Recover data from iTunes backup
@@ -148,6 +150,13 @@ Step 5 Select the backup you want to restore, and then click "Restore".
 
 ![Recover from iCloud Backup](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-sign-into-icloud-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After signing in your account, you can see 2 ways of scanning and recovering deleted data from iCloud. You can either select the data type you want to recover from iCloud or choose to scan from iCloud Backup.
 
 ![Select iPhone Data Type from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-select-data-type-from-icloud-for-scanning.jpg)
@@ -164,6 +173,13 @@ Step 3 View from the iCloud backup
 
 ![View Deleted Text Messages in the Backup](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-recover-deleted-files-from-icloud-backup-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  • If you once synced your device with iTunes/iCloud on your PC, you can use this iPhone data recovery to restore the lost iPhone files from the iTunes or iCloud backup. Just like the second method mentioned above, you can view the detailed information of all types of data, which is very convenient to help you[recover data after iPhone update](https://tools.techidaily.com/) , iPhone jailbreak, iPhone factory resettings, etc.
 
  • It can work as a backup tool to help you transfer and back up your iPhone data like photos, contacts, call history, notes and so on to PC/Mac. This iOS data recovery tool supports any popular iOS device like iPhone 15/14/13/12/11/XS/XR/X/8/7/SE/6/5/4, iPad Pro/Air/mini, iPod and more.
@@ -171,10 +187,6 @@ Step 3 View from the iCloud backup
 You can learn the steps from the video below:
 
 ![Video Recover Deleted iPhone Data](https://www.aiseesoft.com/images/youtube-video/video-recover-deleted-iphone-data.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  In this post, we mainly discuss how to recover iPhone data with FoneLab iPhone Data Recovery. With the software, you are able to directly recover data from the device, or retrieve data from iTunes backup or iCloud backup as you want. Download the program and have a free try.
 
@@ -209,8 +221,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +228,20 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-mobile-and-desktop-avc-viewer-with-ease/"><u>[New] Premium Mobile and Desktop AVC Viewer with Ease</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unmatched-editing-apps-to-enhance-webcam-content/"><u>[Updated] In 2024, Unmatched Editing Apps to Enhance Webcam Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-real-time-recording-prowess-without-any-delays/"><u>[Updated] Real-Time Recording Prowess Without Any Delays</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers/"><u>[Updated] Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-navigating-and-networking-through-twitter-chats/"><u>Expert Advice on Navigating and Networking Through Twitter Chats</u></a></li>
+<li><a href="https://os-tips.techidaily.com/innovative-repurposing-how-a-defective-apple-watch-became-a-classic-hand-wound-watch/"><u>Innovative Repurposing: How a Defective Apple Watch Became a Classic Hand-Wound Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracking-device-in-compact-form/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracking Device in Compact Form</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-spotlights-unveiling-the-android-inspired-additions-to-apples-operating-system/"><u>IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-15-and-liquid-is-it-built-to-withstand-wet-conditions/"><u>IPhone 15 and Liquid: Is It Built to Withstand Wet Conditions?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-guide-steps-to-extract-and-share-videos-without-sound/"><u>IPhone Guide: Steps to Extract and Share Videos without Sound</u></a></li>
+<li><a href="https://os-tips.techidaily.com/limited-time-offer-claim-your-chance-to-win-a-free-apple-iphone-se/"><u>Limited Time Offer! Claim Your Chance to Win a Free Apple iPhone SE!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-with-a-stroke-premier-tablet-draw-tools-for-2024/"><u>Revolutionize with a Stroke Premier Tablet Draw Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-seascape-accessories-for-gopro-lenses-for-2024/"><u>Top 5 Seascape Accessories for GoPro Lenses for 2024</u></a></li>
+</ul></div>
 

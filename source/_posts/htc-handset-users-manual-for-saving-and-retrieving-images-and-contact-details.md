@@ -1,7 +1,7 @@
 ---
 title: HTC Handset User's Manual for Saving and Retrieving Images & Contact Details
-date: 2024-08-18T09:17:13.543Z
-updated: 2024-08-19T09:17:13.543Z
+date: 2024-10-17T10:07:56.376Z
+updated: 2024-10-17T17:06:37.621Z
 tags:
   - backup-android-data
 categories:
@@ -25,8 +25,12 @@ Backup Pictures
 * [Part 2. Backup pictures with Android Backup tool](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1\. Backup pictures with Google auto backup
 
  Google Photos is a great option to backup and manage pictures from Android devices. It provides unlimited cloud storage for everything you shoot. More importantly, the "auto backup" features can help you automatically backup Android photos with ease. Now follow the steps below and do**Android pictures auto backup** .
@@ -39,18 +43,26 @@ Step 3 Under the "**Backup & Sync** " menu, tab "**Choose folder to backup** ", 
 
 ![Backup Pictures Google Photos](https://www.aiseesoft.com/images/android-data-backup-and-restore/back-up-pictures-google-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4 On your computer, open Google Photos website, and sign in the Google account that you've backed up the pictures. Then you can check all the images you transferred from Android to the app. You can also download pictures to computer as you like.
 
 ![Check Google Photo on Web](https://www.aiseesoft.com/images/android-data-backup-and-restore/check-google-photo-on-web.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  Similarly, you can also backup pictures to Dropbox or other cloud storage service. You can check your photos anytime and anywhere. However, to fully protect your pictures, we suggest you to have another copy on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. Backup pictures with Android Backup tool
 
  When it comes to backing up pictures from Android to PC,[FoneLab for Android](https://tools.techidaily.com/aiseesoft-android-data-recovery/) would be your best option. As the most professional Android management tool, FoneLab for Android provides you many powerful functions, including**Android Data Backup & Restore** , which helps you to backup pictures or other data easily.
@@ -69,6 +81,13 @@ Key features:
 
  Now free download the program and learn how to backup pictures following the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to backup pictures on Android phone?
 
 Step 1 Choose Device Data Backup
@@ -76,19 +95,12 @@ Step 1 Choose Device Data Backup
  Open FoneLab for Android, choose**Android Data Backup & Restore** feature in the left panel, and then select**Device Data Backup** on the main interface. Connect your Android phone to computer via USB cable.
 
 ![Choose Device Data Backup](https://www.aiseesoft.com/images/android-data-backup-and-restore/choose-device-data-backup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2 Select Data type (Gallery)
 
  Wait until your Android phone was detected automatically. Then you'll be asked to select data type to back up. Here you need to select**Gallery** .
 
 ![Choose Gallery](https://www.aiseesoft.com/images/android-data-backup-and-restore/choose-data-type.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 Note : You can also check "Encrypted Backup" option if you want to better protect your contacts backup.
 
@@ -97,9 +109,6 @@ Step 3 Backup pictures on Android
  Click "Start" button, then you'll see a "Backup File Output" pop-up. Confirm the backup folder, and click OK button. Wait for seconds, then you'll see the pictures all backed up in your computer.
 
 ![Restore Completed](https://www.aiseesoft.com/images/android-data-backup-and-restore/restore-completed.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
  If you want to check or restore your pictures backup, go back to**Android Data Backup & Restore** , and select**Device data Restore** . Then you can preview pictures in the backup and selectively restore any picture you want.
 
@@ -140,8 +149,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +156,24 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-live-online-learning-captures/"><u>[New] 2024 Approved Live Online Learning Captures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-breaking-down-the-science-behind-green-screen-filmmaking-for-starters-for-2024/"><u>[New] Breaking Down the Science Behind Green Screen Filmmaking for Starters for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-highest-quality-mp4-adapter-for-fb-integration/"><u>[New] In 2024, Highest Quality MP4 Adapter for FB Integration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-detailed-assessment-of-simple-high-dynamic-range-for-2024/"><u>[Updated] Detailed Assessment of Simple High-Dynamic Range for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nokia-c32-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nokia C32 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-activating-recovery-mode-on-your-ipad-a-must-read-for-newbies-and-experts/"><u>Complete Guide To Activating Recovery Mode On Your iPad - A Must Read For Newbies And Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-shadowy-depths-in-our-comprehensive-bloodborne-review/"><u>Discovering the Shadowy Depths in Our Comprehensive Bloodborne Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-mirror-your-ipad-on-smart-tvs-using-three-effective-techniques/"><u>Easy Tutorial: Mirror Your iPad on Smart TVs Using Three Effective Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expertly-restored-microsoft-mvps-sql-wisdom/"><u>Expertly Restored: Microsoft MVP’s SQL Wisdom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-apple-iphones-ios-17-draining-battery-glitches-quickly/"><u>How to Resolve Apple iPhone's iOS 17 Draining Battery Glitches Quickly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improving-photo-quality-easily-detailed-instructions-for-apple-devices/"><u>Improving Photo Quality Easily: Detailed Instructions for Apple Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-free-hd-video-capture-tools-the-complete-review/"><u>In 2024, Free HD Video Capture Tools The Complete Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-terminating-your-apple-id-account-forever-with-these-five-strategies/"><u>Quick Guide: Terminating Your Apple ID Account Forever with These Five Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/regain-access-to-your-locked-ipad-expert-strategies-for-removing-the-screen-lock-code/"><u>Regain Access to Your Locked iPad: Expert Strategies for Removing the Screen Lock Code</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-steps-overcoming-difficulty-logging-into-your-apple-id/"><u>Ultimate Troubleshooting Steps: Overcoming Difficulty Logging Into Your Apple ID</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-concept-of-screen-time-on-iphones-a-guide-to-disabling-it/"><u>Unraveling the Concept of Screen Time on iPhones – A Guide to Disabling It</u></a></li>
+</ul></div>
 

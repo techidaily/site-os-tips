@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Annotate Images with These 5 iPhone Tricks
-date: 2024-10-10T02:58:11.430Z
-updated: 2024-10-12T03:17:12.562Z
+date: 2024-10-15T19:14:16.914Z
+updated: 2024-10-18T07:24:02.022Z
 tags:
   - ios
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Whether you’re annotating a screenshot or making the dankest of memes, there are many ways of adding text to an image on your iPhone. Here are five tried and tested techniques.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Add Text Using Markup
 
  By far the simplest method of adding text to an image is to use the iPhone’s built-in Markup tool, accessible via the Edit feature in the Photos app. This is easy to do, but fairly limited in scope. You can choose a font, text size, and color but there’s little in the way of fancy effects.
@@ -43,6 +36,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap the Markup button to add text to an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll be warned that Live Photo mode will be switched off if you continue. Hit “OK” to proceed and the Markup interface will appear.
 
  Along the bottom of the screen, you’ll see a variety of pens, pencils, erasers, a ruler, a color wheel, and a plus “+” button. Hit the plus “+” button and choose “Add Text” to add a text box to your image.
@@ -50,28 +50,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Use the "Add Text" button to add text to an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now drag the text box into place, wherever you want it. Tap (or double-tap) within the text box to edit what the text says and type your message using the on-screen keyboard.
 
 ![Edit the text box in Markup to add your text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  At the bottom of the screen, you can adjust the font, text size, alignment, formatting, and text color. While choosing a color you can also adjust the opacity of your text.
 
 ![Use the text formatting tools to adjust text size, color, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup5.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’re done, hit “Done” in the top-right corner of the screen. You can edit your text later by coming back to the Markup menu using the pen icon in the top-right corner of the screen. Share your image as you would normally from the Photos app and the text will be included.
 
@@ -99,9 +99,23 @@ Tim Brookes / How-To Geek
 
 ![Export as PDF in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, launch the Shortcuts app and create a new Shortcut. Add the “Make Image from PDF Page” action to a new workflow. Change the “PNG Image” variable to whatever you want, and the “PDF” variable to “Shortcut Input.” Add a “Save to Photo Album” action, then hit the “i” button and make sure “Show in Share Sheet” is selected. Give your Shortcut a name, like “PDF Page to Image” and save it.
 
 ![Use a Shortcuts workflow to convert PDF to image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now open the PDF, hit Share, and tap on the “PDF Page to Image” Shortcut you just made. Your image will be in Photos, where you can crop and trim it as necessary.
 
@@ -123,22 +137,36 @@ Tim Brookes / How-To Geek
 
 ![Adjust text wrapping in a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, hit the plus “+” button again and, on the diagrams tab, select “Text” to add a text box. Double-tap within the text box and edit the text as necessary. Finish up and tap the text box to select it, then use the “Formatting” paintbrush icon to edit the font, size, color, and more on the “Text” tab.
 
 ![Adding text using a text box in Pages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Add more images, diagrams, and whatever else you see fit. Then hit the ellipsis “…” button and choose “Export” followed by “Images” to export as an image. Use the “Save Image” button to add the image to your Photos library.
 
 ![Export a Pages document as an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lastly, find the image and hit “Edit” and then crop out the white space. You can now share your image.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Add Text Using Third-Party Apps
 
@@ -158,13 +186,6 @@ Tim Brookes / How-To Geek
 
 ![insta2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Adding text to an Instagram story.
 
  Hit “Done” and then add anything else you want to your image using the included tools. When you’re ready, tap on the ellipsis “...” button in the top-right corner of the screen then select “Save” and the image will be saved to your camera roll.
@@ -181,13 +202,6 @@ Adding text to an Instagram story.
 
 ![Opening an image in the Pixlr editor for web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Use the toolbar at the bottom of the screen to select “Text” then select “Add new text” or choose from one of the stylized text tools.
 
 ![Adding a text box to an image in Pixlr Express.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr2.jpg) 
@@ -200,21 +214,7 @@ Adding text to an Instagram story.
 
 ![Export your Pixlr canvas as a JPEG.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose an image format, size, and quality level, and then use the “Download” button to save the image.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatively, Use a Computer
 
@@ -237,20 +237,24 @@ Adding text to an Instagram story.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-simple-steps-for-extracting-video-audio-as-mp3/"><u>[Updated] 2024 Approved Simple Steps for Extracting Video Audio as MP3</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-engaging-live-videos-on-smartphones-and-social-networks/"><u>[Updated] Crafting Engaging Live Videos on Smartphones & Social Networks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harness-the-magic-of-photography-and-video-with-pixiz/"><u>[Updated] Harness the Magic of Photography and Video with Pixiz</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt-for-2024/"><u>Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-ready-apple-maps-latest-update-promises-greater-accuracy/"><u>Get Ready: Apple Maps' Latest Update Promises Greater Accuracy</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-storing-apple-maps-data-locally-on-your-ios-devices/"><u>Guide: Storing Apple Maps Data Locally on Your iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/hotel-televisions-now-support-apples-revolutionary-airplay-technology/"><u>Hotel Televisions Now Support Apple's Revolutionary AirPlay Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-apple-allows-international-users-to-remove-safari-app-but-denies-same-privilege-within-the-united-states/"><u>How Apple Allows International Users to Remove Safari App but Denies Same Privilege Within the United States</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-do-i-understand-and-remove-iphones-aae-files-effectively/"><u>How Do I Understand & Remove iPhone's AAE Files Effectively?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 14 | Stellar</u></a></li>
-<li><a href="https://os-tips.techidaily.com/identifying-iphone-battery-woes-is-replacement-needed/"><u>Identifying iPhone Battery Woes: Is Replacement Needed?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-visuals-snap-camera-for-team-discussions/"><u>In 2024, Leveraging Visuals Snap Camera for Team Discussions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-latest-acer-touchpad-drivers-for-windows-10-download-now/"><u>Install Latest Acer Touchpad Drivers for Windows 10 - Download Now!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/international-progress-for-iphones-overcoming-boundaries-abroad-while-standing-strong-stateside/"><u>International Progress for iPhones: Overcoming Boundaries Abroad While Standing Strong Stateside</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-an-ai-text-generator/"><u>New In 2024, What Is an AI Text Generator?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-smart-tv-meets-social-networks-televising-fb-content/"><u>[New] 2024 Approved Smart TV Meets Social Networks Televising FB Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-all-inclusive-expense-exploration-embarking-on-a-podcast/"><u>[New] All-Inclusive Expense Exploration Embarking on a Podcast</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-indoor-android-games-you-can-play-without-a-network/"><u>2024 Approved Indoor Android Games You Can Play Without a Network</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/cut-the-clutter-polishing-videos-using-enhancer-22/"><u>Cut the Clutter Polishing Videos Using Enhancer 2.2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-review-razer-blade-14-balancing-portability-performance-and-expensive-pricing/"><u>Expert Review: Razer Blade 14 – Balancing Portability, Performance, and Expensive Pricing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/flat-to-fantastic-animated-text-transformations/"><u>From Flat to Fantastic Animated Text Transformations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-p55plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel P55+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-google-pixel-fold-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Google Pixel Fold Phones? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-alluring-world-of-high-quality-sound-editing-software-advantages-disadvantages-and-competitive-insights/"><u>New The Alluring World of High-Quality Sound Editing Software Advantages, Disadvantages, and Competitive Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-hitman-saga-conclusion-in-depth-hitman-3-analysis/"><u>The Ultimate Hitman Saga Conclusion - In-Depth Hitman 3 Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-apple-solutions-when-your-iphone-fails-to-deliver-messages/"><u>Troubleshooting Apple: Solutions When Your iPhone Fails to Deliver Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-fixing-and-resetting-your-apple-airpods-lineup-for-optimal-performance/"><u>Ultimate Troubleshooting: Fixing and Resetting Your Apple AirPods Lineup for Optimal Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-and-checking-photo-resolution-on-an-iphone-a-comprehensive-guide/"><u>Understanding and Checking Photo Resolution on an iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-magsafe-technology-on-iphones-features-and-uses/"><u>Understanding MagSafe Technology on iPhones: Features & Uses</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-swift-safeguard-measures-protecting-your-iphone-ipad-and-mac/"><u>Understanding Swift Safeguard Measures: Protecting Your iPhone, iPad, and Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-fitness-tracking-exploring-the-body-temperature-function-on-apple-watch/"><u>Understanding Your Fitness Tracking: Exploring the Body Temperature Function on Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-your-new-iphone-a-comprehensive-guide-to-10-must-try-features-and-applications/"><u>Unlocking the Power of Your New iPhone: A Comprehensive Guide to 10 Must-Try Features and Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unprecedented-low-pricing-on-apples-latest-ipad-pro-incredible-deals-await/"><u>Unprecedented Low Pricing on Apple's Latest iPad Pro - Incredible Deals Await!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-watchos-10-enhanced-features-with-the-revolutionary-smart-stack-and-upgraded-apps/"><u>Unveiling WatchOS 10: Enhanced Features with the Revolutionary Smart Stack & Upgraded Apps</u></a></li>
 </ul></div>
 

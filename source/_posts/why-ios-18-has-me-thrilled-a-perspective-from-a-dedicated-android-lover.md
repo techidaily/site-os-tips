@@ -1,7 +1,7 @@
 ---
 title: "Why iOS 18 Has Me Thrilled: A Perspective From a Dedicated Android Lover"
-date: 2024-09-10T10:43:55.746Z
-updated: 2024-09-11T10:43:55.746Z
+date: 2024-10-16T18:57:53.394Z
+updated: 2024-10-18T03:48:28.013Z
 tags:
   - ios
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686bd6bb8d68f0e5c1da41a0c90.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Why iOS 18 Has Me Thrilled: A Perspective From a Dedicated Android Lover
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -46,19 +18,12 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
  Apple showed off iOS 18 earlier this month, and while Apple Intelligence may be the headliner, there's a less buzzwordy feature coming to iPhones that I'm very excited about as an Android user. If you've ever been annoyed with the texting experience between iPhone and Android, you should be, too.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  iPhone and Android Texting: A Rocky Relationship
 
@@ -68,43 +33,23 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
  For the last few years, Google has been [trying to raise awareness that this whole mess is Apple's fault](https://vp-tips.techidaily.com/in-2024-top-win-friendly-art-programs-all-free-and-subscription-options/) and pressuring them to adopt RCS. Many of the problems are due to iPhones falling back to the much older SMS standard for non-iMessage messages. However, there's never been a benefit for Apple to fix the situation. It's likely that they only [decided to adopt RCS now](https://remote-screen-capture.techidaily.com/obs-and-shadowplay-which-streams-better/) due to a potential EU decision in the future.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How Will RCS Fix It?
 
 ![iPhone and Android phone texting with RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240628_143916110-portrait-original-2-1.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Joe Fedewa / How-To Geek
 
@@ -122,8 +67,6 @@ Joe Fedewa / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,12 +74,19 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-essential-tips-for-twitpic-uploads/"><u>[New] In 2024, Essential Tips for Twitpic Uploads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-causes-of-your-sluggish-ipad-and-effective-ways-to-boost-its-performance/"><u>Discover the Causes of Your Sluggish iPad & Effective Ways to Boost Its Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620258067-full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-to-watch-instead-7-best-list/"><u>Movies to Watch Instead - #7 Best List</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-top-platforms-in-social-networking-fb-tw-in-yt/"><u>Navigating the Top Platforms in Social Networking: FB, TW, IN, YT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/powerslide-music-integration-a-comprehensive-guide/"><u>PowerSlide Music Integration A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-choosing-between-igtv-and-youtube-for-content-creators-for-2024/"><u>The Ultimate Guide to Choosing Between IGTV & YouTube for Content Creators for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255570-troubled-by-a-glitchy-smartphone-discover-5-simple-fixes/"><u>Troubled by a Glitchy Smartphone? Discover 5 Simple Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-your-iphone-contacts-wont-update-on-icloud/"><u>Troubleshooting Steps When Your iPhone Contacts Won't Update on iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620250948-unable-to-add-songs-to-your-iphone-discover-the-top-5-fixes/"><u>Unable to Add Songs to Your iPhone? Discover the Top 5 Fixes!</u></a></li>
+</ul></div>
 

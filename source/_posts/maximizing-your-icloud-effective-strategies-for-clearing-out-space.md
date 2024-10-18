@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your iCloud: Effective Strategies for Clearing Out Space"
-date: 2024-10-10T13:07:35.951Z
-updated: 2024-10-11T18:44:50.295Z
+date: 2024-10-11T17:14:49.881Z
+updated: 2024-10-18T11:10:23.958Z
 tags:
   - ios
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 * [Delete Old Chats and Messages Attachments](https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/)
 * [Consider Upgrading Your iCloud Storage](https://extra-tips.techidaily.com/step-by-step-mastery-in-powerdirector-complete-2024-guide-and-tutorials/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Check the storage usage on all your devices to find what's using up your space.
@@ -35,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 * Back up your photos to a different cloud service like Google Photos or Flickr to save iCloud space.
 
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Identify the Biggest Storage Hogs
 
@@ -53,16 +39,16 @@ Close
 
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -73,6 +59,13 @@ Close
 ![The iPhone's Settings app with the Recommended For You option highlighted in the iCloud section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-icloud-recommended-for-you-selected.png) 
 
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Delete Outdated iPhone and iPad Backups
 
@@ -96,15 +89,22 @@ Close
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
@@ -114,19 +114,6 @@ Close
 Close 
 
  You can safely disable iCloud for apps that sync data online anyway, like Pocket or Facebook.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Back Up Your Photos to a Different Cloud Service
 
@@ -169,10 +156,16 @@ Close
 ![iCloud Mail in a web browser with the Empty Trash option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-icloud-mail-app-inbox-view-empty-trash-selected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you delete emails, remember to empty the trash afterward to have them removed permanently and free up storage space.
@@ -211,6 +204,19 @@ Close
 
 ![The Apple One bundle plans and pricing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-one-bundle-individual-family-premier-plans-pricing.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If that wasn't enough, you can subscribe to Apple One and also buy one of the five iCloud+ storage plans to get a whopping 14TB of cloud-based storage.
 
 ---
@@ -234,21 +240,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bypass-latency-with-av1-in-youtube-settings/"><u>[New] 2024 Approved Bypass Latency with AV1 in YouTube Settings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-your-route-to-youtube-entrepreneurship-top-10-easy-channels/"><u>[Updated] In 2024, Your Route to YouTube Entrepreneurship Top 10 Easy Channels</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-methods-to-autoplay-youtube-videos-on-facebook/"><u>[Updated] Methods to Autoplay Youtube Videos on Facebook?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dvd-dvd8/"><u>「すべてのビデオを自由にDVDにダウンロード！ DVDバッチング入門：第8巻」</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1-kunstliche-intelligenz-fur-bildbearbeitung-und-wiedergutmachung-auf-uhd8k-auflosungen-mit-winxvideo/"><u>1. Künstliche Intelligenz Für Bildbearbeitung Und -Wiedergutmachung Auf UHD/8K-Auflösungen Mit WinxVideo</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-reno-10-proplus-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Reno 10 Pro+ 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-manually-back-up-your-iphone-using-these-3-quick-and-easy-techniques/"><u>How to Manually Back Up Your iPhone Using These 3 Quick and Easy Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/leading-ios-tools-to-explore-and-manage-your-phones-sync-files/"><u>Leading iOS Tools to Explore and Manage Your Phone's Sync Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-mobile-camera-best-android-practices/"><u>Mastering Mobile Camera Best Android Practices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-iphones-important-reminders-a-step-by-step-guide-to-free-and-premium-note-backup-solutions/"><u>Protect Your iPhone's Important Reminders: A Step-by-Step Guide to Free and Premium Note-Backup Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-easy-techniques-securely-save-all-your-iphone-app-data/"><u>Quick & Easy Techniques: Securely Save All Your iPhone App Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-the-issue-of-non-visible-icloud-backups-a-comprehensive-guide/"><u>Resolving the Issue of Non-Visible iCloud Backups: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-conversations-how-to-preserve-and-relocate-iphone-text-messages-efficiently/"><u>Secure Your Conversations: How to Preserve and Relocate iPhone Text Messages Efficiently</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-to-protect-and-backup-whatsapp-conversations-on-iphones-a-comprehveiled-approach/"><u>Simple Steps to Protect and Backup WhatsApp Conversations on iPhones – A Comprehveiled Approach</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transferring-iso-files-onto-your-iphone-using-macos-a-comprehensive-guide/"><u>Transferring ISO Files Onto Your iPhone Using MacOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screensnipers-digest-the-ultimate-2023-software-roundup/"><u>[New] 2024 Approved ScreenSniper's Digest The Ultimate 2023 Software Roundup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-video-downloading-guide-free-ios-android-pc-mac-methods-for-2024/"><u>[New] Discord Video Downloading Guide Free iOS, Android, PC, Mac Methods for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games-for-2024/"><u>[New] Frontiers Unleashed A Review of the Best 7 Grand Strategy Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-software-a-gamers-livestream-compendium/"><u>[Updated] Best Software A Gamers' Livestream Compendium</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-essential-strategies-for-effective-content-management-in-creator-studio/"><u>2024 Approved Essential Strategies for Effective Content Management in Creator Studio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-anonymous-how-to-make-faces-and-objects-invisible/"><u>2024 Approved Visual Anonymous How to Make Faces and Objects Invisible</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-removing-apple-store-transactions-from-your-iphones-past-purchases/"><u>Complete Tutorial: Removing Apple Store Transactions From Your iPhone's Past Purchases</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-disabling-or-deleting-safari-app-on-iphones-ranging-from-xr-to-previous-generations/"><u>Comprehensive Tutorial on Disabling or Deleting Safari App on iPhones Ranging From XR to Previous Generations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-iphone-to-its-default-state-a-comprehensive-tutorial-for-wiping-and-refreshing-your-device/"><u>Resetting Your iPhone to Its Default State: A Comprehensive Tutorial for Wiping and Refreshing Your Device</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-ultimate-guide-to-performing-a-hard-reboot-on-your-msi-notebook/"><u>The Ultimate Guide to Performing a Hard Reboot on Your MSI Notebook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-simple-ways-to-free-up-space-by-deleting-unnecessary-ios-apps/"><u>Top 3 Simple Ways to Free Up Space by Deleting Unnecessary iOS Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-securely-profit-from-your-used-iphones-with-expert-techniques/"><u>Ultimate Guide: Securely Profit From Your Used iPhones with Expert Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-erasing-every-email-address-linked-to-your-ios-devices/"><u>Ultimate Tutorial: Erasing Every Email Address Linked to Your iOS Devices</u></a></li>
 </ul></div>
 

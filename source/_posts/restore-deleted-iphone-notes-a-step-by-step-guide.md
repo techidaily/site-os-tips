@@ -1,7 +1,7 @@
 ---
 title: "Restore Deleted iPhone Notes: A Step-by-Step Guide"
-date: 2024-08-18T09:16:48.155Z
-updated: 2024-08-19T09:16:48.155Z
+date: 2024-10-14T22:43:11.988Z
+updated: 2024-10-18T09:08:58.959Z
 tags:
   - ios-recovery
 categories:
@@ -42,9 +42,6 @@ Summary
 * [Part 2. How to fix a water damaged iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 * [Part 3. 3 ways to get back data if you drop your iPhone in water (with or without backup)](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. How to tell/know if your iPhone is water damaged or not
 
  If your iPhone X/8/7/SE/6/5/5c/4S/4 got wet, first, you may think whether your iPhone has water damaged or not? Please use iPhone Liquid Contact Indicators (Lcls) to check it. The liquid indicators are shown as the picture below.
@@ -80,9 +77,6 @@ Step 1 Run iOS System Recovery
  Launch this water damaged iPhone fix software on your computer. Connect your iPhone to it via USB cable. Click "More tools" on the left column and then tab the "iOS System Recovery" on the preview window. After that, click "Start" button fix water damaged iPhone to normal.
 
 ![Launch Fonelab](https://www.aiseesoft.com/images/ios-system-recovery/ios-system-recovery-800.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 Step 2 Enter recovery mode
 
@@ -90,15 +84,18 @@ Step 2 Enter recovery mode
 
 ![Led iPhone into Recovery Mode](https://www.aiseesoft.com/images/iphone-data-recovery/fix/into-recovery-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 Fix iPhone water damaged
 
  When your iPhone enters recovery mode, you'll be asked to confirm iPhone information, then click "Repair" button to download the repaired plug-in and restore iPhone. Wait until it's finished, your iPhone will boot up. Then you will fix water damaged iPhone successfully.
 
 ![Fix iPhone Red Screen to Normal](https://www.aiseesoft.com/images/iphone-data-recovery/fix/repairing.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
 ## Part 3\. Easiest way to get back data if you drop your iPhone in water (with or without backup)
 
@@ -113,8 +110,12 @@ Step 3 Fix iPhone water damaged
 [iPhone Data Recovery](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [For Mac](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
 ![iPhone Data Recovery](https://www.aiseesoft.com/images/iphone-data-recovery/box.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Recover iPhone MMS, photos, contacts and other data from normal iPhone directly.
@@ -126,42 +127,53 @@ Step 3 Fix iPhone water damaged
 
 [Way 1 Recover data from dried iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [Way 2 Restore files from iTunes backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [Way 3 Retrieve data from iCloud backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 1\. Recover data from dried iPhone directly
 
 Step 1 Install the software and launch it on your computer.
 
 ![Getting Started FoneLab](https://www.aiseesoft.com/images/iphone-data-recovery/getting-started.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 2 Scan the water damaged iPhone.
 
  After your iPhone is detected, just click "Start Scan". The program will scan your iPhone immediately.
 
 ![Start Scan with FoneLab](https://www.aiseesoft.com/images/iphone-data-recovery/start-scan-with-fonelab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
 Step 3 Select the data you want to recover.
 
  When the scan procedure is done, all the contents will be shown. You are provided to choose the category you would like to restore, and preview all the contents under this category.
 
 ![Choose Category from FoneLab](https://www.aiseesoft.com/images/iphone-data-recovery/choose-category-from-fonelab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For example, if you want to recover photos in Camera Roll, click Camera Roll on the left, then check photos you want and click Recover. Now you have recovered photos from your water damaged iPhone. If you want to recover all scanned data to computer, choose all and then click Recover to[back up iPhone to external drive](https://tools.techidaily.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Way 2\. Restore files from iTunes backup when water damaged iPhone won't turn on
 
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
@@ -171,9 +183,6 @@ Step 1 Still Run this recovery program on your computer that synced with your iP
 Pick up the iTunes backup and click "Start Scan".
 
 ![Select iTunes Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-from-itunes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2 After scanning, all iPhone data categories will be listed on the left control. Click specific category on the left, and you can check detailed information of each data on the right panel.
 
@@ -182,8 +191,18 @@ Step 2 After scanning, all iPhone data categories will be listed on the left con
 ![Retrieve Deleted iMessages from iTunes Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-imessage-from-itunes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Way 3\. Retrieve data from iCloud backup when iTunes backup is gone and iPhone is dead
 
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
@@ -203,6 +222,13 @@ Step 2 After logging, you can select the data type you want to recover and then 
 Step 3 After the scan process is done, you can view the data types as above, tick the data and click "Recover" button to save the lost data from iCloud backup to computer safely.
 
 ![Recover from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-recover-lost-data-from-icloud-backup.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Very easy, right? Three ways to retrieve your lost data from your water damaged iPhone so quickly and easily.
 
@@ -241,8 +267,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +274,22 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-essentials-of-starting-an-instagram-live-for-2024/"><u>[Updated] The Essentials of Starting an Instagram Live for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-c51-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-reason-behind-automatic-song-selection-in-apple-music-on-ios-devices/"><u>Exploring the Reason Behind Automatic Song Selection in Apple Music on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/generate-unique-iphone-alert-sounds-at-no-cost-using-easy-to-use-m4r-converter/"><u>Generate Unique iPhone Alert Sounds at No Cost Using Easy-to-Use M4R Converter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y200-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y200 Phone that is Locked?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-leveraging-vimeos-end-credits-for-visual-impact/"><u>In 2024, Leveraging Vimeo's End Credits for Visual Impact</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-17-power-consumption-problems-effective-fixes-and-tricks/"><u>IOS 17 Power Consumption Problems: Effective Fixes and Tricks</u></a></li>
+<li><a href="https://win-online.techidaily.com/mastering-pc-maintenance-a-step-by-step-strategy-with-pc-health-check-software/"><u>Mastering PC Maintenance: A Step-by-Step Strategy with PC Health Check Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-your-audio-file-for-apples-review-boards/"><u>Perfecting Your Audio File for Apple’s Review Boards</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-for-expertly-copying-videos-on-your-iphone-with-just-3-steps/"><u>Quick Tips for Expertly Copying Videos on Your iPhone with Just 3 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/setting-up-screen-time-restrictions-for-ios-devices-easy-step-by-step-instructions/"><u>Setting Up Screen Time Restrictions for iOS Devices - Easy Step-by-Step Instructions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-accessing-your-past-whatsapp-messages-on-ios-and-android-devices/"><u>Step-by-Step Guide: Accessing Your Past WhatsApp Messages on iOS & Android Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-rich-tapestry-of-farsi-history-and-its-learning-perks/"><u>The Rich Tapestry of Farsi History & Its Learning Perks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automated-file-deletion-on-windows/"><u>The Ultimate Guide to Automated File Deletion on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287913972-windows-11dvd/"><u>Windows 11にてDVDのコピー手順と優れた無料ソフトウェアの紹介</u></a></li>
+</ul></div>
 

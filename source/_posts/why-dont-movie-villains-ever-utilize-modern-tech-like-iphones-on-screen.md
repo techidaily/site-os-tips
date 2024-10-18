@@ -1,7 +1,7 @@
 ---
 title: Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
-date: 2024-10-08T19:33:26.456Z
-updated: 2024-10-12T06:26:11.598Z
+date: 2024-10-13T20:26:20.933Z
+updated: 2024-10-18T06:59:48.518Z
 tags:
   - ios
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Apple products are extremely prevalent in TV shows and movies, but the company doesn't pay for product placement. Apple is more than happy to provide MacBooks, iPads, and iPhones to studios, but there's one unique stipulation.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Does Product Placement Work?
@@ -34,16 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  According to [Bloomberg](https://www.bloomberg.com/news/articles/2012-05-10/apple-the-other-cult-in-hollywood), Apple does not pay for product placement, at least not with money. Instead, it provides its devices to studios for free as props. Apple even [provided Modern Family](https://www.hollywoodreporter.com/tv/tv-news/modern-family-creator-explains-ipad-53367/) with the first iPad before it was available. It appeared in an episode two days before people could buy it.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple's Product Placement Rules
@@ -77,19 +71,17 @@ Related: [Why Do TV Shows and Movies Cover Up Logos?](https://driver-download.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>[New] In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-travel-a-dive-into-vr-tour-possibilities/"><u>[New] Revolutionizing Travel A Dive Into VR Tour Possibilities</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-fundamentals-of-color-grading-using-luts-in-ae-for-2024/"><u>[Updated] The Fundamentals of Color Grading Using LUTs in AE for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-the-lg-k92-beyond-the-hype-of-5g-technology/"><u>Comprehensive Guide to the LG K92: Beyond The Hype of 5G Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-secret-ios-applications-a-step-by-step-guide/"><u>Discovering Secret iOS Applications: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-chatgpt-adhere-to-a-maximum-character-or-word-count-in-its-replies/"><u>Does ChatGPT Adhere to a Maximum Character or Word Count in Its Replies?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-ios-data-rescue-techniques-how-to-reclaim-lost-files-on-your-apple-devices/"><u>Expert IOS Data Rescue Techniques: How to Reclaim Lost Files on Your Apple Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>In 2024, Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/record-video-directly-from-webcam-using-vlc-media-player-for-2024/"><u>Record Video Directly From Webcam Using VLC Media Player for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/regain-your-tunes-effective-strategies-for-retrieving-accidentally-erased-songs/"><u>Regain Your Tunes: Effective Strategies for Retrieving Accidentally Erased Songs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-your-lost-kik-photos-and-messages-a-comprehensive-guide/"><u>Restore Your Lost Kik Photos and Messages: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-your-safari-bookmarks-from-an-itunes-data-backup/"><u>Step-by-Step Guide: Recovering Your Safari Bookmarks From an iTunes Data Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-6-ultimate-iphone-apps-for-restoring-lost-photographs/"><u>The 6 Ultimate iPhone Apps for Restoring Lost Photographs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-perfecting-the-art-of-interviews-iphone-and-ipad-recording-techniques/"><u>[New] 2024 Approved Perfecting the Art of Interviews IPhone & iPad Recording Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/4-effective-methods-to-recover-your-apps-via-icloud-backup/"><u>4 Effective Methods to Recover Your Apps via iCloud Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-you-restore-lost-imessages-from-ios-devices-explore-the-methods-using-a-mac-computer/"><u>Can You Restore Lost iMessages From iOS Devices? Explore the Methods Using a Mac Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-kobo-clara-colour-edition-a-comprehensive-e-reader-review/"><u>Expert Analysis: Kobo Clara Colour Edition - A Comprehensive E-Reader Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nokia-130-music-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nokia 130 Music Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-deleted-contacts-on-icloud-using-these-3-simple-techniques/"><u>Recover Deleted Contacts on iCloud Using These 3 Simple Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-tracks-on-your-ios-device-even-if-you-lack-a-backup/"><u>Retrieve Accidentally Deleted Tracks on Your iOS Device Even If You Lack a Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieving-lost-iphone-data-effective-techniques-including-both-backed-up-and-non-backed-up-scenarios/"><u>Retrieving Lost iPhone Data: Effective Techniques Including Both Backed-Up and Non-Backed-Up Scenarios</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/x-recorder-software-efficient-pc-sound-recording-for-2024/"><u>X-Recorder Software Efficient PC Sound Recording for 2024</u></a></li>
 </ul></div>
 

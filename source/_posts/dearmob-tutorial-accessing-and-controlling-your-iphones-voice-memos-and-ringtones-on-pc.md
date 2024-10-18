@@ -1,7 +1,7 @@
 ---
 title: "DearMob Tutorial: Accessing and Controlling Your iPhone's Voice Memos & Ringtones on PC"
-date: 2024-10-06T09:41:56.531Z
-updated: 2024-10-12T06:59:43.812Z
+date: 2024-10-12T21:40:23.406Z
+updated: 2024-10-18T06:28:11.915Z
 tags:
   - iphone-manager
 categories:
@@ -45,10 +45,10 @@ In DearMob,
 ![Select multiple voice memos to save](https://www.5kplayer.com/user-guide/images/userguide-how/select-voice-memos-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3\. Save voice memos to the custom folder created in step 1.**
@@ -56,13 +56,6 @@ In DearMob,
 * Tap the On My iPhone option, and find the File Sharing app folder. In this case, it's the Pages folder. Go inside there, and you will spot the custom folder named voicememo-save.
 * Hit the Save option to save the voice memos.
 ![Save voice memos to the file sharing folder](https://www.5kplayer.com/user-guide/images/userguide-how/select-voice-memos-file-sharing-folder.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4\. View and manage voice memos in DearMob iPhone Manager > Files > \[the file sharing app you choose\] > \[custom folder\]**
 
@@ -80,14 +73,14 @@ In DearMob,
 
 ![export voice to pc](https://www.5kplayer.com/user-guide/images/userguide-how/transfer-and-delete-voice-memos-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click **Refresh** to get real-time voice memos of your iPhone.
 * Click **Select All** on the top-left corner of the window to manage all memos in one take.
@@ -107,22 +100,29 @@ In DearMob,
 
 ![add voice from pc](https://www.5kplayer.com/user-guide/images/userguide-how/add-ringtones-from-windows-to-iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to customize your own ringtone, you can use the following two ways:
 
 * In the Ringtone panel, click **Make Ringtone** on the top right corner of the window to start editing.
 * Go to the Music Manager, and find the song that you wish to turn into custom ringtone, and click the **Make Ringtone** to start editing.
 ![export voice to pc](https://www.5kplayer.com/user-guide/images/userguide-how/customize-ringtone-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now in the Ringtone Maker panel, drag the heads to select a part of the audio as your iPhone ringtone, and click Sync button to apply all the settings.
 
 ![export voice to pc](https://www.5kplayer.com/user-guide/../troubleshoot-itunes/img/iphone-custom-ringtone-clipper.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
@@ -147,18 +147,19 @@ Now in the Ringtone Maker panel, drag the heads to select a part of the audio as
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>[Updated] Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-8-youtube-thumbnail-grabbers/"><u>[Updated] Top 8 YouTube Thumbnail Grabbers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instas-best-practices-choosing-videography-sizes-and-formats/"><u>2024 Approved Insta's Best Practices - Choosing Videography Sizes & Formats</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-11-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 11 Pro Max</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/emulate-action-by-adding-blur-to-stillness/"><u>Emulate Action by Adding Blur to Stillness</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-fix-stuck-instagram-story-pins/"><u>In 2024, Fix Stuck Instagram Story Pins</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-essentials-a-step-by-step-guide-to-utilizing-your-phones-android-system-recovery/"><u>Mastering the Essentials: A Step-by-Step Guide to Utilizing Your Phone's Android System Recovery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-optimization-tips-for-smooth-serious-sam-4-gaming-experience-without-delays-or-freezes/"><u>PC Optimization Tips for Smooth Serious Sam 4 Gaming Experience Without Delays or Freezes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-precious-photos-and-contacts-mend-shattered-phone-screens-with-ease/"><u>Protect Your Precious Photos & Contacts: Mend Shattered Phone Screens with Ease</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-for-overcoming-the-app-cannot-be-installed-error/"><u>Quick Fixes for Overcoming the 'App Cannot Be Installed' Error</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-the-android-system-3e-problem-a-step-by-step-guide-for-file-recovery/"><u>Resolving the Android System 3E Problem: A Step-by-Step Guide for File Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-viewing-with-androids-screen-mirroring-feature-connect-devices-for-hd-experience/"><u>Seamless Viewing with Android's Screen Mirroring Feature: Connect Devices for HD Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uber-vs-taxi-a-cost-comparison-which-is-more-budget-friendly/"><u>Uber Vs. Taxi: A Cost Comparison - Which Is More Budget-Friendly?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-perfecting-photography-with-phantoms-retrograde-technique/"><u>[New] Perfecting Photography with Phantom's Retrograde Technique</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-above-and-beyond-uavs-for-gopro-recording-excellence/"><u>[Updated] Above and Beyond UAVs for GoPro Recording Excellence</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-all-about-io-screen-capture-mastery-guidebook/"><u>[Updated] In 2024, All About IO Screen Capture Mastery Guidebook</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlocking-the-full-potential-of-googles-podcast-tools/"><u>2024 Approved Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-how-to-rapidly-resolve-no-location-found-issues-on-your-iphone/"><u>Effortless Solutions: How to Rapidly Resolve 'No Location Found' Issues on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-steps-to-resolve-difficulty-logging-into-apple-account-an-expert-approach/"><u>Essential Steps To Resolve Difficulty Logging Into Apple Account - An Expert Approach</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-change-your-apple-id-password-a-step-by-step-guide-with-or-without-using-email-and-phone/"><u>How to Change Your Apple ID Password: A Step-by-Step Guide with or without Using Email & Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-f54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy F54 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gimbal-innovation-markets-elite-selections/"><u>In 2024, Gimbal Innovation Market's Elite Selections</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-vivo-y100i-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y100i Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-prose-edda/"><u>The Prose Edda</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-solutions-to-restore-wi-fi-bars-post-ios-17-upgrade/"><u>Top 5 Solutions to Restore Wi-Fi Bars Post-iOS 17 Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-understanding-false-virus-warnings-and-top-5-strategies-to-prevent-them/"><u>Unveiling the Truth: Understanding False Virus Warnings & Top 5 Strategies to Prevent Them</u></a></li>
 </ul></div>
 

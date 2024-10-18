@@ -1,7 +1,7 @@
 ---
 title: "Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!"
-date: 2024-10-10T16:46:40.724Z
-updated: 2024-10-12T07:41:47.387Z
+date: 2024-10-17T07:53:45.092Z
+updated: 2024-10-18T08:57:32.552Z
 tags:
   - ios
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539
 
  All features are available when [messaging Apple users with iMessage](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/). Some features are [compatible with other types of devices](https://on-screen-recording.techidaily.com/new-in-2024-10-exceptional-educational-sites-a-look-without-udemy/) like Android phones but may appear or work a bit differently.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Edit Recently Sent Messages
 
  New as of [iOS 16](https://youtube-clips.techidaily.com/in-2024-editors-dream-machine-top-portable-video-edits-tools/), [iPadOS 16](https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/), and [macOS Ventura](https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/), you can [edit a text message](https://instagram-video-recordings.techidaily.com/new-instagram-content-top-15-download-apps-unveiled-for-2024/) for up to 15 minutes after you send it.
@@ -45,15 +38,22 @@ Related: [How to Unsend or Edit an iMessage on iPhone, iPad and Mac](https://ins
 
 ![Edit a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Edit-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your recipient can see an Edited indicator below the message that they can select to view the original message.
 
 ![Edit a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Edit-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Undo Send for the Last Message
@@ -64,14 +64,14 @@ Related: [How to Unsend or Edit an iMessage on iPhone, iPad and Mac](https://ins
 
 ![Undo Send in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/UndoSend-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that your recipient may see the message before you unsend it. However, it does vanish from the conversation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Inline Replies to Organize Responses
 
@@ -82,6 +82,13 @@ Related: [How to Use Inline Replies in Messages on iPhone and iPad](https://extr
  On iPhone and iPad, tap and hold the sent message bubble or on Mac, right-click. Select "Reply." You'll see the specific message you want to reply to front and center with the rest blurred. Enter your reply in the message field and send it as normal.
 
 ![Reply to a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Reply-MessagesThingsDidntKnowDo.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You and your recipient will then see a line connecting the reply to the message in the main conversation. Select the Reply or Replies link below the message to see that entire "side conversation" with the rest blurred.
 
@@ -109,6 +116,13 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 
 ![Emoji icon on an iPhone keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EmojiKey-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll see any words in your message that have matching emoji become highlighted. Tap a highlighted word to replace it with the emoji. For some words, you may see different options you can pick from directly above the word.
 
 ![Words highlighted and replaced with emoji in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Emoji-MessagesThingsDidntKnowDo.png) 
@@ -122,10 +136,16 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 ![Mention in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Mention-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your recipient sees their name nice and bold to get their attention.
@@ -147,10 +167,10 @@ Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-captu
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll then see your handwriting or sketch in the text message field. Simply send it like any other message.
@@ -158,10 +178,10 @@ Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-captu
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Filter Messages
@@ -198,23 +218,9 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
 
 ![Effects in Messages on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EffectsiPhone-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Mac, type your message, select the capital A icon to the left of the message field, and pick "Message Effects." You'll see all Bubble and Screen effects together on one screen. Select one to see a preview and click the Send button to use it.
 
 ![Effects in Messages on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EffectsMac-MessagesThingsDidntKnowDo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your recipient will see your effect the first time they view the message. They can also tap Replay above the message bubble to enjoy it again.
 
@@ -237,19 +243,19 @@ Related: [10 Great iPhone Features You Should Be Using](https://some-skills.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-goovision-elite-next-gen-screen-capture-for-2024/"><u>[Updated] GooVision Elite Next-Gen Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laughing-lane-the-no-10-guide-to-memelore/"><u>[Updated] Laughing Lane - The No. 10 Guide to Memelore</u></a></li>
-<li><a href="https://os-tips.techidaily.com/decoding-the-color-codes-in-ios-messaging-the-significance-of-green-vs-blue-imessages/"><u>Decoding the Color Codes in iOS Messaging: The Significance of Green Vs. Blue iMessages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-setapp-a-new-era-for-iphone-app-shopping-beyond-the-official-apple-store/"><u>Discover SetApp – A New Era for iPhone App Shopping Beyond the Official Apple Store</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-ios-18-scheduled-rollout-synced-devices-revolutionary-enhancements-inside/"><u>Discovering iOS 18: Scheduled Rollout, Synced Devices, Revolutionary Enhancements Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-your-device-a-step-by-step-guide-to-locating-your-iphones-mac-address/"><u>Discovering Your Device: A Step-by-Step Guide to Locating Your iPhone's MAC Address</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-to-design-and-tailor-iphone-based-business-card-templates/"><u>Easy Steps to Design & Tailor iPhone-Based Business Card Templates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/futureproof-your-device-elite-list-of-immune-smartphone-cases-against-water-damage/"><u>Futureproof Your Device: Elite List of Immune Smartphone Cases Against Water Damage</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-yuva-2-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Lava Yuva 2 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sj6-ultimate-face-off-with-xiaomis-yi-4k-genius/"><u>In 2024, SJ6 Ultimate Face-Off with Xiaomi's Yi 4K Genius</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-to-screen-partnerships-for-mcns-for-2024/"><u>Scope-to-Screen Partnerships for MCNs for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-off-windows-sticky-keys-activation-instructions/"><u>Turning Off Windows Sticky Keys Activation Instructions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-becoming-an-instagram-editor-extraordinaire/"><u>[New] 2024 Approved Becoming an Instagram Editor Extraordinaire</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-high-end-displays-ranked-1-to-5-ps5/"><u>2024 Approved High-End Displays Ranked #1 to #5 (PS5)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unleashing-the-power-of-light-advanced-hdr-in-ps/"><u>2024 Approved Unleashing the Power of Light Advanced HDR in PS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-blaze-curve-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Blaze Curve 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-14-pro-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 14 Pro Max Lock Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>In 2024, Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-efficiency-adding-widgets-to-your-iphones-lock-screen-tutorial/"><u>Maximize Efficiency: Adding Widgets to Your iPhone's Lock Screen Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-year-on-reflecting-on-the-apple-watch-ultras-journey/"><u>One Year On: Reflecting on the Apple Watch Ultra's Journey</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-location-data-discover-new-privacy-controls-in-google-maps-recent-upgrade-for-mobile-users/"><u>Protect Your Location Data: Discover New Privacy Controls in Google Maps' Recent Upgrade for Mobile Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protecting-privacy-a-guide-to-encrypting-pictures-on-apples-mobile-platforms/"><u>Protecting Privacy: A Guide to Encrypting Pictures on Apple's Mobile Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-fitness-journey-using-this-simple-iphone-app-based-tracker-for-weight-management/"><u>Revolutionize Your Fitness Journey Using This Simple iPhone App-Based Tracker for Weight Management</u></a></li>
 </ul></div>
 

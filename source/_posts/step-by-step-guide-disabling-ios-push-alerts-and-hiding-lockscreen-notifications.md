@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2024-10-09T17:04:30.570Z
-updated: 2024-10-12T10:34:11.304Z
+date: 2024-10-14T19:11:46.018Z
+updated: 2024-10-18T00:48:56.363Z
 tags:
   - ios
 categories:
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
@@ -61,26 +61,26 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![Tap "Notifications" in the listed options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-notifications.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Notifications, scroll through the list and tap the name of the app that you want to prevent from waking your screen. In this case, we're using Messages as an example, but you could do it for Facebook Messenger, Signal, Twitter, FaceTime, or any other app.
 
 ![We selected the Messages app in the Notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-messages.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the app's notification settings, tap "Lock Screen" to uncheck it.
 
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
@@ -102,19 +102,22 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-hottest-youtube-music-playback-responses-23/"><u>[New] In 2024, Hottest YouTube Music Playback Responses '23</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ettled-evasive-behavior-of-shorts-content-for-2024/"><u>[New] Settled Evasive Behavior of Shorts Content for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-sony-s6700-revised-whats-new-in-2024/"><u>[New] Sony S6700 Revised - What's New, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-experts-picks-for-high-quality-vector-websites/"><u>[New] The Expert's Picks for High-Quality Vector Websites</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-review-of-syma-x5c-the-ultimate-drone-guide-for-new-users/"><u>[Updated] Review of Syma X5C – The Ultimate Drone Guide for New Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tips-to-retrieve-accidentally-deleted-photos-from-ios-and-android-smartphones/"><u>Easy Tips to Retrieve Accidentally Deleted Photos From iOS and Android Smartphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-rescue-deleted-phone-numbers-effective-strategies-for-retrieving-iphone-contact-information/"><u>How to Rescue Deleted Phone Numbers: Effective Strategies for Retrieving iPhone Contact Information</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620271210-missing-from-my-phone-recover-vanished-iphone-pictures-fast/"><u>Missing From My Phone: Recover Vanished iPhone Pictures Fast!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/offline-and-online-solutions-for-retrieving-lost-instagram-dms-on-your-phone-complete-tutorial/"><u>Offline & Online Solutions for Retrieving Lost Instagram DMs on Your Phone - Complete Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-crafting-your-own-karaoke-hits-and-videos-free/"><u>Quick Guide: Crafting Your Own Karaoke Hits & Videos - Free!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-resolving-iphones-persistent-headphones-trouble/"><u>Ultimate Guide: Resolving iPhone's Persistent Headphones Trouble</u></a></li>
-<li><a href="https://win-answers.techidaily.com/win11-specific-solutions-for-resolving-minecraft-installation-problems/"><u>Win11 Specific Solutions for Resolving Minecraft Installation Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-engagement-choosing-your-fb-video-direction/"><u>[New] 2024 Approved Maximizing Engagement - Choosing Your FB Video Direction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-drive-participation-with-artisanal-story-inquiries-for-2024/"><u>[New] Drive Participation with Artisanal Story Inquiries for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dissecting-vr-a-modern-cinematic-tech/"><u>[Updated] In 2024, Dissecting VR A Modern Cinematic Tech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-users-essential-toolkit-seamlessly-syncing-your-apps-with-proven-backup-and-restore-techniques/"><u>Android Users' Essential Toolkit: Seamlessly Syncing Your Apps with Proven Backup and Restore Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/back-up-your-memories-for-free-set-up-automatic-google-photo-sync/"><u>Back Up Your Memories for Free: Set Up Automatic Google Photo Sync</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-enhancing-your-websites-performance/"><u>Cookiebot-Enhanced: Enhancing Your Website's Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-mobile-contacts-saving-tips-for-users-of-android-and-iphone-systems/"><u>Effortless Mobile Contacts Saving Tips for Users of Android & iPhone Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-mobile-syncing-your-comprehensive-manual-for-seamless-phone-backups/"><u>Effortless Mobile Syncing: Your Comprehensive Manual for Seamless Phone Backups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-erase-your-androids-auto-backups-simple-steps-for-a-clean-device/"><u>Effortlessly Erase Your Android's Auto Backups: Simple Steps for a Clean Device</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-save-your-customized-email-signatures-successfully-in-microsoft-outlook-365-problem-solved/"><u>How to Save Your Customized Email Signatures Successfully in Microsoft Outlook 365 (Problem Solved)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-t2-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo T2 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620202232-keep-your-pics-safe-without-costing-a-penny-effortless-auto-upload-on-google-photos/"><u>Keep Your Pics Safe Without Costing a Penny - Effortless Auto-Upload on Google Photos!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-your-memories-effortless-downloading-of-google-photos-for-android-ios-windows-and-mac-users/"><u>Master Your Memories: Effortless Downloading of Google Photos for Android, iOS, Windows, & Mac Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/simplified-pathway-using-instagram-live-effectively/"><u>Simplified Pathway Using Instagram Live Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-effective-techniques-for-factory-rebooting-a-secured-htc-device/"><u>Step-by-Step Guide: Effective Techniques for Factory Rebooting a Secured HTC Device</u></a></li>
 </ul></div>
 

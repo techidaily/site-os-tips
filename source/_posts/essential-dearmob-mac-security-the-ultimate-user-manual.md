@@ -1,7 +1,7 @@
 ---
 title: "Essential DearMob Mac Security: The Ultimate User Manual"
-date: 2024-10-07T06:26:18.260Z
-updated: 2024-10-11T21:12:40.553Z
+date: 2024-10-12T16:35:18.680Z
+updated: 2024-10-18T00:06:40.983Z
 tags:
   - iphone-manager
 categories:
@@ -23,10 +23,10 @@ One way to protect iDevice backup is using iTunes. This time it won't be that co
 By using [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) for Mac, you can encrypt photos, videos and contacts exported from iDevices at military grade; password protect local photos and videos on Mac; decrypt files with DearMob encryption anytime you want to.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Encrypt Photos and Videos with Password on Mac
@@ -40,19 +40,6 @@ DearMob allows you to,
 
 ![Add file for encryption on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Click **Encrypt Now** and the **Settings** window would pop up.  
  4\. Check the box "I've already know...", enter your new password, and then click OK.
 
@@ -60,16 +47,16 @@ DearMob allows you to,
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can apply the same passwords to Photo, Video and Contact encryption.
 * Create your password with numbers, uppercase letter and lowercase letter.
 * The **Setting** window would pop out for you to set password for encryption, if you didn't set it before.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Decrypt Files Encrypted by DearMob on Mac
 
@@ -79,13 +66,20 @@ DearMob allows you to,
 ![Decrypt files on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * DearMob only decrypts files that were enciphered by DearMob iPhone Manager itself.
 * Tick **Temporarily save password** to remember your decode password for all decryptions.
@@ -113,16 +107,22 @@ DearMob allows you to,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fifth-round-of-top-time-lapse-capture-apps/"><u>[New] In 2024, Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-comprehensive-guide-to-advanced-fcp-features-for-2024/"><u>[Updated] Comprehensive Guide to Advanced FCP Features for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>2024 Approved Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-non-responsive-quicktime-playback-on-macos-devices/"><u>Fixing Non-Responsive QuickTime Playback on macOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-color-expert-tips-for-troubleshooting-a-black-screened-mac/"><u>How to Restore Color: Expert Tips for Troubleshooting a Black-Screened Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-multiplatform-recorder-for-pcs/"><u>In 2024, Elite Multiplatform Recorder for PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mastering-cross-platform-reading-transition-from-nook-to-amazon-kindle/"><u>Mastering Cross-Platform Reading: Transition From Nook to Amazon Kindle</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-resolving-non-responsive-imovie-issues/"><u>Solutions for Resolving Non-Responsive iMovie Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/speeding-up-safari-how-to-restore-swift-browsing-speeds-on-your-mac/"><u>Speeding Up Safari: How to Restore Swift Browsing Speeds on Your Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-7-proven-methods-to-resolve-your-macs-sudden-black-screen-problem/"><u>Top 7 Proven Methods to Resolve Your Mac's Sudden Black Screen Problem</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-a-signature-look-starting-with-self-reflection/"><u>[New] 2024 Approved Crafting a Signature Look Starting with Self-Reflection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-unmentioned-free-speech-to-text-tools-for-mac-users-for-2024/"><u>[New] Best Unmentioned Free Speech to Text Tools for Mac Users for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-srt-manipulation-for-mac-enthusiasts/"><u>[Updated] Step-by-Step SRT Manipulation for Mac Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-analysis-of-video-editing-powerdirector-pro-suite-review/"><u>2024 Approved Comprehensive Analysis of Video Editing PowerDirector Pro Suite Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-guide-to-financial-gains-from-social-video-content/"><u>2024 Approved The Ultimate Guide to Financial Gains From Social Video Content</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-causes-of-your-sluggish-ipad-and-effective-ways-to-boost-its-performance/"><u>Discover the Causes of Your Sluggish iPad & Effective Ways to Boost Its Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/1719366214502-efficient-support-paths-for-common-windows-concerns/"><u>Efficient Support Paths for Common Windows Concerns!</u></a></li>
+<li><a href="https://windows11.techidaily.com/expedite-photo-corrections-ps-and-windows-strategy/"><u>Expedite Photo Corrections: PS & Windows Strategy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620258067-full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premiere-video-editing-options-for-app-developers/"><u>In 2024, Premiere Video Editing Options for App Developers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-picture-mosaic-concepts-illuminate-your-world/"><u>Innovative Picture Mosaic Concepts Illuminate Your World</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-puzzle-of-itunes-error-17-explore-8-proven-strategies-in-our-comprehensive-tutorial/"><u>Solving the Puzzle of iTunes Error 17 - Explore 8 Proven Strategies in Our Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-techniques-from-ipod-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry and Exit Techniques From iPod Recovery Mode</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-easy-fixes-for-overcoming-iphones-passcode-demand/"><u>Top 5 Easy Fixes for Overcoming iPhone's Passcode Demand</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255570-troubled-by-a-glitchy-smartphone-discover-5-simple-fixes/"><u>Troubled by a Glitchy Smartphone? Discover 5 Simple Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-your-iphone-contacts-wont-update-on-icloud/"><u>Troubleshooting Steps When Your iPhone Contacts Won't Update on iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620250948-unable-to-add-songs-to-your-iphone-discover-the-top-5-fixes/"><u>Unable to Add Songs to Your iPhone? Discover the Top 5 Fixes!</u></a></li>
 </ul></div>
 

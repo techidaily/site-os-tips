@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve Lost Friends' Information From Facebook Messenger on iOS Devices
-date: 2024-08-18T09:15:19.240Z
-updated: 2024-08-19T09:15:19.240Z
+date: 2024-10-14T03:32:37.425Z
+updated: 2024-10-18T06:40:51.463Z
 tags:
   - ios-recovery
 categories:
@@ -36,8 +36,12 @@ Step 1 **Scan iPhone MMS**
  Connect your iPhone to computer via USB cable, choose "Recover from iOS Device", and click "Start Scan" button in the interface.
 
 ![Scan iPhone Safari Bookmark](https://www.aiseesoft.com/images/iphone-data-recovery/scan-iphone-safari-bookmark.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2 **Recover MMS from iPhone**
@@ -45,8 +49,12 @@ Step 2 **Recover MMS from iPhone**
  After finishing the canning process, click "Message Attachments" on the left sidebar. Switch on the "Only display the deleted item(s)" toggle to display the deleted MMS attachments only. Also, repeat the operation to view your deleted messaging text. Select the deleted MMS (including messages and attachments) you want to recover and click "Recover" to get your lost MMS back.
 
 ![Recover SMS from iTunes](https://www.aiseesoft.com/images/iphone-data-recovery/recover-sms-from-itunes.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you use this mode to recover your iPhone MMS, you should pay attention to the following tips:  
@@ -67,9 +75,6 @@ Step 1 **Scan iTunes backup**
  Under the "Recover from iTunes Backup File" mode, select the latest backup file name and click "Start Scan". The program will scan the iTunes backup instantly.
 
 ![Recover from iTunes](https://www.aiseesoft.com/images/iphone-data-recovery/recover-from-itunes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
 Step 2 **Restore MMS from iTunes backup**
 
@@ -86,16 +91,23 @@ Step 1 **Download iCloud backup**
  Select the mode of Recover from iCould, then sign in with your Apple ID and Password.
 
 ![Recover from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-sign-into-icloud-account.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There will be 2 ways for you to scan and recover deleted data from iCloud. You can choose to recover specific data type you want from iCloud like Contacts, Notes, Reminders, Photos, etc.
 
 ![Fonelab Select Data Type from iCloud for Scanning](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-select-data-type-from-icloud-for-scanning.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also choose to recover from iCloud backup files. If so, please click the iCloud backup option. Find the latest backup, and click "Download" to access iCloud backup to your computer.
@@ -120,9 +132,6 @@ Step 2 **Recover MMS from iCloud backup**
 You can learn the steps from the video below:
 
 ![Video Recover Deleted iPhone Data](https://www.aiseesoft.com/images/youtube-video/video-recover-deleted-iphone-data.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 What do you think of this post?
 
@@ -155,8 +164,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +171,18 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-the-blueprint-for-becoming-a-trending-force-on-facebook/"><u>[New] The Blueprint for Becoming a Trending Force on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-ultra-fast-macx-dvd-ripper-seamless-free-software-for-high-quality-mac-dvd-extraction-and-conversion/"><u>1. Ultra-Fast MacX DVD Ripper: Seamless, Free Software for High-Quality Mac DVD Extraction & Conversion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/cross-platform-update-fortnite-makes-a-comeback-on-iphones-and-launches-on-android-systems/"><u>Cross-Platform Update: Fortnite Makes a Comeback on iPhones & Launches on Android Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-the-current-period-option-for-your-iphones-cellular-data-usage-insights-and-tips/"><u>Decoding the 'Current Period' Option for Your iPhone's Cellular Data Usage: Insights and Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-your-must-use-iphone-audio-tool-a-hidden-gem-in-music-apps/"><u>Discover Your Must-Use iPhone Audio Tool: A Hidden Gem in Music Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/downsizing-pictures-like-a-pro-on-iphone-and-ipad/"><u>Downsizing Pictures Like a Pro on iPhone & iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-to-enable-screen-time-restrictions-for-apps-on-apples-iphone-and-ipad/"><u>Easy Steps to Enable Screen Time Restrictions for Apps on Apple's iPhone & iPad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-best-practices-for-high-quality-streaming-of-sporting-games/"><u>In 2024, Best Practices for High-Quality Streaming of Sporting Games</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-12-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 12</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-strategies-for-effective-use-of-zoom-on-win11/"><u>In 2024, Transformative Strategies for Effective Use of Zoom on Win11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-your-privacy-with-stellar-file-eraser-v5-the-ultimate-standard-edition-for-windows-data-cleanse/"><u>Master Your Privacy with Stellar File Eraser v5: The Ultimate Standard Edition for Windows Data Cleanse</u></a></li>
+</ul></div>
 

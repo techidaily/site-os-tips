@@ -1,27 +1,13 @@
 ---
 title: Diving Into Vintage Video Games on My iPhone - A Weekend of Discovery and Lessons.
-date: 2024-09-10T10:44:06.539Z
-updated: 2024-09-11T10:44:06.539Z
+date: 2024-10-11T22:12:22.766Z
+updated: 2024-10-18T06:47:56.593Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/delta_iphone_featured.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Diving Into Vintage Video Games on My iPhone - A Weekend of Discovery and Lessons.
 
@@ -32,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Enhance your emulator experience with a physical controller, by managing notifications, and keeping your battery topped up. Alternatively, explore handheld PC options like the Steam Deck.
 
  You can now turn your iPhone into a retro gaming machine, no jailbreak required. But just because you can, doesn’t necessarily mean you should. Here’s what I’ve learned so far.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Emulators on _My_ iPhone?
 
@@ -47,26 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![SNES classic RPG Chrono Trigger running on Delta for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chrono_trigger_delta.PNG) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  It’s the experience that retro gaming enthusiasts who also happen to own an iPhone have dreamed about. If you had previously considered switching to Android to play older games on the go, you no longer need to do that. If you’re sick of mobile games and would rather level up your Charmander on the bus, you can.
 
  Unfortunately, there are a few drawbacks to playing retro games on your iPhone. On-screen touch controls are still bad for precise input. They always have been, and they probably always will be. This is a limitation of the form factor, not the emulator. It means that some games are simply best avoided if you’re going to rely on touch controls.
@@ -76,20 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Fortunately, there is a whole stack of slower-paced games that you can play instead. Turn-based RPGs like _Chrono Trigger_ and just about any game in the _Pokémon_ franchise feel right at home on your iPhone. And then there’s everything in between, like touchscreen triumphs _Ghost Trick_ and _Brain Age_ on the Nintendo DS.
 
 ![Brain Age for Nintendo DS running on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/brain_age_delta.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Emulation is powered by well-known cores like [Snes9x](https://github.com/snes9xgit/snes9x) and [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), open-source projects that ensure excellent compatibility with game libraries. The experience may not be pixel-perfect (you’ll need original hardware or an [FPGA-based device like the MiSTeR for that](https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/)), but with an emulator like Delta you get bonuses like save states, fast forward, and the ability to use cheat codes if you want.
 
@@ -103,6 +62,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  On top of this, your iPhone is still doing phone things in the background. You’ll see notifications pop up at the top of the screen, phone calls will interrupt your gameplay, and if you need to quickly do something else on your iPhone (like snap a picture, search the web, or message a friend) then you’ll need to juggle apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  BYO ROMs
 
  It’s not illegal to emulate video game platforms, but when it comes to games things get more complicated. Game files, or ROMs, are a legal grey area. It’s generally accepted that ripping and using your own ROMs is permissible, but downloading and sharing ROMs online for games you do not own is [against the law](https://facebook-videos.techidaily.com/updated-video-revenue-generation-on-facebook-tactics-for-financial-growth-for-2024/).
@@ -111,23 +77,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Though the process still feels taboo due to the scorn Apple has poured on emulators for well over a decade, it’s straightforward enough. You’ve been able to do this sort of thing in other apps for years. It’s really no different from loading your iPhone up with MIDI and chiptune music in an app like [Modizer](https://apps.apple.com/us/app/modizer/id393964792).
 
  The good news is that you’ll be playing in no time if you have a collection of ROMs stored in the cloud, and Delta even comes with a feature called Delta Sync which not only syncs ROMs but also save files, save states, cheat codes, and controller mappings between devices.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Improving Your Experience
 
@@ -137,19 +96,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Jason Montoya / How-To Geek
 
@@ -165,41 +117,26 @@ Jason Montoya / How-To Geek
 
 ![An iPhone automation that triggers a shortcut to toggle a Focus mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shortcuts_delta.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Alternatively, Buy a Handheld PC (Like the Steam Deck)
 
  The [Steam Deck](https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/) might just be the best handheld emulator on the market, and it can play a huge number of modern Steam games too. You might not consider buying a Steam Deck purely for emulation purposes, but the dedicated form factor, excellent ergonomics, and always-improving software support make it a compelling choice.
 
 ![A Steam Deck with a low-profile keyboard in front of it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/here-s-how-to-pick-a-keyboard-for-your-steam-deck.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -210,20 +147,6 @@ Goran Damnjanovic / How-To Geek
  You have other options like the [ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), but these Windows-based machines are all more expensive than Valve’s handheld. They can use the full gamut of emulators available for the Windows platform, but buying a handheld like this purely for emulation purposes feels like overkill.
 
  There are also [portable retro handhelds from Retroid and Anbernic](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/). These devices are inexpensive and come in all manner of form factors, without relying on touchscreen controls. Just make sure you [avoid the cheapest, nastiest knock-offs](https://screen-recording.techidaily.com/updated-2024-approved-top-tier-tools-transforming-remote-discussions/).
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Give It a Try
 
@@ -237,8 +160,6 @@ Goran Damnjanovic / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,12 +167,21 @@ Goran Damnjanovic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-full-course-on-morphvox-converting-your-voice-professionally/"><u>[Updated] Full Course on MorphVOX Converting Your Voice Professionally</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-plain-words-into-3d-marvels-ps-guide/"><u>[Updated] Transforming Plain Words Into 3D Marvels PS Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/assessing-metas-status-symbol-a-financial-decision/"><u>Assessing Meta's Status Symbol - A Financial Decision?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-refuses-to-chargers-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Refuses to Chargers: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-i-ended-my-battle-with-fortnite-pc-crashes-in-2-cups-of-coffee-and-how-you-can-too/"><u>How I Ended My Battle with Fortnite PC Crashes in 2 Cups of Coffee, and How You Can Too!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-craftsmanship-in-marvellous-marvel-creation/"><u>In 2024, Craftsmanship in Marvellous Marvel Creation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/installing-windows-11-build-23h2-on-non-certified-systems-a-step-by-step-guide-with-two-effective-techniques/"><u>Installing Windows 11 Build 23H2 on Non-Certified Systems - A Step-by-Step Guide with Two Effective Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-extended-warranties-unveiled-a-detailed-look-at-coverage-for-tiger-lake-tgl-and-rocket-lake-based-processors/"><u>Intel's Extended Warranties Unveiled - A Detailed Look at Coverage for Tiger Lake (TGL) and Rocket Lake-Based Processors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-iphone-has-no-service-dilemma-discover-14-effective-fixes/"><u>Solving the 'iPhone Has No Service' Dilemma: Discover 14 Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862784600-unbelievable-offer-the-immersive-24-curved-gaming-experience-from-sceptre-now-for-an-amazing-price-of-79/"><u>Unbelievable Offer: The Immersive, 24 Curved Gaming Experience From Sceptre Now for an Amazing Price of $79!</u></a></li>
+</ul></div>
 

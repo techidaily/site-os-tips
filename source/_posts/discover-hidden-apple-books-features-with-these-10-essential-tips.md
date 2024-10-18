@@ -1,7 +1,7 @@
 ---
 title: Discover Hidden Apple Books Features with These 10 Essential Tips
-date: 2024-10-06T19:39:20.818Z
-updated: 2024-10-12T06:25:25.443Z
+date: 2024-10-15T02:19:34.238Z
+updated: 2024-10-18T12:26:23.702Z
 tags:
   - ios
 categories:
@@ -36,16 +36,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the number of pages remaining in a chapter in a book in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The top number indicates the number of pages left in the current chapter. Meanwhile, the bottom number tells how many pages (out of the total pages in the book) you've read so far.
 
 ![Checking the number of pages read in a book in the Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Set Reading Goals 
 
@@ -108,10 +108,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search Book feature in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-16.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, type a number, and tap on the result to open that page.
@@ -121,6 +121,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can also use this search feature to look up something specific in a book. Simply type the text you want to find, and the app will show all the instances of it in the book.
 
 ![Searching a book in Apple Books by a word or phrase.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-18.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap on one to jump in and read.
 
@@ -136,13 +143,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When you want to remove a bookmark, it's easy. Tap the bookmark icon to bring up the menu, and then hit the bookmark button again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Highlight Text and Take Notes 
 
  In addition to bookmarking a page, the Books app also lets you highlight text snippets in a book you find interesting or may need later. You can even add a personal note to something you highlighted to include context or an important detail.
@@ -152,10 +152,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Selecting text in a paragraph to highlight in the Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-19.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, tap the "Highlight" button that appears in the context menu above the text.
@@ -171,10 +171,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Adding a note to a highlight in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-22.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Start typing your note and hit "Done." Once you add a note to a highlight, you'll see a square box next to the text. Tap on this box to view the note.
@@ -185,6 +185,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking all the higlights in a book in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-27.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7  Keep Your Books Synced Across All Your Devices 
 
  One of the best features of the Books app is cross-device sync, which syncs your content across all your Apple devices. It allows you to pick up the book or audiobook you're reading or listening to on one device and continue reading or listening to it on another.
@@ -194,13 +201,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To enable sync in Apple Books, open the "Settings" app on your iPhone or iPad and tap on your name at the top of the screen.
 
 ![iPhone Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-34.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select "iCloud."
 
@@ -218,13 +218,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Turning on the Sync this iPhone feature under iCloud settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-38.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8  Read and Annotate PDFs 
 
  Alongside books in its library, Apple also lets you read PDFs downloaded from other sources in Apple Books. So, if you've downloaded a document or a book from somewhere else on your Apple device, you can import it straight into Books and start reading it. Be aware that you may not experience the same reading experience, and the app may not show you the same features it does with the native eBook experience.
@@ -237,16 +230,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Selecting Books in Share Sheet to import a PDF into it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-40.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open the PDF in the Apple Books app. You can now read the PDF or annotate it using the Markup tools.
 
 ![Markup option on a PDF in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-41.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9  Create a Wish List of Books You Want to Read 
 
@@ -261,6 +254,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Want to Read section in the Apple Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-45.jpg) 
 
  Since the Books store is so exhaustive, you can use this feature to keep track of books whether or not you intend to read them digitally (or on the Apple Books service). 
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10  Read Without Being Disturbed 
 
@@ -285,20 +291,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-mobile-marketers-blueprint-simple-pathway-to-youtube-success/"><u>[New] 2024 Approved The Mobile Marketer's Blueprint Simple Pathway to YouTube Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-visibility-and-following-on-instagram-for-2024/"><u>[New] Enhancing Visibility & Following on Instagram for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-is-any-antivirus-worth-your-time-on-an-iphone-the-surprising-answer/"><u>1. Is Any Antivirus Worth Your Time on an iPhone? The Surprising Answer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-best-sfpr-settings-to-boost-sluggish-clips/"><u>2024 Approved Best SFPR Settings to Boost Sluggish Clips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-virtual-play-samsungs-most-popular-titles/"><u>2024 Approved Pioneering Virtual Play Samsung's Most Popular Titles</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>2024 Approved Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-adding-exercises-to-your-apple-watch-by-hand/"><u>A Step-by-Step Guide: Adding Exercises to Your Apple Watch by Hand</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cant-be-patient-for-iphone-16-release-master-the-art-of-picking-the-best-alternative-in-apples-latest-offerings/"><u>Can't Be Patient for iPhone 16 Release? Master the Art of Picking the Best Alternative in Apple's Latest Offerings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-your-first-tripod-insights-from-amazonbasics/"><u>Choosing Your First Tripod: Insights From AmazonBasics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/collaborative-tracking-made-easy-how-to-enable-shared-use-of-a-single-airtag/"><u>Collaborative Tracking Made Easy: How to Enable Shared Use of a Single AirTag</u></a></li>
-<li><a href="https://os-tips.techidaily.com/crucial-11-points-you-need-to-review-while-acquiring-a-secondhand-iphone/"><u>Crucial 11 Points You Need To Review While Acquiring a Secondhand iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-your-iphone-15-pro-a-step-by-step-guide/"><u>Disabling Your iPhone 15 Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-printer-software-for-epson-l3e-3150-compatible-with-win-1087-systems/"><u>Download Updated Printer Software for Epson L3e-3150 - Compatible with Win 10/8/7 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-session-solutions-for-stutter-free-and-higher-fps-in-the-ascent/"><u>Revamp Your Gaming Session: Solutions for Stutter-Free and Higher FPS in 'The Ascent'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-the-iphone-13-continues-to-be-an-excellent-buy/"><u>Why the iPhone 13 Continues to Be an Excellent Buy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decoding-and-manipulating-gender-presentation-online-a-step-by-step-approach/"><u>[Updated] 2024 Approved Decoding and Manipulating Gender Presentation Online A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-direct-download-destiny-ultimate-guide-to-mp3-makers/"><u>[Updated] Direct Download Destiny Ultimate Guide to Mp3 Makers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-integrating-marketing-the-power-of-youtube-and-brand-collaboration-for-2024/"><u>[Updated] Integrating Marketing The Power of YouTube and Brand Collaboration for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-lava-yuva-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Lava Yuva 2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-instant-access-and-speedy-steps/"><u>Quick, Instant Access, and Speedy Steps.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recognizing-the-signs-when-its-time-for-a-new-iphone-battery/"><u>Recognizing the Signs: When It's Time for a New iPhone Battery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-common-issues-with-the-cash-app-a-step-by-step-guide-for-quick-recovery/"><u>Resolving Common Issues with the Cash App: A Step-by-Step Guide for Quick Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rethink-your-charge-understanding-the-truth-about-larger-phone-batteries/"><u>Rethink Your Charge: Understanding the Truth About Larger Phone Batteries</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top IOS 18 Functions Unavailable in Older iPhones - Upgrade Required for Access
-date: 2024-10-10T12:16:22.705Z
-updated: 2024-10-12T10:41:14.451Z
+date: 2024-10-12T10:37:18.513Z
+updated: 2024-10-17T18:29:05.718Z
 tags:
   - ios
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A collage of thumbnails, with each promoting a different iOS 18 feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-key-features-wwdc24-slide.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -61,6 +61,13 @@ Apple
 
 ![Apple Intelligence in action, with Siri displaying a ChatGPT prompt to create a five-course meal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-intelligence-ios-18-siri-chatgpt-create-five-course-meal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apple
 
  Bloomberg's Mark Gurman claims that [Siri's AI superpowers](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/)—like onscreen awareness, controlling apps and devices, answers based on your data, and seamless integration with ChatGPT—will be available when iOS 18.4 launches next spring.
@@ -77,6 +84,19 @@ Apple
 
  With Music Haptics, people will be literally able to feel the music. The Taptic Engine inside your iPhone produces taps, textures, and refined vibrations based on what's playing. This works across the Apple Music catalog, and developers can add music haptics to their apps. This is another accessibility feature that only works on the iPhone 12 and later.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Live Audio Transcription in the Notes App
 
  Recording audio in the Notes app will presumably work on all iOS 18 devices, but the automatic creation of searchable live transcriptions on the fly requires an iPhone 12 or later.
@@ -88,6 +108,13 @@ Apple
 ![The Apple TV App playing a movie, with the Enhance Dialogue set to Off in the Audio menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-tvos-18-tv-app-instigators-movie-enhance-dialogue-menu-off-option-selected.jpg) 
 
  However, you'll need at least an iPhone 11 to enjoy clearer dialogue in movies. Enhance Dialogue is available "with compatible content in supported apps" when using built-in speakers, wired headphones, AirPods, or other Bluetooth speakers and headphones.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About Apple Intelligence?
 
@@ -103,64 +130,36 @@ Apple
 
  Some iOS 18 features like gaming with spatial audio and lower audio latency require accessories. Others like Messages via satellite need specific iPhone hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Gaming With AirPods
 
  Low Bluetooth audio latency in Game Mode is exclusive to the AirPods Pro 2\. Spatial audio in games requires the AirPods 3, AirPods Pro, or AirPods Max.
 
 ![An AirPods card on iPhone listing new features like voice isolation and responding to Siri with head movement.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-light-mode-airpods-card-new-features-overview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Responding to Siri With Head Shakes
 
  Shaking or nodding your head to decline or accept calls requires the AirPods Pro 2.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Voice Isolation on AirPods
 
  iOS 18 brings the Voice Isolation feature to the latest AirPods Pro 2\. With this feature enabled, your earbuds will block external noise for the caller, such as the wind blowing around you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Improved Voice Quality
 
  iOS 18 brings higher resolution to your audio recordings by enabling 16-bit, 48kHz capture exclusively on the AirPods Pro 2\. You'll also notice improved voice quality when chatting with teammates and other players whilst playing a game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Messages via Satellite
 
  Sending messages via satellite requires satellite connectivity provided by the iPhone 14 or later, just like the current [Emergency SOS via satellite](https://facebook-video-content.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide-for-2024/) feature. You'll be able to send end-to-end encrypted emergency iMessages and Tapbacks in the Messages app when stranded in a remote area without cellular and Wi-Fi connectivity.
 
 ![A chat in the iPhone's Messages app, with satellite connectivity guidance displayed at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-messages-via-satellite-connectivity-guidance-connected.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -187,11 +186,31 @@ Apple
 
  Topographic maps have hit Maps on iOS 18 after debuting on the Apple Watch a year earlier. If you live in the United States and Japan, you'll be able to access detailed trail networks and hikes for 63 US national parks, as well as create your own hikes and download topographic maps for offline navigation with turn-by-turn voice guidance.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  About Safari Highlights and Reader Mode Summaries
 
  Safari Highlights will create a handy summary of relevant information on the page you're browsing, such as directions and quick links. When used in Safari's clutter-free Reader Mode, summarization creates a table of contents along with a high-level summary of an article.
 
 ![Two framed iPhone screenshots showcasing AI-powered Safari highlights and Reader Mode summaries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-safari-app-reader-mode-summaries-page-highlights.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -213,10 +232,16 @@ Apple
  And lastly, some of iOS 18's new features are restricted to specific countries and regions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  InSight in the Apple TV App
@@ -236,13 +261,6 @@ Apple
 ###  Apple Pay Rewards and Installments
 
  Apple Pay on iOS 18 lets you pay in installments or use rewards (subject to eligibility and approval) using cards "from participating banks and card providers in certain markets."
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Event Tickets and New Event Guides
 
@@ -273,18 +291,19 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enabling-speech-to-text-on-powerpoint-essential-steps/"><u>[New] 2024 Approved Enabling Speech-to-Text on PowerPoint Essential Steps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-smooth-transition-uploading-imovie-films-into-vimeo-for-2024/"><u>[New] Smooth Transition Uploading iMovie Films Into Vimeo for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/find-the-mean-of-these-absolute-deviations-85-plus-25-plus-15-plus-35-plus-45-plus-65-6-approx-270-groop6-approx-45/"><u>Find the Mean of These Absolute Deviations: $(8.5 + 2.5 + 1.5 + 3.5 + 4.5 + 6.5) / 6 Approx 27.0 / Groop(6) Approx 4.5$</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/holdscreen-rapid-snapshot-manual-for-2024/"><u>HoldScreen Rapid Snapshot Manual for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-magic-5-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor Magic 5 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>In 2024, Instagram Mastery The Top 10 Steps to Optimize Engagement</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-common-issues-with-the-cash-app-a-step-by-step-guide-for-quick-recovery/"><u>Resolving Common Issues with the Cash App: A Step-by-Step Guide for Quick Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rethink-your-charge-understanding-the-truth-about-larger-phone-batteries/"><u>Rethink Your Charge: Understanding the Truth About Larger Phone Batteries</u></a></li>
-<li><a href="https://os-tips.techidaily.com/review-of-the-twelve-south-butterfly-dual-function-power-bank-with-magsafe-perfect-for-on-the-go-charging/"><u>Review of the Twelve South Butterfly Dual-Function Power Bank with MagSafe - Perfect for On-the-Go Charging</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionary-voice-how-your-iphone-communicates-as-powerfully-as-apples-first-macintosh/"><u>Revolutionary Voice: How Your iPhone Communicates as Powerfully as Apple's First Macintosh</u></a></li>
-<li><a href="https://os-tips.techidaily.com/say-goodbye-to-car-induced-discomfort-with-iphones-latest-ios-18-update-for-a-smoother-ride-experience/"><u>Say Goodbye to Car-Induced Discomfort with iPhone's Latest iOS 18 Update for a Smoother Ride Experience</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-test-of-strength-a-deep-dive-into-the-performance-of-the-beatit-bt-d11-jump-starter/"><u>The Ultimate Test of Strength: A Deep Dive Into the Performance of the Beatit BT-D11 Jump Starter</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-x50iplus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor X50i+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fficient-techniques-ios-screenshots-and-youtube-content-creation-for-2024/"><u>[New] Efficient Techniques IOS Screenshots and YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-craft-viral-stories-on-fb-with-pro-tips/"><u>[New] In 2024, Craft Viral Stories on FB with Pro Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-legalities-in-sharing-musical-works/"><u>[Updated] 2024 Approved Navigating Legalities in Sharing Musical Works</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-request-for-full-media-sharing-viewability-via-messaging-platforms/"><u>[Updated] Request for Full Media Sharing Viewability via Messaging Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-accidentally-erased-files-on-ios-devices-through-specialized-recovery-applications/"><u>Expert Tips for Retrieving Accidentally Erased Files on iOS Devices Through Specialized Recovery Applications</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/explore-tiktoks-15-most-anticipated-books-for-2024/"><u>Explore TikTok's 15 Most Anticipated Books for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-get-back-your-deleted-texts-tips-and-techniques-for-message-restoration/"><u>How to Get Back Your Deleted Texts: Tips and Techniques for Message Restoration</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-nord-n30-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Nord N30 5G FRP?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-se-2022-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone SE (2022) for Free</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-to-retrieve-deleted-snaps-on-iphone-and-android-devices/"><u>Simple Guide: How to Retrieve Deleted Snaps on iPhone and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mastering-iphone-backup-password-restoration/"><u>Step-by-Step Tutorial on Mastering iPhone Backup Password Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-returning-ios-device-to-original-state-and-recovering-data-via-itunes-or-finder/"><u>Step-by-Step Tutorial: Returning iOS Device to Original State & Recovering Data via iTunes or Finder</u></a></li>
 </ul></div>
 

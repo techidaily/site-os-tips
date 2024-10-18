@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-date: 2024-10-06T23:04:31.698Z
-updated: 2024-10-12T03:24:13.049Z
+date: 2024-10-12T19:29:15.640Z
+updated: 2024-10-17T19:04:01.291Z
 tags:
   - ios
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Speculation and Rumor](https://instagram-video-files.techidaily.com/engage-viewers-with-3-innovative-description-styles-on-instagram-vids-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,13 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If there’s one change that’s pretty much guaranteed in the iPhone 16 and 16 Pro, it’s that Apple will be upgrading the guts of the device. MacRumors [reports](https://www.macrumors.com/2024/03/01/chip-details-of-16-upcoming-apple-devices-revealed/) that a private X (Twitter) account with a proven track record claims that both the iPhone 16 and its Pro counterpart will use an A18 [system-on-chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC).
 
 ![Apple A17 Pro SoC found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro_iphone.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -94,11 +87,31 @@ Tyler Hayes / How-To Geek
 
  The base model iPhone 16 is not expected to differ in size from last year’s iPhone 15.; There are also no signs that Apple will bring back the [delightfully small iPhone mini](https://data-wizards.techidaily.com/bypassing-videography-errors-with-simple-fixes/).
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Slightly Better Display Technology
 
  Both iPhone models already use beautiful OLED panels, but a [report](https://www.thelec.kr/news/articleView.html?idxno=22829) from Korean blog The Elec suggests that Apple has considered the use of a [micro lens array](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a18-drfone-by-drfone-virtual-android/) (MLA) to increase brightness in 2024’s models. MLAs would allow Apple to boost brightness without increasing power consumption.
 
  Alternatively, Apple could settle for the same levels of brightness as seen in existing models while reducing power consumption and preserving battery life.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Faster Wi-Fi
 
@@ -106,16 +119,22 @@ Tyler Hayes / How-To Geek
 
 ![Wi-Fi 7 Certified sign by a TP Link router at CES 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53468668835_5a142edd35_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  Both upgrades are welcome, with [Wi-Fi 7 bringing speeds of around 30Gbps](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) and [Wi-Fi 6E utilizing the 6GHz band](https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/) to top out at around 9.6Gbps. You will of course need a router compatible with these standards, and that router will need to support whatever speeds you hope to achieve.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8GB of RAM on All Models
 
@@ -124,10 +143,10 @@ Hannah Stryker / How-To Geek
 ![The final form of Lady Dimitrescu from Resident Evil Village flies overhead on the iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3caf4670-5199-11ee-bf3f-d4673beffea4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -135,10 +154,10 @@ Apple
  Last year’s [iPhone 15 Pro was touted as a gaming beast](https://techidaily.com/how-to-soft-reset-lava-blaze-2-pro-phone-drfone-by-drfone-reset-android-reset-android/), and was one of a handful of mobile Apple devices able to run AAA games like _Resident Evil: Village_ and _Death Stranding_. Since this year’s models are rumored to be using the same or similar A18 systems-on-chip, increasing RAM allocation to close the gap makes sense if Apple wants to tempt more publishers to see the iPhone as more than just a mobile gaming platform.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Slim Vertical Camera Bump for iPhone 16
@@ -150,13 +169,6 @@ Apple
 ##  A Potentially More Expensive Price Tag
 
  Since component prices have risen, it wouldn’t be surprising to see Apple increase the price of this year’s iPhone 16 and 16 Pro models. Apple didn’t increase the price of either the base or the Pro models last year.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The iPhone 16 Ultra?
 
@@ -185,18 +197,24 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-eliminate-background-noise-from-video-files-freepriced-for-2024/"><u>[New] Eliminate Background Noise From Video Files (Free/Priced) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-qualitysnap-video-reporter-checkup/"><u>2024 Approved QualitySnap Video Reporter Checkup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/addressing-overheating-concerns-in-the-new-iphone-15-pro-by-apple/"><u>Addressing Overheating Concerns in the New iPhone 15 Pro by Apple</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-latest-innovation-comparing-the-power-of-m1-vs-m0-chips/"><u>Apple's Latest Innovation: Comparing the Power of M1 vs M0 Chips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-discover-10-superior-custom-gpt-innovations/"><u>Beyond ChatGPT: Discover 10 Superior Custom GPT Innovations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/borrowed-innovations-how-ios-18-borrows-top-functionalities-from-android-devices/"><u>Borrowed Innovations: How iOS 18 Borrows Top Functionalities From Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breaking-news-apple-ceases-production-on-watch-series-9-and-upcoming-ultra-edition/"><u>Breaking News: Apple Ceases Production on Watch Series 9 and Upcoming Ultra Edition</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/desenvolver-se-no-portugues-tudo-o-que-necessitas-saber/"><u>Desenvolver-Se No Português: Tudo O Que Necessitas Saber</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-a-comprehensive-guide-to-understanding-and-using-slug-lines/"><u>In 2024, A Comprehensive Guide to Understanding and Using Slug Lines</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-conversion-transform-your-raf-images-into-jpeg-format-at-no-cost-movavi/"><u>Online Conversion: Transform Your RAF Images Into JPEG Format at No Cost - Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-audio-trouble-heres-how-to-resolve-the-hd-not-plugged-in-problem/"><u>Realtek Audio Trouble? Here’s How to Resolve the HD Not Plugged-In Problem</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a1-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A1 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tsutaya-dvd/"><u>パソコン不要!初心者だってわかるTSUTAYA DVDの簡単なレンタルコピー方法</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blending-youtube-audio-features-into-video-projects/"><u>[New] Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-use-picture-in-picture-pip-on-microsoft-edge-for-2024/"><u>[Updated] How to Use Picture in Picture (PIP) on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-browsing-boredom-away-15-chuckle-inducing-youtubers/"><u>[Updated] In 2024, Browsing Boredom Away 15 Chuckle-Inducing YouTubers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elevate-your-farm-the-top-7-stardew-modifications/"><u>[Updated] In 2024, Elevate Your Farm The Top 7 Stardew Modifications</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-for-endlessly-playing-facebook-videos/"><u>2024 Approved Tips for Endlessly Playing Facebook Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/adherence-to-standards-such-as-asme-b311-and-b313-ensures-safety-and-reliability-in-piping-systems/"><u>Adherence to Standards Such as ASME B31.1 and B31.3 Ensures Safety and Reliability in Piping Systems.</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/epic-locations-for-immersive-virtual-adventures-for-2024/"><u>Epic Locations for Immersive Virtual Adventures for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-iphones-and-viruses-why-traditional-antivirus-might-not-be-necessary/"><u>Exploring iPhones and Viruses: Why Traditional Antivirus Might Not Be Necessary</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-basics-of-backward-wireless-energy-transfer/"><u>Exploring the Basics of Backward Wireless Energy Transfer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-data-transfer-rates-of-the-latest-iphone-15-usb-c-interface/"><u>Exploring the Data Transfer Rates of the Latest iPhone 15 USB-C Interface</u></a></li>
+<li><a href="https://os-tips.techidaily.com/galileo-by-gamesir-a-powerhouse-in-the-realm-of-console-gaming/"><u>Galileo by GameSir: A Powerhouse in the Realm of Console Gaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improve-ipad-performance-apple-quality-over-size/"><u>Improve iPad Performance: Apple - Quality Over Size!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-search-of-a-sleek-tablet-why-the-ipad-mini-deserves-serious-consideration/"><u>In Search of a Sleek Tablet? Why the iPad Mini Deserves Serious Consideration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-username-functionality-updates-available-on-signal-platform/"><u>Introducing Username Functionality: Updates Available on Signal Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-ownership-is-it-worth-your-investment-essential-insights-for-potential-buyers/"><u>IPad Ownership: Is It Worth Your Investment? Essential Insights for Potential Buyers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/"><u>Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-and-save-how-to-edit-youtube-videos-quickly/"><u>Slash and Save How to Edit YouTube Videos Quickly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Recovering Erased Texts on Your iPod Touch (5Th and 4Th Generation)"
-date: 2024-08-18T09:15:16.173Z
-updated: 2024-08-19T09:15:16.173Z
+date: 2024-10-13T03:32:04.939Z
+updated: 2024-10-17T19:53:41.813Z
 tags:
   - ios-recovery
 categories:
@@ -54,9 +54,6 @@ Summary
 
 The picture is from Support.Apple.com
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to fix a water damaged iPhone
 
  To be safe, you should get your iPhone away from water and power it off immediately.
@@ -66,9 +63,6 @@ The picture is from Support.Apple.com
  You can save your iPhone from water damage with rice. Rice does help. Put your iPhone into a heap of unriped rice and make it sealed for at least two days.
 
 ![Put iPhone into Rice](https://www.aiseesoft.com/images/iphone-data-recovery/put-your-iphone-into-rice.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  After you dry your iPhone, you can try to fix water damaged iPhone to normal with iOS System Recovery.
 
@@ -77,9 +71,6 @@ The picture is from Support.Apple.com
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 ![Fix Disabled or Frozen iPhone to Normal](https://www.aiseesoft.com/images/youtube-video/video-fix-disabled-frozen-iphone-to-normal.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1 Run iOS System Recovery
 
@@ -87,13 +78,24 @@ Step 1 Run iOS System Recovery
 
 ![Launch Fonelab](https://www.aiseesoft.com/images/ios-system-recovery/ios-system-recovery-800.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 Enter recovery mode
 
  iOS System Recovery will try to detect the iPhone damaged issue automatically. When the results came out, click "Confirm", then you'll be led to Recovery Mode.
 
 ![Led iPhone into Recovery Mode](https://www.aiseesoft.com/images/iphone-data-recovery/fix/into-recovery-mode.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3 Fix iPhone water damaged
@@ -101,9 +103,6 @@ Step 3 Fix iPhone water damaged
  When your iPhone enters recovery mode, you'll be asked to confirm iPhone information, then click "Repair" button to download the repaired plug-in and restore iPhone. Wait until it's finished, your iPhone will boot up. Then you will fix water damaged iPhone successfully.
 
 ![Fix iPhone Red Screen to Normal](https://www.aiseesoft.com/images/iphone-data-recovery/fix/repairing.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Easiest way to get back data if you drop your iPhone in water (with or without backup)
 
@@ -118,8 +117,12 @@ Step 3 Fix iPhone water damaged
 [iPhone Data Recovery](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [For Mac](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
 ![iPhone Data Recovery](https://www.aiseesoft.com/images/iphone-data-recovery/box.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Recover iPhone MMS, photos, contacts and other data from normal iPhone directly.
@@ -130,6 +133,13 @@ Step 3 Fix iPhone water damaged
 [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 [Way 1 Recover data from dried iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [Way 2 Restore files from iTunes backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [Way 3 Retrieve data from iCloud backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 1\. Recover data from dried iPhone directly
 
@@ -149,11 +159,22 @@ Step 3 Select the data you want to recover.
 
 ![Choose Category from FoneLab](https://www.aiseesoft.com/images/iphone-data-recovery/choose-category-from-fonelab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For example, if you want to recover photos in Camera Roll, click Camera Roll on the left, then check photos you want and click Recover. Now you have recovered photos from your water damaged iPhone. If you want to recover all scanned data to computer, choose all and then click Recover to[back up iPhone to external drive](https://tools.techidaily.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Way 2\. Restore files from iTunes backup when water damaged iPhone won't turn on
 
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
@@ -169,13 +190,14 @@ Step 2 After scanning, all iPhone data categories will be listed on the left con
  Checkmark the data that you want to get back, and click "Recover" to bring back the lost data from water damaged iPhone to computer.
 
 ![Retrieve Deleted iMessages from iTunes Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-imessage-from-itunes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Way 3\. Retrieve data from iCloud backup when iTunes backup is gone and iPhone is dead
 
 [](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
@@ -195,9 +217,6 @@ Step 2 After logging, you can select the data type you want to recover and then 
 Step 3 After the scan process is done, you can view the data types as above, tick the data and click "Recover" button to save the lost data from iCloud backup to computer safely.
 
 ![Recover from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-recover-lost-data-from-icloud-backup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  Very easy, right? Three ways to retrieve your lost data from your water damaged iPhone so quickly and easily.
 
@@ -236,8 +255,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +262,20 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-5-best-sd-card-for-gopro-cameras-hero-87-included-for-2024/"><u>[Updated] 5 Best SD Card for GoPro Cameras - Hero 8/7 Included for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>[Updated] Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-4k-video-player-software-top-picks-for-windows-10-and-11-including-mac-compatible-options/"><u>Best Free 4K Video Player Software: Top Picks for Windows 10 & 11, Including Mac Compatible Options</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-to-clone-an-hdd-with-smaller-capacity-ssd-in-windows-xpvista/"><u>How to Clone an HDD with Smaller Capacity SSD in Windows (XP/Vista)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-malfunction-here-are-the-solutions/"><u>Realtek Microphone Malfunction? Here Are The Solutions!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/rhythm-and-precision-crafting-tiktok-moves-on-a-mac/"><u>Rhythm & Precision Crafting TikTok Moves on a Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/toshiba-copier-drivers-downloads-for-windows-users-fast-and-easy-setup/"><u>Toshiba Copier Drivers Downloads for Windows Users - Fast and Easy Setup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-ipad-gameplay-using-the-apple-pencil-a-step-by-step-guide-to-better-entertainment/"><u>Transform Your iPad Gameplay Using the Apple Pencil - A Step-by-Step Guide to Better Entertainment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-apple-id-the-truth-behind-disappearing-accounts/"><u>Understanding Your Apple ID: The Truth Behind 'Disappearing' Accounts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-creative-filmmaking-using-an-apple-watch-as-your-handy-audio-mic-explained/"><u>Unleash Creative Filmmaking: Using an Apple Watch as Your Handy Audio Mic Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-your-apple-watch-top-12-essential-functions-unveiled/"><u>Unleash Your Apple Watch: Top 12 Essential Functions Unveiled</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleashing-potential-top-10-strategies-for-instagram-video-ads/"><u>Unleashing Potential Top 10 Strategies for Instagram Video Ads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-new-efficiency-levels-with-apples-iphone-speech-to-text-capability/"><u>Unlock New Efficiency Levels with Apple's iPhone Speech-to-Text Capability</u></a></li>
+</ul></div>
 

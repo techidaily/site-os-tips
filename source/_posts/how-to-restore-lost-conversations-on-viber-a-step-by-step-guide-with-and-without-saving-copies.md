@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Lost Conversations on Viber: A Step-by-Step Guide (With and Without Saving Copies)"
-date: 2024-08-18T09:13:47.311Z
-updated: 2024-08-19T09:13:47.311Z
+date: 2024-10-16T04:01:29.352Z
+updated: 2024-10-17T17:06:23.844Z
 tags:
   - ios-recovery
 categories:
@@ -45,6 +45,13 @@ How to Recover Deleted Data from iPhone
 * [How to Recover Deleted Data from iphone Using iTunes Backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 * [How to Recover Deleted Data from iphone Using iCloud Backup](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Recover Deleted Data Directly from iPhone
 
  Taking recovering iPhone text messages as an example, let's see how FoneLab iPhone Data Recovery can do for you:
@@ -55,6 +62,13 @@ Step 1 Open iPhone Data Recovery
 
 ![Open iPhone Data Recovery](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 Connect iPhone to computer
 
  This iPhone recovery tool sets**Recover from iOS Device** in default. Now you can connect iPhone to computer via the USB cable. Tap on "Trust" option on your iPhone to complete the connection and quickly iPhone Data Recovery will display the devcie info interface.
@@ -64,18 +78,12 @@ Step 3 Start to scan iPhone
  Click "**Start Scan** " button to scan all your iPhone data. Soon, the software will show you how many existing and deleted files have been found.
 
 ![Connect iPhone to computer](https://www.aiseesoft.com/images/iphone-data-recovery/connecting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4 Preview deleted texts on iPhone (WhatsApp messages included)
 
  All iPhone files are listed as different categories on the left. Check "Messages", "WhatsApp" or "Messages Attachments" button to preview all text messages on the main screen. The deleted ones will be marked as red while the existing ones are black. You can also toggle "Only display the deleted item(s)" on to view deleted texts only.
 
 ![Recover Text Messages from iPhone](https://www.aiseesoft.com/images/iphone-data-recovery/recover-text-messages-from-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 5 Recover deleted text messages
 
@@ -94,9 +102,6 @@ Step 1 Open iPhone Data Recovery
  From the interface, choose**Recover from iTunes Backup File** mode from the left panel.
 
 ![Recover from iTunes Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-from-itunes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 2 Scan iTunes backup
 
@@ -104,13 +109,24 @@ Step 2 Scan iTunes backup
 
 ![Recover from iTunes](https://www.aiseesoft.com/images/iphone-data-recovery/recover-itunes-backup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 View data in the backup
 
  After the scanning process, all iPhone files will be listed as different categories on the left. As you can see, the deleted ones will be marked in red while the existing ones are in black. You can also toggle "Only display the deleted item(s)" on if the deleted data is what you want.
 
 ![View Deleted Text Messages in the Backup](https://www.aiseesoft.com/images/iphone-data-recovery/recover-text-messages-from-itunes-backup-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4 Recover data from iTunes backup
@@ -136,8 +152,12 @@ Step 5 Select the backup you want to restore, and then click "Restore".
  2\. This method can only retrieve the contacts, calendars, notes, text messages, and settings. It can't recover your iPhone firmware.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Recover Deleted Data from iPhone Using iCloud Backup
 
  In the main interface, then choose "**Recover from iCloud Backup File** " mode from the left panel. For recovering files from iCloud backup, you need to log in iCloud. iPhone Data Recovery should be your reliable software as it will never record the information. Follow the instructions to sign in to iCloud with Apple ID and password.
@@ -147,10 +167,6 @@ Step 5 Select the backup you want to restore, and then click "Restore".
  After signing in your account, you can see 2 ways of scanning and recovering deleted data from iCloud. You can either select the data type you want to recover from iCloud or choose to scan from iCloud Backup.
 
 ![Select iPhone Data Type from iCloud](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-select-data-type-from-icloud-for-scanning.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
 Step 2 Scan iCloud backup
 
@@ -163,9 +179,6 @@ Step 3 View from the iCloud backup
  After the scanning process, all iPhone files will be listed. Choose the data you want to recover from iCloud backup. click "Recover" button and decide on the path where you will keep the data.
 
 ![View Deleted Text Messages in the Backup](https://www.aiseesoft.com/images/iphone-data-recovery/fonelab-recover-deleted-files-from-icloud-backup-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  • If you once synced your device with iTunes/iCloud on your PC, you can use this iPhone data recovery to restore the lost iPhone files from the iTunes or iCloud backup. Just like the second method mentioned above, you can view the detailed information of all types of data, which is very convenient to help you[recover data after iPhone update](https://tools.techidaily.com/) , iPhone jailbreak, iPhone factory resettings, etc.
 
@@ -208,8 +221,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +228,17 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-the-way-in-personal-trail-tracking-drone-innovation/"><u>[New] Leading the Way in Personal Trail-Tracking Drone Innovation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-sound-to-storage-logging-online-broadcasts-efficiently-for-2024/"><u>[Updated] From Sound to Storage Logging Online Broadcasts Efficiently for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-playbook-transform-your-images/"><u>[Updated] Pixel Playbook Transform Your Images</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-visual-joke-maker-snapsnicker/"><u>2024 Approved Visual Joke Maker SnapSnicker</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-securing-your-mobile-apps-with-screen-locking-features-on-ios-devices/"><u>Guide: Securing Your Mobile Apps with Screen Locking Features on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-uploading-your-smartphone-images-from-ios-device-to-windowsmac-desktop/"><u>Guide: Uploading Your Smartphone Images From iOS Device to Windows/Mac Desktop</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-using-googles-gemini-ai-feature-on-your-iphone/"><u>Guide: Using Google's Gemini AI Feature on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-consumer-demand-is-driving-up-phone-sizes-understanding-this-tech-evolution/"><u>How Consumer Demand Is Driving Up Phone Sizes - Understanding This Tech Evolution.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quelling-win1011-screen-glitches-with-ease/"><u>Quelling WIN10/11 Screen Glitches with Ease</u></a></li>
+</ul></div>
 

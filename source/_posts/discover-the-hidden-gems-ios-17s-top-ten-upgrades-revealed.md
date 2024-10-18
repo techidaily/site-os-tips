@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2024-10-09T19:32:49.028Z
-updated: 2024-10-11T21:01:01.565Z
+date: 2024-10-15T16:18:41.746Z
+updated: 2024-10-18T06:10:41.273Z
 tags:
   - ios
 categories:
@@ -27,7 +27,21 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Swipe to reply to messages with an in-line reply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reply_swipe.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will see the message you’re replying to in the message window above the compose box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Siri During Phone Calls
 
@@ -51,13 +65,20 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Get item suggestions in Apple Reminders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/autocomplete_reminders.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There’s also a new “Siri Suggestions” option beneath your pinned lists in the Reminders apps that finds to-do list items that you might have forgotten about. Tap on an item to add it to Reminders.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  App Shortcuts Within Spotlight
@@ -65,6 +86,13 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  You should already be [using Spotlight](https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/) for everything on your iPhone, iPad, and Mac. The search feature lets you access apps and settings panels with ease simply by typing, and now it’s getting even smarter.
 
 ![Search for an app to see shortcuts to different features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/search_app_features.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
 
@@ -75,10 +103,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![The new level overlay helps you shoot straight when using the Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/camera_level.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Quickly Access and Lock Private Browsing
@@ -87,21 +115,7 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Use Face ID to lock your private browsing session](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/face_id_private_browsing.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  New Shortcuts for Cropping Images in Photos
 
@@ -109,14 +123,20 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Crop photos by zooming and then tap (or tap and hold) the "Crop" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/cropping_photos.jpg) 
 
- For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
 ##  Animated Now Playing Screens in Music
 
@@ -124,29 +144,9 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![now_playing_japanese_breakfast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_japanese_breakfast.PNG) 
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
 
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -173,21 +173,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[New] 2024 Approved The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instaboomers-hook-your-audience-with-circular-content-for-2024/"><u>[New] InstaBoomers Hook Your Audience with Circular Content for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-talking-texts-a-beginners-guide-to-animated-instagram-captions/"><u>[New] Talking Texts A Beginner's Guide to Animated Instagram Captions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-intersection-of-brain-research-and-strategic-business-management/"><u>[New] The Intersection of Brain Research and Strategic Business Management</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-how-youtube-processes-videos-after-they-are-uploaded/"><u>[Updated] Understanding How YouTube Processes Videos After They Are Uploaded</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-step-by-step-manual-how-to-erase-snapchat-photos-from-chats-and-memory/"><u>Complete Step-by-Step Manual: How to Erase Snapchat Photos From Chats and Memory</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-for-eliminating-siris-recommendations-on-ios-devices-including-ipads-and-iphones/"><u>Effective Techniques for Eliminating Siri's Recommendations on iOS Devices, Including iPads and iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/evaluating-your-iphone-is-the-standard-storage-range-of-64-512gb-sufficient/"><u>Evaluating Your iPhone: Is the Standard Storage Range of 64-512GB Sufficient?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-securely-erase-all-content-from-an-iphone-a-step-by-step-guide/"><u>How to Securely Erase All Content From an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-lenovo-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Lenovo FRP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-cleanup-process-efficient-methods-for-removing-facebook-messages-on-smartphones-iphoneandroid/"><u>Master the Cleanup Process: Efficient Methods for Removing Facebook Messages on Smartphones (iPhone/Android)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-cleanliness-the-ultimate-how-to-manual-for-ccleaner-users-on-apples-mobile-platforms/"><u>Mastering Cleanliness: The Ultimate How-To Manual for CCleaner Users on Apple's Mobile Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/proven-techniques-for-completely-erasing-browsing-data-from-your-mobile-device/"><u>Proven Techniques for Completely Erasing Browsing Data From Your Mobile Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-major-flaws-in-openais-chatgpt/"><u>Understanding the Major Flaws in OpenAI's ChatGPT</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-transform-your-videos-top-free-and-paid-android-video-editing-apps/"><u>Updated 2024 Approved Transform Your Videos Top Free and Paid Android Video Editing Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secure-your-free-lut-resources-top-ten-list/"><u>[New] Secure Your Free LUT Resources - Top Ten List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elite-racing-titles-our-five-favorites/"><u>[Updated] Elite Racing Titles Our Five Favorites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-keylight-secrets-to-stellar-lighting-on-your-youtube-videos/"><u>[Updated] In 2024, Keylight Secrets to Stellar Lighting on Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-master-youtube-management-a-detailed-plan-for-watch-later-and-playlists/"><u>[Updated] Master YouTube Management A Detailed Plan for Watch Later and Playlists</u></a></li>
+<li><a href="https://os-tips.techidaily.com/find-and-track-lost-android-devices-with-android-device-manager/"><u>Find & Track Lost Android Devices with Android Device Manager</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guide-doptimisation-des-cles-usb-avec-chkdsk-et-diskpart-via-la-ligne-de-commande/"><u>Guide D'optimisation Des Clés USB Avec CHKDSK Et Diskpart via La Ligne De Commande.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-an-lg-k51-stylo-67-solutions-with-and-without-computer-assistance/"><u>How to Fix an LG K51, Stylo 6/7: Solutions with and without Computer Assistance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-and-openai-artists-group-takes-stand-for-creative-rights/"><u>Meta & OpenAI: Artists' Group Takes Stand for Creative Rights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcome-video-problems-on-android-proven-methods-and-expert-tips/"><u>Overcome Video Problems on Android: Proven Methods and Expert Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-a-frozen-android-phone-with-our-step-by-step-data-retrieval-solution-for-corrupted-devices/"><u>Revive a Frozen Android Phone with Our Step-by-Step Data Retrieval Solution for Corrupted Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-battery-life-7-proven-strategies-to-get-your-android-phone-charging-again/"><u>Reviving Battery Life: 7 Proven Strategies to Get Your Android Phone Charging Again</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-gain-full-control-over-your-android-device-using-kingroot/"><u>Step-by-Step Guide: Gain Full Control Over Your Android Device Using KingRoot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-smartphone-why-it-wont-power-up-and-effective-solutions-that-work/"><u>Troubleshooting Your Smartphone: Why It Won’t Power Up & Effective Solutions That Work</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-lower-thirds-that-pop-advanced-techniques-for-fcpx-editors/"><u>Updated 2024 Approved Lower Thirds That Pop Advanced Techniques for FCPX Editors</u></a></li>
 </ul></div>
 

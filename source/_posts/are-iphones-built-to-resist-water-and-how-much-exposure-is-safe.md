@@ -1,7 +1,7 @@
 ---
 title: Are iPhones Built to Resist Water, and How Much Exposure Is Safe?
-date: 2024-09-10T10:44:01.673Z
-updated: 2024-09-11T10:44:01.673Z
+date: 2024-10-11T21:45:18.676Z
+updated: 2024-10-18T01:15:14.363Z
 tags:
   - ios
 categories:
@@ -20,20 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [What Else Can Affect iPhone Water Resistance?](https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-plus-passcode-not-working-drfone-by-drfone-ios/)
 * [Want a "Water-Proof" iPhone? Use a Case](https://howto.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Be Careful Submerging Your iPhone in Water](https://extra-information.techidaily.com/frostbound-feats-olympic-ice-innovations/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -59,26 +45,6 @@ Justin Duino / How-To Geek
 
  The iPhone 6s lacks any kind of water or dust-resistant rating but demonstrated a [high level of water resistance](https://www.macrumors.com/2015/09/28/iphone-6s-water-resistance-tests/) when it was first released. It's possible Apple was testing the water-resistant technology that officially made it into the iPhone 7\. Earlier models including the original iPhone SE lack any water resistance.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Understanding Splash, Water, and Dust Resistance
 
  Waterproof and water-resistant are not the same thing when it comes to consumer electronics. Many watches are water-resistant, but they can't handle much more than a splash of water. Most recent iPhone models are water-resistant, but there are conditions attached to that rating, like depth and duration of exposure.
@@ -89,26 +55,6 @@ Justin Duino / How-To Geek
 
 ![iphone in waterproof pouch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/waterproof-bag.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Corbin Davenport / How-To Geek
 
  Every new iPhone since the iPhone 7 has shipped with some form of water and dust resistance, backed up by testing performed in a laboratory. With the arrival of the iPhone 12 family of devices, this water resistance has improved further. This protection is defined by an IP (Ingress Protection) rating.
@@ -117,19 +63,12 @@ Corbin Davenport / How-To Geek
 
  The second number (7 or 8) determines how effective the device is at preventing liquids from entering. The IP67 rating guarantees a device can be submerged for a depth of 1 meter for up to 30 minutes and remain functional. An IP68 rating means the device can withstand depths beyond 1 meter, though the test duration and precise depth are left up to the manufacturer.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Water Damage Isn't Covered by Warranty
 
@@ -154,20 +93,6 @@ Corbin Davenport / How-To Geek
 
  In other words, Apple explicitly recommends against dunking your iPhone underwater. iPhone water resistance seems to be the last line of defense. While the iPhone has been tested to withstand an IP67 or IP68 water rating, it's not worth intentionally getting your iPhone wet. 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Is My iPhone Still Water Resistant After Repairs?
 
  Apple-approved service shouldn't affect your iPhone's water resistance, but third-party repairs could result in your iPhone not being waterproof afterward. On the [iFixit forum](https://www.ifixit.com/Answers/View/343117/Will+iPhone+7+keep+it%27s+water+resistance+after+repair#answer343137), Experimac's Justin Berman notes that the water-resistant rating is tied closely to the presence of adhesive strips located on the display assembly.
@@ -178,19 +103,12 @@ Corbin Davenport / How-To Geek
 
  If you take your iPhone to one of these unauthorized technicians, be sure to ask whether the adhesive strips on the display assembly were properly replaced. You're going to have to take the technician at their word. The only way to find out for sure is to risk your phone becoming water-damaged. Wherever possible, take it to an Apple Store or Apple-approved technician.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  What Else Can Affect iPhone Water Resistance?
 
@@ -202,19 +120,12 @@ Corbin Davenport / How-To Geek
 
  Even if you have AppleCare+, you will still have to pay the flat fee to have your IP68-rated iPhone replaced if it becomes water-damaged.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Want a "Water-Proof" iPhone? Use a Case
 
@@ -227,6 +138,13 @@ Corbin Davenport / How-To Geek
 [CaliCase](https://calicase.com) create waterproof pouches for iPhone and other smartphones. Not only do these cases float, they can withstand up to 100 feet (30 meters) of water pressure, plus you can snap photos and use your device while it's in the case.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31h83ctdsol-_sl500_.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  CaliCase Waterproof Floating Phone Pouch
 
@@ -248,8 +166,6 @@ Keep most smartphones dry and sand-free with this floating universal cover from 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,12 +173,22 @@ Keep most smartphones dry and sand-free with this floating universal cover from 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-recognizing-unseen-snaps-on-social-network/"><u>[New] Recognizing Unseen Snaps on Social Network</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stand-out-on-social-media-discover-a-hundredplus-creative-frameworks-for-your-snap-stories/"><u>[Updated] Stand Out on Social Media Discover a Hundred+ Creative Frameworks for Your Snap Stories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/15-effective-ways-to-troubleshoot-and-repair-your-iphones-malfunctioning-gps-featuring-the-latest-iphone-12/"><u>15 Effective Ways to Troubleshoot and Repair Your iPhone's Malfunctioning GPS, Featuring the Latest iPhone 12</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>2024 Approved Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-down-gopros-burst-capture-feature/"><u>Breaking Down GoPro's Burst Capture Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-tips-for-resetting-your-ipod-device-solutions-included/"><u>Comprehensive Troubleshooting Tips for Resetting Your iPod Device - Solutions Included</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-fixes-for-graphics-drivers-glitches-a-step-by-nstep-guide/"><u>Easy Fixes for Graphics Drivers Glitches: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-resolve-iphone-models-15-11-and-x-echo-issues-with-these-4-steps/"><u>Effortless Solutions: Resolve iPhone (Models 15-11 & X) Echo Issues with These 4 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-verify-your-devices-imei-without-using-the-phone/"><u>Effortless Ways to Verify Your Device's IMEI Without Using the Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-task-efficiency-through-gpt-3-insights/"><u>Enhancing Task Efficiency Through GPT-3 Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-music-playback-problems-on-iphones-top-techniques-for-models-iphone-11x8765/"><u>Fix Your Music Playback Problems on iPhones: Top Techniques for Models iPhone 11/X/8/7/6/5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/preserving-the-jailbreak-effective-methods-for-reviving-a-jailbroken-iphone-without-data-loss/"><u>Preserving the Jailbreak: Effective Methods for Reviving a Jailbroken iPhone Without Data Loss</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssional-gif-designers-choice-list-for-2024/"><u>Professional GIF Designers' Choice List for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-stuck-iphone-proven-strategies-to-overcome-power-issues/"><u>Revive Your Stuck iPhone: Proven Strategies to Overcome Power Issues</u></a></li>
+</ul></div>
 

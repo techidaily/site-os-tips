@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones"
-date: 2024-10-07T12:58:18.988Z
-updated: 2024-10-12T12:28:45.678Z
+date: 2024-10-15T18:23:37.775Z
+updated: 2024-10-18T10:20:19.535Z
 tags:
   - ios
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 * [Apple and Privacy, A Never-Ending Story](https://extra-lessons.techidaily.com/essential-principles-of-animated-visual-content/)
 * [How Well Will Apple Intelligence Perform on M1 Chips?](https://some-techniques.techidaily.com/new-expert-picks-for-mp4-audio-gear/)
 * [Changes I Want to See in Apple Intelligence in the Future](https://some-guidance.techidaily.com/streamlined-guide-to-ingesting-ipodcast-content-for-2024/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -55,28 +62,15 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
 
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
@@ -90,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
@@ -102,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Changes I Want to See in Apple Intelligence in the Future
 
@@ -136,19 +130,21 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerated-learning-for-chromakey-artistry/"><u>[New] 2024 Approved Accelerated Learning for Chromakey Artistry</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategies-for-storing-real-time-webcam-talks/"><u>[Updated] 2024 Approved Strategies for Storing Real-Time Webcam Talks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-from-scratch-video-gear-insights/"><u>[Updated] Starting From Scratch Video Gear Insights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-captures-top-10-online-video-recorders/"><u>Cutting-Edge Captures Top 10 Online Video Recorders</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/digital-footprints-keeping-your-twitter-vids-safe-and-sound-for-2024/"><u>Digital Footprints Keeping Your Twitter Vids Safe and Sound for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/ice-whizzes-on-display-olympics-22/"><u>Ice Whizzes on Display - Olympics '22</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-8-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 8 Plus Safe and Legal</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-persistent-stalling-issues-in-age-of-wonders-planetfall-for-windows-users/"><u>Solving Persistent Stalling Issues in 'Age of Wonders: Planetfall' For Windows Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-premium-iphone-14-skins-and-cases-reviewed/"><u>Ultimate Selection: Premium iPhone 14 Skins & Cases Reviewed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-most-protective-and-stylish-iphone-15-cases/"><u>Ultimate Selection: The Most Protective & Stylish iPhone 15 Cases</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-causes-behind-your-iphone-screen-brightness-fading-solutions-inside/"><u>Understanding the Causes Behind Your iPhone Screen Brightness Fading - Solutions Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secrets-a-step-by-step-guide-to-recovering-your-lost-iphone-backup-passwords-from-icloud-keychain/"><u>Unlock the Secrets: A Step-by-Step Guide to Recovering Your Lost iPhone Backup Passwords From iCloud Keychain</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-iphone-potential-with-google-lens-expert-tips-and-tricks/"><u>Unlocking iPhone Potential with Google Lens: Expert Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-next-big-thing-in-tech-hands-on-with-apples-latest-artificial-intelligence-feature/"><u>Unveiling the Next Big Thing in Tech: Hands-On with Apple's Latest Artificial Intelligence Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-achieving-virality-in-instagram-videos-practical-advice/"><u>2024 Approved Achieving Virality in Instagram Videos Practical Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-charting-a-course-budget-planning-for-youtube-growth/"><u>2024 Approved Charting a Course Budget Planning for YouTube Growth</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-your-walls-with-windows-11-a-guide-to-changing-backdrops/"><u>2024 Approved Maximizing Your Walls with Windows 11 A Guide to Changing Backdrops</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-finale-ultimate-tutorials-plus-top-creators-insights/"><u>2024 Approved YouTube Finale Ultimate Tutorials + Top Creators' Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cr2-bmp/"><u>無需花錢 CR2 到 BMP 自由變更 - 動力轉換器</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dasungs-colorful-new-addition-to-the-market-a-849-12-inch-flexible-touchscreen-paperlike-monitor/"><u>Dasung's Colorful New Addition to the Market: A $849, 12-Inch Flexible Touchscreen Paperlike Monitor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-ipad-gaming-experience-with-the-apple-pencil-discover-the-simple-steps/"><u>Enhanced iPad Gaming Experience with the Apple Pencil: Discover the Simple Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-complimentary-apple-products-with-your-target-rewards-claim-now/"><u>Enjoy Complimentary Apple Products with Your Target Rewards – Claim Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-luminous-durable-apple-watch-sport-band-from-nomad-the-ultimate-guide/"><u>Experience the Luminous, Durable Apple Watch Sport Band From Nomad – The Ultimate Guide!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-apples-classical-playlist-a-wealth-of-melodies-at-exceptional-prices/"><u>Exploring Apple's Classical Playlist: A Wealth of Melodies at Exceptional Prices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/find-and-retrieve-deleted-connections-from-your-iphone-easily/"><u>Find and Retrieve Deleted Connections From Your iPhone Easily</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-securing-your-mobile-apps-with-screen-locking-features-on-ios-devices/"><u>Guide: Securing Your Mobile Apps with Screen Locking Features on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-uploading-your-smartphone-images-from-ios-device-to-windowsmac-desktop/"><u>Guide: Uploading Your Smartphone Images From iOS Device to Windows/Mac Desktop</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-elegant-mosaic-imagery-fusions/"><u>In 2024, Mastering Elegant Mosaic Imagery Fusions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-instagram-stories-download-crafting-strategies/"><u>Unlocking Instagram Stories Download, Crafting Strategies</u></a></li>
 </ul></div>
 

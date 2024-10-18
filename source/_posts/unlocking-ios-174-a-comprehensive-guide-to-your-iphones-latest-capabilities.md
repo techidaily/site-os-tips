@@ -1,27 +1,13 @@
 ---
 title: "Unlocking iOS 17.4: A Comprehensive Guide to Your iPhone's Latest Capabilities"
-date: 2024-09-10T10:45:50.471Z
-updated: 2024-09-11T10:45:50.471Z
+date: 2024-10-16T05:22:56.927Z
+updated: 2024-10-18T07:47:24.509Z
 tags:
   - ios
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c38ee953e2dee2be944508d80.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Unlocking iOS 17.4: A Comprehensive Guide to Your iPhone's Latest Capabilities
 
@@ -50,35 +36,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 ![The Home tab in the Apple Podcasts app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-home-tab-episode-ellipsis-menu-highlighted.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Apple Podcasts on iPhone with the View Transcript menu option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-home-tab-episode-ellipsis-menu-view-transcript-option-highlighted.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![Episode transcript in Apple Podcasts on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-episode-transcript.png) 
 
@@ -88,39 +46,18 @@ Close
 
 ![Now Playing bar in Apple's Podcasts app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-now-playing-bar-view-transcript-button-highlighted.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Transcriptions of newly published episodes are available almost immediately but may take time to reach back-catalog episodes.
 
  To search the transcript using keywords, start playing an episode and hit the Now Playing bar at the bottom to make it full screen. Now start scrolling the transcript, which will automatically hide playback controls and reveal the magnifying glass icon at the bottom.
 
 ![Viewing episode transcript on Apple Podcasts on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-now-playing-bar-episode-transcript.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Episode Transcript in Apple Podcasts on iPhone, with the Search button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-now-playing-bar-episode-transcript-search-button-highlighted.png) 
 
@@ -134,41 +71,7 @@ Close
 
 ![Episode transcript in Apple Podcasts on iPhone, with the Select Text menu option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-now-playing-bar-contextual-menu-select-text-option-highlighted.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Episode transcript in Apple Podcasts on iPhone, with the Copy command selected in the bubble menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-podcasts-app-now-playing-bar-episode-transcript-text-selection-bubble-menu-copy-option-highlighted-1.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Close 
 
@@ -182,43 +85,22 @@ Close
 
 ![Control Center on iPhone with the Shazam icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-control-center-shazam-music-recognition-icon-highlighted.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Music Recognition notification on iPhone's Home Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-home-screen-shazam-music-recognition-notification-highlighted.png) 
 
 ![Music Recognition details screen on iPhone with the Add To Playlist menu option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-home-screen-shazam-music-recognition-results-screen-share-playlist-menu-option-highlighted.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Close 
 
  To view details for a previously recognized song, access your Music Recognition history by holding the Shazam icon in the Control Center.
 
 ![A song selected in the Music Recognition history menu in Control Center on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-control-center-shazam-music-recognition-history-song-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Results screen for Shazam Music Recognition on iPhone, with the Add To Playlist menu option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-shazam-music-recognition-results-screen-add-to-playlist-menu-option-highlighted.png) 
 
@@ -227,20 +109,6 @@ Close
 Close 
 
  Other options on this screen allow you to add the recognized tune to your Music library, open it in the Shazam app or Apple Music, and share it with friends and family.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Multilingual Chats With Siri Message Playback
 
@@ -252,6 +120,13 @@ Close
 
 ![Adding languages for Siri message playback on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-setting-app-siri-and-search-messaging-with-siri-add-language-option-highlighted-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close 
 
 ##  Stolen Device Protection While Away From Home
@@ -259,6 +134,13 @@ Close
  iOS 17.4 boosts the [Stolen Device Protection feature](https://tech-recovery.techidaily.com/step-by-step-fixes-for-missing-xlivedll-errors-in-windows-operating-systems/) that protects you from threats like thieves stealing your [saved passwords](https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-x-fold-2-phone-by-drfone-android/) and money.
 
 ![Settings app on iPhone with the Face ID & Passcode option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-setting-app-face-id-and-passcode-option-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Face ID & Passcode settings on iPhone with the Stolen Device Protection option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-setting-app-face-id-and-passcode-stolend-device-protection-option-highlighted.png) 
 
@@ -270,39 +152,11 @@ Close
 
  The security delay prevents thieves from [changing your Apple ID password](https://techidaily.com/why-stellar-data-recovery-for-iphone-6-plus-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/) before you can put your iPhone in [Lost Mode](https://twitter-videos.techidaily.com/new-2024-approved-pioneering-success-with-real-time-twitter-videos/).
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Detailed Battery Stats for iPhone 15 Owners
 
  iOS 17.4 lets iPhone 15 owners view battery cycle count, manufacture date, and first use in Settings > Battery > Battery Health (it also splits the “Battery Health & Charging” section into two separate menus named “Battery Health” and “Charging Optimization.”)
 
  On older iPhones, apps like [CoconutBattery](http://www.coconut-flavour.com/coconutbattery/) and tricks like [dumping diagnostic logs](https://some-approaches.techidaily.com/the-verdict-on-vllo-performance-for-2024/) can surface relevant battery health stats.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Online Purchases With Virtual Apple Cash Numbers
 
@@ -322,37 +176,16 @@ Close
 
 ![App Store on iPhone with the profile image highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-app-store-profile-image-highlighted.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![App Store on iPhone with the Purchase History option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-app-store-profile-screen-purchase-history-highlighted.png) 
 
 ![Viewing purchase history in App Store on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-app-store-purchase-history.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Close 
 
@@ -360,39 +193,12 @@ Close
 
 ![Home Screen on iPhone displaying the App Store shortcuts menu with the Purchased option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-home-screen-app-store-shortcuts-menu-purchased-option-highlighted.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Digital Clock Widgets for Custom Cities
 
@@ -401,26 +207,6 @@ Close
 ![iPhone's Home Screen in icon jiggle mode, with the Plus button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-home-screen-icon-jiggle-mode-plus-button-highlighted.png) 
 
 ![Clock app selected in the widget gallery on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-home-screen-widget-gallery-clock-app-selected.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![City Digital widget in iPhone's widget gallery, with the Add Widget button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-home-screen-widget-gallery-city-digital-add-widget-button-selected.png) 
 
@@ -432,41 +218,7 @@ Close
 
 ![Editing iPhone's Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-edit-lock-screen-customize-lock-screen-option-highlighted.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Widget gallery on iPhone's Lock Screen with the City Digital widget highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-edit-lock-screen-widget-gallery-clock-city-digital-highlighted.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Close 
 
@@ -476,57 +228,16 @@ Close
 
 ![City Digital widget on iPhone's Home Screen with the Edit Widget menu option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-home-screen-city-digital-widgets-edit-widget-menu-option-highlighted.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Editing locaiton for City Digital widget on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-edit-city-digital-widget.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![Choosing custom location for City Digital widget on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-edit-city-digital-widget-choose-city.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Close 
 
@@ -546,57 +257,16 @@ Close
 
 ![Using emoji search on iPhone to find shaking heads characters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-emoji-keyboard-search-shaking-heads.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  iOS 17.4 also introduced directional variants of six pre-existing people emoji depicting a person walking, running, and kneeling, as well as a person with a white cane, in a manual wheelchair, and a motorized wheelchair. You can find those under the “Smileys & People” section of the Emoji keyboard (hold the emoji to set the skin tone).
 
 ![Selecting emoji skin tone on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple-ios-17-4-emoji-keyboard-smileys-and-people-section-skin-selector.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Tidbits: EU Changes, “Listen Now” Renamed “Home,” and More
 
@@ -618,8 +288,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -627,12 +295,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-key-steps-to-composing-engaging-youtube-video-plans/"><u>[New] 2024 Approved The Key Steps to Composing Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-from-page-to-screen-jujutsu-kaisen-on-tiktok/"><u>[New] From Page to Screen Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-quick-win-strategies-for-replying-on-discord-platforms/"><u>[New] In 2024, Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-remove-your-facebook-friends-from-iphone-address-book/"><u>Comprehensive Guide: How to Remove Your Facebook Friends From iPhone Address Book</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-mobikin-cleaner-guide-features-reviews-and-performance-on-windows-and-mac/"><u>Comprehensive Mobikin Cleaner Guide: Features, Reviews, and Performance on Windows & Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-adventures-with-panasonic-hx-a1-cam/"><u>Exploring Adventures with Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-iphones-camera-issues-3-easy-solutions/"><u>Fix Your iPhone's Camera Issues: 3 Easy Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-the-beat-on-your-device-discover-how-to-easily-move-tunes-from-an-ipod-touchshufflenano-no-itunes-required/"><u>Get the Beat on Your Device: Discover How to Easily Move Tunes From an iPod Touch/Shuffle/Nano - No iTunes Required!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-convincing-writing-effective-proposals-using-chatgpt/"><u>Mastering the Art of Convincing: Writing Effective Proposals Using ChatGPT</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-want-to-find-a-high-quality-video-editing-tool-for-your-64-bit-operating-system-youve-come-to-the-right-place/"><u>New In 2024, Want to Find a High-Quality Video Editing Tool for Your 64 Bit Operating System? Youve Come to the Right Place</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-rankings-which-is-safer-meta-or-fb-for-rift-2/"><u>Privacy Rankings: Which Is Safer, Meta or FB for Rift 2?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-to-enhance-performance-supercharge-your-iphone-1515-pro-in-just-a-few-steps/"><u>Quick Fixes to Enhance Performance: Supercharge Your iPhone 15/15 Pro in Just a Few Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-swiftly-eliminating-files-from-your-ipad-with-no-cost-solutions/"><u>The Ultimate Guide to Swiftly Eliminating Files From Your iPad with No Cost Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-strategies-to-eliminate-iphone-sluggishness-and-improve-performance/"><u>Top 5 Strategies to Eliminate iPhone Sluggishness and Improve Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-fix-the-cannot-delete-issue-on-your-iphone-seamlessly/"><u>Ultimate Guide: How to Fix the 'Cannot Delete' Issue on Your iPhone Seamlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-power-of-mobikin-cleaner-for-pcs-in-depth-review-and-insights-for-windows-and-macos-users/"><u>Unveiling the Power of Mobikin Cleaner for PCs: In-Depth Review and Insights for Windows and macOS Users</u></a></li>
+</ul></div>
 

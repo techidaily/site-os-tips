@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Forecasts: Anticipated Innovations in Artificnial Intelligence From Apple's Worldwide Developers Conference (WWDC) 2024"
-date: 2024-09-10T10:43:44.404Z
-updated: 2024-09-11T10:43:44.404Z
+date: 2024-10-10T18:23:02.857Z
+updated: 2024-10-18T10:08:34.017Z
 tags:
   - ios
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 ---
 
 ## Top 5 Forecasts: Anticipated Innovations in Artificnial Intelligence From Apple's Worldwide Developers Conference (WWDC) 2024
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -35,19 +21,12 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
  There have been hints about Apple’s AI ambitions coming this year but CEO [Tim Cook laid it out](https://www.reuters.com/technology/apple-shareholders-reject-ai-disclosure-proposal-2024-02-28/), saying Apple had, “incredible breakthrough potential for generative AI.” Here’s what I think is coming at [Apple's WWDC developer conference](https://youtube-video-recordings.techidaily.com/charting-the-course-to-earnings-with-youtube-videos-for-2024/) on June 10.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1  Siri Will Become a Proper Chatbot/LLM 
 
@@ -61,35 +40,21 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 ![A WWDC2024 logo on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wwdc.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Apple
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2  Siri Will Remain the Brand for Apple's (New) AI Assistant 
 
@@ -105,19 +70,12 @@ Apple
 
  Smartwatches have gotten stale over the last couple of years. The [Apple Watch Ultra 2](https://youtube-help.techidaily.com/new-mastering-your-youtube-pinpointing-a-specialized-audience/) is great, but it’s more of the same. (Even on the [Android side](https://extra-hints.techidaily.com/2024-approved-anonymity-achieved-simplified-strategies-to-pixelate-photos/), nothing exciting is happening.) Using AI to make Apple Watch the always-accessible smart companion is one way to raise interest.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4  Apple Won't Focus Generative AI on Photos Right Now 
 
@@ -126,20 +84,6 @@ Apple
  The company’s obsession with creating the most popular camera in the world gives me pause to think that it would muddy those waters with generative AI features right out of the gate.
 
  I hope there will still be some minor additions like better editing tools built into Photos; erasing unwanted items as the primary example. But I don’t think there’s a chance Apple will suddenly begin letting the Photos app or Camera app dabble in fantasy. Unlike the [Pixel 8](https://youtube-tips.techidaily.com/24-simple-guide-youtube-to-mp3-on-mac/), I don’t see Apple letting generative AI create wholly fictional photo scenes for people, at least not this year.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5  Generative AI Will Come to Apps Like Mail, Music, Fitness, and Others 
 
@@ -161,8 +105,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,12 +112,17 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/rack-your-videos-with-these-top-8-youtube-rank-trackers-for-2024/"><u>[New] Track Your Videos With These Top 8 YouTube Rank Trackers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-guide-to-capturing-vr-gaming-sessions/"><u>[Updated] 2024 Approved Essential Guide to Capturing VR Gaming Sessions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamline-stress-effective-edits-for-lifeless-bigger-tiktok-drafters/"><u>[Updated] 2024 Approved Streamline Stress Effective Edits for Lifeless, Bigger TikTok Drafters</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-an-ai-voice-generator/"><u>2024 Approved What Is an AI Voice Generator?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/error-53-explained-simple-and-secure-solutions-inside/"><u>Error 53 Explained: Simple & Secure Solutions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-snappin-snapchat-5-swift-solutions-for-common-app-hiccups/"><u>Fix Snappin' Snapchat: 5 Swift Solutions for Common App Hiccups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-a-stuck-ipad-keyboard-in-10-easy-steps-comprehensive-repair-manual/"><u>Fixing a Stuck iPad Keyboard in 10 Easy Steps - Comprehensive Repair Manual</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-fixes-for-loading-issues-with-videos-on-ios-devices/"><u>Guaranteed Fixes for Loading Issues with Videos on iOS Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/video-recorder-disentangler-for-2024/"><u>Video Recorder Disentangler for 2024</u></a></li>
+</ul></div>
 

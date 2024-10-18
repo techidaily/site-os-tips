@@ -1,7 +1,7 @@
 ---
 title: "Data Recovery Tips for Damaged Android Screens: A Comprehensive Approach to Preserving Your Files"
-date: 2024-08-18T09:17:08.446Z
-updated: 2024-08-19T09:17:08.446Z
+date: 2024-10-12T23:35:34.150Z
+updated: 2024-10-18T10:45:47.642Z
 tags:
   - backup-android-data
 categories:
@@ -24,25 +24,22 @@ thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547d
 * [Part 1. How to use Google Photos backup](https://tools.techidaily.com/)
 * [Part 2. Google Photos backup not working: how to fix](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. How to use Google Photos backup
 
  If you are looking for photos backup online, backing up photos to Google Photos online is the perfect solution for you now. So how to access and use Google picture backup? Read the following tutorials on how to backup photos to Google from your Android/iPhone, or computer.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Google Photos backup from Android/iPhone
 
  By uploading pictures to Google cloud with no storage limitation, Google Photos makes it very easy for Android photos backup or[iPhone photos backup](https://tools.techidaily.com/) . Plus, Google auto backup feature makes your pics safer than ever. No matter when you have a new picture on your phone, it will be automatically backed up to Google Drive. To upload pictures with Google Photos auto backup, you can follow the steps below:
 
 ![Quick Bypass iCloud Activation](https://www.aiseesoft.com/images/resource/google-photos-backup/google-photos-backup-on-android.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1 Download Google Photos app on Android/iPhone.
 
@@ -53,20 +50,17 @@ Step 3 After you switch on the "Backup & Sync" function, you can also click "Cho
 Step 4 If you want view Google backup pictures, open the Google Photos website, and sign in the Google account that you've backed up the pictures. Then you can see all the images you backed up from Android to Google Photos app.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Google Photos Backup from Computer
 
  If you have photos on your computer that needs backup, you can also use Google Photos backup. Here are the steps to[upload photos to Google](https://tools.techidaily.com/) backup:
 
 ![Google Photos Backup on Computer](https://www.aiseesoft.com/images/resource/google-photos-backup/google-photos-backup-on-computer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
 Step 1 [Download Google Photos](https://tools.techidaily.com/) app for PC or Mac to get started.
 
@@ -76,11 +70,22 @@ Step 2 Sign in with Google account, then you'll be promoted to choose backup sou
 
  You will also like reading:[Sync Android Phone Contacts to Google](https://tools.techidaily.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Google Photos backup not working: how to fix
 
 ![Google Photos Backup Not Working](https://www.aiseesoft.com/images/resource/google-photos-backup/google-photos-backup-not-working.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When using Google Photos auto backup, some people come across problems like Google photo back not working on Mac/Android, or[photos backup stuck](https://tools.techidaily.com/) in a loop, etc. Don't worry, the steps below will address all the possible issues that may occur and potentially deprive you from backing up pictures to Google Photos. If you are wondering why "my photos aren't backing up", following the guide to check your Google backup status:
@@ -134,8 +139,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +146,22 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-effortless-media-migration-how-to-send-fb-movies-via-whatsapp/"><u>[New] Effortless Media Migration How To Send FB Movies via WhatsApp</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20-keywords-for-stellar-marketing-strategies/"><u>[New] Top 20 Keywords for Stellar Marketing Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-visual-content-from-video-to-gif-transformation/"><u>[Updated] 2024 Approved Tweeting Visual Content From Video to GIF Transformation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-digital-symphony-recording-on-a-mac-for-2024/"><u>[Updated] Digital Symphony Recording on a Mac for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-public-domain-soundtracks-downloadable-playing-games/"><u>2024 Approved Public Domain Soundtracks Downloadable, Playing Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unraveling-the-mysteries-of-stardew-valley-with-an-insiders-look-at-its-most-hidden-gem-ginger-isle/"><u>2024 Approved Unraveling the Mysteries of Stardew Valley with an Insider's Look at Its Most Hidden Gem – Ginger Isle</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-disablingdeleting-twitter-and-its-data-from-your-ios-device/"><u>Comprehensive Guide: Disabling/Deleting Twitter & Its Data From Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-how-to-project-your-ipad-display-onto-an-amazon-firestick/"><u>Effective Techniques: How to Project Your iPad Display Onto an Amazon Firestick</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-enabling-icloud-keychain-on-your-pc-a-step-by-step-tutorial/"><u>Guide: Enabling iCloud Keychain on Your PC - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-guide-mastering-your-iphones-hotspot-functionality/"><u>In-Depth Guide: Mastering Your iPhone's Hotspot Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-selfie-photography-techniques-for-four-unique-situations/"><u>Mastering the Art of iPhone Selfie Photography: Techniques for Four Unique Situations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/selecting-the-optimal-mac-microphone-recorders-our-expert-picks-of-5-for-2024/"><u>Selecting the Optimal Mac Microphone Recorders Our Expert Picks of 5 for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-instructions-how-to-turn-off-or-erase-facebook-access-on-your-iphone/"><u>Ultimate Instructions: How to Turn Off or Erase Facebook Access on Your iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleash-creativity-in-photography-essential-pixlr-hacks/"><u>Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/wannacry-ransomware-defense-tactics-unveiled-by-experts-at-malwarefox/"><u>WannaCry Ransomware Defense Tactics Unveiled by Experts at MalwareFox</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-10-08T01:03:57.530Z
-updated: 2024-10-12T11:44:24.276Z
+date: 2024-10-15T23:31:38.504Z
+updated: 2024-10-17T19:54:10.456Z
 tags:
   - ios
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  A family recently [discovered](https://arstechnica.com/information-technology/2019/04/airbnb-guest-found-hidden-surveillance-camera-by-scanning-wi-fi-network/) a rude surprise at their Airbnb: a hidden camera disguised as a smoke detector in the living room. Here are two ways to check for cameras—in an Airbnb or elsewhere—using only an iPhone or Android phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Hidden Cameras Are a Real Danger
 
  If you're staying in a hotel or an Airbnb, hidden cameras can be a worry. In the case of Airbnb, [your host is required to list any cameras](https://www.airbnb.com/help/article/887/what-are-airbnb-s-rules-about-electronic-surveillance-devices-in-listings) they have, whether or not they're turned on. Additionally, Airbnb does not allow hosts to place cameras in bathrooms or sleeping areas, even if that's a living room with a foldout bed.
@@ -40,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  Manufacturers design cameras disguised as other everyday objects, like [smoke detectors](https://www.amazon.com/Detector-Wireless-Cameras-Detection-Security/dp/B09Y5KX3YL?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), [clocks](https://www.amazon.com/AMCSXH-Detection-Security-Remote-Real-Support/dp/B07H23TVY7?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), [USB hubs](https://www.amazon.com/Spy-Camera-WiFi-1080P-Detection/dp/B07NQHH1RK/?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), and even [wireless chargers](https://www.amazon.com/Wireless-Charger-Hidden-Detection-Security/dp/B07M91T1F7?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen). These can be used for legitimate reasons in your own home—for example, to hide a camera a burglar can't find or to monitor a nanny with that person's consent. But how do you ensure someone isn't targeting you with a hidden camera? With a single app and your phone's camera, you can do a sweep for hidden cameras when you check in.
 
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Scan for Networked Cameras
 
@@ -62,40 +48,60 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
  If you find any suspicious devices on the network, you'll want to scan for any open ports those devices are using. Tap the back button (or swipe back), tap the "Tools" button, then tap "Find Open Ports." 
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
@@ -133,14 +139,15 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-charting-a-course-for-influential-insights-within-your-niche/"><u>[New] In 2024, Charting a Course for Influential Insights Within Your Niche</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-securing-your-mobile-apps-with-screen-locking-features-on-ios-devices/"><u>Guide: Securing Your Mobile Apps with Screen Locking Features on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-uploading-your-smartphone-images-from-ios-device-to-windowsmac-desktop/"><u>Guide: Uploading Your Smartphone Images From iOS Device to Windows/Mac Desktop</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-using-googles-gemini-ai-feature-on-your-iphone/"><u>Guide: Using Google's Gemini AI Feature on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-consumer-demand-is-driving-up-phone-sizes-understanding-this-tech-evolution/"><u>How Consumer Demand Is Driving Up Phone Sizes - Understanding This Tech Evolution.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-nord-n30-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus Nord N30 5G Without PUK Codes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-diy-filming-ideas-for-aspiring-directors/"><u>Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mp3-movavi-m2p/"><u>오늘날에도 MP3로 전환하기: Movavi의 속도와 정확성을 위해 M2P 대상화를 무료로 사용</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevate-content-on-instagram-master-the-art-of-animation-in-stories-for-2024/"><u>[Updated] Elevate Content on Instagram Master the Art of Animation in Stories for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-window-recording-on-spring-screens/"><u>[Updated] In 2024, The Ultimate Guide to Window Recording on Spring Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029108510-google/"><u>音声掲示板のリコードと保存について学ぶ - Google検索最適化</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721898948720-can-machines-tell-jokes-discovering-the-past-of-portable-computers-and-vpn-innovations-today/"><u>Can Machines Tell Jokes? Discovering the Past of Portable Computers & VPN Innovations Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-alerts-anticipated-remedies-for-iphones-glitchy-clock-applications/"><u>Reviving Alerts: Anticipated Remedies for iPhone's Glitchy Clock Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stay-alert-with-wazes-real-time-notifications-for-speed-limits-curves-and-road-hazards/"><u>Stay Alert with Waze's Real-Time Notifications for Speed Limits, Curves, and Road Hazards</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-counting-on-mobile-a-guide-to-using-your-iphoneandroid-device/"><u>Step Counting on Mobile: A Guide to Using Your iPhone/Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-adjusting-your-iphones-alarm-sound-level/"><u>Step-by-Step Guide: Adjusting Your iPhone's Alarm Sound Level</u></a></li>
 </ul></div>
 

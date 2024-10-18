@@ -1,7 +1,7 @@
 ---
 title: How to Change Your iPhone's Default Map Application to Google Maps with Ease
-date: 2024-10-08T01:46:32.240Z
-updated: 2024-10-12T01:04:16.949Z
+date: 2024-10-11T19:21:12.770Z
+updated: 2024-10-18T10:08:40.035Z
 tags:
   - ios
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you’re an iPhone user who prefers Google Maps over Apple Maps, you might wonder how to make it the default navigation app. Unfortunately, you can’t. However, there’s a workaround you can use that takes advantage of other Google apps.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Do You Need a Workaround?
 
  You can’t change the default navigation app for opening map links on your iPhone, Apple makes you use Apple Maps. This isn’t surprising, considering [Apple’s ecosystem is largely closed](https://win-blog.techidaily.com/resolving-game-breaking-crashes-for-star-wars-old-republic-expert-fixes-unlocked/). If you really want to change it, you’d have to jailbreak your iPhone.
@@ -41,6 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Deleting Apple Maps will not force your iPhone to use Google Maps as the default navigation app. Instead, when opening a map link, your phone will prompt you to download Apple Maps again.
 
  Fortunately, since iOS 14, you can change the default browser and [email app on your iPhone](https://win11.techidaily.com/leveraging-advanced-tools-for-improved-admin-workflows-in-windows/). You can set the former to Chrome and the latter to Gmail. Since apps within Google's ecosystem prefer other Google apps, map links opened in Chrome and Gmail will open Google Maps.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  First, Make Chrome Your Default Mobile Browser
 
@@ -52,27 +52,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The the "Chrome" option in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-chrome-option-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Chrome settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chrome-settings-page-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Setting the default browser to Chrome in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-chrome-default-browser-iphone.PNG) 
 
 Close 
 
  The Chrome option will have a blue checkmark next to it when set as default.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Next, Make Gmail Your Default Mailing App
 
@@ -82,22 +75,36 @@ Close
 
 ![The "Gmail" option in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-gmail-option-iphone.PNG) 
 
-![The Gmail settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-settings-page-iphone.PNG) 
-
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![The Gmail settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-settings-page-iphone.PNG) 
+
 ![Setting the default mail app to Gmail in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-default-mail-app-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
  Now open the Gmail app, tap the hamburger menu icon in the top left corner of the screen, and tap "Settings" in the menu.
 
 ![Tapping the hamburger menu in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-inbox-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Selecting the "Settings" option in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-option-gmail-iphone.PNG) 
 
@@ -106,13 +113,6 @@ Close
  Tap "Default Apps" on the next screen. Then, in the Navigate From Your Location and Navigate Between Locations sections, tap “Google Maps” to make it the default navigation app for Gmail.
 
 ![The "Default App" option in Gmail's settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/default-apps-option-gmail-iphone.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Setting Google Maps as the default navigation app in Gmail on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setting-google-maps-default-gmail-iphone.PNG) 
 
@@ -139,20 +139,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/irst-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>[New] First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-video-length-limit-every-details-you-need-to-know/"><u>2024 Approved Instagram Video Length Limit - Every Details You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/are-iphones-built-to-resist-water-and-how-much-exposure-is-safe/"><u>Are iPhones Built to Resist Water, and How Much Exposure Is Safe?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/current-status-of-game-emulator-legality-safe-or-on-the-brink-of-illegalization/"><u>Current Status of Game Emulator Legality: Safe or on the Brink of Illegalization?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-power-of-apples-freeform-app-in-streamlining-your-daily-routine/"><u>Discover the Power of Apple's Freeform App in Streamlining Your Daily Routine</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-apples-vision-pro-the-most-shocking-features-and-innovations-exposed/"><u>Discovering Apple's Vision Pro: The Most Shocking Features and Innovations Exposed!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diving-into-vintage-video-games-on-my-iphone-a-weekend-of-discovery-and-lessons/"><u>Diving Into Vintage Video Games on My iPhone - A Weekend of Discovery and Lessons.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-exchange-swapping-contacts-via-iphones-airdrop-feature/"><u>Effortless Exchange: Swapping Contacts via iPhone's AirDrop Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eliminate-clutter-with-these-6-effective-alternatives-to-iphone-folder-management/"><u>Eliminate Clutter with These 6 Effective Alternatives to iPhone Folder Management</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-explore-these-6-powerful-instagram-reel-tools/"><u>In 2024, Explore These 6 Powerful Instagram Reel Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-tecno-pop-8-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Tecno Pop 8 Android SIM Unlock APK</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>In 2024, Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-videography-and-photography-together-canon-sx70-hs/"><u>Mastering Videography and Photography Together - Canon SX70 HS</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-11-sites-offering-complimentary-access-to-chinese-series-with-english-dubbed-versions/"><u>Top 11 Sites Offering Complimentary Access to Chinese Series With English Dubbed Versions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-flv-editor-for-windows-8-easily-edit-flv-videos-on-pc/"><u>Updated 2024 Approved FLV Editor for Windows 8 Easily Edit FLV Videos on PC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-modify-twitter-video-capture-image/"><u>[New] In 2024, Modify Twitter Video Capture Image</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>[Updated] In 2024, How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-tunetracker-outside-of-dacast-realm/"><u>[Updated] In 2024, TuneTracker Outside of DaCast Realm</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-high-quality-game-recordings-methods-and-tools/"><u>2024 Approved High-Quality Game Recordings Methods and Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-mouse-right-click-problems-under-windows-11/"><u>Diagnosing and Repairing Mouse Right Click Problems Under Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kid-friendly-smartphones-children-today-safe-and-fun/"><u>Kid-Friendly, Smartphones, Children Today, Safe, and Fun.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-best-8-speech-to-text-apps-for-android-and-iphone/"><u>New Best 8 Speech to Text Apps for Android and iPhone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-your-lost-iphone-videos-a-step-by-step-guide-to-data-recovery/"><u>Rescue Your Lost iPhone Videos: A Step-by-Step Guide to Data Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-lost-connections-the-ultimate-iphone-restoration-manual/"><u>Reviving Lost Connections: The Ultimate iPhone Restoration Manual</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-how-to-swiftly-retrieve-lost-iphone-notepad-entries-instantly/"><u>Simple Steps: How to Swiftly Retrieve Lost iPhone Notepad Entries Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-accidentally-erased-data-from-your-ipad-using-a-mac/"><u>Step-by-Step Guide: Restoring Accidentally Erased Data From Your iPad Using a Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-on-recovering-your-iphone-using-iclouditunes-restoration-methods/"><u>Step-by-Step Instructions on Recovering Your iPhone Using iCloud/iTunes Restoration Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-restoring-deleted-phone-calls-on-iphones-and-android-devices/"><u>Step-by-Step Tutorial: Restoring Deleted Phone Calls on iPhones and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-techniques-restoring-erased-phone-conversation-records-on-ios-and-android-effortlessly/"><u>Ultimate Techniques: Restoring Erased Phone Conversation Records on iOS and Android Effortlessly</u></a></li>
 </ul></div>
 
