@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue of Low Volume in AirPods: A Step-by-Step Guide"
-date: 2024-10-04T16:59:43.703Z
-updated: 2024-10-12T01:50:16.185Z
+date: 2024-10-20T23:32:12.985Z
+updated: 2024-10-23T21:37:46.437Z
 tags:
   - ios
 categories:
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
 ![Woman putting AirPods Pro in ear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/airpods-pro-in-ear.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white-wireless-headphones-copy-space-1750927877)_
 
  Given that there's a possibility that your iPhone's volume buttons have failed (like mine did), try adjusting the AirPods volume using Siri. Just call the voice assistant and ask it to turn the volume up or down. You can also use the Control Center to modify the volume levels. If you're using the [AirPods Pro (2nd Generation)](https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27-pro-by-drfone-android/), try using the swipe controls on the stem to turn the volume up or down. On the AirPods Max, there's a digital crown on the left ear cup that can help you adjust the loudness.
@@ -47,6 +60,19 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
 
 ![Dirty primary acoustic outlet of Apple AirPods with accumulated earwax, grease and dirt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dirty-airpods.png) 
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Michael Vi/Shutterstock.com](https://www.shutterstock.com/image-photo/dirty-primary-acoustic-outlet-apple-airpods-2121511106)
 
  If you've exposed your AirPods to anything that might cause stains or other damage, use a 70% isopropyl alcohol wipe to [clean the exterior surfaces of your AirPods](https://facebook-clips.techidaily.com/leading-downloader-software-facebooks-top-choices-5-for-2024/) (the regular version, AirPods Pro, or the AirPods Max). However, [Apple](https://support.apple.com/en-in/102672) advises against using alcohol wipes on the knit mesh canopy and ear cushions on the AirPods Max.
@@ -54,6 +80,13 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
  For the [AirPods Max's](https://extra-hints.techidaily.com/how-to-change-powerpoint-video-speed/) ear cushions, use a lint-free cloth dipped into a liquid detergent mixture to wipe them, along with the headband, for one minute each. However, if you're doing this, make sure that you dry any excess moisture before you put back the cushions and start using the headphones.
 
  A word of caution: do not submerge or run the AirPods under water. Unlike iPhones, they aren't water-resistant, and you might damage the device permanently.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Take the Ear Tip Test
 
@@ -81,13 +114,6 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Ear Tip Fit Test result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
 
 ##  Switch From ANC or Transparency to Regular Mode
@@ -98,16 +124,16 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the noise cancelation modes in Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/airpods-noise-cancelation-modes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
 
  On a Mac you'll find this option in the top-right corner of the screen, just click on your AirPods under "Sound" and choose which listening mode you want to use.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Turn Off Headphone Safety
 
@@ -127,6 +153,13 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Sounds & Haptics menu with an arrow next to the Headphone Safety option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
 
  Turn off "Headphone Notifications" and "Reduce Loud Audio."
@@ -134,6 +167,19 @@ Shikhar Mehrotra / How-To Geek
 ![Screenshot of the Headphone Safety menu with arrows next to the required options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-6.png) 
 
 Shikhar Mehrotra / How-To Geek
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Sound/Equalizer Settings
 
@@ -149,25 +195,11 @@ Shikhar Mehrotra / How-To Geek
 
 ![Image of the EQ menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
 
  If you've enabled Dolby Atmos, disable the setting and see if the AirPods feel louder than before.
 
 ![Screenshot of the Dolby Atmos menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -184,10 +216,10 @@ Shikhar Mehrotra / How-To Geek
 Shikhar Mehrotra / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is One AirPod Quieter Than The Other? Here's The Fix
@@ -199,13 +231,6 @@ Shikhar Mehrotra / How-To Geek
  If the problem is more stubborn you might need to manually fix the unbalanced audio. To do this, open the "Settings" app and select "Accessibility."
 
 ![Screenshot of the Settings app with an arrow next to the Accessibility option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-12.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -219,14 +244,14 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the audio balance slider in Audio & Visual menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Recalibrate Your AirPods' Volume
 
@@ -239,13 +264,6 @@ Shikhar Mehrotra / How-To Geek
  If nothing works, it is time to [reset your AirPods to factory settings](https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-5-v-by-fonelab-android-recover-video/). For this, insert your AirPods in their charging case and shut the lid. Wait for about 30 seconds, then take the AirPods out of their case and put them in your ears. Now, go to Settings > Bluetooth > \[Your\] AirPods, hit the info icon, and then select "Forget This Device." Tap on Confirm to initiate the process.
 
 ![Pairing the Apple AirPods Pro 2 with iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/airpods-connected-to-iphones.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Kris Wouk / How-To Geek
 
@@ -270,17 +288,22 @@ Kris Wouk / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-focus-and-frame-the-art-of-intimate-movie-filming/"><u>[New] In 2024, Focus & Frame The Art of Intimate Movie Filming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-miro-extreme-8-pro-wmps-elite-alternative/"><u>[New] Miro Extreme 8 Pro WMP's Elite Alternative</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-charismatic-charm-of-moving-text-on-screen-for-2024/"><u>[Updated] Charismatic Charm of Moving Text on Screen for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-note-13-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi Note 13 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-fitbit-charge-3-against-modern-rivals-a-comprehensive-review/"><u>Evaluating the Fitbit Charge 3 Against Modern Rivals – A Comprehensive Review</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-sony-xperia-10-v-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Sony Xperia 10 V</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/instant-tv-viewing-of-popular-facebook-feeds-for-2024/"><u>Instant TV Viewing of Popular Facebook Feeds for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transforming-chaos-into-order-discover-why-families-adore-using-cozi-for-life-management/"><u>Transforming Chaos Into Order: Discover Why Families Adore Using Cozi for Life Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-common-glitches-in-apples-financial-services/"><u>Troubleshooting Common Glitches in Apple's Financial Services</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-cannot-connect-to-app-store-issue-on-your-iphoneipad/"><u>Troubleshooting Steps: Resolving 'Cannot Connect to App Store' Issue on Your iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-apple-watch-a-guide-to-fix-sleep-tracking-issues/"><u>Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-critical-problems-and-limitations-revealed/"><u>Understanding ChatGPT: Critical Problems and Limitations Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-flashsnap-firefox-tools/"><u>[New] FlashSnap Firefox Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-the-perfect-mobile-chime-how-to-download-and-personalize-whatsapp-tones-for-iphonesandroids-for-2024/"><u>[Updated] Crafting the Perfect Mobile Chime How to Download & Personalize WhatsApp Tones for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-aqtime-media-center-diverse-audio-video-options/"><u>2024 Approved Aqtime Media Center Diverse Audio, Video Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-top-5-marine-filter-companions/"><u>2024 Approved GoPro's Top 5 Marine Filter Companions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-impact-how-ios-18-revolutionizes-mobile-technology/"><u>Exploring the Impact: How iOS 18 Revolutionizes Mobile Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-face-unlock-issues-on-ios-devices-a-guide-to-overcoming-face-id-malfunctions/"><u>Fixing Face Unlock Issues on iOS Devices: A Guide to Overcoming Face ID Malfunctions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-mastering-the-features-of-apple-musics-shared-playlists/"><u>Guide: Mastering the Features of Apple Music's Shared Playlists</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-prevent-your-iphones-auto-dimming-feature-from-interrupting-your-view-expert-tips-and-tricks/"><u>How To Prevent Your iPhone's Auto-Dimming Feature From Interrupting Your View: Expert Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/imessage-troubleshooting-top-8-solutions-for-iphone-and-mac-users/"><u>IMessage Troubleshooting: Top 8 Solutions for iPhone and Mac Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-become-a-kinemaster-virtuoso-advanced-techniques-and-excellent-alternatives-online/"><u>In 2024, Become a KineMaster Virtuoso Advanced Techniques & Excellent Alternatives Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-belkin-auto-tracking-stand-pro-the-ultimate-companion-for-content-creators/"><u>In-Depth Analysis of the Belkin Auto-Tracking Stand Pro: The Ultimate Companion for Content Creators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-15-pro-is-overheating-a-concern-with-this-latest-model/"><u>IPhone 15 Pro: Is Overheating a Concern with This Latest Model?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-it-safe-and-effective-to-use-apples-airtag-trackers-for-pet-collars/"><u>Is It Safe and Effective to Use Apple's AirTag Trackers for Pet Collars?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-privacy-in-ai-communication-protecting-or-concealing-your-chatgpt-messages-efficiently/"><u>Navigating Privacy in AI Communication: Protecting or Concealing Your ChatGPT Messages Efficiently</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-online-trailer-production-services/"><u>Professional Online Trailer Production Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-for-freezing-unseen-android-app-activities/"><u>The Ultimate Solution for Freezing Unseen Android App Activities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-13-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 13 Pro Max</u></a></li>
 </ul></div>
 

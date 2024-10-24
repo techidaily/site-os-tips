@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook
-date: 2024-10-07T02:27:14.516Z
-updated: 2024-10-12T07:26:46.087Z
+date: 2024-10-16T22:02:55.545Z
+updated: 2024-10-23T17:56:43.453Z
 tags:
   - ios
 categories:
@@ -33,20 +33,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select button in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap the Share icon in the bottom-left corner and select "Save to Files" from the Share menu.
 
 ![Save to Files option in iPhone Photos app's Share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finally, choose a folder to save the images and tap "Save."
 
 ![Saving photos to Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to move the images to a separate folder, you'll need to create one first. Tap the three-dot icon to the left of Save in the top-right corner of the app and select "New Folder."
 
@@ -59,22 +73,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Accessing the context menu on an image in the iPhone Files app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-7.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select "Quick Actions" and tap "Remove Background."
 
 ![Using the Remove Background Quick Action on an image in iPhone's Files app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-8.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will remove the image's background and save it as a new file (in the PNG format) in the same folder. You can now export the image to your favorite [photo editing app](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) for further editing. Or save it back in the Photos app.
 
@@ -82,16 +89,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select option in Files app to choose multiple images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, select all the photos whose backgrounds you want to remove. Finally, tap the three-dot button in the bottom-right corner and select the "Remove Background" Quick Action to remove their backgrounds.
 
 ![Accessing the Remove Background Quick Action in Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-12.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove the Background From an Image on a Mac
 
@@ -106,13 +113,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, click on "Quick Actions" and select "Remove Background."
 
 ![Using the Remove Background Quick Action to remove an image's background in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finder will remove the background from your selected image and save it with a transparent background as a PNG file in the same folder.
 
@@ -141,20 +141,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-guide-to-optimizing-video-quality-in-mobile-broadcasts/"><u>[New] In 2024, Ultimate Guide to Optimizing Video Quality in Mobile Broadcasts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-choosing-the-right-platform-a-look-at-vimeo-youtube-and-dailymotion-for-2024/"><u>[Updated] Choosing the Right Platform A Look at Vimeo, YouTube & DailyMotion for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-study-motion-without-contact/"><u>[Updated] In-Depth Study Motion Without Contact</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-edits-navigating-psxs-eraser-feature/"><u>2024 Approved Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mpegvob-movavi/"><u>無需花錢的網路Mpeg到Vob格式轉換 - 利用 Movavi 工具</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-restoring-accidentally-deleted-pictures-on-ios-devices/"><u>Expert Tips: Restoring Accidentally Deleted Pictures on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-what-if-the-reason-behind-apples-decision-against-intelligent-features-in-classic-iphones/"><u>Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/find-your-missing-iphone-easily-with-these-android-tricks/"><u>Find Your Missing iPhone Easily with These Android Tricks!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/getting-up-to-date-with-apples-latest-software-current-ios-and-ipados-releases-unveiled/"><u>Getting Up-to-Date with Apple's Latest Software: Current iOS and iPadOS Releases Unveiled!</u></a></li>
-<li><a href="https://win-able.techidaily.com/hearthstone-troubleshooting-guide-solving-game-crashes-on-windowsmac-pcs/"><u>Hearthstone Troubleshooting Guide - Solving Game Crashes on Windows/Mac PCs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-easily-swap-iphone-and-ipad-screens-remotely-with-a-simple-technique/"><u>How to Easily Swap iPhone & iPad Screens Remotely with a Simple Technique</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-prevent-premature-battery-drainage-in-mobile-devices-common-pitfalls-to-steer-clear-of/"><u>How To Prevent Premature Battery Drainage in Mobile Devices - Common Pitfalls to Steer Clear Of</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-p55plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel P55+ Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-itel-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Itel has been deleted.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-ai-writing-and-how-to-spot-ai-generated-text/"><u>The Dangers of AI Writing and How to Spot AI-Generated Text</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cutting-edge-video-recording-techniques-on-modern-win-11-devices/"><u>[Updated] In 2024, Cutting-Edge Video Recording Techniques on Modern Win 11 Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>[Updated] The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-quietest-cool-memes-on-the-web-for-2024/"><u>[Updated] The Quietest Cool Memes on the Web for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-differences-between-claude-pro-and-chatgptplus-explained/"><u>Exploring the Differences Between Claude Pro and ChatGPT+ Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-3-step-structure-for-successful-subscriber-profit-analysis-a-guide-from-google/"><u>In 2024, The 3-Step Structure for Successful Subscriber Profit Analysis A Guide From Google</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-modern-methods-of-mixing-media-the-latest-on-adding-sound-to-ae-projects-2023s-insights-and-tips/"><u>New Modern Methods of Mixing Media The Latest on Adding Sound to AE Projects (2023S Insights and Tips)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/operational-status-achieved-cameras-ready-for-2024/"><u>Operational Status Achieved - Cameras Ready for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-your-itunes-movie-files-to-drm-free-mp4/"><u>Step-by-Step Guide: Converting Your iTunes Movie Files to DRM-Free MP4</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-iphone-13-pro-defenders-ranked/"><u>Ultimate Selection: IPhone 13 Pro Defenders Ranked</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-covert-spy-gear-a-step-by-step-guide-to-identifying-concealed-camera-traps-using-mobile-technology/"><u>Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-exclusive-discounts-save-big-on-updf-editor-and-apple-watch-series-eztrem/"><u>Unlock Exclusive Discounts: Save Big on UPDF Editor & Apple Watch Series ˈēztrēm!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-full-potential-ipadoss-path-to-powerful-multitasking-in-3-simple-steps/"><u>Unlock Full Potential: IPadOS's Path to Powerful Multitasking in 3 Simple Steps.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-power-of-non-touch-interactions-with-apple-watch-series-9s-advanced-neural-engine-and-hand-gestures-features/"><u>Unlock the Power of Non-Touch Interactions with Apple Watch Series 9’S Advanced Neural Engine and Hand Gestures Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-productivity-with-a-top-secret-markdownnote-taker-that-revolutionizes-your-workflow/"><u>Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-secrets-behind-the-iphones-dominance-in-video-playback/"><u>Unraveling the Secrets Behind the iPhone's Dominance in Video Playback</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-milestone-the-birth-of-the-first-smartphone/"><u>Unveiling the Milestone: The Birth of the First Smartphone</u></a></li>
 </ul></div>
 

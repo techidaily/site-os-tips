@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-10-14T06:06:06.740Z
-updated: 2024-10-18T05:05:47.399Z
+date: 2024-10-19T23:06:06.747Z
+updated: 2024-10-24T02:13:57.699Z
 tags:
   - ios
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,22 +30,15 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
@@ -56,15 +49,22 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -96,14 +96,24 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-infinite-playground-top-10-affordable-online-adventures/"><u>[Updated] In 2024, Infinite Playground Top 10 Affordable Online Adventures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3wav-mpg-movavi/"><u>網路無限制MP3/WAV MPG轉換 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-viewership-mastery-in-youtube-shorts-design-for-2024/"><u>Boosting Viewership Mastery in YouTube Shorts Design for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-fear-to-proficiency-excel-and-chatgpt-duo/"><u>From Fear to Proficiency: Excel & ChatGPT Duo</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-fords-latest-in-vehicle-system-not-a-direct-rival-to-android-autoapple-carplay/"><u>Introducing Ford's Latest In-Vehicle System: Not a Direct Rival to Android Auto/Apple CarPlay</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-users-ultimate-tutorial-converting-stills-to-movies-and-animations/"><u>IPhone Users' Ultimate Tutorial: Converting Stills to Movies & Animations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-it-worth-upgrading-from-the-m2-ipad-pro-to-the-new-m4-model/"><u>Is It Worth Upgrading From the M2 iPad Pro to the New M4 Model?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/learn-how-your-ipad-can-format-and-manage-external-hardware-a-comprehensive-guide/"><u>Learn How Your iPad Can Format and Manage External Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-becoming-a-vlogger-voice-confident-content-creation-strategies/"><u>[New] 2024 Approved Becoming a Vlogger Voice Confident Content Creation Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-resolution-of-macs-green-screen-problem-for-youtubers/"><u>[New] In 2024, Effortless Resolution of Mac's Green Screen Problem for YouTubers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>[Updated] In 2024, Perfect Meeting Aesthetics How to Blur Video Backgrounds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-must-see-top-5-youtube-link-share-extensions-for-2024/"><u>[Updated] Must-See Top 5 YouTube Link Share Extensions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>2024 Approved Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-closer-video-in-google-meet-sessions/"><u>2024 Approved Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency-for-2024/"><u>Accelerate Image Enhancement Top 15 Pixlr Tips for Speed and Efficiency for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-color-correction-app/"><u>In 2024, Best Color Correction App</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-pova-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Pova 5</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-shift-begins-as-iphones-embrace-universal-usb-c-port-technology/"><u>The Shift Begins as iPhones Embrace Universal USB-C Port Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-14-unnoticed-facetime-functions-boost-your-video-calls-today/"><u>Top 14 Unnoticed FaceTime Functions: Boost Your Video Calls Today</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-picks-the-best-free-and-paid-2d-animation-software-for-beginners-and-pros-alike/"><u>Top Picks The Best Free and Paid 2D Animation Software for Beginners and Pros Alike</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-navigation-and-entertainment-apps-compatible-with-carplay/"><u>Top-Rated Navigation & Entertainment Apps Compatible with CarPlay</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-malfunctioning-iphone-touchscreen-effective-solutions/"><u>Troubleshooting a Malfunctioning iPhone Touchscreen: Effective Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncover-hidden-gems-in-music-through-apple-music-radio-dont-miss-out/"><u>Uncover Hidden Gems in Music Through Apple Music Radio – Don't Miss Out!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-free-access-to-apple-devices-through-targets-exclusive-promotion/"><u>Unlock Free Access to Apple Devices Through Target's Exclusive Promotion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secret-of-eternal-iphone-charges-exclusive-tips-for-constant-low-power-usage/"><u>Unlock the Secret of Eternal iPhone Charges: Exclusive Tips for Constant Low Power Usage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-simplicity-using-assistive-features-to-convert-modern-iphones-into-fundamental-phones/"><u>Unlocking Simplicity: Using Assistive Features to Convert Modern iPhones Into Fundamental Phones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the ButterFly Two-in-One Charger by Twelve South: The Traveler's Must-Have Companion with MagSafe Technology"
-date: 2024-10-09T04:03:15.728Z
-updated: 2024-10-11T22:45:43.544Z
+date: 2024-10-21T21:23:54.049Z
+updated: 2024-10-23T22:36:07.820Z
 tags:
   - ios
 categories:
@@ -54,13 +54,6 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 [$129.95 at Twelve South](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) [$129.95 at Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The ButterFly 2-in-1 Charger Is Perfectly Small
 
 ![Twelve South Butterfly charger next to iPhone for thickness comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-thickness-comparison.jpg) 
@@ -81,6 +74,13 @@ Hannah Stryker / How-To Geek
 
  To help offset some of the cost, the ButterFly charger comes with a 30W USB-C charger, a braided USB-C cable, and international wall adapters. It’s certainly a nice touch, but I’ll only be adding the cable to my collection. The power adapter isn’t huge, but it is still nearly the same volume as the ButterFly itself. And the international adapters seem like a waste all around. (Anyone willing to buy a $130 charger _probably_ already has an international plug solution.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Practical For Packing Compared to Other Products
 
 ![Twelve South Butterfly charger with accessories laid out on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-with-accessories.jpg) 
@@ -99,6 +99,19 @@ Hannah Stryker / How-To Geek
 
 ![iPhone horizontal on the Twelve South ButterFly 2-in-1 charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/iphone-twelve-south-stand.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  When each device is charging by itself, the other side is folded underneath, facedown. I can’t think of times when I would only want to charge my watch, but using it for an iPhone without having the watch portion spread out is a nice touch.
@@ -106,33 +119,19 @@ Hannah Stryker / How-To Geek
  Using the ButterFly horizontally for StandBy mode felt like a little bit of a hack, especially because the watch charger on the back is much less ideal. Still, I like that it’s even a possibility.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Price and Availability
 
  The ButterFly 2-in-1 MagSafe Charger is available now, directly from Twelve South and Apple. It has been back ordered at [Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) until early February, but more supply should be available in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Twelve South ButterFly 2-in-1 MagSafe Charger?
 
 ![Apple Watch Charger on Twelve South standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/apple-watch-charger-on-twelve-south-but.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -143,6 +142,13 @@ Hannah Stryker / How-To Geek
  I agree that the value is not ideal here. Other options can accomplish similar things for much cheaper. But the product itself performs well with only minor cosmetic distractions. So, if your budget is flexible or you travel enough to justify it, then the ButterFly is a solid product.
 
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
 
@@ -183,24 +189,16 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-television-archive-advanced-techniques-for-online-streams/"><u>[New] 2024 Approved Television Archive Advanced Techniques for Online Streams</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-shorts-content-strategy-for-success/"><u>[Updated] In 2024, YouTube Shorts Content Strategy for Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-dji-flight-aesthetics-start-with-free-trial-lutts/"><u>2024 Approved Enhance DJI Flight Aesthetics – Start With Free Trial LUTTs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-motorola-moto-g23-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Motorola Moto G23</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-disabling-apples-find-my-device-and-removing-activation-lock/"><u>Complete Guide: Disabling Apple's Find My Device & Removing Activation Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/gphone-or-iphone-a-detailed-evaluation-of-superiority-across-8-key-aspects/"><u>Gphone or iPhone: A Detailed Evaluation of Superiority Across 8 Key Aspects</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-itunes-error-code-2-on-windows-11-8-7-vista-and-xp/"><u>How to Resolve iTunes Error Code 2 on Windows 11, 8, 7, Vista & XP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-lava-storm-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Lava Storm 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-your-iphone-password-step-by-step-guide-to-resetting-it/"><u>Lost Your iPhone Password? Step-by-Step Guide to Resetting It</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-iphone-restarts-an-in-depth-look-at-both-soft-and-factory-reset-procedures/"><u>Mastering iPhone Restarts: An In-Depth Look at Both Soft and Factory Reset Procedures</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-3gp-videos-like-a-pro-cutting-trimming-and-more/"><u>New 2024 Approved Edit 3GP Videos Like a Pro Cutting, Trimming, and More</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-say-goodbye-to-adobe-10-premiere-elements-alternatives-for-video-creators/"><u>New 2024 Approved Say Goodbye to Adobe 10 Premiere Elements Alternatives for Video Creators</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-unlocking-guide-how-to-unseal-your-mobile-iphone-in-the-dominican-republic/"><u>Permanent Unlocking Guide: How to Unseal Your Mobile iPhone in the Dominican Republic</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-wild-waters-of-xbox-errors-in-win11/"><u>Taming the Wild Waters of Xbox Errors in Win11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/transform-low-res-videos-into-stunning-hd-with-these-software-for-2024/"><u>Transform Low-Res Videos Into Stunning HD with These Software for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-siri-the-ultimate-10-step-solution-for-iphone-users-full-step-by-step-guide/"><u>Troubleshooting Siri: The Ultimate 10-Step Solution for iPhone Users – Full Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/utilizing-emoji-and-sticker-features-for-enhanced-messaging-on-ios-10/"><u>Utilizing Emoji & Sticker Features for Enhanced Messaging on iOS 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-free-game-recording-software-2024/"><u>[New] Top 10 Free Game Recording Software 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-accessible-stopwatch-services/"><u>[Updated] Premium Accessible Stopwatch Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-apps-for-capturing-crystal-clear-android-screenshots/"><u>2024 Approved Premium Apps for Capturing Crystal Clear Android Screenshots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-15-cost-effective-online-photo-editing-platforms/"><u>Discover 15 Cost-Effective Online Photo Editing Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-resolve-iphone-6s-unresponsive-zoom-issue-top-5-proven-strategies/"><u>Effortless Ways to Resolve iPhone 6'S Unresponsive Zoom Issue: Top 5 Proven Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-resolve-your-idevices-find-my-feature-why-it-wont-share-location-and-how-to-fix-it/"><u>Effortlessly Resolve Your iDevice's 'Find My' Feature: Why It Won't Share Location & How To Fix It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-crash-problems-on-pc-while-running-no-rest-for-the-wicked/"><u>Fixing Game-Crash Problems on PC While Running 'No Rest for the Wicked'</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-savings-with-our-expert-advice-on-buying-refurbished-iphone-models-online-at-unbeatable-prices/"><u>Secure Your Savings with Our Expert Advice on Buying Refurbished iPhone Models Online at Unbeatable Prices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-itel-p55-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Itel P55 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-causes-of-iphone-voicemail-issues-and-comprehensive-solutions/"><u>Top 10 Causes of iPhone Voicemail Issues and Comprehensive Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Play 40C | Dr.fone</u></a></li>
 </ul></div>
 

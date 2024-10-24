@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling WhatsApp Auto-Backups on Android & iOS Devices"
-date: 2024-08-18T09:20:28.202Z
-updated: 2024-08-19T09:20:28.202Z
+date: 2024-10-17T05:36:11.832Z
+updated: 2024-10-24T05:01:39.021Z
 tags:
   - backup-ios-data
 categories:
@@ -24,8 +24,12 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 * [Part 3. How to erase all password on your iPhone](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1\. How to backup data on locked iPhone X/8/7/SE/6/5/4
 
  Before we show you how to recover or remove your iPhone backup password, it's necessary for you to backup all important iOS files first. Because you don't remember the password, here we sincerely recommend the professional[iOS Data Backup & Restore](https://tools.techidaily.com/aiseesoft/ios-data-backup-and-restore/) to back up data on your locked iOS device. You can free download it and have a try.
@@ -35,13 +39,30 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 Step 1 Download, install and launch FoneLab on computer and choose iOS Data Backup & Restore option in the main interface.
 
 ![iOS Data Backup & Restore](https://www.aiseesoft.com/images/ios-data-backup-and-restore/fonelab-main-interface.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2 Connect your locked iPhone to computer with USB cable, and then choose the iOS data Backup option.
 
 ![Connect iPhone](https://www.aiseesoft.com/images/ios-data-backup-and-restore/ios-data-backup-restore-main-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 All types of iPhone data can be backed up, including photos, messages, videos, audios, call logs, contacts, calendar, notes and more. Choose the file type and click on "Next" button.
 
@@ -53,9 +74,6 @@ Step 4 click Backup button to backup all selected data on iPhone to your PC or M
 
  With this method, you can easily make an iPhone backup without inputting iPhone or iTunes backup password. Moreover, you can check the details of each data and then back up all the important iPhone files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Best iOS Transfer you may want to know
 
 [Aiseesoft FoneTrans - iOS Transfer](https://tools.techidaily.com/aiseesoft/ios-transfer/) [For Mac](https://tools.techidaily.com/aiseesoft/ios-transfer/)
@@ -70,8 +88,12 @@ Step 4 click Backup button to backup all selected data on iPhone to your PC or M
 [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4626213&QTY=1&AFFILIATE=108875) [Free Download](https://secure.2checkout.com/order/cart.php?PRODS=4630131&QTY=1&AFFILIATE=108875)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. How to recover iTunes passcord with iPhone backup recovery tool
 
  When you forgot iphone backup password, you can also rely on the recovery tool to regain your iTunes backup password.[iPhone Backup Password Recovery](https://www.iseepassword.com/itunes-password-recovery.html) can help you do that with ease. Two recovery ways are offered to help you crack iTunes backup password, including Brute-force Attack and Brute-force with Mask Attack. It claims that it has 86% decryption. You can download it and give it a try.
@@ -81,15 +103,19 @@ Step 1 Run iPhone Backup Password Recovery
  After downloading, install and run this iPhone backup password unlocker on your computer. It can automatically detect your iPhone and list all iTunes backup files you ever madeon this computer . Choose the backup that you forget password and then click 'Next' button to continue.
 
 ![iPhone Backup Password Recovery](https://www.aiseesoft.com/images/iphone-backup-password/pick-backup-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 2 Select the Appropriate Attack Type
 
  Select your preferred password recovery mode to recover your iPhone backup password.
 
 ![Pick iPhone Backup Password Mode](https://www.aiseesoft.com/images/iphone-backup-password/select-attack-type.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Brute-force with Mack Attack mode is recommended if you remember part of the password. This way will take less time to make the iPhone backup password recovery process.
 
@@ -114,9 +140,6 @@ Step 2 Tap Settings General Reset to enter the Reset interface.
 Step 3 TapErase all content and settings to remove all data and backup password from your iPhone.
 
 ![Erase All Content and Settings](https://www.aiseesoft.com/images/iphone-data-recovery/erase-all-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also try the powerful[iPhone Eraser](https://tools.techidaily.com/aiseesoft/fone-eraser/) to get rid of the iPhone backup password.
 
@@ -156,8 +179,6 @@ Rating: 4.9 / 5 (based on 125 votes)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +186,26 @@ Rating: 4.9 / 5 (based on 125 votes)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-bebops-avian-acrobatics-a-parrot-revelation/"><u>[New] 2024 Approved Bebop's Avian Acrobatics – A Parrot Revelation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xclusive-mcb-logo-designs-and-templates-for-2024/"><u>[New] Exclusive MCB Logo Designs and Templates for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>[Updated] 2024 Approved Cut the Red Tape Simplify Xbox/FB Broadcasting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smile-and-share-easy-memes-via-kinemaster/"><u>[Updated] Smile and Share Easy Memes via KineMaster</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-closer-look-at-artificial-intelligence-dispelling-9-persistent-myths-about-ai-chatbots/"><u>A Closer Look at Artificial Intelligence: Dispelling 9 Persistent Myths About AI Chatbots</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-diablo-ii-resurrected-stability-problems-fixes-unveiled/"><u>Beating Diablo II Resurrected Stability Problems – Fixes Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/cross-device-photo-captioning-turn-images-into-written-words-effortlessly/"><u>Cross-Device Photo Captioning: Turn Images Into Written Words Effortlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620277081-easily-stream-from-apple-to-microsoft-connect-your-iphone-to-xbox-one/"><u>Easily Stream From Apple to Microsoft: Connect Your iPhone to Xbox One!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-wwe-2k-battlegrounds-dx11-feature-level-100-error/"><u>Fix WWE 2K Battlegrounds DX11 Feature Level 10.0 Error</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-software-to-design-personalized-ringtones-for-your-iphone-4s/"><u>Free Software to Design Personalized Ringtones for Your iPhone 4S</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276293-free-software-to-design-personalized-ringtones-for-your-iphone-4s/"><u>Free Software to Design Personalized Ringtones for Your iPhone 4S!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/girly-designed-hd-wallpaper-collections-up-to-date-themes-for-iphones-from-model-11-to-x-series/"><u>Girly Designed HD Wallpaper Collections: Up-to-Date Themes for iPhones From Model 11 to X Series</u></a></li>
+<li><a href="https://facebook.techidaily.com/sifting-through-the-real-facebook-defections/"><u>Sifting Through the Real Facebook Defections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-endurance-showdown-does-an-electric-car-outlast-a-gas-vehicle-over-time/"><u>The Endurance Showdown: Does an Electric Car Outlast a Gas Vehicle Over Time?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-image-loading-issues-solutions-for-when-your-iphone-cant-display-images/"><u>Troubleshooting Image Loading Issues: Solutions for When Your iPhone Can't Display Images</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620275771-ultimate-guide-charging-your-iphone-wirelessly-no-cable-needed/"><u>Ultimate Guide: Charging Your iPhone Wirelessly - No Cable Needed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-safely-migrate-existing-passwords-onto-your-latest-apple-device/"><u>Ultimate Tutorial: Safely Migrate Existing Passwords Onto Your Latest Apple Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-ocr-exploring-the-optical-character-recognition-in-ios-versions-17-and-18/"><u>Understanding OCR: Exploring the Optical Character Recognition in iOS Versions 17 & 18</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlock-hidden-potentials-top-5-underutilized-features-of-chatgpt/"><u>Unlock Hidden Potentials: Top 5 Underutilized Features of ChatGPT</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once"
-date: 2024-10-10T23:20:35.509Z
-updated: 2024-10-18T04:06:13.877Z
+date: 2024-10-20T02:17:43.537Z
+updated: 2024-10-24T00:04:09.543Z
 tags:
   - ios
 categories:
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap the &quot;Contacts&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0187.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, go to "All Contacts" or whichever account you'd like to use, if you're not already there.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0188.png) 
@@ -56,16 +63,16 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select &quot;Delete X Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0211.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lastly, confirm your choice by tapping "Delete Contacts."
 
 ![Tap &quot;Delete Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0212.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's all there is to it! This method isn't great if you're looking to select contacts that aren't arranged in order.
 
@@ -81,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Contacts Enrichment is optional.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0197.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "All Contacts" at the top of the screen.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
@@ -93,23 +107,9 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap the trash can icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/2023-02-03_15-44-08.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Confirm your decision by selecting "Delete."
 
 ![Tap &quot;Delete&quot; to confirm.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0205.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This is a much more useful way to delete multiple contacts at once.
 
@@ -133,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Press and hold a contact, then select more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0204.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lastly, tap the trash icon in the bottom right corner when you're ready.
 
 ![Tap the trash can icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/2023-02-03_15-44-08.png) 
@@ -151,22 +158,16 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap the &quot;Contacts&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0187.png) 
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, go to "All Contacts" if you're not already there.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0188.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the app has identified duplicates, you'll see a card at the top of the screen saying how many have been found. Tap "View Duplicates."
 
@@ -181,28 +182,15 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ![Tap &quot;Merge.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0191.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lastly, confirm your decision by selecting "Merge" from the pop-up.
 
 ![Select &quot;Merge.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0194a.png) 
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apple's built-in feature is pretty good if you don't have a ton of contacts to sift through. For a more advanced tool, check out our [full guide for deleting duplicate contacts on iPhone](https://smart-video-editing.techidaily.com/new-2024-approved-beyond-windows-10-photos-8-excellent-image-viewing-options/) and [Android devices.](https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/) 
 
@@ -214,15 +202,22 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Continue&quot; and &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0195-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can skip past the "Contacts Enrichment" feature. It's not necessary for deleting contacts.
 
 ![Contacts Enrichment is optional.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0197.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, select "All Contacts" at the top of the screen.
@@ -236,13 +231,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  After one contact is selected, a checkmark button will appear in the top right corner. Tap the button to select all your contacts.
 
 ![Select the checkmark button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0214.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With all the contacts selected, tap the trash icon in the bottom bar.
 
@@ -273,22 +261,24 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-exploring-advanced-whatsapp-techniques-for-efficiency-for-2024/"><u>[New] Exploring Advanced WhatsApp Techniques for Efficiency for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-minimizing-live-stream-delays-fixing-obs-studio-drops/"><u>[New] Minimizing Live Stream Delays - Fixing OBS Studio Drops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-crafting-a-cinematic-short-blending-images-and-melodies/"><u>[Updated] 2024 Approved Crafting a Cinematic Short Blending Images and Melodies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-profit-driven-online-shopping-blogosynthesis/"><u>[Updated] The Art of Profit-Driven Online Shopping Blogosynthesis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-is-any-antivirus-worth-your-time-on-an-iphone-the-surprising-answer/"><u>1. Is Any Antivirus Worth Your Time on an iPhone? The Surprising Answer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-advanced-techniques-using-jump-cuts-effectively/"><u>2024 Approved Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-adding-exercises-to-your-apple-watch-by-hand/"><u>A Step-by-Step Guide: Adding Exercises to Your Apple Watch by Hand</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-motorola-moto-g73-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto G73 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cant-be-patient-for-iphone-16-release-master-the-art-of-picking-the-best-alternative-in-apples-latest-offerings/"><u>Can't Be Patient for iPhone 16 Release? Master the Art of Picking the Best Alternative in Apple's Latest Offerings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/collaborative-tracking-made-easy-how-to-enable-shared-use-of-a-single-airtag/"><u>Collaborative Tracking Made Easy: How to Enable Shared Use of a Single AirTag</u></a></li>
-<li><a href="https://os-tips.techidaily.com/crucial-11-points-you-need-to-review-while-acquiring-a-secondhand-iphone/"><u>Crucial 11 Points You Need To Review While Acquiring a Secondhand iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-to-retrieve-your-gps-tracking-data-from-ios-devices-a-simple-walkthrough-for-iphoneipad-users/"><u>Discover How to Retrieve Your GPS Tracking Data From iOS Devices - A Simple Walkthrough for iPhone/iPad Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-6-alternatives-to-chatgpt-for-smartphones-boosting-digital-interactions-anywhere/"><u>Discover the Ultimate 6 Alternatives to ChatGPT for Smartphones, Boosting Digital Interactions Anywhere</u></a></li>
-<li><a href="https://blog-min.techidaily.com/entendendo-a-garantia-do-movavi-condicoes-e-procedimentos-de-reembolso-clarificados/"><u>Entendendo a Garantia Do Movavi: Condições E Procedimentos De Reembolso Clarificados</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/simplifying-remote-work-with-zoom-recording-techniques/"><u>Simplifying Remote Work with Zoom Recording Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-the-iphone-13-continues-to-be-an-excellent-buy/"><u>Why the iPhone 13 Continues to Be an Excellent Buy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-iphone-video-editor-choose-between-cameo-and-filmorago/"><u>[New] In 2024, Top iPhone Video Editor Choose Between Cameo & FilmoraGo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-spectral-stories-telling-tales-through-color-for-2024/"><u>[New] Spectral Stories Telling Tales Through Color for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-getting-started-with-iphone-speech-recordings-for-2024/"><u>[Updated] Getting Started with iPhone Speech Recordings for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-stand-out-with-these-20-must-try-tiktok-caption-ideas/"><u>[Updated] Stand Out with These 20 Must-Try TikTok Caption Ideas</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-finest-iphone-15-leather-sleeves-expert-picks-and-reviews/"><u>2023'S Finest iPhone 15 Leather Sleeves: Expert Picks and Reviews</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-most-popular-iphone-1-pro-max-sleeves-choosing-the-perfect-case-for-your-device/"><u>2023'S Most Popular iPhone 1# Pro Max Sleeves: Choosing the Perfect Case for Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-denied-heres-how-you-can-reveal-and-answer-blocked-numbers-on-ios-devices/"><u>Access Denied? Here's How You Can Reveal and Answer Blocked Numbers on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-unveils-next-gen-processor-the-a17-surpasses-the-a16-speed-test/"><u>Apple Unveils Next-Gen Processor: The A17 Surpasses the A16 Speed Test</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-users-must-have-guide-mophie-3-in-1-travel-charger-revealed-best-price-for-on-the-go-charging/"><u>Apple Users' Must-Have Guide: Mophie 3-in-1 Travel Charger Revealed - Best Price for On-the-Go Charging</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-vs-samsung-a-deep-dive-into-how-equally-superior-ecosystems-shape-user-experience/"><u>Apple Vs. Samsung: A Deep Dive Into How Equally Superior Ecosystems Shape User Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-soundbar-problems-diagnosing-and-repairing-the-corsair-hs70-microphone-malfunction/"><u>Fix Your Soundbar Problems: Diagnosing and Repairing the Corsair HS70 Microphone Malfunction</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-z-fold-5-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy Z Fold 5 for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlined-techniques-blur-background-on-chrome-os-and-ios/"><u>In 2024, Streamlined Techniques Blur Background on Chrome OS & iOS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-vivo-v30-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo V30? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-legally-sharing-tunes-on-instagram-for-2024/"><u>The Ultimate Guide to Legally Sharing Tunes on Instagram for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upgrade-your-smartphone-experience-the-accessory-that-makes-it-feel-like-a-superior-nintendo-switch/"><u>Upgrade Your Smartphone Experience: The Accessory That Makes It Feel Like a Superior Nintendo Switch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-both-users-and-i-swapped-my-apple-watch-ultra-for-a-reliable-casio-alternative/"><u>Why Both Users and I Swapped My Apple Watch Ultra for a Reliable Casio Alternative</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-do-certain-lightning-headphones-need-bluetooth-understanding-compatibility/"><u>Why Do Certain Lightning Headphones Need Bluetooth? Understanding Compatibility</u></a></li>
 </ul></div>
 

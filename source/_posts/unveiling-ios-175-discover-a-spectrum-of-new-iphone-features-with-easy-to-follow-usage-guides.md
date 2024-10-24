@@ -1,7 +1,7 @@
 ---
 title: "Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides"
-date: 2024-10-09T09:44:43.839Z
-updated: 2024-10-12T10:00:31.121Z
+date: 2024-10-22T16:33:16.591Z
+updated: 2024-10-23T23:33:47.460Z
 tags:
   - ios
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Warning screens when downloading an app in Safari for iPhone](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-web-distribution-safari-iphone-example-app.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Developers must meet [Apple’s stringent notarization guidelines](https://developer.apple.com/support/web-distribution-eu/) to implement this feature, called Web Distribution. This includes having been a member of the Apple Developer Program for at least two years and having at least one million app installs in the previous year.
 
  Apple strongly discourages sideloading, as evidenced by a bunch of scare screens EU users see when using Web Distribution.
@@ -48,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Find My Device on Android phone showing personal item trackers](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/google-android-find-my-device-personal-item-trackers.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Companies that have pledged support for Apple’s and Google’s Find My networks include Samsung, Tile, Chipolo, eufy Security, and Pebblebee. Sony and JBl have confirmed they’ll release new firmware updates to make some of their headphones trackable via Find My.
 
 ![Sony's over-ear headphones set against a colorful gradient background.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/sony-wh-1000xm5-headphones-three-quarters-view.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  The New Quartiles Word Game
 
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Apple iOS 17.5 News App Quartiles Game Three Word Tiles Selected](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-three-word-tiles-selected.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Apple iOS 17.5 News App Quartiles Game Word Completed](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-completed.png) 
 
 ![Apple iOS 17.5 News App Quartiles Game Word Tiles](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-tiles.png) 
@@ -78,13 +92,6 @@ Close
  The more tiles a word has, the more points you get. A four-tile word, called a quartile, earns you eight points. There are five quartiles on each level, good for a 40-point bonus.
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Second Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-second-splash-screen.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Third Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-third-splash-screen.png) 
 
@@ -132,22 +139,15 @@ Close
 
 ![Offline status bar in Apple's News app on iPhone displaying a Check for New Stories link.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-offline-mode-check-new-stories-link-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In iOS 17.4, your offline mode indication is trying to load a new article.
 
  Keep in mind that offline mode requires a News+ subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  New Storage Management Settings for the News App
@@ -155,13 +155,6 @@ Close
  iOS 17.5 also brings half a dozen noteworthy new options and changes in Settings > News. For starters, the existing switch labeled “Restrict Stories in Today” is now headlined “Today Feed” instead of “News Settings” and has moved down a bit.
 
 ![Apple News app setting on iPhone in iOS 17.4, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Apple News app setting on iPhone in iOS 17.5, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
 
@@ -190,6 +183,13 @@ Close
 ![Apple News app on iPhone with the Clear button in the Saved Stories section highlighted..](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-button-highlighted.png) 
 
 ![Apple News app on iPhone displaying a confirmation prompt to clear saved stories.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-saved-stories-prompt.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -224,6 +224,19 @@ Close
 ![Browsing wallpaper collections in Settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-settings-app-add-new-wallpaper-pride-collection.jpg) 
 
 ![Swiping to change wallpaper color in Settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-settings-app-add-new-wallpaper-pride-radiance-swipe-change-color.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The dynamic 'Pride Radiance' wallpaper on iPhone's Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-iphone-lock-screen-pride-radiance-wallpaper.jpg) 
 
@@ -261,34 +274,20 @@ Close
 
 ![iOS 17.4 Apple Podcasts Widget Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-podcasts-widget-home-screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iOS 17.5 Apple Podcasts Widget Yellow Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-yellow-color-home-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iOS 17.5 Apple Podcasts Widget Red Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-red-color-home-screen.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iOS 17.5 Apple Podcasts Widget Brown Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-brown-color-home-screen.png) 
 
 Close 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Passkeys Access Privacy Glyph
 
@@ -305,6 +304,13 @@ Close
  The reading goal icon at the top of the Books app has been revamped to take less space. The circular outline that fills as you progress toward your reading goal now has a counter in the center instead of a “minutes left” string that was too wide.
 
 ![Reading goal icon in Apple's Books app on iOS 17.4](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-books-app-reading-goal-icon.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Reading goal icon in Apple's Books app on iOS 17.5](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-books-app-reading-goal-icon.png) 
 
@@ -349,18 +355,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-refining-your-tiktok-end-screen-elements/"><u>[Updated] Refining Your TikTok End Screen Elements</u></a></li>
-<li><a href="https://os-tips.techidaily.com/alpaka-go-sling-assessment-ideal-protective-cover-tailored-for-devoted-ipad-users/"><u>Alpaka Go Sling Assessment: Ideal Protective Cover Tailored for Devoted iPad Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-watch-an-ideal-secondhand-gift-option/"><u>Apple Watch: An Ideal Secondhand Gift Option</u></a></li>
-<li><a href="https://os-tips.techidaily.com/capturing-ideas-and-emotions-expert-tips-on-utilizing-apples-journal-application-for-ios-devices/"><u>Capturing Ideas and Emotions: Expert Tips on Utilizing Apple's Journal Application for iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-nomad-stand-one-max-assessment-analyzing-the-triple-threat-magsafe-charging-station/"><u>Comprehensive Nomad Stand One Max Assessment: Analyzing the Triple-Threat MagSafe Charging Station</u></a></li>
-<li><a href="https://os-tips.techidaily.com/daily-assistant-showdown-claude-vs-chatgpt-which-one-reigns-supreme/"><u>Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/date-set-apples-anticipated-iphone-15-reveal-is-officially-scheduled-for-insert-event-date/"><u>Date Set! Apple's Anticipated iPhone 15 Reveal Is Officially Scheduled for [Insert Event Date]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratuitement-transformer-des-fichiers-f4v-en-mp3-sur-le-web-videos-movavi/"><u>Gratuitement Transformer Des Fichiers F4V en MP3 Sur Le Web - Vidéos Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-motorola-moto-e13-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Motorola Moto E13 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-100-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor 100 Pro Phone Screen?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/into-editing-excellence-with-youtube-studio-toolset/"><u>Step Into Editing Excellence with YouTube Studio Toolset</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unstuck-from-stubborn-folders-power-deletion-techniques-on-win-1011-via-revo-uninstaller/"><u>Unstuck From Stubborn Folders: Power Deletion Techniques on Win 10/11 via Revo Uninstaller</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/what-makes-dji-inspire-2-special-full-review/"><u>What Makes DJI Inspire 2 Special? Full Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-genres-a-collection-of-15-innovative-musician-focused-videos-for-2024/"><u>[New] Exploring Genres A Collection of 15 Innovative Musician-Focused Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streaming-directly-from-facebook-to-your-screen/"><u>[New] In 2024, Streaming Directly From Facebook to Your Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-deep-dive-into-youtube-writers-workshop-space-for-2024/"><u>[Updated] A Deep Dive Into YouTube’ Writers' Workshop Space for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-c33-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme C33 2023 Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-handle-ios-voice-memo-files-and-ringtones-with-windows-using-the-dearmob-guide/"><u>How to Handle iOS Voice Memo Files & Ringtones with Windows Using the DearMob Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-mount-iphones-and-ipads-as-external-storage-on-windows-a-step-by-step-guide/"><u>How to Mount iPhones and iPads as External Storage on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/reclaiming-your-work-six-effective-methods-to-restore-microsoft-word-docx-documents/"><u>Reclaiming Your Work: Six Effective Methods to Restore Microsoft Word (DOCX) Documents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-techniques-for-taking-easy-screenshots-on-pcs-and-laptops/"><u>Simple Techniques for Taking Easy Screenshots on PCs and Laptops</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-organizing-your-listening-experience-with-apple-podcasts-and-itunes-u-for-windows-users-dearmob-tutorial/"><u>Step-by-Step Guide: Organizing Your Listening Experience with Apple Podcasts and iTunes U for Windows Users - DearMob Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-managing-ios-files-using-windows-systems-dearmob-users-compendium/"><u>Step-by-Step Instructions for Managing iOS Files Using Windows Systems | DearMob User's Compendium</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-techniques-for-precise-iptv-screen-imaging-for-2024/"><u>Ultimate Techniques for Precise IPTV Screen Imaging for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-media-library-remove-drm-from-itunes-downloads-with-dearmob/"><u>Unlock Your Media Library - Remove DRM From iTunes Downloads with DearMob</u></a></li>
 </ul></div>
 

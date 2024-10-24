@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!"
-date: 2024-10-10T16:11:43.371Z
-updated: 2024-10-11T17:27:38.565Z
+date: 2024-10-16T19:05:21.513Z
+updated: 2024-10-24T02:22:31.983Z
 tags:
   - ios
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Circle to Search?
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -52,10 +52,10 @@ Justin Duino / How-To Geek
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
@@ -78,33 +78,33 @@ Justin Duino / How-To Geek
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
  Head to Settings > Accessibility > Touch, and select "Back Tap."
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -135,16 +135,21 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-browser-capture-tools-top-picks/"><u>[New] 2024 Approved Best Browser Capture Tools Top Picks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-digital-dome-streamlining-your-song-posts-on-youtube/"><u>[New] 2024 Approved Digital Dome Streamlining Your Song Posts on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-incremental-sound-diminishment-guidebook/"><u>[Updated] Incremental Sound Diminishment Guidebook</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-essential-criteria-in-searching-for-masterful-cinematographers/"><u>2024 Approved Essential Criteria in Searching for Masterful Cinematographers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-top-15-activities-perfect-for-podcast-lovers/"><u>2024 Approved Top 15 Activities Perfect for Podcast Lovers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gopro-hero5-session-vs-hero-session/"><u>GoPro Hero5 Session Vs Hero Session</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stuck-without-the-app-you-require-right-now-heres-how-to-resolve-it/"><u>Stuck Without the App You Require Right Now? Here's How to Resolve It</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-star-crossed-love-affair-me-and-the-unavailable-cosmic-ring-from-samsung/"><u>The Star-Crossed Love Affair: Me and the Unavailable Cosmic Ring From Samsung</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-capturing-perfect-sounds-using-your-iphones-built-in-microphone/"><u>The Ultimate Tutorial: Capturing Perfect Sounds Using Your iPhone's Built-In Microphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-8-essential-tips-for-maintaining-optimal-mobile-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Mobile Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-9-lifesaving-features-of-the-apple-watch-enhancing-personal-safety/"><u>Top 9 Lifesaving Features of the Apple Watch: Enhancing Personal Safety</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-step-by-step-guide-share-youtube-vids-with-fb-friends/"><u>[New] In 2024, A Step-by-Step Guide Share YouTube Vids with FB Friends</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-grab-facebook-videos-on-both-oses/"><u>[Updated] Step-by-Step Grab Facebook Videos on Both OSes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-revolutionary-addition-latest-widget-feature-in-the-microsoft-365-suite/"><u>1. 'Revolutionary Addition: Latest Widget Feature in the Microsoft 365 Suite'</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-comprehensive-recap-of-apples-worldwide-developers-conference-wwdc-2024-key-takeaways-and-insights/"><u>1. Comprehensive Recap of Apple's Worldwide Developers Conference (WWDC) 2024: Key Takeaways and Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-top-10-android-innovations-apple-must-integrate-into-future-iphones/"><u>1. Top 10 Android Innovations Apple Must Integrate Into Future iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-look-back-in-time-discovering-when-the-initial-smartphone-emerged/"><u>A Look Back in Time: Discovering When the Initial Smartphone Emerged</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/adapt-to-facebooks-algorithm-shift-now-for-2024/"><u>Adapt to Facebook's Algorithm Shift Now for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-introduces-new-lending-services-in-latest-iphone-update/"><u>Apple Introduces New Lending Services in Latest iPhone Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-imposters-discerning-real-chatgpt-applications-on-ios-platforms/"><u>Avoiding Imposters: Discerning Real ChatGPT Applications on iOS Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/belkin-revolutionizes-charging-technology-unveiling-the-innovative-magsafe-3-port-adapter/"><u>Belkin Revolutionizes Charging Technology: Unveiling the Innovative MagSafe 3-Port Adapter</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-i-use-my-iphone-in-the-rain-without-damage/"><u>Can I Use My iPhone in the Rain Without Damage?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-support-nvidias-quadro-rtx-8000-driver-downloads-for-win7-win8-and-win10-users/"><u>Get the Latest Support: Nvidia's Quadro RTX 8000 Driver Downloads for Win7, Win8 & Win10 Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-maximizing-profile-video-attraction-strategies/"><u>In 2024, Maximizing Profile Video Attraction Strategies</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-8-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 8 to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/laughter-labyrinas-ideas-that-resonate-with-crowds/"><u>Laughter Labyrinas Ideas That Resonate with Crowds</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/windows-8-81-10-aomei-backupper/"><u>Windows 8, 8.1, 10專業網增複製工具 - AOMEI Backupper</u></a></li>
 </ul></div>
 

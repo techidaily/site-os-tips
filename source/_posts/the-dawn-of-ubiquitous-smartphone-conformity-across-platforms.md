@@ -1,7 +1,7 @@
 ---
 title: The Dawn of Ubiquitous Smartphone Conformity Across Platforms
-date: 2024-10-08T06:18:45.598Z
-updated: 2024-10-12T01:25:52.919Z
+date: 2024-10-21T01:38:37.850Z
+updated: 2024-10-23T16:42:58.686Z
 tags:
   - ios
 categories:
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For those of us who witnessed the incredible explosion of smartphone popularity in the early 2000s, it's hard to believe we're nearly two decades removed from the original iPhone announcement. There's been an astounding number of devices launched since then, and most of them have been very unique. Over time, like jagged rocks going through a tumbler, that uniqueness has been polished away.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Sea of Sameness
@@ -36,13 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-generations.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In five generations, the biggest design changes are moving the cameras from stacked vertically to diagonal and a switch from glossy to matte glass. The last three generations, in particular, are essentially identical. You'd need to have a very keen eye to tell the iPhone 13 and 14 apart.
 
 ![Samsung Galaxy generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-generations.jpg) 
@@ -50,6 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For Samsung, I was able to go back three generations before finding discernable changes. While the company has maintained the same arrangement of five cameras and a flash since the Galaxy S20 Ultra, it played with the housing for a couple of years. That is until the S22 Ultra, which has now been repeated three times.
 
 ![Google Pixel generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pixel-generations.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Google is definitely the least offensive of the three, but I get the sense this is just the beginning. Google had a two-tone aesthetic going from the OG Pixel to the Pixel 3, then an iPhone-esque look with the Pixel 4 and Pixel 5, and we've seen this camera bar design for three generations now. The same design has also been used for the Pixel 6a and Pixel 7a (and almost certainly for the Pixel 8a as well).
 
@@ -62,10 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The other part of the equation was U.S. carriers. AT&T, Sprint, T-Mobile, and Verizon all wanted to have unique offerings. Apple had the power to say no to these requests, but companies like Samsung, who didn't have that popularity yet, had to play ball. The Samsung Galaxy S series from 2010 is the perfect example.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ![Samsung Galaxy S 2010 variants.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-s-variants.jpg) 
@@ -76,14 +76,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-variants.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tha image above shows a lot more variety than seen in the five generations following the iPhone X. The current state of smartphone design feels pretty uninspired, but there are some legitimate reasons why things have moved this way.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Did We Get Here?
 
@@ -110,21 +116,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-art-of-influence-elevating-messaging-on-telegram/"><u>[New] In 2024, The Art of Influence Elevating Messaging on Telegram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>[Updated] 2024 Approved Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/10-effekthabe-tipps-zum-beschleunigen-ihres-ios-11-iphoneipads/"><u>10 Effekthabe Tipps Zum Beschleunigen Ihres iOS 11 iPhone/iPads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-peering-into-popularity-instagram-analytics-for-you/"><u>2024 Approved Peering Into Popularity Instagram Analytics for You</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-implement-chatgpt-widget-in-your-android-device/"><u>Effective Strategies to Implement ChatGPT Widget in Your Android Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi A2+?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-15-pro-max-disappoints-during-in-depth-ifixit-anatomy-analysis/"><u>IPhone 15 Pro Max Disappoints During In-Depth iFixit Anatomy Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-personal-hotspot-problems-discover-these-effective-10-remedies-to-restore-connectivity/"><u>IPhone Personal Hotspot Problems? Discover These Effective 10 Remedies to Restore Connectivity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-update-news-and-product-safety-announcements-weekly-summary/"><u>IPhone Update News & Product Safety Announcements - Weekly Summary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/issues-with-apple-card-and-apple-pay-a-comprehensive-look/"><u>Issues with Apple Card & Apple Pay: A Comprehensive Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/key-hurdles-preventing-iphone-upgrade-decisions/"><u>Key Hurdles Preventing iPhone Upgrade Decisions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/love-at-first-sight-the-paprika-app-transforms-my-project-management-forever/"><u>Love at First Sight: The Paprika App Transforms My Project Management Forever!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-multitasking-in-the-apple-universe-translocating-batches-of-apps-together-on-iphoneipad/"><u>Master Multitasking in the Apple Universe: Translocating Batches of Apps Together on iPhone/iPad</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/motorcycle-mastery-the-top-ranked-action-cameras-for-23-riders-for-2024/"><u>Motorcycle Mastery – The Top-Ranked Action Cameras for '23 Riders for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-your-creative-process-with-instagrams-photography-tips/"><u>Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y27-4g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y27 4G</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-tools-for-perfect-linux-screenshots/"><u>[Updated] In 2024, Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/como-cortar-videos-gratuitamente-y-deshacerse-de-las-escenas-no-deseadas/"><u>Cómo Cortar Vídeos Gratuitamente Y Deshacerse De Las Escenas No Deseadas</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-updated-killer-wireless-nic-card-driver-version-1535/"><u>Download and Install Updated Killer Wireless NIC Card Driver Version 1535</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976321441-effortless-driver-update-processes-for-intel-nuc-devices-get-it-right/"><u>Effortless Driver Update Processes for Intel NUC Devices - Get It Right</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-review-how-the-midland-gxt1000vp4-sets-new-standards-in-communication-clarity/"><u>Expert Review: How the Midland GXT1000VP4 Sets New Standards in Communication Clarity</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-x100-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo X100 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-the-mystery-of-c1900101-during-windows-11-upgrade/"><u>Solving the Mystery of C1900101 During Windows 11 Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-elite-iphone-15-skins-and-shells/"><u>Ultimate Selection: Elite iPhone 15 Skins & Shells</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unbeatable-deal-apples-m1-ipad-air-at-its-all-time-low-price/"><u>Unbeatable Deal: Apple's M1 iPad Air at Its All-Time Low Price</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unexpected-art-projects-with-your-mistakenly-made-iphone-portrait-cutter/"><u>Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphones-using-voice-recognition-is-it-safe-and-worth-trying/"><u>Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-adobes-leap-into-future-with-generative-artificial-intelligence-in-express-app-beta-version/"><u>Unveiling Adobe's Leap Into Future with Generative Artificial Intelligence in Express App Beta Version</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-dont-movie-villains-ever-utilize-modern-tech-like-iphones-on-screen/"><u>Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?</u></a></li>
 </ul></div>
 

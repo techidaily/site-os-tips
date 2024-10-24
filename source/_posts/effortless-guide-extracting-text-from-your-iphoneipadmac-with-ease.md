@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease"
-date: 2024-10-08T08:10:57.997Z
-updated: 2024-10-12T02:09:54.999Z
+date: 2024-10-20T23:53:48.976Z
+updated: 2024-10-24T04:11:42.680Z
 tags:
   - ios
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 * [Why This Is So Useful](https://android-frp.techidaily.com/about-oppo-reno-9a-frp-bypass-by-drfone-android/)
 * [More Useful iPhone Tricks](https://some-approaches.techidaily.com/updated-preserving-audio-broadcasts-a-simple-internet-radio-technique/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Tap the "Show Text" icon that appears in Apple Photos or Preview to select and copy text in any image or video on your iPhone, iPad, or Mac.
@@ -34,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  Select text, copy it, and paste it into a note, email, or document from anywhere using your iPhone, iPad, or Mac. This trick can help you circumvent all kinds of pesky limitations or even grab “IRL” text by taking a photo.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Copy Any Text on iPhone or iPad
@@ -50,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 !['Show Text' icon on a screenshot in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show_text_icon.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap on this and the text in the image should immediately be highlighted. You can now select this text as you would any other, by tapping and holding your finger until the text selection tool appears. Drag the start and end points where you want them, or hit “Select All” to grab everything.
 
  You can now use “Copy” to copy that text to the clipboard. Now open Notes, an email or Messages conversation, or a text document of your choice and paste the text by tapping and holding then selecting “Paste” from the context menu.
@@ -71,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  This trick also works in Safari, just tap and hold an image then choose “Show Text” first.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Copy Any Text on Mac
 
  This trick also works on a Mac in much the same way. Tap on the “Show Text” icon in the bottom right corner while viewing an image using the Photos app. You can do the same thing while viewing a video provided you pause on a relevant frame.
@@ -85,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  This works in Preview when viewing images saved locally (but it doesn’t work in Quick Look, so make sure you click “Open in Preview” first). It also works in Safari when you’re viewing an image, but you don’t need to click “Show Text” first as your Mac should auto-detect the text.
 
 ![Selectable text on a sign in Safari browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-06-at-15-39-00.png) 
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
 
@@ -96,7 +82,21 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ![Selecting the text on a keyring using a photo in Apple Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select_text_photo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More Useful iPhone Tricks
 
@@ -119,19 +119,21 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-beginner-to-pro-the-ultimate-guide-to-slow-motion-on-tiktok-for-2024/"><u>[New] From Beginner to Pro The Ultimate Guide to Slow Motion on TikTok for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>[Updated] In 2024, Smooth Surfaces From Stability Handheld Tech for Pros</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-instructions-for-fb-live-broadcasts-for-2024/"><u>[Updated] Step-by-Step Instructions for FB Live Broadcasts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[Updated] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-remote-ratio-reformation-online-calculation/"><u>2024 Approved Remote Ratio Reformation Online Calculation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7i-unleashed-an-in-depth-look-at-its-stellar-gen-9-perfomance/"><u>7I Unleashed: An In-Depth Look at Its Stellar Gen 9 Perfomance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dearmob-user-manual-effortlessly-move-music-from-ios-device-to-pc-with-windows-os/"><u>DearMob User Manual: Effortlessly Move Music From iOS Device to PC with Windows OS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-dearmob-mac-security-the-ultimate-user-manual/"><u>Essential DearMob Mac Security: The Ultimate User Manual</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-move-your-iphone-applications-to-a-mac-a-comprehensive-guide-by-dearmob/"><u>How to Seamlessly Move Your iPhone Applications to a Mac: A Comprehensive Guide by DearMob</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-dearmob-applications-a-comprehensive-guide-to-securing-your-mac/"><u>Mastering DearMob Applications: A Comprehensive Guide to Securing Your Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-introduces-enhanced-family-features-and-superior-parent-control-options-valve-announces/"><u>Steam Introduces Enhanced Family Features & Superior Parent-Control Options, Valve Announces</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-for-navigating-and-utilizing-dearmob-iphone-app-on-windows-platforms/"><u>The Ultimate Tutorial for Navigating and Utilizing DearMob iPhone App on Windows Platforms</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-camon-20-pro-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno Camon 20 Pro 5G without backup.</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mac-video-editing-mastery-adobe-premiere-pro-for-experts/"><u>Updated 2024 Approved Mac Video Editing Mastery Adobe Premiere Pro for Experts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-understanding-the-art-of-fiction-creation/"><u>[New] In 2024, Understanding the Art of Fiction Creation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-online-platforms-for-sending-and-receiving-text-messages-top-10-picks/"><u>Best Free Online Platforms for Sending and Receiving Text Messages - Top 10 Picks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-narzo-n53-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme Narzo N53</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-how-to-reflect-iphone-display-on-a-2024-vizio-television/"><u>Complete Tutorial: How to Reflect iPhone Display on a 2024 VIZIO Television</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-tracking-your-smartphones-whereabouts-on-both-android-and-apple-devices/"><u>Comprehensive Guide: Tracking Your Smartphone's Whereabouts on Both Android and Apple Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficient-academic-research-via-ai-solutions/"><u>Efficient Academic Research via AI Solutions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/ersetzen-sie-den-synology-data-replicator-mit-effektiven-backup-losungen-fur-windows-1111/"><u>Ersetzen Sie Den Synology Data Replicator Mit Effektiven Backup-Lösungen Für Windows 11/11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-mirror-content-from-your-device-to-tv-without-using-apple-tv-the-latest-techniques/"><u>How to Successfully Mirror Content From Your Device to TV Without Using Apple TV: The Latest Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-moto-g-play-impressive-endurance-and-reliable-operation/"><u>In-Depth Look at the Moto G Play: Impressive Endurance & Reliable Operation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-retrieving-words-from-pictures-a-comprehensive-guide-for-mobile-and-computer-users/"><u>Master the Art of Retrieving Words From Pictures: A Comprehensive Guide for Mobile & Computer Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-effective-strategies-for-locating-your-missing-iphone/"><u>Quick Guide: Effective Strategies for Locating Your Missing iPhone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transferer-des-informations-vers-un-ssd-wd-sans-reformatage/"><u>Transférer Des Informations Vers Un SSD WD Sans Reformatage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-iphone-charger-issues-tips-for-different-scenarios/"><u>Troubleshooting iPhone Charger Issues: Tips for Different Scenarios</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-archived-stories-from-facebook-a-digital-handbook-for-2024/"><u>Unlocking Archived Stories From Facebook A Digital Handbook for 2024</u></a></li>
 </ul></div>
 

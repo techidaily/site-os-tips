@@ -1,7 +1,7 @@
 ---
 title: Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
-date: 2024-10-13T20:26:20.933Z
-updated: 2024-10-18T06:59:48.518Z
+date: 2024-10-17T17:32:20.759Z
+updated: 2024-10-24T01:18:34.718Z
 tags:
   - ios
 categories:
@@ -19,10 +19,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Apple products are extremely prevalent in TV shows and movies, but the company doesn't pay for product placement. Apple is more than happy to provide MacBooks, iPads, and iPhones to studios, but there's one unique stipulation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Does Product Placement Work?
@@ -34,10 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  According to [Bloomberg](https://www.bloomberg.com/news/articles/2012-05-10/apple-the-other-cult-in-hollywood), Apple does not pay for product placement, at least not with money. Instead, it provides its devices to studios for free as props. Apple even [provided Modern Family](https://www.hollywoodreporter.com/tv/tv-news/modern-family-creator-explains-ipad-53367/) with the first iPad before it was available. It appeared in an episode two days before people could buy it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple's Product Placement Rules
@@ -71,17 +77,16 @@ Related: [Why Do TV Shows and Movies Cover Up Logos?](https://driver-download.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-perfecting-the-art-of-interviews-iphone-and-ipad-recording-techniques/"><u>[New] 2024 Approved Perfecting the Art of Interviews IPhone & iPad Recording Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/4-effective-methods-to-recover-your-apps-via-icloud-backup/"><u>4 Effective Methods to Recover Your Apps via iCloud Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-you-restore-lost-imessages-from-ios-devices-explore-the-methods-using-a-mac-computer/"><u>Can You Restore Lost iMessages From iOS Devices? Explore the Methods Using a Mac Computer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-kobo-clara-colour-edition-a-comprehensive-e-reader-review/"><u>Expert Analysis: Kobo Clara Colour Edition - A Comprehensive E-Reader Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nokia-130-music-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nokia 130 Music Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-deleted-contacts-on-icloud-using-these-3-simple-techniques/"><u>Recover Deleted Contacts on iCloud Using These 3 Simple Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-tracks-on-your-ios-device-even-if-you-lack-a-backup/"><u>Retrieve Accidentally Deleted Tracks on Your iOS Device Even If You Lack a Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieving-lost-iphone-data-effective-techniques-including-both-backed-up-and-non-backed-up-scenarios/"><u>Retrieving Lost iPhone Data: Effective Techniques Including Both Backed-Up and Non-Backed-Up Scenarios</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/x-recorder-software-efficient-pc-sound-recording-for-2024/"><u>X-Recorder Software Efficient PC Sound Recording for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-innovative-tech-discovering-the-top-9-microphone-recorders-online/"><u>[New] 2024 Approved Innovative Tech Discovering the Top 9 Microphone Recorders Online</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-initiate-into-a-tiktok-live-with-ease/"><u>[New] In 2024, Initiate Into a TikTok Live with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-using-youtube-on-iosandroid-devices/"><u>[Updated] The Ultimate Guide to Using YouTube on iOS/Android Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oneplus-ace-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For OnePlus Ace 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-service-interruptions-lead-to-iphone-application-failures/"><u>Apple's Service Interruptions Lead to iPhone Application Failures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/determine-if-your-iphone-is-previously-used-or-newly-refurbished/"><u>Determine if Your iPhone Is Previously Used or Newly Refurbished</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disabling-find-my-iphone-a-step-by-step-guide-and-essential-reasons/"><u>Disabling Find My iPhone: A Step-by-Step Guide & Essential Reasons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disabling-mute-feature-a-step-by-step-guide-for-iphones/"><u>Disabling Mute Feature: A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-improved-web-search-capabilities-and-real-time-sporting-events-on-google-chrome/"><u>Discover Improved Web Search Capabilities & Real-Time Sporting Events on Google Chrome</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-10-proplus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 10 Pro+ 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/visually-dominating-podcast-identities-via-logo-designs/"><u>Visually Dominating Podcast Identities via Logo Designs</u></a></li>
 </ul></div>
 

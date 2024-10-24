@@ -1,7 +1,7 @@
 ---
 title: "Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone"
-date: 2024-10-12T22:56:17.622Z
-updated: 2024-10-17T23:33:44.603Z
+date: 2024-10-21T19:14:01.133Z
+updated: 2024-10-23T19:45:27.417Z
 tags:
   - ios
 categories:
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 * [Play a Video in iPhone's Photos App in a Loop](https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-t2x-5g-by-drfone-android/)
 * [Make a YouTube Video Play in a Loop on iPhone](https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Choose "Slideshow" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-make-slideshow-iphone.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Photos will play your video as a slideshow, but this slideshow has a specific theme, background music, and only plays once (not on loop). To change these settings, in the slideshow's bottom-right corner, tap "Options."
 
 ![Select "Options" at the lower-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/3-iphone-slideshow-options.png) 
@@ -64,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Choose "Origami" and tap "Back."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-change-iphone-slideshow-theme.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turn off the slideshow music so you can hear your video's audio. Do this by selecting "Music" and tapping "None." Then go back to the previous page.
 
 ![Select "Music" and tap "None."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-disable-iphone-slideshow-music.png) 
@@ -72,9 +65,23 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Enable "Repeat" and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-loop-iphone-slideshow.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Photos will take you back to your video screen. Here, your video will play in a loop until you manually close it.
 
  And that's how you continue to watch your favorite videos on your iPhone!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Make a YouTube Video Play in a Loop on iPhone
 
@@ -87,22 +94,15 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Select the three dots in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-youtube-video-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From the open menu, select "Loop Video."
 
 ![Tap "Loop Video" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-loop-youtube-video.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And YouTube will keep playing the same video until you disable the loop. You can turn off the loop feature by tapping the same three dots and choosing "Loop Video." Enjoy!
 
@@ -121,22 +121,19 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-worlds-hottest-youtube-personalities-by-subscribers/"><u>[New] 2024 Approved World's Hottest YouTube Personalities by Subscribers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-face-forward-top-makeup-creatives/"><u>[New] The Face Forward Top Makeup Creatives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-investigating-dji-raptor-vr-headset-effectiveness/"><u>[Updated] Investigating DJi Raptor VR Headset Effectiveness</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-retrieving-lost-photographs-from-your-iphone/"><u>A Step-by-Step Guide: Retrieving Lost Photographs From Your iPhone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/auditory-ambiance-music-in-instagrams-visual-narratives-for-2024/"><u>Auditory Ambiance Music in Instagram's Visual Narratives for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-free-and-premium-iphone-message-retrieval-applications-of-2024-a-comprehensive-list/"><u>Best Free and Premium iPhone Message Retrieval Applications of 2024: A Comprehensive List</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/como-convertirte-en-un-creador-exitoso-de-banners-online-para-tu-canal-de-youtube-los-mejores-profesionales-a-seguir/"><u>Cómo Convertirte en Un Creador Exitoso De Banners Online Para Tu Canal De Youtube | Los Mejores Profesionales a Seguir</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-iphone-data-restoration-tools-beyond-tenorshare/"><u>Comprehensive Analysis of iPhone Data Restoration Tools Beyond Tenorshare</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-finest-apple-device-compatible-messaging-platforms-free-of-charge/"><u>Discover The Finest Apple Device-Compatible Messaging Platforms (Free of Charge)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficiently-clean-up-your-mac-a-comprehensive-guide-to-uninstalling-software/"><u>Efficiently Clean Up Your Mac: A Comprehensive Guide to Uninstalling Software</u></a></li>
-<li><a href="https://os-tips.techidaily.com/finding-lost-photographs-after-accidental-deletion-on-ios-and-macos-devices/"><u>Finding Lost Photographs After Accidental Deletion on iOS and macOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-deleted-texts-a-three-step-guide/"><u>How to Recover Deleted Texts: A Three-Step Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/how-to-use-obs-streamlabs-on-mac/"><u>How to Use OBS Streamlabs on Mac？</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-becoming-a-onestream-pro-tips-and-tricks-from-the-pros/"><u>In 2024, Becoming a OneStream Pro Tips and Tricks From the Pros</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-unleashed-mastering-the-art-of-downgrading-with-tinyumbrella/"><u>IOS Unleashed: Mastering the Art of Downgrading with TinyUmbrella</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-texts-on-your-apple-device-a-step-by-step-guide-for-macos-users/"><u>Retrieve Accidentally Deleted Texts on Your Apple Device: A Step-by-Step Guide for macOS Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tic-concepts-for-daily-vlog-content/"><u>Thematic Concepts for Daily Vlog Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-incorporating-multimedia-in-school-curricula-for-2024/"><u>[New] Incorporating Multimedia in School Curricula for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>[Updated] Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728468556913-windows/"><u>「様々なバージョンのWindowsを簡単に外部ドライブへバックアップする方法」</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-bargain-finds-and-unique-offers-through-oodles-local-marketplace/"><u>Explore Bargain Finds and Unique Offers Through Oodle's Local Marketplace</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-to-brand-your-youtube-channel-to-get-more-subscribers/"><u>In 2024, How to Brand Your YouTube Channel to Get More Subscribers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-infuse-your-ideas-with-humor-easy-to-use-genrator/"><u>In 2024, Infuse Your Ideas with Humor Easy-to-Use Gen'rator</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-innovative-move-shift-to-whatsapp-for-2fa-codes/"><u>Instagram's Innovative Move: Shift to WhatsApp for 2FA Codes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-excellent-church-streaming-services/"><u>Navigating the Excellent Church Streaming Services</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-outer-worlds-enjoy-a-fun-space-odyssey-full-of-action-and-adventure/"><u>The Outer Worlds: Enjoy a Fun Space Odyssey Full of Action & Adventure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ugreens-magnetic-5000mah-power-bank-evaluated-a-tale-of-unease-and-performance/"><u>Ugreen's Magnetic 5,000mAh Power Bank Evaluated: A Tale of Unease and Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unboxing-and-evaluation-the-ultimate-guide-to-nomads-premium-leather-back-cover-for-the-new-iphone-15-pro/"><u>Unboxing & Evaluation: The Ultimate Guide to Nomad's Premium Leather Back Cover for the New iPhone 15 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-energy-savings-a-guide-to-activating-and-understanding-iphones-low-power-mode/"><u>Unlocking Energy Savings: A Guide to Activating & Understanding iPhone's Low Power Mode</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-ios-174-a-comprehensive-guide-to-your-iphones-latest-capabilities/"><u>Unlocking iOS 17.4: A Comprehensive Guide to Your iPhone's Latest Capabilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-apple-keeps-exclusive-control-over-imessage-with-ios-devices/"><u>Why Apple Keeps Exclusive Control Over iMessage with iOS Devices</u></a></li>
 </ul></div>
 

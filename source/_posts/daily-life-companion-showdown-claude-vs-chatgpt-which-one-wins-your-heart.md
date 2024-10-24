@@ -1,7 +1,7 @@
 ---
 title: "Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?"
-date: 2024-10-17T02:51:56.451Z
-updated: 2024-10-17T17:51:40.914Z
+date: 2024-10-17T21:37:50.853Z
+updated: 2024-10-23T16:56:50.701Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  GPT vs. Claude On The Web
 
 [Several companies compete in the AI race](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/), but two consistently make headlines and are followed by cutting-edge enthusiasts: OpenAI and Anthropic. Both companies have made significant progress in putting together an impressive web application that users can use for free, with some limitations.
@@ -31,29 +38,9 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
 
@@ -64,6 +51,13 @@ Dibakar Ghosh / How-To Geek / Midjourney
  Claude has a similar tokenization system, but the amount of messages you're allowed seems much more limited at the free level. After those messages run out, you can't use the model again until it resets. As someone who used a pro account for a bit, I noticed that the access limits had increased somewhat, but I still found that I ran out of credits before I could adequately get anything done. There is a higher-paid tier for both ChatGPT and Claude, but I haven't tested either.
 
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Which App Performs Better?
 
@@ -82,16 +76,10 @@ Close
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Dookeran/How-to-Geek
@@ -102,16 +90,16 @@ Jason Dookeran/How-to-Geek
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
 
@@ -132,21 +120,18 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-video-management-made-simple-select-the-best-firefox-tools-and-extensions/"><u>[New] Facebook Video Management Made Simple Select the Best Firefox Tools & Extensions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-fast-forwarding-instagram-videos-efficiently/"><u>[New] Fast-Forwarding Instagram Videos Efficiently</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-best-5-book-video-promotions-ever-made/"><u>[Updated] The Best 5 Book Video Promotions Ever Made</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acer-predator-helios-300-update-your-gpu-drivers-for-peak-performance/"><u>Acer Predator Helios 300 - Update Your GPU Drivers for Peak Performance</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-harmony-hub-tech-evolution/"><u>In 2024, Harmony Hub Tech Evolution</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picture-perfect-support-portal/"><u>Picture Perfect Support Portal</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionize-your-iphones-display-potential-using-the-standby-feature/"><u>Revolutionize Your iPhone's Display Potential Using the Standby Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-smartphones-the-alluring-titanium-and-cutting-edge-usb-c-of-apples-new-iphone-15-pro-unveiled/"><u>Revolutionizing Smartphones: The Alluring Titanium and Cutting-Edge USB-C of Apple's New iPhone 15 Pro Unveiled!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-guide-reflecting-your-iphone-display-onto-mac-with-ease/"><u>Seamless Guide: Reflecting Your iPhone Display Onto Mac with Ease</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-90-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from 90 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sink-or-swim-with-confidence-the-ultimate-iphone-protection-in-apples-premium-waterproof-case/"><u>Sink or Swim with Confidence: The Ultimate iPhone Protection in Apple's Premium Waterproof Case</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-capturing-your-sms-exchange-on-screen/"><u>Step-by-Step Guide: Capturing Your SMS Exchange on Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-running-command-prompt-with-administrator-rights-in-win10881/"><u>Step-by-Step Tutorial: Running Command Prompt with Administrator Rights in Win10/8/8.1</u></a></li>
-<li><a href="https://os-tips.techidaily.com/streamlined-smartphone-use-how-modifying-iphone-configurations-can-enhance-daily-convenience/"><u>Streamlined Smartphone Use: How Modifying iPhone Configurations Can Enhance Daily Convenience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/actics-amplifying-your-gaming-content-online-for-2024/"><u>Tag Tactics Amplifying Your Gaming Content Online for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/tech-giant-apple-prepares-grand-reveals-for-its-2024-wwdc-scheduled-in-june-highlight/"><u>Tech Giant Apple Prepares Grand Reveals for Its 2024 WWDC, Scheduled in June Highlight</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazons-leap-forward-a-comprehensive-review-of-the-4th-generation-echo-device/"><u>Amazon's Leap Forward: A Comprehensive Review of the 4Th Generation Echo Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diy-football-viewing-watch-record-cut-on-the-cheap/"><u>DIY Football Viewing Watch, Record, Cut on the Cheap</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-audio-clip-converter-direct-to-mp3-mode-for-2024/"><u>FB Audio Clip Converter Direct to MP3 Mode for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fortnites-exciting-return-a-comprehensive-analysis-of-the-latest-season/"><u>Fortnite's Exciting Return: A Comprehensive Analysis of the Latest Season</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unstick-scrollbar-fix-for-excel-on-pc/"><u>How to Unstick Scrollbar: Fix for Excel on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-windows-11-the-exciting-features-in-feb-2023-patch/"><u>Inside Windows 11 - The Exciting Features in FEB 2023 Patch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/self-repair-techniques-for-your-ios-device/"><u>Self-Repair Techniques for Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/setting-up-auto-reminder-alerts-for-birthdays-on-your-ios-device/"><u>Setting Up Auto-Reminder Alerts for Birthdays on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-controlling-application-access-and-privacy-settings-on-your-ios-device/"><u>Step-by-Step Guide: Controlling Application Access & Privacy Settings on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-evaluating-and-maintaining-your-ipad-battery-life/"><u>Step-by-Step Guide: Evaluating and Maintaining Your iPad Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-finding-specific-conversations-in-your-ios-messages/"><u>Step-by-Step Guide: Finding Specific Conversations in Your iOS Messages</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/swift-steps-toward-linguistic-proficiency/"><u>Swift Steps Toward Linguistic Proficiency</u></a></li>
 </ul></div>
 

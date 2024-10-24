@@ -1,7 +1,7 @@
 ---
 title: How To Turn Off Automatic Backups in WhatsApp for iPhones & Android Phones
-date: 2024-08-18T09:18:07.659Z
-updated: 2024-08-19T09:18:07.659Z
+date: 2024-10-17T18:52:02.849Z
+updated: 2024-10-23T17:17:56.137Z
 tags:
   - backup-android-data
 categories:
@@ -25,8 +25,12 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 * [Part 2. Google Photos backup not working: how to fix](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1\. How to use Google Photos backup
 
  If you are looking for photos backup online, backing up photos to Google Photos online is the perfect solution for you now. So how to access and use Google picture backup? Read the following tutorials on how to backup photos to Google from your Android/iPhone, or computer.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
  By uploading pictures to Google cloud with no storage limitation, Google Photos makes it very easy for Android photos backup or[iPhone photos backup](https://tools.techidaily.com/) . Plus, Google auto backup feature makes your pics safer than ever. No matter when you have a new picture on your phone, it will be automatically backed up to Google Drive. To upload pictures with Google Photos auto backup, you can follow the steps below:
 
 ![Quick Bypass iCloud Activation](https://www.aiseesoft.com/images/resource/google-photos-backup/google-photos-backup-on-android.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
 Step 1 Download Google Photos app on Android/iPhone.
 
@@ -49,15 +50,23 @@ Step 3 After you switch on the "Backup & Sync" function, you can also click "Cho
 Step 4 If you want view Google backup pictures, open the Google Photos website, and sign in the Google account that you've backed up the pictures. Then you can see all the images you backed up from Android to Google Photos app.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Google Photos Backup from Computer
 
  If you have photos on your computer that needs backup, you can also use Google Photos backup. Here are the steps to[upload photos to Google](https://tools.techidaily.com/) backup:
 
 ![Google Photos Backup on Computer](https://www.aiseesoft.com/images/resource/google-photos-backup/google-photos-backup-on-computer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1 [Download Google Photos](https://tools.techidaily.com/) app for PC or Mac to get started.
@@ -68,15 +77,15 @@ Step 2 Sign in with Google account, then you'll be promoted to choose backup sou
 
  You will also like reading:[Sync Android Phone Contacts to Google](https://tools.techidaily.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Part 2\. Google Photos backup not working: how to fix
 
 ![Google Photos Backup Not Working](https://www.aiseesoft.com/images/resource/google-photos-backup/google-photos-backup-not-working.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When using Google Photos auto backup, some people come across problems like Google photo back not working on Mac/Android, or[photos backup stuck](https://tools.techidaily.com/) in a loop, etc. Don't worry, the steps below will address all the possible issues that may occur and potentially deprive you from backing up pictures to Google Photos. If you are wondering why "my photos aren't backing up", following the guide to check your Google backup status:
@@ -130,8 +139,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +146,26 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>[New] Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-twilight-portraiture-techniques-your-guide-to-stunning-images-for-2024/"><u>[New] Twilight Portraiture Techniques Your Guide to Stunning Images for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-eyecatch-protector-cam-cover/"><u>2024 Approved Eyecatch Protector Cam Cover</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-in-game-footage-secrets-of-the-skilled-videographer/"><u>2024 Approved In-Game Footage Secrets of the Skilled Videographer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-stay-controlled-online-guide-to-blocking-distracting-youtube-channels/"><u>2024 Approved Stay Controlled Online Guide to Blocking Distracting YouTube Channels</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/6-popular-animated-emoji-video-effects/"><u>6 Popular Animated Emoji Video Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/customizable-wireless-charging-pad-mimicking-a-3d-printer-affordable-diy-solution-by-bambu-labs-under-50/"><u>Customizable Wireless Charging Pad Mimicking a 3D Printer - Affordable DIY Solution by Bambu Labs Under $50</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-to-prevent-gta-v-from-crashing-during-playtime/"><u>Expert Tips and Fixes to Prevent GTA V From Crashing During Playtime</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-thrifty-shopping-for-cameras-the-most-economical-lists-under-100/"><u>In 2024, Thrifty Shopping for Cameras The Most Economical Lists Under $100</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-practical-applications-of-iphones-visual-lookup-tool/"><u>Top 6 Practical Applications of iPhone's Visual Lookup Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-recommended-ipad-gadgets-and-add-ons/"><u>Top Recommended iPad Gadgets & Add-Ons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-iphones-a-comprehensive-guide/"><u>Top-Rated Protective Covers for iPhones : A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-nighttime-experience-with-the-new-apple-watchs-restful-sleep-functionality/"><u>Transform Your Nighttime Experience with the New Apple Watch's Restful Sleep Functionality!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-heic-images-into-jpg-format-on-your-ios-devices/"><u>Transforming HEIC Images Into JPG Format on Your iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-highest-ranking-ipad-mini-sleeves/"><u>Ultimate Guide to the Highest-Ranking iPad Mini Sleeves</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-apple-watch-customizable-face-designs-for-any-occasion/"><u>Ultimate Selection of Apple Watch Customizable Face Designs for Any Occasion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-water-resistance-of-your-apple-watch-essential-facts-revealed/"><u>Understanding the Water Resistance of Your Apple Watch - Essential Facts Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-privacy-the-essential-guide-to-pausing-your-apple-music-history-tracking/"><u>Unlock Privacy: The Essential Guide to Pausing Your Apple Music History Tracking</u></a></li>
+</ul></div>
 

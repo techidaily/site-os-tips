@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-10-10T22:55:09.400Z
-updated: 2024-10-18T06:45:00.042Z
+date: 2024-10-21T21:03:15.727Z
+updated: 2024-10-23T22:47:58.682Z
 tags:
   - ios
 categories:
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Set up Voice Control on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/set_up_voice_control.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, you'll need to mark the location of the buttons you'll be using on the "Enter Passcode" screen. Make sure that [Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) doesn't automatically unlock your iPhone (cover the sensor at the top of the screen) and grab something like a whiteboard marker or makeup brush that you can easily wipe off your iPhone screen when you're done.
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Mark passcode on iPhone lock screen (example)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_passcode-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Head back to Settings > Accessibility > Voice Control, tap on "Customize Commands" followed by "Create New Command..." and type (or speak) the phrase you want to use.
 
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap on "Action" then select "Run Custom Gesture" and (using the marks you made earlier) tap out the unlock sequence used to enter your passcode. Now tap "Save" and then hit the "New Command" button to go back to the previous screen. Hit "Save" one more time and your gesture will be saved.
 
@@ -54,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Voice Unlocking Is a Bad Idea
@@ -76,13 +84,6 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
  This technique is often touted as a way to unlock your iPhone when your hands are dirty, but if you're unlocking your iPhone you're probably going to touch the screen anyway. Don't forget you can always enable Siri from the lock screen under Settings > Siri & Search > Allow Siri When Locked and enable "Hey Siri" while you're there to use your iPhone hands-free without bypassing your passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Solving Face ID Issues
 
  Another argument for this voice command is to solve problems that arise from [Face ID not working properly](https://extra-support.techidaily.com/new-premium-panzoid-structure-packs/). Unlocking your iPhone using facial recognition is fast and convenient, and you should use the feature if you have an iPhone that supports it. If you're having trouble, you might want to try re-scanning your appearance under Settings > Face ID & Passcode > Reset Face ID.
@@ -90,13 +91,6 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
  You can also tap "Set up an Alternative Appearance" to [add a second face](https://facebook-clips.techidaily.com/updated-in-2024-cataloging-fb-video-ratios/) if you find certain looks don't work with Face ID as you'd expect. Enable "Face ID with a Mask" from this menu to [use Face ID when wearing a face mask](https://some-techniques.techidaily.com/in-2024-harmonious-hushes-softening-sounds-with-garageband/), and tap "Add Glasses" to scan any eyewear you regularly wear that may interfere with Face ID.
 
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
 
@@ -121,24 +115,22 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-6-apps-to-translate-film-content/"><u>[Updated] Advanced 6 Apps to Translate Film Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-dialogue-to-digest-leading-voice-to-text-mobile-apps/"><u>2024 Approved Dialogue to Digest Leading Voice-to-Text Mobile Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/adding-clear-audio-to-your-videography-without-a-watermark/"><u>Adding Clear Audio to Your Videography Without a Watermark</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-organizing-with-ifolder-mastering-seamless-file-handling-operations/"><u>Advanced Organizing with iFolder: Mastering Seamless File Handling Operations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-activating-and-deactivating-iphones-dfu-mode-effectively/"><u>Complete Tutorial: Activating and Deactivating iPhone's DFU Mode Effectively</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experts-roadmap-to-successfully-restoring-lost-notes-stored-in-icloud/"><u>Expert's Roadmap to Successfully Restoring Lost Notes Stored in iCloud</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-apowerrescue-detailed-overview-of-functions-cost-analysis-and-comparable-solutions/"><u>Exploring ApowerRescue: Detailed Overview of Functions, Cost Analysis, and Comparable Solutions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-novice-to-expert-perfecting-mac-audio-with-audacity-for-2024/"><u>From Novice to Expert Perfecting Mac Audio with Audacity for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-prevent-your-desktop-or-laptop-from-going-to-sleep-on-its-own/"><u>How to Prevent Your Desktop or Laptop From Going to Sleep on Its Own</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-vanished-icalendar-appointments-on-your-iphone-with-these-6-tricks/"><u>How to Recover Vanished iCalendar Appointments on Your iPhone with These 6 Tricks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/proven-strategies-to-retrieve-lost-texts-in-apples-ios-system/"><u>Proven Strategies to Retrieve Lost Texts in Apple's iOS System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-restoring-lost-sms-on-your-iphone-in-minutes/"><u>Quick Guide: Restoring Lost SMS on Your iPhone in Minutes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quickly-secure-asus-monitor-drivers-with-this-simple-download-method/"><u>Quickly Secure ASUS Monitor Drivers with This Simple Download Method</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-deleted-chat-contacts-in-facebook-messenger-for-iphones-a-step-by-step-guide/"><u>Restoring Deleted Chat Contacts in Facebook Messenger for iPhones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-lost-messages-a-step-by-step-guide-to-recovering-deleted-mms-photos-from-your-iphone/"><u>Reviving Lost Messages: A Step-by-Step Guide to Recovering Deleted MMS Photos From Your iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-correcting-missing-or-not-detected-helperdll-issues/"><u>Solutions for Correcting 'Missing or Not Detected' Helper.dll Issues</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/transform-your-devices-display-into-a-high-quality-record/"><u>Transform Your Device's Display Into a High-Quality Record</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-the-methods-to-retrieve-erased-iphone-messages-comprehensive-guide/"><u>Uncovering the Methods to Retrieve Erased iPhone Messages: Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-quick-guide-instant-access-to-iphones-camera-app/"><u>1. Quick Guide: Instant Access to iPhone's Camera App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-by-step-setup-preparing-your-home-vr-space/"><u>2024 Approved Step-by-Step Setup Preparing Your Home VR Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722125564448-cant-use-chatgpt-on-iphone-discover-these-essential-9-fixes/"><u>Can't Use ChatGPT on iPhone? Discover These Essential 9 Fixes!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/harnessing-luts-for-enhanced-visual-effects-in-ar-experiences/"><u>Harnessing LUTs for Enhanced Visual Effects in AR Experiences</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-bypass-dvd-region-code-on-windows-1187-and-watch-any-disc/"><u>How to Bypass DVD Region Code on Windows 11/8/7 and Watch Any Disc</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-amazon-fire-tv-cube-review-a-revolutionary-approach-to-media-consumption/"><u>Innovative Amazon Fire TV Cube Review: A Revolutionary Approach to Media Consumption</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts/"><u>New In 2024, Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-the-persistent-unread-badge-on-your-iphone-messages-icon/"><u>Resolving the Persistent 'Unread' Badge on Your iPhone Messages Icon</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-apple-device-use-with-these-barely-noticed-ios-18-updates/"><u>Revolutionize Your Apple Device Use with These Barely-Noticed iOS 18 Updates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surviving-the-chaos-fixing-issues-in-the-ios-18-photos-app-a-guide-for-apple/"><u>Surviving the Chaos: Fixing Issues in the iOS 18 Photos App - A Guide for Apple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hazards-of-using-gpt-powered-phones/"><u>The Hazards of Using GPT-Powered Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-apple-airpods-pro-peripherals-the-ultimate-guide/"><u>Top-Rated Apple AirPods Pro Peripherals: The Ultimate Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-setting-up-emergency-calls-on-your-iphone/"><u>Ultimate Guide to Setting Up Emergency Calls on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-dual-layer-oled-display-on-apples-latest-ipad-pro-a-comprehensive-guide/"><u>Understanding the Dual-Layer OLED Display on Apple's Latest iPad Pro: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-top-5-must-try-ios-18-accessibility-enhancements-for-an-effortless-user-experience/"><u>Unlock Top 5 Must-Try iOS 18 Accessibility Enhancements for an Effortless User Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-audio-magic-the-gradual-introduction-with-audition/"><u>Unveiling Audio Magic The Gradual Introduction with Audition</u></a></li>
 </ul></div>
 

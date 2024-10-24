@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2024-10-15T16:18:41.746Z
-updated: 2024-10-18T06:10:41.273Z
+date: 2024-10-17T04:29:24.926Z
+updated: 2024-10-24T02:17:34.259Z
 tags:
   - ios
 categories:
@@ -27,21 +27,7 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Swipe to reply to messages with an in-line reply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reply_swipe.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will see the message you’re replying to in the message window above the compose box.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use Siri During Phone Calls
 
@@ -49,11 +35,31 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  On top of this, there’s a “Call Hang-Up” command that you can enable under Settings > Siri & Search that lets you tell Siri to hang up the phone while you’re on a call.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Link Your Notes Together
 
 [Apple Notes is a powerful note-taking app](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) and it costs nothing to use (though you may need more iCloud storage if you have a lot of attachments). One of the last big missing features was the ability to link notes together, and iOS 17 finally changed that.
 
 ![Link notes together in Apple Notes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/link_notes.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can add a link to a note by tapping a blank space to bring up the context menu and tapping “Add Link” then typing the title of a note. Give the link a name (which is what you’ll see when you tap on it) and hit “Done” to add the link.
 
@@ -65,34 +71,13 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Get item suggestions in Apple Reminders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/autocomplete_reminders.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There’s also a new “Siri Suggestions” option beneath your pinned lists in the Reminders apps that finds to-do list items that you might have forgotten about. Tap on an item to add it to Reminders.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  App Shortcuts Within Spotlight
 
  You should already be [using Spotlight](https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/) for everything on your iPhone, iPad, and Mac. The search feature lets you access apps and settings panels with ease simply by typing, and now it’s getting even smarter.
 
 ![Search for an app to see shortcuts to different features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/search_app_features.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
 
@@ -103,10 +88,16 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![The new level overlay helps you shoot straight when using the Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/camera_level.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Quickly Access and Lock Private Browsing
@@ -114,6 +105,13 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 [Private Browsing](https://voice-adjusting.techidaily.com/navigating-the-art-of-selecting-top-notch-sound-designers-for-2024/) gets a little better in iOS 17 and is now available via a quick swipe to the right on the URL bar while in tab view. The feature can also now be locked behind a Face ID scan, a feature that iOS 17 will ask you to enable the first time you use it.
 
 ![Use Face ID to lock your private browsing session](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/face_id_private_browsing.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
 
@@ -124,16 +122,16 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![Crop photos by zooming and then tap (or tap and hold) the "Crop" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/cropping_photos.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
@@ -148,9 +146,23 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close 
 
  Not only do albums now fill the screen and gradually blend into the controls at the bottom, but you’ll also see the animation play out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Upgrade to iOS 17
 
@@ -173,21 +185,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-secure-your-free-lut-resources-top-ten-list/"><u>[New] Secure Your Free LUT Resources - Top Ten List</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-elite-racing-titles-our-five-favorites/"><u>[Updated] Elite Racing Titles Our Five Favorites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-keylight-secrets-to-stellar-lighting-on-your-youtube-videos/"><u>[Updated] In 2024, Keylight Secrets to Stellar Lighting on Your YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-master-youtube-management-a-detailed-plan-for-watch-later-and-playlists/"><u>[Updated] Master YouTube Management A Detailed Plan for Watch Later and Playlists</u></a></li>
-<li><a href="https://os-tips.techidaily.com/find-and-track-lost-android-devices-with-android-device-manager/"><u>Find & Track Lost Android Devices with Android Device Manager</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guide-doptimisation-des-cles-usb-avec-chkdsk-et-diskpart-via-la-ligne-de-commande/"><u>Guide D'optimisation Des Clés USB Avec CHKDSK Et Diskpart via La Ligne De Commande.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-an-lg-k51-stylo-67-solutions-with-and-without-computer-assistance/"><u>How to Fix an LG K51, Stylo 6/7: Solutions with and without Computer Assistance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/meta-and-openai-artists-group-takes-stand-for-creative-rights/"><u>Meta & OpenAI: Artists' Group Takes Stand for Creative Rights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcome-video-problems-on-android-proven-methods-and-expert-tips/"><u>Overcome Video Problems on Android: Proven Methods and Expert Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-a-frozen-android-phone-with-our-step-by-step-data-retrieval-solution-for-corrupted-devices/"><u>Revive a Frozen Android Phone with Our Step-by-Step Data Retrieval Solution for Corrupted Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-battery-life-7-proven-strategies-to-get-your-android-phone-charging-again/"><u>Reviving Battery Life: 7 Proven Strategies to Get Your Android Phone Charging Again</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-gain-full-control-over-your-android-device-using-kingroot/"><u>Step-by-Step Guide: Gain Full Control Over Your Android Device Using KingRoot</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-smartphone-why-it-wont-power-up-and-effective-solutions-that-work/"><u>Troubleshooting Your Smartphone: Why It Won’t Power Up & Effective Solutions That Work</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-lower-thirds-that-pop-advanced-techniques-for-fcpx-editors/"><u>Updated 2024 Approved Lower Thirds That Pop Advanced Techniques for FCPX Editors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-low-end-devices-high-outputs-streamline-with-obs/"><u>[New] 2024 Approved Low-End Devices, High Outputs Streamline with OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-stardew-key-highlights-from-ginger-isle/"><u>[Updated] Mastering Stardew Key Highlights From Ginger Isle</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-high-quality-1-ranked-4k-laptops-for-gaming/"><u>2024 Approved High-Quality #1 Ranked 4K Laptops for Gaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-erasing-your-snapchat-messages-and-chats-permanently/"><u>Complete Guide: Erasing Your Snapchat Messages and Chats Permanently</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-deletion-top-3-ways-to-remove-games-from-your-ipad-swiftly/"><u>Effortless Deletion: Top 3 Ways to Remove Games From Your iPad Swiftly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-netgear-a6210-driver-software-for-windows-87-no-cost/"><u>Get the Latest Netgear A6210 Driver Software for Windows 8/7 – No Cost!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-remove-all-your-music-albums-from-your-iphone-forever/"><u>How to Securely Remove All Your Music Albums From Your iPhone Forever</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-skype-into-zoom-meetings-made-simple/"><u>Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-clearing-your-iphone-chats-without-losing-anything-expert-strategies-and-easy-data-restoration-steps-inside/"><u>Master Clearing Your iPhone Chats Without Losing Anything: Expert Strategies & Easy Data Restoration Steps Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-how-to-clear-out-old-apps-from-your-iphone-ipad-or-ipod-touch/"><u>Quick & Easy: How to Clear Out Old Apps From Your iPhone, iPad, or iPod Touch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ralink-rt3290-wireless-card-overcoming-driver-issues-on-windows-11-8-and-7-platforms/"><u>Ralink RT3290 Wireless Card: Overcoming Driver Issues on Windows 11, 8 & 7 Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-long-awaited-arrival-of-la-noire-on-pc-problem-solved/"><u>The Long-Awaited Arrival of L.A. Noire on PC: Problem Solved</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-securely-clearing-your-iphones-data-in-five-essential-steps-before-transfer/"><u>The Ultimate Guide: Securely Clearing Your iPhone's Data in Five Essential Steps Before Transfer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-sony-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Sony FRP Bypass</u></a></li>
 </ul></div>
 

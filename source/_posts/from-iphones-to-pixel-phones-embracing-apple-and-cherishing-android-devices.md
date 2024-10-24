@@ -1,7 +1,7 @@
 ---
 title: From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices
-date: 2024-10-07T18:59:48.664Z
-updated: 2024-10-12T07:29:10.523Z
+date: 2024-10-22T04:10:02.953Z
+updated: 2024-10-23T20:32:34.192Z
 tags:
   - ios
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  I’ve Tried the iPhone Twice
 
  It's that dalliance with Apple Watches that had me butting heads with iPhone. You see, while I was getting along more or less with my Galaxy Watch, my wife convinced me that I should try an Apple Watch, as she loves hers. That's fine, but since Apple has decided that the Watch is strictly an iPhone accessory, I couldn't use my iPad or Mac with it. She had an old iPhone 11 Pro lying around, so we could use that.
@@ -54,6 +47,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![AI generated isometric pixel art representation of an apple iphone inside a walled garden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_isometric_pixel_art_representation_of_an_apple__d1c8c3ba-aac6-407f-83fd-cdea5c783184_3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  I need my iPad to be like a toaster or a TV. I don't want to tinker with it, it just needs to work. My Mac is already just as open to software as a Windows or Linux machine. Though macOS might complain about software that's not from the Mac App store or digitally signed, it will still begrudgingly let you install it.
@@ -63,28 +63,34 @@ Sydney Louw Butler / How-To Geek / MidJourney
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The iPhone Form Factor Isn’t Great
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Corbin Davenport / How-To Geek
 
  People often say that phones are all the same these days, but that's far from the truth. Hold any two different phones in your hand and the exact shape, weight, materials, and balance will make them feel miles apart. It is this combination of factors that just sits wrong for me when it comes to the iPhone.
 
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
 
@@ -99,10 +105,10 @@ Corbin Davenport / How-To Geek
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I’m Willing to Try Again
@@ -126,21 +132,19 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>[New] 2024 Approved Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-snappytweet-get-your-digital-snapshots-on-iphone/"><u>[New] SnappyTweet Get Your Digital Snapshots on iPhone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-vocalists-choice-the-finest-9-online-mic-recorders/"><u>[Updated] In 2024, Vocalist's Choice The Finest 9 Online Mic Recorders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-securing-speech-accuracy-techniques-for-perfect-translation-for-2024/"><u>[Updated] Securing Speech Accuracy Techniques for Perfect Translation for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-for-precise-control-over-screens-in-google-meet/"><u>2024 Approved How-To for Precise Control over Screens in Google Meet</u></a></li>
-<li><a href="https://win-able.techidaily.com/biomutant-for-pc-crash-dilemma-discover-the-ultimate-fixes-and-hacks-updated-for-2anno/"><u>Biomutant for PC Crash Dilemma? Discover the Ultimate Fixes and Hacks (Updated for 2Anno)</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1726030200238-dvd/"><u>DVD地域コードロック解除方法：世界中どのディスクも視聴可能に</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-15-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-bavarder-integration-techniques-for-linux/"><u>Seamless Bavarder Integration Techniques for Linux</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-usb-c-chargers-and-adapters-for-laptops/"><u>Top Rated USB-C Chargers & Adapters for Laptops</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-latest-iphone-se/"><u>Top-Rated Protective Covers for the Latest iPhone SE</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-multi-port-maggo-charger-by-anker-power-up-with-qi-usb-c/"><u>Ultimate Guide to the Multi-Port MagGo Charger by Anker - Power Up with Qi, USB-C</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-iphone-case-innovations-and-designs-for-the-year-2023/"><u>Ultimate Selection of iPhone Case Innovations and Designs for the Year 2023</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unique-and-practical-the-world-of-quirky-usb-power-adapters/"><u>Unique and Practical - The World of Quirky USB Power Adapters</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-hidden-messages-a-guide-to-viewing-blocked-incoming-calls-on-your-iphone/"><u>Unlocking Hidden Messages: A Guide to Viewing Blocked Incoming Calls on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-the-secrets-of-your-wireless-network-passwords-on-smartphones/"><u>Unlocking the Secrets of Your Wireless Network Passwords on Smartphones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-conquering-subreddit-mastering-the-art-of-public-discussion-for-2024/"><u>[New] Conquering Subreddit Mastering the Art of Public Discussion for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-visual-storytelling-adding-captions-to-images-in-oses/"><u>[New] In 2024, Visual Storytelling Adding Captions to Images in OSes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-step-by-step-process-to-create-big-heads-on-your-tiktok-content-3-methods/"><u>[Updated] In 2024, Step-By-Step Process to Create Big Heads on Your TikTok Content (3 Methods)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-fires-sound-alteration-tactics/"><u>2024 Approved Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-influencing-up-a-comprehensive-instagram-growth-strategy/"><u>2024 Approved Influencing Up A Comprehensive Instagram Growth Strategy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-imessages-unlocked-discover-these-10-incredible-features-few-people-are-aware-of/"><u>Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-stops-processing-bills-for-older-netflix-memberships-on-ios-platform/"><u>Apple Stops Processing Bills for Older Netflix Memberships on iOS Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/avoid-overspending-find-phones-under-1000-without-compromising-quality/"><u>Avoid Overspending: Find Phones Under $1,000 without Compromising Quality!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/classroom-media-mastery-video-editing-essentials-for-2024/"><u>Classroom Media Mastery Video Editing Essentials for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-instructions-on-removing-the-password-requirement-from-your-iphone/"><u>Complete Instructions on Removing the Password Requirement From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-apple-airtags-understanding-their-functionality-and-suitability-for-you/"><u>Decoding Apple AirTags: Understanding Their Functionality and Suitability For You</u></a></li>
+<li><a href="https://os-tips.techidaily.com/demanding-the-ultimate-sound-experience-with-built-in-volume-buttons-for-my-future-earbud-case/"><u>Demanding the Ultimate Sound Experience with Built-In Volume Buttons for My Future Earbud Case!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-youtube-profitability-anywhere-anytime/"><u>In 2024, Elevate Your Youtube Profitability Anywhere, Anytime</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ion-air-pro-3-review-unleashing-videography-potential/"><u>ION Air Pro 3 Review Unleashing Videography Potential</u></a></li>
 </ul></div>
 

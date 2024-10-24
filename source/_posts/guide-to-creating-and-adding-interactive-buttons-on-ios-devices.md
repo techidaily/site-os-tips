@@ -1,7 +1,7 @@
 ---
 title: Guide to Creating and Adding Interactive Buttons on iOS Devices
-date: 2024-10-05T11:27:37.690Z
-updated: 2024-10-12T00:20:02.219Z
+date: 2024-10-19T23:02:49.063Z
+updated: 2024-10-23T20:57:49.368Z
 tags:
   - ios
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  There are two Accessibility features we can take advantage of to add an extra "button" to your iPhone. The first method requires the screen to be on, but the second method does not. Let's dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Make a Virtual "Action Button"
 
  Using the iPhone's "[AssitiveTouch](https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/)" feature, we can create a virtual floating button that you can move around the screen. First, open the "Settings" app.
@@ -38,38 +31,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Go to "Assistive Touch" and toggle it on at the top of the screen.
 
 ![Toggle on "Assistive Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-21_16-49-36.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A floating button will appear on the screen. By default, this button opens a menu that can contain up to eight different shortcuts. Tap "Customize Top Level Menu."
 
 ![Tap "Top Level Menu."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0373.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select one of the shortcuts and replace it with one of the available actions. Do this for as many of the slots as you'd like.
 
 ![Select a shortcut and an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0375.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, when you open the menu, you'll have quick access to the actions you selected.
 
@@ -91,26 +77,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select "Back Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0379.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the "Double Tap" or "Triple Tap" gesture.
 
 ![Choose a gesture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0380.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose from the list of actions.
 
 ![Choose an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0381.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's all there is to it! This is the best way to get a "physical" Action Button on an iPhone that doesn't have one. You still can launch the actions without the screen needing to be on.
 
 ##  Dimple Buttons
 
 ![dimple.io buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/dimpleio.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Unbox Therapy](https://youtu.be/6Mp01eg0-ZM)
 
@@ -135,18 +135,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-unparalleled-selection-best-of-the-10-vimeo-download-sites-for-2024/"><u>[New] Unparalleled Selection Best of the 10 Vimeo Download Sites for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elite-selection-of-nintendo-switch-fighting-games-max-156/"><u>[Updated] 2024 Approved Elite Selection of Nintendo Switch Fighting Games (Max 156)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-comprehensive-recap-of-apples-worldwide-developers-conference-wwdc-2024-key-takeaways-and-insights/"><u>1. Comprehensive Recap of Apple's Worldwide Developers Conference (WWDC) 2024: Key Takeaways and Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-connoisseurs-guide-to-the-very-best-10-vectors-pix/"><u>2024 Approved A Connoisseur's Guide to the Very Best 10 Vectors Pix</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-semaphore-timeout-period-error-error-0x80070079-in-windows/"><u>How to Fix Semaphore Timeout Period Error (Error 0X80070079) in Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 14 Pro Max without Password?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12T Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-creativity-with-5-outstanding-free-ai-photo-generators-available-now/"><u>Unleash Your Creativity with 5 Outstanding Free AI Photo Generators Available Now</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unpairing-your-devices-how-to-separate-iphone-and-ipad-connections/"><u>Unpairing Your Devices: How to Separate iPhone and iPad Connections</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-ios-175-discover-a-spectrum-of-new-iphone-features-with-easy-to-follow-usage-guides/"><u>Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-shazams-latest-feature-pinpointing-songs-played-through-personal-earbuds/"><u>Unveiling Shazam's Latest Feature: Pinpointing Songs Played Through Personal Earbuds!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-unsubscribing-from-apple-arcade-is-out-of-the-question-a-deep-dive-into-three-compelling-reasons/"><u>Why Unsubscribing From Apple Arcade Is Out of the Question: A Deep Dive Into Three Compelling Reasons</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-crystaleye-high-res-captures-wx/"><u>[New] In 2024, CrystalEye High-Res Captures WX</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unleashing-your-inner-instagram-reel-mastermind/"><u>[Updated] 2024 Approved Unleashing Your Inner Instagram Reel Mastermind</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-tips-for-organizing-online-gatherings-google-meet-for-2024/"><u>[Updated] Essential Tips for Organizing Online Gatherings (Google Meet) for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-curated-igtv-channels-that-matter-today/"><u>2024 Approved Curated IGTV Channels That Matter Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/detecting-mobile-internet-speed-limits-understanding-and-identifying-throttled-data/"><u>Detecting Mobile Internet Speed Limits: Understanding and Identifying Throttled Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-hidden-apple-books-features-with-these-10-essential-tips/"><u>Discover Hidden Apple Books Features with These 10 Essential Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-wait-any-longer-identify-these-5-critical-reasons-to-update-your-phone-today/"><u>Don't Wait Any Longer! Identify These 5 Critical Reasons to Update Your Phone Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-methods-for-syncing-and-downloading-icloud-images-on-various-gadgets/"><u>Effortless Methods for Syncing and Downloading iCloud Images on Various Gadgets</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-find-x7-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Find X7? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/imageclarity-converter-high-res-for-all-systems/"><u>ImageClarity Converter - High Res for All Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-civi-3-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Civi 3 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-apoweredit-user-guide-unleash-your-editing-potential/"><u>Step-by-Step ApowerEdit User Guide - Unleash Your Editing Potential</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: Effective Ways to Backup a Locked iPhone Step by Step"
-date: 2024-08-18T09:18:54.978Z
-updated: 2024-08-19T09:18:54.978Z
+date: 2024-10-20T17:19:38.784Z
+updated: 2024-10-23T21:56:07.203Z
 tags:
   - backup-ios-data
 categories:
@@ -48,6 +48,13 @@ Step 1 Update iTunes and connect with iPhone
 
 ![Backup iPhone to PC Using iTunes](https://www.aiseesoft.com/images/ios-system-recovery/back-up-now.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 Back up an iPhone using iTunes
 
  Click "Summary" in the left panel, and then move to "Backups" section. Tick "This computer" and "Encrypt iPhone Backup" below if you want to make an encrypted backup. Tap "Back Up Now" to start backing up iPhone to a computer.
@@ -67,8 +74,12 @@ Step 2 Use iCloud to backup iPhone without a computer
  Choose "Backup" or "iCloud Backup" button. Make sure that iCloud backup option is being turned on. Tap "OK" when you are asked to start iCloud backup or not. Press "Back Up Now" to backup iPhone to iCloud automatically. Turn off iCloud backup option if you need to backup iPhone to iCloud for one time only.
 
 ![Backup iPhone Voice Memeo Using iCloud](https://www.aiseesoft.com/images/solution/iphone-external-storage/iphone-backup-icloud.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 . How to Backup iPhone to Computer without iTunes
@@ -89,8 +100,12 @@ Step 1 Open iOS Data Backup & Restore
  Download and install the backup iPhone to computer program. Choose "iOS Data Backup & Restore" to back up an iPhone to Windows/Mac PC.
 
 ![FoneLab Interface](https://www.aiseesoft.com/images/ios-data-backup-and-restore/fonelab-main-interface.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2 Enter iOS Data Backup page
@@ -99,39 +114,34 @@ Step 2 Enter iOS Data Backup page
 
 ![Launch iOS Data Backup](https://www.aiseesoft.com/images/ios-data-backup-and-restore/ios-data-backup-restore-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 Choose standard or encrypted backup mode
 
  FoneLab iOS Data Backup & Restore can detect your iPhone automatically. Wait until the process ends, choose "Standard backup" by default and hit "Start" to move on. If you have something private need to be backed up, you can select "Encrypted backup" to get an iPhone encryption backup.
 
 ![Choose iPhone file types](https://www.aiseesoft.com/images/ios-data-backup-and-restore/select-file-type.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 4 Select iPhone backup file types
 
  There are photos, App data, contacts, Safari history and many other data types you can choose to back up an iPhone to a computer without data loss. As a result, there is no need to backup unnecessary iPhone files entirely.
 
 ![Backup an iPhone](https://www.aiseesoft.com/images/ios-data-backup-and-restore/ios-backup-process.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5 Back up iPhone to PC in one click
 
  Press "Next" button and set a destination folder on your Windows or Mac computer. Later, iOS Data Backup will start backing up iPhone to computer without iCloud or iTunes quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 4 . How to Backup iPhone to Computer with Google Drive
 
  You can also backup iPhone to PC with the help of Google Drive, thus you are able to access iPhone data through Google on PC. But like iTunes, Google Drive will fullly backup your iPhone data. Your iPhone emails, calendars and contacts have been online already.
 
 ![Backup iPhone to Computer](https://www.aiseesoft.com/images/ios-data-backup-and-restore/backup-iphone-to-google-drive.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 1 Run Google Drive on your iPhone
 
@@ -176,8 +186,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +193,23 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-capturing-coziness-ideal-winter-scenes-for-yt-video-for-2024/"><u>[New] Capturing Coziness Ideal Winter Scenes for YT Video for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-excellent-backdrops-setting-the-stage-for-streaming-for-2024/"><u>[New] Excellent Backdrops Setting the Stage for Streaming for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>[Updated] In 2024, Earning Through Eyes The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfectly-sync-apple-music-to-your-videos/"><u>[Updated] Perfectly Sync Apple Music to Your Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ps4-broadcast-simplified-detailed-steps-using-obs-for-2024/"><u>[Updated] PS4 Broadcast Simplified Detailed Steps Using OBS for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-pcsmartphone-session-recorder/"><u>[Updated] The Ultimate PC/Smartphone Session Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-turning-snapchat-into-cash-secrets-revealed-for-2024/"><u>[Updated] Turning Snapchat Into Cash Secrets Revealed for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-latest-innovation-the-significant-improvements-of-the-apple-pencil-pro/"><u>Apple's Latest Innovation: The Significant Improvements of the Apple Pencil Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-digital-wallets-like-apple-pay-or-google-pay-a-greater-security-upgrade-over-standard-credit-cards/"><u>Are Digital Wallets Like Apple Pay or Google Pay a Greater Security Upgrade over Standard Credit Cards?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/assessing-the-apple-iphone-15-perfectly-adequate/"><u>Assessing the Apple iPhone 15: Perfectly Adequate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automatic-transcription-feature-now-available-in-apples-latest-podcast-update/"><u>Automatic Transcription Feature Now Available in Apple's Latest Podcast Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/charge-multiple-gadgets-simultaneously-with-belkins-latest-200w-usb-c-portable-power-station/"><u>Charge Multiple Gadgets Simultaneously with Belkin's Latest 200W USB-C Portable Power Station</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-apples-visual-look-up-function-can-enhance-your-iphone-experience-a-comprehensive-guide/"><u>Discover How Apple's Visual Look-Up Function Can Enhance Your iPhone Experience: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-game-changing-sleep-mode-how-your-apple-watch-can-now-coexist-with-comfort/"><u>Discover the Game-Changing Sleep Mode: How Your Apple Watch Can Now Coexist With Comfort</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-success-via-creator-studio-complete-handbook/"><u>In 2024, Mastering YouTube Success via Creator Studio Complete Handbook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-neo-5-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT Neo 5 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
 
