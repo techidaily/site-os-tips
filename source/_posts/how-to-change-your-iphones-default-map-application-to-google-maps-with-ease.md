@@ -1,7 +1,7 @@
 ---
 title: How to Change Your iPhone's Default Map Application to Google Maps with Ease
-date: 2024-10-19T19:18:17.880Z
-updated: 2024-10-23T17:20:07.845Z
+date: 2024-10-27T21:40:29.857Z
+updated: 2024-10-30T00:49:05.139Z
 tags:
   - ios
 categories:
@@ -17,6 +17,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [First, Make Chrome Your Default Mobile Browser](https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-xr21-location-settings-drfone-by-drfone-virtual/)
 * [Next, Make Gmail Your Default Mailing App](https://youtube-webster.techidaily.com/24-revenue-calculation-for-every-clicked-video/)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can't make Google Maps the default navigation app on an iPhone, but you can when using Chrome and Gmail.
@@ -24,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To open map links in Google Maps with Gmail, install it, make it the default mail app, and set Google Maps as the default navigation app in its settings.
 
  If you’re an iPhone user who prefers Google Maps over Apple Maps, you might wonder how to make it the default navigation app. Unfortunately, you can’t. However, there’s a workaround you can use that takes advantage of other Google apps.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Do You Need a Workaround?
 
@@ -41,13 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Deleting Apple Maps will not force your iPhone to use Google Maps as the default navigation app. Instead, when opening a map link, your phone will prompt you to download Apple Maps again.
 
  Fortunately, since iOS 14, you can change the default browser and [email app on your iPhone](https://win11.techidaily.com/leveraging-advanced-tools-for-improved-admin-workflows-in-windows/). You can set the former to Chrome and the latter to Gmail. Since apps within Google's ecosystem prefer other Google apps, map links opened in Chrome and Gmail will open Google Maps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  First, Make Chrome Your Default Mobile Browser
 
@@ -62,16 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Chrome settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chrome-settings-page-iphone.PNG) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Setting the default browser to Chrome in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-chrome-default-browser-iphone.PNG) 
@@ -88,29 +81,9 @@ Close
 
 ![The "Gmail" option in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-gmail-option-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Gmail settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-settings-page-iphone.PNG) 
 
 ![Setting the default mail app to Gmail in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-default-mail-app-iphone.PNG) 
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -118,7 +91,21 @@ Close
 
 ![Tapping the hamburger menu in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-inbox-iphone.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting the "Settings" option in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-option-gmail-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -127,6 +114,13 @@ Close
 ![The "Default App" option in Gmail's settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/default-apps-option-gmail-iphone.PNG) 
 
 ![Setting Google Maps as the default navigation app in Gmail on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setting-google-maps-default-gmail-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -151,24 +145,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-effortless-gifs-for-snapchat-your-practical-guide/"><u>[New] 2024 Approved Effortless GIFs for Snapchat Your Practical Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ilmmakers-lounge-app-for-2024/"><u>[New] Filmmaker's Lounge App for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-swift-comment-removal-on-youtube-a-practical-guide/"><u>[New] Swift Comment Removal on YouTube A Practical Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-hatch-humorous-habits/"><u>[Updated] In 2024, Hatch Humorous Habits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-joke-telling-is-ai-capable-of-delivering-a-real-guffaw/"><u>Beyond Joke-Telling: Is AI Capable of Delivering a Real Guffaw?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-ultimate-pc-sound-experience-spotlight-on-logitech-and-audioengine-by-zdnet/"><u>Expert Picks for Ultimate PC Sound Experience : Spotlight on Logitech and Audioengine by ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-through-chrome-edge-and-firefox-pasting-fixes/"><u>Guiding Through Chrome, Edge & Firefox Pasting Fixes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-video-impact-a-comprehensive-guide-to-youtube-popularity/"><u>In 2024, Maximizing Video Impact A Comprehensive Guide to YouTube Popularity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>In 2024, Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/optimal-applications-to-elevate-your-vtubers-sonic-brand-for-2024/"><u>Optimal Applications to Elevate Your Vtuber's Sonic Brand for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-shrinking-images-on-your-ios-device/"><u>Simple Steps: Shrinking Images on Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-cropping-images-like-a-pro-on-your-ios-devices/"><u>Step-by-Step Guide: Cropping Images Like a Pro on Your iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-the-mute-symbol-on-your-iphone-15-pro/"><u>Step-by-Step Guide: Disabling the Mute Symbol on Your iPhone 15 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-updating-your-iphones-security-code/"><u>Step-by-Step Guide: Updating Your iPhone's Security Code</u></a></li>
-<li><a href="https://os-tips.techidaily.com/swap-your-vintage-iphone-for-cutting-edge-airpods-a-fresh-upgrade-opportunity/"><u>Swap Your Vintage iPhone for Cutting-Edge AirPods: A Fresh Upgrade Opportunity!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-myth-of-vanishing-apple-ids-what-you-need-to-know-before-it-goes-away/"><u>The Myth of Vanishing Apple IDs: What You Need to Know Before It 'Goes Away'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-method-to-shift-your-photographs-from-an-android-phone-onto-an-iphone/"><u>The Ultimate Method to Shift Your Photographs From an Android Phone Onto an iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-printing-out-mobile-text-chats-easily/"><u>The Ultimate Tutorial: Printing Out Mobile Text Chats Easily</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-frequent-issues-with-your-apple-watch-easy-troubleshooting-tips/"><u>Top 10 Frequent Issues with Your Apple Watch: Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-presentations-effortlessly-a-guide-to-screen-capture/"><u>[New] Capturing Presentations Effortlessly A Guide to Screen Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-discover-9-free-whole-film-festive-movie-gems-on-youtube/"><u>[New] In 2024, Discover 9 Free, Whole-Film Festive Movie Gems on Youtube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-election-excitement-5-best-voting-simulators/"><u>[Updated] 2024 Approved Election Excitement 5 Best Voting Simulators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-toolkit-capture-windows-11-displays/"><u>2024 Approved Ultimate Toolkit Capture Windows 11 Displays</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-motorola-moto-g-stylus-5g-2023-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Motorola Moto G Stylus 5G (2023) Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-music-download-tips-expert-guide-to-enriching-your-ipads-playlist-at-no-cost/"><u>Free Music Download Tips: Expert Guide to Enriching Your iPad's Playlist at No Cost</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-or-stolen-how-to-retrieve-your-missing-iphone-safely/"><u>Lost or Stolen? How to Retrieve Your Missing iPhone Safely</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-choosing-the-pinnacle-in-hdr-cameras-for-2024/"><u>Masterclass Choosing the Pinnacle in HDR Cameras for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/murni-murni-restorasi-lokasi-favorit-google-cloud-langkah-langkahnya/"><u>Murni-Murni Restorasi Lokasi Favorit Google Cloud: Langkah-Langkahnya</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-personal-reminders-a-step-by-step-guide-to-enabling-passcode-locks-in-ios-notes/"><u>Secure Your Personal Reminders: A Step-by-Step Guide to Enabling Passcode Locks in iOS Notes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-80-pro-straight-screen-edition-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor 80 Pro Straight Screen Edition to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unlocking-the-potential-of-your-iphones-wifi-sharing-abilities/"><u>Step-by-Step Instructions: Unlocking the Potential of Your iPhone's WiFi Sharing Abilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-no-cost-sms-services-sendreceive-messages-using-any-device/"><u>The Ultimate List of No-Cost SMS Services: Send/Receive Messages Using Any Device!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-auto-play-features-why-your-iphone-chooses-songs-on-apple-music/"><u>Understanding Auto-Play Features: Why Your iPhone Chooses Songs on Apple Music</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-screen-time-functions-and-steps-to-deactivate/"><u>Understanding iPhone Screen Time: Functions & Steps to Deactivate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-android-phones-address-book-guide-a-beginners-tutorial/"><u>Unlocking Your Android Phone's Address Book Guide: A Beginner's Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-xiaomi-mi-smart-band-4-stands-out-as-a-top-contender-in-cost-effective-health-trackers/"><u>Why Xiaomi Mi Smart Band 4 Stands Out as a Top Contender in Cost-Effective Health Trackers</u></a></li>
 </ul></div>
 

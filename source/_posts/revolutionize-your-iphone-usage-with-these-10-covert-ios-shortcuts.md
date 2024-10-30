@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2024-10-20T16:47:16.084Z
-updated: 2024-10-23T21:56:21.766Z
+date: 2024-10-24T22:01:11.260Z
+updated: 2024-10-29T21:28:26.488Z
 tags:
   - ios
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Here are 10 features you might not have heard of before, but once you get the hang of them, they can change how you do many things on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pause Music and Podcast Playback with a Timer
 
  It's not uncommon for iPhone users to sleep while listening to their favorite music track or podcast on Apple Music or Apple Podcast apps. However, only some know that the [iPhone's Clock app](https://android-frp.techidaily.com/poco-m6-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/) allows one to set a timer so that when it ends, it stops anything that is playing at the time, including WhatsApp audio or YouTube videos, and locks the screen.
@@ -54,13 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![iPhone's Clock app with an arrow next to the option to start a Timer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Hidden Backspace Key to fix Mistakes in the Calculator
 
  Your iPhone's Calculator doesn't have an obvious backspace button, but that's because it's hidden in plain sight. Yes, it's possible to delete mistyped numbers on the Calculator app, and here's how you can do it. It's important to mention that the method doesn't work on results.
@@ -75,13 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You might also want to check out how to open the [hidden scientific calculator on your iPhone](https://win-solutions.techidaily.com/troubleshooting-guide-how-to-prevent-elex-ii-from-crashing-on-your-windows-machine/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Cast Spells with Siri to Turn on the Flashlight
 
  Harry Potter remains one of the most famous fictional characters ever, and for his fans, Apple has hidden an Easter Egg in iPhones. In the popular movie franchise, the wizard uses the spell "Lumos" to summon a ball of light from his wand and "Knox" to extinguish the light.
@@ -93,6 +86,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To turn off the flashlight, invoke Siri and say "Knox." Again, Siri confirms that the flashlight is off.
 
 ![Siri's confirmation for turning off the flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-13.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you haven't set up Siri, check out our guide on [enabling and using "Hey Siri" on iPhone](https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/) and iPad.
 
@@ -108,13 +108,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Custom Sticker dialog box on WhatsApp with an arrow next to the Send option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Set Custom Alerts to Prepare for Charging the iPhone
 
  By default, your iPhone informs you when the battery reaches 20%, which is also when it asks to enable the Low Power Mode. However, you can set a custom battery alert to deal with your battery anxiety. Using [Shortcut Automation](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/), you can program your iPhone to show a custom notification when the battery reaches a certain level, in addition to the standard low battery alert. It also allows you to set the percentage.
@@ -122,6 +115,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For setting a custom battery alert, open the Shortcuts app on your iPhone. If you're unable to locate the app, consider using Spotlight search.
 
 ![Shortcuts app in iPhone's Spotlight search with an arrow next to it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-15.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap the Automation option at the bottom of the screen.
 
@@ -135,23 +135,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Personal Automation menu highlighting the battery level option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the following screen, select the battery level at which you intend to receive a notification using the slider. Once done, hit the Next button in the top right corner.
 
 ![Personal Automation options highlighting the battery level](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At the bottom of the screen, search for "Notifications" and select "Show Notifications."
 
@@ -183,6 +169,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Use iPhone Passcode option in Notes' settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/use-iphone-passcode-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, the menu should look something like this.
 
 ![Notes password menu with the options to use iPhone passcode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-11.png) 
@@ -196,10 +189,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An arrow next to the lock icon in an Apple Notes file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lock-icon-in-notes-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Elevate the Lock Screen's Appearance with Depth Effect
@@ -217,6 +210,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Remember that the Depth Effect works well with photos with taller subjects. If you pick the right image, iOS 16 will showcase it with the Depth Effect already enabled.
 
 ![Editing Lock Screen wallpaper to add depth effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-12.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, you can always press the three-dot menu in the bottom right to turn it on.
 
@@ -240,13 +240,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  While Count only shows the number of notifications, Stack groups the alerts based on apps. The last option, List, views all the notifications as a simple list. You might want to check our detailed [guide about managing notifications on iPhone](https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-x-fold-2-pc-drfone-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Your iPhone's Back Panel to Get Things Done
 
  Some videos on the internet show people tap the back of their iPhones to get stuff done. Well, it's a feature that works on iPhone 8 or later—[called Back Tap](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/)—that converts double or triple taps on the back of an iPhone to specific actions.
@@ -254,6 +247,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Head to Settings > Accessibility > Touch.
 
 ![Accessibility settings with an arrow next to Touch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-20.png) 
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll to the bottom and hit "Back Tap."
 
@@ -267,6 +273,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Measure a Surface's Slope with the Hidden Spirit Level
 
  To end this list, we would like to tell you about another hidden iPhone feature that hides in plain sight: the digital spirit leveler. You might know your iPhone has the Measure app that lets you measure the distance between two objects. This app also has the Level feature that determines whether an object is perfectly straight or flat.
@@ -274,13 +287,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To use this feature, open the Measure app.
 
 ![iPhone's folder that contains several apps with an arrow next to Measure](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/measure-app-on-iphone.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tap the Level option at the bottom right.
 
@@ -307,17 +313,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-viral-stardom-quick-simple-strategies-for-instagram-success/"><u>[Updated] 2024 Approved Mastering Viral Stardom Quick, Simple Strategies for Instagram Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-choosing-your-camera-companion-for-editing-hero-session-x-vs-cube-for-2024/"><u>[Updated] Choosing Your Camera Companion for Editing Hero Session X V/S Cube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-legality-of-capturing-and-reproducing-youtube-video-playbacks/"><u>[Updated] Legality of Capturing and Reproducing YouTube Video Playbacks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-carryminatis-income-evolution-with-ajey-nagar/"><u>2024 Approved CarryMinati's Income Evolution with Ajey Nagar</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-top-5-must-have-ios-data-protection-solutions-for-your-smartphone/"><u>Discover the Top 5 Must-Have iOS Data Protection Solutions for Your Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-methods-the-top-three-strategies-for-secure-ipad-backup-solutions/"><u>Effortless Methods: The Top Three Strategies for Secure iPad Backup Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-save-your-iphones-memory-on-windows-and-macos-an-ultimate-how-to-tutorial/"><u>Effortlessly Save Your iPhone's Memory on Windows & macOS: An Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://win-latest.techidaily.com/guia-facil-de-recuperar-archivos-desaparecidos-zip-sin-coste-en-windows-11-version-actualizada/"><u>Guía Fácil De Recuperar Archivos Desaparecidos ZIP Sin Coste en Windows 11, Versión Actualizada</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on OnePlus</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173155093-my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-your-iphones-secrets-steps-to-retrieve-data-without-needing-itunes-or-icloud/"><u>Unlocking Your iPhone's Secrets: Steps to Retrieve Data Without Needing iTunes or iCloud</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-achieving-professional-editing-without-the-price-tag/"><u>[New] Achieving Professional Editing Without the Price Tag</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-build-haha-images/"><u>[Updated] Build Haha Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-to-emoji-stickers-a-complete-tutorial-for-telegram-and-beyond/"><u>[Updated] Step-by-Step to Emoji Stickers A Complete Tutorial for Telegram and Beyond</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-tiktok-downloading-the-blueprint-for-mass-media-capture-for-2024/"><u>[Updated] TikTok Downloading The Blueprint for Mass Media Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-zippyzoom-echoframe-capture/"><u>[Updated] ZippyZoom EchoFrame Capture</u></a></li>
+<li><a href="https://os-tips.techidaily.com/capture-crystal-clear-sounds-top-8-free-techniques-for-enhanced-iphone-audio/"><u>Capture Crystal Clear Sounds: Top 8 Free Techniques for Enhanced iPhone Audio</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-the-butterfly-two-in-one-charger-by-twelve-south-the-travelers-must-have-companion-with-magsafe-technology/"><u>Comprehensive Analysis of the ButterFly Two-in-One Charger by Twelve South: The Traveler's Must-Have Companion with MagSafe Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-animated-gifs-using-your-iphone-a-step-by-step-guide/"><u>Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-repair-guide-mastering-the-art-of-fixing-iphone-15-and-m2-mac-mini/"><u>DIY Repair Guide: Mastering the Art of Fixing iPhone 15 & M2 Mac Mini</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-the-delta-retrogaming-companion-newly-released-emulator-on-apples-app-store/"><u>Download the Delta Retrogaming Companion: Newly Released Emulator on Apple's App Store</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-living-essential-tweaks-in-ios-settings-that-will-simplify-your-day/"><u>Effortless Living: Essential Tweaks in iOS Settings That Will Simplify Your Day</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-gameplay-on-ipad-introducing-the-latest-delta-emulator-with-advanced-ds-management-tools/"><u>Enhanced Gameplay on iPad: Introducing the Latest Delta Emulator with Advanced DS Management Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-realme-c51-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme C51 FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-managing-wins-ram-cache/"><u>Understanding and Managing Win's RAM Cache</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
 </ul></div>
 

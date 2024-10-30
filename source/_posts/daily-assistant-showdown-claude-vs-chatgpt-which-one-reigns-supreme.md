@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2024-10-18T03:55:30.130Z
-updated: 2024-10-23T21:03:42.672Z
+date: 2024-10-26T20:31:42.569Z
+updated: 2024-10-29T22:09:06.528Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  GPT vs. Claude On The Web
 
 [Several companies compete in the AI race](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/), but two consistently make headlines and are followed by cutting-edge enthusiasts: OpenAI and Anthropic. Both companies have made significant progress in putting together an impressive web application that users can use for free, with some limitations.
@@ -31,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
 
@@ -53,10 +60,10 @@ Dibakar Ghosh / How-To Geek / Midjourney
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which App Performs Better?
@@ -75,13 +82,6 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -95,10 +95,10 @@ Jason Dookeran/How-to-Geek
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
@@ -120,22 +120,20 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-16-youtube-beginnings-for-higher-engagement/"><u>[New] Top 16 YouTube Beginnings for Higher Engagement</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-youtube-trademarks-tips-on-logo-and-watermark-addition/"><u>[Updated] In 2024, Enhance YouTube Trademarks Tips on Logo and Watermark Addition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-to-canon-time-lapse-video-for-2024/"><u>A Comprehensive Guide to Canon Time-Lapse Video for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a14-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A14 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-remove-your-facebook-friends-from-iphone-address-book/"><u>Comprehensive Guide: How to Remove Your Facebook Friends From iPhone Address Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-mobikin-cleaner-guide-features-reviews-and-performance-on-windows-and-mac/"><u>Comprehensive Mobikin Cleaner Guide: Features, Reviews, and Performance on Windows & Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-to-download-and-update-surface-pro-6-drivers/"><u>Easy to Download and Update Surface Pro 6 Drivers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-your-iphones-camera-issues-3-easy-solutions/"><u>Fix Your iPhone's Camera Issues: 3 Easy Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-the-beat-on-your-device-discover-how-to-easily-move-tunes-from-an-ipod-touchshufflenano-no-itunes-required/"><u>Get the Beat on Your Device: Discover How to Easily Move Tunes From an iPod Touch/Shuffle/Nano - No iTunes Required!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-uninstall-ebooks-from-your-ibooks-collection-the-three-superior-strategies/"><u>How to Effortlessly Uninstall eBooks From Your iBooks Collection: The Three Superior Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-cannot-capture-image-on-iphone-with-these-three-tips/"><u>How to Resolve 'Cannot Capture Image' On iPhone with These Three Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gtx-gems-the-best-for-high-res-gaming/"><u>In 2024, GTX Gems The Best for High-Res Gaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/installing-windows-10-on-a-mac-a-comprehensive-tutorial-using-boot-camp-assistant/"><u>Installing Windows 10 on a Mac: A Comprehensive Tutorial Using Boot Camp Assistant</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/the-integration-must-consider-the-limitations-and-specific-needs-based-on-the-waste-stream-characteristics/"><u>The Integration Must Consider the Limitations and Specific Needs Based on the Waste Stream Characteristics.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-fix-the-cannot-delete-issue-on-your-iphone-seamlessly/"><u>Ultimate Guide: How to Fix the 'Cannot Delete' Issue on Your iPhone Seamlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-power-of-mobikin-cleaner-for-pcs-in-depth-review-and-insights-for-windows-and-macos-users/"><u>Unveiling the Power of Mobikin Cleaner for PCs: In-Depth Review and Insights for Windows and macOS Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-get-close-or-farther-with-ease-on-instagram-stories/"><u>[New] In 2024, Get Close or Farther with Ease on Instagram Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-effortless-video-management-25plus-free-apps-turning-instagram-content-into-mp4-files/"><u>[Updated] In 2024, Effortless Video Management 25+ Free Apps Turning Instagram Content Into MP4 Files</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-s24plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy S24+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-making-gifs-directly-from-an-iphone-tips-and-tricks/"><u>Mastering the Art of Making GIFs Directly From an iPhone: Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-unfreezing-window-updates-on-legacy-systems-latest-advice-steps-and-troubleshooting-techniques-to-assist-users-edition-of-windows-seven146/"><u>Mastering The Art of Unfreezing Window Updates On Legacy Systems – Latest Advice, Steps And Troubleshooting Techniques To Assist Users Edition Of Windows Seven (Guide and Helpful Tips).</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-journey-discover-how-to-share-your-google-map-route-for-a-seamless-travel-experience/"><u>Maximize Your Journey: Discover How to Share Your Google Map Route for a Seamless Travel Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-awesome-experience-with-the-paprika-app-why-you-shouldnt-wait/"><u>My Awesome Experience with the Paprika App - Why You Shouldn't Wait</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-desire-for-a-cosmic-galaxy-ring-denied-by-samsungs-design/"><u>My Desire for a Cosmic Galaxy Ring Denied by Samsung's Design</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-easy-video-reversal-top-online-solutions-for-2024/"><u>New Easy Video Reversal Top Online Solutions for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/phone-overheating-follow-these-tips-to-cool-things-down/"><u>Phone Overheating? Follow These Tips to Cool Things Down!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-vision-a-step-by-step-tutorial-on-modifying-iphones-screen-proximity-settings/"><u>Protect Your Vision: A Step-by-Step Tutorial on Modifying iPhone's Screen Proximity Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sidecar-feature-connecting-your-mac-and-ipad-seamlessly/"><u>Sidecar Feature: Connecting Your Mac and iPad Seamlessly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-guide-the-top-apps-for-recording-video-calls-on-viber/"><u>Ultimate Guide: The Top Apps for Recording Video Calls on Viber</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-predictive-ai-and-how-does-it-work/"><u>What Is Predictive AI, and How Does It Work?</u></a></li>
 </ul></div>
 

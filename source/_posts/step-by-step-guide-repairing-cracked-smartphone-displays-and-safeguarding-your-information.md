@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing Cracked Smartphone Displays & Safeguarding Your Information"
-date: 2024-08-18T09:25:01.326Z
-updated: 2024-08-19T09:25:01.326Z
+date: 2024-10-28T22:20:23.350Z
+updated: 2024-10-29T19:59:07.344Z
 tags:
   - fix-android-problems
 categories:
@@ -25,9 +25,6 @@ _My phone won't turn on? How to fix it?_
 * [Part 4. Do a factory reset from recovery mode](https://tools.techidaily.com/)
 * [Part 5. Best way to fix your phone that won't turn on](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Part 1\. Charge your Android phone for a few minutes
 
  There is no simply way to directly determine what the cause really is. Nor is there an ultimate solution to fix "my phone won't turn on'' issue. When your Android phone refuses to turn on, it is most likely an accessory or hardware issue. So you should first make sure if there is a battery or charger problem.
@@ -35,6 +32,13 @@ _My phone won't turn on? How to fix it?_
 ![Charge Android to Fix My Phone that Won't Turn On](https://www.aiseesoft.com/images/ios-system-recovery/charge-android.jpg)
 
  When your Android phone's batter is running out of power, you' ll get an "Low Power" or "Empty Battery" indicator on the screen when you attempt to turn it on. If the batter is dead completely, you have no chance to turn on the Android phone. To fix the issue, just plug your Android phone into a wall charger to charge it. You should not turn on your Android phone immediately when charge the device, getting it charged for a few minutes. Then come back and try to turn on your Android phone with pressing the Power button. If it doesn't work at all, try charging the Androidd phone with a different cable and charger. The charger or cable you used might be broken.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Check the battery and turn on your phone
 
@@ -44,9 +48,6 @@ _My phone won't turn on? How to fix it?_
 
  For those phone whose batteries cannot be removed, you'll have to long-press the Power button. Press your device's Power button and hold it down for 10 seconds. The time may be longer.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Perform a hard reset to turn on your phone
 
  "My phone won't turn on and it's full charged. I try a new battery in my phone and it still doesn't work. It has never touched water and has no cracks at all. Is there any way to bring my phone back to normal?"
@@ -61,12 +62,16 @@ Step 3 Choose**wipe data/factory reset** . You can use Volume button to scroll a
 
 ![Wipe Data/Factory Reset](https://www.aiseesoft.com/images/ios-system-recovery/wipe-data-factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4 Select**Yes - delete all user data** option.
 
 ![Yes - delete all user data](https://www.aiseesoft.com/images/ios-system-recovery/delete-all-user-data.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 5 Press**Power** button to enter**Reboot system now** .
 
@@ -82,9 +87,6 @@ Step 5 Press**Power** button to enter**Reboot system now** .
 
 ► Hold Volume Up + Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 4\. Enter recovery mode to turn on your phone
 
  You can also put your Android phone into[recovery mode](https://tools.techidaily.com/) to fix the "my phone won't turn on'' issue. To boot your phone in recovery, you can follow these steps:
@@ -103,9 +105,6 @@ Step 5 Press the**Power** button to confirm the operation.
 
  Your Android device will automatically restart. After that, your phone will turn on and work normally.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5\. Best way to fix my phone that won't turn on
 
  If you find out that it is the software issue that cause your Android phone won't turn on, you can rely on the professional[Broken Android Data Extraction](https://tools.techidaily.com/aiseesoft-android-data-recovery/) to help you solve the problem. First, you can free download and install it on your computer.
@@ -125,13 +124,30 @@ Step 1 Launch Broken Phone Data Recovery
 
 ![Broken Android Data Recovery Interface](https://www.aiseesoft.com/images/broken-android-data-recovery/broken-android-recovery-interface.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 Select the issue you encounter
 
  Then you'll need to choose the issue type you are running into. The program supports getting your Android phone fixed when it has virus attack, system crash, black screen, phone frozen, phone drown or password forgotten, etc. Here you can choose**Black Screen** to continue. Click the**Next** button then.
 
 ![Broken Android Issues](https://www.aiseesoft.com/images/broken-android-data-recovery/broken-android-issue.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3 Choose the Android model
@@ -145,13 +161,17 @@ Step 4 Download firmware and fix Android phone that won't turn on
  The software will soon**download the firmware** that suits your Android phone and**repair** it. Quickly, your phone will back to normal condition. What's more, this software enables you to recover the lost/deleted Android data, you can free download it and have a try.
 
 ![Fix My Phone Wont Turn On](https://www.aiseesoft.com/images/broken-android-data-recovery/downloading.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can learn the steps from the video below:
 
 ![Fix Password Forgotten Android Phone](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this post, we mainly talk about how to fix**my phone won't turn on** problem. If you are facing the issue, you can use the recommended methods to boot your phone. Hope you can easily solve the problem after reading this post.
 
@@ -186,8 +206,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +213,24 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-top-chromebook-visual-recorder/"><u>[New] Top Chromebook Visual Recorder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-11-insider-tips-for-outstanding-hue-alignment/"><u>2024 Approved 11 Insider Tips for Outstanding Hue Alignment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>2024 Approved From Dull to Delightful How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-downloading-the-latest-asus-wireless-network-drivers/"><u>Complete Guide: Downloading the Latest ASUS Wireless Network Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-friends-information-from-facebook-messenger-on-ios-devices/"><u>How to Retrieve Lost Friends' Information From Facebook Messenger on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/icloud-file-rescue-efficiently-restore-deleted-items-from-your-icloud-backups/"><u>ICloud File Rescue: Efficiently Restore Deleted Items From Your iCloud Backups</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-mind-numbing-youtube-factsfigures-and-statistics-for-2024/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-file-rescue-tips-how-to-retrieve-lost-documents-with-your-mac-computer/"><u>IPad File Rescue Tips: How to Retrieve Lost Documents with Your Mac Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-iphone-images-swift-fixes-and-restoration-tips/"><u>Lost iPhone Images: Swift Fixes & Restoration Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-mission-how-to-get-back-lost-chats-from-your-ipod-touch-ios-versions-5-and-4/"><u>Rescue Mission: How to Get Back Lost Chats From Your iPod Touch (iOS Versions 5 & 4)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-your-missing-numbers-a-guide-to-retrieving-removed-contacts-on-your-iphone/"><u>Rescue Your Missing Numbers: A Guide to Retrieving Removed Contacts on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-lost-footage-a-step-by-step-guide-to-retrieving-deleted-video-content-on-your-ipad/"><u>Restoring Lost Footage: A Step-by-Step Guide to Retrieving Deleted Video Content on Your iPad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/start-immediately-experiment-with-8-tailored-models/"><u>Start Immediately: Experiment with 8 Tailored Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-your-icloud-images-on-iphone-via-photo-stream-or-library/"><u>Step-by-Step Guide: Retrieving Your iCloud Images on iPhone via Photo Stream or Library</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-story-of-facebook-from-startup-to-giant-discover-the-appeal-and-main-functions/"><u>The Story of Facebook: From Startup to Giant - Discover the Appeal & Main Functions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/visionary-approaches-in-ai-discovering-the-six-pillars-of-gpts-engineer/"><u>Visionary Approaches in AI - Discovering the Six Pillars of GPT's Engineer</u></a></li>
+</ul></div>
 

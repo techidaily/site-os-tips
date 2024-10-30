@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Securely & Simply Rooting Your Android Phone Using Root Genius"
-date: 2024-08-18T09:24:15.186Z
-updated: 2024-08-19T09:24:15.186Z
+date: 2024-10-22T19:00:15.325Z
+updated: 2024-10-29T21:03:05.341Z
 tags:
   - fix-android-problems
 categories:
@@ -26,33 +26,48 @@ _My phone won't turn on? How to fix it?_
 * [Part 5. Best way to fix your phone that won't turn on](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1\. Charge your Android phone for a few minutes
 
  There is no simply way to directly determine what the cause really is. Nor is there an ultimate solution to fix "my phone won't turn on'' issue. When your Android phone refuses to turn on, it is most likely an accessory or hardware issue. So you should first make sure if there is a battery or charger problem.
 
 ![Charge Android to Fix My Phone that Won't Turn On](https://www.aiseesoft.com/images/ios-system-recovery/charge-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When your Android phone's batter is running out of power, you' ll get an "Low Power" or "Empty Battery" indicator on the screen when you attempt to turn it on. If the batter is dead completely, you have no chance to turn on the Android phone. To fix the issue, just plug your Android phone into a wall charger to charge it. You should not turn on your Android phone immediately when charge the device, getting it charged for a few minutes. Then come back and try to turn on your Android phone with pressing the Power button. If it doesn't work at all, try charging the Androidd phone with a different cable and charger. The charger or cable you used might be broken.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Check the battery and turn on your phone
 
 ![Pull out Android Battery to Fix My Phone that Won't Turn On](https://www.aiseesoft.com/images/ios-system-recovery/android-battery.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like other operating systems, Android OS can also be get a hard-freeze and refuse to turn on sometimes. If[Android gets completely frozen](https://tools.techidaily.com/) , it is difficult for you to turn on Android phone as the operating system seems dead and not responding regardless of which button you press. Try pulling out the battery and then reboot the Android phone. On a phone with a removable battery, you can directly pull out the battery, wait about 10-15 seconds, and then plug in the battery back in and reboot the phone.
 
  For those phone whose batteries cannot be removed, you'll have to long-press the Power button. Press your device's Power button and hold it down for 10 seconds. The time may be longer.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Perform a hard reset to turn on your phone
 
  "My phone won't turn on and it's full charged. I try a new battery in my phone and it still doesn't work. It has never touched water and has no cracks at all. Is there any way to bring my phone back to normal?"
@@ -71,6 +86,13 @@ Step 4 Select**Yes - delete all user data** option.
 
 ![Yes - delete all user data](https://www.aiseesoft.com/images/ios-system-recovery/delete-all-user-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5 Press**Power** button to enter**Reboot system now** .
 
  It will take you a few minutes to finish the whole process. After that, your phone has a big chance to back to normal.
@@ -86,9 +108,12 @@ Step 5 Press**Power** button to enter**Reboot system now** .
 ► Hold Volume Up + Camera.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4\. Enter recovery mode to turn on your phone
 
  You can also put your Android phone into[recovery mode](https://tools.techidaily.com/) to fix the "my phone won't turn on'' issue. To boot your phone in recovery, you can follow these steps:
@@ -131,9 +156,6 @@ Step 2 Select the issue you encounter
  Then you'll need to choose the issue type you are running into. The program supports getting your Android phone fixed when it has virus attack, system crash, black screen, phone frozen, phone drown or password forgotten, etc. Here you can choose**Black Screen** to continue. Click the**Next** button then.
 
 ![Broken Android Issues](https://www.aiseesoft.com/images/broken-android-data-recovery/broken-android-issue.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 3 Choose the Android model
 
@@ -150,9 +172,6 @@ Step 4 Download firmware and fix Android phone that won't turn on
 You can learn the steps from the video below:
 
 ![Fix Password Forgotten Android Phone](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  In this post, we mainly talk about how to fix**my phone won't turn on** problem. If you are facing the issue, you can use the recommended methods to boot your phone. Hope you can easily solve the problem after reading this post.
 
@@ -187,8 +206,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +213,22 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-fabricate-funnier-photos-for-2024/"><u>[New] Fabricate Funnier Photos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-use-your-switch-pro-controller-on-steam/"><u>[Updated] In 2024, How to Use Your Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-learn-how-to-split-your-screen-while-watching-netflix/"><u>[Updated] In 2024, Learn How To Split Your Screen While Watching Netflix</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-erasing-your-snapchat-messages-and-chats-permanently/"><u>Complete Guide: Erasing Your Snapchat Messages and Chats Permanently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-netgear-wi-fi-adapter-now/"><u>Download Updated Drivers for Your NETGEAR Wi-Fi Adapter Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-deletion-top-3-ways-to-remove-games-from-your-ipad-swiftly/"><u>Effortless Deletion: Top 3 Ways to Remove Games From Your iPad Swiftly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-remove-all-your-music-albums-from-your-iphone-forever/"><u>How to Securely Remove All Your Music Albums From Your iPhone Forever</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-yuva-2-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Yuva 2 Phone that is Locked?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-color-depth-why-hdri-is-preferable-in-media-production/"><u>In 2024, Unveiling Color Depth Why HDRI Is Preferable in Media Production</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-clearing-your-iphone-chats-without-losing-anything-expert-strategies-and-easy-data-restoration-steps-inside/"><u>Master Clearing Your iPhone Chats Without Losing Anything: Expert Strategies & Easy Data Restoration Steps Inside</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/playing-webm-videos-on-windows-media-player-what-you-need-to-know/"><u>Playing WebM Videos on Windows Media Player: What You Need to Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-how-to-clear-out-old-apps-from-your-iphone-ipad-or-ipod-touch/"><u>Quick & Easy: How to Clear Out Old Apps From Your iPhone, iPad, or iPod Touch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-clear-your-ipads-browser-cache-including-youtube-and-safari/"><u>Step-by-Step Guide: How to Clear Your iPad's Browser Cache, Including YouTube and Safari</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-securely-clearing-your-iphones-data-in-five-essential-steps-before-transfer/"><u>The Ultimate Guide: Securely Clearing Your iPhone's Data in Five Essential Steps Before Transfer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-dell-xps-13-9300-2-in-1-laptop-evaluation-exceptional-power-and-features/"><u>Ultimate Dell XPS 13 (9300) 2-in-1 Laptop Evaluation: Exceptional Power & Features</u></a></li>
+</ul></div>
 

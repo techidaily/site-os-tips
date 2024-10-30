@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-date: 2024-10-23T03:11:26.443Z
-updated: 2024-10-24T03:47:30.360Z
+date: 2024-10-22T17:16:49.160Z
+updated: 2024-10-29T18:05:14.274Z
 tags:
   - ios
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The iPhone 16 Ultra?](https://extra-skills.techidaily.com/in-2024-instantly-fashion-company-symbols-with-open-source-tools/)
 * [Speculation and Rumor](https://instagram-video-files.techidaily.com/engage-viewers-with-3-innovative-description-styles-on-instagram-vids-for-2024/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * A new A18 system-on-chip is likely to arrive in both the iPhone 16 and 16 Pro, potentially with an "A18 Pro" faster version.
@@ -41,10 +48,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Apple A17 Pro SoC found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro_iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -57,6 +70,13 @@ Apple
 
 ![Volume buttons and Action Button on the Apple iPhone 15 Pro Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/volume-buttons-and-action-button-on-the-apple-iphone-15-pro-max.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  So-called dummy iPhone 16 models posted by X (Twitter) user [Sonny Dickson](https://x.com/SonnyDickson/status/1775704247348412559?s=20) depict a full range of iPhone models with an Action button in place of the mute toggle. As per the iPhone 15 Pro, this button can be used in the same way or reprogrammed. This allows you to use the button for other purposes like triggering a Shortcut, recording a voice memo, and turning on your device’s flashlight.
@@ -64,10 +84,10 @@ Justin Duino / How-To Geek
  On the iPhone 15 Pro, mute functionality can be accessed via Control Center instead. For those of us whose iPhones are always muted, the loss of a physical toggle in favor of more useful button would be a win.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A New Capture Button
@@ -95,10 +115,10 @@ Tyler Hayes / How-To Geek
  The base model iPhone 16 is not expected to differ in size from last year’s iPhone 15.; There are also no signs that Apple will bring back the [delightfully small iPhone mini](https://data-wizards.techidaily.com/bypassing-videography-errors-with-simple-fixes/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Slightly Better Display Technology
@@ -107,25 +127,11 @@ Tyler Hayes / How-To Geek
 
  Alternatively, Apple could settle for the same levels of brightness as seen in existing models while reducing power consumption and preserving battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Faster Wi-Fi
 
  Min-Chi Kuo, the so-called “[best Apple analyst on the planet](https://www.cultofmac.com/273923/ming-chi-kuo/),” singled out the iPhone 16 range for a Wi-Fi 7 upgrade in a [post](https://twitter.com/mingchikuo/status/1670619672096686080?s=20) on X (Twitter) in 2023\. MacRumors has since tempered expectations based on a [report](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) from Jeff Pu that the iPhone 16 will receive Wi-Fi 6E support instead (as seen on the iPhone 15 Pro).
 
 ![Wi-Fi 7 Certified sign by a TP Link router at CES 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53468668835_5a142edd35_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -136,6 +142,13 @@ Hannah Stryker / How-To Geek
  According to the same Jeff Pu report, Apple will be bumping the RAM up to 8GB in all models this year. Last year’s iPhone 15 Pro already had 8GB, but the base models only featured 6GB.
 
 ![The final form of Lady Dimitrescu from Resident Evil Village flies overhead on the iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3caf4670-5199-11ee-bf3f-d4673beffea4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -156,13 +169,6 @@ Apple
  It wouldn’t be a rumor roundup if we didn’t mention the iPhone Ultra, a long-rumored high-end variant of the iPhone. Rumors about this model first surfaced in 2023, but the device never materialized. A MacRumors [report](https://www.macrumors.com/2023/12/20/ios-18-code-four-new-iphone-models/) that iOS 18 refers only to four iPhone models has quelled speculation that a fifth high-end model could launch in September.
 
  Don’t hold your breath for this one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Speculation and Rumor
 
@@ -185,20 +191,16 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-stream-a-pre-recorded-video-live-on-facebook/"><u>[New] 2024 Approved How to Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/op-ten-lady-gamers-on-youtube-rising/"><u>[New] Top Ten Lady Gamers on YouTube Rising</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-best-in-class-android-storage-in-the-cloud-for-2024/"><u>[Updated] Best-in-Class Android Storage in the Cloud for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/"><u>2024 Approved Unveiling the Secrets to Effective Virtual Meetings with Zoom (Win10)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bring-out-the-best-with-nixplay-iris-and-its-cloud-capability/"><u>Bring Out the Best with Nixplay Iris and Its Cloud Capability</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-artificial-intelligence-slow-down-expansion-in-cybersecurity-careers-zdnet-insights/"><u>Can Artificial Intelligence Slow Down Expansion in Cybersecurity Careers? | ZDNet Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-switch-off-facebook-on-android-quick-tips-and-tricks/"><u>Easily Switch Off Facebook on Android: Quick Tips & Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ready-for-a-conversational-ai-on-your-pc-but-cant-find-it-our-open-source-solution-is-here/"><u>Ready for a Conversational AI on Your PC but Can't Find It? Our Open Source Solution Is Here!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-smart-move-reasons-to-wait-before-upgrading-your-apple-watch/"><u>The Smart Move: Reasons to Wait Before Upgrading Your Apple Watch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-apple-carplay-issues-expert-solutions-and-tips/"><u>Troubleshooting Apple CarPlay Issues: Expert Solutions and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-must-have-ipad-enhancements-for-the-year-2023/"><u>Ultimate Selection: Must-Have iPad Enhancements for the Year 2023</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-premium-iphone-14-skins-and-cases-reviewed/"><u>Ultimate Selection: Premium iPhone 14 Skins & Cases Reviewed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-most-protective-and-stylish-iphone-15-cases/"><u>Ultimate Selection: The Most Protective & Stylish iPhone 15 Cases</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-causes-behind-your-iphone-screen-brightness-fading-solutions-inside/"><u>Understanding the Causes Behind Your iPhone Screen Brightness Fading - Solutions Inside</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-secrets-to-successful-twitpicingvideo-edition-for-2024/"><u>[New] Secrets to Successful Twitpicing—Video Edition for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-quintessential-play-by-radio-stories-for-2024/"><u>[Updated] Quintessential Play-by-Radio Stories for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-strategy-for-twitter-snaps-via-snapchat-uploads/"><u>2023 Strategy for Twitter Snaps via Snapchat Uploads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-visual-transcript-generator/"><u>2024 Approved Visual Transcript Generator</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-reactivating-your-locked-iphone-techniques-for-unlock-and-restore/"><u>Comprehensive Tutorial on Reactivating Your Locked iPhone: Techniques for Unlock and Restore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-hidden-options-mastery-of-lost-control-configurations/"><u>Explore Hidden Options: Mastery of Lost Control Configurations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ins-and-outs-of-apple-musics-auto-queue-system-for-iphones/"><u>The Ins and Outs of Apple Music's Auto-Queue System for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620256136-trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-finding-solutions-for-broken-spotlight-search-functionality-in-ios-1314/"><u>Troubleshooting Tips: Finding Solutions for Broken Spotlight Search Functionality in iOS 13/14</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-the-causes-and-remedies-for-a-non-syncing-fitbit-gadget/"><u>Uncovering the Causes and Remedies for a Non-Syncing Fitbit Gadget</u></a></li>
 </ul></div>
 

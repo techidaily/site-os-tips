@@ -1,7 +1,7 @@
 ---
 title: "Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!"
-date: 2024-10-17T01:45:39.610Z
-updated: 2024-10-24T00:30:52.873Z
+date: 2024-10-26T16:53:11.386Z
+updated: 2024-10-29T22:59:19.625Z
 tags:
   - ios
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539
  Apple Messages seems to get new or improved features with every release of iOS, iPadOS, and macOS. This frequency of additions makes it easy to miss one, so here are several features you might have overlooked.
 
  All features are available when [messaging Apple users with iMessage](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/). Some features are [compatible with other types of devices](https://on-screen-recording.techidaily.com/new-in-2024-10-exceptional-educational-sites-a-look-without-udemy/) like Android phones but may appear or work a bit differently.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Edit Recently Sent Messages
 
@@ -74,23 +81,9 @@ Related: [How to Use Inline Replies in Messages on iPhone and iPad](https://extr
 
 ![Preview Flight and Track Shipment in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PreviewTrack-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll then see either a small pop-up window or a separate window open displaying the status of the flight or package. You can also obtain additional details as available such as departure and arrival times or [a parcel's current location](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-8-with-7-methods-by-drfone-ios/).
 
 ![Flight and package status in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PreviewedTracked-MessagesThingsDidntKnowDo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Replace Words With Emoji
 
@@ -114,11 +107,25 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 
 ![Mention in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Mention-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your recipient sees their name nice and bold to get their attention.
 
  You can control the [notifications for mentions in Messages](https://driver-install.techidaily.com/upgrade-nvidia-gtx-970-performance-on-windows-10/). On iPhone and iPad, go to Settings > Messages and use the Notify Me toggle. On Mac, go to Messages > Settings > General and use the check box for Notify Me When My Name is Mentioned.
 
 Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-capture.techidaily.com/updated-2024-approved-perfect-your-game-with-these-top-7-stardew-valley-modifications/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Handwrite or Sketch a Message
 
@@ -128,33 +135,32 @@ Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-captu
 
 ![Scribble key on the iPhone keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ScribbleKey-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see a blank canvas appear for you to write or draw using your finger (or Apple Pencil on iPad). You can also see recent drawings and suggestions you can pick from along the bottom. Add your message and tap "Done."
 
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll then see your handwriting or sketch in the text message field. Simply send it like any other message.
 
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Filter Messages
@@ -168,10 +174,10 @@ Related: [How to Hide Spam Texts From Unknown Senders on iPhone](https://ios-unl
 ![Filters in Messages on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FiltersiPhone-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Mac, select "View" in the menu bar. Then, choose the filter you want to use to see the results.
@@ -189,13 +195,20 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
 ![Tapback in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Tapback-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For older versions of iOS, iPadOS, or macOS, the recipient sees a text label instead of an icon.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Send Bubble or Screen Effects
 
@@ -204,13 +217,6 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
  On iPhone and iPad, type your message and then tap and hold the Send button. You'll see a screen with tabs at the top for the available Bubble and Screen effects. Select one to preview it and simply tap the Send button for the one you want.
 
 ![Effects in Messages on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EffectsiPhone-MessagesThingsDidntKnowDo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On Mac, type your message, select the capital A icon to the left of the message field, and pick "Message Effects." You'll see all Bubble and Screen effects together on one screen. Select one to see a preview and click the Send button to use it.
 
@@ -237,19 +243,21 @@ Related: [10 Great iPhone Features You Should Be Using](https://some-skills.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram/"><u>[New] 2024 Approved Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-dialing-in-the-ideal-fb-video-ratio-for-every-post/"><u>[Updated] Dialing in the Ideal FB Video Ratio for Every Post</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-go-live-on-tiktok-on-computer/"><u>[Updated] How to Go Live On TikTok On Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-proven-techniques-for-amplifying-tiktok-unboxing-success/"><u>2024 Approved Proven Techniques for Amplifying TikTok Unboxing Success</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-transform-your-channels-views-with-strategic-insights/"><u>2024 Approved Transform Your Channels Views with Strategic Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deploy-low-cost-locally-executed-chatgpt-clone-on-pc/"><u>Deploy Low-Cost, Locally Executed ChatGPT Clone on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-canon-ip110-printer-installation-guide-with-downloadable-drivers-for-various-windows-os-including-7/"><u>Easy Canon iP110 Printer Installation Guide with Downloadable Drivers for Various Windows OS (Including 7)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/neatness-noted-navigating-a-tidier-windowed-explore/"><u>Neatness Noted: Navigating a Tidier Windowed Explore</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secrets-a-step-by-step-guide-to-recovering-your-lost-iphone-backup-passwords-from-icloud-keychain/"><u>Unlock the Secrets: A Step-by-Step Guide to Recovering Your Lost iPhone Backup Passwords From iCloud Keychain</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-iphone-potential-with-google-lens-expert-tips-and-tricks/"><u>Unlocking iPhone Potential with Google Lens: Expert Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-next-big-thing-in-tech-hands-on-with-apples-latest-artificial-intelligence-feature/"><u>Unveiling the Next Big Thing in Tech: Hands-On with Apple's Latest Artificial Intelligence Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-how-governments-could-be-using-push-alerts-as-a-surveillance-tool/"><u>Unveiling the Truth: How Governments Could Be Using Push Alerts as a Surveillance Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-tech-delights-unveiling-the-latest-from-google-and-samsung/"><u>Upcoming Tech Delights: Unveiling the Latest From Google & Samsung</u></a></li>
-<li><a href="https://os-tips.techidaily.com/usb-type-c-connectivity-discover-apples-airpods-pro-latest-upgrade/"><u>USB Type-C Connectivity: Discover Apple's AirPods Pro Latest Upgrade</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-get-your-targus-dock-up-and-running-with-our-driver-software/"><u>[STEP-BY-STEP INSTRUCTIONS] Get Your Targus Dock Up and Running with Our Driver Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-comprehensive-guide-to-laptop-screen-recording-techniques-for-2024/"><u>[Updated] A Comprehensive Guide to Laptop Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-begin-animation-ease-in-transition/"><u>2024 Approved Begin Animation Ease-In Transition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-cross-platform-guide-to-transforming-photographic-genders-online/"><u>2024 Approved Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-prophecy-powers-how-does-chatgpt-stack-up-against-magazine-astrology/"><u>Comparing Prophecy Powers: How Does ChatGPT Stack Up Against Magazine Astrology?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ11/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-resolve-iphone-6s-unresponsive-zoom-issue-top-5-proven-strategies/"><u>Effortless Ways to Resolve iPhone 6'S Unresponsive Zoom Issue: Top 5 Proven Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-location-not-detected-on-iphone-swiftly-and-simply-a-step-by-step-guide/"><u>Fix 'Location Not Detected' On iPhone Swiftly and Simply – A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-11-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme 11 Pro? Try These Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-system-repair-accessing-recovery-modes-across-phones-and-computers/"><u>Mastering System Repair: Accessing Recovery Modes Across Phones and Computers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-remedies-resolving-itunes-error-14-within-minutes-top-10-methods/"><u>Quick & Easy Remedies: Resolving iTunes Error 14 Within Minutes - Top 10 Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-srt-to-text-transformation-a-modern-technique-for-2024/"><u>Seamless SRT-to-Text Transformation A Modern Technique for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-savings-with-our-expert-advice-on-buying-refurbished-iphone-models-online-at-unbeatable-prices/"><u>Secure Your Savings with Our Expert Advice on Buying Refurbished iPhone Models Online at Unbeatable Prices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-causes-of-iphone-voicemail-issues-and-comprehensive-solutions/"><u>Top 10 Causes of iPhone Voicemail Issues and Comprehensive Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-this-article-points-out-the-key-differences-between-after-effects-and-premiere-to-get-a-clearer-understanding-of-what-is-best/"><u>Updated This Article Points Out the Key Differences Between After Effects and Premiere to Get a Clearer Understanding of What Is Best</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-hot-40-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Hot 40 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

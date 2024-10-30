@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Annotate Images with These 5 iPhone Tricks
-date: 2024-10-20T03:17:18.483Z
-updated: 2024-10-23T20:27:40.134Z
+date: 2024-10-28T19:30:51.991Z
+updated: 2024-10-29T17:38:20.486Z
 tags:
   - ios
 categories:
@@ -43,10 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Use the "Add Text" button to add text to an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now drag the text box into place, wherever you want it. Tap (or double-tap) within the text box to edit what the text says and type your message using the on-screen keyboard.
@@ -54,10 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Edit the text box in Markup to add your text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -82,16 +82,16 @@ Tim Brookes / How-To Geek
 
 ![Add images to your canvas in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With your image in place, tap on the “Text Box” button at the bottom of the screen. Drag the text box in place then double-tap inside it to edit your text. Use the text formatting tools above the keyboard to customize the size, color, and alignment of your text.
 
 ![Adjust text and formatting in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -104,6 +104,13 @@ Tim Brookes / How-To Geek
 ![Use a Shortcuts workflow to convert PDF to image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform5.jpg) 
 
  Now open the PDF, hit Share, and tap on the “PDF Page to Image” Shortcut you just made. Your image will be in Photos, where you can crop and trim it as necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Add Text Using Pages
 
@@ -127,16 +134,16 @@ Tim Brookes / How-To Geek
 
 ![Adding text using a text box in Pages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Add more images, diagrams, and whatever else you see fit. Then hit the ellipsis “…” button and choose “Export” followed by “Images” to export as an image. Use the “Save Image” button to add the image to your Photos library.
 
 ![Export a Pages document as an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lastly, find the image and hit “Edit” and then crop out the white space. You can now share your image.
 
@@ -154,28 +161,15 @@ Tim Brookes / How-To Geek
 
 ![Select "Story" and use the media picker in Instagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta1.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap anywhere to add text, then use the formatting tools at the top of the screen to modify alignment, color, background, and spacing.
 
 ![insta2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Adding text to an Instagram story.
@@ -195,10 +189,16 @@ Adding text to an Instagram story.
 ![Opening an image in the Pixlr editor for web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Use the toolbar at the bottom of the screen to select “Text” then select “Add new text” or choose from one of the stylized text tools.
@@ -214,10 +214,10 @@ Adding text to an Instagram story.
 ![Export your Pixlr canvas as a JPEG.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose an image format, size, and quality level, and then use the “Download” button to save the image.
@@ -243,14 +243,21 @@ Adding text to an Instagram story.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-launch-free-youtube-events-a-step-by-step-guide/"><u>[New] 2024 Approved Launch Free Youtube Events A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-channel-your-creativity-convert-youtube-clips-into-dynamic-gifs/"><u>[Updated] In 2024, Channel Your Creativity Convert YouTube Clips Into Dynamic Gifs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-local-air-purity-a-comprehensive-guide-on-monitoring-atmospheres-health/"><u>Discovering Local Air Purity: A Comprehensive Guide on Monitoring Atmosphere's Health</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-and-test-drive-the-newly-released-ios-18-beta-version/"><u>Download and Test Drive the Newly Released iOS 18 Beta Version!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tutorial-ios-print-functionality-explained/"><u>Easy Tutorial: IOS Print Functionality Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-for-monitoring-sleep-quality-with-your-apple-watch/"><u>Effective Strategies for Monitoring Sleep Quality with Your Apple Watch</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-process-requires-an-inert-shielding-gas-like-argon-or-helium-to-protect-the-weld-pool-from-contamination/"><u>The Process Requires an Inert Shielding Gas Like Argon or Helium to Protect the Weld Pool From Contamination.</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-list-of-superior-car-surveillance-cams/"><u>Ultimate List of Superior Car Surveillance Cams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-best-6-apps-for-instagram-reels/"><u>[New] 2024 Approved Best 6 Apps for Instagram Reels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tailor-videos-for-impact-on-instagram-feed-for-2024/"><u>[New] Tailor Videos for Impact on Instagram Feed for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-thumbnail-extraction-from-youtube-on-multiple-platforms/"><u>[Updated] In 2024, Mastering Thumbnail Extraction From Youtube on Multiple Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-solutions-fixing-your-iphones-wi-fi-connection-issues-in-just-7-steps/"><u>Essential Solutions: Fixing Your iPhone's Wi-Fi Connection Issues in Just 7 Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-advantages-of-switching-to-macos-11-big-sur/"><u>Explore the Advantages of Switching to macOS 11 Big Sur</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fenrir/"><u>Fenrir -</u></a></li>
+<li><a href="https://os-tips.techidaily.com/full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-two-premium-nomad-iphone-cases-at-no-extra-cost-bogo-offer-live-on-zdnet/"><u>Get Two Premium Nomad iPhone Cases at No Extra Cost - BOGO Offer Live on ZDNet!</u></a></li>
+<li><a href="https://win-online.techidaily.com/gratuito-conversor-de-fotos-e-videos-3gpp-online-movavi/"><u>Gratuito Conversor De Fotos E Vídeos 3GPP Online - Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-issues-when-whatsapp-messages-fail-to-alert-you/"><u>How to Resolve Issues When WhatsApp Messages Fail to Alert You</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/spherical-videos-on-the-go-iphones-social-media-blueprint/"><u>Spherical Videos on the Go IPhone's Social Media Blueprint</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-portable-power-solutions-the-ultimate-guide-to-laptop-battery-chargers/"><u>Top Portable Power Solutions: The Ultimate Guide to Laptop Battery Chargers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-tones-techniques-in-free-fire-for-2024/"><u>Transforming Tones Techniques in Free Fire for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-the-red-screen-issue-on-iphones-a-step-by-step-guide/"><u>Troubleshooting the Red Screen Issue on iPhones - A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-link-your-apple-device-to-the-television-using-five-different-methods/"><u>Ultimate Guide: Link Your Apple Device to the Television Using Five Different Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-proven-ways-to-fix-iphones-non-functioning-alarm-feature/"><u>Ultimate Guide: Proven Ways to Fix iPhone's Non-Functioning Alarm Feature</u></a></li>
 </ul></div>
 

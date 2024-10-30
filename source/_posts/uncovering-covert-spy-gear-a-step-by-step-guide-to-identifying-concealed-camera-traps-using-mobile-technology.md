@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-10-20T18:13:50.839Z
-updated: 2024-10-23T18:19:38.887Z
+date: 2024-10-26T22:14:19.131Z
+updated: 2024-10-29T21:27:09.338Z
 tags:
   - ios
 categories:
@@ -17,26 +17,12 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 * [How to Scan for Networked Cameras](https://fox-http.techidaily.com/eliminating-blur-taming-shutter-vibration/)
 * [How to Spot Night Vision Cameras](https://facebook-video-share.techidaily.com/new-instant-subscription-monitoring-tools/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use an app like Fing to scan the Wi-Fi network for unknown devices, or devices that identify themselves as cameras.
 * You can use your cellphone's camera to find concealed cameras by looking for infrared lights. Infrared lights typically appear purple, but they may also appear white or blue.
 
  A family recently [discovered](https://arstechnica.com/information-technology/2019/04/airbnb-guest-found-hidden-surveillance-camera-by-scanning-wi-fi-network/) a rude surprise at their Airbnb: a hidden camera disguised as a smoke detector in the living room. Here are two ways to check for cameras—in an Airbnb or elsewhere—using only an iPhone or Android phone.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hidden Cameras Are a Real Danger
 
@@ -62,41 +48,55 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
  If you find any suspicious devices on the network, you'll want to scan for any open ports those devices are using. Tap the back button (or swipe back), tap the "Tools" button, then tap "Find Open Ports." 
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -133,18 +133,24 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-key-smartwatch-opens-your-mac/"><u>[New] Next-Gen Key Smartwatch Opens Your Mac</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-kinemaster-guide-to-seamless-green-screen-implementation/"><u>[Updated] Kinemaster Guide to Seamless Green Screen Implementation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-25-perfect-presents-every-iphone-lover-will-adore/"><u>1. 25 Perfect Presents Every iPhone Lover Will Adore!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-new-gamma-playstation-emulator-now-available-for-ios-in-apples-app-store/"><u>1. New Gamma PlayStation Emulator Now Available for iOS in Apple's App Store!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-preventing-your-airpods-from-voice-activated-scribing-a-comprehensive-guide/"><u>1. Preventing Your AirPods From Voice Activated Scribing: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-steps-to-enable-recovery-mode-on-your-apple-ios-device/"><u>1. Steps to Enable Recovery Mode on Your Apple iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-on-moving-two-factor-authentication-codes-from-one-smartphone-to-another-with-google-authenticator/"><u>A Comprehensive Guide on Moving Two-Factor Authentication Codes From One Smartphone to Another with Google Authenticator.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/addressing-overheating-concerns-in-the-new-iphone-15-pro-by-apple/"><u>Addressing Overheating Concerns in the New iPhone 15 Pro by Apple</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/examining-the-milestones-can-we-beat-the-turing-test-in-machine-learning-evolution/"><u>Examining the Milestones: Can We Beat the Turing Test in Machine Learning Evolution?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-prime-interactive-face-time-festivals/"><u>In 2024, Prime Interactive Face Time Festivals</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-audio-technica-driver-enhancements-a-comprehensive-tutorial/"><u>Mastering Audio-Technica Driver Enhancements - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/restore-accidentally-deleted-documents-and-preserve-original-directory-layout/"><u>Restore Accidentally Deleted Documents and Preserve Original Directory Layout</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-torrenting-websites-leading-options-globally/"><u>Top 10 Torrenting Websites: Leading Options Globally</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-clean-master-substitutes-top-10-picks/"><u>Best Clean Master Substitutes : Top 10 Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/practices-for-secure-youtube-mp4-conversion-for-2024/"><u>Best Practices for Secure YouTube MP4 Conversion for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breeze-through-optimization-mastering-cache-removal-on-your-android-os/"><u>Breeze Through Optimization: Mastering Cache Removal on Your Android OS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-clearing-all-snapchat-messages-and-conversations-from-your-account/"><u>Complete Guide to Clearing All Snapchat Messages and Conversations From Your Account</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-leading-replacements-for-clean-master-ultimate-ranking-of-top-10-alternatives/"><u>Discover the Leading Replacements for Clean Master - Ultimate Ranking of Top 10 Alternatives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/game-on-and-store-more-top-5-ssd-reviews-for-xbox-for-2024/"><u>Game On & Store More Top 5 SSD Reviews for Xbox for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-blaze-2-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Blaze 2 Pro</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-talking-avatar/"><u>New In 2024, What Is Talking Avatar?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-dullness-a-guide-to-colorful-windows-backdrops/"><u>Reversing Dullness: A Guide to Colorful Windows Backdrops</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-v30-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo V30 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-internet-activity-logs-from-androids-popular-browsers-chrome-firefox-opera-dolphin/"><u>Step-by-Step Guide: Removing Internet Activity Logs From Android's Popular Browsers (Chrome, Firefox, Opera, Dolphin)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-computer-equipment/"><u>Tom's Tech Review: Expert Insights on Latest Computer Equipment</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nokia-c22-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nokia C22 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-3-methods-to-correct-invalid-disk-issues-and-secure-your-data/"><u>Ultimate Guide: Top 3 Methods to Correct Invalid Disk Issues & Secure Your Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-uninstalling-applications-from-your-iphone-or-android-device/"><u>Ultimate Guide: Uninstalling Applications From Your iPhone or Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-reformat-your-secured-sd-card-for-use-on-windows-mac-os-android-phones-and-digital-cameras/"><u>Ultimate Tutorial: How To Reformat Your Secured SD Card for Use on Windows, Mac OS, Android Phones and Digital Cameras</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-secured-sd-cards-a-step-by-step-guide-and-data-recovery-techniques/"><u>Unlocking Secured SD Cards: A Step-by-Step Guide & Data Recovery Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-alert-comparing-the-iphone-16-with-its-predecessor-what-enthusiasts-should-know-before-switching/"><u>Upgrade Alert: Comparing the iPhone 16 with Its Predecessor, What Enthusiasts Should Know Before Switching!</u></a></li>
 </ul></div>
 

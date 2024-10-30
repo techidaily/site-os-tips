@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2024-10-16T17:27:05.062Z
-updated: 2024-10-23T16:59:05.264Z
+date: 2024-10-22T20:29:16.330Z
+updated: 2024-10-29T20:19:01.328Z
 tags:
   - ios
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 * [How to Check Which Firmware Your AirPods Are Running](https://facebook-record-videos.techidaily.com/principles-of-filming-inspirational-daily-living-documentaries-for-2024/)
 * [How to Force an AirPods Firmware Update](https://printer-issues.techidaily.com/canon-printer-setup-simplified-with-pictures/)
 * [What About Android Users?](https://some-techniques.techidaily.com/in-2024-highlighted-top-5-minimalist-action-camera-picks/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  However, there are some times you may wish to kick an update off manually. First, let's check which version of software the AirPods are running currently.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Check Which Firmware Your AirPods Are Running
 
  With your AirPods in their Charging Case, open the lid near your iPhone. Dismiss the on-screen battery indicator that appears and then open the Settings app.
@@ -57,31 +57,38 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, tap "About" to progress.
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
 
@@ -94,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -123,24 +123,19 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-accelerating-video-conversion-youtube-to-mpeg-edition/"><u>[New] Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-digital-duet-syncing-videos-for-twitter-and-tumble-for-2024/"><u>[New] Digital Duet Syncing Videos for Twitter and Tumble for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-premium-top-11-list-best-audio-tech-showcase/"><u>2024 Approved Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
-<li><a href="https://fox-links.techidaily.com/avoid-delays-swift-time-lapse-recording-on-iphone-for-2024/"><u>Avoid Delays Swift Time-Lapse Recording on iPhone for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/can-128gb-hold-extensive-video-content-for-2024/"><u>Can 128GB Hold Extensive Video Content for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-videos-with-ease-movavis-complimentary-mpeg-encoding-tool-for-web-use/"><u>Convert Videos with Ease: Movavi's Complimentary MPEG Encoding Tool for Web Use</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-m6-pro-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco M6 Pro 4G Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-microsoft-copilot-a-detailed-installation-guide-for-mac-users/"><u>Mastering Microsoft Copilot: A Detailed Installation Guide for Mac Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/star-studded-dreams-the-quest-for-my-ideal-galaxy-ringer-from-samsung/"><u>Star-Studded Dreams: The Quest for My Ideal Galaxy Ringer From Samsung</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-customizing-your-iphone-lock-screen-with-widgets/"><u>Step-by-Step Guide: Customizing Your iPhone Lock Screen with Widgets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-your-printer-on-macos/"><u>Step-by-Step Guide: Setting Up Your Printer on macOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/switching-to-monochrome-a-comprehensive-guide-on-making-your-iphone-display-grey-scale/"><u>Switching to Monochrome: A Comprehensive Guide on Making Your iPhone Display Grey-Scale</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-16-best-ways-to-say-thank-you-in-german/"><u>The 16 Best Ways to Say Thank You in German</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-eye-opening-reasons-iphones-can-be-mortifying-strategies-for-a-painless-digital-life/"><u>Top 10 Eye-Opening Reasons iPhones Can Be Mortifying: Strategies for a Painless Digital Life</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-for-fixing-iphone-wi-fi-connectivity-issues/"><u>Top Strategies for Fixing iPhone Wi-Fi Connectivity Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-iphone-theft-deterrence-a-deep-dive-into-built-in-security-features/"><u>Understanding iPhone Theft Deterrence: A Deep Dive Into Built-In Security Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-creativity-with-the-reink-case-c1-the-ultimate-choice-in-customizable-color-e-ink-cell-phone-covers/"><u>Unleash Creativity with the ReiNK Case C1 - The Ultimate Choice in Customizable Color E-Ink Cell Phone Covers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-personalization-adding-messages-on-your-iphones-lockscreen/"><u>Unlocking Personalization: Adding Messages on Your iPhone's Lockscreen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/harting-the-course-for-profitable-youtube-videos/"><u>[New] Charting the Course for Profitable Youtube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-7-first-person-shooters-of-the-year-for-2024/"><u>[Updated] Best 7 First-Person Shooters of the Year for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-clan-the-challenge-best-games-similar-to-ghost-of-tsushima/"><u>2024 Approved Clan the Challenge Best Games Similar to Ghost of Tsushima</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-easily-through-trending-youtube-comments/"><u>2024 Approved Navigating Easily Through Trending YouTube Comments</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-audio-driver-on-hidef-bus/"><u>Corrected Audio Driver on HiDef Bus</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-smart-8-hd-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Smart 8 HD Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-a-red-screen-on-your-iphone-expert-tips-and-solutions/"><u>How to Fix a Red Screen on Your iPhone: Expert Tips and Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-unresponsive-apps-essential-solutions-for-ios-and-android-users/"><u>How to Troubleshoot Unresponsive Apps: Essential Solutions for iOS and Android Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-iphone-mailbox-items-expert-tips-and-troubleshooting-steps/"><u>Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-choosing-the-perfect-vpn-for-gamers-on-windows-platforms/"><u>Ultimate Guide: Choosing the Perfect VPN for Gamers on Windows Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
 

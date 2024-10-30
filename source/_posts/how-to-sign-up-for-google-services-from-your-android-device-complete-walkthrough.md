@@ -1,7 +1,7 @@
 ---
 title: How to Sign Up for Google Services From Your Android Device – Complete Walkthrough
-date: 2024-08-18T09:24:34.592Z
-updated: 2024-08-19T09:24:34.592Z
+date: 2024-10-23T00:15:06.408Z
+updated: 2024-10-30T00:09:23.649Z
 tags:
   - fix-android-problems
 categories:
@@ -27,19 +27,18 @@ Fix Cracked Phone Screen
 * [Part 2. How to access Android phone with broken screen](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1\. What to do with cracked phone screen?
 
  If you've got a broken phone screen, first you should assess how bad the damage is. You might be able to live with small cracks that don't block your view too much, but larger cracks should probably be dealt with immediately. For example, if the colors on your screen are abnormal or some pixels are no longer displaying, the damage has gone much further than the glass on top and has affected the LCD panel beneath.
 
  If you cannot live with a broken phone screen and decide to repair it, there are two methods you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1\. DIY: Fix a cracked phone screen at home
 
  The cheapest way to[fix your broken screen phone](https://tools.techidaily.com/) is by yourself at home.
@@ -48,20 +47,27 @@ The powerful video editing program for your Windows PC</a>
 
 ![Fix Broken Screen DIY](https://www.aiseesoft.com/images/article/broken-screen/diy-fix-broken-phone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, not all of us have the skills or time to fix broken phone screen. When you decide to repair screen in this way, you must be aware that you may get your broken screen phone to brick. If you can take that risk, move one…
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2\. Get the mobile provider/phone manufacturer to fix cracked phone screen
 
  If you cracked your phone screen during your manufacturer's warranty period, you should be able to get it fixed for free and within a few hours' time. (Bear in mind, though, that the standard limited warranties of many manufacturers, such as Samsung, do not cover accidents.) Out-of-warranty screen repairs cost upwards of $100.
 
  Otherwise, a quick Internet search should give you a list of phone screen repair stores around your area. Just make sure your phone is protected by a password before you hand it off to a stranger.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to access Android phone with broken screen
 
  The most important thing people care about when phone screen is shattered would be their Android data. It may be easy to replace a new phone, but that can't get you back all the important files. Don't worry, even if you give up the broken screen replacement, there are still methods to help you extract data from the cracked phone.
@@ -78,18 +84,26 @@ Step 2 Select your phone name and model to check if your phone can be fixed in t
 
 ![Select Phone Model](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/select-phone-model.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 Follow the three steps as the interface tells to put your phone into Download mode. After doing that click "Start" to fix your phone.
 
 ![Download Mode](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/enter-download-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 Step 4 After fixing your phone, this program will scan your phone data automatically. Select what data type that you want to access, and click "Recover" to save the data from your broken screen phone to computer.
 
 ![Recover](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/extract-data-from-broken-phone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this article, we mainly talked about some methods to deal with cracked phone screen, and how to access Android phone with a broken screen. Still have more questions about cracked phone screen? Feel free to leave your comments down below.
@@ -129,8 +143,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +150,18 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-perfect-edits-navigating-psxs-eraser-feature/"><u>[Updated] In 2024, Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ai-powered-video-enhancement-optimize-your-videos-and-images-with-advanced-resizing-stabilization-conversion-editing-and-denoising-techniques/"><u>1. AI-Powered Video Enhancement: Optimize Your Videos and Images with Advanced Resizing, Stabilization, Conversion, Editing, and DeNoising Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-the-apple-vision-pro-enhance-your-economy-flight-experience-insights/"><u>Can the Apple Vision Pro Enhance Your Economy Flight Experience? Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-for-moving-your-apple-id-password-onto-an-android-device-methods-and-best-practices/"><u>Comprehensive Tutorial for Moving Your Apple ID Password Onto an Android Device - Methods & Best Practices</u></a></li>
+<li><a href="https://facebook.techidaily.com/facing-hacks-users-invest-in-oculus-q2-costing-300-each/"><u>Facing Hacks? Users Invest in Oculus Q2, Costing $300 Each</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-blocking-access-and-deleting-share-from-your-macs-keychain-safely/"><u>Guide: Blocking Access and Deleting 'Share' From Your Mac's Keychain Safely</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-disable-share-this-feature-with-password-storage-on-your-device/"><u>How to Disable Share This Feature with Password Storage on Your Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-historical-explorations-10-must-see-educational-channels-on-yt/"><u>In 2024, Historical Explorations - 10 Must-See Educational Channels on YT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-best-cartoon-video-maker-software-for-newbies/"><u>New The Ultimate List Best Cartoon Video Maker Software for Newbies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-integration-transferring-your-apple-keychain-passwords-amongst-multiple-devices/"><u>Seamless Integration: Transferring Your Apple Keychain Passwords Amongst Multiple Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/success-guide-resolving-the-iphone-7-x-cannot-restore-backup-issue-efficiently/"><u>Success Guide: Resolving the iPhone 7-X 'Cannot Restore Backup' Issue Efficiently</u></a></li>
+</ul></div>
 

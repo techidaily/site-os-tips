@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Organizing Your Listening Experience with Apple Podcasts and iTunes U for Windows Users - DearMob Tutorial"
-date: 2024-10-17T22:15:59.243Z
-updated: 2024-10-24T04:12:44.949Z
+date: 2024-10-24T17:27:12.810Z
+updated: 2024-10-29T20:47:17.827Z
 tags:
   - iphone-manager
 categories:
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![export podcasts to PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-export-podcast-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 * Get real-time data of your iPhone, iPad or iPod using the Refresh button.
@@ -53,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![add podcasts from pc](https://www.5kplayer.com/user-guide/images/userguide-how/guide-add-podcast-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delete Podcasts from iPhone, iPad, or iPod
@@ -74,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 3\. Hit **Sync** button to synchronize the changes to your iDevices.
 
 ![delete podcasts on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-delete-podcast-pc.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Export iTunes U from iPhone, iPad, or iPod to PC
 
@@ -96,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![Export iTunes U to PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-export-itunes-u-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add iTunes U to iPhone, iPad, or iPod from PC
 
 1\. Go to Podcast > iTunes U from the main interface.
@@ -106,16 +93,23 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![Add iTunes U from PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-add-itunes-u-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-* **Supported input formats**: MP4 H.264, MP4 H.265, MKV, MOV, WMV, AVI, etc.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+* **Supported input formats**: MP4 H.264, MP4 H.265, MKV, MOV, WMV, AVI, etc.
 
 ## Delete iTunes U from iPhone, iPad, or iPod
 
@@ -128,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Delete iTunes U on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-delete-itunes-u-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Frequently Asked Questions
@@ -141,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 You can delete podcast episodes on your iPhone in the Podcasts app by tapping the Remove Download button one by one. And you can also delete all podcasts from your iPhone using DearMob iPhone Manager. Select all the episodes in the Podcast menu of DearMob, then click Delete Podcast to remove them all in bulk.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can I Change the Backup Directory When Exporting Apple Podcasts?
@@ -166,21 +160,21 @@ Yes. You can change the save path by going to Settings from the main interface. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>[New] 2024 Approved Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/chatgpt-not-working-here-are-9-fixes-for-your-iphone-problems/"><u>ChatGPT Not Working? Here Are 9 Fixes for Your iPhone Problems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-and-safe-methods-for-rooting-your-android-with-root-genius-explained/"><u>Easy and Safe Methods for Rooting Your Android with Root Genius Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/find-and-track-lost-android-devices-with-android-device-manager/"><u>Find & Track Lost Android Devices with Android Device Manager</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-issue/"><u>Fixing the Missing Touchpad Driver Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-mordhau-game-crash-problem-step-by-step-guide/"><u>Fixing the Mordhau Game Crash Problem: Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-an-lg-k51-stylo-67-solutions-with-and-without-computer-assistance/"><u>How to Fix an LG K51, Stylo 6/7: Solutions with and without Computer Assistance</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/mastering-tamper-protection-on-windows-n-tech-tips-and-tricks-by-experts-at-malwarefox/"><u>Mastering Tamper Protection on Windows N-Tech: Tips & Tricks by Experts at MalwareFox</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcome-video-problems-on-android-proven-methods-and-expert-tips/"><u>Overcome Video Problems on Android: Proven Methods and Expert Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620245306-protect-your-precious-photos-and-contacts-mend-shattered-phone-screens-with-ease/"><u>Protect Your Precious Photos & Contacts: Mend Shattered Phone Screens with Ease!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722143239568-redefine-mobile-browsing-bings-intelligent-search-now-available/"><u>Redefine Mobile Browsing - Bing's Intelligent Search Now Available.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-a-frozen-android-phone-with-our-step-by-step-data-retrieval-solution-for-corrupted-devices/"><u>Revive a Frozen Android Phone with Our Step-by-Step Data Retrieval Solution for Corrupted Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-oculus-quest-2-assessment-affordable-exceptional-virtual-reality-experience/"><u>Top Oculus Quest 2 Assessment: Affordable, Exceptional Virtual Reality Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/toppest-ios-video-capture-aids/"><u>Toppest iOS Video Capture Aids</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620245369-troubleshoot-your-message-send-failures-fast-solutions-for-persistent-issues/"><u>Troubleshoot Your Message Send Failures: Fast Solutions for Persistent Issues!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-fives-finest-time-lapse-capture-apps-reviewed/"><u>[New] Five's Finest Time-Lapse Capture Apps Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-iphone-video-shortening-and-altering-size/"><u>[New] Perfecting Your iPhone Video Shortening and Altering Size</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[Updated] 2024 Approved Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-infusing-instant-storytelling-with-musical-essence/"><u>[Updated] Infusing Instant Storytelling With Musical Essence</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-youtubes-financial-blueprint-for-short-form-video-success/"><u>2024 Approved Exploring YouTube's Financial Blueprint for Short-Form Video Success</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-latest-steal-the-just-released-11-inch-ipad-pro-now-at-all-time-low-price-and-bundled-deals-await/"><u>Apple's Latest Steal: The Just-Released 11-Inch iPad Pro Now at All-Time Low Price and Bundled Deals Await!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/budget-friendly-popsockets-for-iphones-featuring-integrated-magsafe-payment-storage-solutions/"><u>Budget-Friendly PopSockets for iPhones Featuring Integrated MagSafe Payment Storage Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/choosing-the-ultimate-ai-sidekick-comparing-everyday-efficiency-of-claude-and-chatgpt-apps/"><u>Choosing the Ultimate AI Sidekick: Comparing Everyday Efficiency of Claude and ChatGPT Apps!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-mkv-a-mp4-sin-perdida-el-metodo-mas-eficiente-para-una-transferencia-perfecta/"><u>Conversión MKV a MP4 Sin Pérdida - El Método Más Eficiente Para Una Transferencia Perfecta</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-iphones-magsafe-functionality-and-benefits-unveiled/"><u>Decoding iPhone's MagSafe: Functionality & Benefits Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-iphones-audio-experience-top-10-tips-for-better-call-quality/"><u>Enhance Your iPhone's Audio Experience: Top 10 Tips for Better Call Quality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-productivity-vivaldi-browser-updates-bring-new-features-to-iphones-including-tab-pinning-and-quick-search-capabilities/"><u>Enhancing Productivity: Vivaldi Browser Updates Bring New Features to iPhones, Including Tab Pinning & Quick Search Capabilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eu-customers-can-enjoy-the-full-altstore-experience-with-newly-provided-complimentary-access-to-pal-region-software/"><u>EU Customers Can Enjoy the Full AltStore Experience with Newly Provided Complimentary Access to PAL Region Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-streamline-your-site-including-youtube-playlists-directly/"><u>In 2024, Streamline Your Site Including YouTube Playlists Directly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 15 Pro</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/installazione-ottimale-di-windows-11-su-disco-fisso-nove-passo-dopo-passo/"><u>Installazione Ottimale Di Windows 11 Su Disco Fisso Nove - Passo Dopo Passo</u></a></li>
 </ul></div>
 

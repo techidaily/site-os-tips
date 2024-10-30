@@ -1,7 +1,7 @@
 ---
 title: Top Lockscreen Widget Applications for Enhanced iPhone & iPad Experience
-date: 2024-10-21T18:48:45.568Z
-updated: 2024-10-23T17:24:25.663Z
+date: 2024-10-28T16:10:03.499Z
+updated: 2024-10-29T20:07:53.410Z
 tags:
   - ios
 categories:
@@ -31,48 +31,35 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Temperature and Precipication Weather Lock Screen widgets on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/best-lock-screen-widgets-for-iphones-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Knowing the weather conditions before stepping outside can help you prepare and dress accordingly. Apple's Weather app has eight widgets that give you all the weather-related information you need on the Lock Screen.
 
  Among these, Temperature and Precipitation are two of the most handy widgets that you can add to the Lock Screen of your iPhone. Available as circular widgets, these widgets give you the current temperature and forecast the chances of rain, snow, or hail at your place, respectively.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  World Clock 
 
 ![World Clock widget on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/best-lock-screen-widgets-for-iphones-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Apple's Clock app has a World Clock widget that shows you the current time in multiple cities. If you live away from family in another city or have clients or teammates from other parts of the world, this widget can be a lifesaver and save you the embarrassment of texting or calling them at ungodly hours.
 
  With the World Clock widget, you can see the time for three cities at once on your Lock Screen. You can edit the widget to choose what these cities are and also change their order in the widget.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  Battery Status 
 
 ![Two sizes of the Battery widget on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/best-lock-screen-widgets-for-iphones-4.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use AirPods or other wireless accessories with your iPhone, you'll want to check their battery levels from time to time to know when you need to charge them. The Battery widget puts this information right on your iPhone's Lock Screen.
 
@@ -90,29 +77,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tasks TickTick widget on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/best-lock-screen-widgets-for-iphones-6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [TickTick](http://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601) is my favorite [to-do list app on the iPhone](https://win-answers.techidaily.com/1723010594871-overcoming-launching-problems-in-rainbow-six-siege-fixed/). Aside from being easy to use and packing all the essential task-management features in its free plan, what I also like about TickTick is its collection of Lock Screen widgets.
 
  Tasks, in particular, is an excellent TickTick widget that shows your tasks for the day on your iPhone's Lock Screen, so you never miss them. But that's not all; the widget also shows checkboxes beside each task, which you can tap upon completing a task to check it off the list without going into the app.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Google Search 
 
 ![Three kinds of Google Search widgets on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/best-lock-screen-widgets-for-iphones-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you use Google Search a lot, you should consider adding the Google Search widget to your iPhone's Lock Screen. Once added, tapping the widget will open Google Search in the [Google](http://apps.apple.com/us/app/google/id284815942) app, where you can start typing your query. Alternatively, you can add the Voice Search widget to your Lock Screen if you prefer searching for things using your voice and the Google's Lens widget to perform visual searches.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7  Perplexity AI 
 
@@ -122,13 +109,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The widgets take you straight into the Perplexity app on your device, where you can type or speak your queries based on the widget you've added to get answers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8  Activity Rings 
 
 ![Two sizes of the Activity widget on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/best-lock-screen-widgets-for-iphones-9.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have an active lifestyle or are working toward one, keeping the [Activity Ring](https://screen-sharing-recording.techidaily.com/updated-the-quick-start-method-for-combining-obs-and-zoom/) widget on the Lock Screen of your iPhone will help you track your daily progress. Depending on how versed you are with the Activity Rings, you can either add a small, circular widget or a detailed one that shows the metrics next to numbers.
 
  With both widgets, you can see information like how much you've moved, how long you've exercised, and the number of times you've stood up in a day. You can modify these according to your health goals [using the Fitness app added in iOS 16](https://driver-download.techidaily.com/latest-canon-eos-d530-firmware-upgrade-get-the-new-driver/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9  Launcher 
 
@@ -144,29 +158,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Shortcuts widget on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/best-lock-screen-widgets-for-iphones-10.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) is another app that has a powerful Lock Screen widget for the iPhone. It lets you put your favorite and most-used shortcuts from [your iPhone Shortcuts library](https://fox-links.techidaily.com/2024-approved-a-step-by-step-manual-to-freeze-backgrounds-in-affinity-photo/) right on your Lock Screen.
 
  You can use this, for example, to turn off Wi-Fi or Bluetooth from the Lock Screen. Or to add a shortcut to capture notes in the Apple Notes app. I use Shortcuts to put my preferred payments app on my Lock Screen. This way, I can quickly scan the recipient's QR code and make the payment without going into the app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11  Add Widgets to Your iPhone's Lock Screen Wisely 
 
@@ -189,24 +183,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-journey-to-the-heart-of-windows-11s-newest-gems/"><u>[New] 2024 Approved Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-free-limit-breakers-for-every-story-lover/"><u>[New] In 2024, Free Limit Breakers for Every Story Lover</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-noise-free-videography-utilizing-free-tools-or-purchasing/"><u>[New] Noise-Free Videography Utilizing Free Tools or Purchasing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>[Updated] 2024 Approved PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-15-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 15 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-q-safe-message-encryption-defends-against-future-quantum-hacking/"><u>Apple's Q-Safe Message Encryption Defends Against Future Quantum Hacking</u></a></li>
-<li><a href="https://os-tips.techidaily.com/beat-the-rush-grab-amazing-offers-now-on-updf-editor-and-apple-watch-series-8/"><u>Beat the Rush: Grab Amazing Offers Now on UPDF Editor & Apple Watch Series 8!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-productivity-belkins-revolutionary-new-200w-usb-c-charger-supports-up-to-four-devices-at-once/"><u>Boost Your Productivity: Belkin’s Revolutionary New 200W USB-C Charger Supports Up to Four Devices at Once</u></a></li>
-<li><a href="https://os-tips.techidaily.com/budget-friendly-smartphones-below-1k-with-top-performance-features/"><u>Budget-Friendly Smartphones Below $1K with Top Performance Features!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/certain-apple-watch-variants-now-lack-blood-oxygen-monitoring-functionality/"><u>Certain Apple Watch Variants Now Lack Blood Oxygen Monitoring Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-cash-app-upgrades-offer-parallel-benefits-to-apple-cards-robust-savings-options/"><u>Discover How Cash App Upgrades Offer Parallel Benefits to Apple Card's Robust Savings Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/embrace-modern-playfulness-why-i-prefer-iphone-games-over-classic-consoles/"><u>Embrace Modern Playfulness: Why I Prefer iPhone Games Over Classic Consoles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-apple-watch-experience-with-chatgpt-setup-tips-and-tricks/"><u>Enhance Your Apple Watch Experience with ChatGPT – Setup Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-google-drives-new-design-for-mobile-devices-unveiled/"><u>Enhanced User Experience: Google Drive's New Design for Mobile Devices Unveiled</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gaming-beyond-reality-top-5-psvr-games-on-the-approach/"><u>In 2024, Gaming Beyond Reality Top 5 PSVR Games on the Approach</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-naming-your-podcast-a-complete-guide-plus-list-of-over-50-creative-ideas/"><u>In 2024, Naming Your Podcast A Complete Guide + List of Over 50 Creative Ideas</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-video-data-in-high-capacity-drives-64128gb-for-2024/"><u>Navigating Video Data in High-Capacity Drives (64/128GB) for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-accessories-for-beneath-water-shooting-for-2024/"><u>Top 5 Accessories for Beneath Water Shooting for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-magix-vpx-a-comprehensive-analysis/"><u>Unveiling Magix VPX A Comprehensive Analysis</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/extraviaste-todos-tus-documentos-por-error-rapida-recuperacion-para-tu-pacote-perdido/"><u>¿Extraviaste Todos Tus Documentos Por Error? Rápida Recuperación Para Tu Pacote Perdido!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevating-imagery-detailed-analysis-of-mavic-pro/"><u>[New] 2024 Approved Elevating Imagery - Detailed Analysis of Mavic Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nsight-into-highlighted-video-discussion-threads-for-2024/"><u>[New] Insight Into Highlighted Video Discussion Threads for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pinnacle-color-balance-pro/"><u>[New] Pinnacle Color Balance Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-apeaksoft-scrutiny-mastering-the-art-of-screen-capture-review/"><u>[Updated] In 2024, Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-brand-with-these-10-keywords-on-facebook/"><u>2024 Approved Elevate Your Brand with These 10 Keywords on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/birds-bamboo-boogie/"><u>Birds Bamboo Boogie</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-how-to-safely-downgrade-your-iphones-operating-system/"><u>Comprehensive Tutorial: How To Safely Downgrade Your iPhone's Operating System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-to-activate-and-configure-iphone-voice-mail-for-models-ios-18-17-and-earlier/"><u>Easy Steps to Activate and Configure iPhone Voice Mail for Models iOS 18, 17, & Earlier</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-charging-fails-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Charging Fails: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-sideloading-function-on-ios-devices/"><u>How Does Sideloading Function on iOS Devices?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-play-8t-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor Play 8T</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-data-saving-heroes-ranking-8-recovery-solutions/"><u>Mac's Data Saving Heroes: Ranking 8 Recovery Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-factory-restore-instructions-for-all-iphones-from-model-4-through-15/"><u>Step-by-Step Factory Restore Instructions for All iPhones From Model 4 Through 15</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-displaying-an-ipad-screen-on-windows-10-11-8-or-7-computers/"><u>Step-by-Step Instructions for Displaying an iPad Screen on Windows 10, 11, 8 or 7 Computers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276316-the-ultimate-list-of-no-cost-sms-services-sendreceive-messages-using-any-device/"><u>The Ultimate List of No-Cost SMS Services: Send/Receive Messages Using Any Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-tips-how-to-resolve-iphone-alarm-issues/"><u>Ultimate Troubleshooting Tips: How to Resolve iPhone Alarm Issues</u></a></li>
 </ul></div>
 

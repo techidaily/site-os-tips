@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Error 4504 on Android: Steps to Recover Missing Messages Quickly"
-date: 2024-08-18T09:25:58.927Z
-updated: 2024-08-19T09:25:58.927Z
+date: 2024-10-25T01:21:44.814Z
+updated: 2024-10-30T00:06:25.902Z
 tags:
   - fix-android-problems
 categories:
@@ -26,18 +26,26 @@ _My phone won't turn on? How to fix it?_
 * [Part 5. Best way to fix your phone that won't turn on](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1\. Charge your Android phone for a few minutes
 
  There is no simply way to directly determine what the cause really is. Nor is there an ultimate solution to fix "my phone won't turn on'' issue. When your Android phone refuses to turn on, it is most likely an accessory or hardware issue. So you should first make sure if there is a battery or charger problem.
 
 ![Charge Android to Fix My Phone that Won't Turn On](https://www.aiseesoft.com/images/ios-system-recovery/charge-android.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  When your Android phone's batter is running out of power, you' ll get an "Low Power" or "Empty Battery" indicator on the screen when you attempt to turn it on. If the batter is dead completely, you have no chance to turn on the Android phone. To fix the issue, just plug your Android phone into a wall charger to charge it. You should not turn on your Android phone immediately when charge the device, getting it charged for a few minutes. Then come back and try to turn on your Android phone with pressing the Power button. If it doesn't work at all, try charging the Androidd phone with a different cable and charger. The charger or cable you used might be broken.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Check the battery and turn on your phone
 
@@ -46,6 +54,13 @@ _My phone won't turn on? How to fix it?_
  Like other operating systems, Android OS can also be get a hard-freeze and refuse to turn on sometimes. If[Android gets completely frozen](https://tools.techidaily.com/) , it is difficult for you to turn on Android phone as the operating system seems dead and not responding regardless of which button you press. Try pulling out the battery and then reboot the Android phone. On a phone with a removable battery, you can directly pull out the battery, wait about 10-15 seconds, and then plug in the battery back in and reboot the phone.
 
  For those phone whose batteries cannot be removed, you'll have to long-press the Power button. Press your device's Power button and hold it down for 10 seconds. The time may be longer.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Perform a hard reset to turn on your phone
 
@@ -64,10 +79,6 @@ Step 3 Choose**wipe data/factory reset** . You can use Volume button to scroll a
 Step 4 Select**Yes - delete all user data** option.
 
 ![Yes - delete all user data](https://www.aiseesoft.com/images/ios-system-recovery/delete-all-user-data.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 Step 5 Press**Power** button to enter**Reboot system now** .
 
@@ -83,9 +94,6 @@ Step 5 Press**Power** button to enter**Reboot system now** .
 
 ► Hold Volume Up + Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4\. Enter recovery mode to turn on your phone
 
  You can also put your Android phone into[recovery mode](https://tools.techidaily.com/) to fix the "my phone won't turn on'' issue. To boot your phone in recovery, you can follow these steps:
@@ -122,9 +130,6 @@ Step 1 Launch Broken Phone Data Recovery
  Download, install and run this powerful**Broken Android Data Extraction** on your computer. Connect your phone to it with USB cable. To fix the broken Android hardware, you here choose the right**Start** button.
 
 ![Broken Android Data Recovery Interface](https://www.aiseesoft.com/images/broken-android-data-recovery/broken-android-recovery-interface.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 Step 2 Select the issue you encounter
 
@@ -132,14 +137,18 @@ Step 2 Select the issue you encounter
 
 ![Broken Android Issues](https://www.aiseesoft.com/images/broken-android-data-recovery/broken-android-issue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 Choose the Android model
 
  You now need to choose the phone model. Enter the**Device Name** and**Device Model** . Currently, the program highly supports Samsung Galaxy phones and tablets. Click**Confirm** button.
 
 ![Device Information](https://www.aiseesoft.com/images/broken-android-data-recovery/device-information.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 4 Download firmware and fix Android phone that won't turn on
 
@@ -150,8 +159,12 @@ Step 4 Download firmware and fix Android phone that won't turn on
 You can learn the steps from the video below:
 
 ![Fix Password Forgotten Android Phone](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this post, we mainly talk about how to fix**my phone won't turn on** problem. If you are facing the issue, you can use the recommended methods to boot your phone. Hope you can easily solve the problem after reading this post.
@@ -187,8 +200,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +207,24 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-best-practices-for-creating-compelling-hash-tags-on-facebook/"><u>[New] 2024 Approved Best Practices for Creating Compelling Hash Tags on Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-high-resolution-blu-ray-delight-top-3d-player-selections/"><u>[New] High-Resolution Blu-Ray Delight Top 3D Player Selections</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-streamline-your-path-to-youtubes-srt-files/"><u>[New] In 2024, Streamline Your Path to YouTube's SRT Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-streaming-experience-six-insightful-quizzes-for-fandom-enthusiasts-for-2024/"><u>[Updated] Elevate Your Streaming Experience Six Insightful Quizzes for Fandom Enthusiasts for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-easy-guide-setting-up-automated-texts-on-your-ios-device/"><u>1. Easy Guide: Setting Up Automated Texts on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/3-key-features-i-hope-apple-enables-for-utilizing-my-personalized-ai-avatars-speech/"><u>3 Key Features I Hope Apple Enables for Utilizing My Personalized AI Avatar's Speech</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/approach-recall-the-standard-curing-period-from-the-facts-provided/"><u>Approach: Recall the Standard Curing Period From the Facts Provided.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-a-brand-building-income-youtube-edition/"><u>Building a Brand, Building Income YouTube Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-your-fortnite-investment-with-sony-ps5/"><u>Expanding Your Fortnite Investment with Sony PS5</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-your-iphone-into-a-bluetooth-microphone-for-your-mac-computers/"><u>Transforming Your iPhone Into a Bluetooth Microphone for Your Mac Computers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-icloud-plus-by-apple-a-comprehensive-guide/"><u>Understanding iCloud Plus by Apple: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-advanced-taskbar-functions-with-end-task-in-windows-11/"><u>Unlocking Advanced Taskbar Functions with End Task in Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-comfort-discover-the-new-ios-18-feature-that-eases-motion-sickness-on-your-device/"><u>Unlocking Comfort: Discover the New iOS 18 Feature That Eases Motion Sickness on Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-hidden-functions-10-amazing-tricks-within-apple-imessage-app/"><u>Unveiling Hidden Functions: 10 Amazing Tricks Within Apple iMessage App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-enhanced-features-why-the-apple-pencil-pro-is-a-major-leap-forward/"><u>Unveiling the Enhanced Features: Why the Apple Pencil Pro Is a Major Leap Forward</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-ios-18-has-me-thrilled-a-perspective-from-a-dedicated-android-lover/"><u>Why iOS 18 Has Me Thrilled: A Perspective From a Dedicated Android Lover</u></a></li>
+</ul></div>
 

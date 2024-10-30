@@ -1,7 +1,7 @@
 ---
 title: "Essential DearMob Mac Security: The Ultimate User Manual"
-date: 2024-10-20T04:13:46.582Z
-updated: 2024-10-23T21:00:30.091Z
+date: 2024-10-26T01:29:35.132Z
+updated: 2024-10-30T00:03:09.789Z
 tags:
   - iphone-manager
 categories:
@@ -22,13 +22,6 @@ One way to protect iDevice backup is using iTunes. This time it won't be that co
 
 By using [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) for Mac, you can encrypt photos, videos and contacts exported from iDevices at military grade; password protect local photos and videos on Mac; decrypt files with DearMob encryption anytime you want to.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Encrypt Photos and Videos with Password on Mac
 
 DearMob allows you to,  
@@ -40,30 +33,36 @@ DearMob allows you to,
 
 ![Add file for encryption on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-mac.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Click **Encrypt Now** and the **Settings** window would pop up.  
  4\. Check the box "I've already know...", enter your new password, and then click OK.
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * You can apply the same passwords to Photo, Video and Contact encryption.
 * Create your password with numbers, uppercase letter and lowercase letter.
 * The **Setting** window would pop out for you to set password for encryption, if you didn't set it before.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Decrypt Files Encrypted by DearMob on Mac
 
@@ -72,13 +71,20 @@ DearMob allows you to,
 
 ![Decrypt files on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-mac.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * DearMob only decrypts files that were enciphered by DearMob iPhone Manager itself.
@@ -107,18 +113,17 @@ DearMob allows you to,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-understanding-instagrams-video-limit-policy/"><u>[Updated] 2024 Approved Understanding Instagram's Video Limit Policy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts/"><u>2024 Approved Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-to-finding-a-devices-position-tools-for-android-and-apple-devices/"><u>Comprehensive Guide to Finding a Device's Position: Tools for Android and Apple Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-faded-screen-settings-in-uefi/"><u>Restoring Faded Screen Settings in UEFI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-viewing-how-to-mirror-apple-tvplus-content-on-a-chromecast-device/"><u>Seamless Viewing: How to Mirror Apple TV+ Content on a Chromecast Device</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/securely-erase-every-bit-of-information-on-your-iphone-with-these-10-software-picks/"><u>Securely Erase Every Bit of Information on Your iPhone with These 10 Software Picks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-removing-a-google-account-from-your-smartphone-securely/"><u>Simple Steps: Removing a Google Account From Your Smartphone Securely</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simplified-mobile-experience-operating-android-directly-from-your-desktop-no-jailbreaking-needed/"><u>Simplified Mobile Experience: Operating Android Directly From Your Desktop, No Jailbreaking Needed!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-smart-shoppers-guide-to-camcorder-choices-in-winter/"><u>The Smart Shopper's Guide to Camcorder Choices in Winter</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-2024-step-by-step-tutorial-for-effective-instagram-post-sharing-techniques/"><u>The Ultimate 2024 Step-by-Step Tutorial for Effective Instagram Post Sharing Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-android-password-security-software-keeping-your-credentials-safe-and-organized/"><u>The Ultimate List of Android Password Security Software: Keeping Your Credentials Safe and Organized</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-7-powerful-emulators-to-install-android-and-ios-applications-on-your-windows-or-mac/"><u>Top 7 Powerful Emulators to Install Android and iOS Applications on Your Windows or Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-functionality-and-purpose-of-a-dvr-digital-video-recorder/"><u>Unveiling the Functionality and Purpose of a DVR (Digital Video Recorder)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-exclusive-movies-behind-the-best-chart/"><u>[New] 2024 Approved Exclusive Movies Behind the Best Chart</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-chucklecraft-constructor-for-2024/"><u>[New] ChuckleCraft Constructor for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-higher-rankings-essential-tips-to-elevate-your-yt-content/"><u>[New] Unlock Higher Rankings Essential Tips to Elevate Your YT Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/8-proven-strategies-to-resolve-windows-11s-code-0x80f0922-update-issue/"><u>8 Proven Strategies to Resolve Windows 11'S Code 0X80ˈFː09:22 Update Issue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/breaking-down-barriers-with-shared-youtube-curations/"><u>Breaking Down Barriers with Shared YouTube Curations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-lifespan-of-eco-friendly-tech-our-compostable-iphone-cases-journey-over-half-a-year/"><u>Exploring the Lifespan of Eco-Friendly Tech: Our Compostable iPhone Case's Journey Over Half a Year</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-your-belkins-magsafe-compatible-iphone-holder-today-special-price-just-23/"><u>Get Your Belkin's MagSafe-Compatible iPhone Holder Today - Special Price: Just $23!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/integrating-chatgpt-into-your-apple-watch-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-screen-time-feature-malfunction-upcoming-repair-by-apple/"><u>IPhone Screen Time Feature Malfunction: Upcoming Repair by Apple</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209567877-puerto-rico/"><u>Puerto Rico</u></a></li>
 </ul></div>
 

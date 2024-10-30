@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2024-10-22T18:59:49.441Z
-updated: 2024-10-24T04:59:05.898Z
+date: 2024-10-26T19:31:32.813Z
+updated: 2024-10-29T19:06:45.825Z
 tags:
   - ios
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  User ratings and reviews help developers improve their apps but nagging users with in-app pop-ups asking for reviews or ratings isn't acceptable. Thankfully, Apple lets you turn off these pesky rating and review requests on your iPhone and Mac. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad
 
  If you're fed up with apps on your iPhone or iPad popping up rating and review requests every time you use them, you can turn off the in-app requests from the Settings app to settle this once and for all.
@@ -26,22 +33,22 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![iPhone Settings app with App Store highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down to locate the "In-App Ratings & Reviews" option. Then, flip the toggle switch next to it off.
 
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
@@ -52,28 +59,15 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![Accessing App Store Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-3-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "Settings" window, uncheck the checkbox next to "In-App Ratings & Reviews."
 
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -95,24 +89,24 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-advanced-vr-tech-for-drone-enthusiasts/"><u>[New] Advanced VR Tech for Drone Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-top-freefire-streams-and-strategies-on-youtube/"><u>[New] Ultimate Guide Top FreeFire Streams & Strategies on YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-fullscreen-footage-screen-recording-made-simple-for-mac-users/"><u>[Updated] Unlocking Fullscreen Footage Screen Recording Made Simple for Mac Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-content-conversion-top-5-online-gif-to-video-hubs/"><u>2024 Approved Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-5-methods-to-resolve-stalled-whatsapp-backups-on-android-devices/"><u>Best 5 Methods to Resolve Stalled WhatsApp Backups on Android Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-disk-defragmenters-in-july-2024-a-comprehensive-guide/"><u>Best Free Disk Defragmenters in July 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-transfer-every-image-from-google-photos-across-devices-and-platforms/"><u>Complete Guide: How to Transfer Every Image From Google Photos Across Devices & Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/direct-links-download-epson-gt-s50-printer-software-for-win7-win8-and-win10/"><u>Direct Links: Download Epson GT-S50 Printer Software for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620202417-effortlessly-upload-photos-from-your-android-device-to-computer-or-google-photos-detailed-instructions-inside/"><u>Effortlessly Upload Photos From Your Android Device to Computer or Google Photos - Detailed Instructions Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-f23-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo F23 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-infinix-zero-30-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Infinix Zero 30 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-sync-disabling-auto-ringtone-on-other-devices/"><u>IPhone & iPad Sync: Disabling Auto-Ringtone on Other Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/outstanding-graphic-revisions-for-2024/"><u>Outstanding Graphic Revisions for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-transfer-of-android-images-a-step-by-step-guide-to-syncing-your-phone-pics-with-a-pc-or-google-photos/"><u>Seamless Transfer of Android Images: A Step-by-Step Guide to Syncing Your Phone Pics with a PC or Google Photos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-effortlessly-sync-your-android-photos-with-google-drive-or-pc/"><u>Simple Steps: Effortlessly Sync Your Android Photos with Google Drive or PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-safeguarding-your-conversations-by-backing-up-texts-from-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Safeguarding Your Conversations by Backing Up Texts From Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-saving-android-text-chats-onto-your-desktop-system/"><u>Step-by-Step Tutorial on Saving Android Text Chats Onto Your Desktop System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-5-fixes-for-paused-whatsapp-backup-issues-on-android-phones/"><u>Ultimate Guide: Top 5 Fixes for Paused WhatsApp Backup Issues on Android Phones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>[New] In 2024, Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-intuitive-methods-documenting-your-google-voice-chats/"><u>[New] In 2024, Intuitive Methods Documenting Your Google Voice Chats</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mooth-transition-from-phones-to-youtube-setting-up-personalbusiness-channels/"><u>[New] Smooth Transition From Phones to YouTube Setting Up Personal/Business Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-top-10-viral-tiktoks-uncovered/"><u>[Updated] 2024 Approved Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-creative-command-center-studio-for-youtubers-for-2024/"><u>[Updated] Creative Command Center Studio for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-innovative-ways-to-capture-authenticity-in-customer-reviews/"><u>[Updated] Innovative Ways to Capture Authenticity in Customer Reviews</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-next-gen-vision-top-10-cameras-of-the-year-2024/"><u>[Updated] Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-roundup-affordable-high-quality-live-streaming-services/"><u>In 2024, Exclusive Roundup Affordable, High-Quality Live Streaming Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029134181-iphone/"><u>IPhone用最高のオーディオ抜き取りアプリ：動画からクリーンな音声に変えて🎧</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-output-in-your-mute-laptop-expert-strategies-and-tips/"><u>Reviving Audio Output in Your Mute Laptop – Expert Strategies and Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-complete-guide-to-mood-tracking-on-apple-health-platform/"><u>The Complete Guide to Mood Tracking on Apple Health Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-creating-and-sharing-playlists-with-friends-on-apple-music/"><u>The Ultimate Tutorial: Creating and Sharing Playlists with Friends on Apple Music</u></a></li>
+<li><a href="https://os-tips.techidaily.com/thinking-of-upgrading-your-tech-game-the-ipad-mini-should-be-top-contender/"><u>Thinking of Upgrading Your Tech Game? The iPad Mini Should Be Top Contender</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ios-meteorological-applications-optimal-choices-for-iphone-users/"><u>Top-Rated iOS Meteorological Applications: Optimal Choices for iPhone Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-ipad-case-options-your-2023-tech-accessory-essentials/"><u>Ultimate Selection of iPad Case Options - Your 2023 Tech Accessory Essentials</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-airplay-technology-a-comprehensive-guide/"><u>Understanding AirPlay Technology: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-innovations-in-qi-version-2-wireless-charging-systems/"><u>Understanding the Innovations in Qi Version 2 Wireless Charging Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-of-apple-books-top-1nformation-and-strategies-for-better-reading/"><u>Unlock the Full Potential of Apple Books: Top 1Nformation and Strategies for Better Reading</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-phones-hidden-potential-with-live-photo-screen-magic-the-ultimate-underrated-ios-treat/"><u>Unlock Your Phone's Hidden Potential with Live Photo Screen Magic: The Ultimate Underrated iOS Treat</u></a></li>
 </ul></div>
 

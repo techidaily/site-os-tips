@@ -1,7 +1,7 @@
 ---
 title: Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
-date: 2024-10-17T17:32:20.759Z
-updated: 2024-10-24T01:18:34.718Z
+date: 2024-10-26T01:05:07.769Z
+updated: 2024-10-29T17:19:32.991Z
 tags:
   - ios
 categories:
@@ -19,16 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Apple products are extremely prevalent in TV shows and movies, but the company doesn't pay for product placement. Apple is more than happy to provide MacBooks, iPads, and iPhones to studios, but there's one unique stipulation.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Does Product Placement Work?
@@ -40,10 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  According to [Bloomberg](https://www.bloomberg.com/news/articles/2012-05-10/apple-the-other-cult-in-hollywood), Apple does not pay for product placement, at least not with money. Instead, it provides its devices to studios for free as props. Apple even [provided Modern Family](https://www.hollywoodreporter.com/tv/tv-news/modern-family-creator-explains-ipad-53367/) with the first iPad before it was available. It appeared in an episode two days before people could buy it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple's Product Placement Rules
@@ -77,16 +71,20 @@ Related: [Why Do TV Shows and Movies Cover Up Logos?](https://driver-download.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-innovative-tech-discovering-the-top-9-microphone-recorders-online/"><u>[New] 2024 Approved Innovative Tech Discovering the Top 9 Microphone Recorders Online</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-initiate-into-a-tiktok-live-with-ease/"><u>[New] In 2024, Initiate Into a TikTok Live with Ease</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-using-youtube-on-iosandroid-devices/"><u>[Updated] The Ultimate Guide to Using YouTube on iOS/Android Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oneplus-ace-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For OnePlus Ace 2 by Name | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-service-interruptions-lead-to-iphone-application-failures/"><u>Apple's Service Interruptions Lead to iPhone Application Failures</u></a></li>
-<li><a href="https://os-tips.techidaily.com/determine-if-your-iphone-is-previously-used-or-newly-refurbished/"><u>Determine if Your iPhone Is Previously Used or Newly Refurbished</u></a></li>
-<li><a href="https://os-tips.techidaily.com/disabling-find-my-iphone-a-step-by-step-guide-and-essential-reasons/"><u>Disabling Find My iPhone: A Step-by-Step Guide & Essential Reasons</u></a></li>
-<li><a href="https://os-tips.techidaily.com/disabling-mute-feature-a-step-by-step-guide-for-iphones/"><u>Disabling Mute Feature: A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-improved-web-search-capabilities-and-real-time-sporting-events-on-google-chrome/"><u>Discover Improved Web Search Capabilities & Real-Time Sporting Events on Google Chrome</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-10-proplus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 10 Pro+ 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/visually-dominating-podcast-identities-via-logo-designs/"><u>Visually Dominating Podcast Identities via Logo Designs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elevating-skills-a-comprehensive-guide-to-designer-advancement/"><u>[New] Elevating Skills A Comprehensive Guide to Designer Advancement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pinterest-videos-top-5-no-pay-extractors-online/"><u>[New] Pinterest Videos Top 5 No-Pay Extractors Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-no-1-top-12-tycoon-games-a-gamers-quest-to-conquer-commerce/"><u>[Updated] 2024 Approved The No. 1 Top 12 Tycoon Games - A Gamer's Quest to Conquer Commerce</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/castrecorder-analysis-for-2024/"><u>CastRecorder Analysis for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dearmob-tutorial-accessing-and-controlling-your-iphones-voice-memos-and-ringtones-on-pc/"><u>DearMob Tutorial: Accessing and Controlling Your iPhone's Voice Memos & Ringtones on PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficiently-utilizing-swift-transfer-options-in-your-dearmob-iphone-app-a-comprehensive-guide/"><u>Efficiently Utilizing Swift Transfer Options in Your DearMob iPhone App: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-image-transfer-for-iphone-and-mac-users-comprehensive-tutorial-by-dearmob-experts/"><u>Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-for-dearmob-users-on-downloading-iphones-clouded-memories-photos-and-videos-onto-a-pcmac-system/"><u>Guide for DearMob Users on Downloading iPhone's Clouded Memories (Photos & Videos) Onto a PC/Mac System</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/hddusb/"><u>HDDからUSBへの完全なクローニング手順 - シンプルガイド</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-sync-images-from-your-iphone-to-a-mac-a-step-by-step-dearmob-guide/"><u>How to Seamlessly Sync Images From Your iPhone to a Mac: A Step-by-Step DearMob Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/itunes-media-freedom-step-by-step-dearmob-tutorial-on-unlocking-your-content/"><u>ITunes Media Freedom: Step-by-Step DearMob Tutorial on Unlocking Your Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/october-debut-anticipated-apple-postpones-initial-rollout-of-intelligent-tech-features-says-zdnet/"><u>October Debut Anticipated: Apple Postpones Initial Rollout of Intelligent Tech Features, Says ZDNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-for-iphone-sms-backup-and-restoration-via-dearmob-software-on-windows-or-mac/"><u>Step-by-Step Tutorial for iPhone SMS Backup and Restoration via DearMob Software on Windows or Mac</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Poco F5 Pro 5G FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-protective-covers-for-apples-latest-iphones-a-comprehensive-guide-iphone-12-and-12-pro-expert-reviews-by-zdnet/"><u>Top-Rated Protective Covers for Apple's Latest iPhones: A Comprehensive Guide (iPhone 12 & 12 Pro) - Expert Reviews by ZDNet</u></a></li>
 </ul></div>
 

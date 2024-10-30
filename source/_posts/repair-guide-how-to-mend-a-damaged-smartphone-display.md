@@ -1,7 +1,7 @@
 ---
 title: "Repair Guide: How to Mend a Damaged Smartphone Display"
-date: 2024-08-18T09:25:44.319Z
-updated: 2024-08-19T09:25:44.319Z
+date: 2024-10-26T19:31:11.875Z
+updated: 2024-10-29T18:59:50.924Z
 tags:
   - fix-android-problems
 categories:
@@ -26,14 +26,18 @@ Fix Cracked Phone Screen
 * [Part 1. What to do with cracked phone screen?](https://tools.techidaily.com/)
 * [Part 2. How to access Android phone with broken screen](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. What to do with cracked phone screen?
 
  If you've got a broken phone screen, first you should assess how bad the damage is. You might be able to live with small cracks that don't block your view too much, but larger cracks should probably be dealt with immediately. For example, if the colors on your screen are abnormal or some pixels are no longer displaying, the damage has gone much further than the glass on top and has affected the LCD panel beneath.
 
  If you cannot live with a broken phone screen and decide to repair it, there are two methods you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1\. DIY: Fix a cracked phone screen at home
 
@@ -42,20 +46,34 @@ Fix Cracked Phone Screen
  You can buy the Android or iPhone screen from eBay, Amazon, and other sites. Also, make sure you buy the tools to complete the replacement, and follow the online guide to fix the broken screen. Still there are some guides that tell you to fix the phone screen with toothpaste.
 
 ![Fix Broken Screen DIY](https://www.aiseesoft.com/images/article/broken-screen/diy-fix-broken-phone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, not all of us have the skills or time to fix broken phone screen. When you decide to repair screen in this way, you must be aware that you may get your broken screen phone to brick. If you can take that risk, move one…
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Method 2\. Get the mobile provider/phone manufacturer to fix cracked phone screen
 
  If you cracked your phone screen during your manufacturer's warranty period, you should be able to get it fixed for free and within a few hours' time. (Bear in mind, though, that the standard limited warranties of many manufacturers, such as Samsung, do not cover accidents.) Out-of-warranty screen repairs cost upwards of $100.
 
  Otherwise, a quick Internet search should give you a list of phone screen repair stores around your area. Just make sure your phone is protected by a password before you hand it off to a stranger.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to access Android phone with broken screen
 
@@ -72,30 +90,27 @@ Step 1 Connect your broken screen phone to computer, and run this software on yo
 Step 2 Select your phone name and model to check if your phone can be fixed in this software and click "Confirm" for the next process.
 
 ![Select Phone Model](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/select-phone-model.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
 Step 3 Follow the three steps as the interface tells to put your phone into Download mode. After doing that click "Start" to fix your phone.
 
 ![Download Mode](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/enter-download-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4 After fixing your phone, this program will scan your phone data automatically. Select what data type that you want to access, and click "Recover" to save the data from your broken screen phone to computer.
 
 ![Recover](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/extract-data-from-broken-phone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this article, we mainly talked about some methods to deal with cracked phone screen, and how to access Android phone with a broken screen. Still have more questions about cracked phone screen? Feel free to leave your comments down below.
 
 You can learn the steps from the video below:
 
 ![Fix and Extract Data from Disabled/Password-Forgotten Android Phone ](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 What do you think of this post?
 
@@ -128,8 +143,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +150,20 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ternal-banishment-of-youtubes-quick-clips-for-2024/"><u>[New] Eternal Banishment of YouTube's Quick Clips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-channel-finale-101-insider-tricks-for-successful-outros/"><u>[Updated] 2024 Approved Channel Finale 101 Insider Tricks for Successful Outros</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-key-strategies-for-fixing-common-iphone-autocorrect-issues-and-achieving-spelling-perfection/"><u>6 Key Strategies for Fixing Common iPhone AutoCorrect Issues & Achieving Spelling Perfection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/becoming-an-exemplary-conductor-of-candidate-assessments-for-2024/"><u>Becoming An Exemplary Conductor of Candidate Assessments for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-exchange-swapping-contacts-via-iphones-airdrop-feature/"><u>Effortless Exchange: Swapping Contacts via iPhone's AirDrop Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eliminate-clutter-with-these-6-effective-alternatives-to-iphone-folder-management/"><u>Eliminate Clutter with These 6 Effective Alternatives to iPhone Folder Management</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embracing-eccentricity-functional-and-whimsical-usb-charger-designs/"><u>Embracing Eccentricity: Functional and Whimsical USB Charger Designs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-ipad-functionality-future-support-for-usb-webcams-and-digital-cameras/"><u>Enhancing iPad Functionality: Future Support for USB Webcams and Digital Cameras</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-steps-how-to-share-your-iphones-live-photos-on-android-devices/"><u>Essential Steps: How to Share Your iPhone's Live Photos on Android Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-narzo-60x-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-xbox-controller-connectivity-problems-across-windows-1187-platforms/"><u>Fixing Xbox Controller Connectivity Problems Across Windows 11/8/7 Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tomtechspotlight/"><u>Navigating the World of High-Performance Hardware with TomTechSpotlight</u></a></li>
+</ul></div>
 

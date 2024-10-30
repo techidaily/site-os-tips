@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Solution: Completely Removing Your Gmail Account for Good"
-date: 2024-08-18T09:26:01.018Z
-updated: 2024-08-19T09:26:01.018Z
+date: 2024-10-25T21:55:48.487Z
+updated: 2024-10-29T23:41:15.181Z
 tags:
   - fix-android-problems
 categories:
@@ -26,9 +26,6 @@ Fix Cracked Phone Screen
 * [Part 1. What to do with cracked phone screen?](https://tools.techidaily.com/)
 * [Part 2. How to access Android phone with broken screen](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. What to do with cracked phone screen?
 
  If you've got a broken phone screen, first you should assess how bad the damage is. You might be able to live with small cracks that don't block your view too much, but larger cracks should probably be dealt with immediately. For example, if the colors on your screen are abnormal or some pixels are no longer displaying, the damage has gone much further than the glass on top and has affected the LCD panel beneath.
@@ -45,9 +42,6 @@ Fix Cracked Phone Screen
 
  Of course, not all of us have the skills or time to fix broken phone screen. When you decide to repair screen in this way, you must be aware that you may get your broken screen phone to brick. If you can take that risk, move one…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2\. Get the mobile provider/phone manufacturer to fix cracked phone screen
 
  If you cracked your phone screen during your manufacturer's warranty period, you should be able to get it fixed for free and within a few hours' time. (Bear in mind, though, that the standard limited warranties of many manufacturers, such as Samsung, do not cover accidents.) Out-of-warranty screen repairs cost upwards of $100.
@@ -55,8 +49,12 @@ Fix Cracked Phone Screen
  Otherwise, a quick Internet search should give you a list of phone screen repair stores around your area. Just make sure your phone is protected by a password before you hand it off to a stranger.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. How to access Android phone with broken screen
 
  The most important thing people care about when phone screen is shattered would be their Android data. It may be easy to replace a new phone, but that can't get you back all the important files. Don't worry, even if you give up the broken screen replacement, there are still methods to help you extract data from the cracked phone.
@@ -69,6 +67,19 @@ Step 1 Connect your broken screen phone to computer, and run this software on yo
 
 ![Broken Android Data Recovery](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/start-feature.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 Select your phone name and model to check if your phone can be fixed in this software and click "Confirm" for the next process.
 
 ![Select Phone Model](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/select-phone-model.jpg)
@@ -76,24 +87,29 @@ Step 2 Select your phone name and model to check if your phone can be fixed in t
 Step 3 Follow the three steps as the interface tells to put your phone into Download mode. After doing that click "Start" to fix your phone.
 
 ![Download Mode](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/enter-download-mode.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4 After fixing your phone, this program will scan your phone data automatically. Select what data type that you want to access, and click "Recover" to save the data from your broken screen phone to computer.
 
 ![Recover](https://www.aiseesoft.com/images/fonelab-for-android/fix-broken-phone/extract-data-from-broken-phone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  In this article, we mainly talked about some methods to deal with cracked phone screen, and how to access Android phone with a broken screen. Still have more questions about cracked phone screen? Feel free to leave your comments down below.
 
 You can learn the steps from the video below:
 
 ![Fix and Extract Data from Disabled/Password-Forgotten Android Phone ](https://www.aiseesoft.com/images/youtube-video/video-fix-password-forgotten-android.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 What do you think of this post?
@@ -127,8 +143,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +150,26 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-thumbnail-crafting-101-the-fundamentals-covered/"><u>[Updated] In 2024, Thumbnail Crafting 101 The Fundamentals Covered</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-novices-pathway-top-essential-gopro-supplementary-gear/"><u>[Updated] Novice's Pathway Top Essential GoPro Supplementary Gear</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alternate-ways-to-enjoy-roku-channel-programming-beyond-traditional-hardware/"><u>Alternate Ways to Enjoy Roku Channel Programming Beyond Traditional Hardware</u></a></li>
+<li><a href="https://win-community.techidaily.com/aomei-cyberback-professional-support-and-help-center/"><u>AOMEI-CyberBack Professional Support & Help Center</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-seamless-song-recognition-with-shazam-on-your-private-stereo-discover-music-in-your-headphones-effortlessly/"><u>Experience Seamless Song Recognition with Shazam on Your Private Stereo! Discover Music in Your Headphones Effortlessly.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-hiding-the-do-not-disturb-indicator-from-your-iphone-15-pro-screen/"><u>Expert Tips for Hiding the Do Not Disturb Indicator From Your iPhone 15 Pro Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/geforce-gtx-460-driver-update-seamless-guide-for-pc-users/"><u>GeForce GTX 460 Driver Update: Seamless Guide for PC Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-iphone-and-ipad-users-can-now-navigate-with-their-eyes/"><u>Get Ready: IPhone & iPad Users Can Now Navigate with Their Eyes!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/google-maps-adopts-wazes-premier-safety-capabilities-for-enhanced-user-security/"><u>Google Maps Adopts Waze's Premier Safety Capabilities for Enhanced User Security</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/google-tv-ceases-sales-your-guide-to-where-you-can-now-stream-popular-tv-series/"><u>Google TV Ceases Sales: Your Guide to Where You Can Now Stream Popular TV Series</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g230-mic-solved/"><u>How to Repair Your Logitech G230 Mic - Solved</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-respond-when-an-unattended-apple-airtag-is-tracking-alongside-you-whats-next/"><u>How to Respond When an Unattended Apple AirTag Is Tracking Alongside You – What's Next?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-functionality-of-an-unresponsive-iphone-display-expert-tips/"><u>How to Restore Functionality of an Unresponsive iPhone Display - Expert Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-nomad-magnetic-leather-case-expert-review-for-the-latest-iphone-15-pro/"><u>In-Depth Analysis of the Nomad Magnetic Leather Case: Expert Review for the Latest iPhone 15 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-growing-anxiety-for-vision-pros-longevity-in-light-of-the-newly-launched-visionos-2/"><u>My Growing Anxiety for Vision Pro's Longevity in Light of the Newly Launched visionOS 2</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-update-brings-revamped-contact-management-features-in-microsoft-outlooks-ios-and-android-applications/"><u>New Update Brings Revamped Contact Management Features in Microsoft Outlook's iOS and Android Applications</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-resource-get-your-lenovo-t430-up-and-running-with-latest-drivers-windows-11-8-and-7/"><u>Ultimate Resource: Get Your Lenovo T430 Up and Running with Latest Drivers [Windows 11, 8 & 7]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-exquisite-text-effects-for-adobes-affects-for-2024/"><u>Unleash Creativity Exquisite Text Effects For Adobe's Affects for 2024</u></a></li>
+</ul></div>
 
