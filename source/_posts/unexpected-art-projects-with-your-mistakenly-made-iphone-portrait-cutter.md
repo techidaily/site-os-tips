@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2024-10-28T22:03:40.126Z
-updated: 2024-10-29T19:27:48.971Z
+date: 2024-10-29T17:15:51.392Z
+updated: 2024-11-04T16:03:35.905Z
 tags:
   - ios
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Creating Cutouts is Easy
 
  As long as you have an iPhone XS or second-generation iPhone SE or newer, creating a cutout is so easy you’ll probably do it by mistake. You can [isolate subjects in photos](https://extra-support.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/) including people, pets, and inanimate objects like signs or clothing.
@@ -38,13 +45,6 @@ Tim Brookes / How-To Geek
 
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Create Stickers Using Photo Cutouts
 
  Stickers are an iMessage feature that allows you to [save and send a sheet of custom “stickers”](https://some-approaches.techidaily.com/new-unlocking-windows-10-key-skills-you-need/) (like emoji) but also stick them on top of content within that message window. Tapping on a sticker will insert it into your message, or you can long-press then drag and release the sticker inside the chat.
@@ -58,20 +58,13 @@ Tim Brookes / How-To Geek
 ![iPhone stickers for use in iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1924.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create a Mood Board
 
@@ -81,9 +74,23 @@ Tim Brookes / How-To Geek
 
 ![A Nintendo 64-themed mood board created in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1925.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve copied a subject to your clipboard, paste it into a Freeform document by tapping a blank space and selecting “Paste” in the context menu. You can then move, scale, and arrange your mood board accordingly. If you want to create a mood board with non-Apple users, you’ll need to resort to a third-party tool like [Microsoft Whiteboard](https://screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users-for-2024/) or an [agile note-taking app like OneNote](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) instead.
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Create a Visual Log of Outfits and More
 
@@ -92,6 +99,13 @@ Tim Brookes / How-To Geek
  The best thing about this feature is the way that Notes stores each subject as a small thumbnail that can then be clicked and swiped through. You’ll get an at-a-glance look at your “collection” and you can then tap on each for a better look. There’s no reason this couldn’t work with hairstyles, makeup routines, jewelry combinations, prepared food, and more.
 
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use Them in Instagram Stories
 
@@ -119,13 +133,6 @@ Tim Brookes / How-To Geek
 
 ![Adding a subject to a Google Doc using the iPhone paste functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1929.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Publishing apps like [Apple Pages](https://apps.apple.com/us/app/pages/id361309726) and [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640), in addition to slideshow tools like [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) and [Apple Keynote](https://apps.apple.com/us/app/keynote/id409183694?mt=12) also natively support the feature. Design and layout apps like [Canva](https://apps.apple.com/us/app/canva-design-art-ai-editor/id897446215) and [PicCollage](https://apps.apple.com/au/app/piccollage-ai-photo-editor/id448639966) both support pasting of subjects once they’ve been copied to your clipboard.
@@ -133,13 +140,6 @@ Tim Brookes / How-To Geek
  Using these apps you can make use of templates to design a wide variety of digital and printable materials, from Instagram posts to business cards. In most cases, all you need to do is tap or long-tap and select “Paste.” Sometimes you’ll find this option underneath an ellipsis “...” menu instead.
 
  Many apps support the feature, you just need to experiment. Though you can’t refine what is selected as part of the subject isolation process, the feature makes it much easier to create impressive-looking work on mobile.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Save for Use as a Transparent PNG
 
@@ -168,16 +168,18 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-maximizing-youtube-profits-transitioning-from-ads-to-accounts/"><u>[New] 2024 Approved Maximizing YouTube Profits Transitioning From Ads to Accounts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-portraying-paradoxes-effects-for-time-travel-films/"><u>[Updated] Portraying Paradoxes Effects for Time Travel Films</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-stability-mastering-shaky-images-for-2024/"><u>Capturing Stability Mastering Shaky Images for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-on-four-giants-of-digital-sphere-facebook-twitter-instagram-and-youtube/"><u>Engage on Four Giants of Digital Sphere - Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-access-and-manipulate-icalendar-files-from-an-iosipados-device-using-dearmob-app-on-a-pc/"><u>How to Access and Manipulate iCalendar Files From an iOS/iPadOS Device Using DearMob App on a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-is-itops-performance-worth-your-investment/"><u>In 2024, Is ITop's Performance Worth Your Investment?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/integrating-your-apple-calendar-with-windows-via-dearmob-comprehensive-guide-for-cross-platform-syncing/"><u>Integrating Your Apple Calendar with Windows via DearMob - Comprehensive Guide for Cross-Platform Syncing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-payments-on-windows-with-the-official-dearmob-security-guide/"><u>Mastering Mobile Payments on Windows with the Official DearMob Security Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamlessly-sync-your-ios-camera-captures-with-windows-using-deermobs-comprehensive-guide/"><u>Seamlessly Sync Your iOS Camera Captures with Windows Using DeerMob's Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sync-your-iphone-with-windows-pc-comprehensive-transfer-instructions-for-deedroid-users/"><u>Sync Your iPhone with Windows PC - Comprehensive Transfer Instructions for DeeDroid Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620270217-accidental-deletions-heres-how-you-can-retrieve-accidentally-deleted-mms-on-your-iphone/"><u>Accidental Deletions? Here's How You Can Retrieve Accidentally Deleted MMS on Your iPhone!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-androids-speed-with-these-10-essential-optimization-tools-and-cleaning-applications/"><u>Boost Your Android's Speed with These 10 Essential Optimization Tools and Cleaning Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-upload-photos-from-your-android-device-to-computer-or-google-photos-detailed-instructions-inside/"><u>Effortlessly Upload Photos From Your Android Device to Computer or Google Photos - Detailed Instructions Inside!</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-optimize-your-youtube-shorts-templates-effectively/"><u>How to Optimize Your YouTube Shorts Templates Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-recover-deleted-images-from-your-iphone-or-mac-a-comprehensive-guide/"><u>How to Recover Deleted Images From Your iPhone or Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-effective-use-of-classroom-media/"><u>In 2024, Strategies for Effective Use of Classroom Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-gaming-support-identifying-and-repairing-initialization-errors-in-your-favorite-games/"><u>Origin Gaming Support: Identifying and Repairing Initialization Errors in Your Favorite Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-jokester-visualizer/"><u>Premium Jokester Visualizer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rapid-adjustment-of-youtube-vids-for-mac-screen-for-2024/"><u>Rapid Adjustment of YouTube Vids for Mac Screen for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-turning-off-safe-mode-in-jailbroken-iphones/"><u>Step-by-Step Guide: Turning Off Safe Mode in Jailbroken iPhones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tips-tuning-your-snapchat-videos-for-maximum-impact-for-2024/"><u>Top Tips Tuning Your Snapchat Videos for Maximum Impact for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-lost-iphone-memories-exploring-top-skysoft-data-recovery-solutions-and-their-rivals/"><u>Unlocking Your Lost iPhone Memories: Exploring Top Skysoft Data Recovery Solutions & Their Rivals</u></a></li>
 </ul></div>
 

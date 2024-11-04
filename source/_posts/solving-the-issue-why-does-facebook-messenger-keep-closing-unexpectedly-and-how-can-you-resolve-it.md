@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Does Facebook Messenger Keep Closing Unexpectedly and How Can You Resolve It?"
-date: 2024-08-18T09:29:17.395Z
-updated: 2024-08-19T09:29:17.395Z
+date: 2024-10-29T17:16:56.148Z
+updated: 2024-11-04T17:36:34.396Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -25,11 +25,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 * [Part 3: 3 methods to backup iPhone files](https://tools.techidaily.com/)
 * [Part 4: Ultimate solution to fix iPhone issues](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Part 1: 6 methods to delete unnecessary files
 
  Just delete some unnecessary files is the most efficient method to fix iPhone not enough storage problems. What should be the unnecessary files of iPhone and how to remove these files? Here are the 6 methods you should know.
@@ -46,9 +41,6 @@ Step 3 Confirm the "Clear History and Data" to clear cache on your iPhone.
 
 ![Clear Safari Cache](https://www.aiseesoft.com/images/solution/iphone-storage-full/clear-safari-cache-on-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Solution 2: Clean app cache on iPhone
 
  Similar to the browsing cache, you can clear the app cache on iPhone to release up more space. You can locate the storage space for each program and clean the one with largest size for iPhone not enough storage.
@@ -73,9 +65,6 @@ Step 3 Tap "Offload App" to offload the unused app or "Delete App" option remove
 
 ![Offload Unused APP](https://www.aiseesoft.com/images/solution/iphone-storage-full/offload-unused-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Solution 4: Delete mail cache of iPhone
 
  In order to solve the problem for iPhone storage full, delete the mail cache should be take into consideration. There might be some large photos, videos and documents as the email attachments.
@@ -100,6 +89,13 @@ Step 3 Once you choose all the photos, you can tap the trash icon.
 
 ![Delete Photos](https://www.aiseesoft.com/images/solution/iphone-storage-full/delete-photos-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 6: Delete old conversations on iPhone
 
  iPhone has three options to backup conversations: 30 Days, 1 Year and Forever. When you select the 30-day option, you can delete the majority of messages on iPhone and make substantial storage savings.
@@ -112,16 +108,10 @@ Step 3 After that you can select the "30 Days" option to release up space for iP
 
 ![Keep Messages iPhone](https://www.aiseesoft.com/images/solution/iphone-storage-full/keep-messages-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Part 2: 4 methods to change the setting of iPhone
 
  Of course, you can also fix iPhone storage full by removing other files from iPhone, such as iBooks, iMessage and more. In this part, you can find how to change the settings of iPhone to avoid files with a large size.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Solution 7: Choose the normal photos only
 
  When you need to capture photos with iPhone, HDR is a better option with more detailed photos. Once you turn off the HDR option, you can take photos with a small size.
@@ -135,8 +125,12 @@ Step 3 Now you can take photos with a small size to avoid messages for iPhone st
 ![Keep Normal Photos](https://www.aiseesoft.com/images/solution/iphone-storage-full/keep-normal-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 8: Change record video resolution
 
  Of course you can also change the resolution of the taken video to release more space for iPhone. Just adjust the 4K-resolution to original camera resolution from settings, which you can clear the full storage of iPhone.
@@ -148,13 +142,7 @@ Step 2 After that select the "Record Video" option to select the output size.
 Step 3 Choose the "720p HD at 30 fps" if you do not care about the quality.
 
 ![Record Resolution Video](https://www.aiseesoft.com/images/solution/iphone-storage-full/record-resolution-video-on-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 9: Optimize Apple music storage
 
  If you are using Apple Music, you are able to limit the maximum storage downloaded songs from Apple Music can take up. As for the method, you are able to fix iPhone storage full starting from 2GB going up.
@@ -166,8 +154,25 @@ Step 2 Choose the "Music" option and click the "Optimise Storage" option.
 Step 3 When the iPhone storage is low, it will automatically remove music from iPhone that you haven't played in a while.
 
 ![Download Apple Music](https://www.aiseesoft.com/images/solution/iphone-storage-full/download-apple-music.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 10: Keep the Photo Stream Turned off
@@ -181,14 +186,17 @@ Step 2 Tap on the "iCloud" account and go to "Photos".
 Step 3 Turn off the switch for "Photo Stream" and switch off the "Photo Sharing" option.
 
 ![Turn Off My Photo Stream](https://www.aiseesoft.com/images/solution/iphone-storage-full/turn-off-my-photo-stream.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
 ## Part 3: 3 methods to backup iPhone files
 
  The cache files might not take a large size of your iPhone if you get the iPhone storage full message frequently. As for the case, you have to backup files of iPhone to iCloud, iTunes or computer instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 11: Sync iPhone content to iCloud
 
@@ -201,8 +209,12 @@ Step 2 Scroll down and tap on the "Backup" option and turn on the "iCloud on" to
 Step 3 Tap on the "Back Up Now" to save iPhone content to iCloud.
 
 ![iCloud Backup iPhone](https://www.aiseesoft.com/images/solution/iphone-storage-full/icloud-backup-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 12: Save iPhone data to iTunes
@@ -218,8 +230,12 @@ Step 3 Click the "Done" option to save the iPhone content to iTunes.
 ![iTunes Backups](https://www.aiseesoft.com/images/solution/iphone-storage-full/itunes-backups.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 13: Backup iPhone files to computer
 
  Is there a way to backup iPhone files to computer selectively? Just transfer the desired files from iPhone to computer.**Aiseesoft FoneTrans** should be the best program you fix the iPhone not enough storage.
@@ -227,9 +243,6 @@ Step 3 Click the "Done" option to save the iPhone content to iTunes.
 Step 1 Download and install FoneTrans on computer. Connect the iPhone with USB cable to computer. As for the method, you can[backup iPhone to Mac](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) or Windows.
 
 ![Interface](https://www.aiseesoft.com/images/ios-transfer/interface.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 Step 2 Click the "Music" or other file formats from the main interface to[transfer iPhone music](https://tools.techidaily.com/) . You can also select more other file formats.
 
@@ -237,10 +250,6 @@ Step 2 Click the "Music" or other file formats from the main interface to[transf
 
 Step 3 Tick the file or files and click the drop-down menu of "Export to" to save iPhone content to computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 4: Ultimate solution to fix iPhone issues
 
  After cleaning up iPhone cache and removing the unnecessary files, you might find iPhone storage is full but its not. If you used iPhone for a period of time, you might find the iPhone run out of storage soon. As for the case, you need a deep clean for your iPhone instead.[Aiseesoft FoneEraser](https://tools.techidaily.com/aiseesoft/fone-eraser/) is able to turn the old iPhone into a new one without cache files.
@@ -254,15 +263,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 Step 1 Connect iPhone to computer with the original USB cable. After that you can launch FoneEraser on your computer to make sure the program can detect the iPhone automatically.
 
 ![Connect Device](https://www.aiseesoft.com/images/iphone-data-eraser/connect-device.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 Step 2 Choose the erasing levels. Even if you iPhone is full of storage, you can erase and remove all data on iPhone, including photos, videos, documents as well as caches.
 
 ![Select Erasing Level](https://www.aiseesoft.com/images/iphone-data-eraser/select-erasing-level.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3 Click the "Start" button to erase content and settings on iPhone. It is a deep clean and optimize to iPhone full of storage. You can get all the cache files by recovering the desired files from backups.
@@ -304,8 +314,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -313,4 +321,16 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-adding-impact-strategies-for-youtubes-last-impressions-for-2024/"><u>[Updated] Adding Impact Strategies for Youtubes' Last Impressions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289761429-4k/"><u>「高画質に変身！動画・ゲームシーンが4Kクラスアップする革新的技術の紹介」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-industry-leaders-top-10-free-lut-resource-list/"><u>2024 Approved Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-secret-ios-applications-a-step-by-step-guide/"><u>Discovering Secret iOS Applications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-spotifys-advertising-landscape/"><u>In 2024, Navigating Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-sms-texts-from-your-mac-a-step-by-step-guide/"><u>Retrieve Lost SMS Texts From Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-your-safari-bookmarks-from-an-itunes-data-backup/"><u>Step-by-Step Guide: Recovering Your Safari Bookmarks From an iTunes Data Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-6-ultimate-iphone-apps-for-restoring-lost-photographs/"><u>The 6 Ultimate iPhone Apps for Restoring Lost Photographs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-magic-5-by-drfone-android/"><u>Three Ways to Sim Unlock Honor Magic 5</u></a></li>
+</ul></div>
 

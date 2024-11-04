@@ -1,7 +1,7 @@
 ---
 title: Why Simple and Understated Phone Designs Are Actually the Most Effective
-date: 2024-10-17T22:57:53.515Z
-updated: 2024-10-24T00:26:06.004Z
+date: 2024-10-30T18:25:45.435Z
+updated: 2024-11-04T18:24:45.367Z
 tags:
   - ios
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  We've Figured Out How to Make Good Phones
 
  When a technology is new, experimentation is the name of the game. We don't already know which design is the most durable, [how to make gadgets waterproof](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), or [how to allow for passive cooling](https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/). We're not even sure which of these things is important.
@@ -39,6 +46,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That's not where we are anymore. Smartphone makers have figured out how to make incredibly powerful, lightweight, beautiful, and impressively durable devices. There are ways to tweak the design, but doing so often introduces drawbacks. This is why we are in the [age of smartphone conformity](https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/). When it comes to slab phones, changes in design are largely change for change's sake.
 
  Even when it comes to foldable phones, developers know how to make great ones. Most of the experimentation has to do with durability and miniaturization, making components small enough that you can still fit flagship cameras on a device where each half needs to be thinner than that of an average phone. It would also be nice to get rid of the crease. But the fundamentals? Those are nailed down already.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Consistency Is Good for Brand Recognition
 
@@ -53,10 +67,10 @@ Tyler Hayes / How-To Geek
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Can Still Switch Brands to Try Something New
@@ -75,23 +89,9 @@ Tyler Hayes / How-To Geek
 
  This has worked in the iPhone's favor for a long time now. Each iPhone is a known quantity. The removal of the home button, the expansion of the screen size to fill the entire front of the device, and the addition of a camera bump are perhaps the most notable changes to the design of the phone since the release of the first model. This gradual evolution has meant that from year to year, each iPhone looks recognizable to people who own previous models. The software has expanded, but it has come with a degree of consistency that Android has not had over the same period of time.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  ​We're More Productive When Things Stay the Same
 
 ![Person using the Camera app to take photo with the Google Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53249989394_936f059fc3_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -103,18 +103,18 @@ Justin Duino / How-To Geek
 
  The Galaxy S23 Ultra may have looked near identical to its predecessor, but according to [Android Police](https://www.androidpolice.com/samsung-flagship-phones-apple-iphone-sales/), the former outsold the latter by over 6 million units. Samsung was not punished for keeping so much the same. If anything, it was rewarded.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Redesigning Hardware Is Less Sustainable
 
  One aspect of our modern economy is that things that were perfectly fine get changed for no reason other than to convince consumers to buy something they already have all over again. This is inherently wasteful. Compared to most industries, the tech industry's replacement cycle is even faster. We might own a hammer for ten or twenty years without giving it much thought. A laptop? Maybe five. A phone? Every other year or so. Manufacturers and carriers alike want us to [upgrade our phones often](https://facebook-video-footage.techidaily.com/updated-in-2024-diving-into-the-world-of-haul-video-content/).
 
  Whenever a phone changes, that means old cases no longer fit. We often have to throw out old charging cables and replace our earbuds. The impact throughout the supply chain is greater. All kinds of modules have to be resized and retooled. The more things that can be kept the same each year, the more we and manufacturers can reuse the stuff we already have.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
@@ -145,15 +145,24 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-uncovering-the-essence-of-obss-screen-capture-features/"><u>[New] 2024 Approved Uncovering the Essence of OBS's Screen Capture Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-an-exclusive-list-of-heartwarming-weddings-youtube-and-vimeo-edition/"><u>[New] In 2024, An Exclusive List of Heartwarming Weddings - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-live-play-and-log-mobile-gaming-with-samsung/"><u>[Updated] Live, Play & Log Mobile Gaming with Samsung</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-revolutionizes-sports-gaming-with-major-new-features/"><u>Apple Revolutionizes Sports Gaming with Major New Features!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/are-you-ready-will-your-current-apple-device-be-able-to-operate-with-the-newly-launched-ios-n-and-ipados-n-versions/"><u>Are You Ready? Will Your Current Apple Device Be Able To Operate With The Newly Launched iOS N and iPadOS N Versions?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/collaborate-on-tracking-discover-the-new-feature-enabling-airtag-sharing-among-multiple-users/"><u>Collaborate on Tracking: Discover the New Feature Enabling AirTag Sharing Among Multiple Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/direct-digital-delivery-streamlined-steps-for-files/"><u>Direct Digital Delivery Streamlined Steps for Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-essential-apple-maps-functions-a-guide-to-its-top-10-hidden-gems/"><u>Discover Essential Apple Maps Functions: A Guide to Its Top 10 Hidden Gems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-authorities-in-controlling-and-guiding-ai-innovations/"><u>The Role of Authorities in Controlling and Guiding AI Innovations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-visual-virtuosity-mastering-motivation-on-instagram/"><u>[New] In 2024, Visual Virtuosity Mastering Motivation on Instagram</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/irror-image-flipping-youtube-videos-online-for-2024/"><u>[New] Mirror Image Flipping YouTube Videos Online for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-excellence-written-segmented-by-film-categories-for-2024/"><u>[Updated] Excellence Written, Segmented by Film Categories for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-6-unobtrusive-applications-for-android-captures/"><u>2024 Approved Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-to-the-rescue-innovative-solutions-for-dissatisfied-sonos-enthusiasts-zdnet-insights/"><u>Apple to the Rescue? Innovative Solutions for Dissatisfied Sonos Enthusiasts | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-health-crafting-achievable-objectives/"><u>ChatGPT & Health: Crafting Achievable Objectives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/counterfeit-copycat-of-lastpass-unveiled-in-ios-app-catalog/"><u>Counterfeit Copycat of LastPass Unveiled in iOS App Catalog</u></a></li>
+<li><a href="https://os-tips.techidaily.com/covert-techniques-for-intercepting-imessages-without-sending-read-alerts/"><u>Covert Techniques for Intercepting iMessages without Sending Read Alerts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disappearance-of-the-original-app-store-game-emulator-a-detailed-insight/"><u>Disappearance of the Original App Store Game Emulator: A Detailed Insight</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easily-access-music-recognition-with-shazam-on-your-iphones-control-panel/"><u>Easily Access Music Recognition with Shazam on Your iPhone's Control Panel</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-methods-for-assessing-the-condition-of-your-ipads-battery/"><u>Effective Methods for Assessing the Condition of Your iPad's Battery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-ways-to-remotely-time-your-whatsapp-messages-during-significant-events/"><u>Effective Ways to Remotely Time Your WhatsApp Messages During Significant Events</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficient-methods-for-exiting-all-open-safari-sessions-on-iphoneipad/"><u>Efficient Methods for Exiting All Open Safari Sessions on iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-gps-accuracy-navigating-flawlessly-through-tunnels-with-latest-map-update/"><u>Enhanced GPS Accuracy: Navigating Flawlessly Through Tunnels with Latest Map Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-insights-you-need-to-know-about-buying-icloud-storage-read-up-first/"><u>Essential Insights You Need to Know About Buying iCloud Storage: Read Up First!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook/"><u>Mastering Chapter Insertion in YouTube Videos An All-Inclusive Handbook</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-movie-with-windows-movie-maker-for-2024/"><u>Updated How to Make a Movie with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-update-laptop-gpu-now-compatible-and-active/"><u>Windows Update - Laptop GPU Now Compatible & Active</u></a></li>
 </ul></div>
 

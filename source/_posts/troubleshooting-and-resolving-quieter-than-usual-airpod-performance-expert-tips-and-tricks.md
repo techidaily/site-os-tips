@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving Quieter Than Usual AirPod Performance: Expert Tips & Tricks"
-date: 2024-09-27T05:23:32.707Z
-updated: 2024-09-30T20:13:28.038Z
+date: 2024-10-28T16:22:15.623Z
+updated: 2024-11-04T16:55:39.695Z
 tags:
   - ios
 categories:
@@ -33,18 +33,18 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
 ![Woman putting AirPods Pro in ear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/airpods-pro-in-ear.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white-wireless-headphones-copy-space-1750927877)_
 
  Given that there's a possibility that your iPhone's volume buttons have failed (like mine did), try adjusting the AirPods volume using Siri. Just call the voice assistant and ask it to turn the volume up or down. You can also use the Control Center to modify the volume levels. If you're using the [AirPods Pro (2nd Generation)](https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27-pro-by-drfone-android/), try using the swipe controls on the stem to turn the volume up or down. On the AirPods Max, there's a digital crown on the left ear cup that can help you adjust the loudness.
 
  Checking whether your AirPods are responding to the volume buttons is important because it helps us understand whether it's the volume buttons or the AirPods that aren't working properly. If you have tried all the ways to increase the volume and yet your AirPods feel exceptionally quiet, here's what you can do next.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Clean Your AirPods
 
@@ -70,11 +70,25 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
 
 ![Screenshot of the Bluetooth devices menu highlighting the more info icon next to AirPods name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
 
  Swipe to the bottom of the page and tap on "Ear Tip Fit Test."
 
 ![Screenshot of the AirPods settings menu with an arrow next to the Ear Tip Fit Test option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -88,14 +102,14 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Ear Tip Fit Test result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-5.png) 
 
-Shikhar Mehrotra / How-To Geek
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Shikhar Mehrotra / How-To Geek
 
 ##  Switch From ANC or Transparency to Regular Mode
 
@@ -127,19 +141,6 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Sounds & Haptics menu with an arrow next to the Headphone Safety option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-9.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
 
  Turn off "Headphone Notifications" and "Reduce Loud Audio."
@@ -147,19 +148,6 @@ Shikhar Mehrotra / How-To Geek
 ![Screenshot of the Headphone Safety menu with arrows next to the required options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-6.png) 
 
 Shikhar Mehrotra / How-To Geek
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the Sound/Equalizer Settings
 
@@ -176,10 +164,10 @@ Shikhar Mehrotra / How-To Geek
 ![Image of the EQ menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
@@ -188,25 +176,11 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Dolby Atmos menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
 
  In the same menu, turn off "Sound Check."
 
 ![Screenshot of the Sound Check option in the Apple Music settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-9.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -215,19 +189,6 @@ Shikhar Mehrotra / How-To Geek
 ![Screenshot of Apple Music settings on Mac with an arrow next to the required options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-6.png) 
 
 Shikhar Mehrotra / How-To Geek
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Is One AirPod Quieter Than The Other? Here's The Fix
 
@@ -238,6 +199,13 @@ Shikhar Mehrotra / How-To Geek
  If the problem is more stubborn you might need to manually fix the unbalanced audio. To do this, open the "Settings" app and select "Accessibility."
 
 ![Screenshot of the Settings app with an arrow next to the Accessibility option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-12.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -251,7 +219,21 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the audio balance slider in Audio & Visual menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Recalibrate Your AirPods' Volume
 
@@ -288,19 +270,24 @@ Kris Wouk / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-of-the-best-1-ranked-4k-gaming-pcs/"><u>[New] Best of the Best #1 Ranked 4K Gaming PCs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-mastery-in-momentum-regaining-erased-reddit-posts-for-2024/"><u>[New] Mastery in Momentum Regaining Erased Reddit Posts for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-mac-toolkit-capturing-netflix-views/"><u>[Updated] In 2024, The Ultimate Mac Toolkit Capturing Netflix Views</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-your-contents-potential-viral-short-tags/"><u>[Updated] Unleashing Your Content’s Potential Viral Short Tags</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>2024 Approved Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/compatibility-check-can-your-apple-device-support-the-upcoming-ios-17-and-ipados/"><u>Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-using-apples-facetime-app-on-android-phones/"><u>Complete Guide to Using Apple's FaceTime App on Android Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-iphone-problem-solving-strategies-for-seamless-performance/"><u>Comprehensive iPhone Problem-Solving Strategies for Seamless Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dont-delay-simplify-retrieving-your-apple-id-in-a-matter-of-minutes/"><u>Don't Delay! Simplify Retrieving Your Apple ID in a Matter of Minutes.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-monitor-your-weight-with-this-revolutionary-iphone-automation-tool/"><u>Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-ipads-capabilities-introducing-orion-seamless-ipad-to-monitor-connectivity-for-enhanced-productivity/"><u>Elevate Your iPad's Capabilities: Introducing Orion - Seamless iPad to Monitor Connectivity for Enhanced Productivity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/macbook-pro-air-unsupported-in-ubuntu-mate-2004-solved/"><u>MacBook Pro Air Unsupported in Ubuntu Mate 20.04 [Solved]</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-getting-filmora-for-free-no-hidden-fees-for-2024/"><u>Updated The Ultimate Guide to Getting Filmora for Free No Hidden Fees for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-video-to-text-for-free/"><u>[New] 2024 Approved How to Add Video to Text for Free</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-power-of-asus-proart-4k-the-pa-329q-review-for-2024/"><u>[Updated] Discover the Power of Asus ProArt 4K - The PA 329Q Review for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guaranteed-method-to-keep-youtube-shorts-out-of-sight-for-2024/"><u>[Updated] Guaranteed Method to Keep YouTube Shorts Out of Sight for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus-for-2024/"><u>20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+) for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-latest-from-openai-unlocking-your-custom-gpt-experience-now/"><u>Discover the Latest From OpenAI: Unlocking Your Custom GPT Experience Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-for-tracking-childrens-usage-of-snapchat-through-iphone-monitoring-techniques/"><u>Effective Strategies for Tracking Children’s Usage of Snapchat Through iPhone Monitoring Techniques</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficient-strategies-for-securing-and-duplicating-bulky-files-across-different-windows-os-platforms/"><u>Efficient Strategies for Securing and Duplicating Bulky Files Across Different Windows OS Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-how-to-rapidly-resolve-no-location-found-issues-on-your-iphone/"><u>Effortless Solutions: How to Rapidly Resolve 'No Location Found' Issues on Your iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-solutions-boosting-your-iphones-audio-without-a-fuss-a-step-by-step-troubleshoot/"><u>Quick Solutions: Boosting Your iPhone's Audio Without a Fuss - A Step-by-Step Troubleshoot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-ios-update-glitches-a-guide-for-iphone-and-ipad-on-versions-18-to-13/"><u>Resolving iOS Update Glitches: A Guide for iPhone and iPad on Versions 18 to 13</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-issues-with-your-iphones-nearness-gauge/"><u>Solving Issues with Your iPhone's Nearness Gauge</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-solutions-to-restore-wi-fi-bars-post-ios-17-upgrade/"><u>Top 5 Solutions to Restore Wi-Fi Bars Post-iOS 17 Upgrade</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/trouble-updating-your-new-iphone-here-are-6-proven-methods-to-resolve-it/"><u>Trouble Updating Your New iPhone? Here Are 6 Proven Methods to Resolve It!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-for-when-find-my-iphone-fails-to-update-or-display-location-easy-solutions-inside/"><u>Troubleshooting Guide for When 'Find My iPhone' Fails to Update or Display Location - Easy Solutions Inside!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-iphones-how-to-overcome-the-persistent-charging-screen-problem/"><u>Troubleshooting iPhones: How to Overcome the Persistent Charging Screen Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/trusted-methods-for-effective-troubleshooting-of-apple-pencil-connection-issues/"><u>Trusted Methods for Effective Troubleshooting of Apple Pencil Connection Issues</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix .</u></a></li>
 </ul></div>
 

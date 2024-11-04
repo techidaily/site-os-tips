@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Preserve Your Memories - Secure Mac Photo Storage Techniques"
-date: 2024-08-18T09:27:40.368Z
-updated: 2024-08-19T09:27:40.368Z
+date: 2024-11-02T16:40:39.785Z
+updated: 2024-11-04T16:35:28.847Z
 tags:
   - mac-troubleshoot
   - fix-mac-problems
@@ -28,13 +28,24 @@ Fix Mac Won't Shut Down
 * [Part 3: Get Back Data After Force Shutdown or Reinstall](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How to Shut down Mac Correctly
 
  Sometimes, Mac won't shut down just because you did not follow the right procedure.
 
 ![Shut down Mac](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/shut-down-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1.
 
@@ -49,15 +60,16 @@ Step 3.
  Save the files you have been working on. After all apps are closed, Mac will start turning off.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: What to Do If Mac Won't Shut down
 
  According to our research, here are the best fixes for Mac that won't shut down.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1: Free up Space
 
 If your computer accumulates too much junk files, Mac won't shut down.
@@ -79,6 +91,13 @@ Step 2.
 If there are too many apps opened, Mac won't shut down quickly.
 
 ![Close All Apps](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-force-quit-apps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1.
 
@@ -108,17 +127,11 @@ Step 3.
 
  To reset SMC, force shut down your MacBook, unplug the power cord and wait for at least 15 seconds, then power cord back and turn on your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 4: Diagnose Mac and Test Your Disk
 
  The built-in Apple Diagnostics and Disk Test features are valid troubleshooting when Mac won't shut down.
 
 ![Diagnose Mac](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/apple-diagnostics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Perform Apple Diagnostics
 
@@ -149,9 +162,6 @@ Step 3.
  The[Safe Mode](https://tools.techidaily.com/) can check the issue that leads to Mac won't shut down. It is worth to try to restart your computer in Safe Mode.
 
 ![Try Safe Mode](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-safe-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -169,14 +179,18 @@ Step 4.
 
  Go to theApple menu and selectRestart . Then check if Mac shuts down as usual.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 6: Reinstall MacOS
 
  If you have tried the solutions above and the issue that Mac won't shut down repeats, you have to reinstall your system.
 
 ![Reinstall MacOS](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/macos-high-sierra-recovery-mode-reinstall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -196,6 +210,19 @@ Step 3.
 
 ![Mac Data Recovery](https://www.aiseesoft.com/images/mac-data-recovery/mac-data-recovery-box.png)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
 
 [Mac Data Recovery](https://tools.techidaily.com/aiseesoft/data-recovery/)
@@ -212,13 +239,14 @@ _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
 [Free Download For Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4726670&QTY=1&OPTIONS4726670=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Recover Data from Mac after Troubleshooting
 
 Step 1.
@@ -235,12 +263,16 @@ Install Mac Data Recovery
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the program and you will get three sections,Data Type ,Hard Disk Drives , andRemovable Drives .
 
 ![Scan](https://www.aiseesoft.com/images/mac-data-recovery/scan-mac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 Step 2.
 
@@ -257,9 +289,6 @@ Recover files from Mac
  After that, preview and find the lost files. Check them and click theRecover button to get them back.
 
 ![Recover](https://www.aiseesoft.com/images/mac-data-recovery/recover-data-on-mac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If your Mac keeps shutting down and restarting, you need to find solutions to[fix kernal panic on Mac](https://tools.techidaily.com/) .
 
@@ -295,17 +324,12 @@ More Reading
  How to fix error code 43 on Mac? What does error code 43 mean? This post shows details about what error code -43 Mac is and how to fix this error with ease.
 
 ![Disqus Icon](https://www.aiseesoft.com/images/article/disqus-icon.png) Leave your comment and join our discussion
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -314,4 +338,20 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-sincere-evaluation-of-a-digital-audio-player-for-2024/"><u>[Updated] The Sincere Evaluation of a Digital Audio Player for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-gpio-control-software-free-download-for-enhanced-system-performance/"><u>AMD GPIO Control Software – FREE Download for Enhanced System Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-restoration-guide-resetting-iphone-15-how-to-wipe-all-data-and-configurations/"><u>Complete Restoration Guide: Resetting iPhone 15 – How to Wipe All Data & Configurations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/delete-your-kik-conversations-forever-4-stealthy-techniques/"><u>Delete Your Kik Conversations Forever: 4 Stealthy Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevating-your-drones-photographic-capabilities-with-the-right-gimbal/"><u>Elevating Your Drones' Photographic Capabilities with the Right Gimbal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-androids-top-visual-adjustment-tools/"><u>In 2024, Android's Top Visual Adjustment Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-techniques-for-logitech-webcam-videos/"><u>In 2024, Essential Techniques for Logitech Webcam Videos</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-effortlessly-retrieve-lost-images-from-your-iphone-onto-a-pc/"><u>Quick Guide: How to Effortlessly Retrieve Lost Images From Your iPhone Onto a PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-your-shopping-records-from-iphone/"><u>Step-by-Step Guide: Clearing Your Shopping Records From iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-secure-methods-for-completely-erasing-your-iphones-sms-history/"><u>Top 3 Secure Methods for Completely Erasing Your iPhone's SMS History</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201414472-troubleshoot-your-stuck-keyboard-arrows-effective-solutions/"><u>Troubleshoot Your Stuck Keyboard Arrows – Effective Solutions!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-deletion-of-your-icloud-email-address/"><u>Ultimate Guide: Mastering Deletion of Your iCloud Email Address</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-erase-music-files-in-itunes-for-desktop-users/"><u>Ultimate Tutorial: How to Erase Music Files in iTunes for Desktop Users</u></a></li>
+</ul></div>
 

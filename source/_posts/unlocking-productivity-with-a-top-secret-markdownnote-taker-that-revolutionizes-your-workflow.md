@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-10-24T16:59:06.070Z
-updated: 2024-10-29T23:01:20.840Z
+date: 2024-10-31T17:15:26.730Z
+updated: 2024-11-04T18:21:58.127Z
 tags:
   - ios
 categories:
@@ -37,23 +37,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While I'm focusing on the Android version, Obsidian is available for basically any platform you can think of, whether that's on your PC, tablet, or phone. I use [the Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002537/https://play.google.com/store/apps/details?id=md.obsidian&hl=en%5FUS&gl=US), but the mobile version of Obsidian is largely the same [on the iPhone and iPad](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) as well. Now, let's get into what makes Obsidian so good.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Notes Are Saved As Accessible Plain Text Files
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -63,16 +49,16 @@ Bertel King / How-To Geek
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -88,6 +74,19 @@ Bertel King / How-To Geek
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Obsidian opens each note in its own tab. On most phones, this is like switching between the tabs in a mobile web browser, and it takes some of the pain out of bouncing between multiple files at a time.
@@ -101,10 +100,10 @@ Bertel King / How-To Geek
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -114,10 +113,10 @@ Bertel King / How-To Geek
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Word and Character Count Included for Writers
@@ -131,6 +130,13 @@ Bertel King / How-To Geek
  I love it when an app displays the current word count on-screen as I write, but tucking this information into a separate page is fine, too. I just need it to be available. In many note-taking apps, it isn't. This is the other big reason I'm not relying on Samsung Notes. It's a reason Google Keep and [many alternatives to Apple Notes](https://ai-voice-clone.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/) aren't well-suited to the job. It's a big part of why iA Writer and Jotterpad are.
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Extend Obsidian With Plug-ins
 
@@ -159,20 +165,18 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-dial-up-your-visual-storytelling-with-animated-texts-no-cost-for-2024/"><u>[New] Dial up Your Visual Storytelling with Animated Texts, No Cost for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-sundae-surveillance-insightful-review-of-frozen-film-software-for-2024/"><u>[New] Sundae Surveillance Insightful Review of Frozen Film Software for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator-wondershare-virbo/"><u>2024 Approved Video Translator | Wondershare Virbo</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/debut-video-capture-review-and-alternative/"><u>Debut Video Capture Review and Alternative</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/re-and-compare-20plus-best-free-video-editors-for-ios-for-2024/"><u>Explore and Compare 20+ Best Free Video Editors for iOS for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-hp-laserjet-n-series-driver-for-windows-11108-free-download/"><u>Get the Latest HP LaserJet N Series Driver for Windows 11/10/8 - Free Download</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-itunes-error-code-2-on-windows-11-8-7-vista-and-xp/"><u>How to Resolve iTunes Error Code 2 on Windows 11, 8, 7, Vista & XP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reliable-methods-to-resolve-iphoneipad-video-playback-errors/"><u>Reliable Methods to Resolve iPhone/iPad Video Playback Errors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-erasing-your-artificial-intelligence-feature-in-snapchat-app/"><u>Step-by-Step Tutorial: Erasing Your Artificial Intelligence Feature in Snapchat App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-methods-to-resolve-the-blue-screen-issue-on-your-ipad-with-ios-18-compatibility/"><u>Top 3 Methods to Resolve the Blue Screen Issue on Your iPad with iOS 18 Compatibility</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-rapid-iphone-battery-depletion-solutions-and-tips/"><u>Understanding Rapid iPhone Battery Depletion: Solutions & Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-parental-controls-no-password-needed/"><u>Unlock Your iPhone's Parental Controls: No Password Needed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-seeking-visual-vintage-free-art-archives-online/"><u>[New] 2024 Approved Seeking Visual Vintage Free Art Archives Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-immerse-in-tiktok-entertainment-with-ease-and-grace-for-2024/"><u>[New] Immerse in TikTok Entertainment with Ease and Grace for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-iphones-made-simple-how-to-save-and-savor-animated-images/"><u>[Updated] IPhones Made Simple How to Save and Savor Animated Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-mindset-of-a-photographer-polarrs-editing-techniques/"><u>2024 Approved Inside the Mindset of a Photographer Polarr’s Editing Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-for-activating-emergency-caller-id-skip-on-ios-devices/"><u>Easy Steps for Activating Emergency Caller ID Skip on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tips-on-how-to-perform-a-successful-airpods-software-update/"><u>Easy Tips on How to Perform a Successful AirPods Software Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-contact-editing-discover-the-latest-upgrade-for-microsoft-outlook-on-mobile-devices/"><u>Enhanced Contact Editing: Discover the Latest Upgrade for Microsoft Outlook on Mobile Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-android-functions-that-apple-needs-to-borrow-for-upcoming-iphones/"><u>Essential Android Functions That Apple Needs to Borrow for Upcoming iPhones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/godly-onslaught-ragnaroks-day/"><u>Godly Onslaught Ragnarok’s Day</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-c55-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco C55</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-using-manycam-advanced-multi-camera-editing-for-streamers/"><u>Ultimate Guide to Using ManyCam | Advanced Multi-Camera Editing for Streamers</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/windows-11-22h26/"><u>Windows 11 22H2版本的蓝屏问题及其6种有效解决策略</u></a></li>
 </ul></div>
 

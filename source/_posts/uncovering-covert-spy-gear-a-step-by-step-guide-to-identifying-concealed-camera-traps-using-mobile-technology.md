@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-10-26T22:14:19.131Z
-updated: 2024-10-29T21:27:09.338Z
+date: 2024-11-03T17:27:14.653Z
+updated: 2024-11-04T16:16:24.119Z
 tags:
   - ios
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Scan for Networked Cameras
 
  Many places you stay give you access to the local network. You can use this to your advantage with an app named Fing. Fing makes both [iPhone](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://itunes.apple.com/us/app/fing-network-scanner/id430921107) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en%5FUS) apps. Better yet, it's free and doesn't have ads. Fing does ask you to sign in for more features, but you won't need to do that for the device and port scanning.
@@ -48,55 +55,41 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
  If you find any suspicious devices on the network, you'll want to scan for any open ports those devices are using. Tap the back button (or swipe back), tap the "Tools" button, then tap "Find Open Ports." 
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -111,6 +104,13 @@ Josh Hendrickson / How-To Geek
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -133,24 +133,19 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://os-tips.techidaily.com/best-clean-master-substitutes-top-10-picks/"><u>Best Clean Master Substitutes : Top 10 Picks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/practices-for-secure-youtube-mp4-conversion-for-2024/"><u>Best Practices for Secure YouTube MP4 Conversion for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breeze-through-optimization-mastering-cache-removal-on-your-android-os/"><u>Breeze Through Optimization: Mastering Cache Removal on Your Android OS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-clearing-all-snapchat-messages-and-conversations-from-your-account/"><u>Complete Guide to Clearing All Snapchat Messages and Conversations From Your Account</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-leading-replacements-for-clean-master-ultimate-ranking-of-top-10-alternatives/"><u>Discover the Leading Replacements for Clean Master - Ultimate Ranking of Top 10 Alternatives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/game-on-and-store-more-top-5-ssd-reviews-for-xbox-for-2024/"><u>Game On & Store More Top 5 SSD Reviews for Xbox for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-blaze-2-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Blaze 2 Pro</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-talking-avatar/"><u>New In 2024, What Is Talking Avatar?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-dullness-a-guide-to-colorful-windows-backdrops/"><u>Reversing Dullness: A Guide to Colorful Windows Backdrops</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-v30-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo V30 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-internet-activity-logs-from-androids-popular-browsers-chrome-firefox-opera-dolphin/"><u>Step-by-Step Guide: Removing Internet Activity Logs From Android's Popular Browsers (Chrome, Firefox, Opera, Dolphin)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-computer-equipment/"><u>Tom's Tech Review: Expert Insights on Latest Computer Equipment</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nokia-c22-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nokia C22 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-3-methods-to-correct-invalid-disk-issues-and-secure-your-data/"><u>Ultimate Guide: Top 3 Methods to Correct Invalid Disk Issues & Secure Your Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-uninstalling-applications-from-your-iphone-or-android-device/"><u>Ultimate Guide: Uninstalling Applications From Your iPhone or Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-reformat-your-secured-sd-card-for-use-on-windows-mac-os-android-phones-and-digital-cameras/"><u>Ultimate Tutorial: How To Reformat Your Secured SD Card for Use on Windows, Mac OS, Android Phones and Digital Cameras</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-secured-sd-cards-a-step-by-step-guide-and-data-recovery-techniques/"><u>Unlocking Secured SD Cards: A Step-by-Step Guide & Data Recovery Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-alert-comparing-the-iphone-16-with-its-predecessor-what-enthusiasts-should-know-before-switching/"><u>Upgrade Alert: Comparing the iPhone 16 with Its Predecessor, What Enthusiasts Should Know Before Switching!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-breakdown-of-12-youtubes-best-in-class-gaming-openings-for-2024/"><u>[New] The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-tips-for-navigating-zoom-on-win11-systems/"><u>[Updated] 2024 Approved Essential Tips for Navigating Zoom on Win11 Systems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[Updated] In 2024, Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>[Updated] Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-soundscape-dilution-via-audacity-tools/"><u>[Updated] Navigating Soundscape Dilution via Audacity Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2-how-to-turn-off-automatic-transcription-on-your-airpods-for-enhanced-privacy-and-control/"><u>2. How to Turn Off Automatic Transcription on Your AirPods for Enhanced Privacy and Control</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-high-dynamic-range-in-photoshop-artistry/"><u>2024 Approved Mastering High Dynamic Range in Photoshop Artistry</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-others-replicate-apples-success-with-modular-connectivity-in-electronics/"><u>Can Others Replicate Apple's Success with Modular Connectivity in Electronics?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-artificial-intelligence-powered-backdrops-the-ultimate-guide-for-your-instagram-storytelling/"><u>Creating Artificial Intelligence-Powered Backdrops: The Ultimate Guide for Your Instagram Storytelling</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-fixes-to-restore-sound-on-your-iphone-headphones/"><u>Expert Fixes to Restore Sound on Your iPhone Headphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-computer-components-through-toms-hardware-wisdom/"><u>Mastering Computer Components Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/regain-access-3-straightforward-techniques-for-retrieving-deleted-photos-on-ios-devices/"><u>Regain Access: 3 Straightforward Techniques for Retrieving Deleted Photos on iOS Devices</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-mastery-of-lacies-data-recovery-app-on-windows-11/"><u>Step-by-Step Mastery of LaCie's Data Recovery App on Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-strategy-for-iphone-12-recovery-with-icloud-backup-feature-explained/"><u>Step-by-Step Strategy for iPhone 12 Recovery with iCloud Backup Feature Explained</u></a></li>
 </ul></div>
 

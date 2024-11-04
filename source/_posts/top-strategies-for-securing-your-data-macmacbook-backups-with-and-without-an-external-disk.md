@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies for Securing Your Data: Mac/MacBook Backups with & without an External Disk"
-date: 2024-08-18T09:27:04.427Z
-updated: 2024-08-19T09:27:04.427Z
+date: 2024-10-31T17:52:32.319Z
+updated: 2024-11-04T16:49:24.467Z
 tags:
   - mac-troubleshoot
   - fix-mac-problems
@@ -45,9 +45,6 @@ Step 3.
 
  Save the files you have been working on. After all apps are closed, Mac will start turning off.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What to Do If Mac Won't Shut down
 
  According to our research, here are the best fixes for Mac that won't shut down.
@@ -58,6 +55,13 @@ If your computer accumulates too much junk files, Mac won't shut down.
 
 ![Free up Space](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/clear-safari-caches-macos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1.
 
  Open your Safari, go toSafari \>Preferences \>Advanced and enableShow Develop menu in menu bar . Then head to Develop after close the Preferences window and selectEmpty Caches .
@@ -67,6 +71,13 @@ Step 2.
  Run the Finder app, clickGo \>Go to Folder , input\~/Library/Caches and clickOK . Drag the junk files and drop them into theTrash . Then empty your trash can.
 
  That is also the way to[speed up slow Mac](https://tools.techidaily.com/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Close All Apps
 
@@ -84,13 +95,30 @@ Step 2.
 
  Sometimes, you could try to[delete an app from Mac](https://tools.techidaily.com/) , when the app caused a failure of shutting down Mac every time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Reset NVRAM, PRAM and SMC
 
  NVRAM, or PRAM on older system, and SMC are two special attributes on Mac. If something wrong with them, Mac won't shut down normally. The solution is simple, resetting NVRAM and SMC.
 
 ![Reset NVRAM](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/reset-mac-pram.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1.
@@ -105,17 +133,11 @@ Step 3.
 
  To reset SMC, force shut down your MacBook, unplug the power cord and wait for at least 15 seconds, then power cord back and turn on your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Diagnose Mac and Test Your Disk
 
  The built-in Apple Diagnostics and Disk Test features are valid troubleshooting when Mac won't shut down.
 
 ![Diagnose Mac](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/apple-diagnostics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Perform Apple Diagnostics
 
@@ -141,17 +163,11 @@ Step 3.
 
  If a problem is detected, you can write it down and ask help from Apple Support.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Try Safe Mode
 
  The[Safe Mode](https://tools.techidaily.com/) can check the issue that leads to Mac won't shut down. It is worth to try to restart your computer in Safe Mode.
 
 ![Try Safe Mode](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-safe-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -174,9 +190,6 @@ Step 4.
  If you have tried the solutions above and the issue that Mac won't shut down repeats, you have to reinstall your system.
 
 ![Reinstall MacOS](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/macos-high-sierra-recovery-mode-reinstall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -195,8 +208,12 @@ Step 3.
 [Aiseesoft Mac Data Recovery](https://tools.techidaily.com/aiseesoft/data-recovery/) is a powerful way to get back your files after troubleshooting.
 
 ![Mac Data Recovery](https://www.aiseesoft.com/images/mac-data-recovery/mac-data-recovery-box.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
@@ -231,8 +248,12 @@ Install Mac Data Recovery
 [Free Download For Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4726670&QTY=1&OPTIONS4726670=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the program and you will get three sections,Data Type ,Hard Disk Drives , andRemovable Drives .
@@ -246,8 +267,12 @@ Scan lost files
  Check the file types you wish to recover inData Type area, and where they stored inHard Disk Drive area. Click theScan button to look for lost files. There is a Deep Scan option at upper right corner for performing a deep scan.
 
 ![Deep Scan](https://www.aiseesoft.com/images/mac-data-recovery/deep-scan-mac.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3.
@@ -257,8 +282,12 @@ Recover files from Mac
  After that, preview and find the lost files. Check them and click theRecover button to get them back.
 
 ![Recover](https://www.aiseesoft.com/images/mac-data-recovery/recover-data-on-mac.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Mac keeps shutting down and restarting, you need to find solutions to[fix kernal panic on Mac](https://tools.techidaily.com/) .
@@ -295,17 +324,12 @@ More Reading
  How to fix error code 43 on Mac? What does error code 43 mean? This post shows details about what error code -43 Mac is and how to fix this error with ease.
 
 ![Disqus Icon](https://www.aiseesoft.com/images/article/disqus-icon.png) Leave your comment and join our discussion
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -314,4 +338,18 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>[New] A Stepwise Journey Converting Smartphones Into VR Hubs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exploring-ios-screenshot-apps-deeply/"><u>[Updated] 2024 Approved Exploring iOS Screenshot Apps Deeply</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-macos-requests-for-your-icloud-key-uncover-causes-and-find-fixes-easily/"><u>Decoding macOS Requests for Your iCloud Key: Uncover Causes and Find Fixes Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dissecting-the-disappointment-how-the-asus-expertbook-b3-falls-short-of-its-claims-tech-analysis-on-zdnet/"><u>Dissecting the Disappointment: How the ASUS ExpertBook B3 Falls Short of Its Claims | Tech Analysis on ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-a-full-mac-refresh-returning-your-computer-to-its-default-configuration/"><u>Expert Tips for a Full Mac Refresh: Returning Your Computer to Its Default Configuration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-regain-access-a-comprehensive-guide-for-forgotten-mac-passwords/"><u>How to Regain Access: A Comprehensive Guide for Forgotten Mac Passwords</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-resolve-the-exit-code-is-x07-issue-on-mac-a-step-by-step-strategy/"><u>How to Successfully Resolve the 'Exit Code Is #X07' Issue on Mac - A Step-by-Step Strategy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-subdued-to-striking-the-art-of-post-color-correction/"><u>In 2024, From Subdued to Striking The Art of Post-Color Correction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y78t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y78t? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ping-perfection-advanced-techniques-to-optimize-warzone-20-connection-speed-in-2n24/"><u>Ping Perfection: Advanced Techniques to Optimize Warzone 2.0 Connection Speed in 2N24</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-to-restoring-access-on-your-apple-computer-by-changing-the-passcode/"><u>Quick Guide to Restoring Access on Your Apple Computer by Changing the Passcode</u></a></li>
+</ul></div>
 

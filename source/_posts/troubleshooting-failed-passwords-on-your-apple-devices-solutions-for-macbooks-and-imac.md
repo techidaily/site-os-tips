@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Failed Passwords on Your Apple Devices: Solutions for MacBooks and iMac"
-date: 2024-08-18T09:27:05.489Z
-updated: 2024-08-19T09:27:05.489Z
+date: 2024-10-30T17:05:42.450Z
+updated: 2024-11-04T16:02:14.401Z
 tags:
   - mac-troubleshoot
   - fix-mac-problems
@@ -28,8 +28,12 @@ Fix Mac Won't Shut Down
 * [Part 3: Get Back Data After Force Shutdown or Reinstall](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How to Shut down Mac Correctly
 
  Sometimes, Mac won't shut down just because you did not follow the right procedure.
@@ -52,17 +56,17 @@ Step 3.
 
  According to our research, here are the best fixes for Mac that won't shut down.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Solution 1: Free up Space
 
 If your computer accumulates too much junk files, Mac won't shut down.
 
 ![Free up Space](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/clear-safari-caches-macos.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1.
@@ -75,14 +79,18 @@ Step 2.
 
  That is also the way to[speed up slow Mac](https://tools.techidaily.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Close All Apps
 
 If there are too many apps opened, Mac won't shut down quickly.
 
 ![Close All Apps](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-force-quit-apps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -99,8 +107,12 @@ Step 2.
  NVRAM, or PRAM on older system, and SMC are two special attributes on Mac. If something wrong with them, Mac won't shut down normally. The solution is simple, resetting NVRAM and SMC.
 
 ![Reset NVRAM](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/reset-mac-pram.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1.
@@ -115,9 +127,6 @@ Step 3.
 
  To reset SMC, force shut down your MacBook, unplug the power cord and wait for at least 15 seconds, then power cord back and turn on your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Solution 4: Diagnose Mac and Test Your Disk
 
  The built-in Apple Diagnostics and Disk Test features are valid troubleshooting when Mac won't shut down.
@@ -154,6 +163,13 @@ Step 3.
 
 ![Try Safe Mode](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1.
 
  Force shut down your Mac by hitting thePower key for 10 seconds. Wait for another 10 seconds, press thePower key to turn back on your machine.
@@ -171,8 +187,12 @@ Step 4.
  Go to theApple menu and selectRestart . Then check if Mac shuts down as usual.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 6: Reinstall MacOS
 
  If you have tried the solutions above and the issue that Mac won't shut down repeats, you have to reinstall your system.
@@ -191,9 +211,6 @@ Step 3.
 
  To repair a disk, click DiskUtility \>Continue , select the volume you intend to repair and click Erase to start it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Part 3: Get Back Data After Force Shutdown or Reinstall
 
 [Aiseesoft Mac Data Recovery](https://tools.techidaily.com/aiseesoft/data-recovery/) is a powerful way to get back your files after troubleshooting.
@@ -212,17 +229,11 @@ _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
 [Free Download For macOS](https://secure.2checkout.com/order/checkout.php?PRODS=13115525&QTY=1&OPTIONS13115525=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Free Download For Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4726670&QTY=1&OPTIONS4726670=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Recover Data from Mac after Troubleshooting
 
 Step 1.
@@ -242,8 +253,12 @@ Install Mac Data Recovery
  Launch the program and you will get three sections,Data Type ,Hard Disk Drives , andRemovable Drives .
 
 ![Scan](https://www.aiseesoft.com/images/mac-data-recovery/scan-mac.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2.
@@ -253,9 +268,6 @@ Scan lost files
  Check the file types you wish to recover inData Type area, and where they stored inHard Disk Drive area. Click theScan button to look for lost files. There is a Deep Scan option at upper right corner for performing a deep scan.
 
 ![Deep Scan](https://www.aiseesoft.com/images/mac-data-recovery/deep-scan-mac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 Step 3.
 
@@ -264,6 +276,19 @@ Recover files from Mac
  After that, preview and find the lost files. Check them and click theRecover button to get them back.
 
 ![Recover](https://www.aiseesoft.com/images/mac-data-recovery/recover-data-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your Mac keeps shutting down and restarting, you need to find solutions to[fix kernal panic on Mac](https://tools.techidaily.com/) .
 
@@ -306,8 +331,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -315,4 +338,21 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-architects-of-unique-virtual-environments/"><u>[Updated] 2024 Approved Architects of Unique Virtual Environments</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-auditory-interpretation-software-priceless-access/"><u>[Updated] In 2024, Auditory Interpretation Software Priceless Access</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlimited-christmas-classics-9-films-available-for-no-charge-in-2024/"><u>[Updated] Unlimited Christmas Classics 9 Films Available for No Charge, In 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beyond-words-the-universal-language-of-love/"><u>Beyond Words: The Universal Language of Love</u></a></li>
+<li><a href="https://os-tips.techidaily.com/imovie-crashes-often-heres-the-cause-and-easy-fix-guide/"><u>IMovie Crashes Often? Here's The Cause And Easy Fix Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-webcam-tripods-flex-neck-and-stands/"><u>In 2024, Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-13-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 13 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/upplayers-swift-sharing-of-youtube-plays/"><u>Pace Upplayers Swift Sharing of YouTube Plays</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-for-efficiently-compressing-and-decompressing-content-on-macos/"><u>Step-by-Step Tutorial for Efficiently Compressing & Decompressing Content on macOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-editors-path-to-seamless-inshot-joins/"><u>The Editor's Path to Seamless Inshot Joins</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-reliable-techniques-to-resolve-connection-issues-with-airpods-and-macbook/"><u>Top 10 Reliable Techniques to Resolve Connection Issues with AirPods and MacBook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-methods-for-efficiently-backing-up-your-mac-photos/"><u>Top 3 Methods for Efficiently Backing Up Your Mac Photos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-wi-fi-secrets-a-fast-guide-to-recovering-saved-passwords-on-a-mac-3-simple-approaches/"><u>Unlocking Wi-Fi Secrets: A Fast Guide to Recovering Saved Passwords on a Mac - 3 Simple Approaches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-does-imovie-frequently-crash-and-simple-solutions-to-prevent-it/"><u>Why Does iMovie Frequently Crash & Simple Solutions To Prevent It</u></a></li>
+</ul></div>
 

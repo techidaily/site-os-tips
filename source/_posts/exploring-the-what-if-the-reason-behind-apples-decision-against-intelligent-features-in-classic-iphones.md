@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones"
-date: 2024-10-26T21:39:02.152Z
-updated: 2024-10-29T16:02:15.045Z
+date: 2024-10-29T16:45:12.738Z
+updated: 2024-11-04T18:19:30.313Z
 tags:
   - ios
 categories:
@@ -25,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 * Apple also has Private Cloud Compute, which Apple Intelligence can tap into when it thinks that the processing power on your device isn't sufficient and needs cloud resources to complete the task.
 
  Even though Apple Intelligence looks genuinely innovative, it's getting a lot of backlash due to its availability. The feature won't be coming to most iPhones on the market, even though they are technically capable of running it. But there is a very compelling reason behind this decision.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Apple Intelligence Is Not Coming to Older iPhones
 
@@ -68,15 +55,22 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
 
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
@@ -89,28 +83,34 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
 
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
 
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Changes I Want to See in Apple Intelligence in the Future
@@ -136,24 +136,18 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-refined-lineup-of-conversation-starters-for-podcasting/"><u>[New] Refined Lineup of Conversation Starters for Podcasting</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-family-bonding-through-film-the-ultimate-classics-list/"><u>[Updated] Family Bonding Through Film The Ultimate Classics List</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>[Updated] The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-battle-of-broadcasting-go-live-with-obstwitch/"><u>2024 Approved Battle of Broadcasting Go Live with OBS/Twitch</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comparison-of-aomei-backupper-versions/"><u>Comparison of AOMEI Backupper Versions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficient-strategies-for-resolving-iphone-call-disruptions-verified-approaches/"><u>Efficient Strategies for Resolving iPhone Call Disruptions: Verified Approaches</u></a></li>
-<li><a href="https://os-tips.techidaily.com/error-53-explained-simple-and-secure-solutions-inside/"><u>Error 53 Explained: Simple & Secure Solutions Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-snappin-snapchat-5-swift-solutions-for-common-app-hiccups/"><u>Fix Snappin' Snapchat: 5 Swift Solutions for Common App Hiccups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-a-stuck-ipad-keyboard-in-10-easy-steps-comprehensive-repair-manual/"><u>Fixing a Stuck iPad Keyboard in 10 Easy Steps - Comprehensive Repair Manual</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guaranteed-fixes-for-loading-issues-with-videos-on-ios-devices/"><u>Guaranteed Fixes for Loading Issues with Videos on iOS Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-12-pro-max-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 12 Pro Max Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audiophiles-top-picks-for-high-quality-window-based-podcasts-8/"><u>In 2024, Audiophile's Top Picks for High-Quality Window-Based Podcasts (#8)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-honor-70-lite-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor 70 Lite 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-camon-20-premier-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Camon 20 Premier 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcome-your-iphones-failed-update-dilemma-with-these-four-effective-solutions/"><u>Overcome Your iPhone's Failed Update Dilemma with These Four Effective Solutions</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/quick-and-easy-twitter-to-snapchat-video-sharing-tips-for-2024/"><u>Quick & Easy Twitter to Snapchat Video Sharing Tips for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-ipados-nwidgets-expert-strategies-to-restore-functionality/"><u>Reviving Your iPadOS nWidgets: Expert Strategies to Restore Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safe-and-simple-solutions-unstick-your-iphone-from-recovery-mode-in-just-3-steps/"><u>Safe and Simple Solutions: Unstick Your iPhone From Recovery Mode in Just 3 Steps!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-iphone-voicemail-failures-a-list-of-common-problems-and-full-proof-fixing-methods/"><u>Understanding iPhone Voicemail Failures: A List of Common Problems and Full-Proof Fixing Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pixel-chronicles-mastering-the-art-of-recording-your-minecraft-world/"><u>[New] 2024 Approved Pixel Chronicles Mastering the Art of Recording Your Minecraft World</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-play-your-srt-files-easily-winmac-tips/"><u>[New] 2024 Approved Play Your SRT Files Easily Win/Mac Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-prodigious-editing-power-utilizing-inshot-on-devices/"><u>[New] 2024 Approved Prodigious Editing Power Utilizing Inshot on Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-data-deluge-infographics-on-youtubes-intriguing-insights-for-2024/"><u>[New] Data Deluge Infographics on YouTube's Intriguing Insights for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-alarm-choices-best-download-junctions-for-2024/"><u>[New] Top Alarm Choices Best Download Junctions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-engaging-users-with-instagrams-interactive-survey-feature/"><u>[Updated] In 2024, Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-easy-guide-setting-up-automated-texts-on-your-ios-device/"><u>1. Easy Guide: Setting Up Automated Texts on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/3-key-features-i-hope-apple-enables-for-utilizing-my-personalized-ai-avatars-speech/"><u>3 Key Features I Hope Apple Enables for Utilizing My Personalized AI Avatar's Speech</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyyntt/"><u>ABBYYがNTTドコモ向けに開発した画像からテキストを抽出する多言語翻訳ツールのイノベーション</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automate-a-new-vibe-change-iphones-background-regularly/"><u>Automate a New Vibe - Change iPhones Background Regularly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-efficiency-on-your-iphone-explore-the-10-must-use-keyboard-functions-for-power-users/"><u>Boost Efficiency on Your iPhone: Explore the 10 Must-Use Keyboard Functions for Power Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-x100-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo X100 Is Unlocked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 </ul></div>
 

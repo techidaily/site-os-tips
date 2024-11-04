@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-10-22T21:25:24.738Z
-updated: 2024-10-29T18:33:56.030Z
+date: 2024-11-02T16:27:17.657Z
+updated: 2024-11-04T18:10:58.116Z
 tags:
   - ios
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  A seemingly useful trick for unlocking your iPhone has been doing the rounds on social media which allows you to unlock your iPhone with a simple voice command. While it might sound handy, it's one tip you should probably avoid if you want to keep your device secure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Unlocking Your iPhone With Your Voice
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  We don't necessarily recommend doing this for most users, but here's how to unlock your [iPhone](https://vimeo-videos.techidaily.com/in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/) by speaking to it if you're curious. First, head to Settings > Accessibility > Voice Control and tap "Set Up Voice Control" at the top of the menu. Tap "Continue" then "Done" after reading the information displayed.
 
 ![Set up Voice Control on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/set_up_voice_control.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, you'll need to mark the location of the buttons you'll be using on the "Enter Passcode" screen. Make sure that [Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) doesn't automatically unlock your iPhone (cover the sensor at the top of the screen) and grab something like a whiteboard marker or makeup brush that you can easily wipe off your iPhone screen when you're done.
 
@@ -59,13 +52,20 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Run custom gesture using Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/run_custom_gesture.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Voice Unlocking Is a Bad Idea
 
@@ -85,14 +85,14 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
 
- Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
 
 ##  Unlock Your iPhone With an Apple Watch, Too
 
@@ -115,15 +115,19 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-your-daily-dose-of-ig-meme-joy-and-sorrow-the-best-groups/"><u>[New] In 2024, Your Daily Dose of IG Meme Joy & Sorrow The Best Groups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/bypass-drm-restrictions-for-itunes-purchases-with-dearmobs-comprehensive-guide/"><u>Bypass DRM Restrictions for iTunes Purchases with DearMob's Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-dearmob-windows-security-the-ultimate-user-manual/"><u>Comprehensive DearMob Windows Security: The Ultimate User Manual</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dearmob-app-a-step-by-step-tutorial-on-shifting-your-iphones-footage-to-a-windows-laptop/"><u>DearMob App: A Step-by-Step Tutorial on Shifting Your iPhone's Footage to a Windows Laptop</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/gratuidade-ao-vivo-conversor-opus-para-wma-com-o-aplicativo-movavi/"><u>Gratuidade Ao Vivo - Conversor Opus Para WMA Com O Aplicativo Movavi</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-move-data-from-an-iphone-to-a-windows-computer-a-step-by-step-guide-using-deedroid/"><u>How to Move Data From an iPhone to a Windows Computer: A Step-by-Step Guide Using DeeDroid</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-your-creative-potential-top-ipad-video-editors/"><u>In 2024, Unlock Your Creative Potential Top iPad Video Editors</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/revolutionizing-vr-gaming-the-dual-benefits-of-battery-equipped-elite-straps-for-oculus-quest-2-with-secure-case-storage-solution/"><u>Revolutionizing VR Gaming: The Dual Benefits of Battery-Equipped Elite Straps for Oculus Quest 2 with Secure Case Storage Solution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-m14-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy M14 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/why-testimonial-videos-are-essential-for-brands-today/"><u>Why Testimonial Videos Are Essential for Brands Today</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-how-to-restore-erased-imessages-on-ipads-including-air-and-pro-models/"><u>Complete Tutorial: How to Restore Erased iMessages on iPads, Including Air and Pro Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-unveiling-the-secrets-of-tenorshare-ultdata/"><u>Comprehensive Guide: Unveiling the Secrets of Tenorshare UltData</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-restoring-erased-imessages-on-ios-devices/"><u>Effective Techniques for Restoring Erased iMessages on iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-pova-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Pova 5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-deciphering-intermittent-stoppages-in-photobooth-videos/"><u>In 2024, Deciphering Intermittent Stoppages in Photobooth Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-restoring-missing-direct-message-threads-in-tiktok-expert-techniques-for-ios-and-android-devices/"><u>Master the Art of Restoring Missing Direct Message Threads in TikTok - Expert Techniques for iOS & Android Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-art-of-storytelling-10-famous-movies-shaped-by-final-cut-pros-creative-freedom-for-2024/"><u>New The Art of Storytelling 10 Famous Movies Shaped by Final Cut Pros Creative Freedom for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-konverteren-van-mov-naar-webm-een-gratuite-flexibele-losung-mit-movavi/"><u>Online Konverteren Van MOV Naar WEBM: Een Gratuite Flexibele Lösung Mit Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-deleted-imessage-conversations-on-your-iphone-expert-tips-and-tricks/"><u>Recovering Deleted iMessage Conversations on Your iPhone - Expert Tips and Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/sayonara-to-sluggish-keys-top-tricks-for-win-11s-faster-typing/"><u>Sayonara to Sluggish Keys: Top Tricks for Win 11'S Faster Typing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-breakdown-of-iphone-14s-battery-challenges-and-how-to-address-them/"><u>The Complete Breakdown of iPhone 14'S Battery Challenges and How to Address Them</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-wet-proof-smart-watches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Wet-Proof Smart Watches - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

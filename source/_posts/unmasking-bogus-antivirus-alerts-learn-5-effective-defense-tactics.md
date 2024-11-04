@@ -1,7 +1,7 @@
 ---
 title: Unmasking Bogus Antivirus Alerts - Learn 5 Effective Defense Tactics
-date: 2024-08-18T09:27:42.545Z
-updated: 2024-08-19T09:27:42.545Z
+date: 2024-11-01T18:02:45.637Z
+updated: 2024-11-04T16:00:00.819Z
 tags:
   - mac-troubleshoot
   - fix-mac-problems
@@ -32,9 +32,6 @@ Fix Mac Won't Shut Down
  Sometimes, Mac won't shut down just because you did not follow the right procedure.
 
 ![Shut down Mac](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/shut-down-mac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -48,9 +45,6 @@ Step 3.
 
  Save the files you have been working on. After all apps are closed, Mac will start turning off.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Part 2: What to Do If Mac Won't Shut down
 
  According to our research, here are the best fixes for Mac that won't shut down.
@@ -60,8 +54,12 @@ Step 3.
 If your computer accumulates too much junk files, Mac won't shut down.
 
 ![Free up Space](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/clear-safari-caches-macos.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1.
@@ -75,9 +73,18 @@ Step 2.
  That is also the way to[speed up slow Mac](https://tools.techidaily.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 2: Close All Apps
 
 If there are too many apps opened, Mac won't shut down quickly.
@@ -94,9 +101,6 @@ Step 2.
 
  Sometimes, you could try to[delete an app from Mac](https://tools.techidaily.com/) , when the app caused a failure of shutting down Mac every time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 3: Reset NVRAM, PRAM and SMC
 
  NVRAM, or PRAM on older system, and SMC are two special attributes on Mac. If something wrong with them, Mac won't shut down normally. The solution is simple, resetting NVRAM and SMC.
@@ -150,9 +154,6 @@ Step 3.
  The[Safe Mode](https://tools.techidaily.com/) can check the issue that leads to Mac won't shut down. It is worth to try to restart your computer in Safe Mode.
 
 ![Try Safe Mode](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-safe-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -175,8 +176,12 @@ Step 4.
  If you have tried the solutions above and the issue that Mac won't shut down repeats, you have to reinstall your system.
 
 ![Reinstall MacOS](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/macos-high-sierra-recovery-mode-reinstall.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1.
@@ -196,9 +201,12 @@ Step 3.
 [Aiseesoft Mac Data Recovery](https://tools.techidaily.com/aiseesoft/data-recovery/) is a powerful way to get back your files after troubleshooting.
 
 ![Mac Data Recovery](https://www.aiseesoft.com/images/mac-data-recovery/mac-data-recovery-box.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
@@ -214,12 +222,16 @@ _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Free Download For Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4726670&QTY=1&OPTIONS4726670=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Recover Data from Mac after Troubleshooting
 
@@ -232,23 +244,28 @@ Install Mac Data Recovery
 [Free Download For macOS](https://secure.2checkout.com/order/checkout.php?PRODS=13115525&QTY=1&OPTIONS13115525=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Free Download For Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4726670&QTY=1&OPTIONS4726670=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the program and you will get three sections,Data Type ,Hard Disk Drives , andRemovable Drives .
 
 ![Scan](https://www.aiseesoft.com/images/mac-data-recovery/scan-mac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2.
 
@@ -265,6 +282,13 @@ Recover files from Mac
  After that, preview and find the lost files. Check them and click theRecover button to get them back.
 
 ![Recover](https://www.aiseesoft.com/images/mac-data-recovery/recover-data-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your Mac keeps shutting down and restarting, you need to find solutions to[fix kernal panic on Mac](https://tools.techidaily.com/) .
 
@@ -307,8 +331,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +338,26 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-10-free-web-conferencing-software-for-online-meeting-for-2024/"><u>[New] 10 Free Web Conferencing Software for Online Meeting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-loop-youtube-videos-on-tv-for-2024/"><u>[New] How to Loop YouTube Videos on TV for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-audio-recording-tools-11-edition/"><u>[New] Premier Audio Recording Tools - #11 Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unmatched-fun-awaits-in-our-top-12-pc-clicker-games-list/"><u>[New] Unmatched Fun Awaits in Our Top 12 PC Clicker Games List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-access-unlimited-mcb-theme-images-for-2024/"><u>[Updated] Access Unlimited MCB Theme Images for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-winkweb-meme-magic-at-your-fingertips-for-2024/"><u>[Updated] WinkWeb Meme Magic at Your Fingertips for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artisanarray-pro-online-creation-powerhouse-for-2024/"><u>ArtisanArray Pro Online Creation Powerhouse for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/create-and-revise-pdfs-instantly-discover-the-top-free-pdf-editor-tool-no-expense-necessary/"><u>Create & Revise PDFs Instantly: Discover the Top Free PDF Editor Tool - No Expense Necessary!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-strategies-for-bulk-deletion-of-ios-contacts/"><u>Expert Strategies for Bulk Deletion of iOS Contacts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-completely-remove-siri-suggestions-from-your-iphone-or-ipad-a-step-by-step-guide/"><u>How To Completely Remove Siri Suggestions From Your iPhone or iPad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-find-x6-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Find X6 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-iphones-space-effective-techniques-for-freeing-up-storage-on-ios-12-devices/"><u>Maximize Your iPhone's Space: Effective Techniques for Freeing Up Storage on iOS 12 Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-deletion-top-5-methods-for-removing-albums-off-your-iphone/"><u>Permanent Deletion: Top 5 Methods for Removing Albums Off Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-directions-on-how-to-permanently-remove-images-from-your-ipad-without-restoring/"><u>Simple Directions on How to Permanently Remove Images From Your iPad Without Restoring</u></a></li>
+<li><a href="https://games-able.techidaily.com/stalled-games-not-good-days-manually-extracting-from-sx/"><u>Stalled Games, Not Good Days: Manually Extracting From SX</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-out-unwanted-icalendar-entries-on-ios-devices/"><u>Step-by-Step Guide: Clearing Out Unwanted iCalendar Entries on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-preparing-your-iphone-for-resale/"><u>Step-by-Step Guide: Preparing Your iPhone for Resale</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-techniques-for-thorough-iphone-data-wipe-complete-and-safe/"><u>Top 3 Techniques for Thorough iPhone Data Wipe: Complete & Safe</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-earning-top-dollar-on-pre-owned-iphones/"><u>Top Strategies for Earning Top Dollar on Pre-Owned iPhones</u></a></li>
+</ul></div>
 

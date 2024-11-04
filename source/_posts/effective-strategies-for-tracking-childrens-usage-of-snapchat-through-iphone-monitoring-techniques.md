@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Tracking Children’s Usage of Snapchat Through iPhone Monitoring Techniques
-date: 2024-08-18T09:29:00.344Z
-updated: 2024-08-19T09:29:00.344Z
+date: 2024-11-01T16:55:28.731Z
+updated: 2024-11-04T17:41:43.939Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -27,8 +27,12 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * [How to replace iPhone 4/4S battery](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to replace iPhone 6/7 battery
 
  With the release of iPhone X and iPhone 8/8 Plus, you may notice that your iPhone 6/6 Plus has been used for two years. And soon you will face the situation that your iPhone takes less and less time to run down the battery. Then you need to make an iPhone 6 battery replacement. If you need to replace your iPhone 6/6 Plus battery right this minute, just read the following steps to make iPhone 6 battery replacement.
@@ -41,23 +45,24 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 ![Remove External Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/iphone6-bottom-screws.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Remove the two screws at the bottom of your iPhone with the right screwdriver.
 
 3 Remove the iPhone screen
 
 ![Remove Screen](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-iphone6-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similar to iPhone 5 battery replacement, you need to open the iPhone screen to replace iPhone 6 battery. Place the suction cup above the iPhone "Home" button, and then you can softly pull the sucker to open a crack. Then put a plastic sheet to the crack to remove the screen bit by bit. Make the screen is perpendicular to the battery.
 
 4 Remove the bracket and screws
 
 ![Remove Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/unscrew-iphone6-inside-screws.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Remove the screws on the bracket and then gently remove the bracket. You'd better take iPhone screen off before you remove the bracket.
 
@@ -74,18 +79,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 Step 7 Assemble iPhone screen
 
 ![Assemble iPhone](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/complete-iphone6-battery-replacement.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Reconnect the screen cable according the source connection. Screw the screws when you are sure that all connection is no question. Then put on the screen and screw the screws at the bottom of iPhone.
 
@@ -99,12 +92,15 @@ Step 7 Assemble iPhone screen
 
 ![FoneTrans](https://www.aiseesoft.com/images/ios-transfer/download-and-run-fonetrans.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don't Miss:[How to recover deleted or lost data from iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to make iPhone 5/5s/5c battery replacement
 
 Press the "Power" button about 5 seconds to turn off your iPhone.
@@ -117,20 +113,31 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 
 ![Remove External Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/iphone5-bottom-screws.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just like iPhone 4/4S, iPhone 5 is also fixed by two screws at the bottom of iPhone. You can use the same screwdriver to remove the two screws.
 
 3 Remove the iPhone screen
 
 ![Remove iPhone 5 Screen](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Different with iPhone 4/4S battery replacement, you need to replace iPhone 5 battery by opening the iPhone screen. Place the suction cup above the central screen, and then you can softly pull the suction cup to remove iPhone screen.
 
 4 Remove the bracket and screws
 
 ![Remove iPhone 5 Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/unscrew-inside-screws.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  Use screwdriver to unscrew the screws on the bracket and then remove the bracket. You don't need to take the whole screen off. Just turn the screen up to replace iPhone 5 battery.
 
@@ -142,9 +149,6 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 
  Don't forget to screw the screws at bottom of iPhone. And you can handily complete the iPhone 5 battery replacement within this five steps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to make iPhone 4/4S battery replacement
 
  If your iPhone 4 or iPhone 4S is still in use, it must be the most emergent one which need to be rescue. So in the first part, we will tell you how to replace iPhone 4/4S battery step by step. Just follow the guide and you can handily do it all by yourself.
@@ -157,23 +161,24 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 
 ![Remove Bottom Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/bottom-screws.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use the suitable screwdriver to remove two screws on the bottom of iPhone. Make sure you use the right screwdriver and put the screws at a safe and single place.
 
 3 Remove the rear cover
 
 ![Remove rear cover](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-the-rear-cover.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
  Push up on the rear cover of your iPhone to open the battery cover. Then you can see the battery there.
 
 4 Unscrew the bracket
 
 ![Remove iPhone 4 Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-inside-screw.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  DO NOT directly pull out the iPhone battery. You can see the FPC cable is fixed with a screw. Use another screwdriver to unscrew the screw. Then you may need to rely on a little crowbar to remove the bracket.
 
@@ -213,8 +218,6 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +225,17 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-invisible-broadcasts-anonymous-instagram-live-tips/"><u>[New] Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-decode-the-digital-dollar-with-youtube-an-effective-triple-step-method-for-income-analysis/"><u>[Updated] In 2024, Decode the Digital Dollar with YouTube An Effective Triple Step Method for Income Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-periscope-pro-the-in-depth-usage-guidebook/"><u>[Updated] In 2024, Periscope Pro The In-Depth Usage Guidebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-tale-of-two-platforms-youtube-and-dailymention/"><u>[Updated] The Tale of Two Platforms YouTube and DailyMention</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-your-go-to-source-for-cutting-edge-hardware-insights/"><u>[Your Brand Name] – Your Go-To Source for Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-information-from-your-iphones-sd-card/"><u>Complete Guide: Retrieving Lost Information From Your iPhone's SD Card</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-step-by-step-guide-how-to-safely-restore-your-iphone-without-losing-any-data/"><u>Complete Step-by-Step Guide: How to Safely Restore Your iPhone Without Losing Any Data</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-digital-menace-tackling-wacatacbml-in-windows-networks/"><u>Deciphering the Digital Menace: Tackling Wacatac.B!ml in Windows Networks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/default-methods-to-retrieve-accidentally-deleted-facebook-messenger-conversations-a-step-by-step-guide/"><u>Default Methods to Retrieve Accidentally Deleted Facebook Messenger Conversations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/finding-ways-to-retrieve-lost-phone-numbers-from-your-iphone-even-without-a-previous-copy/"><u>Finding Ways to Retrieve Lost Phone Numbers From Your iPhone, Even without a Previous Copy</u></a></li>
+</ul></div>
 

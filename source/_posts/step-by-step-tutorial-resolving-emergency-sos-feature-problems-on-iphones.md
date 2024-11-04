@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Resolving Emergency SOS Feature Problems on iPhones"
-date: 2024-10-22T19:14:09.823Z
-updated: 2024-10-29T17:12:42.302Z
+date: 2024-10-30T16:00:31.843Z
+updated: 2024-11-04T17:18:51.332Z
 tags:
   - ios
 categories:
@@ -17,6 +17,19 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 * [Why Does My Phone Say "SOS Only"?](https://common-error.techidaily.com/explorerexe-error-solved-and-secured/)
 * [How to Fix "SOS Only" on an iPhone](https://extra-tips.techidaily.com/bringing-smiles-without-dollars-the-mememakers-way-for-2024/)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * "SOS Only" on your iPhone means you're outside your carrier's coverage area, so you won't have normal calling, texting, or internet access.
@@ -26,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
  If you see "SOS Only" on your iPhone at the top of the screen you'll have trouble making calls, sending texts, or accessing the internet. Here's what's going on and how to get things back to normal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does "SOS Only" Mean on iPhone?
@@ -38,18 +51,24 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 
 ![Making an SOS call in a rural area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/sos_only_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Tim Brookes / How-To Geek_
 
  Normal calls to standard numbers won't work and you won't be able to send text messages. Data services that connect to the internet also won't work. Your phone is effectively limited to calling police, fire, ambulance, coastguard, mountain rescue, or similar emergency services you may have in whatever country you are in.
 
  If you have an iPhone with Crash Detection or an Apple Watch with Fall Detection or other emergency services, these will still work as normal while you see the "SOS Only" warning.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Does My Phone Say "SOS Only"?
 
@@ -58,13 +77,6 @@ _Tim Brookes / How-To Geek_
  This means you can still call for help if you find yourself in trouble but outside of normal cell phone range. "SOS Only" will appear when you're traveling abroad depending on which country you are calling from.
 
  "SOS Only" can also appear at times when your cell phone provider is experiencing outages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Fix "SOS Only" on an iPhone
 
@@ -75,10 +87,10 @@ _Tim Brookes / How-To Geek_
 ![Airplane Mode toggle in Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/airplane_mode.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also try [restarting your iPhone](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/) if this doesn't work, which should cause your device to re-establish a connection with your carrier.
@@ -98,19 +110,22 @@ _Tim Brookes / How-To Geek_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-framebyframe-faceoff/"><u>[New] 2024 Approved FrameByFrame Faceoff</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-guide-to-creating-content-top-10-inclusive-video-ideas-for-anyone/"><u>[New] In 2024, Guide to Creating Content Top 10 Inclusive Video Ideas for Anyone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unlocking-creative-photos-using-pexels-effectively-for-2024/"><u>[New] Unlocking Creative Photos Using Pexels Effectively for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-becoming-one-in-the-tiktok-living-room-your-steps/"><u>[Updated] In 2024, Becoming One in the TikTok Living Room Your Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-solutions-how-to-resolve-issues-with-non-playable-audio-tracks-on-your-iphone-models-x-8-7-6-and-5/"><u>Best Solutions: How to Resolve Issues with Non-Playable Audio Tracks on Your iPhone (Models X, 8, 7, 6, and 5)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-file-transfer-using-airdrop-from-your-mac-iphone-ipad-and-ipod-comprehensive-tips-and-tricks/"><u>Effortless File Transfer Using AirDrop From Your Mac, iPhone, iPad & iPod - Comprehensive Tips & Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-rename-your-iphone-two-simple-techniques-unveiled/"><u>Effortlessly Rename Your iPhone: Two Simple Techniques Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-cutting-out-digital-clutter-a-guide-for-silencing-unwanted-audio/"><u>New In 2024, Cutting Out Digital Clutter A Guide for Silencing Unwanted Audio</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-checking-for-updates-error-in-msfs-microsoft/"><u>Overcoming 'Checking for Updates' Error in MSFS (Microsoft</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-logitech-c920-driver-on-windows-11108-systems/"><u>Step-by-Step Guide: Installing Logitech C920 Driver on Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-restoring-an-iphones-factory-settings-post-jailbreak/"><u>Step-by-Step Process: Restoring an iPhone's Factory Settings Post-Jailbreak</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-essential-guide-to-advanced-youtube-studio-editing-for-2024/"><u>The Essential Guide to Advanced YouTube Studio Editing for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-how-to-fix-ios-17-check-in-feature-malfunctions-on-your-iphone/"><u>Troubleshooting Tips: How to Fix 'iOS 17 Check-In' Feature Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hue-harmony-simplified-steps-for-professional-color-adjustment/"><u>[New] Hue Harmony Simplified Steps for Professional Color Adjustment</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-mastering-tiktok-data-10-must-have-metrics-explored-for-2024/"><u>[New] Mastering TikTok Data 10 Must-Have Metrics Explored for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-insightful-selection-elite-free-srt-translation-services-for-2024/"><u>[Updated] Insightful Selection Elite Free SRT Translation Services for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leading-video-to-twitter-platforms-for-2024/"><u>[Updated] Leading Video To Twitter Platforms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-your-mix-essential-audio-devices-for-podcast-success/"><u>2024 Approved Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/changing-the-game-unveiling-top-6-in-nft-arts-and-culture-for-2024/"><u>Changing the Game Unveiling Top 6 in NFT Arts & Culture for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-apple-watch-experience-with-chatgpt-setup-tips-and-tricks/"><u>Enhance Your Apple Watch Experience with ChatGPT – Setup Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-google-drives-new-design-for-mobile-devices-unveiled/"><u>Enhanced User Experience: Google Drive's New Design for Mobile Devices Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-your-favorite-psp-titles-anywhere-using-ppsspp-for-ios-devices/"><u>Experience Your Favorite PSP Titles Anywhere Using PPSSPP for iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/go-off-the-beaten-path-with-apple-maps-exciting-new-feature-unveiled/"><u>Go Off the Beaten Path with Apple Maps: Exciting New Feature Unveiled!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/idos-3-the-latest-dos-emulator-now-available-on-ios-app-store/"><u>IDOS 3: The Latest DOS Emulator Now Available on iOS App Store!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-15-confirmed-with-standard-usb-c-connectivity-ignoring-previous-apple-mfi-accessory-limits-speculations/"><u>IPhone 15 Confirmed with Standard USB-C Connectivity, Ignoring Previous Apple MFi Accessory Limits Speculations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-guide-easy-steps-to-record-and-share-voice-messages/"><u>IPhone Guide: Easy Steps to Record and Share Voice Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-users-embrace-protondrive-as-a-powerful-alternative-to-google-photos/"><u>IPhone Users Embrace ProtonDrive as a Powerful Alternative to Google Photos</u></a></li>
+<li><a href="https://techidaily.com/leverage-cookiebot-power-to-optimize-and-improve-seo-metrics/"><u>Leverage Cookiebot Power to Optimize and Improve SEO Metrics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-role-of-analytics-in-amplifying-your-youtube-presence-for-2024/"><u>The Role of Analytics in Amplifying Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweetsnapter-the-leading-tool-for-storing-your-gif-delights/"><u>TweetSnapter The Leading Tool for Storing Your Gif Delights</u></a></li>
 </ul></div>
 

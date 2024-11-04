@@ -1,7 +1,7 @@
 ---
 title: Locating Your iPhone's iTunes Backup File & Changing Its Path in Windows or macOS
-date: 2024-08-18T09:30:03.059Z
-updated: 2024-08-19T09:30:03.059Z
+date: 2024-10-30T16:19:07.160Z
+updated: 2024-11-04T16:47:29.244Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -36,8 +36,12 @@ Fix a Frozen iPhone
 * [Method 6. Restore the frozen iPhone to factory settings](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 1\. Best way to fix a frozen iPhone(Recommended)
 
  In case you've already known some basic ways to fix a frozen iPhone, we show you the best way in the first part to help you fix iPhone frozen. Want to directly fix iPhone frozen? Here we sincerely recommend the professional[iOS System Recovery](https://tools.techidaily.com/aiseesoft/ios-system-recovery/) to help you fix iPhone frozen issue. First, you can free download and install it to your computer.
@@ -48,24 +52,24 @@ Step 1 Launch iOS System Recovery
 
 ![launch Fonelab](https://www.aiseesoft.com/images/iphone-data-recovery/fix/interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch this powerful iPhone frozen fixer software on your computer and connect your iPhone to it with USB cable. Click "More tools" on the left column and then choose "iPhone System Recovery". Then you will enter the "iPhone System Recovery" window.
 
 Step 2 Start to fix iPhone frozen
 
 ![Led iPhone into DFU](https://www.aiseesoft.com/images/iphone-data-recovery/fix/into-dfu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  Click "Start" button to begin to fix iPhone frozen. You need to put iPhone into Recovery or DFU[restore mode](https://tools.techidaily.com/) to fix iPhone frozen.
 
 Step 3 Download firmware package
 
 ![Prepare to Fix A Frozen iPhone](https://www.aiseesoft.com/images/iphone-data-recovery/fix/select-ipad-model.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the right iPhone model and then click "Download" to download the repaired device plug-in. It will take a few minutes to complete the downloading.
 
@@ -75,9 +79,6 @@ Step 4 Fix iPhone frozen
 
  When the plug-in download is finished, iOS System Recovery will automatically fix iPhone frozen and other issues like[iPhone echo](https://tools.techidaily.com/) . After that, your iPhone will get out of frozen and back to normal condition.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2\. How to fix a frozen app on iPhone
 
 ![iPhone Frozen on App](https://www.aiseesoft.com/images/resource/frozen-app.jpg)
@@ -91,8 +92,12 @@ Double tap theHome button and swipe left or right until you've found the frozen 
  Of course, this method works based on the assumption that the Home button can still respond. More commonly, when you press the Home button, the Power button, and swipe with your finger, nothing happens. In that case, continue to read.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3\. How to restart the frozen iPhone
 
  If your iPhone/iPad is so frozen that even the Home button does not work, or iPhone freezes on lock screen, you can force it to restart.
@@ -105,9 +110,6 @@ Restart frozen iPhone
 
  Press and hold theSleep/Wake button (for iPhone 5/5s/5c/SE it's on the top of the phone, for iPhone 6 and later models it's on the side), wait for a few seconds until a red slider appears, slide it to power off the device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 4\. Hard reset your iPhone 5/6/7 to fix frozen iPhone
 
  The basic restart unfreezes iPhone mostly, but there are still chances that it is unresponsive to your commands or the frozen iPhone/iPad just won't turn off. As a last resort, you can try a more forceful approach call a hard reset.
@@ -120,10 +122,6 @@ Hard Reset iPhone to fix iPhone frozen
 
  Press and hold the top-sideSleep/Wake button and theHome button together for at least 10 seconds. Let go of both buttons after the Apple logo appears on the screen. When the iPhone turns on, you should be able to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Method 5\. Unfreeze an iPhone stuck in Recovery mode
 
 ![iPhone Recovery Mode](https://www.aiseesoft.com/images/resource/itunes-recovery-mode-iphone.jpg)
@@ -139,11 +137,22 @@ Hard Reset iPhone to fix iPhone frozen
  3\. When you get the option to restore or update, choose Update. iTunes will try to reinstall iOS without erasing your data.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 6\. Restore the frozen iPhone to factory settings
 
  Why is iPhone frozen? A frozen iPhone can be a symptom of either software or hardware problems, but most of the time, a series of software problem causes iPhone to freeze. If you can't find what keeps freezing iPhone, or you just want to fix the frozen iPhone for good, the most effective way is to restore iPhone to factory settings. This also works frequently when iPhone is frozen from jailbreaks or things like that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Factory reset iPhone X/8/7/6/5
 
@@ -154,8 +163,12 @@ Factory reset to fix iPhone frozen
  OpenSettings on your iPhone, and thenGeneral , selectReset , and choose toErase All Content and Settings . Please be aware that after this, you're gonna kiss goodbye to all your apps, music, photos, music and all other data, and welcome a brand new iPhone, so[backup iPhone data to computer](https://tools.techidaily.com/) before you fix the frozen iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Best iOS data backing up tool you may want to know
 
 [FoneLab - iPhone Data Recovery](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/) [For Mac](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
@@ -193,8 +206,6 @@ Rating: 4.8 / 5 (based on 138 votes)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +213,24 @@ Rating: 4.8 / 5 (based on 138 votes)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[New] Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-android-ad-blocking-the-top-7-app-list/"><u>[Updated] 2024 Approved Essential Android Ad Blocking The Top 7 App List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-innovate-and-excel-at-fb-ads-unleash-the-potential-of-no-cost-tools/"><u>[Updated] 2024 Approved Innovate & Excel at FB Ads – Unleash the Potential of No-Cost Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-digital-content-arena-competing-titans-vimeo-youtube-dailymotion/"><u>2024 Approved Digital Content Arena Competing Titans - Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-guide-preparing-to-embrace-the-apple-world/"><u>Critical Guide: Preparing to Embrace the Apple World</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disappointing-wearos-experience-leads-me-to-switch-to-apples-smartwatch/"><u>Disappointing WearOS Experience Leads Me to Switch to Apple's Smartwatch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discontinuation-announcement-apple-ends-sales-of-watch-series-9-and-ultra-models/"><u>Discontinuation Announcement: Apple Ends Sales of Watch Series 9 & Ultra Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-ipados-18-upgrades-are-redefining-interaction-on-your-ipad-with-these-8-key-features/"><u>Discover How iPadOS 18 Upgrades Are Redefining Interaction on Your iPad with These 8 Key Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-the-brilliance-of-ios-16s-flashlight-function-a-testament-to-apples-dedication-to-user-experience/"><u>Discovering the Brilliance of iOS 16'S Flashlight Function – A Testament to Apple's Dedication to User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/do-you-absolutely-need-a-phone-screen-guard-for-your-mobile-device/"><u>Do You Absolutely Need a Phone Screen Guard for Your Mobile Device?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-retrieving-missing-apple-airpod-pairs-successfully/"><u>Easy Guide: Retrieving Missing Apple AirPod Pairs Successfully</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-body-cameras-of-2024-in-depth-comparisons-and-choices/"><u>Elite Body Cameras of 2024: In-Depth Comparisons & Choices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/end-of-an-era-the-discontinuation-of-the-iconic-iphone-13-mini/"><u>End of an Era: The Discontinuation of the Iconic iPhone 13 Mini</u></a></li>
+<li><a href="https://extra-information.techidaily.com/holistic-locomotion-scrutiny-report/"><u>Holistic Locomotion Scrutiny Report</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-hot-30-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Hot 30 5G Phone that is Locked?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/protecting-contact-info-in-outlook-365-discover-3-proven-methods/"><u>Protecting Contact Info in Outlook 365: Discover 3 Proven Methods</u></a></li>
+</ul></div>
 

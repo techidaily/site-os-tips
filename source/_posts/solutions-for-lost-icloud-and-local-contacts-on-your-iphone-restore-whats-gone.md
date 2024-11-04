@@ -1,7 +1,7 @@
 ---
 title: "Solutions for Lost iCloud and Local Contacts on Your iPhone: Restore What's Gone"
-date: 2024-08-18T09:28:36.581Z
-updated: 2024-08-19T09:28:36.581Z
+date: 2024-11-03T16:13:30.887Z
+updated: 2024-11-04T16:43:20.140Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -25,8 +25,12 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 * [Way 5. Restore iPhone to Factory Settings (Not Recommended)](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 1\. Enable Location Services and Share My Location
 
  Before sharing your location with others, you need to make sure the Location Services and Share My Location is enabled. When Find My iPhone says "Online, not sharing location", it may be caused by disabled Location Services and Share My Location.
@@ -39,6 +43,13 @@ Step 1.
 
 ![Switch on](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/turn-on-location-services.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2.
 
  On theLocation Services screen, tapShare My Location to enter theFind My screen. The first thing is to tapFind My iPhone , and turn theFind My iPhone toggle on. Next, back toFind My screen, tap theShare My Location toggle on.
@@ -46,6 +57,13 @@ Step 2.
 ![Turn on](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/turn-on-share-my-location.jpg)
 
  Check to see if the issue is resolved. If you still get the message of "Online, not sharing location", try the next way.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 2\. Allow Find My to Access Location
 
@@ -61,6 +79,13 @@ Step 2.
 
 ![Allow](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/allow-location-access.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 3\. Sign in to Your iCloud Account
 
  The basic requirement for being able to use Find My iPhone is that iCloud has to be enabled on the device for locating your iPhone. So when the error message "Online, not sharing location" occurs, you might sign out of your iCloud account. Now follow the steps below to sign in to your iCloud account.
@@ -74,26 +99,33 @@ Step 2.
  Enter your Apple ID and password to sign in to your iCloud.
 
 ![Sign](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/sign-in-apple-id.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 4\. Fix Find My iPhone Online Not Sharing Location without Data Loss (Recommended)
 
  After checking the above settings, if Find My iPhone still shows "Online, not sharing location", your iPhone's system might go wrong. You should try fixing your iPhone system with a professional tool. Here you can use[iOS System Recovery](https://tools.techidaily.com/aiseesoft/ios-system-recovery/) to upgrade or downgrade your iPhone's system to the ideal version, even the beta version, so that your iPhone can return to the normal state. Then your issue of Find My iPhone online not sharing location could be solved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### What Can iOS System Recovery Do for You?
 
 ![Aiseesoft iOS System Recovery](https://www.aiseesoft.com/images/ios-system-recovery/box-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _1_ _8_ _4_ _,_ _9_ _2_ _6_  Downloads
@@ -108,18 +140,10 @@ _1_ _8_ _4_ _,_ _9_ _2_ _6_  Downloads
 [Free Download For Windows](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steps to Fix Find My iPhone Online Not Sharing Location:
 
@@ -134,17 +158,18 @@ Step 2.
  ClickStart at the bottom right corner to continue the process.
 
 ![Detect Issue](https://www.aiseesoft.com/images/ios-system-recovery/detect-iphone-abnormal-issue.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 3.
 
  Choose repairing mode to fix your iPhone. Here we recommend you to chooseStandard Mode to fix your iPhone without data loss. If you want to completely erase all settings and content, you can chooseAdvanced Mode to fix your iPhone. Then clickConfirm .
 
 ![Repair Type](https://www.aiseesoft.com/images/ios-system-recovery/select-repair-type-800.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4.
@@ -152,9 +177,6 @@ Step 4.
  ClickOptimize button to check iPhone model information and download firmware.
 
 ![Optimize](https://www.aiseesoft.com/images/ios-system-recovery/optimize-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
 Step 5.
 
@@ -171,13 +193,6 @@ Step 5.
 [Free Download For Windows](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
@@ -188,6 +203,13 @@ No advertising on the website.
 ![Restore iPhone](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/reset-iphone.jpg)
 
  After resetting, you can[restore your iPhone from backup](https://tools.techidaily.com/) . Then open Find My iPhone to check whether the issue of Online Not Sharing Location is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Final Words
 
@@ -230,8 +252,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +259,23 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-android-3d-player/"><u>[New] High-Fidelity Android 3D Player</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-from-raw-footage-to-mov-windows-10-filming-techniques/"><u>[New] In 2024, From Raw Footage to MOV Windows 10 Filming Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-money-can-you-score-with-youtube-short-videos/"><u>[New] In 2024, How Much Money Can You Score with YouTube Short Videos?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-10-memes-blending-hilarity-and-emotional-depth-on-insta/"><u>[Updated] Top 10 Memes Blending Hilarity and Emotional Depth on Insta</u></a></li>
+<li><a href="https://os-tips.techidaily.com/data-recovery-tips-for-damaged-android-screens-a-comprehensive-approach-to-preserving-your-files/"><u>Data Recovery Tips for Damaged Android Screens: A Comprehensive Approach to Preserving Your Files</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/effortless-steps-to-shift-your-itunes-acquisitions-smoothly/"><u>Effortless Steps to Shift Your iTunes Acquisitions Smoothly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-strategies-for-preserving-messages-mastering-whatsapp-backup-and-restore-processes/"><u>Expert Strategies for Preserving Messages: Mastering WhatsApp Backup and Restore Processes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-strategies-for-seamless-digital-preservation-using-googleplus-and-samsungs-unified-cloud-storage-features/"><u>Expert Strategies for Seamless Digital Preservation Using Google+ and Samsung’s Unified Cloud Storage Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-a-broken-android-smartphone-with-google-cloud-backup-restoration-tips/"><u>Fixing a Broken Android Smartphone with Google Cloud Backup Restoration Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-backup-and-recover-your-android-phones-call-history/"><u>How to Backup & Recover Your Android Phone's Call History</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/htc-handset-users-manual-for-saving-and-retrieving-images-and-contact-details/"><u>HTC Handset User's Manual for Saving and Retrieving Images & Contact Details</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-win11-notepad-through-intelligent-coach/"><u>Improve Win11 Notepad Through Intelligent Coach</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-new-iphone-16-worth-it-unpacking-apples-latest-with-a-critical-eye-at-zdnet/"><u>Is The New iPhone 16 Worth It? Unpacking Apple's Latest with a Critical Eye at ZDNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-cloud-storage-complete-guide-to-safeguarding-your-samsung-galaxy-s-devices-online/"><u>Mastering Cloud Storage: Complete Guide to Safeguarding Your Samsung Galaxy S Devices Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-calls-in-cod-vanguard-when-voice-chat-fails/"><u>Troubleshooting Guide: Fixing Calls in COD: Vanguard When Voice Chat Fails</u></a></li>
+</ul></div>
 

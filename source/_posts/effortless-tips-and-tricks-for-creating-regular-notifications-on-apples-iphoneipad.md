@@ -1,7 +1,7 @@
 ---
 title: Effortless Tips & Tricks for Creating Regular Notifications on Apple's iPhone/iPad
-date: 2024-10-20T22:17:50.878Z
-updated: 2024-10-23T21:40:08.127Z
+date: 2024-11-02T16:22:10.592Z
+updated: 2024-11-04T16:21:33.013Z
 tags:
   - ios
 categories:
@@ -15,6 +15,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 * [Set a Recurring Reminder on iPhone or iPad](https://remote-screen-capture.techidaily.com/updated-2024-approved-innovating-presentations-using-adobe-captivate/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Launch the Reminders app, select "Today," and tap "New Reminder" to add a repeating task.
@@ -24,10 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It's not always easy to remember when to do important things. Luckily, your iPhone or iPad can easily remind you about a repeating task or event using the [Reminders](https://youtube-stream.techidaily.com/mastering-video-success-a-list-of-20-pro-shortcuts-for-2024/) app. Here's how to set it up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set a Recurring Reminder on iPhone or iPad
@@ -37,10 +44,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Tap 'Today.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-tap-today.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then add a new reminder by tapping the "New Reminder" button at the bottom of the screen.
@@ -52,10 +59,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Tap the 'i' button to customize the reminder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-tap-the-i-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Details pane that pops up, select an initial date and time for the reminder. To make the reminder repeat, tap the "Repeat" option.
@@ -65,13 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can have the reminder repeat daily, weekly, biweekly, monthly, every 3 months, every 6 months, yearly, or at a custom frequency. Using the "Custom" option, you can choose to have the reminder repeat on certain days of the week, certain weeks of the month, or certain months of the year. Choose the option that works best for you.
 
 ![Select the repeat interval from the listed options, or set a custom pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-repeat-options.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After setting the repeat interval, you can also select a date when the repetition will end using the "End Repeat" option. Or you can have the reminder repeat forever.
 
@@ -96,16 +96,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-search.techidaily.com/7-effective-strategies-for-fixing-persistent-file-issues-post-deletion/"><u>7 Effective Strategies for Fixing Persistent File Issues Post-Deletion</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 5G Face Lock?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-90-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor 90 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-height-tracking-the-ultimate-tutorial-for-using-iphones-elevation-features/"><u>Mastering Height Tracking: The Ultimate Tutorial for Using iPhone's Elevation Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-productivity-with-iphone-sticker-applications/"><u>Maximize Productivity with iPhone Sticker Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigate-safely-using-waze-get-immediate-updates-on-traffic-lights-sharp-turns-and-more/"><u>Navigate Safely Using Waze - Get Immediate Updates on Traffic Lights, Sharp Turns & More!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/obs-audio-failures-heres-how-you-can-get-your-desktop-recordings-up-and-running-again/"><u>OBS Audio Failures? Here's How You Can Get Your Desktop Recordings Up & Running Again!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcoming-siri-limitations-expert-tips-and-techniques-for-enhanced-voice-command-performance/"><u>Overcoming Siri Limitations: Expert Tips and Techniques for Enhanced Voice Command Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rugged-elegance-peak-design-collaborates-with-the-nomad-collective-on-an-exclusive-iphone-15-pro-protector/"><u>Rugged Elegance: Peak Design Collaborates with the Nomad Collective on an Exclusive iPhone 15 Pro Protector</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-reading-pdfs-with-chatgpt-using-these-4-effective-strategies/"><u>Streamline Reading PDFs with ChatGPT Using These 4 Effective Strategies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/streamlining-your-workflow-solving-20-common-videography-errors/"><u>Streamlining Your Workflow: Solving 20 Common Videography Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-htcs-masterstroke-in-immersive-technology-a-deep-dive-into-vive/"><u>[New] HTC's Masterstroke in Immersive Technology - A Deep Dive Into Vive</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-bringing-your-screens-to-life-with-camstudios-latest-tools/"><u>[Updated] Bringing Your Screens to Life with CamStudio's Latest Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-remote-conferences-with-5-elite-recorders/"><u>[Updated] In 2024, Mastering Remote Conferences with 5 Elite Recorders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>2024 Approved Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-mxf-file-player-compatible-with-mac-and-pc/"><u>Best Free MXF File Player: Compatible with Mac and PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eight-effective-ways-to-get-the-control-center-running-smoothly-on-iphones-again/"><u>Eight Effective Ways to Get the Control Center Running Smoothly on iPhones Again</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-desire-for-a-cosmic-galaxy-ring-denied-by-samsungs-design/"><u>My Desire for a Cosmic Galaxy Ring Denied by Samsung's Design</u></a></li>
+<li><a href="https://os-tips.techidaily.com/phone-overheating-follow-these-tips-to-cool-things-down/"><u>Phone Overheating? Follow These Tips to Cool Things Down!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-vision-a-step-by-step-tutorial-on-modifying-iphones-screen-proximity-settings/"><u>Protect Your Vision: A Step-by-Step Tutorial on Modifying iPhone's Screen Proximity Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sidecar-feature-connecting-your-mac-and-ipad-seamlessly/"><u>Sidecar Feature: Connecting Your Mac and iPad Seamlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stay-safe-on-the-road-waze-highlights-accident-prone-streets/"><u>Stay Safe on the Road: Waze Highlights Accident-Prone Streets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recording-and-preserving-iphone-voice-messages/"><u>Step-by-Step Guide: Recording and Preserving iPhone Voice Messages</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-realme-c51-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme C51 Android SIM Unlock APK</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-spark-20-proplus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Spark 20 Pro+ Phones</u></a></li>
 </ul></div>
 

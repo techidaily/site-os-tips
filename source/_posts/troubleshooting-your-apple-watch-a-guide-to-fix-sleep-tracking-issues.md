@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues"
-date: 2024-10-16T21:05:48.404Z
-updated: 2024-10-23T20:46:53.847Z
+date: 2024-10-29T16:00:51.195Z
+updated: 2024-11-04T18:20:35.343Z
 tags:
   - ios
 categories:
@@ -25,29 +25,22 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
  Wearing your Apple Watch to bed only to discover it’s not tracking your sleep is frustrating. This problem can appear randomly, for seemingly no reason. Here are some tips on getting it working again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Make Sure Sleep Tracking is Turned On
 
  Sleep tracking is an optional function of your Apple Watch, so you’ll need to turn it on to use it. [Set up sleep tracking on your Apple Watch](https://instagram-clips.techidaily.com/updated-2024-approved-developing-dynamic-instagram-highlights/) using the Sleep app on your Watch (tap “Use This Watch for Sleep”) or under Watch > Sleep on your iPhone.
 
 ![Track sleep with Apple Watch setting in the iPhone Watch app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/track_sleep_with_watch.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re having trouble and you’ve enabled the feature, you can toggle it off and on again to see if that helps. Turn off the “Track Sleep with Apple Watch” toggle under Watch > Sleep on your iPhone, then turn it on again.
 
  You might also want to have a look under Health > Sleep > Data Sources & Access to make sure your Apple Watch is listed as a data source. If it’s not, keep reading for a fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Set Up a Sleep Schedule
 
@@ -58,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 ![Select the days of the week and time to set up a sleep schedule.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_set_day.png) 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ensure you set a sleep schedule that covers every day of the week. So if you normally wake up at 7 am with an alarm on a weekday and like to sleep in on the weekends, make a separate schedule that applies only to the weekends _without_ an alarm.
@@ -81,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
  Head to Health > Sleep > Show All Sleep Schedules and delete your schedules by swiping left on each one. Now set the feature up again under Health > Sleep > Full Schedule & Options, making sure each day of the week is covered.
 
 ![Deleting a sleep schedule under the Sleep section of the Apple Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_schedules.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This could help, but you should also…
 
@@ -105,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
  Like your sleep schedule, make sure this Focus mode is set to enable every day of the week.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Remove and Prioritize Data Sources
 
  On your iPhone navigate to Health > Sleep > Data Sources & Access. You should see a list of apps and devices under “Data Sources” that are used to track your sleep. Whatever is at the top takes priority over anything beneath it.
@@ -113,7 +100,21 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Setting sleep data source priority in the Apple Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/data_sources.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make changes, you’ll need to tap “Edit” at the top of the “Data Sources & Access” screen. You can then tap a source to disable it, or tap and drag (using the horizontal lines) to reorder. Place your Apple Watch at the top of the stack, then hit “Done.”
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Make Sure You Sleep for at Least Four Hours
 
@@ -136,16 +137,10 @@ Hannah Stryker / How-To Geek
 ![Option to restart an iPhone with Siri.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/siri_restart.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press and hold the Side button on your Watch until you see the power icon in the top-right corner. Tap it, then use the “Power Off” slider to turn your Watch off. Press and hold the Side button again to turn your Watch on.
@@ -159,13 +154,6 @@ Hannah Stryker / How-To Geek
  To do this, launch the Watch app on your iPhone and tap “All Watches” in the top-left corner. Find the Apple Watch that you use for Sleep Tracking, tap the “i” button and select “Unpair Apple Watch” and follow the instructions.
 
 ![Unpairing an Apple Watch using the iPhone Watch app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/unpair_watch.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll need to set the Watch up again by tapping “Add Watch” on the same screen, then pointing the camera at the pairing pattern that displays on your Apple Watch.
 
@@ -188,20 +176,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-windows-cpu-warning-interrupted-by-system-halt/"><u>[FIXED] Windows CPU Warning: Interrupted by System Halt</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-guide-to-initiating-and-archiving-webinars-economically/"><u>2024 Approved Guide to Initiating and Archiving Webinars Economically</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-removing-water-from-your-iphones-audio-ports/"><u>Complete Guide: Removing Water From Your iPhone's Audio Ports</u></a></li>
-<li><a href="https://os-tips.techidaily.com/determining-the-pixel-dimensions-and-resolution-of-images-on-your-ios-device/"><u>Determining the Pixel Dimensions and Resolution of Images on Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-easy-ways-to-dive-into-using-apples-iphone-shortcuts-feature/"><u>Discover Easy Ways to Dive Into Using Apple's iPhone Shortcuts Feature!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-7-most-important-iphone-protection-tactics-for-enhanced-privacy-and-safety/"><u>Discover the 7 Most Important iPhone Protection Tactics for Enhanced Privacy and Safety</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-latest-features-of-ios-17-and-ipados-17-what-you-need-to-know/"><u>Discover the Latest Features of iOS 17 & iPadOS 17: What You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-next-generation-of-tablets-the-new-ipad-air-boasting-powerful-m2-chip-technology-and-a-larger-versatile-13-inch-screen/"><u>Discover the Next Generation of Tablets: The New iPad Air Boasting Powerful M2 Chip Technology and a Larger, Versatile 13-Inch Screen!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guia-paso-a-paso-para-localizar-y-restaurar-particiones-de-disco-ocultas-en-windows-versiones-10-11-8-y-7/"><u>Guía Paso a Paso Para Localizar Y Restaurar Particiones De Disco Ocultas en Windows Versiones 10, 11, 8 Y 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-12-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 12</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016801373-immediate-remedies-for-astro-a50-speaker-issues-get-sounds-back-asap/"><u>Immediate Remedies for Astro A50 Speaker Issues - Get Sounds Back ASAP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>In 2024, Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-airplay-a-comprehensive-tutorial-for-connecting-to-your-imac-4k5k-screens/"><u>Mastering the Art of AirPlay: A Comprehensive Tutorial for Connecting to Your iMac (4K/5K) Screens</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transformez-vos-films-mxf-en-format-lignes-avec-equite-utilisez-les-services-experts-de-movavi/"><u>Transformez Vos Films MXF en Format Lignes Avec Équité: Utilisez Les Services Experts De Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/ultimate-strategies-for-eradicating-malware-a-no-antivirus-approach/"><u>Ultimate Strategies for Eradicating Malware: A No-Antivirus Approach</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-valheim-agronomy-explained-choosing-superior-saplings-for-2024/"><u>[New] Valheim Agronomy Explained Choosing Superior Saplings for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-7-best-real-time-video-translation-apps/"><u>2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/capturing-thrills-on-a-budget-akaso-ek7000-reviewed/"><u>Capturing Thrills on a Budget - AKASO EK7000 Reviewed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-apple-vision-pro-welcome-to-the-dawn-of-facial-recognition-technology/"><u>Exploring the Apple Vision Pro: Welcome to the Dawn of Facial Recognition Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/extend-your-iphones-power-cycle-top-5-user-friendly-tips-for-longer-battery-life/"><u>Extend Your iPhone's Power Cycle: Top 5 User-Friendly Tips for Longer Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-on-schedule-smartly-discover-how-google-maps-helps-timing-your-journey-perfectly/"><u>Get On Schedule Smartly - Discover How Google Maps Helps Timing Your Journey Perfectly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-disabling-do-not-disturb-feature-on-your-ios-device/"><u>Guide: Disabling 'Do Not Disturb' Feature on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-cozi-revolutionized-our-familys-daily-routine-the-ultimate-organizational-tool/"><u>How Cozi Revolutionized Our Family's Daily Routine: The Ultimate Organizational Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/illuminate-your-night-with-ease-the-ultimate-trick-to-enable-iphone-flashlight-via-backside-pressure/"><u>Illuminate Your Night with Ease: The Ultimate Trick to Enable iPhone Flashlight via Backside Pressure</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-apples-latest-marvel-a-comprehensive-look-at-the-iphone-15-pro-with-revolutionary-titanium-frame-and-enhanced-usb-c/"><u>Inside Apple's Latest Marvel - A Comprehensive Look at the iPhone 15 Pro with Revolutionary Titanium Frame & Enhanced USB-C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-digital-id-adoption-gains-ground-in-california/"><u>IPhone Digital ID Adoption Gains Ground in California</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-professional-email-management-a-top-ten-guide-to-utilizing-apples-mail-app-on-your-iphone/"><u>Mastering Professional Email Management: A Top-Ten Guide to Utilizing Apple's Mail App on Your iPhone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-xiaomi-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Xiaomi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-revealed-mastering-chapter-integration-in-youtube-videos-for-2024/"><u>Secrets Revealed Mastering Chapter Integration in YouTube Videos for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pc-vision-with-updated-graphics-driver/"><u>Streamline PC Vision with Updated Graphics Driver</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-long-lasting-battery-of-moto-g-power-phones/"><u>The Ultimate Guide to the Long-Lasting Battery of Moto G Power Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-power-of-video-enhancement-sdr-to-dynamic-range-upconversion/"><u>Unveiling the Power of Video Enhancement SDR to Dynamic Range Upconversion</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-vllo-experience-on-mac-download-and-alternatives/"><u>Updated In 2024, The Ultimate VLLO Experience on Mac Download and Alternatives</u></a></li>
 </ul></div>
 

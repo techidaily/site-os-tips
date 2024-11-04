@@ -1,7 +1,7 @@
 ---
 title: The Prose Edda
-date: 2024-08-18T09:29:13.224Z
-updated: 2024-08-19T09:29:13.224Z
+date: 2024-10-28T16:30:52.807Z
+updated: 2024-11-04T16:06:47.575Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 3 Remove the iPhone screen
 
 ![Remove Screen](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-iphone6-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Similar to iPhone 5 battery replacement, you need to open the iPhone screen to replace iPhone 6 battery. Place the suction cup above the iPhone "Home" button, and then you can softly pull the sucker to open a crack. Then put a plastic sheet to the crack to remove the screen bit by bit. Make the screen is perpendicular to the battery.
 
@@ -58,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 5 Eject iPhone battery
 
 ![Make iPhone 6 Battery Replacement](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/replace-iphone6-battery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  iPhone 6 uses much glue to fix the battery, so it's not easy to remove it. You can directly use crowbar to take battery off. But we suggest you use hair dryer to warm the rear cover first, then you can easily remove the iPhone battery.
 
@@ -71,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 Step 7 Assemble iPhone screen
 
 ![Assemble iPhone](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/complete-iphone6-battery-replacement.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  Reconnect the screen cable according the source connection. Screw the screws when you are sure that all connection is no question. Then put on the screen and screw the screws at the bottom of iPhone.
 
@@ -86,9 +77,6 @@ Step 7 Assemble iPhone screen
 [](https://secure.2checkout.com/order/cart.php?PRODS=4626213&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4630131&QTY=1&AFFILIATE=108875)
 
 ![FoneTrans](https://www.aiseesoft.com/images/ios-transfer/download-and-run-fonetrans.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  Don't Miss:[How to recover deleted or lost data from iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
@@ -104,14 +92,18 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 
 ![Remove External Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/iphone5-bottom-screws.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just like iPhone 4/4S, iPhone 5 is also fixed by two screws at the bottom of iPhone. You can use the same screwdriver to remove the two screws.
 
 3 Remove the iPhone screen
 
 ![Remove iPhone 5 Screen](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Different with iPhone 4/4S battery replacement, you need to replace iPhone 5 battery by opening the iPhone screen. Place the suction cup above the central screen, and then you can softly pull the suction cup to remove iPhone screen.
 
@@ -119,18 +111,42 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 
 ![Remove iPhone 5 Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/unscrew-inside-screws.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use screwdriver to unscrew the screws on the bracket and then remove the bracket. You don't need to take the whole screen off. Just turn the screen up to replace iPhone 5 battery.
 
 5 Make iPhone 5 battery replacement
 
 ![Make iPhone 5 Battery Replacement](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/drag-iphone5-battery.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Use the opening tool to disconnect iPhone battery. Drag the plastic sheet to take off the battery. Put the new battery back in and reconnect the cable according the original connection. Make sure everything is OK and then turn off your iPhone to check the result.
 
  Don't forget to screw the screws at bottom of iPhone. And you can handily complete the iPhone 5 battery replacement within this five steps.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to make iPhone 4/4S battery replacement
 
@@ -144,23 +160,42 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 
 ![Remove Bottom Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/bottom-screws.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use the suitable screwdriver to remove two screws on the bottom of iPhone. Make sure you use the right screwdriver and put the screws at a safe and single place.
 
 3 Remove the rear cover
 
 ![Remove rear cover](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-the-rear-cover.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  Push up on the rear cover of your iPhone to open the battery cover. Then you can see the battery there.
 
 4 Unscrew the bracket
 
 ![Remove iPhone 4 Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-inside-screw.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  DO NOT directly pull out the iPhone battery. You can see the FPC cable is fixed with a screw. Use another screwdriver to unscrew the screw. Then you may need to rely on a little crowbar to remove the bracket.
@@ -168,9 +203,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 5 Replace the iPhone 4/4S battery
 
 ![Make iPhone 4 Battery Replacement](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-iphone-battery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, drag the plastic sheet gently to take off the battery. Put the new battery back in and reconnect the cable according the original connection. Maintain the good contact of the battery contacts.
 
@@ -204,8 +236,6 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +243,19 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-momentum-at-rest-best-idle-pc-games/"><u>[New] 2024 Approved Momentum at Rest Best Idle PC Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/accidental-deletions-heres-how-you-can-retrieve-accidentally-deleted-mms-on-your-iphone/"><u>Accidental Deletions? Here's How You Can Retrieve Accidentally Deleted MMS on Your iPhone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assassins-vikings-and-empire-domination-the-ultimate-review-of-assassins-creed-valhalla/"><u>Assassins, Vikings, and Empire Domination: The Ultimate Review of Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-reinstalling-your-ios-with-an-icloud-or-itunes-backup/"><u>Complete Guide: Reinstalling Your iOS with an iCloud or iTunes Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-smses-on-ios-and-android-devices/"><u>Complete Guide: Retrieving Lost SMSes on iOS and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-on-apowerrescue-insights-into-capabilities-value-for-money-and-other-options-available/"><u>Comprehensive Guide on ApowerRescue - Insights Into Capabilities, Value for Money & Other Options Available</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-dciman32dll-absent-issue-on-your-pc/"><u>How to Correctly Address dciman32.dll Absent Issue on Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-effective-crowdflower-tools/"><u>The Ultimate Guide to Effective CrowdFlower Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620271322-the-ultimate-technique-for-retrieving-deleted-content-on-iphones-discover-here/"><u>The Ultimate Technique for Retrieving Deleted Content on iPhones - Discover Here</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-complete-enhanced-security-settings-enable-file-access-and-download/"><u>Update Complete: Enhanced Security Settings Enable File Access and Download</u></a></li>
+</ul></div>
 

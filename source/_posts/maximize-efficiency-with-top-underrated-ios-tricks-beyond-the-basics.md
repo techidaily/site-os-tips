@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency with Top Underrated iOS Tricks: Beyond the Basics"
-date: 2024-09-25T05:19:12.507Z
-updated: 2024-09-30T20:41:34.147Z
+date: 2024-10-28T17:40:26.271Z
+updated: 2024-11-04T16:20:25.439Z
 tags:
   - ios
 categories:
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
  Depending on the hand you're typing with, this can make reaching all of the keys a lot easier. Tap on the arrow on the far side of the keyboard to return to standard "two-handed" mode.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Spotlight Everything
@@ -59,26 +53,26 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
 ![Access Spotlight search on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/spotlight.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Use Spotlight to search for (and quickly launch) apps, find Notes, play podcasts, discover Photos in your library, or tap Siri's knowledge. Perform simple calculations (using standard operators like +, -, \*, and /), unit conversions (e.g. "55lb in kg"), or even currency conversions (e.g. "100 usd in aud").
 
 ![Access Spotlight search on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/spotlight.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Spotlight can help find and access just about anything on your iPhone including Settings, email, contacts, Shortcuts, App Store results, web searches, and more. It's a lot quicker than scrolling through menus if you know exactly what you're looking for, and it learns based on usage. [Customize it](https://facebook-videos.techidaily.com/new-elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds-for-2024/) under Settings > Siri & Search to exclude apps and suggestions.
 
 Related: [How to Turn Off Photos in Spotlight Search Results on iPhone](https://program-issues.techidaily.com/fixing-mismatched-audio-on-youtube-videos-in-browsers-like-chrome-and-firefox/) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Drag and Drop Like a Pro
@@ -89,24 +83,18 @@ Related: [How to Turn Off Photos in Spotlight Search Results on iPhone](https://
 
  While still holding on to your photo launch the app you want to drop the photo into, for example, Notes. Find the note you want to drop your Photo into with your second hand, then drag and release the photo into the appropriate spot.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Search Photos For Objects, Places, Apps
 
  Photos can identify all sorts of things that you've captured, [all you need to do is search](https://some-skills.techidaily.com/2024-approved-streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis/). If you're looking for a specific photo of something, try searching for a term that matches the description. For example: cat, beach, train, Christmas tree, laptop, concert, and so on.
 
 ![Search Photos by subject](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/search_photos_object.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also search for other terms like "summer" for pictures taken in warmer months, text featured in the photo (like "stop" for a road sign), places where the photo might have been taken (countries, cities, neighborhoods), months, years, or people if you've trained Photos to identify contacts under the Albums > People section.
 
@@ -123,13 +111,20 @@ Related: [How to Turn Off Photos in Spotlight Search Results on iPhone](https://
 ![Use iPhone suggested strong password](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/icloud_keychain.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll find all of your passwords under Settings > Passwords on iPhone or iPad, or System Settings > Passwords on a Mac. Other [password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) like 1Password and LastPass charge for this feature, but iCloud Keychain is free to use. [iCloud Keychain also features an authenticator](https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/) like Authy or Google Authenticator, for [two-factor authentication](https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/) codes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Scan Documents Using the Notes App
 
@@ -147,6 +142,13 @@ Related: [How to Turn Off Photos in Spotlight Search Results on iPhone](https://
 
 ![Trigger an iPhone Shortcut with a widget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/shortcuts_widget.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can then [place Shortcuts on your Home screen](https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-f14-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/) or [launch them quickly using iOS widgets](https://facebook-record-videos.techidaily.com/updated-in-2024-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/). Download [Shortcuts](https://apps.apple.com/au/app/shortcuts/id915249334) from the App Store if you don't already have it, and learn [how to find and install third-party Shortcuts](https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-5g-location-without-installing-software-drfone-by-drfone-virtual-android/) (or create your own).
 
 ##  Turn Your Keyboard Into a Trackpad
@@ -155,18 +157,18 @@ Related: [How to Turn Off Photos in Spotlight Search Results on iPhone](https://
 
 ![Move cursor with the iPhone keyboard trackpad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/cursor_trackpad.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Grab Text From Anywhere With Live Text
 
  Live Text [might just be the best iPhone feature you're not using](https://extra-support.techidaily.com/in-2024-mastering-the-art-of-editing-movie-maker-on-w11-in-detail/). You can use the feature to grab text within Photos or videos by simply double-tapping on it within the photos app, then select "Copy" to add it to your clipboard. You can also use Live Text within the default Camera app, just look for the "Live Text" icon in the lower-right corner of the screen while shooting.
 
 ![iOS 15 Camera Live Text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/ios_texticon.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's OCR for your iPhone, and it works incredibly well with typed text.
 
@@ -182,25 +184,11 @@ Related: [How to Turn Off Photos in Spotlight Search Results on iPhone](https://
 
  You can [view the currently-connected Wi-Fi network password](https://hardware-updates.techidaily.com/guide-to-instantly-installing-hp-envy-n-5660-printingscanning-drivers/) under Settings > Wi-Fi by tapping on the small "i" information button next to the network name. Tap on the "Password" field that appears, then pass a Face ID or Touch ID check to see the password. You'll then be able to copy the password to your clipboard and paste it into a message to share with someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Access Emoji by Typing
 
  Hate having to scroll through lists of emojis just to get to the one you want? It's quicker to type the name of the emoji that you want and then use the QuickType box that appears above the keyboard to substitute whatever word you've typed with an appropriate emoji. You can also tap on the emoji button in the bottom left corner of the screen then tap on highlighted words to replace them entirely.
 
 ![Access emoji by typing a description then tapping on the suggestion](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/crying_emoji.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Typing your emoji](https://mondly-stories.techidaily.com/explore-online-avenues-for-flawless-lithuanian-learning/) is a bit like using Spotlight to launch apps in that it can drastically speed up your workflow. For example, typing a message like "is the curry spicy? chili" and then substituting "chili" for the right emoji is a lot quicker than using the emoji picker (even if you use the included search bar).
 
@@ -243,18 +231,22 @@ Related: [How to Turn Off Photos in Spotlight Search Results on iPhone](https://
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-xchange-your-thoughts-on-better-alternatives-for-2024/"><u>[New] XChange Your Thoughts on Better Alternatives for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>[Updated] Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-zoom-like-a-pro-top-video-gear-for-slow-motion-effects-for-2024/"><u>[Updated] Zoom Like a Pro Top Video Gear for Slow Motion Effects for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/captivating-gamer-content-through-obs-streaming/"><u>Captivating Gamer Content Through OBS Streaming</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-s17-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo S17 to Protect Your Individual Information</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-13-mini-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 13 mini Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-apple-policy-enables-ios-apps-to-directly-connect-users-to-third-party-sites-for-buying/"><u>New Apple Policy Enables iOS Apps to Directly Connect Users to Third-Party Sites for Buying</u></a></li>
-<li><a href="https://os-tips.techidaily.com/nomad-stand-one-max-evaluation-uncovering-pros-and-cons-of-a-3-in-1-magsafe-power-solution/"><u>Nomad Stand One Max Evaluation: Uncovering Pros and Cons of a 3-in-1 MagSafe Power Solution</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-classic-computing-with-idos-3-newly-launched-on-apples-app-store/"><u>Revive Classic Computing with iDOS 3, Newly Launched on Apple's App Store!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-ecosystem-the-complete-tutorial-for-activating-passkeys-across-iphone-ipad-and-mac/"><u>Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seize-your-chance-unleash-iphone-fun-during-this-exclusive-prime-day-discount-event/"><u>Seize Your Chance: Unleash iPhone Fun During This Exclusive Prime Day Discount Event</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-magic-5-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Magic 5 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-tips-effortless-conversion-from-avi-to-m4v-files/"><u>Top Tips: Effortless Conversion From AVI to M4V Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-capturing-attention-a-step-by-step-guide-to-social-media-promotion/"><u>[New] 2024 Approved Capturing Attention A Step-by-Step Guide to Social Media Promotion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-free-mp4-screen-capture-toolkit-released/"><u>[New] In 2024, Free MP4 Screen Capture Toolkit Released</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-photographys-new-frontier-toolwiz-app-detailed-review-2023-edition/"><u>[New] Photography's New Frontier Toolwiz App - Detailed Review, 2023 Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-a25-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy A25 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-v30-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-solutions-how-to-resolve-issues-with-non-playable-audio-tracks-on-your-iphone-models-x-8-7-6-and-5/"><u>Best Solutions: How to Resolve Issues with Non-Playable Audio Tracks on Your iPhone (Models X, 8, 7, 6, and 5)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-reasons-behind-gas-station-game-crashing-episodes-on-personal-computers-pc/"><u>Common Reasons Behind Gas Station Game Crashing Episodes on Personal Computers (PC)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-success-in-youtubes-creator-hub/"><u>Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-file-transfer-using-airdrop-from-your-mac-iphone-ipad-and-ipod-comprehensive-tips-and-tricks/"><u>Effortless File Transfer Using AirDrop From Your Mac, iPhone, iPad & iPod - Comprehensive Tips & Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-rename-your-iphone-two-simple-techniques-unveiled/"><u>Effortlessly Rename Your iPhone: Two Simple Techniques Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/making-the-right-choice-understanding-iphone-jailbreaking-and-its-implications-for-your-device/"><u>Making the Right Choice: Understanding iPhone Jailbreaking and Its Implications for Your Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printerranker-setting-snafu-alert/"><u>Printer'ranker: Setting Snafu Alert</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-iphone-mailbox-items-expert-tips-and-troubleshooting-steps/"><u>Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-process-restoring-an-iphones-factory-settings-post-jailbreak/"><u>Step-by-Step Process: Restoring an iPhone's Factory Settings Post-Jailbreak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-how-to-fix-ios-17-check-in-feature-malfunctions-on-your-iphone/"><u>Troubleshooting Tips: How to Fix 'iOS 17 Check-In' Feature Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-resolving-errors-preventing-game-launch-through-data-checks/"><u>Unlock the Secrets: Resolving Errors Preventing Game Launch Through Data Checks</u></a></li>
 </ul></div>
 

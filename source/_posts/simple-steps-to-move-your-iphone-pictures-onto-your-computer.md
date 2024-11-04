@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Move Your iPhone Pictures Onto Your Computer
-date: 2024-10-21T20:45:00.017Z
-updated: 2024-10-23T16:17:51.260Z
+date: 2024-11-02T17:50:36.823Z
+updated: 2024-11-04T16:21:17.075Z
 tags:
   - ios
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In fact, Apple's iTunes software doesn't even have a built-in way to copy photos from your iPhone to your PC. It does have a photo sync feature, but that's just for copying photos from your PC to your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use File Explorer or Windows Explorer
 
  Connect your iPhone or iPad to your computer using the included Lightning-to-USB or USB-C cable to get started. This is the same cable you use for charging your phone.
@@ -32,13 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The first time you connect it to your computer, you'll see a popup asking you to [trust your computer](https://screen-recording.techidaily.com/new-2024-approved-expert-tips-to-master-camera-snap-in-zoom-calls/) (if you have iTunes installed) or allow access to your photos and videos (if you don't have iTunes installed). Tap "Trust" or "Allow" to give your computer access to your photos. You may have to unlock your iPhone before you see this popup.
 
 ![Tap "Trust."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/trust-this-pc.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your iPhone appears as a new device under "This PC" in File Explorer on Windows 10 or Windows 11\. Head here and double-click it.
 
@@ -52,35 +52,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Image folders on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folders-on-iphone.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see your photos as .JPG files or .HEIC files, videos as .MOV files, and screenshots as .PNG files. You can double-click them to view them right from your iPhone. You can also copy them to your PC using either drag-and-drop or copy-and-paste.
 
  If you delete an item in the DCIM folder, it's removed from your iPhone's storage.
 
 ![Right-click photos, videos, or other media files on your iPhone to delete them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/delete-files.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To import everything from your iPhone, you could just copy-and-paste or drag-and-drop the 100APPLE folder (and any other folders) inside the DCIM folder. Or, you could just grab the whole DCIM folder if you want. Just make sure to copy instead of move the items, if you want them to remain on your phone.
 
 ![Copy the photo folders from your iPhone to other devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/copy-photos-to-iphone.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you see files with the .HIEC file extension, that indicates your iPhone is taking photos using [the HEIF image format](https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/). This is the default setting as of [iOS 11](https://remote-screen-capture.techidaily.com/updated-2023s-best-screen-recorder-discover-with-camstudio/) and later, but you need to install the [HEIF image extension to view these files on Windows](https://sound-tweaking.techidaily.com/the-most-reliable-sites-to-stream-legal-background-music-collections-for-2024/).
 
@@ -91,10 +78,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Select the "Automatic" option to enable automatic conversion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/automatic-transfer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Import Photos With Windows Photos (or Other Applications)
@@ -115,18 +109,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the Settings app, tap &quot;Photos,&quot; then tap the toggle next to &quot;iCloud Photos.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/icloud_annotated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can then install [iCloud for Windows](https://support.apple.com/en-us/HT204283), sign in with your Apple ID, and enable the "Photos" feature in the iCloud control panel. Click the "Options" button to control where photos are stored on your PC and adjust other settings.
 
  Photos that you take are automatically uploaded to your iCloud Photo Library, and then the iCloud software automatically downloads a copy of them to your PC.
 
 ![The iCloud app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa313bad9270.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This isn't the only application you can use for synchronizing photos to your PC. The [Dropbox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/dropbox/id327630330?mt=8), [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/google-photos/id962194608?mt=8), and [Microsoft OneDrive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/microsoft-onedrive/id477537958?mt=8) apps for iPhone all offer automatic photo-upload features, and you can use the [Dropbox](https://www.dropbox.com/), [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/), and [OneDrive](https://onedrive.live.com/) tools for Windows to automatically download those photos to your PC.
 
@@ -149,19 +143,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>[New] Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-pioneering-platform-presence-innovative-square-video-methods/"><u>[Updated] In 2024, Pioneering Platform Presence Innovative Square Video Methods</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-easy-steps-to-rotate-video-in-vlc/"><u>2024 Approved Easy Steps to Rotate Video in VLC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/complete-tutorial-for-configuring-the-novaxtreme-skid-installation-on-kodi-19/"><u>Complete Tutorial for Configuring the NovaXtreme SKID Installation on Kodi 19</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-iphone-screen-reflection-can-eliminate-the-need-for-ios-apps-on-your-mac/"><u>How iPhone Screen Reflection Can Eliminate the Need for iOS Apps on Your Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-handle-accidentally-dropping-your-phone-into-saltwater/"><u>How to Handle Accidentally Dropping Your Phone Into Saltwater</u></a></li>
-<li><a href="https://os-tips.techidaily.com/identifying-the-timestamp-of-messages-a-guide-to-checking-sms-send-times-on-iphone/"><u>Identifying the Timestamp of Messages: A Guide to Checking SMS Send Times on iPhone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>In 2024, Snapchat Savvy Mastering Screen Recordings on Your Phone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-tips-for-enhancing-online-presence-with-imovie-on-vimeo/"><u>In 2024, Tips for Enhancing Online Presence with iMovie on Vimeo</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-the-latest-innovation-by-satechi-multi-standard-charging-stands-for-qi2-and-magsafe-technology/"><u>Introducing the Latest Innovation by Satechi – Multi-Standard Charging Stands for Qi2 and MagSafe Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-applications-adopt-new-approach-seamlessly-transitioning-consumers-to-outside-retail-platforms-for-purchases/"><u>IOS Applications Adopt New Approach: Seamlessly Transitioning Consumers to Outside Retail Platforms for Purchases</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-vs-android-comparing-mid-level-smartphones-to-outdated-iphones-discover-why-the-iphone-triumphs/"><u>IOS Vs. Android: Comparing Mid-Level Smartphones to Outdated iPhones - Discover Why the iPhone Triumphs.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-seagate-backup-plus-expert-maintenance-and-performance-hacks/"><u>Mastering Seagate Backup Plus: Expert Maintenance & Performance Hacks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288906404-wmvmp4/"><u>WMVファイルからMP4への自由許諾変換手順</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capture-gaming-sessions-in-hd-using-obs/"><u>[New] 2024 Approved Capture Gaming Sessions in HD - Using OBS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-revitalizing-screenshots-the-ultimate-top-10-iphoneandroid-sticker-tools-for-2024/"><u>[New] Revitalizing Screenshots - The Ultimate Top 10 iPhone/Android Sticker Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-essential-manual-to-creating-youtube-playlists-for-2024/"><u>[New] The Essential Manual to Creating YouTube Playlists for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-practices-for-laptop-based-ppt-presentations-on-google-meet/"><u>[Updated] Best Practices for Laptop-Based PPT Presentations on Google Meet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-vs-samsung-a-deep-dive-into-how-equally-superior-ecosystems-shape-user-experience/"><u>Apple Vs. Samsung: A Deep Dive Into How Equally Superior Ecosystems Shape User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bring-console-quality-gameplay-anywhere-the-latest-gamma-ps-emulator-debuts-on-iphone/"><u>Bring Console-Quality Gameplay Anywhere: The Latest 'Gamma' PS Emulator Debuts on iPhone!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-you-use-siri-to-unlock-your-iphone-the-pros-and-cons-explained/"><u>Can You Use Siri to Unlock Your iPhone? The Pros and Cons Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/catch-the-game-anywhere-with-apples-newly-launched-free-sports-application/"><u>Catch the Game Anywhere with Apple's Newly Launched Free Sports Application!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/connect-effortlessly-with-the-newly-updated-airpods-pro-featuring-usb-c-ports/"><u>Connect Effortlessly with the Newly Updated AirPods Pro Featuring USB C Ports</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-timeless-harmonies-on-apple-music-unlimited-selection-with-remarkable-savings/"><u>Discovering Timeless Harmonies on Apple Music: Unlimited Selection with Remarkable Savings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-techniques-perfect-your-idevice-screen-shots/"><u>Easy Techniques Perfect Your iDevice Screen Shots</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-651-in-windows-easily/"><u>How to Fix Error 651 in Windows. Easily!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-video-chat-quality-updating-windows-10-webcam-drivers-made-easy/"><u>Improve Video Chat Quality: Updating Windows 10 Webcam Drivers Made Easy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-6-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/video-tales-in-reverse-perfecting-instagram-posts/"><u>Video Tales in Reverse Perfecting Instagram Posts</u></a></li>
 </ul></div>
 

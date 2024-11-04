@@ -1,7 +1,7 @@
 ---
 title: "Overcome Common iPhone Malfunctions: Top Diagnosis and Repair Techniques for Smooth Performance"
-date: 2024-08-18T09:32:17.501Z
-updated: 2024-08-19T09:32:17.501Z
+date: 2024-11-03T17:50:21.877Z
+updated: 2024-11-04T17:14:35.054Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 * [Part 1: Why iPhone Reminders Not Working?](https://tools.techidaily.com/)
 * [Part 2: 5 Solutions to Fix iPhone Reminders Not Working](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Why iPhone Reminders Not Working?
 
  Several factors can lead to iPhone Reminders app not working and the most common causes include:
@@ -32,18 +39,11 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 
 ## Part 2: 5 Solutions to Fix iPhone Reminders Not Working
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1: Reboot iPhone
 
  Chances are that your iPhone get stuck in headphone mode and Reminders app does not save date and time. The simplest fix is to reboot your device.
 
 ![How To iPhone Power Off Screens](https://www.aiseesoft.com/images/solution/iphone-reminders-not-working/how-to-iphone-power-off-screens.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
 Step 1 Press thePower button for a while and the power-off screen will pop up.
 
@@ -52,8 +52,12 @@ Step 2 Move the switch from left to the right side and the screen will turn blac
 Step 3 Wait for at least 10 seconds and hold down thePower button again until you see the Apple logo. Now, the Reminders app should work normally.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 2: Check Reminder Settings
 
  Another reason why iPhone Reminders app is not working is the wrong settings.
@@ -65,6 +69,13 @@ Step 1 Open theSettings app, tap on your name and selectSounds .
 Step 2 Scroll down to find theReminder Alerts option and tap it.
 
 Step 3 Switch to an alert tone if the reminder is set toNone .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Remove Reminders from Widgets Notification
 
@@ -79,8 +90,12 @@ Step 2 Hit the button and tap the – icon next to the Reminders if it is on the
 Step 3 Go to the app, selectNotifications , tapReminders and set the reminder alert. Restart your iPhone and Reminders app should work now.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 4: Turn off Reminders in iCloud
 
  iCloud syncing is a big problem on iOS 13/14 and leads to Reminders app stops sharing on iPhone as usual. You'd better turn off Reminders in iCloud.
@@ -91,9 +106,6 @@ Step 1 Go to the Settings app from home screen, tap on your name, and select iCl
 
 Step 2 Toggle the switch of Reminders off. Now check if the Reminders app working as usual.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Ultimate Way to Fix Reminders Not Working
 
  If you have tried the common troubleshooting and Reminders still does not work,[Aiseesoft iOS System Recovery](https://tools.techidaily.com/aiseesoft/ios-system-recovery/) is the ultimate solution.
@@ -114,13 +126,24 @@ _1_ _8_ _4_ _,_ _9_ _1_ _8_  Downloads
 [Free Download For Windows](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 How to Fix iPhone Reminders Not Working
 
@@ -129,9 +152,6 @@ Step 1 Connect iPhone to computer
  Install iOS System Recovery on your computer. Connect iPhone to the same machine with a Lightning cable. Once open the software, it will detect your device. Hit the Start button and then select a mode to initiate fixing iPhone Reminders app.
 
 ![Start Button](https://www.aiseesoft.com/images/ios-system-recovery/start-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2 Fix Reminders not working
 
@@ -167,17 +187,12 @@ More Reading
  iPhone Spotlight search stopped working after upgrading to iOS 13/14? If searching your iPhone doesn't return expected results, you can check 5 solutions shared in this post to fix the iPhone search not working issue.
 
 ![Disqus Icon](https://www.aiseesoft.com/images/article/disqus-icon.png) Leave your comment and join our discussion
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +201,22 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/tep-up-your-mobile-filmmaking-with-these-9-must-have-tools-for-2024/"><u>[New] Step Up Your Mobile Filmmaking with These 9 Must-Have Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-5-ios-platforms-mimicking-ps2/"><u>[Updated] 2024 Approved Top 5 iOS Platforms Mimicking PS2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-luts-role-in-image-color-alteration/"><u>[Updated] Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/changing-page-direction-in-pdfs-convert-right-to-left-layout-with-our-step-by-step-tutorial/"><u>Changing Page Direction in PDFs: Convert Right-to-Left Layout with Our Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>Chorus Climaxes Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://extra-support.techidaily.com/1723010114825-cyberpunk-2077-not-loading-here-are-the-solutions/"><u>Cyberpunk 2077 Not Loading? Here Are the Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/liver-transplantation-in-btc-patients-requires-strict-criteria-to-be-met-due-to-cancer-recurrence-concerns/"><u>Liver Transplantation in BTC Patients Requires Strict Criteria to Be Met Due to Cancer Recurrence Concerns.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/save-big-with-100-off-on-apples-compact-ipad-mini-ideal-for-on-the-go-adventures/"><u>Save Big with $100 Off on Apple's Compact iPad Mini – Ideal for On-the-Go Adventures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/shop-the-latest-ipad-air-and-ipad-pro-models-top-features-revealed/"><u>Shop the Latest iPad Air & iPad Pro Models: Top Features Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solution-found-updated-external-sonos-software-corrects-audio-malfunctions/"><u>Solution Found: Updated External Sonos Software Corrects Audio Malfunctions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-low-volume-in-airpods-a-step-by-step-guide/"><u>Solving the Issue of Low Volume in AirPods: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-lost-images-from-an-iphoneipad/"><u>Step-by-Step Guide: Retrieving Lost Images From an iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-your-iphone-from-being-easily-found-disable-discovery-settings-instantly/"><u>Stop Your iPhone From Being Easily Found: Disable Discovery Settings Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-beaver-state-strikes-back-how-oregons-new-law-challenges-restrictive-manufacturer-policies-like-apples-parts-lockdown/"><u>The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-addictive-experience-in-city-planning-insights-from-a-cities-skylines-overview/"><u>The Ultimate Addictive Experience in City Planning: Insights From a Cities: Skylines Overview</u></a></li>
+</ul></div>
 

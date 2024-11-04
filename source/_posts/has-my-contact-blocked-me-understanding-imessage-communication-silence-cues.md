@@ -1,7 +1,7 @@
 ---
 title: Has My Contact Blocked Me? Understanding iMessage Communication Silence Cues
-date: 2024-09-26T07:42:33.875Z
-updated: 2024-10-01T10:27:14.104Z
+date: 2024-10-29T16:02:25.587Z
+updated: 2024-11-04T16:25:32.388Z
 tags:
   - ios
 categories:
@@ -19,16 +19,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  We all get a little anxious when our calls or messages don't get through to someone. You might even worry if that person has blocked you. But how can you actually know if you've been blocked on iMessage? There's no way to know for sure, but certain factors can offer clues.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4 Ways to Test if Your Number Was Blocked on iMessage
 
  If you haven't heard back from someone in a little while, they might just have their phone on [Airplane Mode](https://audio-shaping.techidaily.com/updated-in-2024-cutting-edge-audio-tools-for-iphone-and-ipad-enthusiasts/) or [Do Not Disturb](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/). But if you can't reach someone for an extended period, it's possible they blocked your number. And while it's not a good idea to contact someone who's [blocked your number](https://technical-tips.techidaily.com/expert-tips-for-fixing-screen-defects-and-eliminating-visible-lines-on-televisions/), there are other ways to figure out if that's what happened, so you can have a better idea of where you stand.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. Look for an Automated Response
 
@@ -38,28 +38,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  By a similar token, you aren't blocked if you see a little moon icon in the Messages app, that says the person has notifications silenced. That just means the person is [sharing their Focus status](https://on-screen-recording.techidaily.com/2024-approved-how-to-screen-record-skype-with-obs/) on their phone so won't see notifications until they off that Focus mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. Check the Delivery Status
 
 ![Read and Delivered statuses on iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/read-and-delivered-statuses-on-imessage.png) 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If someone has blocked your number on iMessage, you won't see a "Delivered" or "Read" status under the messages you send them. If you see either of those, you aren't blocked. It's likely that they're just busy or missed the message and haven't responded yet.
@@ -75,13 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ###  3\. Try Calling the Number
 
 ![Placing a phone call on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/placing-a-phone-call-on-an-iphone.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you've been blocked by someone and you try to call that number, the call will usually go straight to voicemail, without ringing properly. If that happens when you call, you may have been blocked.
 
@@ -102,15 +82,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ##  FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  What if It's an Android Phone?
 
  Want to know if someone's blocked your number, but the person you're texting has an Android phone? Try calling. If it goes to voicemail after barely one ring, you may have been blocked. The message status method won't work, since that only shows up for messages sent between two iPhones.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Will My Message Say "Delivered" if I'm Blocked?
 
@@ -119,6 +106,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ###  Can I Still Leave a Voicemail?
 
  You can always leave a voicemail, assuming the person has [set up their voicemail inbox](https://extra-support.techidaily.com/in-2024-maximizing-your-android-game-adventure-with-kinemaster-review/). However, if you're blocked, it gets stored under a separate Blocked Messages section away from their regular voicemail list, meaning they probably won't see it anyway.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Does a Green iMessage Bubble Mean I'm Blocked?
 
@@ -139,17 +133,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-world-of-ai-9-essential-tools-for-starters/"><u>Discovering the World of AI: 9 Essential Tools for Starters</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition Screen | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/looking-ahead-how-i-anticipate-the-features-of-apples-upcoming-iphone-15-pro-based-on-my-experience-with-the-iphone-14-pro/"><u>Looking Ahead: How I Anticipate The Features of Apple's Upcoming iPhone 15 Pro Based on My Experience with the iPhone 14 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/massive-enhancements-in-apples-latest-sports-app-update/"><u>Massive Enhancements in Apple's Latest Sports App Update!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-height-tracking-the-ultimate-tutorial-for-using-iphones-elevation-features/"><u>Mastering Height Tracking: The Ultimate Tutorial for Using iPhone's Elevation Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-productivity-with-iphone-sticker-applications/"><u>Maximize Productivity with iPhone Sticker Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigate-safely-using-waze-get-immediate-updates-on-traffic-lights-sharp-turns-and-more/"><u>Navigate Safely Using Waze - Get Immediate Updates on Traffic Lights, Sharp Turns & More!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-driver-conflicts-in-ftdi-bus-for-restoring-memory-data-accuracy/"><u>Overcoming Driver Conflicts in FTDI Bus for Restoring Memory Data Accuracy</u></a></li>
-<li><a href="https://extra-information.techidaily.com/synthesizing-creativity-with-magix-music-maker-2024-review/"><u>Synthesizing Creativity with Magix Music Maker 2024 Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-power-of-online-connectivity-with-facebook-twitter-instagram-and-youtube/"><u>Unlock the Power of Online Connectivity with Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oney-matters-choosing-best-stocks-yts-guide/"><u>[New] Money Matters Choosing Best Stocks YTs Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-instant-methods-for-jumbled-youtube-queue-management-for-2024/"><u>[Updated] Instant Methods for Jumbled YouTube Queue Management for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-record-and-share-every-victory-in-obs-for-2024/"><u>[Updated] Record & Share Every Victory in OBS for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-owc-mercury-pro-drives-speed-quality-and-best-results/"><u>A Comprehensive Guide to OWC Mercury Pro Drives - Speed, Quality & Best Results</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/des-logiciels-de-montage-video-gratuit-pour-windows-7-les-solutions-preferees-en-2024/"><u>Des Logiciels De Montage Vidéo Gratuit Pour Windows 7: Les Solutions Préférées en 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ19/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-windows-11-update-errors-a-step-by-step-guide/"><u>Fixing Persistent Windows 11 Update Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It !</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-restart-overcoming-trouble-with-windows-10-power-down/"><u>Mastering PC Restart: Overcoming Trouble with Windows 10 Power Down</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-ipad-connectivity-essential-steps-for-reactivating-the-usb-driver/"><u>Reviving iPad Connectivity: Essential Steps for Reactivating the USB Driver</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-fixing-a-mac-frozen-on-the-startup-with-an-apple-icon-displayed/"><u>Step-by-Step Guide: Fixing a Mac Frozen on the Startup with an Apple Icon Displayed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-encyclopedia-britannica-anubis-online-available-at-(httpswwwbritannicacomtopicanubis)/"><u>The Encyclopedia Britannica – Anubis [Online] Available At: <https://www.britannica.com/topic/Anubis></u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-pages-for-stylish-shiny-3d-type-creations/"><u>Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranking-voip-services-has-vonage-lost-its-crown/"><u>Top Ranking VoIP Services: Has Vonage Lost Its Crown?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-an-unresponsive-display-repairing-apples-iphone-touch-issues/"><u>Troubleshooting an Unresponsive Display: Repairing Apple's iPhone Touch Issues</u></a></li>
 </ul></div>
 

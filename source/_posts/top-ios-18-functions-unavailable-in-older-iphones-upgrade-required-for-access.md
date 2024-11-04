@@ -1,7 +1,7 @@
 ---
 title: Top IOS 18 Functions Unavailable in Older iPhones - Upgrade Required for Access
-date: 2024-10-27T17:13:42.171Z
-updated: 2024-10-29T22:06:06.505Z
+date: 2024-10-30T17:19:47.144Z
+updated: 2024-11-04T17:57:04.419Z
 tags:
   - ios
 categories:
@@ -48,6 +48,13 @@ Apple
 
  iOS 18 also brings guest access to the Home app, allowing others to control your home temporarily, but you must have a HomePod or Apple TV operating as a smart home hub to use it. Moreover, scheduling guest access requires a Matter-compatible smart lock that supports scheduling.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Supercharged Siri With ChatGPT Integration
 
 [Apple Intelligence](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) will launch in beta with iOS 18, iPadOS 18, and macOS Sequoia this fall. Still, Apple's[press release](https://www.apple.com/hr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/) acknowledges that "some features, software platforms, and additional languages will come over the course of the next year."
@@ -57,13 +64,6 @@ Apple
 Apple
 
  Bloomberg's Mark Gurman claims that [Siri's AI superpowers](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/)—like onscreen awareness, controlling apps and devices, answers based on your data, and seamless integration with ChatGPT—will be available when iOS 18.4 launches next spring.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3 iOS 18 Features That Require an iPhone 12 or Later
 
@@ -78,10 +78,10 @@ Apple
  With Music Haptics, people will be literally able to feel the music. The Taptic Engine inside your iPhone produces taps, textures, and refined vibrations based on what's playing. This works across the Apple Music catalog, and developers can add music haptics to their apps. This is another accessibility feature that only works on the iPhone 12 and later.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Live Audio Transcription in the Notes App
@@ -102,13 +102,6 @@ Apple
 
 ![A wrap-up of features made possible with Apple Intelligence at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_wrap_up-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  On the Mac and iPad, Apple Intelligence requires an Apple Silicon chip like the Apple M1 or newer. This is the minimum hardware to use even the most [basic AI features such as writing tools](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/), Genmoji (custom emoji), and Image Playground (creating AI images from prompts)—let alone advanced ones like a more powerful Siri.
@@ -123,35 +116,15 @@ Apple
 
 ![An AirPods card on iPhone listing new features like voice isolation and responding to Siri with head movement.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-light-mode-airpods-card-new-features-overview.png) 
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Responding to Siri With Head Shakes
 
  Shaking or nodding your head to decline or accept calls requires the AirPods Pro 2.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Voice Isolation on AirPods
@@ -167,6 +140,13 @@ Apple
  Sending messages via satellite requires satellite connectivity provided by the iPhone 14 or later, just like the current [Emergency SOS via satellite](https://facebook-video-content.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide-for-2024/) feature. You'll be able to send end-to-end encrypted emergency iMessages and Tapbacks in the Messages app when stranded in a remote area without cellular and Wi-Fi connectivity.
 
 ![A chat in the iPhone's Messages app, with satellite connectivity guidance displayed at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-messages-via-satellite-connectivity-guidance-connected.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -218,6 +198,13 @@ Apple
 
  And lastly, some of iOS 18's new features are restricted to specific countries and regions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  InSight in the Apple TV App
 
  InSight is like X-Ray on Prime Video. Just pause a video to get a list of actors and music playing in the scene, then click on an actor's thumbnail to open their filmography page or hit "+" in the music tile to add the song to a Saved Songs playlist on Apple Music.
@@ -228,16 +215,16 @@ Apple
 
  The feature works in the TV app on the iPhone, iPad, and Mac devices updated to iOS 18, iPadOS 18, and macOS Sequoia. InSight only works with Apple Originals movies and TV shows, so you'll need an Apple TV+ subscription. The feature will expand to the entire Apple+ catalog over time, but it's unclear if Apple will add support for third-party video apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Tap to Cash Contactless Money Transfers
 
  Tap to Cash enables contactless money transfers between iPhone owners in the United States. Apple reserves the right to lower the limits during the beta phase without notice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Apple Pay Rewards and Installments
 
@@ -248,15 +235,22 @@ Apple
  These Wallet app features are available with events by participating ticket issuers.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Viewing Your Home Electricity Usage
 
  You can plug your utility account into the Home app to view rate plan information, peak and off-peak usage stats, etc. The US-only feature is restricted to Pacific Gas and Electric's residential electrical service, including areas served by Community Choice Aggregators.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Does Your iPhone Support iOS 18?
 
@@ -279,19 +273,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-chortle-central-top-10-tweet-humor/"><u>[New] Chortle Central Top 10 Tweet Humor</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-blending-pictures-into-a-single-storyboard-image-for-2024/"><u>[Updated] Blending Pictures Into a Single Storyboard Image for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/de-tweede-top-tips-voor-kopieerend-kopieeren-van-harde-schijf-op-je-del-laptop-zonder-installeren-van-het-besturings-systeem/"><u>De Tweede Top-Tips Voor Kopieerend Kopieeren Van Harde Schijf Op Je Del-Laptop Zonder Installeren Van Het Besturings Systeem</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-guide-how-to-extract-water-from-phone-speakers-fast/"><u>DIY Guide: How to Extract Water From Phone Speakers Fast</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-steps-to-remove-your-tv-service-from-an-iphone/"><u>Easy Guide: Steps to Remove Your TV Service From an iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/efficient-m2ts-file-editing-tools-convert-videos-quickly-without-hassle/"><u>Efficient M2TS File Editing Tools: Convert Videos Quickly Without Hassle!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/first-time-users-handbook-simplifying-password-control-on-iphone-and-ipad/"><u>First-Time User's Handbook: Simplifying Password Control on iPhone & iPad</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-atheros-wi-fi-driver-updates-on-windows-10/"><u>Instant Atheros Wi-Fi Driver Updates on Windows 10</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ist-es-moglich-daten-loschbar-zu-machen-wenn-man-von-einem-alten-iphone-zu-einem-neuen-wechselt/"><u>Ist Es Möglich, Daten Löschbar Zu Machen, Wenn Man Von Einem Alten iPhone Zu Einem Neuen Wechselt?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-art-of-changing-iphone-contact-details-via-computer-with-expert-tool-amazing-fonetrans/"><u>Master the Art of Changing iPhone Contact Details Via Computer With Expert Tool – Amazing FoneTrans</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanently-erase-yahoo-mail-from-iphone-a-step-by-step-guide/"><u>Permanently Erase Yahoo Mail From iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/protecting-ideas-avoidance-of-rash-removals/"><u>Protecting Ideas Avoidance of Rash Removals</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620273643-simple-techniques-to-restart-your-apple-timepiece-no-phone-necessary/"><u>Simple Techniques to Restart Your Apple Timepiece: No Phone Necessary!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-switching-your-iphones-default-browsing-app-between-chrome-safari-and-opera-touch/"><u>Step-by-Step Guide: Switching Your iPhone's Default Browsing App Between Chrome, Safari, and Opera Touch</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avigating-the-intricacies-of-transferring-videos-to-youtube/"><u>[New] Navigating the Intricacies of Transferring Videos to YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-art-of-thumbnail-design-choosing-best-fonts-for-2024/"><u>[New] The Art of Thumbnail Design Choosing Best Fonts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-affordable-gopro-camera-sales-for-2024/"><u>[Updated] Top Affordable GoPro Camera Sales for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/cant-find-your-songs-on-the-iphone-here-are-7-ways-to-bring-back-your-tunes/"><u>Can't Find Your Songs on the iPhone? Here Are 7 Ways to Bring Back Your Tunes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-forcibly-removing-directories-on-windows-11-a-step-by-step-process/"><u>Complete Guide to Forcibly Removing Directories on Windows 11: A Step-by-Step Process</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-restoring-all-safari-bookmarks-on-your-iphone/"><u>Complete Guide: Restoring All Safari Bookmarks on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-strategies-for-restoring-accidentally-erased-images-on-your-ipad/"><u>Comprehensive Strategies for Restoring Accidentally Erased Images on Your iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-easily-retrieve-lost-viber-chats-within-minutes-using-a-simple-trick/"><u>How to Easily Retrieve Lost Viber Chats Within Minutes Using a Simple Trick</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-a-comprehensible-guide-to-srt-fundamentals/"><u>In 2024, A Comprehensible Guide to SRT Fundamentals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 14 Pro and iPad</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-mp3-file-modification-a-step-by-step-guide-for-2024/"><u>Mastering MP3 File Modification A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728507105907-windows-10115/"><u>Windows 10/11上使用的5款最强大免费数据恢复工具</u></a></li>
 </ul></div>
 

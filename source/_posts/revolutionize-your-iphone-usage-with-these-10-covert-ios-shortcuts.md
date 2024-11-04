@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2024-10-24T22:01:11.260Z
-updated: 2024-10-29T21:28:26.488Z
+date: 2024-10-31T17:04:26.881Z
+updated: 2024-11-04T17:29:13.636Z
 tags:
   - ios
 categories:
@@ -30,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Here are 10 features you might not have heard of before, but once you get the hang of them, they can change how you do many things on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pause Music and Podcast Playback with a Timer
 
  It's not uncommon for iPhone users to sleep while listening to their favorite music track or podcast on Apple Music or Apple Podcast apps. However, only some know that the [iPhone's Clock app](https://android-frp.techidaily.com/poco-m6-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/) allows one to set a timer so that when it ends, it stops anything that is playing at the time, including WhatsApp audio or YouTube videos, and locks the screen.
@@ -44,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To set a timer, open the Clock app on your iPhone's home screen.
 
 ![iPhone's home screen with an arrow next to the Clock app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-12.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select Timer from the options at the bottom of the screen.
 
@@ -87,13 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Siri's confirmation for turning off the flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you haven't set up Siri, check out our guide on [enabling and using "Hey Siri" on iPhone](https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/) and iPad.
 
 ##  Convert a Picture Into a Fun WhatsApp Sticker
@@ -108,6 +101,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Custom Sticker dialog box on WhatsApp with an arrow next to the Send option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Set Custom Alerts to Prepare for Charging the iPhone
 
  By default, your iPhone informs you when the battery reaches 20%, which is also when it asks to enable the Low Power Mode. However, you can set a custom battery alert to deal with your battery anxiety. Using [Shortcut Automation](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/), you can program your iPhone to show a custom notification when the battery reaches a certain level, in addition to the standard low battery alert. It also allows you to set the percentage.
@@ -116,16 +116,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Shortcuts app in iPhone's Spotlight search with an arrow next to it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-15.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap the Automation option at the bottom of the screen.
 
 ![Shortcuts app's home screen with an arrow next to the Automation option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-14.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this is your first time creating an Automation shortcut, select the "Create Personal Automation" option.
 
@@ -169,13 +169,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Use iPhone Passcode option in Notes' settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/use-iphone-passcode-screenshot.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, the menu should look something like this.
 
 ![Notes password menu with the options to use iPhone passcode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-11.png) 
@@ -189,10 +182,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An arrow next to the lock icon in an Apple Notes file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lock-icon-in-notes-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Elevate the Lock Screen's Appearance with Depth Effect
@@ -211,16 +204,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Editing Lock Screen wallpaper to add depth effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, you can always press the three-dot menu in the bottom right to turn it on.
 
 ![Lock screen customization screen with an arrow next to Depth Effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finally, tap Add in the top right corner and select "Set as Wallpaper Pair."
 
@@ -249,21 +242,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Accessibility settings with an arrow next to Touch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-20.png) 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll to the bottom and hit "Back Tap."
 
 ![Touch accessibility options highlighting the Back Tap feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-18.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose Double Tap and set the action to one of the available options, including App Switcher, Camera, Home, Lock Rotation, Mute, Screenshot, etc. For this example, we're setting double tap to Flashlight.
 
@@ -274,10 +268,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Measure a Surface's Slope with the Hidden Spirit Level
@@ -313,20 +307,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-achieving-professional-editing-without-the-price-tag/"><u>[New] Achieving Professional Editing Without the Price Tag</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-build-haha-images/"><u>[Updated] Build Haha Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-to-emoji-stickers-a-complete-tutorial-for-telegram-and-beyond/"><u>[Updated] Step-by-Step to Emoji Stickers A Complete Tutorial for Telegram and Beyond</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-tiktok-downloading-the-blueprint-for-mass-media-capture-for-2024/"><u>[Updated] TikTok Downloading The Blueprint for Mass Media Capture for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-zippyzoom-echoframe-capture/"><u>[Updated] ZippyZoom EchoFrame Capture</u></a></li>
-<li><a href="https://os-tips.techidaily.com/capture-crystal-clear-sounds-top-8-free-techniques-for-enhanced-iphone-audio/"><u>Capture Crystal Clear Sounds: Top 8 Free Techniques for Enhanced iPhone Audio</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-the-butterfly-two-in-one-charger-by-twelve-south-the-travelers-must-have-companion-with-magsafe-technology/"><u>Comprehensive Analysis of the ButterFly Two-in-One Charger by Twelve South: The Traveler's Must-Have Companion with MagSafe Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/creating-animated-gifs-using-your-iphone-a-step-by-step-guide/"><u>Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-repair-guide-mastering-the-art-of-fixing-iphone-15-and-m2-mac-mini/"><u>DIY Repair Guide: Mastering the Art of Fixing iPhone 15 & M2 Mac Mini</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-the-delta-retrogaming-companion-newly-released-emulator-on-apples-app-store/"><u>Download the Delta Retrogaming Companion: Newly Released Emulator on Apple's App Store</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-living-essential-tweaks-in-ios-settings-that-will-simplify-your-day/"><u>Effortless Living: Essential Tweaks in iOS Settings That Will Simplify Your Day</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-gameplay-on-ipad-introducing-the-latest-delta-emulator-with-advanced-ds-management-tools/"><u>Enhanced Gameplay on iPad: Introducing the Latest Delta Emulator with Advanced DS Management Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-realme-c51-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme C51 FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-managing-wins-ram-cache/"><u>Understanding and Managing Win's RAM Cache</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-engagement-the-art-of-animated-fb-advertising-for-2024/"><u>[New] Enhancing Engagement The Art of Animated FB Advertising for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-iphone-the-ringtone-alteration-process/"><u>[New] Navigating iPhone The Ringtone Alteration Process</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-bridging-worlds-fusing-photos-into-majestic-tiles/"><u>[Updated] In 2024, Bridging Worlds Fusing Photos Into Majestic Tiles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastery-in-making-advanced-tiktok-editing-techniques/"><u>[Updated] Mastery in Making Advanced TikTok Editing Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-deep-clearing-your-ipads-storage-and-boosting-performance/"><u>Effective Techniques for Deep Clearing Your iPad's Storage and Boosting Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-maximize-profits-selling-your-used-or-damaged-iphone/"><u>How to Maximize Profits: Selling Your Used or Damaged iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-macgo-ios-erase-app-strengths-weaknesses-alternatives-and-faqs-covered/"><u>In-Depth Analysis of Macgo iOS Erase App – Strengths, Weaknesses, Alternatives, and FAQs Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-search-for-ev-chargers-on-google-maps-a-simple-guide/"><u>Mastering the Search for EV Chargers on Google Maps: A Simple Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-earnings-on-old-iphones-a-step-by-step-tutorial-for-safe-sales-and-increased-revenue/"><u>Maximize Earnings on Old iPhones: A Step-by-Step Tutorial for Safe Sales & Increased Revenue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-iphone-memory-using-imyfone-umate-pro-insights-comparisons-and-freebies-reviewed/"><u>Maximize iPhone Memory Using IMyFone Umate Pro - Insights, Comparisons & Freebies Reviewed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-solution-erase-your-instagram-search-history-on-iphone/"><u>Permanent Solution: Erase Your Instagram Search History on iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared/"><u>The Virtual Evolution Dichotomy Metaverse & Omniverse Compared</u></a></li>
 </ul></div>
 

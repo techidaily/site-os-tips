@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style"
-date: 2024-10-24T20:59:25.287Z
-updated: 2024-10-29T20:31:02.114Z
+date: 2024-10-29T17:59:09.172Z
+updated: 2024-11-04T18:13:30.907Z
 tags:
   - ios
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 * [Redesigning Hardware Is Less Sustainable](https://win-howtos.techidaily.com/how-to-fix-nier-automata-crashes-on-your-windows-computer/)
 * [Even Techies Don't Want Change As Much As We Think We Do](https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Good smartphones designs remain consistent in part because there are limited ways to make powerful, durable, and comfortable devices.
@@ -32,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  We've Figured Out How to Make Good Phones
 
  When a technology is new, experimentation is the name of the game. We don't already know which design is the most durable, [how to make gadgets waterproof](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), or [how to allow for passive cooling](https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/). We're not even sure which of these things is important.
@@ -41,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
  Even when it comes to foldable phones, developers know how to make great ones. Most of the experimentation has to do with durability and miniaturization, making components small enough that you can still fit flagship cameras on a device where each half needs to be thinner than that of an average phone. It would also be nice to get rid of the crease. But the fundamentals? Those are nailed down already.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Consistency Is Good for Brand Recognition
@@ -66,13 +80,6 @@ Tyler Hayes / How-To Geek
  The same is true of the software experience. Apple and Google phones place a premium on having a cohesive experience that offers the essentials. Samsung offers people the ability to tweak whatever they want. Motorola and ASUS offer experiences that lie somewhere in between.
 
  When you're bored, satisfy your thirst for novelty by switching brands, but know you can switch back to the familiar when you so choose.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  ​You Can Get a Better Version of the Phone You Already Have
 
@@ -97,10 +104,10 @@ Justin Duino / How-To Geek
  The Galaxy S23 Ultra may have looked near identical to its predecessor, but according to [Android Police](https://www.androidpolice.com/samsung-flagship-phones-apple-iphone-sales/), the former outsold the latter by over 6 million units. Samsung was not punished for keeping so much the same. If anything, it was rewarded.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Redesigning Hardware Is Less Sustainable
@@ -108,13 +115,6 @@ Justin Duino / How-To Geek
  One aspect of our modern economy is that things that were perfectly fine get changed for no reason other than to convince consumers to buy something they already have all over again. This is inherently wasteful. Compared to most industries, the tech industry's replacement cycle is even faster. We might own a hammer for ten or twenty years without giving it much thought. A laptop? Maybe five. A phone? Every other year or so. Manufacturers and carriers alike want us to [upgrade our phones often](https://facebook-video-footage.techidaily.com/updated-in-2024-diving-into-the-world-of-haul-video-content/).
 
  Whenever a phone changes, that means old cases no longer fit. We often have to throw out old charging cables and replace our earbuds. The impact throughout the supply chain is greater. All kinds of modules have to be resized and retooled. The more things that can be kept the same each year, the more we and manufacturers can reuse the stuff we already have.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
@@ -145,24 +145,20 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-best-undersea-gopro-enhancements/"><u>[New] Best Undersea Gopro Enhancements</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-10-globally-acclaimed-video-sensations-on-youtube/"><u>[Updated] 2024 Approved Top 10 Globally Acclaimed Video Sensations on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>2024 Approved Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028386306-5/"><u>録画した動画を効果的に編集する上位5つのツールとアプリ:お選びください</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-prevent-your-iphones-auto-dimming-feature-from-interrupting-your-view-expert-tips-and-tricks/"><u>How To Prevent Your iPhone's Auto-Dimming Feature From Interrupting Your View: Expert Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/imessage-troubleshooting-top-8-solutions-for-iphone-and-mac-users/"><u>IMessage Troubleshooting: Top 8 Solutions for iPhone and Mac Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-narzo-60-pro-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme Narzo 60 Pro 5G FRP</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-easy-guide-merge-music-and-video-without-spending-a-dime/"><u>In 2024, IPhone's Easy Guide Merge Music and Video Without Spending a Dime</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-belkin-auto-tracking-stand-pro-the-ultimate-companion-for-content-creators/"><u>In-Depth Analysis of the Belkin Auto-Tracking Stand Pro: The Ultimate Companion for Content Creators</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-15-pro-is-overheating-a-concern-with-this-latest-model/"><u>IPhone 15 Pro: Is Overheating a Concern with This Latest Model?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-it-safe-and-effective-to-use-apples-airtag-trackers-for-pet-collars/"><u>Is It Safe and Effective to Use Apple's AirTag Trackers for Pet Collars?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/locating-lost-iphones-a-step-by-step-guide-using-your-android/"><u>Locating Lost iPhones: A Step-by-Step Guide Using Your Android</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-art-of-iphone-based-gaming-with-our-essential-tips-and-tricks/"><u>Master the Art of iPhone-Based Gaming with Our Essential Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-adaptive-audio-function-in-airpods-pro-for-superior-soundscape-control/"><u>Mastering the Adaptive Audio Function in AirPods Pro for Superior Soundscape Control</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/missing-content-alert-this-page-cant-be-displayed/"><u>Missing Content Alert: This Page Can't Be Displayed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-accidentally-deleted-iphone-voicemail-easy-methods-explored/"><u>Recovering Accidentally Deleted iPhone Voicemail: Easy Methods Explored</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-obsidian-client-lag-while-streaming-and-recording/"><u>Resolved: How to Fix Obsidian Client Lag While Streaming and Recording</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-13-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 13 Pro Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever-for-2024/"><u>[Updated] Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-10-subtitle-editing-software-online/"><u>2024 Approved Premier 10 Subtitle Editing Software Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-securely-syncing-your-mobile-data-on-iphone-and-android/"><u>Complete Guide: Securely Syncing Your Mobile Data on iPhone & Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-securely-backing-up-your-data-on-samsung-galaxy-s4-s5-s6-and-s7/"><u>Comprehensive Guide: Securely Backing Up Your Data on Samsung Galaxy S4, S5, S6, and S7</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/eye-candy-index-the-top-8-videos-for-2024/"><u>Eye Candy Index The Top 8 Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-x6-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco X6</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-turn-off-automatic-backups-in-whatsapp-for-iphones-and-android-phones/"><u>How To Turn Off Automatic Backups in WhatsApp for iPhones & Android Phones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-meizu-21-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Meizu 21 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/insider-tips-what-you-need-to-know-before-trading-in-your-faulty-cellphones/"><u>Insider Tips: What You Need To Know Before Trading In Your Faulty Cellphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keep-your-pics-safe-without-costing-a-penny-effortless-auto-upload-on-google-photos/"><u>Keep Your Pics Safe Without Costing a Penny - Effortless Auto-Upload on Google Photos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-device-safety-how-to-efficiently-backup-ios-and-android-phones/"><u>Mastering Device Safety: How to Efficiently Backup iOS & Android Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-online-dailymotion-converter-convert-videos-to-any-format-for-free/"><u>New Online Dailymotion Converter Convert Videos to Any Format for Free</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-transfer-of-android-images-a-step-by-step-guide-to-syncing-your-phone-pics-with-a-pc-or-google-photos/"><u>Seamless Transfer of Android Images: A Step-by-Step Guide to Syncing Your Phone Pics with a PC or Google Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-lesser-known-media-players-post-vlc-for-2024/"><u>Unveiling the Lesser-Known Media Players Post-VLC for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-windows-store-error-code-0x80072efd/"><u>Unwrapping the Mystery of Windows Store Error Code 0X80072EFD</u></a></li>
 </ul></div>
 

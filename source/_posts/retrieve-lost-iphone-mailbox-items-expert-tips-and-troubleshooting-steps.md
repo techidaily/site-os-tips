@@ -1,7 +1,7 @@
 ---
 title: "Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps"
-date: 2024-08-18T09:30:43.124Z
-updated: 2024-08-19T09:30:43.124Z
+date: 2024-11-03T16:37:39.085Z
+updated: 2024-11-04T16:31:44.350Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * [How to make iPhone 6/7 battery replacement](https://tools.techidaily.com/)
 * [How to replace iPhone 5/5s/5c battery](https://tools.techidaily.com/)
 * [How to replace iPhone 4/4S battery](https://tools.techidaily.com/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to replace iPhone 6/7 battery
 
@@ -55,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 5 Eject iPhone battery
 
 ![Make iPhone 6 Battery Replacement](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/replace-iphone6-battery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  iPhone 6 uses much glue to fix the battery, so it's not easy to remove it. You can directly use crowbar to take battery off. But we suggest you use hair dryer to warm the rear cover first, then you can easily remove the iPhone battery.
 
@@ -68,8 +72,12 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 Step 7 Assemble iPhone screen
 
 ![Assemble iPhone](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/complete-iphone6-battery-replacement.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reconnect the screen cable according the source connection. Screw the screws when you are sure that all connection is no question. Then put on the screen and screw the screws at the bottom of iPhone.
@@ -83,8 +91,18 @@ Step 7 Assemble iPhone screen
 [](https://secure.2checkout.com/order/cart.php?PRODS=4626213&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4630131&QTY=1&AFFILIATE=108875)
 
 ![FoneTrans](https://www.aiseesoft.com/images/ios-transfer/download-and-run-fonetrans.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don't Miss:[How to recover deleted or lost data from iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
@@ -100,8 +118,12 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 2 Remove the screws at bottom
 
 ![Remove External Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/iphone5-bottom-screws.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Just like iPhone 4/4S, iPhone 5 is also fixed by two screws at the bottom of iPhone. You can use the same screwdriver to remove the two screws.
@@ -109,8 +131,12 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 3 Remove the iPhone screen
 
 ![Remove iPhone 5 Screen](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Different with iPhone 4/4S battery replacement, you need to replace iPhone 5 battery by opening the iPhone screen. Place the suction cup above the central screen, and then you can softly pull the suction cup to remove iPhone screen.
@@ -118,11 +144,6 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 4 Remove the bracket and screws
 
 ![Remove iPhone 5 Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/unscrew-inside-screws.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  Use screwdriver to unscrew the screws on the bracket and then remove the bracket. You don't need to take the whole screen off. Just turn the screen up to replace iPhone 5 battery.
 
@@ -130,13 +151,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Make iPhone 5 Battery Replacement](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/drag-iphone5-battery.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use the opening tool to disconnect iPhone battery. Drag the plastic sheet to take off the battery. Put the new battery back in and reconnect the cable according the original connection. Make sure everything is OK and then turn off your iPhone to check the result.
 
  Don't forget to screw the screws at bottom of iPhone. And you can handily complete the iPhone 5 battery replacement within this five steps.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## How to make iPhone 4/4S battery replacement
 
  If your iPhone 4 or iPhone 4S is still in use, it must be the most emergent one which need to be rescue. So in the first part, we will tell you how to replace iPhone 4/4S battery step by step. Just follow the guide and you can handily do it all by yourself.
@@ -148,15 +173,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2 Remove the external screws
 
 ![Remove Bottom Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/bottom-screws.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  Use the suitable screwdriver to remove two screws on the bottom of iPhone. Make sure you use the right screwdriver and put the screws at a safe and single place.
 
@@ -169,10 +185,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4 Unscrew the bracket
 
 ![Remove iPhone 4 Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-inside-screw.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  DO NOT directly pull out the iPhone battery. You can see the FPC cable is fixed with a screw. Use another screwdriver to unscrew the screw. Then you may need to rely on a little crowbar to remove the bracket.
 
@@ -212,8 +224,6 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +231,20 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/op-10-youtube-video-editing-tips-for-beginner-editors-for-2024/"><u>[New] Top 10 YouTube Video Editing Tips for Beginner Editors for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-comprehensive-look-at-youtuber-snippets-for-2024/"><u>[Updated] A Comprehensive Look at Youtuber Snippets for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-with-smart-marketing/"><u>Cookiebot-Enabled Sites | Enhance User Experience with Smart Marketing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/premium-nomad-base-one-max-triple-functionality-breakdown-in-depth-guide-on-the-advanced-magsafe-battery-charger/"><u>Premium Nomad Base One Max Triple Functionality Breakdown: In-Depth Guide on the Advanced MagSafe Battery Charger</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protective-measures-for-your-ipad-trust-in-esrs-expertise/"><u>Protective Measures for Your iPad? Trust in ESR’s Expertise</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tip-seamlessly-cutting-and-pasting-content-across-ios-and-macos-devices/"><u>Quick Tip: Seamlessly Cutting and Pasting Content Across iOS & macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/release-memory-clog-by-decluttering-apple-mail-a-comprehensive-guide-for-ios-devices/"><u>Release Memory Clog by Decluttering Apple Mail: A Comprehensive Guide for iOS Devices</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-motorola-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Motorola</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-iphones-display-potential-using-the-standby-feature/"><u>Revolutionize Your iPhone's Display Potential Using the Standby Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-smartphones-the-alluring-titanium-and-cutting-edge-usb-c-of-apples-new-iphone-15-pro-unveiled/"><u>Revolutionizing Smartphones: The Alluring Titanium and Cutting-Edge USB-C of Apple's New iPhone 15 Pro Unveiled!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-6-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 6 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-free-methods-for-effortless-splitting-of-m4a-audio-files/"><u>Top Free Methods for Effortless Splitting of M4A Audio Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+</ul></div>
 

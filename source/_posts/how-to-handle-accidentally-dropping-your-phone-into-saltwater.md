@@ -1,7 +1,7 @@
 ---
 title: How to Handle Accidentally Dropping Your Phone Into Saltwater
-date: 2024-10-11T02:52:46.847Z
-updated: 2024-10-11T19:54:07.940Z
+date: 2024-10-28T16:33:21.920Z
+updated: 2024-11-04T16:33:47.391Z
 tags:
   - ios
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  You're having a great day at the beach or on the ocean, but your fingers slip, and splash! Down goes your smartphone into the briny deep---or hopefully, just into a few inches of salt water. Either scenario can be devastating, so here's what you should do.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  First, Try to Find It
 
  Unless you're in a situation where it would be dangerous to retrieve the phone, you should try to locate your phone and get it out of the water as quickly as possible. Here's a few ideas: If you can't see the phone, try to feel the phone underwater with your feet, or grab a fishing net and scoop up the sand until you find it.
@@ -38,6 +31,13 @@ Related: [What To Do If You Lose Your Two-Factor Phone](https://hardware-reviews
 
  If you have [AppleCare+ with Theft and Loss](https://support.apple.com/iphone/theft-loss-claims), you can file a claim for a lost iPhone---as long as you had "Find My" enabled on it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Turn It Off, Dry Phone as Much as You Can
 
  Once your phone is out of the water, [power it off](https://facebook-videos.techidaily.com/new-elevate-engagement-escalate-ranks-on-fb-pages/) completely. Use a clean towel to dry the phone off as much as possible. If possible, remove the SIM card tray, any memory card trays, and the battery if it is not built into the phone. If it's in a case that is not waterproof, remove the case as well.
@@ -47,19 +47,6 @@ Related: [Stop Putting Your Phone in Rice](https://sim-unlock.techidaily.com/eas
  If your smartphone is already in a [waterproof case](https://fox-hovers.techidaily.com/updated-2024-approved-reimagining-the-corporate-environment-to-maximize-employee-potential/) or features water resistance and wasn't in the water for very long, turn the phone off and [rinse](https://support.apple.com/en-us/HT207043) the phone (in the waterproof case, if it has one) under clean fresh water (not salt water.) Dry it off with a towel, then let it sit for several hours to dry off before attempting to use it again. If all works well, then you should be good to go.
 
  If your phone isn't water resistant, you may have heard that placing your smartphone in rice will help dry it out, but that's [just a myth](https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/). Rice will do nothing, and leaving it sitting there will give the saltwater stuck inside the phone body extra time to corrode the electronics. If you ever want to use the phone again, you're in a [race against time](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) to disassemble the phone and clean it out before corrosion permanently damages the internal circuitry.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  If Possible, Take the Phone Apart
 
@@ -72,10 +59,10 @@ Related: [How Water Damages Electronics](https://blog-min.techidaily.com/5-ways-
 Related: [How to Back Up Your iPhone With iTunes (and When You Should)](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Otherwise, Take it to a Professional
@@ -87,10 +74,10 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  If they aren't willing to work on it right away and the phone is very important, take the phone somewhere else. If you have an iPhone, you could consider [getting an appointment](https://facebook-clips.techidaily.com/new-2024-approved-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/) at an Apple store, for example.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  An Ounce of Prevention
@@ -100,6 +87,13 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  In this case, your ounce of prevention might be leaving your smartphone on dry land when you're near the water. But barring that, you could also place your smartphone in a waterproof case or [dry bag](https://www.amazon.com/MARCHWAY-Floating-Waterproof-Kayaking-Swimming/dp/B07SR1MDJM?tag=hotoge-20&ascsubtag=UUhtgUeUpU205513&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F813097%2Fwhat-to-do-if-you-drop-your-smartphone-in-the-ocean%2F&asc%5Fcampaign=Short-Term) before going anywhere near the ocean.
 
 ![41uKdhSztZL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41ukdhsztzl-_sl500_-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  JOTO Universal Waterproof Phone Pouch 
 
@@ -126,22 +120,20 @@ Inexpensive insurance against water exposure for a smartphone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-top-10-unique-tiktok-filters-sparking-engagement/"><u>[New] 2024 Approved Top 10 Unique TikTok Filters Sparking Engagement</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-synergy-strategies-for-ig-and-tiktok/"><u>[New] Synergy Strategies for IG & TikTok</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-discover-8-trusted-online-content-marketing-tools/"><u>[Updated] Discover 8 Trusted Online Content Marketing Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620257121-6-effective-strategies-to-resolve-non-functioning-iphone-reminders-in-no-time/"><u>6 Effective Strategies to Resolve Non-Functioning iPhone Reminders in No Time</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/eliminate-camera-tremors-master-3-techniques-for-smoothing-shaky-footage-in-adobe-after-effects/"><u>Eliminate Camera Tremors: Master 3 Techniques for Smoothing Shaky Footage in Adobe After Effects</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-refresh-the-samsung-usb-driver-on-your-smartphone/"><u>How to Refresh the Samsung USB Driver on Your Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-stop-immediate-redirect-of-incoming-calls-to-iphones-voicemail-easy-troubleshooting-steps/"><u>How to Stop Immediate Redirect of Incoming Calls to iPhone's Voicemail: Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-6-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 6 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-syncing-problems-solved-steps-for-fixing-music-playlist-and-image-transfer-between-itunesmac-and-device/"><u>IPhone Syncing Problems Solved: Steps for Fixing Music, Playlist and Image Transfer Between iTunes/Mac and Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-these-simple-steps-to-turn-on-two-step-verification/"><u>Secure Your Apple Account with These Simple Steps to Turn On Two-Step Verification</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-to-free-an-iphone-from-persistent-earpiece-configuration/"><u>Step-by-Step Solutions to Free an iPhone From Persistent Earpiece Configuration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/struggling-with-muted-iphone-learn-effective-solutions-to-revive-its-volume/"><u>Struggling with Muted Iphone? Learn Effective Solutions to Revive Its Volume</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-solution-expert-tips-for-resolving-iphone-alarm-issues-effectively/"><u>The Ultimate Solution: Expert Tips for Resolving iPhone Alarm Issues Effectively</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-a-frozen-ipad-solutions-when-your-device-gets-stuck-on-the-apple-icon/"><u>Troubleshooting a Frozen iPad: Solutions When Your Device Gets Stuck on the Apple Icon</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-gamers-tips-shouldnt-sway-dev-motivation/"><u>Why Gamers' Tips Shouldn't Sway Dev Motivation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[New] 2024 Approved Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-hit-rates-with-youtubes-best-thumbnail-strategies/"><u>[New] Maximizing Hit Rates with YouTube's Best Thumbnail Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-tips-for-masterful-looped-videos-on-instagram/"><u>[New] Top Tips for Masterful Looped Videos on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-complete-haul-video-manual-from-shopping-to-screen-time/"><u>[Updated] The Complete Haul Video Manual From Shopping to Screen Time</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728471349321-nas/"><u>如何定期將 NAS 系統資料移動到外部設備上 - 主要有兩種策略</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-compatibility-woes-with-surface-firmware-upgrade-tips/"><u>Avoid Compatibility Woes with Surface Firmware Upgrade Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-premium-white-hd-backgrounds-for-iphones-at-no-cost/"><u>Download Premium White HD Backgrounds for iPhones at No Cost</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhancing-slideshow-impact-with-webcam-integration-for-2024/"><u>Enhancing Slideshow Impact with Webcam Integration for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-7-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 7 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-90-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor 90 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://os-tips.techidaily.com/innovative-tricks-for-powering-up-your-iphone-without-traditional-methods/"><u>Innovative Tricks for Powering Up Your iPhone without Traditional Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-sharing-your-iphoneipad-display-with-a-projector-for-2eplust-year/"><u>The Ultimate Guide to Sharing Your iPhone/iPad Display with a Projector for 2E+t Year</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-2024s-best-non-itunes-music-managers-for-windows-and-macos-devotees/"><u>The Ultimate List of 2024'S Best Non-iTunes Music Managers for Windows and macOS Devotees</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-12-itunes-substitutes-best-options-for-windows-and-mac-users/"><u>Top 12 iTunes Substitutes : Best Options for Windows & Mac Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-ios-17-release-will-your-iphone-8-be-upgradable/"><u>Upcoming iOS 17 Release: Will Your iPhone 8 Be Upgradable?</u></a></li>
 </ul></div>
 

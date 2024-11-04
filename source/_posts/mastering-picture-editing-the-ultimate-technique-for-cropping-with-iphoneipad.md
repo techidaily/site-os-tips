@@ -1,7 +1,7 @@
 ---
 title: "Mastering Picture Editing: The Ultimate Technique for Cropping with iPhone/iPad"
-date: 2024-09-21T17:26:29.722Z
-updated: 2024-09-26T01:31:39.477Z
+date: 2024-10-30T16:00:59.114Z
+updated: 2024-11-04T16:28:04.266Z
 tags:
   - ios
 categories:
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
  Want to zoom into an image or cut an item out of view? It's easy to change the shape or proportions of a photo on iPhone or iPad by cropping using the Photos app. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Crop Images in the Photos App
@@ -43,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Crop Photos to a Set Aspect Ratio
@@ -60,10 +54,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Undo the Crop
@@ -95,21 +89,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-content-creators-preferences-vimeo-or-youtube-for-2024/"><u>[New] Content Creators' Preferences Vimeo or YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-gear-for-youtube-content-makers/"><u>[New] Ultimate Gear for YouTube Content Makers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-gaming-chairs-on-a-shoestring-budget/"><u>[Updated] 2024 Approved Top 5 Gaming Chairs on a Shoestring Budget</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unleash-your-phones-potential-the-ultimate-montage-application-guide/"><u>2024 Approved Unleash Your Phone's Potential The Ultimate Montage Application Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-f15-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy F15 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://video-capture.techidaily.com/apowersoft-capture-app-reviewed/"><u>Apowersoft Capture App Reviewed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-remembering-special-dates-customizing-birthday-notifications-on-iphone/"><u>Effortlessly Remembering Special Dates: Customizing Birthday Notifications on iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-iphone-gadgets-quality-that-justifies-the-cost/"><u>Essential iPhone Gadgets: Quality That Justifies the Cost</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-depths-a-comprehensive-guide-to-your-apple-watchs-waterproof-capabilities/"><u>Exploring the Depths: A Comprehensive Guide to Your Apple Watch's Waterproof Capabilities</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-mechanisms-of-iphone-anti-theft-safeguards-insightful-guide-for-users/"><u>Exploring the Mechanisms of iPhone Anti-Theft Safeguards: Insightful Guide for Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972699483-get-your-device-running-smoothly-download-for-free-qualcomm-atheros-ar938x-drivers-today/"><u>Get Your Device Running Smoothly - [Download for Free] Qualcomm Atheros AR938X Drivers Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/handheld-gaming-on-steam-without-the-necessity-of-a-steam-deck/"><u>Handheld Gaming on Steam Without the Necessity of a Steam Deck</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-effective-is-an-alarm-on-an-iphone-when-its-switched-off-muted-or-set-to-do-not-disturb/"><u>How Effective Is an Alarm on an iPhone When It's Switched Off, Muted, or Set to 'Do Not Disturb'?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-paid-fitness-apps-are-setting-new-standards-in-health-and-wellness-technology/"><u>How Paid Fitness Apps Are Setting New Standards in Health & Wellness Technology</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-xr-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone XR when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>[New] 2024 Approved The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-muting-unwanted-noise-obs-audio-solution-for-2024/"><u>[Updated] Muting Unwanted Noise OBS Audio Solution for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-mac-superior-bandicam-alternates/"><u>2024 Approved Top 5 Mac Superior Bandicam Alternates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-complimentary-video-players-for-h265-encoded-and-4k-resolution-streams-available-now/"><u>Best Complimentary Video Players for H.265 Encoded & 4K Resolution Streams Available Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-the-missing-d3dx925dll-issue-on-your-pc-easily/"><u>Fix the Missing d3dx9_25.dll Issue on Your PC Easily!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-c12-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia C12 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-perform-a-factory-restore-on-your-dell-inspiron-notebook/"><u>How To Securely Perform a Factory Restore on Your Dell Inspiron Notebook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-frequent-restarts-in-windows-11-practical-fixes-for-stability-issues/"><u>How to Stop Frequent Restarts in Windows 11 – Practical Fixes for Stability Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-voip-texts-learn-how-to-use-siri-or-standard-methods-for-iphone-voice-messaging-without-imessage/"><u>Mastering VoIP Texts: Learn How to Use Siri or Standard Methods for iPhone Voice Messaging Without iMessage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/personalize-your-iphone-experience-a-step-by-step-guide-to-changing-siris-voice/"><u>Personalize Your iPhone Experience: A Step-by-Step Guide to Changing Siri's Voice</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-how-to-permanently-erase-your-apple-id-in-just-5-methods/"><u>Simple Steps: How to Permanently Erase Your Apple ID in Just 5 Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simplify-your-contact-list-on-iphone-a-guide-to-combining-entries-and-eliminating-redundancies/"><u>Simplify Your Contact List on iPhone: A Guide to Combining Entries & Eliminating Redundancies</u></a></li>
 </ul></div>
 

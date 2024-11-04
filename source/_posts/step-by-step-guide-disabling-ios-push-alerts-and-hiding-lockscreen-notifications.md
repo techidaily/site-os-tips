@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2024-10-23T01:00:56.597Z
-updated: 2024-10-29T18:58:10.953Z
+date: 2024-11-02T16:47:57.339Z
+updated: 2024-11-04T16:03:29.702Z
 tags:
   - ios
 categories:
@@ -16,26 +16,12 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 * [The Quick Fix: Turn on "Do Not Disturb" Mode](https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-by-fonelab-android-recover-music/)
 * [The Deeper Fix: Disable Notifications on Lock Screen](https://vp-tips.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use "Do Not Disturb" mode to easily silence your iPhone or iPad. Launch Control Center, tap the Focus button, and incoming notifications won't wake your device's display.
 * If you don't want to use "Do Not Disturb," disable lock screen notifications individually for each app in your device's notification settings. Open Settings, tap "Notifications," select the app, and uncheck the "Lock Screen" option.
 
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
 
@@ -44,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  To enable Do Not Disturb mode quickly, first, [launch Control Center](https://youtube-blog.techidaily.com/ring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/) on your iPhone or iPad, and then tap the Focus button (which looks like a crescent moon).
 
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
 
@@ -57,30 +56,37 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Settings, tap "Notifications."
 
 ![Tap "Notifications" in the listed options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-notifications.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Notifications, scroll through the list and tap the name of the app that you want to prevent from waking your screen. In this case, we're using Messages as an example, but you could do it for Facebook Messenger, Signal, Twitter, FaceTime, or any other app.
 
 ![We selected the Messages app in the Notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-messages.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the app's notification settings, tap "Lock Screen" to uncheck it.
 
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
@@ -102,24 +108,24 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harmonious-hues-mastering-color-dynamics/"><u>[New] Harmonious Hues Mastering Color Dynamics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pixelflame-recorders-for-firefox/"><u>[New] PixelFlame Recorders for Firefox</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-firefox-screen-recorders-and-add-ons-for-2024/"><u>[New] Top 10 Firefox Screen Recorders and Add-Ons for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ideal-extras-for-enhancing-dji-phantom-4/"><u>[Updated] 2024 Approved Ideal Extras for Enhancing DJI Phantom 4</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-step-by-step-guide-creating-and-installing-personalized-iphone-ringtones/"><u>1. Step-by-Step Guide: Creating and Installing Personalized iPhone Ringtones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-most-popular-apple-watch-choices-expert-reviews-and-comparisons/"><u>2023'S Most Popular Apple Watch Choices - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://os-tips.techidaily.com/access-the-latest-ios-18-preview-release-today/"><u>Access the Latest iOS 18 Preview Release Today!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/additional-us-state-adopts-iphones-digital-id-system/"><u>Additional US State Adopts iPhone's Digital ID System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-benefit-from-revamped-google-drive-interface/"><u>Android & iPhone Users Benefit From Revamped Google Drive Interface</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/y-channel-guide-your-best-15-youtube-sources/"><u>Comedy Channel Guide Your Best 15 YouTube Sources</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comparing-waze-and-google-maps-a-detailed-review-of-features-and-performance/"><u>Comparing Waze and Google Maps: A Detailed Review of Features and Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-steps-for-setting-up-your-new-ipad-tips-and-tricks/"><u>Essential Steps for Setting Up Your New iPad - Tips & Tricks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/expert-advice-for-embedding-youtube-playlists-with-ease/"><u>Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-converting-your-media-files-for-optimal-playback-on-sony-bravia-televisions/"><u>Guide to Converting Your Media Files for Optimal Playback on Sony Bravia Televisions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/onepluss-next-evolution-a-sneak-peek-into-price-range-estimated-release-date-and-feature-set-for-upcoming-device/"><u>OnePlus's Next Evolution: A Sneak Peek Into Price Range, Estimated Release Date & Feature Set for Upcoming Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unraveling-the-secrets-behind-the-iphones-dominance-in-video-playback/"><u>Unraveling the Secrets Behind the iPhone's Dominance in Video Playback</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-milestone-the-birth-of-the-first-smartphone/"><u>Unveiling the Milestone: The Birth of the First Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/when-and-how-to-deactivate-apples-find-my-iphone-feature-insights-and-instructions/"><u>When and How to Deactivate Apple's Find My iPhone Feature - Insights and Instructions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-androidios-techniques-screening-google-meets-for-2024/"><u>[New] Android/iOS Techniques Screening Google Meets for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-videos-to-audible-pleasures-online-mp3-creation-secrets-for-2024/"><u>[New] FB Videos to Audible Pleasures Online MP3 Creation Secrets for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-snapchat-slideshow-technique/"><u>[New] In 2024, The Ultimate Snapchat Slideshow Technique</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-introduction-to-av1-encoding-techniques/"><u>[New] Introduction to AV1 Encoding Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mapping-your-marketing-journey-on-youtube/"><u>[New] Mapping Your Marketing Journey on YouTube</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-blocking-access-and-deleting-share-from-your-macs-keychain-safely/"><u>Guide: Blocking Access and Deleting 'Share' From Your Mac's Keychain Safely</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-disable-share-this-feature-with-password-storage-on-your-device/"><u>How to Disable Share This Feature with Password Storage on Your Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-enable-screen-magnification-during-video-playback-in-windows-media-player/"><u>How to Enable Screen Magnification During Video Playback in Windows Media Player</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-login-assistant-required-for-accessibility-services-a-step-by-step-guide/"><u>How to Resolve 'Login Assistant Required for Accessibility Services': A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/icloud-keychain-demystified-easy-ways-to-manage-and-access-your-saved-passwords-on-iphone/"><u>ICloud Keychain Demystified: Easy Ways to Manage and Access Your Saved Passwords on iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860160837-in-2024-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>In 2024, Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/preserve-your-chats-a-comprehensive-tutorial-for-archiving-messages-on-the-samsung-galaxy-and-note-smartphones/"><u>Preserve Your Chats: A Comprehensive Tutorial for Archiving Messages on the Samsung Galaxy and Note Smartphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-accountsservice-daemon-needs-a-login-issue-3-effective-strategies/"><u>Solving the 'AccountsService Daemon Needs a Login' Issue: 3 Effective Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-switching-your-apple-login-credentials-from-ios-to-android/"><u>Step-by-Step Guide: Switching Your Apple Login Credentials From iOS to Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/syncing-apple-device-access-a-step-by-step-guide-for-managing-keychain-passwords-across-your-iphones-and-macs/"><u>Syncing Apple Device Access: A Step-by-Step Guide for Managing Keychain Passwords Across Your iPhones and Macs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-finest-bargain-ssl-certificates-listed/"><u>The Finest Bargain SSL Certificates Listed</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-icloud-keychain-a-step-by-step-guide-to-unlocking-your-iphones-secrets/"><u>Understanding iCloud Keychain: A Step-by-Step Guide to Unlocking Your iPhone's Secrets</u></a></li>
 </ul></div>
 

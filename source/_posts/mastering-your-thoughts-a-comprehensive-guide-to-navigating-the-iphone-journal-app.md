@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Thoughts: A Comprehensive Guide to Navigating the iPhone Journal App"
-date: 2024-09-24T02:53:41.533Z
-updated: 2024-09-26T06:17:29.526Z
+date: 2024-10-31T17:24:03.616Z
+updated: 2024-11-04T16:42:28.127Z
 tags:
   - ios
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
  Apple added the Journal app to iPhones with the update to iOS 17.2\. This intuitive app makes it easy to chronicle moments in your life, reflect on past experiences, or simply document your thoughts. We'll show you how to do everything from adding your first entry to locking it all behind a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Set Up Journal's Permissions
 
  The Journal app can suggest entries based on your day-to-day activities. But, since the generation of these suggestions involves the app having access to your data, it first requires you to consent to giving this data.
@@ -42,15 +49,22 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
  Scroll down and tap on "Privacy & Security."
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ![An iPhone settings page highlighting privacy and security.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7153.jpeg) 
 
  Now tap on "Journaling Suggestions."
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ![iPhone screen highlighting journaling suggestions.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7154.jpeg) 
@@ -58,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  You will notice that all journaling suggestions are currently inactive. You can turn them on by toggling the switches for the data points that you would like to see suggestions for in the Journal app.
 
 ![iPhone settings screen showing inactive journaling suggestions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_0ba7c8265a3c-1.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You have now configured permissions and allowed the Journal app to access your data to provide personalized suggestions for creating new journal entries.
 
@@ -80,16 +87,16 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![iPhone screen highlighting the new entry button on the iPhone journal app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7120.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now begin writing your journal entry. At the bottom of the page, the app also allows for the addition of photos, videos, voice notes, and location to make the journal entry more detailed and personalized.
 
 ![iPhone screen showing a blank screen to write a journal entry.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7121.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you are done writing the entry, click on "Done" to save it. With this, you have now created your first journal entry.
 
@@ -104,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![iPhone screen showing journal suggestions and highlighting the write button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7123.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Clicking on the icon will start a new journal entry based on the suggestion. You can continue to write the entry, add more images, audio, or location to it, and then click on "Done" to save it.
@@ -132,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![An iPhone settings page highlighting skip journaling suggestions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7132.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It's important to note that skipping suggestions alone (without disabling individual data points like Activity, Media, and Photos from Settings > Privacy & Security> Journaling Suggestions) will not limit the access that the app has to your personal data, it will only stop the app from showing suggestions to you for new journal entries.
 
 ##  Review Your Journal Entries
@@ -143,6 +157,13 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  Tapping on the ellipsis icon in the bottom right corner of an entry will give you options to edit, bookmark, or delete the entry. You can use this option to edit existing journal entries or bookmark them, which adds entries to a custom list, making them easier to filter and find.
 
 ![An iPhone screen highlighting the ellipsis icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7125.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the "Filter" button at the top right to find journal entries based on some pre-defined app filters as seen below.
 
@@ -164,25 +185,11 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![An iPhone screen highlighting lock journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7129.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you have the option to set Face ID, Touch ID, or your device passcode for authentication. Additionally, Apple also gives you the option to define an idle time duration after which it will ask you to re-authenticate.
 
 ![An iPhone screen showing an active toggle on lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7130.jpeg) 
 
  This additional layer of security ensures that only you can access and explore the contents of your digital journal.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Add a Journaling Schedule
 
@@ -196,20 +203,13 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
  Now, turn on the "Schedule" switch and build a schedule for getting notified about creating journal entries.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![An iPhone screen showing an active day and time schedule.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7135.jpeg)Delete an Entry
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For instances where you might wish to delete a specific journal entry, the process is pretty straightforward.
@@ -239,14 +239,17 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-top-80s-filters-and-effects-for-professional-videos/"><u>[New] Top 80S Filters & Effects for Professional Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-14-plus-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone 14 Plus Data Permanently? | Stellar</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-transitioning-to-a-magnetic-phone-wallet-revolutionized-my-life-insider-secrets-unveiled/"><u>How Transitioning to a Magnetic Phone Wallet Revolutionized My Life - Insider Secrets Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-ios-174-explore-and-maximize-your-iphones-recent-upgrades/"><u>Mastering IOS 17.4: Explore and Maximize Your iPhone's Recent Upgrades</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-making-gifs-directly-from-an-iphone-tips-and-tricks/"><u>Mastering the Art of Making GIFs Directly From an iPhone: Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-journey-discover-how-to-share-your-google-map-route-for-a-seamless-travel-experience/"><u>Maximize Your Journey: Discover How to Share Your Google Map Route for a Seamless Travel Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-7-smart-ai-presentation-helpers/"><u>The Ultimate List: 7 Smart AI Presentation Helpers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723006403445-yakuza-like-a-dragon-perfectly-ported-and-powerful-gameplay-on-personal-computers/"><u>Yakuza: Like a Dragon - Perfectly Ported & Powerful Gameplay on Personal Computers!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/your-upcoming-artificial-companion-awaits/"><u>Your Upcoming Artificial Companion Awaits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-floodproof-favorites-compiling-top-7-cameras-list/"><u>[New] Floodproof Favorites Compiling Top 7 Cameras List</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>[Updated] A New Era of Creativity Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cut-expenses-create-wow-download-high-quality-templates-for-videos/"><u>[Updated] In 2024, Cut Expenses, Create Wow - Download High-Quality Templates for Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-on-restoring-a-broken-micro-sd-card-to-safeguard-your-data/"><u>Complete Tutorial on Restoring a Broken Micro SD Card to Safeguard Your Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-methods-to-restore-or-update-passwords-on-a-windows-(span-stylefont-size16pxcolor03a5f9)7-desktop-system(span)/"><u>Effective Methods to Restore or Update Passwords on a Windows <Span Style=font-Size:16px;color:#03A5F9;>7 Desktop System</Span></u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-strategies-resolve-your-memory-card-issues-with-these-7-techniques/"><u>Essential Strategies: Resolve Your Memory Card Issues with These 7 Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-13-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 13 Pro 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-youtube-revenue-understanding-adsense-payments-per-thousand-views-for-2024/"><u>Maximizing Youtube Revenue Understanding AdSense Payments per Thousand Views for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/saving-the-essence-a-guide-for-virtual-meeting-records-for-2024/"><u>Saving the Essence A Guide for Virtual Meeting Records for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailoring-workouts-with-ai-how-chatgpt-enhances-custom-training-programs/"><u>Tailoring Workouts with AI: How ChatGPT Enhances Custom Training Programs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-strategies-for-resolving-a-blank-sd-card-with-an-unrecognized-file-system/"><u>Top 10 Strategies for Resolving a Blank SD Card with an Unrecognized File System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620259891-top-5-essential-cloud-storage-solutions-dont-skip-these/"><u>Top 5 Essential Cloud Storage Solutions: Don't Skip These!</u></a></li>
 </ul></div>
 

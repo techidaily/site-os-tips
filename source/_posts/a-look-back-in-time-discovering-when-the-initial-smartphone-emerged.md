@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-10-17T23:17:47.338Z
-updated: 2024-10-24T00:17:58.617Z
+date: 2024-10-30T16:00:05.495Z
+updated: 2024-11-04T18:14:13.472Z
 tags:
   - ios
 categories:
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The first mobile phone, the Motorola DynaTAC, was released in 1983 for $3,995.
@@ -31,15 +24,22 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -96,15 +96,15 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires/"><u>[New] 2024 Approved Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-pioneering-techniques-for-cross-social-video-sharing/"><u>2024 Approved Pioneering Techniques for Cross-Social Video Sharing</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/convert-mkv-to-mp4-like-a-pro-top-rated-software-picks-for-windows-macos-and-web-based-solutions/"><u>Convert MKV to MP4 Like a Pro: Top Rated Software Picks for Windows, macOS & Web-Based Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-gps-accuracy-navigating-flawlessly-through-tunnels-with-latest-map-update/"><u>Enhanced GPS Accuracy: Navigating Flawlessly Through Tunnels with Latest Map Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-insights-you-need-to-know-about-buying-icloud-storage-read-up-first/"><u>Essential Insights You Need to Know About Buying iCloud Storage: Read Up First!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exclusive-promotion-enter-our-contest-and-take-home-a-brand-new-apple-iphone-se-for-free/"><u>Exclusive Promotion - Enter Our Contest & Take Home a Brand New Apple iPhone SE for FREE!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-correcting-the-advrcntr2dll-error-within-nero-suite/"><u>Expert Advice: Correcting the Advrcntr2.dll Error Within Nero Suite</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-essential-accessibility-innovations-discover-the-best-of-whats-new-in-ios-18/"><u>Explore Essential Accessibility Innovations: Discover the Best of What's New in iOS 18!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-tricks-watch-your-footage-in-reverse/"><u>In 2024, IPhone Tricks Watch Your Footage In Reverse</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-recommended-cable-modem-and-router-bundles/"><u>Top Recommended Cable Modem and Router Bundles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-earning-potential-unleashed-monetizing-fb-pages-effectively/"><u>[Updated] Earning Potential Unleashed Monetizing FB Pages Effectively</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-transforming-live-engagements-into-lasting-media-for-2024/"><u>[Updated] Transforming Live Engagements Into Lasting Media for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/dailymotion-elites-in-snapchat-world-for-2024/"><u>Dailymotion Elites in Snapchat World for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-x9b-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor X9b FRP Locks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/"><u>Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-insert-text-into-photos-using-your-iphone/"><u>Quick Tips: Insert Text Into Photos Using Your iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-razer-man-owar-headset-microphone-problems-effectively/"><u>Resolving Razer Man O'War Headset Microphone Problems Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/silent-video-creation-on-ios-a-step-by-step-process-for-cutting-out-audio-before-posting/"><u>Silent Video Creation on iOS: A Step-by-Step Process for Cutting Out Audio Before Posting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-when-your-iphone-shows-an-offline-display-expert-tips/"><u>Solutions for When Your iPhone Shows an 'Offline' Display: Expert Tips</u></a></li>
 </ul></div>
 

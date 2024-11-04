@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iMovie: A Guide to Overcoming Freezing Problems"
-date: 2024-08-18T09:27:30.766Z
-updated: 2024-08-19T09:27:30.766Z
+date: 2024-10-28T17:20:05.260Z
+updated: 2024-11-04T16:17:08.403Z
 tags:
   - mac-troubleshoot
   - fix-mac-problems
@@ -27,16 +27,17 @@ Fix Mac Won't Shut Down
 * [Part 2: What to Do If Mac Won't Shut down](https://tools.techidaily.com/)
 * [Part 3: Get Back Data After Force Shutdown or Reinstall](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Shut down Mac Correctly
 
  Sometimes, Mac won't shut down just because you did not follow the right procedure.
 
 ![Shut down Mac](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/shut-down-mac.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1.
@@ -51,21 +52,22 @@ Step 3.
 
  Save the files you have been working on. After all apps are closed, Mac will start turning off.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What to Do If Mac Won't Shut down
 
  According to our research, here are the best fixes for Mac that won't shut down.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1: Free up Space
 
 If your computer accumulates too much junk files, Mac won't shut down.
 
 ![Free up Space](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/clear-safari-caches-macos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1.
 
@@ -82,9 +84,6 @@ Step 2.
 If there are too many apps opened, Mac won't shut down quickly.
 
 ![Close All Apps](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-force-quit-apps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -101,9 +100,6 @@ Step 2.
  NVRAM, or PRAM on older system, and SMC are two special attributes on Mac. If something wrong with them, Mac won't shut down normally. The solution is simple, resetting NVRAM and SMC.
 
 ![Reset NVRAM](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/reset-mac-pram.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -117,11 +113,31 @@ Step 3.
 
  To reset SMC, force shut down your MacBook, unplug the power cord and wait for at least 15 seconds, then power cord back and turn on your Mac.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 4: Diagnose Mac and Test Your Disk
 
  The built-in Apple Diagnostics and Disk Test features are valid troubleshooting when Mac won't shut down.
 
 ![Diagnose Mac](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/apple-diagnostics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Perform Apple Diagnostics
 
@@ -152,9 +168,6 @@ Step 3.
  The[Safe Mode](https://tools.techidaily.com/) can check the issue that leads to Mac won't shut down. It is worth to try to restart your computer in Safe Mode.
 
 ![Try Safe Mode](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-safe-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -172,9 +185,6 @@ Step 4.
 
  Go to theApple menu and selectRestart . Then check if Mac shuts down as usual.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 6: Reinstall MacOS
 
  If you have tried the solutions above and the issue that Mac won't shut down repeats, you have to reinstall your system.
@@ -199,6 +209,13 @@ Step 3.
 
 ![Mac Data Recovery](https://www.aiseesoft.com/images/mac-data-recovery/mac-data-recovery-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
 
 [Mac Data Recovery](https://tools.techidaily.com/aiseesoft/data-recovery/)
@@ -211,16 +228,17 @@ _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
 [Free Download For macOS](https://secure.2checkout.com/order/checkout.php?PRODS=13115525&QTY=1&OPTIONS13115525=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Free Download For Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4726670&QTY=1&OPTIONS4726670=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ### How to Recover Data from Mac after Troubleshooting
 
@@ -249,9 +267,6 @@ Scan lost files
  Check the file types you wish to recover inData Type area, and where they stored inHard Disk Drive area. Click theScan button to look for lost files. There is a Deep Scan option at upper right corner for performing a deep scan.
 
 ![Deep Scan](https://www.aiseesoft.com/images/mac-data-recovery/deep-scan-mac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
 Step 3.
 
@@ -260,8 +275,12 @@ Recover files from Mac
  After that, preview and find the lost files. Check them and click theRecover button to get them back.
 
 ![Recover](https://www.aiseesoft.com/images/mac-data-recovery/recover-data-on-mac.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Mac keeps shutting down and restarting, you need to find solutions to[fix kernal panic on Mac](https://tools.techidaily.com/) .
@@ -299,13 +318,18 @@ More Reading
 
 ![Disqus Icon](https://www.aiseesoft.com/images/article/disqus-icon.png) Leave your comment and join our discussion
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -314,4 +338,20 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-expedite-clear-marks-prime-tiktok-watermarks-solutions/"><u>[New] In 2024, Expedite Clear Marks Prime TikTok Watermarks Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-tactics-for-easy-youtube-cta-conversions-for-2024/"><u>[Updated] Green Tactics for Easy YouTube CTA Conversions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-dynamic-endings-creating-smooth-video-transitions/"><u>[Updated] In 2024, Dynamic Endings Creating Smooth Video Transitions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-surveying-youtube-interactions/"><u>[Updated] Surveying YouTube Interactions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/5-stars-choice-the-most-reliable-fingerprint-authentication-apps-for-your-android-phone/"><u>5 Stars' Choice - The Most Reliable Fingerprint Authentication Apps for Your Android Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-securely-and-simply-rooting-your-android-phone-using-root-genius/"><u>A Step-by-Step Guide: Securely & Simply Rooting Your Android Phone Using Root Genius</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-lenovo-onekey-recovery-and-its-alternatives-for-efficient-system-restoration-in-windows-10/"><u>Exploring Lenovo OneKey Recovery and Its Alternatives for Efficient System Restoration in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-civi-3-disney-100th-anniversary-edition-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Civi 3 Disney 100th Anniversary Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-timeless-treasures-unlocked-free-public-works/"><u>In 2024, Timeless Treasures Unlocked Free Public Works</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-updating-your-android-system-and-applications/"><u>Step-by-Step Guide: Updating Your Android System & Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-effective-troubleshooting-tips-for-resolving-charging-issues-on-your-android-device/"><u>Top 7 Effective Troubleshooting Tips for Resolving Charging Issues on Your Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-printing-documents-from-your-android-device-effortlessly/"><u>Ultimate Guide: Printing Documents From Your Android Device Effortlessly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-10-4k-video-samples-for-2024/"><u>Updated Top 10 4K Video Samples for 2024</u></a></li>
+</ul></div>
 

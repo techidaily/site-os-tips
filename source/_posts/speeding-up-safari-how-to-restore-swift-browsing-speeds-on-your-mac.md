@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Safari: How to Restore Swift Browsing Speeds on Your Mac"
-date: 2024-08-18T09:27:37.208Z
-updated: 2024-08-19T09:27:37.208Z
+date: 2024-11-01T17:15:06.599Z
+updated: 2024-11-04T17:16:31.651Z
 tags:
   - mac-troubleshoot
   - fix-mac-problems
@@ -27,6 +27,13 @@ Fix Mac Won't Shut Down
 * [Part 2: What to Do If Mac Won't Shut down](https://tools.techidaily.com/)
 * [Part 3: Get Back Data After Force Shutdown or Reinstall](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Shut down Mac Correctly
 
  Sometimes, Mac won't shut down just because you did not follow the right procedure.
@@ -49,17 +56,11 @@ Step 3.
 
  According to our research, here are the best fixes for Mac that won't shut down.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 1: Free up Space
 
 If your computer accumulates too much junk files, Mac won't shut down.
 
 ![Free up Space](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/clear-safari-caches-macos.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -87,17 +88,17 @@ Step 2.
 
  Sometimes, you could try to[delete an app from Mac](https://tools.techidaily.com/) , when the app caused a failure of shutting down Mac every time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Solution 3: Reset NVRAM, PRAM and SMC
 
  NVRAM, or PRAM on older system, and SMC are two special attributes on Mac. If something wrong with them, Mac won't shut down normally. The solution is simple, resetting NVRAM and SMC.
 
 ![Reset NVRAM](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/reset-mac-pram.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1.
@@ -113,8 +114,12 @@ Step 3.
  To reset SMC, force shut down your MacBook, unplug the power cord and wait for at least 15 seconds, then power cord back and turn on your Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 4: Diagnose Mac and Test Your Disk
 
  The built-in Apple Diagnostics and Disk Test features are valid troubleshooting when Mac won't shut down.
@@ -146,16 +151,23 @@ Step 3.
  If a problem is detected, you can write it down and ask help from Apple Support.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 5: Try Safe Mode
 
  The[Safe Mode](https://tools.techidaily.com/) can check the issue that leads to Mac won't shut down. It is worth to try to restart your computer in Safe Mode.
 
 ![Try Safe Mode](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/mac-safe-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -173,17 +185,11 @@ Step 4.
 
  Go to theApple menu and selectRestart . Then check if Mac shuts down as usual.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Solution 6: Reinstall MacOS
 
  If you have tried the solutions above and the issue that Mac won't shut down repeats, you have to reinstall your system.
 
 ![Reinstall MacOS](https://www.aiseesoft.com/images/solution/mac-wont-shut-down/macos-high-sierra-recovery-mode-reinstall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1.
 
@@ -202,8 +208,12 @@ Step 3.
 [Aiseesoft Mac Data Recovery](https://tools.techidaily.com/aiseesoft/data-recovery/) is a powerful way to get back your files after troubleshooting.
 
 ![Mac Data Recovery](https://www.aiseesoft.com/images/mac-data-recovery/mac-data-recovery-box.png)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _1_ _0_ _1_ _,_ _5_ _3_ _9_  Downloads
@@ -238,9 +248,12 @@ Install Mac Data Recovery
 [Free Download For Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4726670&QTY=1&OPTIONS4726670=LFT&CART=1&CARD=1&COUPON=AISEOHC&DESIGN_TYPE=2&SHORT_FORM=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the program and you will get three sections,Data Type ,Hard Disk Drives , andRemovable Drives .
@@ -255,6 +268,13 @@ Scan lost files
 
 ![Deep Scan](https://www.aiseesoft.com/images/mac-data-recovery/deep-scan-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3.
 
 Recover files from Mac
@@ -262,9 +282,6 @@ Recover files from Mac
  After that, preview and find the lost files. Check them and click theRecover button to get them back.
 
 ![Recover](https://www.aiseesoft.com/images/mac-data-recovery/recover-data-on-mac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  If your Mac keeps shutting down and restarting, you need to find solutions to[fix kernal panic on Mac](https://tools.techidaily.com/) .
 
@@ -301,13 +318,18 @@ More Reading
 
 ![Disqus Icon](https://www.aiseesoft.com/images/article/disqus-icon.png) Leave your comment and join our discussion
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -316,4 +338,26 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/reaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[New] Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-expert-strategies-for-choosing-valheim-crops/"><u>[New] In 2024, Expert Strategies for Choosing Valheim Crops</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>[New] In 2024, Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-strategies-for-soaring-on-facebooks-feeds-for-2024/"><u>[New] Strategies for Soaring on Facebook's Feeds for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-proven-steps-to-convert-webp-to-high-quality-jpeg/"><u>[Updated] In 2024, Proven Steps to Convert WebP to High-Quality JPEG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/assemble-comic-memes-with-giphy-for-2024/"><u>Assemble Comic Memes with Giphy for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-iphone-capacity-eliminate-superfluous-data-using-these-3-simple-strategies/"><u>Boost iPhone Capacity: Eliminate Superfluous Data Using These 3 Simple Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-speed-and-storage-with-these-4-best-free-cleanse-applications/"><u>Boost Your iPhone's Speed & Storage with These 4 Best Free Cleanse Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-out-clutter-master-the-art-of-deleting-facebook-cache-on-windows-mac-android-and-ios/"><u>Clearing Out Clutter: Master the Art of Deleting Facebook Cache on Windows, Mac, Android and iOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-walkthrough-how-to-thoroughly-erase-your-typed-messages-from-an-iphones-keyboard/"><u>Complete Walkthrough: How to Thoroughly Erase Your Typed Messages From an iPhone's Keyboard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-guide-removing-songs-from-your-iphone-with-minimal-hassle/"><u>Effortless Guide: Removing Songs From Your iPhone with Minimal Hassle</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-space-optimization-for-your-iphone-top-strategies-for-extra-storage/"><u>Effortless Space Optimization for Your iPhone - Top Strategies for Extra Storage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-erasing-unwanted-entries-in-iphoneipad-spotlight-index/"><u>Guide: Erasing Unwanted Entries in iPhone/iPad Spotlight Index</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-activate-magnification-features-in-flipbooks-on-flipbuildercom/"><u>How to Activate Magnification Features in Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242719-quick-fixes-to-enhance-performance-supercharge-your-iphone-1515-pro-in-just-a-few-steps/"><u>Quick Fixes to Enhance Performance: Supercharge Your iPhone 15/15 Pro in Just a Few Steps!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-repair-guide-solving-your-astro-a20-microphone-issues/"><u>Simple Repair Guide: Solving Your Astro A20 Microphone Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-and-wiping-your-ios-device-safely-offline/"><u>Step-by-Step Guide: Disabling & Wiping Your iOS Device Safely Offline</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-successfully-setting-up-the-magic-dragon-addon-in-kodi-nexusmatrix-easy-tutorial/"><u>Step-by-Step Guide: Successfully Setting Up 'The Magic Dragon' Addon in Kodi (Nexus/Matrix) - Easy Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-best-free-desktop-recorders-for-2024/"><u>Top 10 Best Free Desktop Recorders for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Reducing Size of iPhones Videoclips Efficiently"
-date: 2024-09-29T10:43:37.512Z
-updated: 2024-10-01T11:30:44.606Z
+date: 2024-10-31T17:22:38.472Z
+updated: 2024-11-04T18:07:39.376Z
 tags:
   - ios
 categories:
@@ -68,9 +68,23 @@ Close
 
 ![Tap Input and change it to Shortcut Input](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tap-input-and-change-it-to-shortcut-input.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap "Nowhere" to change the location.
 
 ![Change the video source by tapping Nowhere](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/change-the-video-source-by-tapping-nowhere.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then select "Show in Share Sheet."
 
@@ -112,6 +126,13 @@ Close
 
 ![Tap on Variable and select Video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tap-on-variable-and-select-video.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, tap and hold that action line; you'll notice you can move it around the code. Move it above "Otherwise" just below the "If" action.
 
 ![Move the Select Photos action up one line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/move-the-select-photos-action-up-one-line.JPG) 
@@ -120,9 +141,29 @@ Close
 
 ![Search for the Select Photos action and add it to the shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/search-for-the-select-photos-action-and-add-it-to-the-shortcut.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to be able to compress multiple videos, select the blue arrow in front of the action and tap the "Select Multiple" slider.
 
 ![Tap the blue arrrow and allow to select multiple videos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tap-the-blue-arrrow-and-allow-to-select-multiple-videos.JPG) 
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, move the action just like the other time, but just one step up, so it's just between the "Otherwise" and "End If" actions.
 
@@ -144,13 +185,6 @@ Close
 
 ![Name your prompts your way](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/name-your-prompts-your-way.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you need to add actions for the two prompts. Search and add the "Save to Photo Album" and "Share" actions.
 
 ![Search for the Save to Photo Album action and add it to the shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/search-for-the-save-to-photo-album-action-and-add-it-to-the-shortcut.JPG) 
@@ -171,14 +205,14 @@ Close
 
 ![Change the Share action's input by tapping Variables...](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/change-the-share-action-s-input-by-tapping-variables.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Select Encoded Media as your variable for Share](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/select-encoded-media-as-your-variable-for-share.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -197,13 +231,6 @@ Close
  Then, choose the resolution size you want your video reduced to.
 
 ![Select Resolution Size](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/img_3550-3.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can save it to your camera roll, open it in an app, or send it to a recipient.
 
@@ -236,10 +263,10 @@ Close
 ![Select resolution in iMovie.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/select-resolution-imovie-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Compress With a Third Party App
@@ -248,27 +275,20 @@ Close
 
 ![Video compress settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/video-compress-settings-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, select Export File Type to choose your preferred file type.
 
 ![select explore file type in settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/export-file-type-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap Done to head back to the home page and tap the orange circular icon with two diagonal arrows pointing at each other.
 
 ![Video compress home icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/video-compress-home-button.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At this point, you'll have to grant the app permission to access your library. You can either limit the app's access to select files or give it full access. Once you're done, choose the video you want to compress, then tap the checkmark in the top right corner of your screen. You can then use the slider at the center of the screen to adjust the compression rate of the video.
 
@@ -277,13 +297,6 @@ Close
  Tap the preview icon to get a peek at your compressed video. When you're satisfied, tap the download icon to save the video.
 
 ![Video compress save icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/video-compress-save-button-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Save Space by Shooting in a Lower Resolution
 
@@ -294,13 +307,6 @@ Close
  Then, select the "Record Video" option.
 
 ![Select record video in camera settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/record-video-button-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here, you will find different video resolution options with a brief approximation of how much space a minute of each will take. For example, higher-quality [videos in 4K resolution](https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/) will take up more space than videos in 720p. Choose the best option for you that balances both quality and size.
 
@@ -327,20 +333,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-harmonymix-pro-mac-and-windows-version-for-2024/"><u>[New] HarmonyMix Pro Mac & Windows Version for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ffmpeg-audio-review-can-ffmpeg-extract-audio-in-original-format/"><u>[Updated] FFmpeg Audio Review Can FFmpeg Extract Audio in Original Format</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-combat-common-instagram-video-snags-here/"><u>[Updated] In 2024, Combat Common Instagram Video Snags Here</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhancing-visual-dynamics-aps-hdr-techniques/"><u>[Updated] In 2024, Enhancing Visual Dynamics APS HDR Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-playbook-for-cutting-edge-youtube-studio-video-editing/"><u>2024 Approved The Ultimate Playbook for Cutting-Edge YouTube Studio Video Editing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/conquering-playtime-a-detailed-analysis-of-xbox-one-xs-dominance-amongst-current-gaming-systems/"><u>Conquering Playtime: A Detailed Analysis of Xbox One X's Dominance Amongst Current Gaming Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-g34-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto G34 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/issues-with-apple-card-and-apple-pay-a-comprehensive-look/"><u>Issues with Apple Card & Apple Pay: A Comprehensive Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/key-hurdles-preventing-iphone-upgrade-decisions/"><u>Key Hurdles Preventing iPhone Upgrade Decisions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/leading-setups-in-professional-broadcast-equipment/"><u>Leading Setups in Professional Broadcast Equipment</u></a></li>
-<li><a href="https://os-tips.techidaily.com/love-at-first-sight-the-paprika-app-transforms-my-project-management-forever/"><u>Love at First Sight: The Paprika App Transforms My Project Management Forever!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-multitasking-in-the-apple-universe-translocating-batches-of-apps-together-on-iphoneipad/"><u>Master Multitasking in the Apple Universe: Translocating Batches of Apps Together on iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-battery-life-how-to-always-maintain-your-iphone-on-ultra-low-power/"><u>Mastering Battery Life: How to Always Maintain Your iPhone on Ultra-Low Power</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-photo-quality-essential-settings-update-for-the-iphone-15s-camera/"><u>Maximize Photo Quality: Essential Settings Update for the iPhone 15'S Camera</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-10-best-free-video-rotation-software-for-flipping-clips/"><u>New In 2024, 10 Best Free Video Rotation Software for Flipping Clips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-strengths-and-weaknesses-of-presenter-8/"><u>[New] Unveiling the Strengths and Weaknesses of Presenter 8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-11-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 11 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/dance-away-worries-with-these-20-soothing-country-hits-tiktok-edition-for-2024/"><u>Dance Away Worries with These 20 Soothing Country Hits (TikTok Edition) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-windows-10-update-issue-effective-fixes-for-error-code-0xc1900208/"><u>Decoding Windows 10 Update Issue: Effective Fixes for Error Code 0Xc1900208</u></a></li>
+<li><a href="https://os-tips.techidaily.com/four-proven-methods-to-fix-iphone-software-update-issues-averting-the-update-unsuccessful-message/"><u>Four Proven Methods to Fix iPhone Software Update Issues: Averting the 'Update Unsuccessful' Message</u></a></li>
+<li><a href="https://os-tips.techidaily.com/garuda/"><u>Garuda -</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 13</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-mystery-missing-emails-on-your-iphone-and-easy-fixes/"><u>Solving the Mystery: Missing Emails on Your iPhone and Easy Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-internet-sacred-text-archive-poetic-edda-skaldskaparmal-volsunga-saga-and-helgi-hundingsbane-online-available-at-(httpwwwsacred-textscomneueddh)/"><u>The Internet Sacred Text Archive – Poetic Edda: Skáldskaparmál, Volsunga Saga & Helgi Hundingsbane [Online] Available At: <http://www.sacred-texts.com/neu/eddh></u></a></li>
+<li><a href="https://windows11.techidaily.com/trim-your-digital-clutter-with-win11s-scheduled-deletion/"><u>Trim Your Digital Clutter with Win11's Scheduled Deletion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-optimal-ios-health-apps-comparing-drfone-repair-tools-with-exceptional-alternatives/"><u>Ultimate Guide to Optimal iOS Health Apps - Comparing Dr.Fone Repair Tools with Exceptional Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-steps-to-remove-your-ai-assistant-from-snapchat/"><u>Ultimate Guide: Steps to Remove Your AI Assistant From Snapchat</u></a></li>
 </ul></div>
 

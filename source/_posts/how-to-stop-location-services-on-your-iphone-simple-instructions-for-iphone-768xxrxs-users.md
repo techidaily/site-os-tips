@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Location Services on Your iPhone: Simple Instructions for iPhone 7/6/8/X/XR/XS Users"
-date: 2024-08-18T09:27:57.916Z
-updated: 2024-08-19T09:27:57.916Z
+date: 2024-10-28T16:11:53.429Z
+updated: 2024-11-04T17:52:21.412Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -25,8 +25,12 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 * [Way 5. Restore iPhone to Factory Settings (Not Recommended)](https://tools.techidaily.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 1\. Enable Location Services and Share My Location
 
  Before sharing your location with others, you need to make sure the Location Services and Share My Location is enabled. When Find My iPhone says "Online, not sharing location", it may be caused by disabled Location Services and Share My Location.
@@ -38,8 +42,12 @@ Step 1.
  Go toSettings \>Privacy \>Location Services , and toggle on theLocation Services .
 
 ![Switch on](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/turn-on-location-services.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2.
@@ -48,11 +56,22 @@ Step 2.
 
 ![Turn on](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/turn-on-share-my-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check to see if the issue is resolved. If you still get the message of "Online, not sharing location", try the next way.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2\. Allow Find My to Access Location
 
  Only when you allow Find My to use location services, it is able to locate your iPhone's location.
@@ -66,13 +85,14 @@ Step 2.
  TapFind My and chooseAsk Next Time orWhen Using the APP .
 
 ![Allow](https://www.aiseesoft.com/images/solution/find-my-iphone-online-not-sharing-location/allow-location-access.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 3\. Sign in to Your iCloud Account
 
  The basic requirement for being able to use Find My iPhone is that iCloud has to be enabled on the device for locating your iPhone. So when the error message "Online, not sharing location" occurs, you might sign out of your iCloud account. Now follow the steps below to sign in to your iCloud account.
@@ -91,9 +111,6 @@ Step 2.
 
  After checking the above settings, if Find My iPhone still shows "Online, not sharing location", your iPhone's system might go wrong. You should try fixing your iPhone system with a professional tool. Here you can use[iOS System Recovery](https://tools.techidaily.com/aiseesoft/ios-system-recovery/) to upgrade or downgrade your iPhone's system to the ideal version, even the beta version, so that your iPhone can return to the normal state. Then your issue of Find My iPhone online not sharing location could be solved.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### What Can iOS System Recovery Do for You?
 
 ![Aiseesoft iOS System Recovery](https://www.aiseesoft.com/images/ios-system-recovery/box-1.png)
@@ -110,16 +127,17 @@ _1_ _8_ _4_ _,_ _9_ _2_ _6_  Downloads
 [Free Download For Windows](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steps to Fix Find My iPhone Online Not Sharing Location:
 
@@ -134,9 +152,6 @@ Step 2.
  ClickStart at the bottom right corner to continue the process.
 
 ![Detect Issue](https://www.aiseesoft.com/images/ios-system-recovery/detect-iphone-abnormal-issue.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3.
 
@@ -156,11 +171,22 @@ Step 5.
 
 ![Firmware](https://www.aiseesoft.com/images/ios-system-recovery/download-iphone-firmware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the download is finished, open your iPhone and try again to check if the issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 5\. Restore iPhone to Factory Settings (Not Recommended)
 
  If the above steps don't help you resolve the issue of Find My iPhone Online Not Sharing Location, the last way is to[restore](https://tools.techidaily.com/) iPhone to factory settings. Because it will cause the loss of all data and settings, you'd better[backup important data to iTunes](https://tools.techidaily.com/) or iCloud before resetting your iPhone. Or you can downloadiOS Data Backup and Restore to backup all iPhone data to your PC or Mac.
@@ -172,9 +198,6 @@ Step 5.
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=4659467&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After backing up your data, you can start restoring your iPhone to the factory settings. Open your iPhone and navigate toSettings \>General \>Reset , and tapErase All Content and Settings . Then your iPhone will be reset.
 
@@ -223,8 +246,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +253,18 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-reel-revolution-enjoying-twitter-videos-at-ultimate-quality-for-2024/"><u>[Updated] Reel Revolution Enjoying Twitter Videos at Ultimate Quality for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-erase-all-content-from-an-iphone-a-step-by-step-guide/"><u>How to Securely Erase All Content From an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c32-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C32 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovative-setup-essentials-for-game-streaming-for-2024/"><u>Innovative Setup Essentials for Game Streaming for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-cleanup-process-efficient-methods-for-removing-facebook-messages-on-smartphones-iphoneandroid/"><u>Master the Cleanup Process: Efficient Methods for Removing Facebook Messages on Smartphones (iPhone/Android)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-cleanliness-the-ultimate-how-to-manual-for-ccleaner-users-on-apples-mobile-platforms/"><u>Mastering Cleanliness: The Ultimate How-To Manual for CCleaner Users on Apple's Mobile Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/proven-techniques-for-completely-erasing-browsing-data-from-your-mobile-device/"><u>Proven Techniques for Completely Erasing Browsing Data From Your Mobile Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-your-touchpad-with-proven-driver-fixes/"><u>Restore Your Touchpad with Proven Driver Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-location-data-and-history-in-ios-mapping-apps/"><u>Step-by-Step Guide: Removing Location Data and History in iOS Mapping Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-graphics-driver-crashed-errors-in-valorant-fast/"><u>Troubleshoot and Repair 'Graphics Driver Crashed' Errors in Valorant Fast</u></a></li>
+</ul></div>
 

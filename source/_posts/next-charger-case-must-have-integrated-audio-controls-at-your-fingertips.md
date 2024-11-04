@@ -1,7 +1,7 @@
 ---
 title: "Next Charger Case Must-Have: Integrated Audio Controls at Your Fingertips"
-date: 2024-09-19T03:07:00.517Z
-updated: 2024-09-25T18:46:49.077Z
+date: 2024-11-03T16:20:56.111Z
+updated: 2024-11-04T17:50:08.985Z
 tags:
   - ios
 categories:
@@ -19,10 +19,10 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
  The CMF Phone 1 looks like a solid budget phone that features a swappable back cover schtick reminiscent of the ancient HTC Tattoo. What caught my eye, though, are the CMF earbuds and their case, which rocks a volume wheel. Now I want my next earbud charging case to have one.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on a Charging Case Could Actually Be Useful
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
  Not only that, but a volume knob on my earbud charging case would also allow me to freely adjust the volume on every device I use the earbuds with, be that a PC, console, or TV.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Built-in Volume Controls Could Diversify Charging Case Designs
@@ -58,13 +58,6 @@ Nothing/CMF
 
 ![ASUS ROG Falchion Volume Touch bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/asus-rog-falchion-volume-touch-bar.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ASUS
 
  Or what about an iPod-like jog dial Apple could slap on the AirPods Pro Gen3 charging case? Imagine an AirPods Pro Gen3 charging case equipped with a touch-based or mechanical jog wheel you can use to adjust the volume and control playback. Something similar to the TinyPod Apple Watch case below, just without the screen.
@@ -72,15 +65,22 @@ ASUS
 ![Three sizes of the TinyPod Apple Watch silicone case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tinypod-apple-watch-silicone-case-all-sizes.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek / TinyPod
 
  In the case of the mechanical variant, the wheel could fit flush with the surface of the charging case and feature a nice and robust tactile feedback that would kick in when you rotate it clockwise and anticlockwise to adjust the sound volume. Tactile volume dials would not only inject a breath of originality and utility into the world of earbud charging cases; they would also bring back a dose of physicality and tactility to the otherwise bland, sterile, and [touch-only smartphone experience](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Volume Dial on My Earbuds’ Charging Case Would Be a Great Fidget Toy
 
@@ -105,24 +105,24 @@ Christian Zibreg / How-To Geek / TinyPod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-optimal-transformation-tool-for-hd-videos/"><u>[New] 2024 Approved Optimal Transformation Tool for HD Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-online-visionaries-subscriber-play-button-triumphs/"><u>[New] Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-insiders-approach-to-maximizing-youtube-video-revenue/"><u>[Updated] 2024 Approved The Insider's Approach to Maximizing YouTube Video Revenue</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-download-free-youtube-pics-and-templates/"><u>[Updated] Download Free YouTube Pics & Templates!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-showcasing-design-brilliance-best-10-text-setups-in-ae/"><u>[Updated] In 2024, Showcasing Design Brilliance Best 10 Text Setups in AE</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-hashtag-use-for-maximum-marketing-reach-for-2024/"><u>[Updated] Navigating Hashtag Use for Maximum Marketing Reach for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-geniuses-cache-unbeatable-afx-samples-at-zero-price/"><u>2024 Approved Visual Geniuses' Cache Unbeatable AFX Samples at Zero Price</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-12-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 12 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-8-plus-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 8 Plus With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-day-proven-iphone-shortcut-techniques-for-enhanced-efficiency/"><u>Transform Your Day: Proven iPhone Shortcut Techniques for Enhanced Efficiency</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-ipad-gameplay-using-the-apple-pencil-a-step-by-step-guide-to-better-entertainment/"><u>Transform Your iPad Gameplay Using the Apple Pencil - A Step-by-Step Guide to Better Entertainment</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-your-apple-id-the-truth-behind-disappearing-accounts/"><u>Understanding Your Apple ID: The Truth Behind 'Disappearing' Accounts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-creative-filmmaking-using-an-apple-watch-as-your-handy-audio-mic-explained/"><u>Unleash Creative Filmmaking: Using an Apple Watch as Your Handy Audio Mic Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-your-apple-watch-top-12-essential-functions-unveiled/"><u>Unleash Your Apple Watch: Top 12 Essential Functions Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-new-efficiency-levels-with-apples-iphone-speech-to-text-capability/"><u>Unlock New Efficiency Levels with Apple's iPhone Speech-to-Text Capability</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-wireless-communication-setting-up-iphones-wi-fi-calling-feature/"><u>Unlock Wireless Communication: Setting Up iPhone's Wi-Fi Calling Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-mystery-a-comprehensive-guide-to-apples-freeform-app-usage/"><u>Unveiling the Mystery: A Comprehensive Guide to Apple’s Freeform App Usage</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-game-on-10plus-trusted-websites-to-download-games-this-year/"><u>Updated In 2024, Game On! 10+ Trusted Websites to Download Games This Year</u></a></li>
-<li><a href="https://os-tips.techidaily.com/urgent-patch-required-secure-your-ios-and-macos-devices-against-vulnerability/"><u>Urgent Patch Required: Secure Your iOS & macOS Devices Against Vulnerability</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-optimal-screen-recording/"><u>[New] 2024 Approved The Ultimate Guide to Optimal Screen Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>[New] Breathing Life Into Your Phone The Complete Guide to Android Audio Customization</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>[Updated] 2024 Approved From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-innovations-reshaping-the-future-of-software-development-the-productivity-shift-unveiled-codedigest/"><u>AI Innovations Reshaping the Future of Software Development - The Productivity Shift Unveiled | CodeDigest</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-repair-an-unformatted-sd-card-essential-steps-and-advice/"><u>How to Repair an Unformatted SD Card: Essential Steps and Advice</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 5Gwith/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco C55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-pc-a-comprehensive-tutorial-for-windows-11-8-and-7-system-restores/"><u>Resetting Your PC: A Comprehensive Tutorial for Windows 11, 8, and 7 System Restores</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-flash-drive-a-comprehensive-guide-to-fixing-and-restoring-files/"><u>Revive Your Flash Drive: A Comprehensive Guide to Fixing & Restoring Files</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-changing-your-hotmail-outlook-password-with-or-without-accessing-alternate-contact/"><u>Step-by-Step Guide: Changing Your Hotmail (Outlook) Password with or without Accessing Alternate Contact</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-formatting-a-locked-sd-card-across-pcs-macs-android-devices-and-cameras/"><u>Step-by-Step Guide: Formatting a Locked SD Card Across PCs, Macs, Android Devices & Cameras</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-performing-a-system-restore-on-windows-10-8-and-7/"><u>Step-by-Step Guide: Performing a System Restore on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-protecting-your-data-while-refreshing-dell-inspiron-desktop-to-original-conditions/"><u>Step-by-Step Guide: Protecting Your Data While Refreshing Dell Inspiron Desktop to Original Conditions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-configuring-macs-network-drive-access/"><u>Step-by-Step Tutorial: Configuring Mac's Network Drive Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshoot-your-sd-cards-unreadable-issue-with-our-top-12-strategies/"><u>Troubleshoot Your SD Card's Unreadable Issue with Our Top 12 Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029334396-youtube/"><u>YouTubeでの地域ロックを落とす究極のガイド</u></a></li>
 </ul></div>
 

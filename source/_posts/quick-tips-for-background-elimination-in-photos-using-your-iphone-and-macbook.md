@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook
-date: 2024-10-16T22:02:55.545Z
-updated: 2024-10-23T17:56:43.453Z
+date: 2024-11-03T16:35:03.554Z
+updated: 2024-11-04T16:04:14.546Z
 tags:
   - ios
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Removing the background from an image can be a cumbersome task with traditional photo editing tools. But if you use an iPhone or Mac, there's a quick and easy way to remove backgrounds from images. Let's take a look.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Remove the Background From an Image on an iPhone or iPad
 
  As of [iOS 16](https://youtube-clips.techidaily.com/in-2024-editors-dream-machine-top-portable-video-edits-tools/) and [iPadOS 16](https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/), you can use the Remove Background Quick Action in the Files app to simplify removing the background from images on the iPhone and iPad. Since this Quick Action is part of the Files app, you need to move any images you want to process from the Photos app to the Files app to use it.
@@ -33,51 +40,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select button in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap the Share icon in the bottom-left corner and select "Save to Files" from the Share menu.
 
 ![Save to Files option in iPhone Photos app's Share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, choose a folder to save the images and tap "Save."
 
 ![Saving photos to Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to move the images to a separate folder, you'll need to create one first. Tap the three-dot icon to the left of Save in the top-right corner of the app and select "New Folder."
 
 ![Creating a new folder in Files app to move Photos images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, give the folder a name and hit "Save" to save the selected images.
 
  With your images in the Files app, removing an image's background is super easy. Inside the folder with all your images, tap and hold a photo to bring up the context menu.
 
 ![Accessing the context menu on an image in the iPhone Files app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-7.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select "Quick Actions" and tap "Remove Background."
 
@@ -89,16 +75,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select option in Files app to choose multiple images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, select all the photos whose backgrounds you want to remove. Finally, tap the three-dot button in the bottom-right corner and select the "Remove Background" Quick Action to remove their backgrounds.
 
 ![Accessing the Remove Background Quick Action in Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-12.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Remove the Background From an Image on a Mac
 
@@ -119,6 +105,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To remove backgrounds from more than one image in one go, first select all the images while holding the Command key. Then, Control-click on your selection (or tap with two fingers on your trackpad) to access the context menu and choose Quick Actions > Remove Background.
 
 ![Using the Remove Background Quick Action to remove backgrounds of multiple images at once in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Background Gets the Job Done Most of the Time
 
@@ -141,22 +141,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cutting-edge-video-recording-techniques-on-modern-win-11-devices/"><u>[Updated] In 2024, Cutting-Edge Video Recording Techniques on Modern Win 11 Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>[Updated] The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-quietest-cool-memes-on-the-web-for-2024/"><u>[Updated] The Quietest Cool Memes on the Web for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-differences-between-claude-pro-and-chatgptplus-explained/"><u>Exploring the Differences Between Claude Pro and ChatGPT+ Explained</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-3-step-structure-for-successful-subscriber-profit-analysis-a-guide-from-google/"><u>In 2024, The 3-Step Structure for Successful Subscriber Profit Analysis A Guide From Google</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-modern-methods-of-mixing-media-the-latest-on-adding-sound-to-ae-projects-2023s-insights-and-tips/"><u>New Modern Methods of Mixing Media The Latest on Adding Sound to AE Projects (2023S Insights and Tips)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/operational-status-achieved-cameras-ready-for-2024/"><u>Operational Status Achieved - Cameras Ready for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-your-itunes-movie-files-to-drm-free-mp4/"><u>Step-by-Step Guide: Converting Your iTunes Movie Files to DRM-Free MP4</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-iphone-13-pro-defenders-ranked/"><u>Ultimate Selection: IPhone 13 Pro Defenders Ranked</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-covert-spy-gear-a-step-by-step-guide-to-identifying-concealed-camera-traps-using-mobile-technology/"><u>Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-exclusive-discounts-save-big-on-updf-editor-and-apple-watch-series-eztrem/"><u>Unlock Exclusive Discounts: Save Big on UPDF Editor & Apple Watch Series ˈēztrēm!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-full-potential-ipadoss-path-to-powerful-multitasking-in-3-simple-steps/"><u>Unlock Full Potential: IPadOS's Path to Powerful Multitasking in 3 Simple Steps.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-power-of-non-touch-interactions-with-apple-watch-series-9s-advanced-neural-engine-and-hand-gestures-features/"><u>Unlock the Power of Non-Touch Interactions with Apple Watch Series 9’S Advanced Neural Engine and Hand Gestures Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-productivity-with-a-top-secret-markdownnote-taker-that-revolutionizes-your-workflow/"><u>Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unraveling-the-secrets-behind-the-iphones-dominance-in-video-playback/"><u>Unraveling the Secrets Behind the iPhone's Dominance in Video Playback</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-milestone-the-birth-of-the-first-smartphone/"><u>Unveiling the Milestone: The Birth of the First Smartphone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-xsplit-archive-detailed-video-game-analyses/"><u>[New] 2024 Approved XSplit Archive Detailed Video Game Analyses</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-your-footage-into-shareable-youtube-stories/"><u>[Updated] Transforming Your Footage Into Shareable YouTube Stories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-apple-defines-new-guidelines-on-pc-emulator-apps-in-the-app-store/"><u>1. Apple Defines New Guidelines on PC Emulator Apps in the App Store</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-boost-cinematographic-capabilities-essential-iphone-gear/"><u>2024 Approved Boost Cinematographic Capabilities Essential iPhone Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-new-potentials-iphone-x-secrets-unveiled/"><u>2024 Approved Unlock New Potentials IPhone X Secrets Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-endurance-five-simple-strategies-for-enhanced-battery-performance/"><u>Boost Your iPhone's Endurance: Five Simple Strategies for Enhanced Battery Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/capture-crystal-clear-sounds-top-8-free-techniques-for-enhanced-iphone-audio/"><u>Capture Crystal Clear Sounds: Top 8 Free Techniques for Enhanced iPhone Audio</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-the-butterfly-two-in-one-charger-by-twelve-south-the-travelers-must-have-companion-with-magsafe-technology/"><u>Comprehensive Analysis of the ButterFly Two-in-One Charger by Twelve South: The Traveler's Must-Have Companion with MagSafe Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-animated-gifs-using-your-iphone-a-step-by-step-guide/"><u>Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-repair-guide-mastering-the-art-of-fixing-iphone-15-and-m2-mac-mini/"><u>DIY Repair Guide: Mastering the Art of Fixing iPhone 15 & M2 Mac Mini</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-offer-on-macx-dvd-ripper-pro-save-big-now-and-start-ripping/"><u>Exclusive Offer on MacX DVD Ripper Pro - Save Big Now & Start Ripping!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-digital-resurrection-breathing-life-into-old-vhs-images/"><u>In 2024, Digital Resurrection Breathing Life Into Old VHS Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-play-40c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Play 40C to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-best-gaming-plans-for-smartphones-comprehensive-guide/"><u>Unlock the Best Gaming Plans for Smartphones - Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-compatibility-how-your-ipad-can-connect-to-usb-enabled-webcams-and-cameras/"><u>Upcoming Compatibility: How Your iPad Can Connect to USB-Enabled Webcams & Cameras</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-its-time-to-embrace-plastic-over-titanium-for-future-iphone-models/"><u>Why It's Time to Embrace Plastic over Titanium for Future iPhone Models</u></a></li>
 </ul></div>
 

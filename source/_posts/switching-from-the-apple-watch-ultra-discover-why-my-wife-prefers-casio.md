@@ -1,7 +1,7 @@
 ---
 title: "Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!"
-date: 2024-10-24T22:44:24.161Z
-updated: 2024-10-29T20:08:12.237Z
+date: 2024-10-29T17:41:32.215Z
+updated: 2024-11-04T18:26:28.604Z
 tags:
   - ios
 categories:
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
  My wife's as much a tech geek as I am, and she was instantly sold on the Apple Watch Ultra when she first laid eyes on it. However, just over a year later, she ditched the Ultra (and all smartwatches) for a classic Casio watch instead. I tried to understand why, and she had some pretty interesting reasoning.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Ultra Is True Overkill
@@ -38,24 +32,38 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![Apple Watch Ultra underwater](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/11c676ed.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Apple_
 
  In the end, it turns out that even the humble mainstream Apple Watch would have been good enough, and the Watch Ultra was never really put to the test. While I'm sure that there are plenty of extreme athletes out there who really need an Ultra, for most people it's probably like having an SUV in the suburbs, never seeing anything steeper than a curb.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Fitness Features Don’t Need a Smartwatch Anymore
 
  One of the main reasons we started using smartwatches in the first place was to track our daily steps and ensure that we were getting enough exercise. The thing is, you don't actually need a "smart" watch to do that anymore. At least when it comes to tracking steps. Watchmakers like Casio now offer regular [watches with Bluetooth](https://www.amazon.com/Casio-G-Shock-Step-Tracker-Bluetooth-GBA-800UC-5ACR/dp/B07PLT244R?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003048&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmy-wife-ditched-her-apple-watch-ultra-for-a-casio-and-you-might-too%2F&asc%5Fcampaign=Evergreen) that still lets you connect to an app and collect basic fitness data. Likely enough for the average person who isn't specifically a fitness nut, but just wants to know if they got their 10K steps in for the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Constant Charging Is an Utter Pain
 
 ![Apple Watch Ultra box contents spread out on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/070ea52d.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Bill Loguidice / Review Geek_
 
@@ -69,23 +77,9 @@ Tyler Hayes / How-To Geek
 
  While this has more to do with overall smartwatch fatigue than the Ultra in particular, one major reason for my significant other reaching the end of her rope and changing to a Casio "dumb" watch is that there's no hiding from your phone notifications. This wouldn't be so bad if you could deal with those notifications on the watch itself. However, in most cases she'd have to pull out her iPhone anyway to reply, see a picture, watch a video, or whatever else the notification was about. So the watch wasn't even cutting down on her phone time, it was just putting a superfluous step in front of pulling the phone out one way or another.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Ultra Keeps Waking Her Up at Night
 
  Since that longer battery life doesn't mean she didn't have to charge the watch overnight anyway, it brought up another annoying issue. We invested in one of those triple-charger stands that holds an iPhone, Apple Watch, and AirPods at the same time. However, the Watch Ultra would light up randomly during the night, waking her up. She even tried turning the watch off completely before putting it on charge, but it would eventually turn itself on while charging. Sure, you could just shove it in a drawer, but that defeats the
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Obvious Features Are Still Missing From the Ultra
 
@@ -108,20 +102,22 @@ Tyler Hayes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ehind-the-scenes-of-gamers-elite-setup-for-2024/"><u>[New] Behind the Scenes of Gamers' Elite Setup for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-avoiding-illegal-content-youtube-to-mp4-transfer-safely-for-2024/"><u>[Updated] Avoiding Illegal Content YouTube to MP4 Transfer Safely for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-tips-for-obs-on-android-platforms/"><u>[Updated] Essential Tips for OBS on Android Platforms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-platform-faceoff-for-quick-viewers-a-clash-between-youtube-shorts-and-tiktok/"><u>[Updated] Platform Faceoff for Quick Viewers A Clash Between YouTube Shorts and TikTok</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-removing-user-accounts-on-lightspeed-mdm-in-just-three-ways/"><u>A Step-by-Step Guide: Removing User Accounts on LightSpeed MDM in Just Three Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-launch-crisis-addressed-what-you-need-to-know/"><u>Cyberpunk 2077 Launch Crisis Addressed: What You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620276924-enhance-your-iphones-readability-with-simple-font-customization-techniques/"><u>Enhance Your iPhone's Readability with Simple Font Customization Techniques!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-achieving-exceptional-clarity-when-printing-heic-photos/"><u>Expert Strategies: Achieving Exceptional Clarity When Printing HEIC Photos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-glitches-in-phasmophobia-for-a-smoother-play-experience/"><u>Fixing Glitches in Phasmophobia for a Smoother Play Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fresh-installation-of-epson-tm-t88v-printer-driver-on-your-windows-system-how-to-update/"><u>Fresh Installation of EPSON TM-T88V Printer Driver on Your Windows System - How to Update</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-9a-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 9A FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://os-tips.techidaily.com/regain-access-to-your-locked-ipad-expert-strategies-for-removing-the-screen-lock-code/"><u>Regain Access to Your Locked iPad: Expert Strategies for Removing the Screen Lock Code</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-steps-overcoming-difficulty-logging-into-your-apple-id/"><u>Ultimate Troubleshooting Steps: Overcoming Difficulty Logging Into Your Apple ID</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-heic-format-on-your-iphone-essential-insights-every-user-should-be-aware-of/"><u>Understanding HEIC Format on Your iPhone: Essential Insights Every User Should Be Aware Of</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>[New] 2024 Approved Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-solutions-exceeding-standard-fbx-recorders-for-2024/"><u>[New] Innovative Solutions Exceeding Standard FBX Recorders for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quickly-save-your-screen-in-windows-systems/"><u>[Updated] 2024 Approved Quickly Save Your Screen in Windows Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-enabling-dfu-mode-on-your-iphone-and-exiting-safely/"><u>A Step-by-Step Guide: Enabling DFU Mode on Your iPhone & Exiting Safely</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-call-log-apps-top-picks-for-managing-phone-conversations-on-iphone-models-xs-xr-x-and-older-versions/"><u>Best Free Call Log Apps: Top Picks for Managing Phone Conversations on iPhone Models XS, XR, X, and Older Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-in-the-office-a-guide-to-preserving-workplace-privacy-and-security/"><u>ChatGPT in the Office: A Guide to Preserving Workplace Privacy and Security</u></a></li>
+<li><a href="https://windows11.techidaily.com/dismantling-tpm-in-win11-using-the-power-of-rufus/"><u>Dismantling TPM in Win11 Using the Power of Rufus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-presentation-game-the-ultimate-list-of-7-ai-based-software-solutions/"><u>Enhancing Your Presentation Game: The Ultimate List of 7 AI-Based Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-voyage-vision-pinpoint-your-dream-trip-with-top-7-ai-tools/"><u>Free Voyage Vision: Pinpoint Your Dream Trip with Top 7 AI Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-access-your-hidden-imessages-unblocking-ios-15-and-above/"><u>How to Access Your Hidden iMessages: Unblocking iOS 15 and Above</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g402-optical-mouse-drivers-and-software-installation-pack/"><u>Logitech G402 Optical Mouse Drivers & Software Installation Pack</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-100-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor 100 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-missing-pics-a-comprehensive-method-for-finding-and-restoring-lost-photos-on-iphones-ipads-and-ipod-touch-via-macbook/"><u>Rescue Missing Pics: A Comprehensive Method for Finding and Restoring Lost Photos on iPhones, iPads & iPod Touch via MacBook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revitalize-your-iphone-top-3-methods-for-successful-backup-recovery/"><u>Revitalize Your iPhone: Top 3 Methods for Successful Backup Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-iphone-a-step-by-step-guide-on-using-tinyumbrella-for-ios-downgrades/"><u>Reviving Your iPhone: A Step-by-Step Guide on Using TinyUmbrella for iOS Downgrades</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-your-lost-iphone-call-records/"><u>Step-by-Step Guide: Restoring Your Lost iPhone Call Records</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-restore-deleted-information-from-your-iphone-after-a-fresh-start/"><u>Step-by-Step Tutorial: How To Restore Deleted Information From Your iPhone After a Fresh Start</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans"
-date: 2024-09-20T07:39:07.377Z
-updated: 2024-09-26T05:00:47.990Z
+date: 2024-11-01T16:09:26.544Z
+updated: 2024-11-04T16:10:10.012Z
 tags:
   - ios
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 * [​Smartphones Use Passive Cooling](https://instagram-video-recordings.techidaily.com/new-2024-approved-storystitcher-compelling-collage-for-instagram-users/)
 * [​More Alternatives to Fans Are In Development](https://some-knowledge.techidaily.com/new-from-basics-to-brilliance-fullscreen-proficiency-in-premiere/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Fans are not a good fit for smartphones due to their fragility, the lack of space, and how much phones get jostled.
@@ -27,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 * Smartphone apps contribute to less need for cooling by being designed not to drain your battery life.
 
  Mobile phones grow more powerful every year. A premium phone is far more powerful than a midrange PC and even has stronger graphics processing than an ultrabook with Intel-integrated graphics. Yet despite all that power, have you ever noticed how your phone lacks a fan? Why is that?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Moving Parts Need More Space and Can Break
 
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
 ![Snapdragon 8 Gen 3 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-8-gen-3-hero.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Qualcomm
 
  When trying to determine how energy efficient your CPU is, there’s one key term you’re looking for: [Thermal Design Power](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/). TDP is usually listed in watts and shows the maximum amount of heat the CPU is designed to generate when running under a full load. This doesn't tell you how much energy your device is pulling every hour, but it does give you the upper limit of what to expect.
@@ -62,10 +69,10 @@ Qualcomm
  How do phone CPUs manage to be both powerful and efficient? If you want to get into the tehnical weeds, check out this report from [Cadence PCB Designs](https://resources.pcb.cadence.com/blog/3-thermal-management-approaches-for-your-smartphone-2). Methods include temperature aware scheduling (slowing down hot processors in favor of cool ones), traffic throttling (directing network traffic through the chip in a way that avoids hotspots), and clock gating (stopping processor logic for a few microseconds at a time). But that's just scratching the surface.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ​Mobile Apps Generate Less Heat, to Reduce Need for Cooling
@@ -75,10 +82,10 @@ Qualcomm
  I don’t think it’s offending anyone to say that not all mobile apps are brilliantly written pieces of code. Yet when you’re making a mobile app, an impact on battery life is a factor you're encouraged to care about. If running an app causes a phone to need to charge more often, you’ll hear about it from your users. Energy usage translates to heat. By keeping apps energy efficient, developers reduce the need for active cooling.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ​Smartphones Use Passive Cooling
@@ -90,13 +97,6 @@ Qualcomm
  Fans are a form of active cooling. [Smartphones rely on passive cooling](https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-your-first-time-streaming-to-youtube/), the exchange of heat using only the conductivity difference between materials without any help from mechanical components. In simpler terms, things can cool off without anything needing to move. Running the AC to cool down your home is active cooling. Leaving a window open is passive cooling. Phones generally use metal plates between electrical components and the design of their outer bodies to dissipate heat.
 
  Passive cooling works very well for everyday operation, but unlike active cooling, it can’t ramp up how much heat it’s able to remove (again, like opening a window). That’s why some phones get particularly toasty when performing intensive tasks, like gaming. Your CPU’s generating more heat, and the phone lacks the ability to compensate. This is when [thermal throttling kicks in](https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/), reducing performance to buy components time to cool off.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  ​More Alternatives to Fans Are In Development
 
@@ -125,17 +125,18 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>[New] Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-troubleshoot-mute-audio-in-tweeted-vids/"><u>[New] Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-agriculture-affinity-games-top-10-farmers-craft-for-comradeship/"><u>[Updated] Agriculture Affinity Games Top 10 Farmer's Craft for Comradeship</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-extensive-review-the-gecata-gamersoft-toolkit/"><u>2024 Approved Extensive Review The Gecata Gamersoft Toolkit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ais-pioneering-role-in-generating-podcast-names/"><u>AI's Pioneering Role in Generating Podcast Names</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-vs-android-comparing-mid-level-smartphones-to-outdated-iphones-discover-why-the-iphone-triumphs/"><u>IOS Vs. Android: Comparing Mid-Level Smartphones to Outdated iPhones - Discover Why the iPhone Triumphs.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-adopts-usb-c-bids-farewell-to-proprietary-chargers/"><u>IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-contact-blocking-a-step-by-step-guide/"><u>IPhone Contact Blocking: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-silent-on-calls-discover-these-12-troubleshooting-steps-for-immediate-fixes/"><u>IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-to-maintain-high-video-standards-post-export/"><u>Techniques to Maintain High Video Standards Post-Export</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-complete-laptop-recording-manual-dell-edition/"><u>The Complete Laptop Recording Manual Dell Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>[Updated] In 2024, Journey to Joyrides Top Housing Ideas for New Players</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-streamlining-pc-video-cuts-with-inshot/"><u>[Updated] Streamlining PC Video Cuts with Inshot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-reactivating-your-locked-iphone-techniques-for-unlock-and-restore/"><u>Comprehensive Tutorial on Reactivating Your Locked iPhone: Techniques for Unlock and Restore</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ11/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-location-not-detected-on-iphone-swiftly-and-simply-a-step-by-step-guide/"><u>Fix 'Location Not Detected' On iPhone Swiftly and Simply – A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-civi-3-disney-100th-anniversary-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Civi 3 Disney 100th Anniversary Edition Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/innovate-brand-identity-complimentary-logo-templates-customization/"><u>Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-system-repair-accessing-recovery-modes-across-phones-and-computers/"><u>Mastering System Repair: Accessing Recovery Modes Across Phones and Computers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-windows-10-the-hidden-paths-for-importation-for-2024/"><u>Mastering Windows 10 The Hidden Paths for Importation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-number-necessary-signing-up-for-chatgpt-telegram-whatsapp-with-alternative-methods/"><u>No-Number Necessary: Signing Up for ChatGPT, Telegram, WhatsApp with Alternative Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-remedies-resolving-itunes-error-14-within-minutes-top-10-methods/"><u>Quick & Easy Remedies: Resolving iTunes Error 14 Within Minutes - Top 10 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-8-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-savings-with-our-expert-advice-on-buying-refurbished-iphone-models-online-at-unbeatable-prices/"><u>Secure Your Savings with Our Expert Advice on Buying Refurbished iPhone Models Online at Unbeatable Prices</u></a></li>
 </ul></div>
 

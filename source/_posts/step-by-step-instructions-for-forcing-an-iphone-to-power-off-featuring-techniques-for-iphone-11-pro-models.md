@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Forcing an iPhone to Power Off, Featuring Techniques for iPhone 11 Pro Models
-date: 2024-08-18T09:33:11.300Z
-updated: 2024-08-19T09:33:11.300Z
+date: 2024-10-31T17:26:54.011Z
+updated: 2024-11-04T17:45:46.364Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * [How to replace iPhone 5/5s/5c battery](https://tools.techidaily.com/)
 * [How to replace iPhone 4/4S battery](https://tools.techidaily.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to replace iPhone 6/7 battery
 
  With the release of iPhone X and iPhone 8/8 Plus, you may notice that your iPhone 6/6 Plus has been used for two years. And soon you will face the situation that your iPhone takes less and less time to run down the battery. Then you need to make an iPhone 6 battery replacement. If you need to replace your iPhone 6/6 Plus battery right this minute, just read the following steps to make iPhone 6 battery replacement.
@@ -37,27 +44,24 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 2 Unscrew the screws at bottom
 
 ![Remove External Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/iphone6-bottom-screws.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Remove the two screws at the bottom of your iPhone with the right screwdriver.
 
 3 Remove the iPhone screen
 
 ![Remove Screen](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-iphone6-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  Similar to iPhone 5 battery replacement, you need to open the iPhone screen to replace iPhone 6 battery. Place the suction cup above the iPhone "Home" button, and then you can softly pull the sucker to open a crack. Then put a plastic sheet to the crack to remove the screen bit by bit. Make the screen is perpendicular to the battery.
 
 4 Remove the bracket and screws
 
 ![Remove Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/unscrew-iphone6-inside-screws.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Remove the screws on the bracket and then gently remove the bracket. You'd better take iPhone screen off before you remove the bracket.
@@ -76,6 +80,13 @@ Step 7 Assemble iPhone screen
 
 ![Assemble iPhone](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/complete-iphone6-battery-replacement.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Reconnect the screen cable according the source connection. Screw the screws when you are sure that all connection is no question. Then put on the screen and screw the screws at the bottom of iPhone.
 
  Just follow the steps above and you can handily make iPhone 6 battery replacement all by yourself. All you need is to purchase the qualified battery and suitable tools.
@@ -87,15 +98,6 @@ Step 7 Assemble iPhone screen
 [](https://secure.2checkout.com/order/cart.php?PRODS=4626213&QTY=1&AFFILIATE=108875) [](https://secure.2checkout.com/order/cart.php?PRODS=4630131&QTY=1&AFFILIATE=108875)
 
 ![FoneTrans](https://www.aiseesoft.com/images/ios-transfer/download-and-run-fonetrans.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  Don't Miss:[How to recover deleted or lost data from iPhone](https://tools.techidaily.com/aiseesoft-iphone-data-recovery/)
 
@@ -122,8 +124,12 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 4 Remove the bracket and screws
 
 ![Remove iPhone 5 Inside Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/unscrew-inside-screws.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Use screwdriver to unscrew the screws on the bracket and then remove the bracket. You don't need to take the whole screen off. Just turn the screen up to replace iPhone 5 battery.
@@ -131,18 +137,11 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 5 Make iPhone 5 battery replacement
 
 ![Make iPhone 5 Battery Replacement](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/drag-iphone5-battery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
  Use the opening tool to disconnect iPhone battery. Drag the plastic sheet to take off the battery. Put the new battery back in and reconnect the cable according the original connection. Make sure everything is OK and then turn off your iPhone to check the result.
 
  Don't forget to screw the screws at bottom of iPhone. And you can handily complete the iPhone 5 battery replacement within this five steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to make iPhone 4/4S battery replacement
 
  If your iPhone 4 or iPhone 4S is still in use, it must be the most emergent one which need to be rescue. So in the first part, we will tell you how to replace iPhone 4/4S battery step by step. Just follow the guide and you can handily do it all by yourself.
@@ -154,8 +153,12 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 2 Remove the external screws
 
 ![Remove Bottom Screws](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/bottom-screws.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Use the suitable screwdriver to remove two screws on the bottom of iPhone. Make sure you use the right screwdriver and put the screws at a safe and single place.
@@ -163,6 +166,13 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 3 Remove the rear cover
 
 ![Remove rear cover](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-the-rear-cover.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Push up on the rear cover of your iPhone to open the battery cover. Then you can see the battery there.
 
@@ -175,11 +185,6 @@ Press the "Power" button about 5 seconds to turn off your iPhone.
 5 Replace the iPhone 4/4S battery
 
 ![Make iPhone 4 Battery Replacement](https://www.aiseesoft.com/images/solution/iphone-battery-replacement/remove-iphone-battery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  After that, drag the plastic sheet gently to take off the battery. Put the new battery back in and reconnect the cable according the original connection. Maintain the good contact of the battery contacts.
 
@@ -213,8 +218,6 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +225,18 @@ Rating: 4.9 / 5 (based on 140 votes)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-diving-into-zoom-breakout-room-setups/"><u>[New] 2024 Approved Diving Into Zoom Breakout Room Setups</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-easier-cinematography-perfecting-fade-effects/"><u>[New] Easier Cinematography Perfecting Fade Effects</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-fastest-way-to-scan-windows-files/"><u>[Updated] The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/3g2avimovavi/"><u>3G2/AVIファイルをゼロコストで変換:Movaviの簡単ガイド</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-ocr-functionality-on-ios-devices-insights-into-operations-of-ocr-in-ios-18-and-17/"><u>Decoding OCR Functionality on iOS Devices: Insights Into Operations of OCR in iOS 18 and 17</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-virtual-reality-gaming-your-ultimate-guide-for-fixing-steamvr-error-308/"><u>Error-Free Virtual Reality Gaming: Your Ultimate Guide for Fixing SteamVR Error 308</u></a></li>
+<li><a href="https://os-tips.techidaily.com/generate-unique-free-ipad-admin-login-credentials-at-no-cost/"><u>Generate Unique, Free iPad Admin Login Credentials at No Cost</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 15/iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x50i-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X50i to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-and-configuring-ios-17-standby-mode-on-your-iphone-a-step-by-step-guide/"><u>Understanding and Configuring iOS 17 Standby Mode on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-mms-a-comprehensive-guide-on-activating-multimedia-messaging/"><u>Unlocking the Power of MMS: A Comprehensive Guide on Activating Multimedia Messaging</u></a></li>
+</ul></div>
 

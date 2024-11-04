@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Resolve a Frozen iPod Screen: In-Depth Pictorial Instructions for Success"
-date: 2024-08-18T09:33:04.974Z
-updated: 2024-08-19T09:33:04.974Z
+date: 2024-11-03T17:35:17.216Z
+updated: 2024-11-04T16:42:22.921Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 * [Part 1: Why iPhone Reminders Not Working?](https://tools.techidaily.com/)
 * [Part 2: 5 Solutions to Fix iPhone Reminders Not Working](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Part 1: Why iPhone Reminders Not Working?
 
  Several factors can lead to iPhone Reminders app not working and the most common causes include:
@@ -35,28 +32,24 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 
 ## Part 2: 5 Solutions to Fix iPhone Reminders Not Working
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Reboot iPhone
 
  Chances are that your iPhone get stuck in headphone mode and Reminders app does not save date and time. The simplest fix is to reboot your device.
 
 ![How To iPhone Power Off Screens](https://www.aiseesoft.com/images/solution/iphone-reminders-not-working/how-to-iphone-power-off-screens.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
 Step 1 Press thePower button for a while and the power-off screen will pop up.
 
@@ -64,13 +57,24 @@ Step 2 Move the switch from left to the right side and the screen will turn blac
 
 Step 3 Wait for at least 10 seconds and hold down thePower button again until you see the Apple logo. Now, the Reminders app should work normally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Check Reminder Settings
 
  Another reason why iPhone Reminders app is not working is the wrong settings.
 
 ![Check Reminder Settings](https://www.aiseesoft.com/images/solution/iphone-reminders-not-working/check-reminder-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1 Open theSettings app, tap on your name and selectSounds .
@@ -79,16 +83,17 @@ Step 2 Scroll down to find theReminder Alerts option and tap it.
 
 Step 3 Switch to an alert tone if the reminder is set toNone .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Solution 3: Remove Reminders from Widgets Notification
 
  You can also try to remove the Reminders app from iPhone's widget notification to fix it not working on iPhone 6/7/8 and later.
 
 ![iPhone Reminders Widget](https://www.aiseesoft.com/images/solution/iphone-reminders-not-working/iphone-reminders-widget.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1 Scroll down from the top of the screen and head to the bottom until you see theEdit button.
@@ -97,14 +102,18 @@ Step 2 Hit the button and tap the – icon next to the Reminders if it is on the
 
 Step 3 Go to the app, selectNotifications , tapReminders and set the reminder alert. Restart your iPhone and Reminders app should work now.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 4: Turn off Reminders in iCloud
 
  iCloud syncing is a big problem on iOS 13/14 and leads to Reminders app stops sharing on iPhone as usual. You'd better turn off Reminders in iCloud.
 
 ![Reminders Reminders Lists Screens](https://www.aiseesoft.com/images/solution/iphone-reminders-not-working/reminders-reminders-lists-screens.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
 Step 1 Go to the Settings app from home screen, tap on your name, and select iCloud to display the list.
 
@@ -115,6 +124,13 @@ Step 2 Toggle the switch of Reminders off. Now check if the Reminders app workin
  If you have tried the common troubleshooting and Reminders still does not work,[Aiseesoft iOS System Recovery](https://tools.techidaily.com/aiseesoft/ios-system-recovery/) is the ultimate solution.
 
 ![Aiseesoft iOS System Recovery](https://www.aiseesoft.com/images/ios-system-recovery/box-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _1_ _8_ _4_ _,_ _9_ _1_ _8_  Downloads
 
@@ -142,18 +158,12 @@ Step 1 Connect iPhone to computer
  Install iOS System Recovery on your computer. Connect iPhone to the same machine with a Lightning cable. Once open the software, it will detect your device. Hit the Start button and then select a mode to initiate fixing iPhone Reminders app.
 
 ![Start Button](https://www.aiseesoft.com/images/ios-system-recovery/start-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 Step 2 Fix Reminders not working
 
  If your iPhone works normally, click theOptimize button to open the next window. Check your iPhone information at the top of the interface, select a software version that Reminders app works fine and download it. HitNext button and the software will repair your device after firmware downloading.
 
 ![Download Firmware](https://www.aiseesoft.com/images/ios-system-recovery/download-firmware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Note: The software will take you to the download window if you cannot access your iPhone. Then you can download the proper version of software and fix it.
 
@@ -190,8 +200,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +207,26 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-maximizing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>[New] 2024 Approved Maximizing Engagement Avoiding Common YouTube Thumbnail Errors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortless-earnings-channel-size-no-longer-a-challenge-for-2024/"><u>[New] Effortless Earnings Channel Size No Longer a Challenge for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-introductory-tutorial-utilizing-video-chat-features-on-insta/"><u>[Updated] Introductory Tutorial Utilizing Video Chat Features on Insta</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>2024 Approved Uncomplicated Techniques Reverse Playback in VLC Media Player</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beginners-guide-to-using-the-dearmob-iphone-manager-on-a-windows-pc-step-by-step-instructions/"><u>Beginner's Guide to Using the DearMob iPhone Manager on a Windows PC: Step-by-Step Instructions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-camon-20-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Camon 20 Fingerprint Lock</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-for-relocating-video-content-from-iphone-to-a-windows-computer-with-the-dearmob-solution/"><u>Complete Guide for Relocating Video Content From iPhone to a Windows Computer with the DearMob Solution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dearmobs-step-by-step-instructions-for-syncing-iphone-and-mac-apps-effortlessly/"><u>DearMob's Step-by-Step Instructions for Syncing iPhone and Mac Apps Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-digital-compression-understanding-mpeg-4-versus-h264-technologies/"><u>Exploring Digital Compression: Understanding MPEG-4 Versus H.264 Technologies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-conversion-convert-your-caf-files-to-mp3-with-ease-using-the-movavi-tool/"><u>Free Online Conversion: Convert Your CAF Files to MP3 with Ease Using the Movavi Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-mount-iphones-and-ipads-as-external-storage-on-windows-a-step-by-step-guide/"><u>How to Mount iPhones and iPads as External Storage on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-mount-your-iphone-or-ipad-as-external-storage-on-mac-a-step-by-step-guide/"><u>How to Mount Your iPhone or iPad as External Storage on Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-sync-songs-from-your-iphone-to-a-windows-laptop-step-by-step-dearmob-tutorial/"><u>How to Sync Songs From Your iPhone to a Windows Laptop - Step-by-Step DearMob Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-with-ease-a-review-of-mapmyrides-mapping-capabilities/"><u>Navigating with Ease: A Review of MapMyRide's Mapping Capabilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamlessly-transfer-your-iphone-ebooks-to-a-windows-laptop-using-dearmobs-easy-guidelines/"><u>Seamlessly Transfer Your iPhone eBooks to a Windows Laptop Using DearMob's Easy Guidelines</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-organizing-your-listening-experience-with-apple-podcasts-and-itunes-u-for-windows-users-dearmob-tutorial/"><u>Step-by-Step Guide: Organizing Your Listening Experience with Apple Podcasts and iTunes U for Windows Users - DearMob Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-free-applications-for-watching-the-fifa-world-cup-in-qatar-a-comprehensive-guide/"><u>Top Free Applications for Watching the FIFA World Cup in Qatar: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-media-library-remove-drm-from-itunes-downloads-with-dearmob/"><u>Unlock Your Media Library - Remove DRM From iTunes Downloads with DearMob</u></a></li>
+</ul></div>
 

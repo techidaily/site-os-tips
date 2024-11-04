@@ -1,7 +1,7 @@
 ---
 title: "Essential DearMob Mac Security: The Ultimate User Manual"
-date: 2024-10-26T01:29:35.132Z
-updated: 2024-10-30T00:03:09.789Z
+date: 2024-10-31T16:55:10.260Z
+updated: 2024-11-04T18:16:57.405Z
 tags:
   - iphone-manager
 categories:
@@ -34,10 +34,16 @@ DearMob allows you to,
 ![Add file for encryption on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Click **Encrypt Now** and the **Settings** window would pop up.  
@@ -45,24 +51,25 @@ DearMob allows you to,
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * You can apply the same passwords to Photo, Video and Contact encryption.
 * Create your password with numbers, uppercase letter and lowercase letter.
 * The **Setting** window would pop out for you to set password for encryption, if you didn't set it before.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Decrypt Files Encrypted by DearMob on Mac
 
@@ -71,24 +78,23 @@ DearMob allows you to,
 
 ![Decrypt files on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * DearMob only decrypts files that were enciphered by DearMob iPhone Manager itself.
 * Tick **Temporarily save password** to remember your decode password for all decryptions.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Export Video, Photo, Contact with Password on Mac
 
@@ -113,17 +119,16 @@ DearMob allows you to,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-exclusive-movies-behind-the-best-chart/"><u>[New] 2024 Approved Exclusive Movies Behind the Best Chart</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-chucklecraft-constructor-for-2024/"><u>[New] ChuckleCraft Constructor for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nlock-higher-rankings-essential-tips-to-elevate-your-yt-content/"><u>[New] Unlock Higher Rankings Essential Tips to Elevate Your YT Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/8-proven-strategies-to-resolve-windows-11s-code-0x80f0922-update-issue/"><u>8 Proven Strategies to Resolve Windows 11'S Code 0X80ˈFː09:22 Update Issue</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/breaking-down-barriers-with-shared-youtube-curations/"><u>Breaking Down Barriers with Shared YouTube Curations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-lifespan-of-eco-friendly-tech-our-compostable-iphone-cases-journey-over-half-a-year/"><u>Exploring the Lifespan of Eco-Friendly Tech: Our Compostable iPhone Case's Journey Over Half a Year</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-belkins-magsafe-compatible-iphone-holder-today-special-price-just-23/"><u>Get Your Belkin's MagSafe-Compatible iPhone Holder Today - Special Price: Just $23!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/integrating-chatgpt-into-your-apple-watch-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Apple Watch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-screen-time-feature-malfunction-upcoming-repair-by-apple/"><u>IPhone Screen Time Feature Malfunction: Upcoming Repair by Apple</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209567877-puerto-rico/"><u>Puerto Rico</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-fb-live-4-key-recording-techniques/"><u>[Updated] 2024 Approved Mastering FB Live 4 Key Recording Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-methods-to-repair-malfunctioning-computers-sound-systems/"><u>Effective Methods to Repair Malfunctioning Computers' Sound Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-convert-youtube-to-igtv-videos-3-ways-for-2024/"><u>How to Convert YouTube to IGTV Videos? [3 Ways] for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-11r-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus 11R Through Google Earth?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-object-extraction-in-iphone-photography-with-top-6-apps-for-2024/"><u>Mastering Object Extraction in iPhone Photography with Top 6 Apps for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-ipad-connectivity-essential-steps-for-reactivating-the-usb-driver/"><u>Reviving iPad Connectivity: Essential Steps for Reactivating the USB Driver</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/sharing-youtube-content-on-facebook-a-step-by-step-guide-for-2024/"><u>Sharing YouTube Content on Facebook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-fixing-a-mac-frozen-on-the-startup-with-an-apple-icon-displayed/"><u>Step-by-Step Guide: Fixing a Mac Frozen on the Startup with an Apple Icon Displayed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-encyclopedia-britannica-anubis-online-available-at-(httpswwwbritannicacomtopicanubis)/"><u>The Encyclopedia Britannica – Anubis [Online] Available At: <https://www.britannica.com/topic/Anubis></u></a></li>
+<li><a href="https://os-tips.techidaily.com/trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-editing-audio-files-in-windows-operating-systems-windows-11-10-81-and-earlier/"><u>Ultimate Guide: Editing Audio Files in Windows Operating Systems (Windows 11, 10, 8.1, and Earlier)</u></a></li>
 </ul></div>
 

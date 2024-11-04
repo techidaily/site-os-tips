@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!"
-date: 2024-10-16T19:05:21.513Z
-updated: 2024-10-24T02:22:31.983Z
+date: 2024-11-01T16:50:43.992Z
+updated: 2024-11-04T18:26:50.474Z
 tags:
   - ios
 categories:
@@ -20,22 +20,15 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is Circle to Search?
 
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -52,10 +45,10 @@ Justin Duino / How-To Geek
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
@@ -66,6 +59,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
@@ -74,15 +74,22 @@ Justin Duino / How-To Geek
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
@@ -94,13 +101,6 @@ Justin Duino / How-To Geek
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
@@ -135,21 +135,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-step-by-step-guide-share-youtube-vids-with-fb-friends/"><u>[New] In 2024, A Step-by-Step Guide Share YouTube Vids with FB Friends</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-grab-facebook-videos-on-both-oses/"><u>[Updated] Step-by-Step Grab Facebook Videos on Both OSes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-revolutionary-addition-latest-widget-feature-in-the-microsoft-365-suite/"><u>1. 'Revolutionary Addition: Latest Widget Feature in the Microsoft 365 Suite'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-comprehensive-recap-of-apples-worldwide-developers-conference-wwdc-2024-key-takeaways-and-insights/"><u>1. Comprehensive Recap of Apple's Worldwide Developers Conference (WWDC) 2024: Key Takeaways and Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-top-10-android-innovations-apple-must-integrate-into-future-iphones/"><u>1. Top 10 Android Innovations Apple Must Integrate Into Future iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-look-back-in-time-discovering-when-the-initial-smartphone-emerged/"><u>A Look Back in Time: Discovering When the Initial Smartphone Emerged</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/adapt-to-facebooks-algorithm-shift-now-for-2024/"><u>Adapt to Facebook's Algorithm Shift Now for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-introduces-new-lending-services-in-latest-iphone-update/"><u>Apple Introduces New Lending Services in Latest iPhone Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-imposters-discerning-real-chatgpt-applications-on-ios-platforms/"><u>Avoiding Imposters: Discerning Real ChatGPT Applications on iOS Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/belkin-revolutionizes-charging-technology-unveiling-the-innovative-magsafe-3-port-adapter/"><u>Belkin Revolutionizes Charging Technology: Unveiling the Innovative MagSafe 3-Port Adapter</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-i-use-my-iphone-in-the-rain-without-damage/"><u>Can I Use My iPhone in the Rain Without Damage?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-support-nvidias-quadro-rtx-8000-driver-downloads-for-win7-win8-and-win10-users/"><u>Get the Latest Support: Nvidia's Quadro RTX 8000 Driver Downloads for Win7, Win8 & Win10 Users</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-maximizing-profile-video-attraction-strategies/"><u>In 2024, Maximizing Profile Video Attraction Strategies</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-8-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 8 to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/laughter-labyrinas-ideas-that-resonate-with-crowds/"><u>Laughter Labyrinas Ideas That Resonate with Crowds</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/windows-8-81-10-aomei-backupper/"><u>Windows 8, 8.1, 10專業網增複製工具 - AOMEI Backupper</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-methods-to-adapt-track-paceplay-in-spotify-app-for-2024/"><u>[New] Prime Methods to Adapt Track Paceplay in Spotify App for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[Updated] 2024 Approved Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-impressive-instagram-story-bokeh-art-for-2024/"><u>[Updated] Crafting Impressive Instagram Story Bokeh Art for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[Updated] From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-broadcast-battles-tech-titans-tussle-for-top-spot/"><u>2024 Approved Broadcast Battles Tech Titans Tussle for Top Spot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024s-ultimate-selection-of-miniature-mobile-devices-for-tech-enthusiasts/"><u>2024'S Ultimate Selection of Miniature Mobile Devices for Tech Enthusiasts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-apple-watch-series-8-high-performance-on-a-modest-spending-plan/"><u>Affordable Apple Watch Series 8: High Performance on a Modest Spending Plan</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-can-now-access-the-epic-games-marketplace/"><u>Android & iPhone Users Can Now Access the Epic Games Marketplace!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-scripting-space-and-time-manipulation-for-movies/"><u>In 2024, Scripting Space & Time Manipulation for Movies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/leveraging-visuals-a-step-by-step-guide-for-youtube-trailers/"><u>Leveraging Visuals A Step-by-Step Guide for YouTube Trailers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-10-places-to-find-music-for-podcast-intro-for-2024/"><u>Top 10 Places to Find Music for Podcast Intro for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/usb-type-c-port-on-iphone-15-features-enhanced-connectivity/"><u>USB Type-C Port on iPhone 15 Features Enhanced Connectivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-tracking-devices-like-airtags-are-essential-in-modern-vehicles/"><u>Why Tracking Devices Like AirTags Are Essential in Modern Vehicles</u></a></li>
 </ul></div>
 

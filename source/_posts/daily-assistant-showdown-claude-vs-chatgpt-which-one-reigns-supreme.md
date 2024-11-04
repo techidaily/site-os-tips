@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2024-10-26T20:31:42.569Z
-updated: 2024-10-29T22:09:06.528Z
+date: 2024-10-31T16:40:51.862Z
+updated: 2024-11-04T17:11:22.801Z
 tags:
   - ios
 categories:
@@ -20,10 +20,16 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  GPT vs. Claude On The Web
@@ -38,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
 
@@ -58,13 +64,6 @@ Dibakar Ghosh / How-To Geek / Midjourney
  Claude has a similar tokenization system, but the amount of messages you're allowed seems much more limited at the free level. After those messages run out, you can't use the model again until it resets. As someone who used a pro account for a bit, I noticed that the access limits had increased somewhat, but I still found that I ran out of credits before I could adequately get anything done. There is a higher-paid tier for both ChatGPT and Claude, but I haven't tested either.
 
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Which App Performs Better?
 
@@ -82,6 +81,13 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -95,10 +101,16 @@ Jason Dookeran/How-to-Geek
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
@@ -120,20 +132,15 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-get-close-or-farther-with-ease-on-instagram-stories/"><u>[New] In 2024, Get Close or Farther with Ease on Instagram Stories</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-effortless-video-management-25plus-free-apps-turning-instagram-content-into-mp4-files/"><u>[Updated] In 2024, Effortless Video Management 25+ Free Apps Turning Instagram Content Into MP4 Files</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-s24plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy S24+ for Free? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-making-gifs-directly-from-an-iphone-tips-and-tricks/"><u>Mastering the Art of Making GIFs Directly From an iPhone: Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-unfreezing-window-updates-on-legacy-systems-latest-advice-steps-and-troubleshooting-techniques-to-assist-users-edition-of-windows-seven146/"><u>Mastering The Art of Unfreezing Window Updates On Legacy Systems – Latest Advice, Steps And Troubleshooting Techniques To Assist Users Edition Of Windows Seven (Guide and Helpful Tips).</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-journey-discover-how-to-share-your-google-map-route-for-a-seamless-travel-experience/"><u>Maximize Your Journey: Discover How to Share Your Google Map Route for a Seamless Travel Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-awesome-experience-with-the-paprika-app-why-you-shouldnt-wait/"><u>My Awesome Experience with the Paprika App - Why You Shouldn't Wait</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-desire-for-a-cosmic-galaxy-ring-denied-by-samsungs-design/"><u>My Desire for a Cosmic Galaxy Ring Denied by Samsung's Design</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-easy-video-reversal-top-online-solutions-for-2024/"><u>New Easy Video Reversal Top Online Solutions for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/phone-overheating-follow-these-tips-to-cool-things-down/"><u>Phone Overheating? Follow These Tips to Cool Things Down!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-vision-a-step-by-step-tutorial-on-modifying-iphones-screen-proximity-settings/"><u>Protect Your Vision: A Step-by-Step Tutorial on Modifying iPhone's Screen Proximity Settings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sidecar-feature-connecting-your-mac-and-ipad-seamlessly/"><u>Sidecar Feature: Connecting Your Mac and iPad Seamlessly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-guide-the-top-apps-for-recording-video-calls-on-viber/"><u>Ultimate Guide: The Top Apps for Recording Video Calls on Viber</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-predictive-ai-and-how-does-it-work/"><u>What Is Predictive AI, and How Does It Work?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-achieving-seamless-group-discussions-in-google-chat/"><u>[Updated] 2024 Approved Achieving Seamless Group Discussions in Google Chat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-filching-frames-from-films-for-windows-10-photos-collection/"><u>[Updated] Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-apps-and-programs-for-image-video-integration/"><u>2024 Approved Best Apps and Programs for Image Video Integration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-managing-your-samsung-account-sign-up-login-troubleshooting-password-reset-deletion-process-and-secure-data-recovery/"><u>Complete Guide to Managing Your Samsung Account: Sign Up, Login Troubleshooting, Password Reset, Deletion Process, and Secure Data Recovery</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-14-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 14 Pro Max Stuck On Activation Lock?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-x8b-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor X8b Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-strategies-for-fixing-recurring-snapchat-failures-across-iphones-and-androids/"><u>Revolutionary Strategies for Fixing Recurring Snapchat Failures Across iPhones and Androids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/save-your-data-and-repair-tips-for-a-damaged-android-device-top-solutions/"><u>Save Your Data & Repair Tips for a Damaged Android Device: Top Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-error-4504-on-android-steps-to-recover-missing-messages-quickly/"><u>Troubleshooting Error 4504 on Android: Steps to Recover Missing Messages Quickly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vital-top-5-compact-action-camera-selections-for-2024/"><u>Vital Top 5 Compact Action Camera Selections for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides"
-date: 2024-10-22T16:33:16.591Z
-updated: 2024-10-23T23:33:47.460Z
+date: 2024-10-31T17:35:14.132Z
+updated: 2024-11-04T17:57:22.365Z
 tags:
   - ios
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Warning screens when downloading an app in Safari for iPhone](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-web-distribution-safari-iphone-example-app.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Developers must meet [Apple’s stringent notarization guidelines](https://developer.apple.com/support/web-distribution-eu/) to implement this feature, called Web Distribution. This includes having been a member of the Apple Developer Program for at least two years and having at least one million app installs in the previous year.
 
  Apple strongly discourages sideloading, as evidenced by a bunch of scare screens EU users see when using Web Distribution.
@@ -59,33 +52,45 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Sony's over-ear headphones set against a colorful gradient background.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/sony-wh-1000xm5-headphones-three-quarters-view.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  The New Quartiles Word Game
 
  Quartlies is a new word game for News+ subscribers in the US and Canada, which joins Crossword and Crossword Mini in the News app on iPhone, iPad, and Mac. To get started hit the “Following” tab, select “Puzzles” in the sidebar, and choose “Quartiles” at the top.
 
 ![Puzzles section in the iPhone's News app with the Quartiles word game highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-puzzles-section-quartiles-word-game-selected.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The game has you combining word fragments shuffled on a 4x5 grid into whole words.
 
 ![Apple iOS 17.5 News App Quartiles Game Three Word Tiles Selected](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-three-word-tiles-selected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Apple iOS 17.5 News App Quartiles Game Word Completed](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-completed.png) 
 
 ![Apple iOS 17.5 News App Quartiles Game Word Tiles](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-tiles.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -94,6 +99,13 @@ Close
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Second Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-second-splash-screen.png) 
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Third Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-third-splash-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fourth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fourth-splash-screen.png) 
 
@@ -143,13 +155,6 @@ Close
 
  Keep in mind that offline mode requires a News+ subscription.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  New Storage Management Settings for the News App
 
  iOS 17.5 also brings half a dozen noteworthy new options and changes in Settings > News. For starters, the existing switch labeled “Restrict Stories in Today” is now headlined “Today Feed” instead of “News Settings” and has moved down a bit.
@@ -185,10 +190,10 @@ Close
 ![Apple News app on iPhone displaying a confirmation prompt to clear saved stories.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-saved-stories-section-clear-saved-stories-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close 
@@ -226,16 +231,10 @@ Close
 ![Swiping to change wallpaper color in Settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-settings-app-add-new-wallpaper-pride-radiance-swipe-change-color.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The dynamic 'Pride Radiance' wallpaper on iPhone's Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-iphone-lock-screen-pride-radiance-wallpaper.jpg) 
@@ -256,6 +255,13 @@ Close
 
 !['Ready for Repair' banner in the iPhone's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-iphone-repair-state-banner.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close 
 
  Your iPhone continues to function normally when in the Repair State mode. Find My and Activation Lock continue to work, and the device can be put in Lost Mode. An iPhone in a repair state is labeled with a small stethoscope icon in the device list.
@@ -274,18 +280,18 @@ Close
 
 ![iOS 17.4 Apple Podcasts Widget Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-podcasts-widget-home-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iOS 17.5 Apple Podcasts Widget Yellow Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-yellow-color-home-screen.png) 
 
 ![iOS 17.5 Apple Podcasts Widget Red Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-red-color-home-screen.png) 
 
 ![iOS 17.5 Apple Podcasts Widget Brown Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-brown-color-home-screen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -305,13 +311,6 @@ Close
 
 ![Reading goal icon in Apple's Books app on iOS 17.4](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-books-app-reading-goal-icon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Reading goal icon in Apple's Books app on iOS 17.5](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-books-app-reading-goal-icon.png) 
 
 Close 
@@ -323,6 +322,13 @@ Close
 ##  3 New iPad-Only Features in iPadOS 17.5
 
  Most (if not all) new iPhone features in iOS 17.5 also work on Apple's tablets. However, iPadOS 17.5 brings three enhancements specifically designed for Apple's tablets.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Support for Upcoming New iPad Pros
 
@@ -355,17 +361,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-genres-a-collection-of-15-innovative-musician-focused-videos-for-2024/"><u>[New] Exploring Genres A Collection of 15 Innovative Musician-Focused Videos for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streaming-directly-from-facebook-to-your-screen/"><u>[New] In 2024, Streaming Directly From Facebook to Your Screen</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-deep-dive-into-youtube-writers-workshop-space-for-2024/"><u>[Updated] A Deep Dive Into YouTube’ Writers' Workshop Space for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-c33-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme C33 2023 Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-handle-ios-voice-memo-files-and-ringtones-with-windows-using-the-dearmob-guide/"><u>How to Handle iOS Voice Memo Files & Ringtones with Windows Using the DearMob Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-mount-iphones-and-ipads-as-external-storage-on-windows-a-step-by-step-guide/"><u>How to Mount iPhones and iPads as External Storage on Windows - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/reclaiming-your-work-six-effective-methods-to-restore-microsoft-word-docx-documents/"><u>Reclaiming Your Work: Six Effective Methods to Restore Microsoft Word (DOCX) Documents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-techniques-for-taking-easy-screenshots-on-pcs-and-laptops/"><u>Simple Techniques for Taking Easy Screenshots on PCs and Laptops</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-organizing-your-listening-experience-with-apple-podcasts-and-itunes-u-for-windows-users-dearmob-tutorial/"><u>Step-by-Step Guide: Organizing Your Listening Experience with Apple Podcasts and iTunes U for Windows Users - DearMob Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-managing-ios-files-using-windows-systems-dearmob-users-compendium/"><u>Step-by-Step Instructions for Managing iOS Files Using Windows Systems | DearMob User's Compendium</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-techniques-for-precise-iptv-screen-imaging-for-2024/"><u>Ultimate Techniques for Precise IPTV Screen Imaging for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-media-library-remove-drm-from-itunes-downloads-with-dearmob/"><u>Unlock Your Media Library - Remove DRM From iTunes Downloads with DearMob</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailor-made-melodies-your-roadmap-for-playlists/"><u>[New] Tailor-Made Melodies Your Roadmap for Playlists</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-9-powerful-youtube-video-downloader-for-android/"><u>[Updated] 2024 Approved 9 Powerful YouTube Video Downloader for Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>[Updated] In 2024, How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-style-the-essential-guide-to-instagram-story-magnification-for-2024/"><u>[Updated] Insta Style The Essential Guide to Instagram Story Magnification for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-how-to-for-youtube-comment-control/"><u>[Updated] The Essential How-To for YouTube Comment Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-technology-and-innovation-constructing-web-applications-with-gpt-3/"><u>Fusing Technology and Innovation: Constructing Web Applications with GPT-3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-tecno-spark-10-4g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Tecno Spark 10 4G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-avatar-the-game-pandoras-frontier-fixing-low-fps-and-stutter-issues/"><u>Solving 'Avatar: The Game - Pandora's Frontier': Fixing Low Fps & Stutter Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/think-twice-before-investing-in-these-4-trending-apple-gadgets/"><u>Think Twice Before Investing in These 4 Trending Apple Gadgets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-expectations-for-apples-newest-ipad-mini/"><u>Top Expectations for Apple's Newest iPad Mini</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-usb-c-chargers-and-adapters-for-laptops/"><u>Top Rated USB-C Chargers & Adapters for Laptops</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-models-your-comprehensive-buyers-guide/"><u>Top-Rated iPad Models : Your Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-iphone-15-pro-our-picks/"><u>Top-Rated Protective Covers for the iPhone 15 Pro: Our Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-latest-iphone-se/"><u>Top-Rated Protective Covers for the Latest iPhone SE</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-multi-port-maggo-charger-by-anker-power-up-with-qi-usb-c/"><u>Ultimate Guide to the Multi-Port MagGo Charger by Anker - Power Up with Qi, USB-C</u></a></li>
 </ul></div>
 

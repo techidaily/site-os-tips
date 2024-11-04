@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2024-10-22T20:29:16.330Z
-updated: 2024-10-29T20:19:01.328Z
+date: 2024-10-28T18:06:02.378Z
+updated: 2024-11-04T17:49:12.470Z
 tags:
   - ios
 categories:
@@ -40,55 +40,48 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  However, there are some times you may wish to kick an update off manually. First, let's check which version of software the AirPods are running currently.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Check Which Firmware Your AirPods Are Running
 
  With your AirPods in their Charging Case, open the lid near your iPhone. Dismiss the on-screen battery indicator that appears and then open the Settings app.
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, tap "About" to progress.
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
 
@@ -101,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -123,19 +123,16 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/harting-the-course-for-profitable-youtube-videos/"><u>[New] Charting the Course for Profitable Youtube Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-7-first-person-shooters-of-the-year-for-2024/"><u>[Updated] Best 7 First-Person Shooters of the Year for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-clan-the-challenge-best-games-similar-to-ghost-of-tsushima/"><u>2024 Approved Clan the Challenge Best Games Similar to Ghost of Tsushima</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-easily-through-trending-youtube-comments/"><u>2024 Approved Navigating Easily Through Trending YouTube Comments</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-audio-driver-on-hidef-bus/"><u>Corrected Audio Driver on HiDef Bus</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-smart-8-hd-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Smart 8 HD Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-a-red-screen-on-your-iphone-expert-tips-and-solutions/"><u>How to Fix a Red Screen on Your iPhone: Expert Tips and Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-unresponsive-apps-essential-solutions-for-ios-and-android-users/"><u>How to Troubleshoot Unresponsive Apps: Essential Solutions for iOS and Android Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieve-lost-iphone-mailbox-items-expert-tips-and-troubleshooting-steps/"><u>Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-choosing-the-perfect-vpn-for-gamers-on-windows-platforms/"><u>Ultimate Guide: Choosing the Perfect VPN for Gamers on Windows Platforms</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-secrets-of-youtube-monetization-key-viewer-numbers/"><u>[Updated] Unlock the Secrets of YouTube Monetization Key Viewer Numbers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-productivity-belkins-revolutionary-new-200w-usb-c-charger-supports-up-to-four-devices-at-once/"><u>Boost Your Productivity: Belkin’s Revolutionary New 200W USB-C Charger Supports Up to Four Devices at Once</u></a></li>
+<li><a href="https://os-tips.techidaily.com/budget-friendly-smartphones-below-1k-with-top-performance-features/"><u>Budget-Friendly Smartphones Below $1K with Top Performance Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/certain-apple-watch-variants-now-lack-blood-oxygen-monitoring-functionality/"><u>Certain Apple Watch Variants Now Lack Blood Oxygen Monitoring Functionality</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/conversion-webm-a-flv-en-ligne-transformer-vos-videos-sans-frais-tutorial-movavi/"><u>Conversion Webm À Flv en Ligne : Transformer Vos Vidéos Sans Frais - Tutorial Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-cash-app-upgrades-offer-parallel-benefits-to-apple-cards-robust-savings-options/"><u>Discover How Cash App Upgrades Offer Parallel Benefits to Apple Card's Robust Savings Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embrace-modern-playfulness-why-i-prefer-iphone-games-over-classic-consoles/"><u>Embrace Modern Playfulness: Why I Prefer iPhone Games Over Classic Consoles</u></a></li>
+<li><a href="https://win-updates.techidaily.com/error-404-unable-to-locate-the-requested-webpage/"><u>Error 404: Unable to Locate the Requested Webpage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sifting-through-codegpt-can-it-realistically-write-complex-code/"><u>Sifting Through CodeGPT: Can It Realistically Write Complex Code?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleashing-the-power-of-artificial-intelligence-with-meta-on-instagram/"><u>Unleashing the Power of Artificial Intelligence with Meta on Instagram</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-extract-audio-from-video-top-mp4-to-mp3-apps-for-2024/"><u>Updated Extract Audio From Video Top MP4 to MP3 Apps for 2024</u></a></li>
 </ul></div>
 
