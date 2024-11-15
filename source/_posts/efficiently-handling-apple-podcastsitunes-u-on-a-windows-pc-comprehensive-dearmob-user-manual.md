@@ -1,7 +1,7 @@
 ---
 title: Efficiently Handling Apple Podcasts/iTunes U on a Windows PC | Comprehensive DearMob User Manual
-date: 2024-10-29T18:02:45.599Z
-updated: 2024-11-04T17:04:02.788Z
+date: 2024-11-11T18:49:16.044Z
+updated: 2024-11-13T21:00:55.017Z
 tags:
   - iphone-manager
 categories:
@@ -31,19 +31,19 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 ![export podcasts to PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-export-podcast-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Get real-time data of your iPhone, iPad or iPod using the Refresh button.
@@ -59,6 +59,20 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 
 ![add podcasts from pc](https://www.5kplayer.com/user-guide/images/userguide-how/guide-add-podcast-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Delete Podcasts from iPhone, iPad, or iPod
 
 1\. Select the podcasts you want to remove from your iPhone storage.
@@ -69,16 +83,16 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 
 ![delete podcasts on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-delete-podcast-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Export iTunes U from iPhone, iPad, or iPod to PC
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Note:**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * iTunes U content has been shifted to Podcast section of iTunes by Apple since iTunes 12.7\. In accord with the changes, DearMob automatically add videos/audio you drop in iTunes U section to the Podcast list.
 
@@ -89,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 3\. Select the iTunes U items and click **Export** to start the exporting.
 
 ![Export iTunes U to PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-export-itunes-u-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add iTunes U to iPhone, iPad, or iPod from PC
 
@@ -111,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 
 * **Supported input formats**: MP4 H.264, MP4 H.265, MKV, MOV, WMV, AVI, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Delete iTunes U from iPhone, iPad, or iPod
 
 1\. Select the iTunes U lessons added by you in the DearMob Podcast center.
@@ -129,10 +129,16 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 ![Delete iTunes U on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-delete-itunes-u-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Frequently Asked Questions
@@ -160,21 +166,21 @@ Yes. You can change the save path by going to Settings from the main interface. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-a-complete-guide-to-sourcing-elite-instagram-ringtones-and-designing-noteworthy-ringtone-alarms-for-2024/"><u>[New] A Complete Guide to Sourcing Elite Instagram Ringtones & Designing Noteworthy Ringtone Alarms for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-fiction-fabrication/"><u>[New] Fundamentals of Fiction Fabrication</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-tactics-for-avoiding-a-youtube-sanction-for-2024/"><u>[Updated] Tactics for Avoiding a YouTube Sanction for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adding-value-with-recommendations/"><u>Adding Value with Recommendations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-cura-enhancements-to-upgrade-your-3d-printing-process/"><u>Advanced Cura Enhancements to Upgrade Your 3D Printing Process</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/digital-detailing-at-your-command-for-2024/"><u>Digital Detailing at Your Command for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/forst-oversvangas-inspellningarna-i-snapchat-enkeltvis-du-far-skara-dig-eget/"><u>Först Översvängas Inspellningarna I Snapchat? Enkeltvis Du Får Skära Dig Eget!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-and-premium-methods-a-complete-2024-tutorial-on-mastering-among-us-gameplay-on-your-computer/"><u>Free and Premium Methods: A Complete 2024 Tutorial on Mastering Among Us Gameplay on Your Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-continuous-playback-top-4-methods-for-perpetual-videos-on-android-devices/"><u>Seamless Continuous Playback: Top 4 Methods for Perpetual Videos on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-converting-and-displaying-heic-files-on-android-smartphones/"><u>Step-by-Step Guide: Converting & Displaying HEIC Files on Android Smartphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-resetting-samsung-passwords-and-restoring-android-data-privileges/"><u>Step-by-Step Guide: Resetting Samsung Passwords & Restoring Android Data Privileges</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securing-and-accessing-your-samsung-galaxy-display/"><u>Step-by-Step Guide: Securing & Accessing Your Samsung Galaxy Display</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-android-remote-control-applications-managing-your-phone-via-pc/"><u>Top 5 Android Remote Control Applications: Managing Your Phone via PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-free-ios-emulators-available-for-your-android-device-right-now/"><u>Top 6 Free iOS Emulators Available for Your Android Device Right Now</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/visual-fidelity-at-its-peak-the-merits-of-high-dynamic-range-over-sdr/"><u>Visual Fidelity at Its Peak The Merits of High Dynamic Range Over SDR</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-free-tribe-50-branding-banners-ready-to-unleash/"><u>[New] 2024 Approved Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-iphones-audio-advantages-for-podcast-lovers-for-2024/"><u>[New] IPhone's Audio Advantages for Podcast Lovers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[New] Navigating and Adapting YouTube's Evolving Policy Landscape</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-prodigy-vs-creative-hub-beta-edition/"><u>[New] YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-90-gt-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor 90 GT in Minutes | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/remote-control-of-mac-via-iphone-discover-the-best-4-applications-for-seamless-integration/"><u>Remote Control of Mac via iPhone: Discover the Best 4 Applications for Seamless Integration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/speedy-and-dependable-technician-solutions-for-ipad-screen-damage-restoration/"><u>Speedy and Dependable Technician Solutions for iPad Screen Damage Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stay-updated-with-your-ipad-easy-steps-for-installing-the-newest-ios-version/"><u>Stay Updated with Your iPad: Easy Steps for Installing the Newest iOS Version</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-approach-to-podcast-naming-and-50plus-dynamic-name-options/"><u>Step-by-Step Approach to Podcast Naming & 50+ Dynamic Name Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-sanitizing-your-iphone-display-using-isopropyl-alcohol/"><u>Step-by-Step Guide: Sanitizing Your iPhone Display Using Isopropyl Alcohol</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-resolving-the-battlenet-unable-to-launch-issue/"><u>Step-by-Step Solution: Resolving the 'Battle.net Unable to Launch' Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-for-iphone-backup-recovery-and-restoration-from-itunes-and-icloud-archives/"><u>Step-by-Step Tutorial for iPhone Backup Recovery and Restoration From iTunes & iCloud Archives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ins-and-outs-of-apple-musics-auto-queue-system-for-iphones/"><u>The Ins and Outs of Apple Music's Auto-Queue System for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-methods-discovering-your-icloud-account-using-the-imei-code-a-comprehensive-manual/"><u>Ultimate Methods: Discovering Your iCloud Account Using the IMEI Code - A Comprehensive Manual</u></a></li>
+<li><a href="https://win-blog.techidaily.com/watch-dogs-legion-update-eliminates-pc-crashing-problems-game-stability-enhanced/"><u>Watch Dogs Legion Update Eliminates PC Crashing Problems - Game Stability Enhanced</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/wie-losen-sie-das-problem-bootfahiges-gerat-nicht-gefunden-datenwiederherstellung/"><u>Wie Lösen Sie Das Problem Bootfähiges Gerät Nicht Gefunden - Datenwiederherstellung?</u></a></li>
 </ul></div>
 

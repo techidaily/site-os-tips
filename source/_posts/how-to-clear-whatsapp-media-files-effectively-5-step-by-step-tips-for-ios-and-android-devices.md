@@ -1,7 +1,7 @@
 ---
 title: How to Clear WhatsApp Media Files Effectively - 5 Step-by-Step Tips for iOS and Android Devices
-date: 2024-08-18T09:36:08.061Z
-updated: 2024-08-19T09:36:08.061Z
+date: 2024-11-07T16:05:49.261Z
+updated: 2024-11-13T19:49:18.429Z
 tags:
   - delete-android-data
 categories:
@@ -22,16 +22,10 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 * [Part 3. How to Delete WhatsApp Pictures Using a Computer](https://tools.techidaily.com/)
 * [Part 4. FAQs about Deleting WhatsApp Images](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How to Delete Photos from WhatsApp \[3 Ways\]
 
  The common way to delete files can be found within the messaging app, and you can typically delete texts, photos, and videos there. The best part is there are three ways to remove the files from a chat, and you can try them with the following demonstrations.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### From the Chat
 
 Step 1:
@@ -55,13 +49,30 @@ Step 1:
  The Search feature allows you to delete individual files from a chat. Tap theMagnifying icon, then choose the Photos, Videos, or Documents option.
 
 ![WhatsApp Search Feature](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/whatsapp-search-feature.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2:
 
  Select the media file you want to remove from the chat. Open theMore dropdown menu, then press theDelete button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### From the WhatsApp Settings
 
@@ -79,9 +90,6 @@ Step 3:
 
  You can delete individual or multiple files by pressing theSelect button, thenSelect All option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. How to Remove WhatsApp Images from the Gallery or Photos App
 
  If you turn on the Auto-download from WhatsApp, the images on the chat will be saved on your gallery. This will likely consume a huge amount of space on your smartphone, affecting the device’s performance. Let’s see how to delete WhatsApp images on iPhone and Android.
@@ -101,8 +109,19 @@ Step 3:
  Tap theMove to Trash button. You can permanently delete files from the Trash menu. Alternatively, you can use this instruction on the Google Photos app.
 
 ![Android WhatsApp Gallery Delete WhatsApp Photos](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/android-whatsapp-gallery-delete-whatsapp-photos.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone Users
@@ -120,16 +139,17 @@ Step 2:
  Deleteing the WhatsApp images on iPhone enables you to withdraw the actions if you accidentally delete something you want to keep. But the withdraw can only work if you have[backed up your WhatsApp on iCloud](https://tools.techidaily.com/) for all you messages, data, information, and photos.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3\. How to Delete WhatsApp Pictures Using a Computer
 
  If you don’t want to go through all of your files to free up space, use Aiseesoft iPhone Cleaner on Windows or Mac. The desktop offers a user-friendly UI to quickly scan your phone and erase unwanted files, providing the exact amount of storage space you can free up and boost the device’s performance. Moreover, it allows you to selectively uninstall unused apps, documents, photos, and large files to organize the whole list. It is the best choice for a quicker iPhone cleaning.
 
 ![iPhone Cleaner](https://www.aiseesoft.com/images/iphone-cleaner/box-2.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _1_ _1_ _4_ _,_ _3_ _9_ _7_  Downloads
 
@@ -143,13 +163,23 @@ _1_ _1_ _4_ _,_ _3_ _9_ _7_  Downloads
 [Free Download For Windows](https://secure.2checkout.com/order/cart.php?PRODS=34015782&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 [Free Download For macOS](https://secure.2checkout.com/order/cart.php?PRODS=35345930&QTY=1&AFFILIATE=108875)
 
 ![Secure](https://www.aiseesoft.com/images/product/secure.svg) 100% Secure. No Ads.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1:
 
@@ -163,26 +193,34 @@ Step 2:
 
 ![Aiseesoft iPhone Cleaner Quick Scan](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/aiseesoft-iphone-cleaner-quick-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3:
 
  When you are done selecting files, click theErase button to confirm deletion. Go to other categories, such asUninstall Applications, Delete Large Files, andClean Up Photos . Do the same procedure.
 
 ![Aiseesoft iPhone Cleaner Erase Uninstall Applications](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/aiseesoft-iphone-cleaner-erase-uninstall-applications.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4:
 
  If you wish to compress and export the WhatsApp photos from the iPhone, go to theClean Up Photos menu. Click theBackup & Compress button for lossless compression. Choose theExport & Delete option to transfer pictures to the PC and delete them from the smartphone.
 
 ![Aiseesoft iPhone Cleaner Backup Compress](https://www.aiseesoft.com/images/how-to/delete-whatsapp-photos/aiseesoft-iphone-cleaner-back-up-compress.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Apart from executing such delicate actions like removing WhatsApp images from your iPhone, iPhone Cleaner lets you easily[get rid of other unwanted apps on iPhone](https://tools.techidaily.com/aiseesoft/erase-iphone/) , including your WhatsApp, which can be a great way to free up some iPhone storage or fixing the app glitches issue.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. FAQs about Deleting WhatsApp Images
 
 How do I clear my WhatsApp storage?
@@ -238,8 +276,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +283,22 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-laptop-the-ultimate-guide-to-free-movie-decoders/"><u>[Updated] Laptop The Ultimate Guide to Free Movie Decoders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-5-methods-to-resolve-stalled-whatsapp-backups-on-android-devices/"><u>Best 5 Methods to Resolve Stalled WhatsApp Backups on Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-transfer-every-image-from-google-photos-across-devices-and-platforms/"><u>Complete Guide: How to Transfer Every Image From Google Photos Across Devices & Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620202417-effortlessly-upload-photos-from-your-android-device-to-computer-or-google-photos-detailed-instructions-inside/"><u>Effortlessly Upload Photos From Your Android Device to Computer or Google Photos - Detailed Instructions Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-c55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme C55 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c12-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C12 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/see-asmr-talents-online-for-2024/"><u>Must-See ASMR Talents Online for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stand-out-on-instagram-with-these-507-caption-inspirations/"><u>Stand Out on Instagram with These 507 Caption Inspirations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-safeguarding-your-conversations-by-backing-up-texts-from-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Safeguarding Your Conversations by Backing Up Texts From Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-saving-android-text-chats-onto-your-desktop-system/"><u>Step-by-Step Tutorial on Saving Android Text Chats Onto Your Desktop System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-5-fixes-for-paused-whatsapp-backup-issues-on-android-phones/"><u>Ultimate Guide: Top 5 Fixes for Paused WhatsApp Backup Issues on Android Phones</u></a></li>
+</ul></div>
 

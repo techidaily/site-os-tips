@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Annotate Images with These 5 iPhone Tricks
-date: 2024-11-01T17:00:08.590Z
-updated: 2024-11-04T17:03:56.614Z
+date: 2024-11-10T20:26:40.378Z
+updated: 2024-11-13T17:28:39.377Z
 tags:
   - ios
 categories:
@@ -32,9 +32,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap "Edit" to edit an image in the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, tap on the “Markup” button in the top-right corner of the screen. This looks like a pen tip, and it’s located alongside the ellipsis “…” icon.
 
 ![Tap the Markup button to add text to an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll be warned that Live Photo mode will be switched off if you continue. Hit “OK” to proceed and the Markup interface will appear.
 
@@ -52,6 +66,19 @@ Tim Brookes / How-To Geek
 
 ![Use the text formatting tools to adjust text size, color, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup5.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’re done, hit “Done” in the top-right corner of the screen. You can edit your text later by coming back to the Markup menu using the pen icon in the top-right corner of the screen. Share your image as you would normally from the Photos app and the text will be included.
 
 ##  Add Text Using Freeform
@@ -64,34 +91,13 @@ Tim Brookes / How-To Geek
 
 ![Create a new canvas in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap on the “Media” button in the bottom-right corner of the screen and choose “Photos or Videos” to select an image from your Photos library, or “Insert from...” to select an image from Files. You can also tap anywhere on the canvas and use “Paste” to add an image from your clipboard.
 
 ![Add images to your canvas in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With your image in place, tap on the “Text Box” button at the bottom of the screen. Drag the text box in place then double-tap inside it to edit your text. Use the text formatting tools above the keyboard to customize the size, color, and alignment of your text.
 
 ![Adjust text and formatting in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -99,18 +105,25 @@ Tim Brookes / How-To Geek
 
 ![Export as PDF in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, launch the Shortcuts app and create a new Shortcut. Add the “Make Image from PDF Page” action to a new workflow. Change the “PNG Image” variable to whatever you want, and the “PDF” variable to “Shortcut Input.” Add a “Save to Photo Album” action, then hit the “i” button and make sure “Show in Share Sheet” is selected. Give your Shortcut a name, like “PDF Page to Image” and save it.
 
 ![Use a Shortcuts workflow to convert PDF to image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now open the PDF, hit Share, and tap on the “PDF Page to Image” Shortcut you just made. Your image will be in Photos, where you can crop and trim it as necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Add Text Using Pages
 
@@ -122,6 +135,13 @@ Tim Brookes / How-To Geek
 
 ![Creating a new document in Pages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a new document open, hit the plus “+” button and select the media tab. You can choose “Photo or Video” to import from your Photos library, or use the “Insert from…” to add from files. You can also tap and hold and then choose “Paste” to add an image from your clipboard.
 
 ![Add media to a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages2.jpg) 
@@ -129,13 +149,6 @@ Tim Brookes / How-To Geek
  Tap on your image to select it, then tap on the “Formatting” paintbrush icon to reveal more options. Under “Arrange” choose “More Options” and then set “Text Wrap” to “None.” This instructs Pages not to move text around if it intersects with the image.
 
 ![Adjust text wrapping in a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, hit the plus “+” button again and, on the diagrams tab, select “Text” to add a text box. Double-tap within the text box and edit the text as necessary. Finish up and tap the text box to select it, then use the “Formatting” paintbrush icon to edit the font, size, color, and more on the “Text” tab.
 
@@ -165,6 +178,13 @@ Tim Brookes / How-To Geek
 
 ![insta2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Adding text to an Instagram story.
 
  Hit “Done” and then add anything else you want to your image using the included tools. When you’re ready, tap on the ellipsis “...” button in the top-right corner of the screen then select “Save” and the image will be saved to your camera roll.
@@ -185,21 +205,6 @@ Adding text to an Instagram story.
 
 ![Adding a text box to an image in Pixlr Express.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr2.jpg) 
 
- Scroll down and change the “Text” box to whatever you want to text to read. You can now adjust other aspects like the size, color, and so on. You can add a curve, warp, background, outline, and shadow to the text if you want.
-
-![Add custom text to your text box in Pixlr.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- Drag the text into place until you’re happy with it. Add more text or other effects to your image, then hit “Save” at the top of the screen to export it when you’re ready.
-
-![Export your Pixlr canvas as a JPEG.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr4.jpg) 
-
 <!-- affiliate ads begin -->
 <span id="1770776">
 					<video width="240" height="480" style="cursor:pointer"
@@ -213,14 +218,15 @@ Adding text to an Instagram story.
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
- Choose an image format, size, and quality level, and then use the “Download” button to save the image.
+ Scroll down and change the “Text” box to whatever you want to text to read. You can now adjust other aspects like the size, color, and so on. You can add a curve, warp, background, outline, and shadow to the text if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+![Add custom text to your text box in Pixlr.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr3.jpg) 
+
+ Drag the text into place until you’re happy with it. Add more text or other effects to your image, then hit “Save” at the top of the screen to export it when you’re ready.
+
+![Export your Pixlr canvas as a JPEG.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr4.jpg) 
+
+ Choose an image format, size, and quality level, and then use the “Download” button to save the image.
 
 ##  Alternatively, Use a Computer
 
@@ -243,18 +249,22 @@ Adding text to an Instagram story.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-pixelpie-cutter/"><u>[Updated] In 2024, PixelPie Cutter</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-photo-color-correction/"><u>[Updated] Mastering the Art of Photo Color Correction</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>2024 Approved Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversao-on-line-de-flv-para-vob-pelo-movavi-sem-custo-algum/"><u>Conversão On-Line De FLV Para VOB Pelo Movavi, Sem Custo Algum!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-get-your-huion-tablet-pen-working-again-with-these-5-troubleshooting-steps/"><u>Expert Tips on How to Get Your Huion Tablet Pen Working Again with These 5 Troubleshooting Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protecting-privacy-a-guide-to-encrypting-pictures-on-apples-mobile-platforms/"><u>Protecting Privacy: A Guide to Encrypting Pictures on Apple's Mobile Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionize-your-fitness-journey-using-this-simple-iphone-app-based-tracker-for-weight-management/"><u>Revolutionize Your Fitness Journey Using This Simple iPhone App-Based Tracker for Weight Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-communications-with-apples-advanced-pq3-shield-against-quantum-decryption-threats/"><u>Secure Your Communications with Apple's Advanced PQ3 Shield Against Quantum Decryption Threats</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-images-steps-to-locking-photos-on-ios-devices/"><u>Secure Your Images: Steps to Locking Photos on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-shrinking-images-on-your-ios-device/"><u>Simple Steps: Shrinking Images on Your iOS Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-sync-apple-homepod-and-televisions-seamlessly/"><u>Steps to Sync Apple HomePod and Televisions Seamlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-user-profile-service-failure-and-sign-in-issues-in-windows-10-and-11/"><u>Troubleshooting Tips: Resolving 'User Profile Service' Failure and Sign-In Issues in Windows 10 & 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-converters-handbook-from-srt-to-multiple-formats-for-2024/"><u>Ultimate Converter's Handbook From SRT to Multiple Formats for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-alternative-to-obs-the-next-gen-stream-software/"><u>[New] 2024 Approved Alternative to OBS The Next-Gen Stream Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-solo-artists-roadmap-to-auditory-fame/"><u>[New] In 2024, The Solo Artist's Roadmap to Auditory Fame</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-recollect-rivals-mobile-battlegrounds-in-samsungs-for-2024/"><u>[New] Recollect Rivals Mobile Battlegrounds in Samsungs for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[Updated] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-memory-to-moments-securely-uploading-photos-to-snapchat-for-2024/"><u>[Updated] From Memory to Moments Securely Uploading Photos to Snapchat for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-hevc-media-player-for-windows-10-watch-high-efficiency-video-coding-content-seamlessly/"><u>Best Free HEVC Media Player for Windows 10: Watch High-Efficiency Video Coding Content Seamlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-how-to-mastering-data-protection-with-googleplus-and-samsungs-integrated-auto-backup-solutions/"><u>Complete How-To: Mastering Data Protection with Google+ & Samsung's Integrated Auto Backup Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-safeguard-your-whatsapp-messages-a-2024-guide-to-securely-backing-up-chats-on-android-devices/"><u>Comprehensive Steps to Safeguard Your WhatsApp Messages: A 2024 Guide to Securely Backing Up Chats on Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-guide-how-to-seamlessly-back-up-your-samsung-device-images/"><u>Effortless Guide: How to Seamlessly Back Up Your Samsung Device Images</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-protecting-your-whatsapp-data-step-by-step-backup-processes-for-samsung-smartphones/"><u>Expert Tips for Protecting Your WhatsApp Data: Step-by-Step Backup Processes for Samsung Smartphones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-8-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 8 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-hd-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Smart 7 HD Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-data-transfer-on-your-lg-smartphone-using-cloud-pc-or-other-phones-for-backup-restore/"><u>Mastering Data Transfer on Your LG Smartphone - Using Cloud, PC, or Other Phones for Backup Restore</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-android-device-a-step-by-step-guide-using-google-backup/"><u>Reviving Your Android Device: A Step-by-Step Guide Using Google Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-data-with-ease-transferring-galaxy-s-phones-to-the-cloud/"><u>Secure Your Data with Ease: Transferring Galaxy S Phones to the Cloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-to-seamlessly-backup-phone-numbers-and-emails-from-your-androidiphone-device/"><u>Simple Guide: How to Seamlessly Backup Phone Numbers and Emails From Your Android/iPhone Device</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/step-by-step-process-for-crafting-tiktok-video-captions-for-2024/"><u>Step-by-Step Process for Crafting TikTok Video Captions for 2024</u></a></li>
 </ul></div>
 

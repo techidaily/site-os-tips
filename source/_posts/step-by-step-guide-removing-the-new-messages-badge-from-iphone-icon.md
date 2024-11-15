@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon"
-date: 2024-11-02T17:31:07.168Z
-updated: 2024-11-04T17:22:15.962Z
+date: 2024-11-06T20:24:14.429Z
+updated: 2024-11-13T20:33:02.587Z
 tags:
   - ios
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 * [How to Fix Messages Showing Unread on iPhone](https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2003-by-ldigisigner-sign-a-word-sign-a-word/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  Does the Messages app on your iPhone say you have unread messages, even though all your iMessage and SMS messages are read in the app? If the Messages badge is stuck, here's the fix to get rid of the counter. We had the same problem and found a solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Mark All Messages as Read
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  If this doesn't solve your problem and you still see a number of unread messages on the Messages app on your iPhone home screen, however, we have a solution.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Fix Messages Showing Unread on iPhone
@@ -58,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ![The response to "Hey Siri, read my messages"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/siri-read-messages.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above solution worked to fix a stubborn stuck unread counter on the messages app on an iPhone running iOS 16\. Here are some other solutions we came across during our research that you may want to try if you still have this problem:
@@ -88,20 +94,16 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions-for-2024/"><u>[New] A Step-by-Step Guide to MP4 and Beyond VLC Conversions for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-facetune-a-comprehensive-2024-user-manual/"><u>[New] Ultimate Facetune A Comprehensive 2024 User Manual</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-the-best-audio-capture-technology-for-apple-devices/"><u>[Updated] Exploring the Best Audio Capture Technology for Apple Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/assessing-the-dominance-of-splitcam-recording/"><u>Assessing the Dominance of SplitCam Recording</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortlessly-translate-any-website-mastering-chrome-firefox-and-edge-browser-tools/"><u>Effortlessly Translate Any Website: Mastering Chrome, Firefox & Edge Browser Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-razr-40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Razr 40</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/light-as-a-feather-strong-in-functionality-the-ultimate-review-of-the-acer-chromebook-r-11/"><u>Light as a Feather, Strong in Functionality: The Ultimate Review of the Acer Chromebook R 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-your-neighborhood-air-conditions-effective-methods-for-assessing-environmental-cleanlinnss/"><u>Navigating Your Neighborhood Air Conditions: Effective Methods for Assessing Environmental Cleanlinnss</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-identity-preventing-criminal-access-to-your-mobile-line/"><u>Protect Your Identity: Preventing Criminal Access to Your Mobile Line</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-sharing-across-apple-devices-connecting-your-iphone-ipad-and-mac-via-clipboard/"><u>Seamless Sharing Across Apple Devices: Connecting Your iPhone, iPad & Mac via Clipboard</u></a></li>
-<li><a href="https://os-tips.techidaily.com/set-google-maps-as-your-new-standard-navigation-app-on-iphone-step-by-step-guide/"><u>Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-sharpening-and-enhancing-fuzzy-images/"><u>Step-by-Step Guide to Sharpening and Enhancing Fuzzy Images</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stop-unexpected-camera-sounds-on-your-iphone-tutorial/"><u>Stop Unexpected Camera Sounds on Your iPhone - Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-definitive-strategy-for-uninstalling-games-from-your-steam-profile/"><u>The Definitive Strategy for Uninstalling Games From Your Steam Profile</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-precision-cuts-and-transitions-for-premier-users-for-2024/"><u>[New] Precision Cuts & Transitions for Premier Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-space-optimization-mastery-premium-storage-reviews-for-2024/"><u>[New] Space Optimization Mastery Premium Storage Reviews for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-ai-sidekick-how-does-googles-voice-assistant-stack-up-against-amazons-alexa/"><u>Choosing Your AI Sidekick: How Does Google's Voice Assistant Stack Up Against Amazon's Alexa?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-17-solutions-for-removing-picture-outlines/"><u>In 2024, Prime 17 Solutions for Removing Picture Outlines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-step-into-cinematic-world-shooting-dynamic-timelapses-on-gopro-hero5-black/"><u>In 2024, Step Into Cinematic World Shooting Dynamic Timelapses on GoPro Hero5 Black</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-10-video-editing-online-makers-is-worth-your-attention-for-2024/"><u>New Top 10 Video Editing Online Makers Is Worth Your Attention for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-instant-access-and-speedy-steps/"><u>Quick, Instant Access, and Speedy Steps.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recognizing-the-signs-when-its-time-for-a-new-iphone-battery/"><u>Recognizing the Signs: When It's Time for a New iPhone Battery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-common-issues-with-the-cash-app-a-step-by-step-guide-for-quick-recovery/"><u>Resolving Common Issues with the Cash App: A Step-by-Step Guide for Quick Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rethink-your-charge-understanding-the-truth-about-larger-phone-batteries/"><u>Rethink Your Charge: Understanding the Truth About Larger Phone Batteries</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-auditory-interface-win-for-2024/"><u>Ultimate Auditory Interface, WIN for 2024</u></a></li>
 </ul></div>
 

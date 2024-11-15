@@ -1,7 +1,7 @@
 ---
 title: "Mastering Picture Editing: The Ultimate Technique for Cropping with iPhone/iPad"
-date: 2024-10-30T16:00:59.114Z
-updated: 2024-11-04T16:28:04.266Z
+date: 2024-11-11T20:54:37.832Z
+updated: 2024-11-13T17:47:50.171Z
 tags:
   - ios
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
  Want to zoom into an image or cut an item out of view? It's easy to change the shape or proportions of a photo on iPhone or iPad by cropping using the Photos app. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Crop Images in the Photos App
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Crop Photos to a Set Aspect Ratio
@@ -54,10 +54,10 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Undo the Crop
@@ -89,18 +89,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>[New] 2024 Approved The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-muting-unwanted-noise-obs-audio-solution-for-2024/"><u>[Updated] Muting Unwanted Noise OBS Audio Solution for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-mac-superior-bandicam-alternates/"><u>2024 Approved Top 5 Mac Superior Bandicam Alternates</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-complimentary-video-players-for-h265-encoded-and-4k-resolution-streams-available-now/"><u>Best Complimentary Video Players for H.265 Encoded & 4K Resolution Streams Available Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-the-missing-d3dx925dll-issue-on-your-pc-easily/"><u>Fix the Missing d3dx9_25.dll Issue on Your PC Easily!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-c12-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia C12 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-securely-perform-a-factory-restore-on-your-dell-inspiron-notebook/"><u>How To Securely Perform a Factory Restore on Your Dell Inspiron Notebook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-stop-frequent-restarts-in-windows-11-practical-fixes-for-stability-issues/"><u>How to Stop Frequent Restarts in Windows 11 – Practical Fixes for Stability Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-voip-texts-learn-how-to-use-siri-or-standard-methods-for-iphone-voice-messaging-without-imessage/"><u>Mastering VoIP Texts: Learn How to Use Siri or Standard Methods for iPhone Voice Messaging Without iMessage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/personalize-your-iphone-experience-a-step-by-step-guide-to-changing-siris-voice/"><u>Personalize Your iPhone Experience: A Step-by-Step Guide to Changing Siri's Voice</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-how-to-permanently-erase-your-apple-id-in-just-5-methods/"><u>Simple Steps: How to Permanently Erase Your Apple ID in Just 5 Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simplify-your-contact-list-on-iphone-a-guide-to-combining-entries-and-eliminating-redundancies/"><u>Simplify Your Contact List on iPhone: A Guide to Combining Entries & Eliminating Redundancies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-savvy-saving-with-20-best-free-storage-services-up-to-1tb-for-2024/"><u>[New] Savvy Saving with 20 Best Free Storage Services, Up To 1TB for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-eyecatch-protector-cam-cover/"><u>[Updated] Eyecatch Protector Cam Cover</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audio-purging-techniques-for-streaming-success/"><u>[Updated] In 2024, Audio Purging Techniques for Streaming Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlimited-outro-options-at-no-expense-online/"><u>[Updated] Unlimited Outro Options at No Expense Online</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-k11-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo K11 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tip-navigate-with-ease-by-zooming-out-of-google-maps-using-a-single-swipe/"><u>Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embracing-health-tracking-the-exceptional-value-of-the-oura-ring-beyond-my-aversion-to-subscription-services/"><u>Embracing Health Tracking: The Exceptional Value of the Oura Ring Beyond My Aversion to Subscription Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/epic-games-launches-mobile-gaming-stores-on-android-and-ios-devices/"><u>Epic Games Launches Mobile Gaming Stores on Android & iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-tips-how-i-keep-my-iphone-free-of-memory-issues/"><u>Essential Tips: How I Keep My iPhone Free of Memory Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-latest-in-apples-ai-now-open-for-trials/"><u>Experience the Latest in Apple's AI - Now Open for Trials!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flac-and-m4b-online-konverter-kostenloses-tool-von-movavi-fur-audioformatumwandlung/"><u>Flac & M4b Online Konverter: Kostenloses Tool Von Movavi Für Audioformatumwandlung</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-started-with-your-apple-card-iphone-financing-by-ensuring-mobile-service-is-active/"><u>Get Started with Your Apple Card iPhone Financing by Ensuring Mobile Service Is Active</u></a></li>
+<li><a href="https://os-tips.techidaily.com/gone-but-not-forgotten-the-tale-of-the-initial-game-emulator-on-ios/"><u>Gone but Not Forgotten: The Tale of the Initial Game Emulator on iOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/goodbye-to-apples-pay-later-service-embracing-the-change-with-gratitude/"><u>Goodbye to Apple's Pay Later Service – Embracing the Change with Gratitude</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-tecno-spark-10c-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Tecno Spark 10C Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-local-space-management-tips-no-file-removal-max-156-chars/"><u>Innovative Windows Local Space Management Tips (No File Removal) (Max 156 Chars)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Capturing Perfect Sounds Using Your iPhone's Built-In Microphone"
-date: 2024-11-02T17:45:37.779Z
-updated: 2024-11-04T16:44:08.049Z
+date: 2024-11-09T20:50:48.001Z
+updated: 2024-11-13T16:50:20.787Z
 tags:
   - ios
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
  There's no particular recording limit in the Voice Memos app. As long as your [iPhone has enough free storage](https://extra-support.techidaily.com/updated-key-players-transforming-vr-landscape/), you can continue to record your audio.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Record Audio on iPhone With the Voice Memos App
 
  To make your first audio recording on your iPhone, open the Voice Memos app on your phone.
@@ -44,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
  In Voice Memos, at the bottom, tap the large red button to start recording.
 
 ![Tap the red button in Voice Memos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-record-audio-iphone.png) 
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your iPhone is now recording the audio with its built-in microphone. Feel free to sing a song, make a note, or speak whatever it is that you want to record; your iPhone is [listening to you](https://instagram-video-files.techidaily.com/updated-the-ultimate-selection-of-6-pioneering-instagram-reel-apps/).
 
@@ -56,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 ![Tap the "Play" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-play-button-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's how you make voice recordings on your iPhone without using a third-party app. If you need to use Voice Memos frequently, there's a way to [quickly launch it from Control Center](https://youtube-blog.techidaily.com/ed-initiate-internet-income-low-cost-youtube-channel-buys-for-2024/).
@@ -75,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
  Your recording now uses your newly specified name.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Share a Voice Recording on iPhone
@@ -89,19 +95,6 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Tap the three-dot menu icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-three-dot-button-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the menu that appears, select "Share."
 
 ![Tap the "Share" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-share-button.png) 
@@ -111,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 ![The standard iPhone "Share" options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/share-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Delete a Voice Recording on iPhone
@@ -125,16 +118,16 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Tap the trash can icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-the-delete-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Voice Memos will move your selected recordings to the "Recently Deleted" folder. The recordings will stay here for 30 days after which they will be [permanently removed](https://youtube-blog.techidaily.com/n-2024-youtubes-virality-secrets-effective-hashtag-strategies/).
 
 ![Notification that the recording has been moved to recently deleted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/recording-moved-to-recently-deleted.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you'd like to get rid of your recordings permanently without them staying for another 30 days, then tap the "Recently Deleted" folder on Voice Memos' main screen.
 
@@ -151,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
  You cannot restore your recordings once they are permanently deleted. Make sure you really want to delete them before tapping "Delete Forever"
 
 ![Tap "Delete Forever" when you're sure you want an audio file gone for good.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/delete-forever.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your recordings are now deleted.
 
@@ -175,19 +175,21 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-turn-your-instagram-stories-into-music/"><u>2024 Approved How to Turn Your Instagram Stories Into Music</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-dearmob-windows-security-the-ultimate-user-manual/"><u>Comprehensive DearMob Windows Security: The Ultimate User Manual</u></a></li>
-<li><a href="https://win-answers.techidaily.com/detailed-solution-fixing-crashes-in-mordhau-for-smoother-gameplay/"><u>Detailed Solution: Fixing Crashes in Mordhau for Smoother Gameplay</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/dvdwindows-11/"><u>DVDプレイヤーが動かないWindows 11 - エラー原因と解決法</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-p1007-drivers-easy-installation-guide/"><u>Get the Newest HP P1007 Drivers - Easy Installation Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-access-and-manipulate-icalendar-files-from-an-iosipados-device-using-dearmob-app-on-a-pc/"><u>How to Access and Manipulate iCalendar Files From an iOS/iPadOS Device Using DearMob App on a PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-move-data-from-an-iphone-to-a-windows-computer-a-step-by-step-guide-using-deedroid/"><u>How to Move Data From an iPhone to a Windows Computer: A Step-by-Step Guide Using DeeDroid</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y55s-5g-2023-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y55s 5G (2023) FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/integrating-your-apple-calendar-with-windows-via-dearmob-comprehensive-guide-for-cross-platform-syncing/"><u>Integrating Your Apple Calendar with Windows via DearMob - Comprehensive Guide for Cross-Platform Syncing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mac-gaming-recording-roblox-adventures-for-2024/"><u>Mac Gaming Recording Roblox Adventures for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-payments-on-windows-with-the-official-dearmob-security-guide/"><u>Mastering Mobile Payments on Windows with the Official DearMob Security Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-13-ultra-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi 13 Ultra, is it possible?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamlessly-sync-your-ios-camera-captures-with-windows-using-deermobs-comprehensive-guide/"><u>Seamlessly Sync Your iOS Camera Captures with Windows Using DeerMob's Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/trumps-online-presence-under-review/"><u>Trumps Online Presence Under Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-future-fb-ad-mastery-the-trends-of-24/"><u>[New] Unlocking Future FB Ad Mastery – The Trends of '24</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-earnings-expansion-the-significance-of-500-subs-club/"><u>[Updated] In 2024, Earnings Expansion The Significance of 500 Subs Club</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries/"><u>[Updated] In 2024, Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tomorrows-examination-innovative-approaches-for-2024/"><u>[Updated] Tomorrow’s Examination Innovative Approaches for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-easily-stop-unwanted-imessage-contacts-a-step-by-step-guide/"><u>1. Easily Stop Unwanted iMessage Contacts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>2024 Approved Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unveiling-top-5-strategies-boosting-your-brand-via-youtube-marketing/"><u>2024 Approved Unveiling Top 5 Strategies Boosting Your Brand via YouTube Marketing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/always-active-screen-functionality-assessing-its-effect-on-device-battery-duration/"><u>Always Active Screen Functionality: Assessing Its Effect on Device Battery Duration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-pencil-selection-tips-which-one-fits-your-needs/"><u>Apple Pencil Selection Tips: Which One Fits Your Needs?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/avoid-losing-your-valuable-data-on-whatsapp-protect-your-texts-and-multimedia-for-the-long-haul/"><u>Avoid Losing Your Valuable Data on WhatsApp: Protect Your Texts & Multimedia for the Long Haul!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bringing-classic-games-to-modern-devices-retroarch-now-available-on-ios-and-tvos/"><u>Bringing Classic Games to Modern Devices: RetroArch Now Available on iOS and tvOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/californians-can-now-use-iphones-as-official-digital-identification/"><u>Californians Can Now Use iPhones as Official Digital Identification</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-your-iphone-15-survive-a-splash-uncovering-its-water-resistance-secrets/"><u>Can Your iPhone 15 Survive a Splash? Uncovering Its Water Resistance Secrets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-screen-capturing-top-5-mac-alternatives-excluding-bandicam-for-2024/"><u>Elite Screen Capturing Top 5 Mac Alternatives Excluding Bandicam for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-best-ai-is-it-gemini-pro-or-chatgptplus/"><u>Unveiling the Best AI: Is It Gemini Pro or ChatGPT+?</u></a></li>
 </ul></div>
 

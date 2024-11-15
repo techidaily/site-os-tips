@@ -1,7 +1,7 @@
 ---
 title: Shame Mode Activated? Uncover the 10 Most Embarrassing iPhone Habits & Learn How to Break Free!
-date: 2024-10-29T16:09:35.785Z
-updated: 2024-11-04T18:08:49.719Z
+date: 2024-11-12T21:05:32.821Z
+updated: 2024-11-13T20:51:21.597Z
 tags:
   - ios
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Sent from my iPhone" email signature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-10-38-42.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The only real purpose this signature serves anymore is to preemptively excuse typos made due to typing on a mobile keyboard. Solve this by proofreading your emails before you send them, and [making use of Apple Mail’s undo send feature to save face](https://video-screen-grab.techidaily.com/groundbreaking-biodegradable-film-technology-advice-for-2024/).
 
 ## 2  Read Receipts in Messages 
@@ -43,13 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Head to Settings > Messages and disable “Send Read Receipts” to add a bit of mystery back to your conversations. This feature serves little purpose other than to make you feel pressured to respond as soon as possible. It’s anxiety you don’t need in your life.
 
 ![The message read receipts toggle in Messages settings on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-03-41.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the arrival of Rich Communication Services (RCS) support in iOS 18, read receipts work with Android users too (not just iMessage users, as was the case previously).
 
@@ -63,6 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Fortunately, there is an answer. [Create a Focus mode with the “Use Listening History” filter disabled](https://some-knowledge.techidaily.com/updated-how-to-create-time-travel-teleportation-effects/), then enable it under Control Center every time you want to pause your Apple Music history.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4  Your Lack of a Decent Contact Poster 
 
  iOS 17 introduced Contact Posters, a feature that effectively lets you [control how other iPhone users see you when exchanging contact information](https://facebook-videos.techidaily.com/updated-2023s-top-no-cost-fb-photo-and-video-crafting-for-2024/), making phone calls, and elsewhere across the operating system.
@@ -74,10 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can make multiple posters and then switch between them as you like. Make sure to enable “Name & Photo Sharing” and decide whether to share automatically with contacts or not using the “Share Automatically” setting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Forgetting to Hide Photos (and Disable the Hidden Folders) 
@@ -86,25 +93,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Hidden" album in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-05-57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is all good and well, but you can go a step further and hide the Hidden album altogether. You’ll still be able to hide photos just as you could before, except now accessing the Hidden album requires an extra step. It suggests to snoopers that you don’t actually have any hidden photos on your device in the first place.
 
  To do this, head to Settings > Photos and disable the “Show Hidden Album” toggle. To view items in this folder, you’ll need to come back to this menu and enable the album again.
 
 ![The toggle for disabling the "Hidden" album in the iPhone Photos app settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-06-29.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6  Not Cleaning Your Screen or Ports 
 
@@ -114,16 +114,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Closeup of a smartphone with water droplets on it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/black-iphone-water-droplets.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [blackzheep/Shutterstock.com](https://www.shutterstock.com/image-photo/closeup-phone-be-waterproof-shot-on-674357041)
 
  While you’re at it, [give your iPhone’s charging port a good clean out too](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/). Not only can lint and other debris lead to unsightly grime forming, but a dirty charging port could eventually [stop your device from charging properly](https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/). Use a wooden toothpick and be careful not to damage the charging contacts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  A Grubby Case or Cracked Screen Protector 
 
@@ -136,6 +136,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Tim Brookes / How-To Geek
 
  The same is true of the display. If your screen protector is broken, it’s served its purpose well. Retire it, replace it with another, and get that shiny new feeling back.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8  A Messy Home Screen 
 
@@ -151,13 +158,6 @@ Tim Brookes / How-To Geek
 
 ![Unsightly notification badges in iPhone apps on a Home Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-11-55.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Notification badges can also lose all meaning if you never dismiss the outstanding notifications. Head to Settings > Notifications, tap on an app and then disable the notification badge to hide your unread count for good.
 
 ## 9  Not Using Focus Modes 
@@ -170,20 +170,14 @@ Tim Brookes / How-To Geek
 
 ![The toggle for enabling the Driving focus automatically in iPhone Focus settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-13-01.png) 
 
- On top of this, contacts will be able to see you’ve silenced notifications when trying to send you messages so they have a heads-up that you’re not necessarily able to get back to them right away.
-
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ On top of this, contacts will be able to see you’ve silenced notifications when trying to send you messages so they have a heads-up that you’re not necessarily able to get back to them right away.
 
 ## 10  Bonus: Not Locking and Hiding Apps 
 
@@ -210,19 +204,18 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-from-idea-to-recording-a-comprehensive-guide-to-podcast-scripting/"><u>[New] From Idea to Recording A Comprehensive Guide to Podcast Scripting</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unbox-and-discover-samsungs-ue590-4k-freesync-marvel/"><u>[New] Unbox and Discover Samsung's UE590 4K, FreeSync Marvel</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-enhance-your-experience-with-mi-11-screen-capture-guide/"><u>2024 Approved Enhance Your Experience with Mi 11 Screen Capture Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-innovative-game-capturing-unlocking-the-6-key-approaches-in-minecraft/"><u>2024 Approved Innovative Game Capturing Unlocking the 6 Key Approaches in Minecraft</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-restoring-and-backing-up-your-iphone-using-itunes-with-images/"><u>Complete Guide: Restoring and Backing Up Your iPhone Using iTunes with Images</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-saving-and-recovering-your-safari-markers-on-ios-devices/"><u>Complete Guide: Saving & Recovering Your Safari Markers on iOS Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-simulators-for-sonys-playstation-3-games-pc/"><u>Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tips-on-retrieving-your-lost-icloud-contacts-images-and-texts/"><u>Easy Tips on Retrieving Your Lost iCloud Contacts, Images, and Texts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/grau-gmbhs-video-restoration-suite-comprehensive-hardware-and-software-fixes/"><u>Grau GmbH's Video Restoration Suite: Comprehensive Hardware and Software Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-viber-calls-from-your-iphone-without-a-backup-a-three-step-guide/"><u>How to Retrieve Lost Viber Calls From Your iPhone Without a Backup: A Three-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-saving-and-recovering-iphone-data-via-itunes-including-photos/"><u>Step-by-Step Tutorial on Saving & Recovering iPhone Data via iTunes, Including Photos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-solutions-a-comprehensive-tutorial-on-enteringexiting-iphone-recovery-mode/"><u>Unlocking Solutions: A Comprehensive Tutorial on Entering/Exiting iPhone Recovery Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-must-see-vr-movies-for-film-enthusiasts/"><u>2024 Approved Must-See VR Movies for Film Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>2024 Approved Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effortlessly-swap-photos-movies-and-tunes-between-ios-devices-and-desktops-with-mediatrans-expertise/"><u>Effortlessly Swap Photos, Movies & Tunes Between iOS Devices & Desktops with MediaTrans Expertise</u></a></li>
+<li><a href="https://os-tips.techidaily.com/erase-your-apple-devices-web-tracks-comprehensive-instructions-for-safari-maciphone/"><u>Erase Your Apple Device's Web Tracks: Comprehensive Instructions for Safari, Mac/iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620240011-get-the-beat-on-your-device-discover-how-to-easily-move-tunes-from-an-ipod-touchshufflenano-no-itunes-required/"><u>Get the Beat on Your Device: Discover How to Easily Move Tunes From an iPod Touch/Shuffle/Nano - No iTunes Required</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968596867-get-the-latest-toshiba-bluetooth-software-safe-download-links-here/"><u>Get the Latest Toshiba Bluetooth Software - Safe Download Links Here</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-clear-your-media-top-5-ways-to-remove-images-from-whatsapp-across-iphone-and-android-devices/"><u>How to Clear Your Media: Top 5 Ways to Remove Images From WhatsApp Across iPhone & Android Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia Phone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-text-to-video/"><u>In 2024, What Is AI Text to Video?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242029-mastering-cache-management-erase-browsing-data-from-chrome-and-safari-on-your-ipad-effortlessly/"><u>Mastering Cache Management: Erase Browsing Data From Chrome & Safari on Your iPad Effortlessly!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-iphones-capacity-with-top-ranked-storage-management-apps/"><u>Maximize Your iPhone's Capacity with Top-Ranked Storage Management Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-freeing-your-device-from-the-icloud-activation-restriction/"><u>Step-by-Step Guide: Freeing Your Device From the iCloud Activation Restriction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskmasters-toolkit-best-window-based-productivity-apps-unveiled/"><u>Taskmaster's Toolkit: Best Window-Based Productivity Apps Unveiled</u></a></li>
 </ul></div>
 

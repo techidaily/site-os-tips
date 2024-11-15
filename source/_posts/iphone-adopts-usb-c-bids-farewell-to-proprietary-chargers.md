@@ -1,7 +1,7 @@
 ---
 title: IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers
-date: 2024-10-29T16:09:19.676Z
-updated: 2024-11-04T18:08:24.040Z
+date: 2024-11-11T21:10:24.410Z
+updated: 2024-11-13T18:30:29.809Z
 tags:
   - ios
 categories:
@@ -37,6 +37,19 @@ Apple
 
  It’s now easier to carry a single cable wherever you go to charge your iPhone, iPad, MacBook, Switch, Android tablet, Windows laptop, and so on. The new USB-C iPhones can even be used to charge the Apple Watch and AirPods with the right adapter (and who knows what else, once the technology is put through its paces).
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  One Connector, Two Standards
 
  If you’re thinking of picking up an iPhone 15, there is a bit of bad news to process too. Though both the base and Pro models introduced in 2023 include a USB-C connector, only the iPhone 15 Pro and Pro Max are capable of USB 3.0 speeds.
@@ -45,22 +58,15 @@ Apple
 
 ![iPhone 15 charging via USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_usb-c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  This shouldn’t affect charging, which Apple says will net you 50% charge in 30 minutes when using a 20w charger or better (for both base and Pro models) so if you never use a cable to transfer data then you likely won’t notice any speed limitations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How the EU Forced Apple’s Hand
@@ -74,16 +80,10 @@ Apple
 ![AirPods Pro charging via iPhone 15 over USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_airpods.png) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple
@@ -101,10 +101,10 @@ Apple
  On top of a compliant cable (which Apple should include in the box), you’ll need a suitably powerful 20w or better USB-C adapter to fast charge your iPhone. Check out [our list of best phone chargers](https://some-techniques.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc-for-2024/) and [best portable battery packs](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) for some ideas.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About Your Old Lightning Cables?
@@ -144,17 +144,22 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-tips-for-crafting-gifs/"><u>[New] In 2024, Essential Tips for Crafting GIFs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-master-screen-recording-on-windows-macos-and-android-devices/"><u>[New] In 2024, Master Screen Recording on Windows, macOS, and Android Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-shaping-stories-the-art-of-deformed-photographyvideo-words/"><u>[New] In 2024, Shaping Stories The Art of Deformed Photography/Video Words</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-histology-streams-for-academics/"><u>[New] Top 10 Histology Streams for Academics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-iphone-experience-seamlessly-zooming-in-and-out-using-these-5-effective-strategies/"><u>Boost Your iPhone Experience: Seamlessly Zooming in and Out Using These 5 Effective Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-secure-your-data-by-moving-old-phone-passwords-to-your-new-iphone/"><u>Easy Steps: Secure Your Data by Moving Old Phone Passwords to Your New iPhone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-the-voice-recorder-showdown-understanding-vocaroo-and-its-rivals/"><u>In 2024, The Voice Recorder Showdown Understanding Vocaroo and Its Rivals</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-se-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone SE Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-samsung-galaxy-s24-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Samsung Galaxy S24 has been deleted</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-guide-how-beginners-can-reset-their-iphones-email-password-swiftly/"><u>Simple Guide: How Beginners Can Reset Their iPhone's Email Password Swiftly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-simple-ways-to-connect-your-ipad-to-computermactv/"><u>Top 6 Simple Ways to Connect Your iPad to Computer/Mac/TV</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-and-engage-the-ultimate-seo-playbook-for-podcasters-for-2024/"><u>[New] Elevate and Engage The Ultimate SEO Playbook for Podcasters for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-insights-the-best-apps-to-supercharge-your-profile/"><u>[New] Instagram Insights The Best Apps to Supercharge Your Profile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[New] The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-audio-and-visual-quality-in-youtube-videos/"><u>[Updated] Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-power-of-design-in-audio-branding/"><u>In 2024, Unlock the Power of Design in Audio Branding</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-look-at-apples-latest-innovations-from-the-202-similar-problem-for-us-audience/"><u>Inside Look at Apple's Latest Innovations From the 202 # Similar Problem for U.S. Audience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipads-and-their-capabilities-unveiled-successful-hard-drive-reformatting-vs-ongoing-issues-in-advanced-computer-operations/"><u>IPads and Their Capabilities Unveiled: Successful Hard Drive Reformatting Vs. Ongoing Issues in Advanced Computer Operations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-applications-exclusively-supported-on-the-upcoming-apple-vision-pro/"><u>IPhone & iPad Applications: Exclusively Supported on the Upcoming Apple Vision Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/june-showdown-apple-unveils-whats-next-at-the-2024-worldwide-developers-conference/"><u>June Showdown: Apple Unveils What's Next at the 2024 Worldwide Developers Conference</u></a></li>
+<li><a href="https://os-tips.techidaily.com/latest-updates-unveiled-netflix-shifts-from-basic-expert-iphone-repair-solutions-your-weekly-tech-news-digest/"><u>Latest Updates Unveiled: Netflix Shifts From Basic, Expert iPhone Repair Solutions – Your Weekly Tech News Digest</u></a></li>
+<li><a href="https://os-tips.techidaily.com/macos-compatible-printer-installation-tutorial-what-you-need-to-know/"><u>MacOS Compatible Printer Installation Tutorial: What You Need To Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/make-moves-on-mobile-snag-top-deals-for-iphone-games-with-todays-prime-day-offerings/"><u>Make Moves on Mobile - Snag Top Deals for iPhone Games with Today's Prime Day Offerings!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-efficiency-transforming-your-day-with-the-power-of-strategic-time-management/"><u>Mastering Efficiency: Transforming Your Day with the Power of Strategic Time Management</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-handbook-for-persistent-csgo-game-crashes-step-by-step/"><u>Quick-Fix Handbook for Persistent CSGO Game Crashes – Step by Step</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-system-restore-for-troubleshooting-your-windows-10-pc/"><u>The Ultimate Guide to System Restore for Troubleshooting Your Windows 10 PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-safe-speed-optimized-video-editors-for-windows-1110-enthusiasts/"><u>The Ultimate Selection of Safe, Speed-Optimized Video Editors for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-url-indexing-unlocking-the-potential-of-seo-mastery-with-powersuite-tools/"><u>Ultimate URL Indexing: Unlocking the Potential of SEO Mastery with PowerSuite Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-11-02T16:27:17.657Z
-updated: 2024-11-04T18:10:58.116Z
+date: 2024-11-11T20:51:47.502Z
+updated: 2024-11-13T17:30:50.380Z
 tags:
   - ios
 categories:
@@ -18,18 +18,18 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 * [Solving Face ID Issues](https://tech-savvy.techidaily.com/the-comprehensive-guide-to-scholarly-writing-and-ai/)
 * [Unlock Your iPhone With an Apple Watch, Too](https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Set up a custom command within Voice Control settings to execute the sequence of button taps required to enter your passcode on your iPhone lock screen, then trigger it with a phrase. Alternatively, avoid putting iPhone security at risk and instead tweak Face ID to improve performance.
 
  A seemingly useful trick for unlocking your iPhone has been doing the rounds on social media which allows you to unlock your iPhone with a simple voice command. While it might sound handy, it's one tip you should probably avoid if you want to keep your device secure.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Unlocking Your iPhone With Your Voice
 
@@ -47,25 +47,18 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap on "Action" then select "Run Custom Gesture" and (using the marks you made earlier) tap out the unlock sequence used to enter your passcode. Now tap "Save" and then hit the "New Command" button to go back to the previous screen. Hit "Save" one more time and your gesture will be saved.
 
 ![Run custom gesture using Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/run_custom_gesture.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Voice Unlocking Is a Bad Idea
 
@@ -86,13 +79,20 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Unlock Your iPhone With an Apple Watch, Too
 
@@ -115,19 +115,20 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-how-to-restore-erased-imessages-on-ipads-including-air-and-pro-models/"><u>Complete Tutorial: How to Restore Erased iMessages on iPads, Including Air and Pro Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-unveiling-the-secrets-of-tenorshare-ultdata/"><u>Comprehensive Guide: Unveiling the Secrets of Tenorshare UltData</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-for-restoring-erased-imessages-on-ios-devices/"><u>Effective Techniques for Restoring Erased iMessages on iOS Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-pova-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Pova 5 Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-deciphering-intermittent-stoppages-in-photobooth-videos/"><u>In 2024, Deciphering Intermittent Stoppages in Photobooth Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-art-of-restoring-missing-direct-message-threads-in-tiktok-expert-techniques-for-ios-and-android-devices/"><u>Master the Art of Restoring Missing Direct Message Threads in TikTok - Expert Techniques for iOS & Android Devices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-art-of-storytelling-10-famous-movies-shaped-by-final-cut-pros-creative-freedom-for-2024/"><u>New The Art of Storytelling 10 Famous Movies Shaped by Final Cut Pros Creative Freedom for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-konverteren-van-mov-naar-webm-een-gratuite-flexibele-losung-mit-movavi/"><u>Online Konverteren Van MOV Naar WEBM: Een Gratuite Flexibele Lösung Mit Movavi</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-deleted-imessage-conversations-on-your-iphone-expert-tips-and-tricks/"><u>Recovering Deleted iMessage Conversations on Your iPhone - Expert Tips and Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/sayonara-to-sluggish-keys-top-tricks-for-win-11s-faster-typing/"><u>Sayonara to Sluggish Keys: Top Tricks for Win 11'S Faster Typing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-complete-breakdown-of-iphone-14s-battery-challenges-and-how-to-address-them/"><u>The Complete Breakdown of iPhone 14'S Battery Challenges and How to Address Them</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-wet-proof-smart-watches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Wet-Proof Smart Watches - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[Updated] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-best-14-youtube-gaming-video-ideas-to-boost-gaming-channels-for-2024/"><u>[Updated] Best 14 YouTube Gaming Video Ideas to Boost Gaming Channels for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>[Updated] Conciseness in Content Editing Your YouTube Videos Smartly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>[Updated] Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>[Updated] Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-android-file-management-apps-reviewed-find-your-perfect-match/"><u>Best Android File Management Apps Reviewed: Find Your Perfect Match</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-top-rated-tracking-applications-finding-your-lost-android-device/"><u>Best Top-Rated Tracking Applications: Finding Your Lost Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-reviving-a-dead-phone-battery-proven-methods-to-bring-your-device-back-to-life/"><u>Expert Tips for Reviving a Dead Phone Battery: Proven Methods to Bring Your Device Back to Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-and-fix-broken-android-phones-expert-techniques-for-data-preservation/"><u>How to Restore and Fix Broken Android Phones: Expert Techniques for Data Preservation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-a2-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo A2 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-ace-2-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Ace 2 Pro FRP Without Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-rooting-on-android-a-comprehensive-tutorial-using-kingo-root-software/"><u>Mastering Rooting on Android: A Comprehensive Tutorial Using Kingo Root Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigating-emergency-bootstraps-the-ultimate-tutorial-on-operating-android-devices-in-safe-mode/"><u>Navigating Emergency Bootstraps: The Ultimate Tutorial on Operating Android Devices in Safe Mode</u></a></li>
+<li><a href="https://os-tips.techidaily.com/repair-guide-how-to-mend-a-damaged-smartphone-display/"><u>Repair Guide: How to Mend a Damaged Smartphone Display</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/sound-surprises-10-androidios-audio-twisters-for-2024/"><u>Sound Surprises 10 Android/iOS Audio Twisters for 2024</u></a></li>
 </ul></div>
 

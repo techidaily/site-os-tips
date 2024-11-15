@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings"
-date: 2024-11-02T16:26:52.892Z
-updated: 2024-11-04T17:01:45.291Z
+date: 2024-11-09T17:34:37.281Z
+updated: 2024-11-13T17:10:49.325Z
 tags:
   - ios
 categories:
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Selecting the 'Add New Wallpaper' option under Wallpaper settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-add-new-wallpaper-in-wallpaper-settings-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, press and hold your lock screen until you see "Customize," then click the "+" icon.
 
 ![Creating a new Lock Screen on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-home-screen-1.jpg) 
@@ -65,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Browsing the available wallpaper options on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wallpaper-settings.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Filters can help you enhance the appearance of the wallpaper, while the [depth effect allows you to control the dimensional arrangement of your Lock Screen](https://android-frp.techidaily.com/about-motorola-moto-g13-frp-bypass-by-drfone-android/), bringing images to the foreground or background of the clock and other widgets.
 
  You can also choose a Photo Shuffle, which uses a slideshow of your choice of images as your wallpaper. You can set the shuffle frequency to either hourly, daily, on lock, or tap.
@@ -83,15 +69,28 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Using the customize wallpaper toggle to modify an emoji wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/customize-wallpaper-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You must create a new Lock Screen if you want to change your wallpaper from one form to another. For instance, If you want to change your wallpaper from an emoji to a photo, you cannot do this by customizing an existing Lock Screen.
 
  Once your lock screen wallpaper is set, you have to decide if you want a matching Home Screen, as you can choose[separate Lock Screen and home screen wallpapers](https://easy-unlock-android.techidaily.com/introducing-the-asus-nuc-14-proplus-meteor-lake-cpus-and-advanced-features-at-only-860/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Change Your Preferred Clock Style
 
@@ -101,22 +100,28 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Changing the font and color of the clock on your iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-font-color.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Furthermore, you can click the Globe icon to select from the numeral options of Arabic, Arabic Indic, Devanagari, Khmer, and Burmese. Depending on your chosen wallpaper, you can also set the depth effect (as mentioned earlier).
 
 ![Selecting different numeral styles for the clock on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-numerical-option-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Some Widgets
@@ -135,9 +140,23 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Selecting one of the three notification display styles on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/notification-display-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also [disable certain apps from sending lock screen notifications](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-without-previous-owner-by-drfone-ios/) to prevent them from waking your iPhone or iPad by lighting your screen up. To do this, go to "Settings," tap on "Notifications," and select the app you want to stop from sending lock screen notifications. Once selected, disable the Lock Screen under Alerts.
 
 ![Disable certain types of notifications from waking your iPhone when locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/disable-lock-screen-notifications-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Link Your Lock Screen to a Focus Mode
 
@@ -157,46 +176,33 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Choosing which functions to allow when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/allow-accessories-when-iphone-is-locked.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Furthermore, you can enable or disable notification previews on your lock screen. To do this, go to "Settings" and tap "Notifications."
 
 ![iPhone Notfications option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-notfications-in-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then select "Show Previews."
 
 ![Toggle notification previews on or off in the iPhone Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-show-previews-in-notification-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Set this to "When Unlocked" or "Never."
 
 ![Turn on notification previews when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-when-unlocked-in-show-previews.jpg) 
 
- Enabling "When Unlocked" shows your iPhone notifications once you have verified your identity using Face ID or Touch ID.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Enabling "When Unlocked" shows your iPhone notifications once you have verified your identity using Face ID or Touch ID.
 
 ##  Your Lock Screen Is the Point of First Contact
 
@@ -219,24 +225,14 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-spinning-stars-olympic-ice-celebrations/"><u>[New] In 2024, Spinning Stars Olympic Ice Celebrations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-googles-augmented-reality-adornments/"><u>[New] Navigating Google's Augmented Reality Adornments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-nextgen-tv-including-the-best-local-channels-online/"><u>[New] NextGen TV Including the Best Local Channels Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expressive-mac-screenshot-recorder-with-soundtrack/"><u>[Updated] In 2024, Expressive Mac Screenshot Recorder with Soundtrack</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-best-free-online-solutions-for-instantaneous-gif-conversion/"><u>2024 Approved Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hairstyles-for-visual-gurus/"><u>2024 Approved Hairstyles for Visual Gurus</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-innovative-hdr-portrait-techniques/"><u>2024 Approved Pushing Boundaries Innovative HDR Portrait Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-watch-an-ideal-secondhand-gift-option/"><u>Apple Watch: An Ideal Secondhand Gift Option</u></a></li>
-<li><a href="https://os-tips.techidaily.com/capturing-ideas-and-emotions-expert-tips-on-utilizing-apples-journal-application-for-ios-devices/"><u>Capturing Ideas and Emotions: Expert Tips on Utilizing Apple's Journal Application for iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-nomad-stand-one-max-assessment-analyzing-the-triple-threat-magsafe-charging-station/"><u>Comprehensive Nomad Stand One Max Assessment: Analyzing the Triple-Threat MagSafe Charging Station</u></a></li>
-<li><a href="https://os-tips.techidaily.com/daily-assistant-showdown-claude-vs-chatgpt-which-one-reigns-supreme/"><u>Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/date-set-apples-anticipated-iphone-15-reveal-is-officially-scheduled-for-insert-event-date/"><u>Date Set! Apple's Anticipated iPhone 15 Reveal Is Officially Scheduled for [Insert Event Date]</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-hidden-gems-explore-these-10-impressive-ipad-tricks-for-enhanced-productivity-and-fun/"><u>Discover Hidden Gems: Explore These 10 Impressive iPad Tricks for Enhanced Productivity and Fun</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-live-picture-lock-screens-can-transform-your-iphone-experience-a-game-changing-oversight/"><u>Discover How Live Picture Lock Screens Can Transform Your iPhone Experience – A Game-Changing Oversight!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-hidden-gems-ios-17s-top-ten-upgrades-revealed/"><u>Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/embracing-the-future-with-my-magneatic-phone-wallet-top-reasons-that-have-changed-everything/"><u>Embracing the Future with My Magneatic Phone Wallet: Top Reasons That Have Changed Everything</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-complete-transformation-handbook-using-morphvox-tech/"><u>In 2024, Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-to-fix-speaker-distortion-on-windows-107/"><u>Solutions to Fix Speaker Distortion on Windows 10/7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stellarworkspace-unified-elite-full-hd-screens/"><u>StellarWorkspace Unified, Elite Full HD Screens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eats-and-bands-how-to-upload-music-online-for-2024/"><u>[New] Beats & Bands How to Upload Music Online for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-building-a-thriving-igtv-following-the-ultimate-guide-for-2024/"><u>[Updated] Building a Thriving IGTV Following The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expert-tips-to-zoom-in-on-your-favorite-roblox-locales/"><u>Expert Tips to Zoom In on Your Favorite Roblox Locales</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-boost-efficiency-learning-free-timers-functionality/"><u>In 2024, Boost Efficiency Learning FREE Timers' Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-making-gifs-directly-from-an-iphone-tips-and-tricks/"><u>Mastering the Art of Making GIFs Directly From an iPhone: Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-journey-discover-how-to-share-your-google-map-route-for-a-seamless-travel-experience/"><u>Maximize Your Journey: Discover How to Share Your Google Map Route for a Seamless Travel Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-awesome-experience-with-the-paprika-app-why-you-shouldnt-wait/"><u>My Awesome Experience with the Paprika App - Why You Shouldn't Wait</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-desire-for-a-cosmic-galaxy-ring-denied-by-samsungs-design/"><u>My Desire for a Cosmic Galaxy Ring Denied by Samsung's Design</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/optimized-lights-optimal-drives-the-best-upgrades/"><u>Optimized Lights, Optimal Drives: The Best Upgrades</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Dawn of Ubiquitous Smartphone Conformity Across Platforms
-date: 2024-11-03T16:46:30.780Z
-updated: 2024-11-04T16:31:41.590Z
+date: 2024-11-06T19:44:48.514Z
+updated: 2024-11-13T18:28:27.820Z
 tags:
   - ios
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For those of us who witnessed the incredible explosion of smartphone popularity in the early 2000s, it's hard to believe we're nearly two decades removed from the original iPhone announcement. There's been an astounding number of devices launched since then, and most of them have been very unique. Over time, like jagged rocks going through a tumbler, that uniqueness has been polished away.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Sea of Sameness
 
  In the last few years, the major players in smartphones have seemed to settle on design identities for their devices. The year-over-year design changes are so minuscule that we're [millimeters away from being able to use last-generation cases on new phones](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-x100-pro-to-mac-drfone-by-drfone-android/). Apple and Samsung are two of the biggest offenders, but Google is starting to do the same thing.
@@ -33,27 +40,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Samsung Galaxy generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-generations.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For Samsung, I was able to go back three generations before finding discernable changes. While the company has maintained the same arrangement of five cameras and a flash since the Galaxy S20 Ultra, it played with the housing for a couple of years. That is until the S22 Ultra, which has now been repeated three times.
 
 ![Google Pixel generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pixel-generations.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Google is definitely the least offensive of the three, but I get the sense this is just the beginning. Google had a two-tone aesthetic going from the OG Pixel to the Pixel 3, then an iPhone-esque look with the Pixel 4 and Pixel 5, and we've seen this camera bar design for three generations now. The same design has also been used for the Pixel 6a and Pixel 7a (and almost certainly for the Pixel 8a as well).
 
  That's the smartphone landscape of today. There are, of course, many other great devices from a variety of manufacturers, but Apple, Samsung, and Google are responsible for a majority of the phones seen out in the wild in the U.S.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  When Phones Were Fun
 
@@ -61,21 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The other part of the equation was U.S. carriers. AT&T, Sprint, T-Mobile, and Verizon all wanted to have unique offerings. Apple had the power to say no to these requests, but companies like Samsung, who didn't have that popularity yet, had to play ball. The Samsung Galaxy S series from 2010 is the perfect example.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![Samsung Galaxy S 2010 variants.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-s-variants.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You wouldn't know it by looking, but the four phones in the image above are all from the same series. Known in most places as simply the "Galaxy S," the U.S. saw four models with not only unique names but completely unique designs. It's hard to imagine Samsung creating four separate looks for the Galaxy S24 series nowadays.
 
@@ -83,7 +69,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone generations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-variants.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tha image above shows a lot more variety than seen in the five generations following the iPhone X. The current state of smartphone design feels pretty uninspired, but there are some legitimate reasons why things have moved this way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Did We Get Here?
 
@@ -110,16 +110,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rime-editing-choosing-the-best-for-youtube-for-2024/"><u>[New] Prime Editing Choosing the Best For YouTube for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>[Updated] Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-look-back-the-evolution-of-apple-watch-ultra-after-its-first-year-in-the-market/"><u>A Look Back: The Evolution of Apple Watch Ultra After Its First Year in the Market</u></a></li>
-<li><a href="https://os-tips.techidaily.com/activating-your-iphones-flashlight-with-a-simple-tap-on-the-back-a-comprehensive-guide/"><u>Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-solutions-win-discover-why-a-cost-effective-phone-stand-should-be-on-your-radar/"><u>Affordable Solutions Win: Discover Why a Cost-Effective Phone Stand Should Be on Your Radar</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-xr-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone XR? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breaking-barriers-how-the-iphone-is-expanding-globally-while-maintaining-its-presence-in-the-us/"><u>Breaking Barriers: How the iPhone Is Expanding Globally While Maintaining Its Presence in the U.S.</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-grayed-out-delete-feature-for-windows-11-pins/"><u>Breaking Grayed-Out Delete Feature for Windows 11 PINs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-complete-youtubers-guide-to-editing-in-premiere-pro-for-2024/"><u>The Complete Youtuber's Guide to Editing in Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-your-discord-voice-call/"><u>Troubleshooting Guide: Fixing Issues with Your Discord Voice Call</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-sony-xperia-1-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Sony Xperia 1 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-windows-8-screen-snapping-tools/"><u>[New] 2024 Approved Windows 8 Screen Snapping Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ion-air-pro-3-action-camera-review-for-2024/"><u>[New] ION Air Pro 3 Action Camera Review for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-symphony-of-well-being-learn-from-asmr/"><u>[Updated] In 2024, The Symphony of Well-Being – Learn From ASMR</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/digital-dominion-for-techno-gamers-for-2024/"><u>Digital Dominion for Techno Gamers for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/get-your-free-ultra-hd-media-player-enjoy-high-definition-on-any-pc/"><u>Get Your Free Ultra-HD Media Player: Enjoy High Definition on Any PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/integrating-chatgpt-into-your-apple-watch-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-screen-time-feature-malfunction-upcoming-repair-by-apple/"><u>IPhone Screen Time Feature Malfunction: Upcoming Repair by Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-video-to-audio-conversion-guide-simple-steps-to-isolate-sound/"><u>IPhone Video-to-Audio Conversion Guide: Simple Steps to Isolate Sound</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphoneipadmac-message-recall-techniques-the-ultimate-how-to/"><u>IPhone/iPad/Mac Message Recall Techniques - The Ultimate How-To</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-it-feasible-to-switch-from-icloud-to-google-drive-my-experience/"><u>Is It Feasible to Switch From iCloud to Google Drive? My Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/magsafe-era-ends-apple-halts-production-of-magsafe-power-adapter-and-dual-charger-pad/"><u>MagSafe Era Ends: Apple Halts Production of MagSafe Power Adapter & Dual Charger Pad</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-handbrake-issues-how-to-successfully-convert-videos-despite-refusal-errors/"><u>Troubleshooting Handbrake Issues: How to Successfully Convert Videos Despite Refusal Errors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/uncovering-10-discreet-instagram-story-aficionados-for-2024/"><u>Uncovering 10 Discreet Instagram Story Aficionados for 2024</u></a></li>
 </ul></div>
 

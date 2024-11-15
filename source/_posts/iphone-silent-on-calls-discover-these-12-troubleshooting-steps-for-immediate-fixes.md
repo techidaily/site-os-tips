@@ -1,7 +1,7 @@
 ---
 title: IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!
-date: 2024-11-02T18:13:17.309Z
-updated: 2024-11-04T17:22:18.628Z
+date: 2024-11-11T17:54:15.624Z
+updated: 2024-11-13T16:37:20.023Z
 tags:
   - ios
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Your iPhone can do a lot more than take calls, but good old-fashioned phone calls are central to the smartphone experience. Sometimes your iPhone won't ring at all or rings but doesn't make a sound. Let's look at what you can do to get things working again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check Your iPhone Isn't on Mute
 
  If your iPhone is ringing but doesn't make any sound, it's probably on mute (also called silent mode). You can [toggle mute on or off](https://some-guidance.techidaily.com/2024-approved-techniques-for-transferring-media-between-two-iphones/) using the flip switch on the left-hand side of the device. You should see a notification at the top of the screen that informs you of your choice. When you switch to mute mode, you should feel a haptic tap.
@@ -45,13 +52,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidaily.com/2024-approved-mastery-techniques-for-embedding-social-media-live-videos/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Disable Focus Modes like Do Not Disturb
 
  You can [use Focus to prevent distractions](https://youtube-clips.techidaily.com/2024-approved-designing-distinctive-denouements/) from interrupting you while you work, exercise, drive, or sleep. Focus can be set up under Settings > Focus and controlled using the "Focus" button in Control Center (swipe down from the top-right-hand corner of your iPhone's screen).
@@ -62,29 +62,22 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
  Some Focus modes can be triggered automatically whenever you start a certain activity. For example, if you have set up the Fitness profile within Focus settings calls may be silenced whenever you [start any type of workout on your Apple Watch](https://on-screen-recording.techidaily.com/new-elite-ipad-speech-recording-tools-3/). You can disable a mode, or set specific parameters to avoid it blocking your calls.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check You're Reachable via Cellular or Wi-Fi Calls
 
  Not having cellular reception will prevent people from being able to reach you, so consider that a possibility if you're not receiving calls. You can see your cellular reception in the top-left corner of the screen at most times. On some devices, you may need to swipe down from the top-right side of the screen to enter Control Center to see more information.
 
 ![Check Wi-Fi Calling and cellular reception on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wi-fi_calling_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In areas of poor or no signal where you have Wi-Fi reception, you may also be able to [use iPhone Wi-Fi calling](https://screen-capture.techidaily.com/updated-2024-approved-finding-the-ultimate-cam-choice-post-manycam/). This will route standard cellular calls through the internet instead. For this to work you'll need to enable Wi-Fi calling under Settings > Phone > Wi-Fi Calling.
 
 ![Toggle Wi-Fi Calling on or off on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/wifi_calling_toggle.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Make Sure Your Mobile Plan is Active
 
@@ -94,13 +87,6 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
  If everything else seems normal, it's probably worth checking with your provider that your mobile plan is still active. You can usually do this using your carrier's iPhone app or by logging in on the web wherever you have Wi-Fi. Once you've paid your service should return to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Disable Calls on Other Devices
 
  Your iPhone can pass calls on to your other devices whenever you're in range. For example, if your iPhone is locked in your pocket but you're using your Mac, [the call should be passed on to your Mac](https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-11-5g-frp-in-3-different-ways-by-drfone-android/). To prevent a chaotic scenario where all of your connected devices ring at once, your iPhone should remain silent while your Mac rings.
@@ -108,6 +94,13 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
  This feature doesn't always work properly and might be something you're not interested in using. Head to Settings > Phone > Calls on Other Devices and disable the feature entirely if [you only want to use your iPhone for calls](https://screen-sharing-recording.techidaily.com/high-quality-youtube-recording-techniques/). If you have any specific devices that you want to prevent receiving calls, you can turn them off here too.
 
 ![Disable or allow calls on other Apple devices in iPhone Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/allow_calls_other_devices_iphone.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Caller Isn't Blocked by Mistake
 
@@ -117,13 +110,6 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Unblock a caller your iPhone contacts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/unblock_caller_iPhone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also review your full list of blocked contacts under Settings > Phone > Blocked Contacts.
 
 ##  Disable the "Silence Unknown Callers" Option
@@ -132,24 +118,44 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Toggle the option to "Silence Unknown Callers" in the iPhone Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/silence_unknown_callers_iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Any calls from these numbers that are silenced will be sent to voicemail. You'll still see the call in your call log under Phone > Recent.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Disable Any Call Filtering Apps
 
  Call filtering apps like [Truecaller](https://apps.apple.com/us/app/truecaller-caller-id-block/id448142450) and [Hiya](https://apps.apple.com/us/app/hiya-spam-blocker-caller-id/id986999874) can help identify mystery numbers and automatically block spam callers. They may also block legitimate callers, so you might want to try disabling them or using in-app whitelisting tools for certain numbers. Instructions and features will differ on a per-app basis, depending on what you have installed. [Learn more about combatting spam with call filtering apps](https://youtube-tips.techidaily.com/ed-elevate-video-content-with-proven-strategies-for-youtube-shorts-growth/).
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Disable Call Forwarding
 
  Call forwarding allows you to pass calls on to another number automatically. With the setting enabled, you won't receive phone calls on your iPhone but rather on the number you've nominated to forward to instead. Check your call forwarding preferences under Settings > Phone > Call Forwarding.
 
 ![Turn off Call Forwarding on your iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/call_forwarding_iphone.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check a Contact's Custom Ringtone
 
@@ -158,26 +164,26 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 ![Check any custom ringtones against a contact card on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/custom_ringtone_iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Remember that musical ringtones that rely on Apple Music need to be saved offline on your device to work. To do this, find the track in question, tap and hold, then select "Download" from the menu that appears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Your iPhone Won't Ring when CarPlay is Connected
 
  Your iPhone shouldn't ring when it detects that you are connected via [CarPlay](https://facebook-video-share.techidaily.com/precision-cinematography-ideal-lenses-for-digital-storytellers-for-2024/). Instead, the call should be passed along to your vehicle's entertainment system. This is to prevent you from having to touch your phone or answer it manually when it rings.
 
  If you're having trouble accepting phone calls via CarPlay you should look into restarting your car's head unit or entertainment system. This could be as simple as stopping the engine, turning off the ignition, then starting everything up again. Some cars may require a manual restart instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Try Restarting Your iPhone
 
@@ -210,24 +216,17 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-software-guide-for-video-game-shows/"><u>[New] In 2024, Ultimate Software Guide for Video Game Shows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-a-complete-guide-to-videdit-studio-pro-features-and-more/"><u>[Updated] 2024 Approved A Complete Guide to VidEdit Studio Pro, Features and More</u></a></li>
-<li><a href="https://os-tips.techidaily.com/altering-iphone-web-browser-preferences-a-comprehensive-tutorial-for-google-chrome-apple-safari-and-opera-touch-users/"><u>Altering iPhone Web Browser Preferences: A Comprehensive Tutorial for Google Chrome, Apple Safari, and Opera Touch Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chaos-and-creativity-how-gpt-assists-in-building-dungeon-worlds/"><u>Chaos and Creativity: How GPT Assists in Building Dungeon Worlds</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-mastering-autofill-feature-for-iphone-passwords/"><u>Comprehensive Tutorial: Mastering AutoFill Feature for iPhone Passwords</u></a></li>
-<li><a href="https://os-tips.techidaily.com/create-custom-iphone/"><u>Create Custom iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/create-your-own-custom-iphone-ringtones-with-our-free-m4r-editor/"><u>Create Your Own Custom iPhone Ringtones with Our Free M4R Editor</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-sim-management-for-iphones-essential-guidelines-to-insertremove-sim-cards-successfully/"><u>Effortless SIM Management for iPhones: Essential Guidelines to Insert/Remove Sim Cards Successfully!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/essential-skills-importing-snapchat-images-into-device-gallery/"><u>Essential Skills Importing Snapchat Images Into Device Gallery</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-delving-into-the-world-of-asmr-soundscapes/"><u>In 2024, Delving Into the World of ASMR Soundscapes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-picks-for-gameplay-footage/"><u>In 2024, The Ultimate Picks for Gameplay Footage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620276679-lost-iphone-discover-swift-solutions-with-this-complete-search-tutorial/"><u>Lost iPhone? Discover Swift Solutions with This Complete Search Tutorial</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://os-tips.techidaily.com/streamline-your-mobile-workforce-with-verizon-wirelesss-efficient-mdm-solutions/"><u>Streamline Your Mobile Workforce with Verizon Wireless's Efficient MDM Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-zooming-in-win11-for-2024/"><u>The Ultimate Guide to Zooming in Win11 for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-world-of-computing-the-ultimate-resource-for-hardware-enthusiasts/"><u>Tom's World of Computing: The Ultimate Resource for Hardware Enthusiasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-zoom-airplay-overcoming-common-challenges-and-ensuring-flawless-streaming/"><u>Troubleshooting Your Zoom AirPlay: Overcoming Common Challenges and Ensuring Flawless Streaming</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-efficient-methods-and-applications-for-linking-your-iphone-with-wi-fi/"><u>Ultimate Guide: Efficient Methods & Applications for Linking Your iPhone with Wi-Fi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974738613-windows-10-cant-change-resolution-solved/"><u>Windows 10 Can't Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-buzzing-tracks-ultimate-backdrops-for-youtube-shorts/"><u>[Updated] In 2024, Buzzing Tracks Ultimate Backdrops for YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-comprehensive-pathway-to-hidden-youtube-treasures/"><u>[Updated] Your Comprehensive Pathway to Hidden YouTube Treasures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximizing-instagram-accessing-free-filters-via-searches/"><u>2024 Approved Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-network-protection-with-microsofts-newly-integrated-zero-trust-dns-technology/"><u>Enhancing Windows Network Protection with Microsoft's Newly Integrated Zero Trust DNS Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-is-chatgpt-revolutionizing-the-medical-field/"><u>How Is ChatGPT Revolutionizing the Medical Field?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-with-simple-app-resets/"><u>Optimizing Windows 11 with Simple App Resets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/radiant-palette-adjuster/"><u>Radiant Palette Adjuster</u></a></li>
+<li><a href="https://os-tips.techidaily.com/shop-the-latest-ipad-air-and-ipad-pro-models-top-features-revealed/"><u>Shop the Latest iPad Air & iPad Pro Models: Top Features Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solution-found-updated-external-sonos-software-corrects-audio-malfunctions/"><u>Solution Found: Updated External Sonos Software Corrects Audio Malfunctions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-low-volume-in-airpods-a-step-by-step-guide/"><u>Solving the Issue of Low Volume in AirPods: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-lost-images-from-an-iphoneipad/"><u>Step-by-Step Guide: Retrieving Lost Images From an iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-your-iphone-from-being-easily-found-disable-discovery-settings-instantly/"><u>Stop Your iPhone From Being Easily Found: Disable Discovery Settings Instantly</u></a></li>
 </ul></div>
 

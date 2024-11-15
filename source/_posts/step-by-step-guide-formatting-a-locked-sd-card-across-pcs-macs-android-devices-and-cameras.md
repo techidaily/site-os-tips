@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Formatting a Locked SD Card Across PCs, Macs, Android Devices & Cameras"
-date: 2024-08-18T09:36:38.294Z
-updated: 2024-08-19T09:36:38.294Z
+date: 2024-11-06T18:17:08.227Z
+updated: 2024-11-13T17:13:18.257Z
 tags:
   - fix-windows-problems
 categories:
@@ -28,8 +28,12 @@ If you suffer a lot from the issue, this page can help you exactly.
 12 solutions are given here, and get the most suitable one for yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1 Check the SD card container
 
 ![Check the SD card container](https://www.aiseesoft.com/images/data-recovery/sd-card-check.jpg)
@@ -42,13 +46,6 @@ You can change a SD card reader to read it again on your computer.
 
  For some laptop computer or desktop computer with the built-in memory card reader, you need to have an authorized service center look at and repair or replace the memory card reader in your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 2 Check the USB adapters (for computer)
 
 ![Check the USB adapters](https://www.aiseesoft.com/images/data-recovery/check-usb.jpg)
@@ -56,56 +53,49 @@ No advertising on the website.
  If you are trying to let your computer read your SD card via the USB card reader, you should try the suggestions below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Change USB ports
 
  Change the USB ports for your SD reader. You can try both the front and back USB ports for connection.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Disconnect and reconnect USB cable
 
 The loose USB connection may lead to the failure of workable SD card.
 
  Make sure the USB connector is securely attached to the USB port. You can verify its connection by disconnecting the USB connector and re-connecting it to the USB port.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart computer
 
  Disconnect the USB connector, restart the computer, and then re-connect the USB connector to the USB port.
 
 Sometimes, the USB connection reset may help the reader work properly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Test different type of digital media card
 
  If your USB card reader is capable of reading other types of digital media cards, try reading a different card to test the reader.
 
 If other cards can be read, then your SD card is problematic.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 3 Clean SD card
 
 ![Clean SD card](https://www.aiseesoft.com/images/data-recovery/clean-sd-card.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  Sometimes, there will be dust or dirt because of the careless protection for chips, thus your phone cannot read SD card.
 
  You are recommended to check that if the metal area is black or there is any spot on it. Try to wipe out the spot gently via alcohol or water with cotton.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4 Fix SD card in the slot
 
 ![Fix SD card in the slot](https://www.aiseesoft.com/images/data-recovery/fix-sd-card.jpg)
@@ -136,6 +126,26 @@ Drive is outdated?
 
 ![Fix SD card in the slot](https://www.aiseesoft.com/images/data-recovery/update-usb-drive.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 Check write-protection
 
 ![Check write-protection](https://www.aiseesoft.com/images/data-recovery/write-protection.jpg)
@@ -146,9 +156,6 @@ Write-protection for some SD cards will disable files to be modified.
 
  If your SD card has a write-protection switch, make sure it is set to disabled, or in the opposite direction that it points to "LOCK" on the card. Then you can try using the SD card again and see if this fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7 Improperly formatted SD card
 
 ![Improperly formatted SD card](https://www.aiseesoft.com/images/data-recovery/format-sd-card.jpg)
@@ -160,6 +167,13 @@ Write-protection for some SD cards will disable files to be modified.
 For reading SD cards again, you need to reformat the SD card.
 
  Note: Formatting a SD card will erase all contents, and you have to[recover data from formatted SD card](https://tools.techidaily.com/) in the last part in this page.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8 Repair corrupted/unreadable SD card
 
@@ -178,8 +192,19 @@ For example, "attrib -h -r -s /s /d G:\\\*.\*".
 ![Improperly formatted SD card](https://www.aiseesoft.com/images/data-recovery/sd-card-virus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9 Force SD card show up
 
 You can try the way to let your SD card show up forcibly.
@@ -189,9 +214,6 @@ You can try the way to let your SD card show up forcibly.
 2 Open Disk Management tool: press "Windows + R" > Type: "diskmgmt.msc" and hit Enter.
 
 ![Force SD card show up](https://www.aiseesoft.com/images/data-recovery/force-read-sd-card.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 Wrong data transfer mode on Android
 
@@ -204,9 +226,6 @@ You can try the way to let your SD card show up forcibly.
 ## 11 Phone apps fail to read
 
 ![Phone apps fail to read](https://www.aiseesoft.com/images/data-recovery/set-app-destination.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Particular Android software won't recognize an SD card. Other apps read the SD card and write data on it no problem.
 
@@ -218,9 +237,6 @@ You can try the way to let your SD card show up forcibly.
 
  For fixing the damaged SD card, you can jump to this post to get the detailed steps:[How to fix damaged SD card](https://tools.techidaily.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tip Recover data from formatted/corrupted SD card
 
  The above solutions focus on fixing the issue of SD card is not reading. If your SD card can show up, but the data are gone for formatting or being corrupted, how to do?
@@ -248,14 +264,6 @@ Aiseesoft Data Recovery is the exact remedy.
  In the main interface, you need to select the data type to recover. Then click "Scan" to start to scan your SD card.
 
 ![Scan Data from Micro SD Card](https://www.aiseesoft.com/images/data-recovery/removable-device.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2 Recover data from SD card
 
@@ -314,8 +322,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +329,26 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-upload-tunes-with-images-digitally/"><u>[New] 2024 Approved Upload Tunes with Images Digitally</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastery-in-monitoring-adding-time-based-events-to-obs-for-2024/"><u>[New] Mastery in Monitoring Adding Time-Based Events to OBS for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-craft-channels-with-flair-unveiling-10-innovative-design-platforms/"><u>[Updated] Craft Channels with Flair Unveiling 10 Innovative Design Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-transforming-your-content-delivery-the-power-of-onestream/"><u>[Updated] In 2024, Transforming Your Content Delivery The Power of OneStream</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-guide-for-updating-and-changing-social-video-covers/"><u>2024 Approved Step-by-Step Guide for Updating and Changing Social Video Covers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-lgbtq-cinema-to-watch-this-month-your-ultimate-netflix-guide-for-july-2024/"><u>Best LGBTQ Cinema to Watch This Month: Your Ultimate Netflix Guide for July 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-information-from-your-iphones-sd-card/"><u>Complete Guide: Retrieving Lost Information From Your iPhone's SD Card</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-step-by-step-guide-how-to-safely-restore-your-iphone-without-losing-any-data/"><u>Complete Step-by-Step Guide: How to Safely Restore Your iPhone Without Losing Any Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/default-methods-to-retrieve-accidentally-deleted-facebook-messenger-conversations-a-step-by-step-guide/"><u>Default Methods to Retrieve Accidentally Deleted Facebook Messenger Conversations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-best-iphone-file-recovery-tools-retrieve-your-accidentally-deleted-data-in-just-5-steps/"><u>Discover the Best iPhone File Recovery Tools - Retrieve Your Accidentally Deleted Data in Just 5 Steps!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/finding-ways-to-retrieve-lost-phone-numbers-from-your-iphone-even-without-a-previous-copy/"><u>Finding Ways to Retrieve Lost Phone Numbers From Your iPhone, Even without a Previous Copy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-sluggish-to-speedy-select-android-tools/"><u>From Sluggish to Speedy Select Android Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/itunes-file-rescue-techniques-how-to-retrieve-lost-ios-content-from-your-backups/"><u>ITunes File Rescue Techniques: How to Retrieve Lost iOS Content From Your Backups</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-6-social-media-outlets-for-corporate-growth-for-2024/"><u>Key 6 Social Media Outlets for Corporate Growth for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-imessages-top-tips-for-secure-backups-and-must-have-utilities-on-ios-devices/"><u>Maximize Your iMessages: Top Tips for Secure Backups and Must-Have Utilities on iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-error-nvidia-geforce-x0001/"><u>Overcoming Windows 11 Error: Nvidia GeForce X0001</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-lost-iphone-applications-quickly-the-ultimate-troubleshooting-guide/"><u>Recover Lost iPhone Applications Quickly – The Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-lost-iphone-messages-through-itunes-expert-tips-and-tricks/"><u>Restoring Lost iPhone Messages Through iTunes: Expert Tips & Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-igtvs-potential-a-video-resizing-primer/"><u>Unlocking IGTV's Potential A Video Resizing Primer</u></a></li>
+</ul></div>
 

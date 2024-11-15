@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your iCloud: Effective Strategies for Clearing Out Space"
-date: 2024-10-29T16:44:54.222Z
-updated: 2024-11-04T16:22:20.932Z
+date: 2024-11-09T18:32:21.172Z
+updated: 2024-11-13T16:13:19.643Z
 tags:
   - ios
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 * [Delete Old Chats and Messages Attachments](https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/)
 * [Consider Upgrading Your iCloud Storage](https://extra-tips.techidaily.com/step-by-step-mastery-in-powerdirector-complete-2024-guide-and-tutorials/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Check the storage usage on all your devices to find what's using up your space.
@@ -35,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 * Back up your photos to a different cloud service like Google Photos or Flickr to save iCloud space.
 
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Identify the Biggest Storage Hogs
 
@@ -53,16 +39,16 @@ Close
 
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -96,16 +82,23 @@ Close
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
 
@@ -125,13 +118,6 @@ Close
 
  With iCloud Photos disabled, you're wholeheartedly recommended to try [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU220865/https://itunes.apple.com/us/app/google-photos-free-photo-video/id962194608?mt=8), [Dropbox](https://geo.itunes.apple.com/en/app/dropbox/id327630330?at=1010loXs&ct=191340), or [Flickr](https://apps.apple.com/gb/app/flickr/id328407587), which can automatically back up your photos to a separate pool of cloud storage that's often bigger than iCloud. That way, you'll have a backup copy of your photos and videos stored online and retain your precious iCloud storage for other functions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Delete App Documents and Data From iCloud
 
  Some apps store large amounts of data in iCloud, such as documents, settings, and saved games. These bits of data sync between all your devices and count toward your iCloud storage. You can delete these files if you don't need them.
@@ -145,6 +131,13 @@ Close
 Close 
 
  Be careful when doing this, though, as you could delete essential documents and files you might want to keep.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Triage Your iCloud Mail Inbox
 
@@ -163,16 +156,10 @@ Close
 ![iCloud Mail in a web browser with the Empty Trash option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-icloud-mail-app-inbox-view-empty-trash-selected.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you delete emails, remember to empty the trash afterward to have them removed permanently and free up storage space.
@@ -190,6 +177,13 @@ Close
  The selected attachments will be removed from all your Apple devices.
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Consider Upgrading Your iCloud Storage
 
@@ -234,24 +228,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-stream-downloading-on-different-operating-systems/"><u>[Updated] FB Stream Downloading on Different Operating Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-virtual-add-ons-to-reality/"><u>2024 Approved Exploring Virtual Add-Ons to Reality</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-whats-in-your-wallet-from-one-million-youtube-sights/"><u>2024 Approved What's In Your Wallet From One Million YouTube Sights?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-stepwise-approach-for-effective-periscope-video-storage-for-2024/"><u>A Stepwise Approach for Effective Periscope Video Storage for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-iphones-storage-with-these-simple-3-techniques/"><u>Boost Your iPhone's Storage with These Simple 3 Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tial-elements-for-implementing-channel-banners-in-games/"><u>Essential Elements for Implementing Channel Banners in Games</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-conceal-the-stubborn-threads-emblem-on-your-instagram-profile/"><u>How To Conceal The Stubborn Threads Emblem On Your Instagram Profile</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-a-lost-android-smartphone-discover-the-greatest-non-ios-solutions-like-find-my-iphone/"><u>How to Recover a Lost Android Smartphone? Discover the Greatest Non-iOS Solutions Like Find My iPhone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic-6-lite-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic 6 Lite</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/is-it-safe-to-continue-using-windows/"><u>Is It Safe To Continue Using Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/locate-your-missing-android-smartphone-using-the-android-device-manager/"><u>Locate Your Missing Android Smartphone Using the Android Device Manager</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cant-use-subtitle-edit-on-mac-discover-these-awesome-alternatives/"><u>New In 2024, Cant Use Subtitle Edit on Mac? Discover These Awesome Alternatives</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-gopro-enhancements-guide/"><u>Premium Gopro Enhancements Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fix-top-3-simple-methods-to-reboot-your-android-device-fast/"><u>Quick Fix: Top 3 Simple Methods to Reboot Your Android Device Fast</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-your-snapchat-sign-in-problems-effective-strategies-for-a-smooth-login-experience/"><u>Solving Your Snapchat Sign-In Problems: Effective Strategies for a Smooth Login Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mobile-printing-with-android-smartphones-and-tablets/"><u>Step-by-Step Tutorial on Mobile Printing with Android Smartphones and Tablets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/streamline-your-safari-experience-a-comprehensive-walkthrough-for-emptying-browser-cache-on-ipads/"><u>Streamline Your Safari Experience: A Comprehensive Walkthrough for Emptying Browser Cache on iPads</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-s23-ultra-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy S23 Ultra FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-biometric-lock-applications-ultimate-guide-for-secure-android-devices/"><u>Top 10 Biometric Lock Applications: Ultimate Guide for Secure Android Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-creating-simple-videos-top-10-youtube-projects-anyone-can-do/"><u>[New] 2024 Approved Creating Simple Videos Top 10 YouTube Projects Anyone Can Do</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-showmore-screen-recorder-review-all-you-need-to-know/"><u>[New] ShowMore Screen Recorder Review All You Need To Know</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-images-without-spending-a-dime-quick-tips-here/"><u>[Updated] YouTube Images Without Spending a Dime – Quick Tips Here</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/hddqnap-nas/"><u>外付けHDDに保存してQNAP NASの信頼性を高める方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypassing-iphone-security-a-comprehensive-guide-to-5-alternative-approaches-not-involving-siri/"><u>Bypassing iPhone Security: A Comprehensive Guide to 5 Alternative Approaches Not Involving Siri</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-obstacle-the-easy-way-to-correct-error-0x887a0006/"><u>Bypassing Obstacle: The Easy Way to Correct Error 0X887A0006</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-how-to-resolve-your-iphone-being-trapped-at-the-apple-emblem-screen/"><u>Effective Solutions: How to Resolve Your iPhone Being Trapped at the Apple Emblem Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-lost-connectivity-5-methods-for-strengthening-network-signals-after-ios-17-installation/"><u>Fix Your Lost Connectivity: 5 Methods for Strengthening Network Signals After iOS 17 Installation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-successfully-performing-a-hard-reset-on-your-iphone-including-the-latest-iphone-11-pro/"><u>Guide: Successfully Performing a Hard Reset on Your iPhone, Including the Latest iPhone 11 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-14-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi 14?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-share-todays-enlightening-voice-lesson/"><u>In 2024, Share Today's Enlightening Voice Lesson</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Creating and Adding Interactive Buttons on iOS Devices
-date: 2024-11-02T17:12:11.506Z
-updated: 2024-11-04T16:02:57.772Z
+date: 2024-11-07T16:57:13.600Z
+updated: 2024-11-13T18:59:56.717Z
 tags:
   - ios
 categories:
@@ -27,9 +27,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the "Settings" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0369.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, go to the "Accessibility" settings and select "Touch."
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go to "Assistive Touch" and toggle it on at the top of the screen.
 
@@ -51,14 +65,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Custom Actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0378.PNG) 
 
- Of course, a virtual button on the screen is not as convenient as a physical button, but it does have the added benefit of having more than one action.
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Of course, a virtual button on the screen is not as convenient as a physical button, but it does have the added benefit of having more than one action.
 
 ##  Use the Back of the iPhone as an "Action Button"
 
@@ -70,46 +84,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select "Back Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0379.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the "Double Tap" or "Triple Tap" gesture.
 
 ![Choose a gesture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0380.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose from the list of actions.
 
 ![Choose an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0381.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's all there is to it! This is the best way to get a "physical" Action Button on an iPhone that doesn't have one. You still can launch the actions without the screen needing to be on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Dimple Buttons
 
 ![dimple.io buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/dimpleio.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Unbox Therapy](https://youtu.be/6Mp01eg0-ZM)
@@ -135,24 +135,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-popular-imagery-origins-decoded/"><u>[New] Popular Imagery Origins Decoded</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nap-into-position-handhran-balancing-tricks-for-2024/"><u>[New] Snap Into Position Handhran Balancing Tricks for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-srgb-efficiency-against-basic-rgb/"><u>[Updated] Srgb Efficiency Against Basic Rgb</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-game-changer-implementing-custom-gaming-banners/"><u>[Updated] The Game Changer Implementing Custom Gaming Banners</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boosting-your-contents-impact-on-instagram/"><u>2024 Approved Boosting Your Content's Impact on Instagram</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-to-enable-screen-time-restrictions-for-apps-on-apples-iphone-and-ipad/"><u>Easy Steps to Enable Screen Time Restrictions for Apps on Apple's iPhone & iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-for-when-you-cant-access-the-apple-app-store-on-your-ios-device/"><u>Effective Solutions for When You Can't Access the Apple App Store on Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-web-browsing-and-live-sports-updates-google-chromes-latest-features/"><u>Enhanced Web Browsing & Live Sports Updates: Google Chrome's Latest Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-siris-smarts-how-apples-ai-boosts-app-intelligence/"><u>Enhancing Siri's Smarts: How Apple's AI Boosts App Intelligence</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enjoy-retro-game-experience-on-your-iphone-for-free-without-needing-to-jailbreak/"><u>Enjoy Retro Game Experience on Your iPhone for FREE Without Needing to Jailbreak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-upgrades-needed-for-apples-next-big-thing-the-new-iphone/"><u>Essential Upgrades Needed for Apple's Next Big Thing - The New iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-projecting-iphone-visuals-on-your-mac-monitor/"><u>Expert Tips for Projecting iPhone Visuals on Your Mac Monitor</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-curious-absence-of-smartphones-in-film-antagonist-scenes-the-iphone-exclusion/"><u>Exploring the Curious Absence of Smartphones in Film Antagonist Scenes: The iPhone Exclusion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-apple-sports-mobile-app-now-available-top-entertainment-for-enthusiastic-spectators/"><u>Free Apple Sports Mobile App Now Available: Top Entertainment for Enthusiastic Spectators</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/luster-leads-transformative-techniques-for-videos-for-2024/"><u>Luster Leads Transformative Techniques for Videos for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-11-proplus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 11 Pro+ Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-y100i-power-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo Y100i Power 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-smart-gadgets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Gadgets : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[New] Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unleash-the-potential-of-videos-with-these-top-10-ios-apps/"><u>[New] Unleash the Potential of Videos with These Top 10 iOS Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-achieving-seamless-group-discussions-in-google-chat/"><u>[Updated] In 2024, Achieving Seamless Group Discussions in Google Chat</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-laughter-is-free-access-to-top-meme-creations/"><u>2024 Approved Laughter Is Free Access to Top Meme Creations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/composing-captivating-cinema-trailers/"><u>Composing Captivating Cinema Trailers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix GT 10 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/superior-alternative-styluses-to-the-apple-pencil-boost-creativity-and-productivity/"><u>Superior Alternative Styluses to the Apple Pencil: Boost Creativity and Productivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-hidden-agenda-of-government-tracking-via-smartphone-notifications/"><u>The Hidden Agenda of Government Tracking via Smartphone Notifications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-shift-begins-as-iphones-embrace-universal-usb-c-port-technology/"><u>The Shift Begins as iPhones Embrace Universal USB-C Port Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-14-unnoticed-facetime-functions-boost-your-video-calls-today/"><u>Top 14 Unnoticed FaceTime Functions: Boost Your Video Calls Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-navigation-and-entertainment-apps-compatible-with-carplay/"><u>Top-Rated Navigation & Entertainment Apps Compatible with CarPlay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-spx-file-format-simple-steps-to-access-your-data/"><u>Understanding the SPX File Format: Simple Steps to Access Your Data</u></a></li>
 </ul></div>
 

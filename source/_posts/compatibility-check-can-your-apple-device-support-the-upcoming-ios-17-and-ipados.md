@@ -1,7 +1,7 @@
 ---
 title: "Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?"
-date: 2024-10-30T18:06:15.292Z
-updated: 2024-11-04T16:44:47.808Z
+date: 2024-11-09T19:24:29.101Z
+updated: 2024-11-13T18:15:03.711Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  Each year Apple releases a new major update to the operating systems that power its iPhone and iPad range. Here are all the devices that will be compatible with [the new iOS 17 and iPadOS 17 upgrades](https://tech-haven.techidaily.com/assessing-data-protection-risks-in-using-chatgpt-technology/), arriving later in 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  iOS 17 Will Run On iPhone XS, XR, or Newer
 
  To install the iOS 17 update when it arrives, you'll need an iPhone XS, iPhone XR, or a second-generation iPhone SE. Any models of iPhone produced in the years following these releases are compatible with the new update. Any new iPhones that Apple announces at its annual iPhone event will ship with iOS 17.
@@ -26,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 ![List of iOS 17 compatible iPhone models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ios_17_compatibility.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Apple_
@@ -39,10 +46,10 @@ _Apple_
  The iOS 17 update drops support for the iPhone 8 and iPhone X, both of which will see out [the rest of their lifespans on iOS 16](https://digital-screen-recording.techidaily.com/in-2024-pioneering-techniques-to-transform-your-obs-studio-projects/). These models were both revealed at the same iPhone event in 2017, marking five years of support. Older devices will [continue to receive limited security updates](https://extra-approaches.techidaily.com/new-picshot-your-go-to-tool-for-hassle-free-collage-crafting/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  iPadOS 17 Will Run on iPad Pro (2nd gen), iPad Air (3rd gen), iPad (6th gen), And iPad mini (5th gen) or Newer
@@ -51,13 +58,6 @@ _Apple_
 
 ![List of iPadOS 17 compatible iPad models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/ipadOS_17_compatibility.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Apple_
 
  Just like the iPhone, you can see [which iPad model you have](https://video-screen-grab.techidaily.com/new-in-2024-rhythmreview-music-and-dialogue-analysis/) under Settings > General > About on your device by looking at the "Model" field. You'll also find your model listed within your Apple ID account information under Settings > \[Your Name\] on a device, or using Find My on [iCloud.com](http://www.icloud.com).
@@ -65,10 +65,10 @@ _Apple_
  iPadOS 17 marks the first release that drops support for the original iPad Pro which made its debut in 2016 (having had six years of software support). Also missing out this year is the fifth-generation iPad, introduced in 2017.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  New Releases Coming Fall 2023
@@ -94,22 +94,24 @@ _Apple_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-unleash-the-full-potential-of-your-images-with-snapchat/"><u>[New] Unleash the Full Potential of Your Images with Snapchat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-tricks-in-sports-video-production/"><u>[Updated] Top Tricks in Sports Video Production</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-archive-itunes-content-with-ease-using-these-tips/"><u>2024 Approved Archive iTunes Content with Ease Using These Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-comprehensive-look-at-chatgpt-versus-hugbingchat-performance/"><u>A Comprehensive Look at ChatGPT versus HugbingChat Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-troubleshooting-steps-for-overcoming-deletion-challenges-on-iphones/"><u>Complete Troubleshooting Steps for Overcoming Deletion Challenges on iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-clearing-out-facebook-connections-in-your-iphones-contact-list/"><u>Easy Steps: Clearing Out Facebook Connections in Your iPhone's Contact List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fixing-the-single-channel-headset-for-2024/"><u>Fixing the Single-Channel Headset for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-manage-and-reset-autocomplete-features-on-your-web-browsers/"><u>How to Manage and Reset Autocomplete Features on Your Web Browsers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-your-strategy-for-large-scale-tiktok-video-downloads/"><u>In 2024, Optimizing Your Strategy for Large-Scale TikTok Video Downloads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-for-clearing-out-songs-on-any-ipod-model/"><u>Simple Steps for Clearing Out Songs on Any iPod Model</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/sns-hdr-pro-analysis-worth-its-weight-in-gold-in-2024/"><u>SNS HDR Pro Analysis Worth Its Weight in Gold, In 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-erasing-your-youtube-viewing-and-search-records/"><u>Step-by-Step Guide: Erasing Your YouTube Viewing and Search Records</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-remove-your-entire-itunes-collection-from-pc-and-mac/"><u>Step-by-Step Guide: How to Remove Your Entire iTunes Collection From PC and Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-wipe-out-entire-snapchat-conversations-and-messages/"><u>Step-by-Step Tutorial: How To Wipe Out Entire Snapchat Conversations And Messages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-remove-iphone-files-forever-proven-strategies-inside/"><u>Step-by-Step Tutorial: Remove iPhone Files Forever - Proven Strategies Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-stop-missing-cursors-now/"><u>Troubleshooting Windows 11: Stop Missing Cursors Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-next-big-thing-insights-on-samsung-galaxy-s25-ultras-launch-pricing-and-features/"><u>Unveiling the Next Big Thing: Insights on Samsung Galaxy S25 Ultra's Launch, Pricing, & Features</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-artistic-angles-a-selection-of-hot-snapchat-augments/"><u>[Updated] In 2024, Artistic Angles A Selection of Hot Snapchat Augments</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-solutions-how-to-resolve-issues-with-non-playable-audio-tracks-on-your-iphone-models-x-8-7-6-and-5/"><u>Best Solutions: How to Resolve Issues with Non-Playable Audio Tracks on Your iPhone (Models X, 8, 7, 6, and 5)</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-itel-p40-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel P40? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-file-transfer-using-airdrop-from-your-mac-iphone-ipad-and-ipod-comprehensive-tips-and-tricks/"><u>Effortless File Transfer Using AirDrop From Your Mac, iPhone, iPad & iPod - Comprehensive Tips & Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-rename-your-iphone-two-simple-techniques-unveiled/"><u>Effortlessly Rename Your iPhone: Two Simple Techniques Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g-stylus-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G Stylus (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-unresponsive-apps-essential-solutions-for-ios-and-android-users/"><u>How to Troubleshoot Unresponsive Apps: Essential Solutions for iOS and Android Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2020-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone SE (2020), Apples New iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-z-fold-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy Z Fold 5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-techniques-for-captivating-visual-fb-ads/"><u>In 2024, Techniques for Captivating Visual FB Ads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/making-the-right-choice-understanding-iphone-jailbreaking-and-its-implications-for-your-device/"><u>Making the Right Choice: Understanding iPhone Jailbreaking and Its Implications for Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-iphone-mailbox-items-expert-tips-and-troubleshooting-steps/"><u>Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-process-restoring-an-iphones-factory-settings-post-jailbreak/"><u>Step-by-Step Process: Restoring an iPhone's Factory Settings Post-Jailbreak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-how-to-fix-ios-17-check-in-feature-malfunctions-on-your-iphone/"><u>Troubleshooting Tips: How to Fix 'iOS 17 Check-In' Feature Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-list-apps-that-transform-surface-pro-4-or-3-into-superior-choices-over-macbook/"><u>Ultimate List: Apps That Transform Surface Pro 4 or 3 Into Superior Choices Over MacBook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/your-pc-snipping-guide-the-best-tools-to-try-first-for-2024/"><u>Your PC Snipping Guide The Best Tools to Try First for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style"
-date: 2024-10-29T17:59:09.172Z
-updated: 2024-11-04T18:13:30.907Z
+date: 2024-11-09T18:47:55.311Z
+updated: 2024-11-13T18:20:39.096Z
 tags:
   - ios
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 * [Redesigning Hardware Is Less Sustainable](https://win-howtos.techidaily.com/how-to-fix-nier-automata-crashes-on-your-windows-computer/)
 * [Even Techies Don't Want Change As Much As We Think We Do](https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Good smartphones designs remain consistent in part because there are limited ways to make powerful, durable, and comfortable devices.
@@ -39,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  We've Figured Out How to Make Good Phones
 
  When a technology is new, experimentation is the name of the game. We don't already know which design is the most durable, [how to make gadgets waterproof](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), or [how to allow for passive cooling](https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/). We're not even sure which of these things is important.
@@ -55,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
  Even when it comes to foldable phones, developers know how to make great ones. Most of the experimentation has to do with durability and miniaturization, making components small enough that you can still fit flagship cameras on a device where each half needs to be thinner than that of an average phone. It would also be nice to get rid of the crease. But the fundamentals? Those are nailed down already.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Consistency Is Good for Brand Recognition
@@ -73,6 +59,13 @@ Tyler Hayes / How-To Geek
 
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You Can Still Switch Brands to Try Something New
 
  A wide range of varying smartphone designs still exist. These differences simply exist between brands rather than specific models. If you like a muted minimalist design, Samsung caters to that. If you want your smartphone brand to serve as a status symbol, iPhones have an Apple logo that's easy to see. If you want hardware that lights up or feels very cyberpunk, buy a [Nothing Phone](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) or an ROG Phone.
@@ -81,6 +74,13 @@ Tyler Hayes / How-To Geek
 
  When you're bored, satisfy your thirst for novelty by switching brands, but know you can switch back to the familiar when you so choose.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  ​You Can Get a Better Version of the Phone You Already Have
 
  If you really like the phone you have, sometimes all you want from a newer model is a version that is very similar but slightly improved and refined. You want higher specs, bugs fixed, and maybe a few additional software features. Perhaps the physical design could be slightly thinner (or, despite what most reviewers prioritize, thicker) with smoother curves. That's good enough.
@@ -88,6 +88,13 @@ Tyler Hayes / How-To Geek
  If you fell in love with an Android phone back in the day when so much was in flux, you likely can't buy a phone like it anymore. Google's modern Pixel phones are very different from the company's old Nexus line. Newer Samsung phones have little in common with the Galaxy SIII. Yet, since the newer phones from both companies have been more consistent, if you like them, you can feel more comfortable knowing you can continue to get them in the future.
 
  This has worked in the iPhone's favor for a long time now. Each iPhone is a known quantity. The removal of the home button, the expansion of the screen size to fill the entire front of the device, and the addition of a camera bump are perhaps the most notable changes to the design of the phone since the release of the first model. This gradual evolution has meant that from year to year, each iPhone looks recognizable to people who own previous models. The software has expanded, but it has come with a degree of consistency that Android has not had over the same period of time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  ​We're More Productive When Things Stay the Same
 
@@ -102,13 +109,6 @@ Justin Duino / How-To Geek
  If I'm switching brands, I'm consciously choosing to learn something new. If I'm sticking with the same company, part of the appeal is I know what I'm getting. At least, that's the hope.
 
  The Galaxy S23 Ultra may have looked near identical to its predecessor, but according to [Android Police](https://www.androidpolice.com/samsung-flagship-phones-apple-iphone-sales/), the former outsold the latter by over 6 million units. Samsung was not punished for keeping so much the same. If anything, it was rewarded.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Redesigning Hardware Is Less Sustainable
 
@@ -145,20 +145,18 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever-for-2024/"><u>[Updated] Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-10-subtitle-editing-software-online/"><u>2024 Approved Premier 10 Subtitle Editing Software Online</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-securely-syncing-your-mobile-data-on-iphone-and-android/"><u>Complete Guide: Securely Syncing Your Mobile Data on iPhone & Android</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-securely-backing-up-your-data-on-samsung-galaxy-s4-s5-s6-and-s7/"><u>Comprehensive Guide: Securely Backing Up Your Data on Samsung Galaxy S4, S5, S6, and S7</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/eye-candy-index-the-top-8-videos-for-2024/"><u>Eye Candy Index The Top 8 Videos for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-x6-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco X6</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-turn-off-automatic-backups-in-whatsapp-for-iphones-and-android-phones/"><u>How To Turn Off Automatic Backups in WhatsApp for iPhones & Android Phones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-meizu-21-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Meizu 21 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/insider-tips-what-you-need-to-know-before-trading-in-your-faulty-cellphones/"><u>Insider Tips: What You Need To Know Before Trading In Your Faulty Cellphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/keep-your-pics-safe-without-costing-a-penny-effortless-auto-upload-on-google-photos/"><u>Keep Your Pics Safe Without Costing a Penny - Effortless Auto-Upload on Google Photos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-device-safety-how-to-efficiently-backup-ios-and-android-phones/"><u>Mastering Device Safety: How to Efficiently Backup iOS & Android Phones</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-online-dailymotion-converter-convert-videos-to-any-format-for-free/"><u>New Online Dailymotion Converter Convert Videos to Any Format for Free</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-transfer-of-android-images-a-step-by-step-guide-to-syncing-your-phone-pics-with-a-pc-or-google-photos/"><u>Seamless Transfer of Android Images: A Step-by-Step Guide to Syncing Your Phone Pics with a PC or Google Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-lesser-known-media-players-post-vlc-for-2024/"><u>Unveiling the Lesser-Known Media Players Post-VLC for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-windows-store-error-code-0x80072efd/"><u>Unwrapping the Mystery of Windows Store Error Code 0X80072EFD</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-employing-google-trends-to-discover-compelling-video-themes-for-2024/"><u>[Updated] Employing Google Trends to Discover Compelling Video Themes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synthesis-of-song-elements-the-crossfade-approach/"><u>[Updated] Synthesis of Song Elements The Crossfade Approach</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/cross-platform-video-sharing-tiktok-and-twitter/"><u>Cross-Platform Video Sharing TikTok & Twitter</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-macos-requests-for-your-icloud-key-uncover-causes-and-find-fixes-easily/"><u>Decoding macOS Requests for Your iCloud Key: Uncover Causes and Find Fixes Easily</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620258862-effective-strategies-how-to-fix-your-mac-not-shutting-down-correctly-as-of-202/"><u>Effective Strategies: How to Fix Your Mac Not Shutting Down Correctly as of 202 #</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-face-transformation-apps-for-iphones-and-androids-for-2024/"><u>Leading Face Transformation Apps for iPhones & Androids for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-wdf-usage-reduced-cpu-load-solutions/"><u>Optimized WDF Usage: Reduced CPU Load Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-safari-problems-on-mac-for-enhanced-browsing/"><u>Resolving Safari Problems on Mac for Enhanced Browsing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-rebuilding-and-resetting-your-macbook-pros-os-x-system-prior-to-selling/"><u>Step-by-Step Guide: Rebuilding and Resetting Your MacBook Pro's OS X System Prior to Selling</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-transferring-your-macs-entire-image-collection-to-an-exterior-ssd/"><u>Step-by-Step Guide: Transferring Your Mac's Entire Image Collection to an Exterior SSD</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-imovie-a-guide-to-overcoming-freezing-problems/"><u>Troubleshooting iMovie: A Guide to Overcoming Freezing Problems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visual-storytelling-crafting-impressive-imovie-video-intros-for-2024/"><u>Visual Storytelling Crafting Impressive iMovie Video Intros for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock Your iPhone's Hidden White Noise Features for Better Sleep
-date: 2024-11-03T17:11:10.767Z
-updated: 2024-11-04T18:14:43.199Z
+date: 2024-11-10T16:34:11.517Z
+updated: 2024-11-13T17:16:44.564Z
 tags:
   - ios
 categories:
@@ -26,11 +26,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The good news is you can make a Shortcut to drastically improve the experience. The benefit is you don't need to rely on a third-party app that could have annoying ads or stream over the internet all night.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Play Sleep Sounds on iPhone
 
  You'll find these sounds in your iPhone's Accessibility settings. First, open the Settings app on your iPhone or iPad.
 
 ![Tap the &quot;Settings&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-23-05.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll down and select "Accessibility."
 
@@ -40,53 +54,46 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to &quot;Audio/Visual.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-26-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, we can select "Background Sounds" (that was a hike).
 
 ![Tap &quot;Background Sounds.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-26-46.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To turn on the sounds, simply toggle the switch at the top of the screen.
 
 ![Toggle on &quot;Background Sounds.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-33-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are a few things to tweak on this page as well. First, you can tap "Sound" to choose between a few white noise levels, ocean, rain, or stream.
 
 ![Tap &quot;Sound&quot; and choose a sound from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-29-14.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, you can adjust the volume level, choose if you want it to play while other media is playing, and adjust the volume level for that as well.
 
 ![Adjust the volume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-31-33.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lastly, decide if you want the sounds to stop when the device is locked.
 
 ![Toggle on the &quot;Stop Sounds When Locked.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-32-24.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's all there is to it. This is a nice feature, but it's not easy to get to. Let's fix that.
 
@@ -99,10 +106,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Open the &quot;Shortcuts&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-41-13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, tap the plus icon in the top right to create a new shortcut.
@@ -121,33 +128,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap &quot;Turn&quot; and switch it to &quot;Toggle.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-44-33.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now we can rename the shortcut and customize the color and icon. Tap the drop-down arrow at the top of the screen to do so.
 
 ![Tap the drop down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-46-57.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lastly, select "Add to Home Screen" from the drop-down menu.
 
 ![Select &quot;Add to Home Screen.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-49-49.png) 
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap "Add" on the next screen.
 
@@ -174,15 +174,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unleash-your-youtube-potential-6-crucial-actions-for-visibility/"><u>[Updated] 2024 Approved Unleash Your YouTube Potential 6 Crucial Actions for Visibility</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boosting-your-browser-lightning-speed-profile-hunts/"><u>[Updated] In 2024, Boosting Your Browser Lightning Speed Profile Hunts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-leading-tech-the-top-10-4k-camera-phones-reviewed-for-2024/"><u>[Updated] Leading Tech The Top 10 4K Camera Phones Reviewed for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-picsart-insight-for-enhanced-creativity/"><u>Comprehensive PicsArt Insight for Enhanced Creativity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/decoding-ocr-functionality-on-ios-devices-insights-into-operations-of-ocr-in-ios-18-and-17/"><u>Decoding OCR Functionality on iOS Devices: Insights Into Operations of OCR in iOS 18 and 17</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-worker-engagement-through-thoughtful-space-configuration/"><u>Enhancing Worker Engagement Through Thoughtful Space Configuration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-disable-your-iphones-flashlight-feature-and-resolve-common-problems/"><u>How To Disable Your iPhone's Flashlight Feature & Resolve Common Problems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-and-configuring-ios-17-standby-mode-on-your-iphone-a-step-by-step-guide/"><u>Understanding and Configuring iOS 17 Standby Mode on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-mms-a-comprehensive-guide-on-activating-multimedia-messaging/"><u>Unlocking the Power of MMS: A Comprehensive Guide on Activating Multimedia Messaging</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/44kk44oz44k144kk44oi5zcr5lik44gu44gf44kb44gu44k44k544kv44o744ox44ot44k744k544oe44kk44ol44oz44kw5oqa6kgt/"><u>インサイト向上のためのタスク・プロセスマイニング技術</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-anime-aesthetics-in-viral-tiktoks/"><u>[New] 2024 Approved Mastering Anime Aesthetics in Viral TikToks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-master-the-melodies-secrets-to-adding-soundtracks-on-insta-for-2024/"><u>[New] Master the Melodies Secrets to Adding Soundtracks on Insta for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-with-film-color-grading-these-7/"><u>2024 Approved Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210063785-9781071549889-bambole-talismano-slave-creazione-fai-da-te-di-talismani/"><u>Bambole talismano slave. Creazione fai da te di talismani | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichiers-m4a-a-mp3-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers M4A À MP3 en Ligne Avec Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/double-tap-feature-added-to-apple-watch-series/"><u>Double Tap Feature Added to Apple Watch Series</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-altstore-pal-version-completely-gratis-exclusive-offer-for-european-audiences/"><u>Download AltStore PAL Version Completely Gratis: Exclusive Offer for European Audiences</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-to-prevent-auto-lock-on-your-iphone-display/"><u>Effective Techniques to Prevent Auto-Lock on Your iPhone Display</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-next-level-nintendo-ds-gaming-on-your-ipad-with-our-newly-released-screen-controlled-emulator-feature/"><u>Experience Next-Level Nintendo DS Gaming on Your iPad with Our Newly Released Screen-Controlled Emulator Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-strategies-for-enhancing-productivity-with-apple-mail-on-ios-devices/"><u>Expert Strategies for Enhancing Productivity with Apple Mail on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-cons-critical-weaknesses-in-apples-latest-vision-pro-worth-considering/"><u>Exploring the Cons: Critical Weaknesses in Apple's Latest Vision Pro Worth Considering</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-contact-sheets-soon-available-on-ios-devices/"><u>Get Ready: Contact Sheets Soon Available on iOS Devices!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/has-my-contact-blocked-me-understanding-imessage-communication-silence-cues/"><u>Has My Contact Blocked Me? Understanding iMessage Communication Silence Cues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-ftd2xxdll-file-not-found-complete-guide/"><u>Solving the ftd2XX.dll File Not Found - Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-voice-chat-malfunction-on-content-warnings/"><u>Solving the Problem: Voice Chat Malfunction on Content Warnings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unified-communication-strategy-utilizing-a-single-phone-number-with-multiple-electronic-devices/"><u>Unified Communication Strategy: Utilizing a Single Phone Number with Multiple Electronic Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

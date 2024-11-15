@@ -1,7 +1,7 @@
 ---
 title: From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices
-date: 2024-10-30T17:10:25.764Z
-updated: 2024-11-04T18:23:04.092Z
+date: 2024-11-10T18:57:29.252Z
+updated: 2024-11-13T16:30:45.533Z
 tags:
   - ios
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I'm so deep in the Apple ecosystem that you can only see the top of my head, but the one Apple product I just can't learn to love is its most popular—the iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I’m 99% Apple Now
 
  Apple first got its claws into me with the second-generation iPad. It seemed like the perfect device for me, bringing together all the things I needed a computer to do together into one slim package with the bonus of all-day battery life. Since then, an iPad has been indispensable to my daily life, and for several years I didn't bother owning a [laptop](https://win-dash.techidaily.com/1722972482843-corsair-void-pro-windows-driver-download-and-installation-made-simple/) at all, opting for a keyboard attachment instead. My M2 12.9-inch iPad Pro is my 7th iPad (unless I forgot one) and it's better than ever. Honestly, it's the one device I spend the most time on.
@@ -32,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Even the Apple TV has converted me. Tired of flaky Android TV boxes and [unreliable smart TV apps](https://screen-sharing-recording.techidaily.com/2024-approved-qualitysnap-video-reporter-checkup/), I used my iPad trade-in money to buy a third-generation Apple TV 4K on a whim. As with iPads and Macs, I think Apple might have a customer for life when it comes to streaming boxes.
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  I’ve Tried the iPhone Twice
 
@@ -44,22 +58,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I picked up a 1TB iPhone 14 Pro, and sure enough, it was a much better phone, but Apple had addressed pretty much none of the things that made it impossible to get along with the device, and honestly, I don't think they could, because most of it might be in the DNA of the iPhone itself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  My Phone Can’t Be This Locked Down
 
 ![AI generated isometric pixel art representation of an apple iphone inside a walled garden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_isometric_pixel_art_representation_of_an_apple__d1c8c3ba-aac6-407f-83fd-cdea5c783184_3.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek / MidJourney
 
@@ -68,13 +75,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
  Not so for the iPhone which, despite [some legal moves to make it more open](https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-15-when-you-forget-the-passcode-drfone-by-drfone-ios/), is still the most walled of walled gardens. You can "jailbreak" your phone, of course, but that comes with its own set of headaches. It also didn't help that ([until recently](https://tech-revival.techidaily.com/gptzeros-role-spotlight-on-ai-generated-literature/)) certain apps such as game emulators or torrent clients, which are totally legal, were not allowed in the app store.
 
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The iPhone Form Factor Isn’t Great
 
@@ -85,13 +85,6 @@ Corbin Davenport / How-To Geek
  People often say that phones are all the same these days, but that's far from the truth. Hold any two different phones in your hand and the exact shape, weight, materials, and balance will make them feel miles apart. It is this combination of factors that just sits wrong for me when it comes to the iPhone.
 
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
 
@@ -104,6 +97,13 @@ Corbin Davenport / How-To Geek
  I can live with the esthetics and photos that aren't to my taste, but going from having a day and a half of battery power on my S22 Ultra to a phone that barely ekes out a full day of normal use is not fun. I have zero battery anxiety with my Samsung phone, but felt it return with a vengeance with my last iPhone.
 
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  I’m Willing to Try Again
 
@@ -126,22 +126,15 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-comprehensive-guide-to-high-def-game-broadcasting/"><u>[New] 2024 Approved The Comprehensive Guide to High-Def Game Broadcasting</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-free-end-credits-maker-the-1-video-closers-guide/"><u>[New] In 2024, Free End Credits Maker - The #1 Video Closers Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-soundtrack-to-instagram-fame/"><u>[New] The Soundtrack to Instagram Fame</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[Updated] 2024 Approved How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[Updated] In 2024, Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-screen-recording-the-benefits-of-using-bandicam/"><u>2024 Approved Mastering Screen Recording The Benefits of Using Bandicam</u></a></li>
-<li><a href="https://os-tips.techidaily.com/bringing-classic-games-to-modern-devices-retroarch-now-available-on-ios-and-tvos/"><u>Bringing Classic Games to Modern Devices: RetroArch Now Available on iOS and tvOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/californians-can-now-use-iphones-as-official-digital-identification/"><u>Californians Can Now Use iPhones as Official Digital Identification</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-your-iphone-15-survive-a-splash-uncovering-its-water-resistance-secrets/"><u>Can Your iPhone 15 Survive a Splash? Uncovering Its Water Resistance Secrets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/choosing-the-right-apple-pencil-a-comprehensive-guide/"><u>Choosing the Right Apple Pencil: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cross-platform-update-fortnite-makes-a-comeback-on-iphones-and-launches-on-android-systems/"><u>Cross-Platform Update: Fortnite Makes a Comeback on iPhones & Launches on Android Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/decoding-the-current-period-option-for-your-iphones-cellular-data-usage-insights-and-tips/"><u>Decoding the 'Current Period' Option for Your iPhone's Cellular Data Usage: Insights and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-your-must-use-iphone-audio-tool-a-hidden-gem-in-music-apps/"><u>Discover Your Must-Use iPhone Audio Tool: A Hidden Gem in Music Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/downsizing-pictures-like-a-pro-on-iphone-and-ipad/"><u>Downsizing Pictures Like a Pro on iPhone & iPad</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-errors-with-googles-nearby-sharing-on-pc/"><u>Overcoming Errors with Google's Nearby Sharing on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-illusion-of-unfailing-ai-controls/"><u>The Illusion of Unfailing AI Controls</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-cartoon-style-rc-vehicles-from-holy-stone-comprehensive-product-review/"><u>Top-Rated Cartoon Style RC Vehicles From Holy Stone: Comprehensive Product Review</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-s18-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo S18 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-joining-friends-showtime-on-tiktok-with-ease/"><u>In 2024, Joining Friends’ Showtime on TikTok with Ease</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unlocking-premiere-pro-full-screen-magic/"><u>In 2024, Unlocking Premiere Pro Full-Screen Magic</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reevaluating-apple-arcade-why-you-should-consider-these-5-compelling-factors/"><u>Reevaluating Apple Arcade: Why You Should Consider These 5 Compelling Factors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-ios-163-the-new-feature-using-a-physical-security-key/"><u>Secure Your Apple Account with iOS 16.3: The New Feature Using a Physical Security Key</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stealthy-guide-to-reading-imessages-undetected-by-read-indicators/"><u>Stealthy Guide to Reading iMessages Undetected by Read Indicators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-cloned-phone-numbers-from-your-iphone-address-book/"><u>Step-by-Step Guide: Removing Cloned Phone Numbers From Your iPhone Address Book</u></a></li>
 </ul></div>
 

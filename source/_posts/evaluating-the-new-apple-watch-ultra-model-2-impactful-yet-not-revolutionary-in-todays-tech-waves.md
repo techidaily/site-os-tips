@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves"
-date: 2024-10-28T17:49:43.421Z
-updated: 2024-11-04T16:20:48.995Z
+date: 2024-11-06T16:31:24.392Z
+updated: 2024-11-13T19:09:29.447Z
 tags:
   - ios
 categories:
@@ -32,13 +32,20 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 ![apple watch ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/mt5j3ref_vw_34fr_watch-49-titanium-ultra2_vw_34fr_watch-face-49-alpine-ultra2_vw_34fr_geo_in-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Apple Watch Ultra 2
@@ -121,13 +128,6 @@ Expand
 
 [$799 at Apple](https://www.apple.com/shop/buy-watch/apple-watch-ultra) [$799 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-ocean-band-titanium%2F6560064.p%3FskuId%3D6560064) [$771 at Amazon](https://www.amazon.com/dp/B0CHX4JGWL?aaxitk=f1db84bc1496d2b4c81054bb083847cb&content-id=amzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a%3Aamzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a&qid=1695678277&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&tag=hotoge-20&ascsubtag=UUhtgUeUpU2000479&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-watch-ultra-2-review%2F&asc%5Fcampaign=Affiliate) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Design and Fit of the Apple Watch Ultra 2
 
 ![Showing the Action button on Apple Watch Ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2.JPG) 
@@ -142,22 +142,16 @@ Tyler Hayes / How-To Geek
 
  For this review, I picked the new [Alpine Loop](https://www.apple.com/shop/product/MT5M3AM/A/49mm-blue-alpine-loop-large?fnode=21df583c35c700eef5f791d814c3b76c69ea38b0bc2fb907492403d104c0f5e44b8ff69fe54923b04f251356058b9079f5162a3d2a844f1ec1400951c6d5d93808b05e6f97337229e1ccd3fa42ae5a19eab2c270f69d6aba408446204eb10829), which Apple states is a carbon-neutral band. It looked a little different in the pictures to me, but wearing the band felt almost identical to last year’s Alpine Loop band. The band has been fine, but it did soak up sweat and water and was hard to dry quickly. So I would recommend the rubber [Ocean Band](https://www.apple.com/shop/product/MT653AM/A/49mm-orange-ocean-band?fnode=e4468a50c132abefe7bb265e61088133af76a853b95084892c8f0d6ae8acb1baa1a7fc29bc733e38c74b34231e7016e5c537f8683d62a9b8438b4e665ab774cf935671720e2f4c138a485b3bc317ccacdbc5407a8edefd63e34114d2866a1bda) for running, swimming, or use during a shower.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What’s Actually New With the Ultra 2?
 
 ![Showing the new Snoopy watch face on Apple Watch Ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-3.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -188,13 +182,6 @@ Tyler Hayes / How-To Geek
 
  I’m not crazy about the redesigned Workouts screens in watchOS 10, but that’s a software thing I'll need to deal with rather than being Ultra 2 hardware-related.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  watchOS 10 on Ultra 2
 
  With the Apple Watch Ultra 2 comes a new watch face called Modular Ultra. It packs a lot of information onto the big screen. The Modular Ultra watch face has been great, but it’s not unique to the Ultra 2\. First-generation owners get it, too. One more reason why upgrading almost certainly isn’t worth the cost.
@@ -202,10 +189,16 @@ Tyler Hayes / How-To Geek
  Ultimately, watchOS 10 has worked fine on the Ultra 2\. It spans all the way back to Series 5 owners and does a decent job of working on all those different watches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Price and Availability
@@ -223,6 +216,13 @@ Tyler Hayes / How-To Geek
  The Apple Watch Ultra seemed to be extremely popular. I saw people wearing them all the time. It makes sense that Apple wants to give its premium, high-end smartwatch another year to fully blossom and see how far it can go before the company needs to really update it. The Ultra 2 isn't for incessant upgraders but is a great choice for newcomers.
 
 ![apple watch ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/mt5j3ref_vw_34fr_watch-49-titanium-ultra2_vw_34fr_watch-face-49-alpine-ultra2_vw_34fr_geo_in-removebg-preview.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -311,20 +311,16 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-recording-movies-best-practices-with-windows-11/"><u>[New] 2024 Approved Recording Movies Best Practices with Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterful-3d-design-best-animation-software-selection/"><u>[Updated] Masterful 3D Design Best Animation Software Selection</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-streamline-music-craft-with-our-high-quality-beat-detection-software/"><u>2024 Approved Streamline Music Craft with Our High-Quality Beat Detection Software</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-iphone-data-restoration-tools-beyond-tenorshare/"><u>Comprehensive Analysis of iPhone Data Restoration Tools Beyond Tenorshare</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/escape-the-spinning-wheel-swift-solutions-for-your-stuck-minecraft-loading-dilemma/"><u>Escape the Spinning Wheel: Swift Solutions for Your Stuck Minecraft Loading Dilemma</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-comparisons-tenorshare-iphone-data-retrieval-vs-top-contenders/"><u>Expert Comparisons: Tenorshare iPhone Data Retrieval Vs. Top Contenders</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-and-tricks-a-comprehensive-manual-for-erasing-your-snapchat-account-forever/"><u>Expert Tips and Tricks: A Comprehensive Manual for Erasing Your Snapchat Account Forever</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-5-ios-friendly-fb-videos-optimal-downloading-apps/"><u>In 2024, 5 iOS-Friendly FB Videos Optimal Downloading Apps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-t2x-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo T2x 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-lost-images-from-your-ipod-touch-a-step-by-step-guide/"><u>Recovering Lost Images From Your iPod Touch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-texts-on-your-apple-device-a-step-by-step-guide-for-macos-users/"><u>Retrieve Accidentally Deleted Texts on Your Apple Device: A Step-by-Step Guide for macOS Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-your-memories-effective-techniques-for-recovering-images-from-icloud/"><u>Revive Your Memories: Effective Techniques for Recovering Images From iCloud</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-choosing-the-right-wi-fi-chat-application-for-uninterrupted-messaging/"><u>The Ultimate Guide to Choosing the Right Wi-Fi Chat Application for Uninterrupted Messaging</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transition-to-darkness-premiere-pro-techniques/"><u>Transition to Darkness Premiere Pro Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adding-subtitles-in-fcpx-a-beginners-tutorial-updated-2023/"><u>Updated Adding Subtitles in FCPX A Beginners Tutorial (Updated 2023)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-maximizing-engagement-sharing-images-on-youtube/"><u>[New] 2024 Approved Maximizing Engagement Sharing Images on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-virtual-valor-vault-excelling-with-top-adventures-in-gaming/"><u>[New] 2024 Approved Virtual Valor Vault Excelling with Top Adventures in Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-phantom-v-fold-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Phantom V Fold Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-change-wma-files-into-mov-format-with-ease-movavi/"><u>Free Online Conversion: Change WMA Files Into MOV Format with Ease - Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-recover-a-lost-android-smartphone-discover-the-greatest-non-ios-solutions-like-find-my-iphone/"><u>How to Recover a Lost Android Smartphone? Discover the Greatest Non-iOS Solutions Like Find My iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c210-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C210 Bootloader Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locate-your-missing-android-smartphone-using-the-android-device-manager/"><u>Locate Your Missing Android Smartphone Using the Android Device Manager</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fix-top-3-simple-methods-to-reboot-your-android-device-fast/"><u>Quick Fix: Top 3 Simple Methods to Reboot Your Android Device Fast</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-snapchat-sign-in-problems-effective-strategies-for-a-smooth-login-experience/"><u>Solving Your Snapchat Sign-In Problems: Effective Strategies for a Smooth Login Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/trouble-free-driver-setup-for-hp-products-fast-and-simple-download-instructions/"><u>Trouble-Free Driver Setup for HP Products: Fast and Simple Download Instructions</u></a></li>
 </ul></div>
 

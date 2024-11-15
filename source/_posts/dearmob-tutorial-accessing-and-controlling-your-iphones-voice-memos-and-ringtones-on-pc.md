@@ -1,7 +1,7 @@
 ---
 title: "DearMob Tutorial: Accessing and Controlling Your iPhone's Voice Memos & Ringtones on PC"
-date: 2024-11-02T17:34:37.728Z
-updated: 2024-11-04T16:18:03.430Z
+date: 2024-11-11T19:26:14.994Z
+updated: 2024-11-13T16:11:43.631Z
 tags:
   - iphone-manager
 categories:
@@ -44,25 +44,11 @@ In DearMob,
 * Then hit the <Back option to go back to the interface where you can select to save "**On My iPhone**".
 ![Select multiple voice memos to save](https://www.5kplayer.com/user-guide/images/userguide-how/select-voice-memos-iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3\. Save voice memos to the custom folder created in step 1.**
 
 * Tap the On My iPhone option, and find the File Sharing app folder. In this case, it's the Pages folder. Go inside there, and you will spot the custom folder named voicememo-save.
 * Hit the Save option to save the voice memos.
 ![Save voice memos to the file sharing folder](https://www.5kplayer.com/user-guide/images/userguide-how/select-voice-memos-file-sharing-folder.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4\. View and manage voice memos in DearMob iPhone Manager > Files > \[the file sharing app you choose\] > \[custom folder\]**
 
@@ -74,10 +60,10 @@ In DearMob,
 ![Go to the file sharing app via the App module](https://www.5kplayer.com/user-guide/images/userguide-how/app-module-file-sharing-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2\. For iOS 14 and lower:**  
@@ -93,6 +79,19 @@ In DearMob,
 * Click **Select All** on the top-left corner of the window to manage all memos in one take.
 * You are suggested to **change a new location** for your exported memos, otherwise, all files will be stored in driver C by default.
 * You can click the **red bent-arrow** (the end of a voice memo) to undo deleting or click **Cancel** (next to the **Sync** button at the bottom) to revoke all deletions.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manage iOS Ringtones on Windows PC
 
@@ -114,10 +113,10 @@ If you want to customize your own ringtone, you can use the following two ways:
 ![export voice to pc](https://www.5kplayer.com/user-guide/images/userguide-how/customize-ringtone-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now in the Ringtone Maker panel, drag the heads to select a part of the audio as your iPhone ringtone, and click Sync button to apply all the settings.
@@ -125,6 +124,13 @@ Now in the Ringtone Maker panel, drag the heads to select a part of the audio as
 ![export voice to pc](https://www.5kplayer.com/user-guide/../troubleshoot-itunes/img/iphone-custom-ringtone-clipper.jpg) 
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * The audio within 40s can be used as ringtone, while audio within 15s can be used as alert tone, such as alarm clock and SMS tone.
 * Click **Refresh** to get real-time files of your device.
@@ -147,16 +153,18 @@ Now in the Ringtone Maker panel, drag the heads to select a part of the audio as
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope-for-2024/"><u>[New] Bringing Your Outdoor Experiences Home GoPro Livestreams on Facebook/Periscope for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-moments-made-perfect-expert-techniques-for-iphone-photo-editing-for-2024/"><u>[New] Moments Made Perfect Expert Techniques for iPhone Photo Editing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-funimate-playbook-strategies-for-success-for-2024/"><u>[Updated] Funimate Playbook Strategies for Success for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-revolutionize-viewing-experience-the-best-yt-reaction-methods/"><u>[Updated] In 2024, Revolutionize Viewing Experience The Best YT Reaction Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/anubis/"><u>Anubis -</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-xs-max-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone XS Max activation lock with a professional tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/escaping-the-iphones-stuck-in-recovery-mode-a-3-step-rescue-guide/"><u>Escaping the iPhones Stuck in Recovery Mode: A 3-Step Rescue Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-seamlessly-patch-directx-on-your-windows-11-or-windows-10-device/"><u>How to Seamlessly Patch DirectX on Your Windows 11 or Windows 10 Device</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-navigating-to-success-boosting-viewership-and-subs-on-youtube/"><u>In 2024, Navigating to Success Boosting Viewership and Subs on Youtube</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-to-deactivate-find-my-device-feature-and-unlock-your-phone-for-sale-or-transfer/"><u>Step-by-Step Instructions to Deactivate 'Find My [Device]' Feature & Unlock Your Phone for Sale or Transfer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-5-effective-strategies-stop-unknown-numbers-from-ringing-your-iphone/"><u>Unveiling 5 Effective Strategies: Stop Unknown Numbers From Ringing Your iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-lava-yuva-3-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Lava Yuva 3</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-steps-to-remove-your-tv-service-from-an-iphone/"><u>Easy Guide: Steps to Remove Your TV Service From an iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-to-activate-and-configure-iphone-voice-mail-for-models-ios-18-17-and-earlier/"><u>Easy Steps to Activate and Configure iPhone Voice Mail for Models iOS 18, 17, & Earlier</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-charging-fails-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Charging Fails: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-to-harvesting-in-stardew-valley-fixes-applied-no-more-launch-blues/"><u>Get Back to Harvesting in Stardew Valley – Fixes Applied, No More Launch Blues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-sideloading-function-on-ios-devices/"><u>How Does Sideloading Function on iOS Devices?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-blending-and-bonding-creating-unique-image-collages/"><u>In 2024, Blending and Bonding Creating Unique Image Collages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978930439-install-new-nvidia-1080-drivers-on-windows-10-instantly-download/"><u>Install New NVIDIA 1080 Drivers on Windows 10 - Instantly Download!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-no-strings-attached-top-free-video-editing-software-without-watermarks/"><u>New 2024 Approved No Strings Attached Top Free Video Editing Software without Watermarks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/save-your-android-and-mac-snapchat-footage-effectively/"><u>Save Your Android & Mac Snapchat Footage Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620273643-simple-techniques-to-restart-your-apple-timepiece-no-phone-necessary/"><u>Simple Techniques to Restart Your Apple Timepiece: No Phone Necessary!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-switching-your-iphones-default-browsing-app-between-chrome-safari-and-opera-touch/"><u>Step-by-Step Guide: Switching Your iPhone's Default Browsing App Between Chrome, Safari, and Opera Touch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-poco-f5-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Poco F5 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
 

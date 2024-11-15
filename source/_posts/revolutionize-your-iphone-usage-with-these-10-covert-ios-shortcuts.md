@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2024-10-31T17:04:26.881Z
-updated: 2024-11-04T17:29:13.636Z
+date: 2024-11-12T16:46:22.584Z
+updated: 2024-11-13T19:48:20.411Z
 tags:
   - ios
 categories:
@@ -39,10 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![iPhone's home screen with an arrow next to the Clock app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select Timer from the options at the bottom of the screen.
@@ -89,6 +89,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you haven't set up Siri, check out our guide on [enabling and using "Hey Siri" on iPhone](https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/) and iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Convert a Picture Into a Fun WhatsApp Sticker
 
  This is one of iOS 16's coolest features that lets you convert someone's picture into a sticker to share on WhatsApp. It's based on the subject picker feature built into the Photos app.
@@ -100,13 +107,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Head to a chat in WhatsApp and select paste. This will turn the image into a sticker that you can share with others.
 
 ![Custom Sticker dialog box on WhatsApp with an arrow next to the Send option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Set Custom Alerts to Prepare for Charging the iPhone
 
@@ -121,10 +121,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Shortcuts app's home screen with an arrow next to the Automation option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-14.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this is your first time creating an Automation shortcut, select the "Create Personal Automation" option.
@@ -142,6 +142,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  At the bottom of the screen, search for "Notifications" and select "Show Notifications."
 
 ![Personal Automation menu highlighting the Show Notification option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6-6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Enter the custom message beside "Show Notification."
 
@@ -182,10 +189,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An arrow next to the lock icon in an Apple Notes file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lock-icon-in-notes-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Elevate the Lock Screen's Appearance with Depth Effect
@@ -208,13 +215,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Lock screen customization screen with an arrow next to Depth Effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, tap Add in the top right corner and select "Set as Wallpaper Pair."
 
 ![Highlighting the Set as Wallpaper Pair option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-7.png) 
@@ -226,6 +226,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Open the Settings app and head to the Notifications menu.
 
 ![Settings app with an arrow next to the Notifications option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-19.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At the top of the menu, you'll see three options: Count, Stack, and List. Experiment with these options and see which one you prefer.
 
@@ -241,23 +248,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Accessibility settings with an arrow next to Touch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll to the bottom and hit "Back Tap."
 
 ![Touch accessibility options highlighting the Back Tap feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-18.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose Double Tap and set the action to one of the available options, including App Switcher, Camera, Home, Lock Rotation, Mute, Screenshot, etc. For this example, we're setting double tap to Flashlight.
 
@@ -268,10 +261,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Measure a Surface's Slope with the Hidden Spirit Level
@@ -285,6 +278,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Tap the Level option at the bottom right.
 
 ![Measure app with an arrow next to the level option at the bottom right](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-19.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hold your iPhone against a standing object or a flat surface to check the slope or the level.
 
@@ -307,18 +307,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-enhancing-engagement-the-art-of-animated-fb-advertising-for-2024/"><u>[New] Enhancing Engagement The Art of Animated FB Advertising for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-navigating-iphone-the-ringtone-alteration-process/"><u>[New] Navigating iPhone The Ringtone Alteration Process</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-bridging-worlds-fusing-photos-into-majestic-tiles/"><u>[Updated] In 2024, Bridging Worlds Fusing Photos Into Majestic Tiles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastery-in-making-advanced-tiktok-editing-techniques/"><u>[Updated] Mastery in Making Advanced TikTok Editing Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-for-deep-clearing-your-ipads-storage-and-boosting-performance/"><u>Effective Techniques for Deep Clearing Your iPad's Storage and Boosting Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-maximize-profits-selling-your-used-or-damaged-iphone/"><u>How to Maximize Profits: Selling Your Used or Damaged iPhone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-macgo-ios-erase-app-strengths-weaknesses-alternatives-and-faqs-covered/"><u>In-Depth Analysis of Macgo iOS Erase App – Strengths, Weaknesses, Alternatives, and FAQs Covered</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-search-for-ev-chargers-on-google-maps-a-simple-guide/"><u>Mastering the Search for EV Chargers on Google Maps: A Simple Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-earnings-on-old-iphones-a-step-by-step-tutorial-for-safe-sales-and-increased-revenue/"><u>Maximize Earnings on Old iPhones: A Step-by-Step Tutorial for Safe Sales & Increased Revenue</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-iphone-memory-using-imyfone-umate-pro-insights-comparisons-and-freebies-reviewed/"><u>Maximize iPhone Memory Using IMyFone Umate Pro - Insights, Comparisons & Freebies Reviewed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-solution-erase-your-instagram-search-history-on-iphone/"><u>Permanent Solution: Erase Your Instagram Search History on iPhone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared/"><u>The Virtual Evolution Dichotomy Metaverse & Omniverse Compared</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-launching-a-graphics-career-strategies-and-steps/"><u>[New] Launching a Graphics Career Strategies and Steps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-picks-in-depth-review-of-best-macos-screenshot-apps/"><u>[New] Top Picks In-Depth Review of Best macOS Screenshot Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup/"><u>[Updated] In 2024, Steps to Eliminate the OBS Blank Screens in Gaming Setup</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-sony-ps-players-voice-modification-techniques/"><u>2024 Approved Sony PS Players' Voice Modification Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-practices-10-proven-methods-to-repair-nonfunctional-iphone-keyboards/"><u>Best Practices: 10 Proven Methods to Repair Nonfunctional iPhone Keyboards</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypass-the-frustration-effective-strategies-for-repairing-face-id-on-iphones-x-xr-xs-and-xs-max/"><u>Bypass the Frustration: Effective Strategies for Repairing Face ID on iPhones X, XR, XS & XS Max</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drones-vs-cameras-showdown-dji-action-gopro-max-360-x3/"><u>Drones Vs. Cameras Showdown DJi Action, GoPro Max 360, X3</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-airpods-connection-issues-with-iphone-a-step-by-step-guide/"><u>Fix Your AirPods Connection Issues with iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-responsive-mobile-applications-top-6-strategies-for-iphone-and-android-devices/"><u>Fixing Non-Responsive Mobile Applications: Top 6 Strategies for iPhone & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-revive-your-iphones-blackscreen-effective-fixes-unveiled/"><u>How to Revive Your iPhone's Blackscreen - Effective Fixes Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-device-resetting-initiating-recovery-mode-for-iphones-and-ipads/"><u>Mastering Device Resetting: Initiating Recovery Mode for iPhones and iPads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solving-compatibility-issues-for-csr8510-a10-graphics-drivers-on-windows-systems-step-by-step-solutions/"><u>Solving Compatibility Issues for CSR8510 A10 Graphics Drivers on Windows Systems: Step-by-Step Solutions</u></a></li>
 </ul></div>
 

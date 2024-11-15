@@ -1,7 +1,7 @@
 ---
 title: Key Hurdles Preventing iPhone Upgrade Decisions
-date: 2024-11-02T18:16:45.408Z
-updated: 2024-11-04T18:12:39.970Z
+date: 2024-11-08T19:04:12.915Z
+updated: 2024-11-13T20:03:02.027Z
 tags:
   - ios
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Rumors for the iPhone 16 are picking up, but the one aspect of a new phone that would make me excited about upgrading is something Apple gave up on years ago. I just want a smaller size.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The iPhone Mini Is Big Enough for Me
@@ -35,16 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![iPhone 12 Mini in the palm of a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-12-mini-in-the-palm-of-a-hand.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dan Helyer / How-To Geek
@@ -56,10 +50,10 @@ Dan Helyer / How-To Geek
  And although it would be lovely to have the triple-lens setup of a larger, Pro iPhone, I can make do with the wide and ultrawide lenses I have. The photos are certainly high enough quality for me to capture and look back on my life.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There's No Sign of an iPhone 16 Mini in Sight
@@ -71,10 +65,10 @@ Dan Helyer / How-To Geek
  There simply wasn't enough consumer interest to make a smaller iPhone worthwhile for Apple, especially considering the lower price tag attached to it. So I understand why the smaller iPhone line has ended, but that does leave me much less excited about an iPhone 16.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I'll Just Stick With What I Have
@@ -104,19 +98,22 @@ Dan Helyer / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-optimizing-livestream-videos-on-twitch/"><u>[New] 2024 Approved Optimizing Livestream Videos on Twitch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-lightroom-app-a-complete-evaluation/"><u>2024 Approved Android's Lightroom App A Complete Evaluation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-avi-to-gif-transition-filmora-software-windowsmacos/"><u>2024 Approved Unveiling the Secrets of AVI to GIF Transition Filmora Software (Windows/macOS)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/barely-safe-the-risky-overclock-saga/"><u>Barely Safe: The Risky Overclock Saga</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-high-quality-behringer-audio-drives/"><u>Free Download: High-Quality Behringer Audio Drives</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-get-past-a-non-starting-battlenet-interface/"><u>How to Get Past a Non-Starting Battle.net Interface</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-handheld-mounts-ultimate-gyroscopic-tech/"><u>In 2024, Professional Handheld Mounts Ultimate Gyroscopic Tech</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-old-imessages-tips-for-users-whove-moved-beyond-ios-versions-12-13-and-14/"><u>Restoring Old iMessages: Tips for Users Who've Moved Beyond iOS Versions 12, 13, and 14</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-your-memories-effective-techniques-for-snapchat-photo-restoration-on-smartphones-androidios/"><u>Revive Your Memories: Effective Techniques for Snapchat Photo Restoration on Smartphones (Android/iOS)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-multitasking-with-splitting-your-screen-on-windows-10/"><u>Step-by-Step Guide: Mastering the Multitasking with Splitting Your Screen on Windows 10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securing-access-to-your-icloud-drive-images-and-documents-across-devices/"><u>Step-by-Step Guide: Securing Access to Your iCloud Drive Images & Documents Across Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-speedy-recovery-of-deleted-imessages-from-an-iphone/"><u>Step-by-Step Instructions for Speedy Recovery of Deleted iMessages From an iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-retrieve-accidentally-deleted-phone-numbers-on-ios-and-android-systems/"><u>Ultimate Guide: How to Retrieve Accidentally Deleted Phone Numbers on iOS and Android Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-your-youtube-comments-on-various-devices/"><u>[Updated] 2024 Approved Discovering Your YouTube Comments on Various Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turbocharging-fb-media-speed-techniques-revealed/"><u>[Updated] Turbocharging FB Media Speed Techniques Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-tiktok-techniques-unveiled/"><u>2024 Approved Transformative TikTok Techniques Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-speed-effective-remedies-for-unfreezing-and-enhancing-responsiveness/"><u>Boost Your iPhone's Speed: Effective Remedies for Unfreezing & Enhancing Responsiveness</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-gopro-extras-the-must-have-2024-upgrades-for-epic-videos/"><u>Essential GoPro Extras: The Must-Have 2024 Upgrades for Epic Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-the-locator-a-comprehensive-tutorial-on-rebooting-your-iphones-positioning-functionality/"><u>Fixing the Locator: A Comprehensive Tutorial on Rebooting Your iPhone's Positioning Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-perform-a-full-format-on-your-iphone-step-by-step-guide-to-restoring-original-settings/"><u>How to Perform a Full Format on Your iPhone: Step-by-Step Guide to Restoring Original Settings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-comprehensive-overview-of-google-docs-voice-input-functionality/"><u>In 2024, Comprehensive Overview of Google Docs Voice Input Functionality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-choice-the-greatest-11-multi-angle-cams/"><u>In 2024, Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-friendly-top-4-methods-to-transfer-music-from-your-ipod-shuffle-or-nano-without-using-itunes/"><u>IPad-Friendly: Top 4 Methods to Transfer Music From Your iPod, Shuffle or Nano Without Using iTunes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242376-maximize-your-iphones-performance-and-memory-with-a-simple-trick-eliminating-app-cache-for-zero-cost/"><u>Maximize Your iPhone's Performance and Memory with a Simple Trick: Eliminating App Cache for Zero Cost!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Galaxy Z Flip 5</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-erasing-all-data-from-your-ipad-safely-including-tips-without-a-password/"><u>Ultimate Guide: Erasing All Data From Your iPad Safely, Including Tips Without a Password</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-instructions-for-removing-your-snapchat-images-from-conversations-and-memories/"><u>Ultimate Instructions for Removing Your Snapchat Images From Conversations & Memories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-how-to-empty-your-facebook-cache-across-all-devices-windows-mac-android-ios/"><u>Ultimate Step-by-Step Tutorial: How to Empty Your Facebook Cache Across All Devices (Windows, Mac, Android, iOS)</u></a></li>
 </ul></div>
 

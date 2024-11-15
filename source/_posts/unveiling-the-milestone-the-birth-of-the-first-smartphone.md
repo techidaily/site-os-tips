@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-10-31T17:23:13.741Z
-updated: 2024-11-04T17:47:50.775Z
+date: 2024-11-11T18:21:48.746Z
+updated: 2024-11-13T16:53:18.406Z
 tags:
   - ios
 categories:
@@ -17,10 +17,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -96,17 +96,17 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-humorous-harmonics-optimal-ringtone-sites/"><u>[New] Humorous Harmonics Optimal Ringtone Sites</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-adding-pizzazz-to-your-footage-with-moving-text/"><u>[Updated] In 2024, Adding Pizzazz to Your Footage with Moving Text</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-10-history-youtube-feeds-for-learners/"><u>[Updated] In 2024, Essential 10 History YouTube Feeds For Learners</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp3-wav-4/"><u>最適な MP3 から WAV への自由変換アプリを探しているなら、これが4つのお勧めです！</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a58-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A58 4G Device SIM</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-deadly-dominance-the-quintessential-zombie-gameplay/"><u>In 2024, Deadly Dominance The Quintessential Zombie Gameplay</u></a></li>
-<li><a href="https://os-tips.techidaily.com/leading-iphone-weather-tools-the-ultimate-selection-for-mobile-forecast-enthusiasts/"><u>Leading iPhone Weather Tools: The Ultimate Selection for Mobile Forecast Enthusiasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-mindfulness-bid-farewell-to-incessant-notifications-with-these-4-strategies/"><u>Mastering Mobile Mindfulness: Bid Farewell to Incessant Notifications with These 4 Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-health-top-6-strategies-for-leveraging-a-fitness-tracker/"><u>Maximize Your Health: Top 6 Strategies for Leveraging a Fitness Tracker</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-productivity-the-benefits-of-utilizing-the-native-ios-notes-app/"><u>Maximizing Productivity: The Benefits of Utilizing the Native iOS Notes App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/oregon-enacts-groundbreaking-right-to-repair-legislation-targeting-tech-giants-proprietary-components/"><u>Oregon Enacts Groundbreaking Right-to-Repair Legislation Targeting Tech Giants' Proprietary Components</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/urn-your-screen-time-into-money-with-these-tips-for-2024/"><u>[New] Turn Your Screen Time Into Money With These Tips for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-windows-10-capture-apps-ultimate-guide/"><u>[Updated] In 2024, Top Windows 10 Capture Apps Ultimate Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-streamlined-sharing-the-best-shortened-link-apps-for-youtubers/"><u>2024 Approved Streamlined Sharing The Best Shortened Link Apps for Youtubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diving-deep-essential-pro-tips-for-underwater-gopro-footage/"><u>Diving Deep Essential Pro Tips for Underwater GoPro Footage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-fixes-to-tackle-fb-story-load-failures-for-2024/"><u>Essential Fixes to Tackle Fb Story Load Failures for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-safeguarding-voice-memos-on-iphone-a-guide-to-4-reliable-backup-techniques/"><u>Master the Art of Safeguarding Voice Memos on iPhone: A Guide to 4 Reliable Backup Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safeguard-your-important-ios-content-by-learning-to-use-itunes-for-iphone-backups/"><u>Safeguard Your Important iOS Content by Learning to Use iTunes for iPhone Backups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-mastering-the-art-of-syncing-your-ipad-with-itunes/"><u>Simple Steps: Mastering the Art of Syncing Your iPad with iTunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-scan-of-lg-360-modern-updates-review/"><u>The Complete Scan of LG 360 Modern Updates Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-top-8-ios-backup-solutions-for-safeguarding-your-precious-information/"><u>The Ultimate List of Top 8 iOS Backup Solutions for Safeguarding Your Precious Information</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-backup-strategies-for-your-iphone-mastering-pciclouditunes-techniques-with-simple-steps/"><u>Ultimate Backup Strategies for Your iPhone : Mastering PC/iCloud/iTunes Techniques with Simple Steps</u></a></li>
 </ul></div>
 

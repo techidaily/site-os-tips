@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot Issues with Your iPhone's Screen Mirroring Feature on Television and Computers
-date: 2024-08-18T09:35:05.876Z
-updated: 2024-08-19T09:35:05.876Z
+date: 2024-11-11T20:27:39.820Z
+updated: 2024-11-13T20:11:52.630Z
 tags:
   - fix-ios-problems
   - iphone-troubleshooting
@@ -32,8 +32,12 @@ _What should you do when your iPhone screen is not working?_
  ➤ Touch screen got physically damaged.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to fix iPhone/iPad screen not working
 
  In this part, we will show you several effective solutions and help you deal with iPhone screen not working issue.
@@ -43,9 +47,6 @@ _What should you do when your iPhone screen is not working?_
  In most cases, a simple reboot of iPhone/iPad can deal with the touch screen not working issue, as there are too many programs running at the same time and you cannot shut down them. But if the physical key still works, you can try to restart the iPhone or iPad.
 
 ![Restart iPhone](https://www.aiseesoft.com/images/iphone-data-eraser/restart-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1 Press and hold the**Sleep/Power** (On/Off) button of the iOS device until the red slider bar appears.
 
@@ -53,17 +54,11 @@ Step 2 **Slide to power off** iPhone.
 
 Step 3 For seconds, press and hold the Sleep/Power button again and**restart iPhone** . Check whether the iPhone/iPad screen not responding issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Clean your iPhone/iPad screen
 
  If the problem of iPhone/iPad touch screen not working is caused by the dirty screen, you can attempt to[clean your iPhone/iPad screen](https://tools.techidaily.com/) . The screen can get the accumulation of grease, dirt and other physical materials. Here are some tips for iPhone/iPad touch screen cleaning.
 
 ![Clean iPhone](https://www.aiseesoft.com/images/iphone-data-eraser/clean-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ◆ You'd better power off your iPhone/iPad in case of a permanent damage.  
  ◆ Use a microfiber cloth or a lint-free cloth. Never use a towel or something that can damage the screen.  
@@ -75,14 +70,7 @@ Step 3 For seconds, press and hold the Sleep/Power button again and**restart iPh
  Your iPhone/iPad screen may not detect your finger tap because of the screen protector. You are able to remove the iPhone/iPad screen protector and try to tap on the screen to see the iPhone/iPad touch screen not working has been solved or not.
 
 ![Remove Screen Protector](https://www.aiseesoft.com/images/iphone-data-eraser/remove-screen-protector.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Use the original charger of iPhone/iPad
 
  Do you use the original charger when you charge iPhone/iPad? The non-original charger can lead to the unresponsive iPhone/iPad screen, as it may have no MFI certificate. MFI is abbreviation of Made For iPhone/iPad/iPod, and this program is a licensing one from Apple. Non-original charger may destructive. Turn to use an original charger for your iPhone/iPad and see the touch screen get any responding.
@@ -90,9 +78,19 @@ Step 3 For seconds, press and hold the Sleep/Power button again and**restart iPh
 ![Original Charger](https://www.aiseesoft.com/images/iphone-data-eraser/original-charger.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Restore/reset iPhone/iPad
 
  This way might be your last choice if you've tried the previous methods. Before you want to get your iPhone restored, you'd better back up your iPhone to iCloud or computer. Then you can[hard reset iPhone](https://tools.techidaily.com/) via iTunes, device settings or a reputable iPhone reset software.
@@ -100,6 +98,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 #### Restore iPhone via iTunes
 
 ![Restore iPhone with iTunes](https://www.aiseesoft.com/images/resource/restore-iphone6-with-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1 Launch the latest iTunes and connect your iPhone with computer.
 
@@ -124,10 +129,6 @@ Step 2 Hit "OK" and confirm to hard reset iPhone to factory settings.
 Step 1 Launch FoneEraser and plug your iPhone to computer via USB cable.
 
 ![Reset iPhone to Factory Settings](https://www.aiseesoft.com/images/iphone-data-eraser/connect-ipad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 Step 2 Three erasing level (Low, Medium and High) are available to choose from.
 
@@ -136,8 +137,25 @@ Step 2 Three erasing level (Low, Medium and High) are available to choose from.
 Step 3 Click the button of "Start" and prepare to erase everything from your iPhone.
 
 ![Reset iPhone to Factory Settings](https://www.aiseesoft.com/images/iphone-data-eraser/erase-ipad-history-and-cookies.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Find a iOS system recovery tool
@@ -157,9 +175,6 @@ Step 2 Lead iPhone into Recovery or DFU mode
  Click "Question" button and follow the guide to turn your iPhone into Recovery or[DFU mode](https://tools.techidaily.com/) . Here we put disabled iPhone into DFU mode.
 
 ![Led iPhone into DFU](https://www.aiseesoft.com/images/iphone-data-recovery/fix/into-dfu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 Step 3 Fix disabled iPhone
 
@@ -170,6 +185,13 @@ Step 3 Fix disabled iPhone
  You can watch the video to learn more about iOS System Recovery:
 
 ![Video Fix Disabled Frozen-iPhone to Normal](https://www.aiseesoft.com/images/youtube-video/video-fix-disabled-frozen-iphone-to-normal.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this article, we mainly show you several solutions if you encounter the issue of**iPhone screen not working** . If you have any better methods, welcome to tell us.
 
@@ -195,8 +217,6 @@ Rating: 4.8 / 5 (based on 190 ratings)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +224,17 @@ Rating: 4.8 / 5 (based on 190 ratings)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-rumors-of-apple-watch-series-x-projections-on-price-debut-date-and-potential-specifications/"><u>Decoding Rumors of Apple Watch Series X: Projections on Price, Debut Date & Potential Specifications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fuhren-sie-ihre-lieblings-musik-von-windows-111087-und-macos-direkt-zu-ihrem-iphone-indem-sie-itunes-vermeiden/"><u>Führen Sie Ihre Lieblings-Musik Von Windows 11/10/8/7 Und macOS Direkt Zu Ihrem iPhone, Indem Sie iTunes Vermeiden!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-speaker-distortion-on-pcs-windows-10-and-7-solutions/"><u>How to Fix Window's Speaker Distortion on PCs (Windows 10 & 7 Solutions)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-instantly-create-a-custom-youtube-feed-via-your-smartphone/"><u>In 2024, Instantly Create a Custom YouTube Feed via Your Smartphone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-switch-exchanging-playlists-across-streaming-platforms/"><u>In 2024, Seamless Switch Exchanging Playlists Across Streaming Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-effective-tricks-to-combat-samsung-galaxy-phone-freezing-glitches/"><u>Quick and Effective Tricks to Combat Samsung Galaxy Phone Freezing Glitches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-adjust-font-styles-on-android-device-using-pre-installed-options-and-third-party-tools/"><u>Quick Tips: Adjust Font Styles on Android Device Using Pre-Installed Options & Third-Party Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-methods-for-rooting-your-android-device-a-comprehensive-guide/"><u>Safe Methods for Rooting Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-solutions-to-resolve-your-samsung-galaxy-devices-screen-freezing-problem/"><u>Simple Solutions to Resolve Your Samsung Galaxy Device's Screen-Freezing Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-inpage-kernel-memory-errors/"><u>Step-by-Step Guide: Correcting Inpage Kernel Memory Errors</u></a></li>
+</ul></div>
 

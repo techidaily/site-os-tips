@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Productivity: A Step-by-Step Guide on Setting Up Your iPad as a Secondary Display for Windows and macOS Computers"
-date: 2024-10-29T17:32:28.493Z
-updated: 2024-11-04T17:07:55.092Z
+date: 2024-11-06T17:51:01.680Z
+updated: 2024-11-13T19:47:55.264Z
 tags:
   - ios
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
  An iPad can't compete with a [real monitor](https://facebook-video-recording.techidaily.com/in-2024-unlocking-top-five-transformative-facebook-traits/) in terms of size or price, of course. But if you already have an iPad, it can pull double duty as a second monitor at your desk, or even with your laptop when you're out and about. A [simple iPad stand](https://amazon.com/dp/B01IJ5A2UA?tag=htg-v2-4p2k1g2-20&ascsubtag=UUhtgUeUpU222981&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F100886%2Fhow-to-use-your-ipad-as-a-second-monitor-for-your-pc-or-mac%2F&asc%5Fcampaign=Short-Term) or a [case with a built-in stand](https://www.amazon.com/s?tag=htg-v2-4p2k1g2-20&ascsubtag=UUhtgUeUpU222981&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F100886%2Fhow-to-use-your-ipad-as-a-second-monitor-for-your-pc-or-mac%2F&asc%5Fcampaign=Short-Term) completes the experience.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use iPad as a Second Monitor For Windows
 
  For Windows, we recommend an app called "Duet Display." It's not a free app, but it can work with a wired or wireless connection between the PC and iPad. You can get Duet Display for $4 per month ($48 annually).
@@ -36,18 +43,18 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Sign in to "Duet Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/IMG_0049.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first time you use Duet Display, you'll need to connect your iPad to your PC [with a cable](https://games-able.techidaily.com/bypassing-steam-disconnection-in-windows-11/). We can switch to wireless mode for future connections later.
 
  Once the devices are connected with a cable, and Duet Display is signed in and running on both, you'll see a brief zoom-out animation on your Windows display, and the desktop will be extended to your iPad.
 
 ![Duet Display extending displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/PXL_20230518_192447239.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -56,23 +63,15 @@ Joe Fedewa / How-To Geek
 ![Select "Display Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-45.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should see two screens--one representing your main computer monitor (1), and the other representing your iPad (2). Click and drag the iPad screen to position it as it's positioned in real life, then click "Apply."
 
 ![Move display and click "Apply."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-21.png) 
-
- This is also where you can choose to "Extend These Displays" or "Duplicate These Displays," which is screen mirroring.
-
-![How to use Displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-29-46.png) 
-
- Next, let's take a look at Duet Display's settings. Open the Windows app and switch to the "Settings" tab.
-
-![Select the "Settings" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-28-38.png) 
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
@@ -81,16 +80,24 @@ Joe Fedewa / How-To Geek
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ This is also where you can choose to "Extend These Displays" or "Duplicate These Displays," which is screen mirroring.
+
+![How to use Displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-29-46.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Next, let's take a look at Duet Display's settings. Open the Windows app and switch to the "Settings" tab.
+
+![Select the "Settings" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-28-38.png) 
+
  There are a number of settings you may be interested in here. The one we're interested in is "Enable Duet Air." This will allow you to connect to your iPad wirelessly from this point on.
 
 ![Click "Enable Duet Air."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-30-37.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the "Connected Devices" tab, you can adjust a number of other display settings. We recommend keeping the "Frame Rate" at "60 FPS" and "Performance" at "High Power," but you can lower both if your computer isn't powerful enough to handle them or if it's losing too much battery power.
 
@@ -99,26 +106,13 @@ Joe Fedewa / How-To Geek
 ![Display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-33-03.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've tweaked things to your liking, you're ready to go! It should be noted that Duet Display is also [available for macOS](https://updates.duetdisplay.com/AppleSilicon) if you happen to not like Sidecar or your Mac doesn't support the feature.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use iPad as a Second Display For Your Mac
 
@@ -169,18 +163,15 @@ Related: [How to Use Your iPad as an External Mac Display With Sidecar](https://
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/xclusive-access-top-8-platforms-for-free-green-screen-scenery-files/"><u>[New] Exclusive Access Top 8 Platforms for Free Green Screen Scenery Files</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-best-practices-for-influential-engagement-top-5-tips-with-examples/"><u>[Updated] 2024 Approved Instagram's Best Practices for Influential Engagement Top 5 Tips with Examples</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-adjust-your-android-images-right-here-for-2024/"><u>[Updated] Adjust Your Android Images Right Here for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>2024 Approved Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-new-era-of-youtube-naming-unique-ideas-for-modern-blogging-and-filming-maximum-length-156-characters/"><u>2024 Approved The New Era of Youtube Naming Unique Ideas For Modern Blogging & Filming (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dont-delay-simplify-retrieving-your-apple-id-in-a-matter-of-minutes/"><u>Don't Delay! Simplify Retrieving Your Apple ID in a Matter of Minutes.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-monitor-your-weight-with-this-revolutionary-iphone-automation-tool/"><u>Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-ipads-capabilities-introducing-orion-seamless-ipad-to-monitor-connectivity-for-enhanced-productivity/"><u>Elevate Your iPad's Capabilities: Introducing Orion - Seamless iPad to Monitor Connectivity for Enhanced Productivity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ensure-your-ipads-safety-with-esr-comprehensive-solutions/"><u>Ensure Your iPad's Safety with ESR: Comprehensive Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expanded-free-editing-features-unveiled-in-google-photos/"><u>Expanded Free Editing Features Unveiled in Google Photos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-enhanced-performance-with-the-latest-new-ipad-air-featuring-an-advanced-m2-processor-and-expanded-13-display-choice/"><u>Experience Enhanced Performance with the Latest New iPad Air Featuring an Advanced M2 Processor & Expanded 13 Display Choice</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sony-xperia-5-analysis-compact-yet-pricey-design/"><u>Sony Xperia 5 Analysis: Compact Yet Pricey Design</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-zero-30-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Zero 30 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-the-art-of-tiktok-intros-on-mac-devices-for-2024/"><u>[New] Mastering the Art of TikTok Intros on Mac Devices for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>[New] Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-and-dailymotion-unveiling-core-variations/"><u>[Updated] In 2024, YouTube & Dailymotion Unveiling Core Variations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-augmenting-youtube-video-space/"><u>[Updated] Step-by-Step Augmenting YouTube Video Space</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-12-4g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 12 4G PC | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigating-the-fallout-how-apple-downtime-causes-iphone-app-issues/"><u>Navigating the Fallout: How Apple Downtime Causes iPhone App Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/next-gen-performance-showdown-the-evolution-from-apples-a14-to-the-revolutionary-m1-chip/"><u>Next-Gen Performance Showdown: The Evolution From Apple's A14 to the Revolutionary M1 Chip</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/optimiser-la-taille-de-vos-fichiers-mp4-sans-sacrifier-la-qualite-guide-complet/"><u>Optimiser La Taille De Vos Fichiers MP4 Sans Sacrifier La Qualité - Guide Complet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/refresh-your-iphones-look-with-automatic-wallpaper-rotation/"><u>Refresh Your iPhone's Look with Automatic Wallpaper Rotation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-apple-watch-a-comprehensive-tutorial-for-beginners-and-pros/"><u>Resetting Your Apple Watch - A Comprehensive Tutorial for Beginners and Pros</u></a></li>
 </ul></div>
 

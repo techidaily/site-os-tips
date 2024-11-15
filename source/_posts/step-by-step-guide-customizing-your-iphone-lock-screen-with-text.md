@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Customizing Your iPhone Lock Screen with Text"
-date: 2024-11-02T18:01:05.977Z
-updated: 2024-11-04T16:27:11.122Z
+date: 2024-11-06T17:46:32.924Z
+updated: 2024-11-13T16:12:54.803Z
 tags:
   - ios
 categories:
@@ -16,19 +16,19 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 * [Why Should You Add Lock Screen Text to Your iPhone?](https://youtube-zero.techidaily.com/ed-2024-approved-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube/)
 * [How to Add Text to Your iPhone Lock Screen](https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y100i-power-5g-to-pc-drfone-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Adding text on the lock screen can be done on iOS 16 and later using third-party apps like AnyText, Lock Screen 16, and LockNotes that allow you to create widgets with custom text.
 * Your iPhone also packs a built-in Reminder widget for your tasks list. Further, you can make it easier for others to find your medical information in an emergency by showing your Medical ID on the lock screen.
 
  Unlike Android, the iPhone doesn't allow you to simply add text to the lock screen. If you want to personalize your lock screen anyway with a name like "Andrew's iPhone," add information like "If Found, Call...," or even include emergency contact information, here are all the workarounds for adding text to your iPhone lock screen.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Should You Add Lock Screen Text to Your iPhone?
 
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![In AnyText App, tap Get Started.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the next screen, type the text you want to appear on your iPhone's lock screen.
 
 ![Empty Text Field in AnyText app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-3.jpg) 
@@ -87,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  You'll now see a list of all the widgets you can add. Scroll down and select "Any Text."
 
 ![Select AnyText from the widget list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-9.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Drag and drop the custom-text widget you created into the widget box.
 
@@ -139,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ![Tap Save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-7.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Back to the iPhone lock screen, long-press anywhere, select "Customize," and choose "Lock Screen."
@@ -152,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Tap on "Add Widgets."
 
 ![Tap the Add Widgets button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-8.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll down and tap "Lock Screen 16."
 
@@ -172,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Select the Status widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hit "X" to close the widget list.
 
 ![Tap the X button to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-5.jpg) 
@@ -179,6 +179,13 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Hit "Done" to save the widget.
 
 ![Tap Done to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-6.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You have successfully placed a text widget on your iPhone lock screen. Feel free to play with different font styles and sizes to match your preferences.
 
@@ -198,6 +205,13 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![In LockNotes app, tap Create button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/locknotes-app-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap the empty field and type the text you want to display. You'll see a preview of how it will appear on the lock screen.
 
 ![Write the text for lock screen widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/locknotes-app-5.jpg) 
@@ -212,13 +226,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![A saved note in the LockNotes app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/locknotes-app-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  select "Customize." Choose "Lock Screen."
 
 ![Long-press on lock screen and tap Customize.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-6.jpg) 
@@ -230,13 +237,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Select "LockNotes" from the list.
 
 ![Select LockNotes from the widget list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/locknotes-app-8.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tap the text widget you created or drag and drop it to the widget box.
 
@@ -264,6 +264,13 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Open wallpaper image in Photos app, tap Edit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "Markup button" (the tiny pencil icon on the top right).
 
 ![Tap the Pen icon on the top right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-2.jpg) 
@@ -284,16 +291,16 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Tap Done on the top right to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap the "Share" button on the bottom left.
 
 ![Tap Share button on the bottom left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-8.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select "Use as Wallpaper."
 
@@ -327,13 +334,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Tap Done to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reminders-on-lock-screen-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now check the tasks directly from your iPhone lock screen.
 
 ![Reminders widget on iPhone Lock Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reminders-on-lock-screen-8.jpg) 
@@ -361,17 +361,18 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-profile-transformation-top-11-online-image-makers/"><u>[New] 2024 Approved Facebook Profile Transformation Top 11 Online Image Makers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pinnacle-color-balance-pro-for-2024/"><u>[New] Pinnacle Color Balance Pro for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-premier-zero-cost-facebook-videoimage-craftsman-for-2024/"><u>[New] Premier Zero-Cost Facebook Video/Image Craftsman for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-snagit-screen-recorder-review-and-alternatives/"><u>[New] Snagit Screen Recorder Review and Alternatives</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-instagrams-authenticity-rules/"><u>[Updated] Navigating Instagram’s Authenticity Rules</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-and-maintain-your-iphones-sound-level-a-step-by-step-fix-for-dropping-volume-issues/"><u>How to Restore and Maintain Your iPhone's Sound Level – A Step-by-Step Fix for Dropping Volume Issues</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-restoring-your-broadcast-essential-steps-for-uninterrupted-fb-live/"><u>In 2024, Restoring Your Broadcast Essential Steps for Uninterrupted FB Live</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-pitaka-magez-automotive-mobile-dock-revolutionizing-your-iphones-travel-experience/"><u>In-Depth Analysis of Pitaka MagEZ Automotive Mobile Dock - Revolutionizing Your iPhone's Travel Experience.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-evaluation-of-the-apple-watch-series-eb-consistent-quality-at-its-core/"><u>In-Depth Evaluation of the Apple Watch Series Eb – Consistent Quality at Its Core</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-173-enhancements-new-security-features-protecting-your-iphone-from-theft/"><u>IOS 17.3 Enhancements: New Security Features Protecting Your iPhone From Theft</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-clearing-your-dns-cache-on-windows-10-and-11/"><u>Step-by-Step Guide to Clearing Your DNS Cache on Windows 10 & 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/video-mastery-share-stunning-images-on-youtube-efficiently/"><u>Video Mastery Share Stunning Images on YouTube Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-variety-50-complimentary-youtube-banners-available/"><u>[New] In 2024, Discover Variety – 50 Complimentary YouTube Banners Available</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/expert-analysis-of-leading-android-video-editor-software-choices-featuring-movavi-insights/"><u>Expert Analysis of Leading Android Video Editor Software Choices Featuring Movavi Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-functionality-of-an-unresponsive-iphone-display-expert-tips/"><u>How to Restore Functionality of an Unresponsive iPhone Display - Expert Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-magic-6-lite-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Magic 6 Lite Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-8-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 8 Pro Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-nomad-magnetic-leather-case-expert-review-for-the-latest-iphone-15-pro/"><u>In-Depth Analysis of the Nomad Magnetic Leather Case: Expert Review for the Latest iPhone 15 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-growing-anxiety-for-vision-pros-longevity-in-light-of-the-newly-launched-visionos-2/"><u>My Growing Anxiety for Vision Pro's Longevity in Light of the Newly Launched visionOS 2</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-update-brings-revamped-contact-management-features-in-microsoft-outlooks-ios-and-android-applications/"><u>New Update Brings Revamped Contact Management Features in Microsoft Outlook's iOS and Android Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/plan-your-departure-with-ease-using-google-maps-real-time-arrival-predictions/"><u>Plan Your Departure with Ease Using Google Maps' Real-Time Arrival Predictions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-to-getting-those-crucial-sandisk-ssd-drivers-installed/"><u>Quick and Simple Guide to Getting Those Crucial Sandisk SSD Drivers Installed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-shut-down-multiple-safari-tabs-simultaneously-on-ios-devices/"><u>Quick Guide: Shut Down Multiple Safari Tabs Simultaneously on iOS Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-where-to-find-filmora-torrent-for-free-without-any-virus-and-risk-in-this-article-i-will-show-you-a-100-safe-and-useful-way-to-get-the/"><u>Updated 2024 Approved Where to Find Filmora Torrent for Free without Any Virus and Risk? In This Article, I Will Show You a 100 Safe and Useful Way to Get the Filmora Free Torrent</u></a></li>
 </ul></div>
 

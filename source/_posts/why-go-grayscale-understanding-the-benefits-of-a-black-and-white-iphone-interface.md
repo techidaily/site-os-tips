@@ -1,7 +1,7 @@
 ---
 title: Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface
-date: 2024-10-28T17:24:05.846Z
-updated: 2024-11-04T16:41:21.644Z
+date: 2024-11-11T20:11:19.968Z
+updated: 2024-11-13T17:35:22.702Z
 tags:
   - ios
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Did you know that turning your phone screen black and white (grayscale) can help you reduce your screen time and make your phone less distracting? Here's how use your iPhone in grayscale mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Should You Make Your iPhone Screen Black and White?
 
  There are a couple of reasons why you should consider switching your phone to black-and-white. Perhaps most importantly, if you’re colorblind, a grayscale display mode makes it easier for you to distinguish objects and read text better. Though this is primarily an accessibility option, there are uses outside of this to consider too.
@@ -36,13 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Switching your display to black and white can help [prevent eye strain](https://fox-http.techidaily.com/8-premier-online-photo-frame-creators-revealed/). It reduces the amount of contrast and visual stimuli your eyes experience, which can help you avoid eye fatigue and headaches, especially if you're the kind of person who's constantly in front of a screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Turn Your iPhone Screen Grayscale
 
  You can turn your iPhone screen grayscale in a few easy steps. First, head to the "Settings" app and tap on “Accessibility.”
@@ -52,6 +52,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Next, select “Display and Text Size.”
 
 ![iPhone Accessibility settings with 'Display & Text Size' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll down until you find the "Color Filters" setting and tap on it.
 
@@ -87,6 +94,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The 'plus' button for creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now tap on "Time of Day"
 
 ![The 'New Automation' creation page with 'Time of Day' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-2.png) 
@@ -95,16 +109,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The 'New Automation' creation page with a focus on the time the automation will run](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-16-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can customize exactly what time around sunset you want your grayscale automation to activate, so don't be afraid to explore the options.
 
 ![The 'New Automation' creation page with a focus on the time the automation will run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-4-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you've made your choice, hit "Done" in the top right corner.
 
@@ -114,37 +134,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The iPhone Shortcuts 'Action' page with the 'Add Action' button in the middle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-18.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the search bar, type in "Set Color Filters." The corresponding setting should appear in the options. Tap on it to proceed.
 
 ![The search bar in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the next page, you should find an automation to "Turn Color Filters On." Ensure that this is correct and tap "Next."
 
 ![The 'Actions' page when creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By default, your iPhone asks you for permission before running any automation. To turn this option off and seamlessly turn your phone grayscale at sunset, toggle the "Ask Before Running" option off.
 
 ![The 'Ask Before Running' setting toggled on in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Confirm that you want your automation to run without asking.
@@ -155,16 +168,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Creating a new automation in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, you're halfway done. You've successfully created an automation to turn on grayscale mode at sunset, and it should look something like this.
 
 ![Existing iPhone automations that have already been created in the Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bw-12.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you need to create another automation to turn grayscale mode off at sunrise. To do that, repeat the steps you took to create the first automation, but this time, under "Time of Day," select "Sunrise" instead.
 
@@ -179,22 +192,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![The two automations to turn color filters on and off at sunset and sunrise respectively](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/iphone-black-and-white-screen-21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Congratulations! Now, your phone will automatically turn grayscale on at sunset, and back off at sunrise.
 
  Sunset and sunrise are just two suggestions. If you'd rather use a grayscale iPhone between specific work hours, use those instead. You could also [create an iPhone Shortcut](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to toggle the feature in a tap.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Or Use a Black and White iPhone Wallpaper
 
@@ -219,21 +231,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[New] 2024 Approved Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[New] 2024 Approved Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-streamline-capturing-and-saving-tweets-visuals-on-android/"><u>[Updated] 2024 Approved Streamline Capturing and Saving Tweets' Visuals on Android</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-create-compelling-animation-subscribe-bars-for-your-youtube-channel-filmora-for-2024/"><u>[Updated] Create Compelling Animation Subscribe Bars for Your YouTube Channel (Filmora) for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-video-sources-and-uploading-on-instagram/"><u>[Updated] In 2024, Navigating Video Sources and Uploading on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-live-broadcast-with-periscope/"><u>[Updated] Innovations in Live Broadcast with Periscope</u></a></li>
-<li><a href="https://os-tips.techidaily.com/beginners-essential-strategies-for-password-management-on-your-ios-devices/"><u>Beginner's Essential Strategies for Password Management on Your iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-saving-and-sharing-your-icloud-keychain-with-csv-file-conversion/"><u>Complete Guide: Saving and Sharing Your iCloud Keychain with CSV File Conversion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-instructions-to-acquire-custom-ringtone-apps-on-apple-iphones-and-android-phones/"><u>Easy Instructions to Acquire Custom Ringtone Apps on Apple iPhones and Android Phones</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-choices-the-finest-17-inch-laptops-for-your-needs-in-vecter-but-also-a-sense-of-mystery-and-magic-you-can-use-phrases-like-enigmatic-charms-mystical-65/"><u>Expert Choices: The Finest 17-Inch Laptops for Your Needs in Vecter, but Also a Sense of Mystery and Magic. You Can Use Phrases Like Enigmatic Charms, Mystical Powers, or Magic Unleashed.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-10t-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme 10T 5G Phones with/without a PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-extract-written-content-from-images-using-your-phone-or-desktop/"><u>How to Effortlessly Extract Written Content From Images Using Your Phone or Desktop</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-zoom-on-apple-tv-with-airplay-a-step-by-step-guide-for-seamless-video-conferencing/"><u>How To Fix Zoom on Apple TV with AirPlay: A Step-By-Step Guide for Seamless Video Conferencing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improved-performance-fixing-windows-drivers-to-curb-cpu-overuse-issues/"><u>Improved Performance: Fixing Window's Drivers to Curb CPU Overuse Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-for-casting-your-iphone-display-on-a-tv-screen-even-without-using-apples-device/"><u>Simple Steps for Casting Your iPhone Display on a TV Screen, Even Without Using Apple's Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-solution-restoring-functionality-to-your-nonfunctional-iphone-alarm/"><u>Step-by-Step Solution: Restoring Functionality to Your Nonfunctional iPhone Alarm</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-transform-your-streams-adopting-these-four-recording-approaches/"><u>[New] 2024 Approved Transform Your Streams Adopting These Four Recording Approaches</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-basics-of-effective-fb-ad-cta-design-for-2024/"><u>[New] Basics of Effective FB Ad CTA Design for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-lenovos-full-potential-with-screen-recordings-for-2024/"><u>[New] Unlocking Lenovo's Full Potential with Screen Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensible-guide-for-windows-11-spotless-restarts/"><u>A Comprehensible Guide for Windows 11 Spotless Restarts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y200e-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y200e 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/repair-and-optimize-your-images-using-adobe-photoshop-cs8-secure-the-download/"><u>Repair & Optimize Your Images Using Adobe Photoshop CS8 - Secure the Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-androids-wireless-authentication-woes/"><u>Troubleshooting Android's Wireless Authentication Woes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-shrinking-video-files-on-iphone-for-easy-sharing/"><u>Ultimate Guide: Shrinking Video Files on iPhone for Easy Sharing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-premium-ipad-supports-enhance-your-tablet-experience/"><u>Ultimate Selection of Premium iPad Supports : Enhance Your Tablet Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-finest-iphone-se-shields-for-2/"><u>Ultimate Selection: The Finest iPhone SE Shields for 2지날년</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/uncovering-the-leading-10-under-the-radar-story-viewers/"><u>Uncovering the Leading 10 Under-the-Radar Story Viewers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-iphones-message-colors-why-do-some-imessages-appear-as-green-while-others-are-blue/"><u>Understanding Your iPhone's Message Colors: Why Do Some iMessages Appear as Green While Others Are Blue?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-hidden-potential-discover-top-10-essential-imessage-functions-to-enhance-your-messaging-today/"><u>Unleash Hidden Potential: Discover Top 10 Essential iMessage Functions To Enhance Your Messaging Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-best-gaming-plans-for-smartphones-comprehensive-guide/"><u>Unlock the Best Gaming Plans for Smartphones - Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!"
-date: 2024-10-29T17:41:32.215Z
-updated: 2024-11-04T18:26:28.604Z
+date: 2024-11-09T21:00:09.717Z
+updated: 2024-11-13T16:08:43.327Z
 tags:
   - ios
 categories:
@@ -19,25 +19,11 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  My wife's as much a tech geek as I am, and she was instantly sold on the Apple Watch Ultra when she first laid eyes on it. However, just over a year later, she ditched the Ultra (and all smartwatches) for a classic Casio watch instead. I tried to understand why, and she had some pretty interesting reasoning.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Ultra Is True Overkill
 
  At the time she decided she wanted the [Watch Ultra](https://video-capture.techidaily.com/new-bandicam-in-depth-review-for-the-modern-user/), we were both rocking Apple Watch 6 models, but Apple's marketing was pretty convincing. While I decided that I had no use for the Ultra's over-engineered design, my wife is something of an outdoors(wo)man and actually does stuff like hiking, scuba diving, snorkeling, and so on. The Ultra seemed perfect for that sort of thing and her Series 6 had a little bit of wear and tear, so the appeal of the smartwatch equivalent of a tank seemed great.
 
 ![Apple Watch Ultra underwater](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/11c676ed.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Apple_
 
@@ -48,30 +34,49 @@ _Apple_
  One of the main reasons we started using smartwatches in the first place was to track our daily steps and ensure that we were getting enough exercise. The thing is, you don't actually need a "smart" watch to do that anymore. At least when it comes to tracking steps. Watchmakers like Casio now offer regular [watches with Bluetooth](https://www.amazon.com/Casio-G-Shock-Step-Tracker-Bluetooth-GBA-800UC-5ACR/dp/B07PLT244R?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003048&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmy-wife-ditched-her-apple-watch-ultra-for-a-casio-and-you-might-too%2F&asc%5Fcampaign=Evergreen) that still lets you connect to an app and collect basic fitness data. Likely enough for the average person who isn't specifically a fitness nut, but just wants to know if they got their 10K steps in for the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Constant Charging Is an Utter Pain
 
 ![Apple Watch Ultra box contents spread out on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/070ea52d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Bill Loguidice / Review Geek_
 
  Ironically, one of the reasons she wanted the Ultra was thanks to the battery life improvements over the standard watch. The Ultra model boasts up to eighteen hours of battery life, and, indeed, that's what we got. However, adding 50% more battery life didn't really make the short battery life of smartwatches less annoying. A typical Casio G-Shock will give you up to six years of battery life. Even the fitness Bluetooth models promise up to two years of battery life.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You Can’t Escape Notifications (Or Deal With Them)
 
 ![Showing a Apple Watch Ultra 2 on a wrist](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-1.JPG) 
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -80,6 +85,13 @@ Tyler Hayes / How-To Geek
 ##  The Ultra Keeps Waking Her Up at Night
 
  Since that longer battery life doesn't mean she didn't have to charge the watch overnight anyway, it brought up another annoying issue. We invested in one of those triple-charger stands that holds an iPhone, Apple Watch, and AirPods at the same time. However, the Watch Ultra would light up randomly during the night, waking her up. She even tried turning the watch off completely before putting it on charge, but it would eventually turn itself on while charging. Sure, you could just shove it in a drawer, but that defeats the
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Obvious Features Are Still Missing From the Ultra
 
@@ -102,22 +114,18 @@ Tyler Hayes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>[New] 2024 Approved Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-innovative-solutions-exceeding-standard-fbx-recorders-for-2024/"><u>[New] Innovative Solutions Exceeding Standard FBX Recorders for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quickly-save-your-screen-in-windows-systems/"><u>[Updated] 2024 Approved Quickly Save Your Screen in Windows Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-enabling-dfu-mode-on-your-iphone-and-exiting-safely/"><u>A Step-by-Step Guide: Enabling DFU Mode on Your iPhone & Exiting Safely</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-free-call-log-apps-top-picks-for-managing-phone-conversations-on-iphone-models-xs-xr-x-and-older-versions/"><u>Best Free Call Log Apps: Top Picks for Managing Phone Conversations on iPhone Models XS, XR, X, and Older Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-in-the-office-a-guide-to-preserving-workplace-privacy-and-security/"><u>ChatGPT in the Office: A Guide to Preserving Workplace Privacy and Security</u></a></li>
-<li><a href="https://windows11.techidaily.com/dismantling-tpm-in-win11-using-the-power-of-rufus/"><u>Dismantling TPM in Win11 Using the Power of Rufus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-presentation-game-the-ultimate-list-of-7-ai-based-software-solutions/"><u>Enhancing Your Presentation Game: The Ultimate List of 7 AI-Based Software Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-voyage-vision-pinpoint-your-dream-trip-with-top-7-ai-tools/"><u>Free Voyage Vision: Pinpoint Your Dream Trip with Top 7 AI Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-access-your-hidden-imessages-unblocking-ios-15-and-above/"><u>How to Access Your Hidden iMessages: Unblocking iOS 15 and Above</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-g402-optical-mouse-drivers-and-software-installation-pack/"><u>Logitech G402 Optical Mouse Drivers & Software Installation Pack</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-100-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor 100 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rescue-missing-pics-a-comprehensive-method-for-finding-and-restoring-lost-photos-on-iphones-ipads-and-ipod-touch-via-macbook/"><u>Rescue Missing Pics: A Comprehensive Method for Finding and Restoring Lost Photos on iPhones, iPads & iPod Touch via MacBook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revitalize-your-iphone-top-3-methods-for-successful-backup-recovery/"><u>Revitalize Your iPhone: Top 3 Methods for Successful Backup Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-iphone-a-step-by-step-guide-on-using-tinyumbrella-for-ios-downgrades/"><u>Reviving Your iPhone: A Step-by-Step Guide on Using TinyUmbrella for iOS Downgrades</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-your-lost-iphone-call-records/"><u>Step-by-Step Guide: Restoring Your Lost iPhone Call Records</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-restore-deleted-information-from-your-iphone-after-a-fresh-start/"><u>Step-by-Step Tutorial: How To Restore Deleted Information From Your iPhone After a Fresh Start</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ce-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone-for-2024/"><u>[New] Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-mobile-clips-10-video-phones-rated-high/"><u>2024 Approved Prime Mobile Clips 10 Video Phones Rated High</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-edge-concepts-for-captivating-youtube-video-thumbnails-for-2024/"><u>Cutting-Edge Concepts for Captivating YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/download-delight-making-funimate-simple-to-use/"><u>Download Delight Making Funimate Simple to Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/economical-sky-explorers-top-5-low-cost-drones/"><u>Economical Sky Explorers Top 5 Low-Cost Drones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-for-clearing-out-songs-on-any-ipod-model/"><u>Simple Steps for Clearing Out Songs on Any iPod Model</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-erasing-your-youtube-viewing-and-search-records/"><u>Step-by-Step Guide: Erasing Your YouTube Viewing and Search Records</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-remove-your-entire-itunes-collection-from-pc-and-mac/"><u>Step-by-Step Guide: How to Remove Your Entire iTunes Collection From PC and Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-wipe-out-entire-snapchat-conversations-and-messages/"><u>Step-by-Step Tutorial: How To Wipe Out Entire Snapchat Conversations And Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-remove-iphone-files-forever-proven-strategies-inside/"><u>Step-by-Step Tutorial: Remove iPhone Files Forever - Proven Strategies Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-source-unavailable-errors-in-windows-1011/"><u>Troubleshooting Steps for “Source Unavailable” Errors in Windows 10/11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-ios-device-failing-to-load-emails/"><u>Troubleshooting Steps: IOS Device Failing to Load Emails</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
 

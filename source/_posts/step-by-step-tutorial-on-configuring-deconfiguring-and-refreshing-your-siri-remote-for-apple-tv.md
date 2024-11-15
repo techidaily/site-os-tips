@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
-date: 2024-11-01T18:21:44.177Z
-updated: 2024-11-04T16:53:30.618Z
+date: 2024-11-08T16:58:44.042Z
+updated: 2024-11-13T20:50:35.355Z
 tags:
   - ios
 categories:
@@ -20,10 +20,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Is your Apple TV remote not working? Are you trying to pair a new remote, or use your old remote with a different unit? Let’s fix the mess so you can go back to streaming your favorite shows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pair an Apple TV Remote
@@ -33,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, make sure your Apple TV is on. The easiest way to do this when you don’t have a remote connected is to simply unplug the Apple TV unit from the wall and plug it back in again. It’ll take a moment to start up, after which you’ll see the usual array of apps on the dashboard.
 
 ![Apple TV dashboard with YouTube selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_dash.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now take the remote that you want to pair and make sure you’re within three inches of the streaming box. With the remote pointed at your Apple TV unit, press and hold the Back “<“ or Menu button and the Volume Up “+” button at the same time for five seconds.
 
@@ -51,10 +64,10 @@ Tim Brookes / How-To Geek
 ![Apple TV remote reset combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_tv-vol_down.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -62,13 +75,6 @@ Tim Brookes / How-To Geek
  Wait a few moments and the connection between the remote and Apple TV should be re-established. You can try tapping a few buttons on the remote to wake it up if nothing happens.
 
 ![Apple TV remote disconnected message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_disconnected.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Unpair an Apple TV Remote
 
@@ -79,20 +85,13 @@ Tim Brookes / How-To Geek
 ![Apple TV remote connected notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_connected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once complete, the remote will be paired with your desired Apple TV. Since a remote can only be paired with a single Apple TV unit at a time, it should no longer control the previous unit. If you want to migrate the remote back, you’ll need to follow this process again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Try Charging Your Apple TV Remote
 
@@ -104,24 +103,18 @@ Tim Brookes / How-To Geek
 
  You won’t see a light or a charging indicator while the remote is charging, so be patient and test it when enough time has passed.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Power Cycle the Apple TV to Reset It
 
  Sometimes the only way to solve a problem is to [turn a device off and on again](https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g13-drfone-by-drfone-virtual-android/). This is true for computers, smartphones, and tablets; so of course it’s true for the Apple TV as well.
 
  To fully power cycle your Apple TV unplug it from the wall, wait around 10 seconds, and then plug it back in again. The unit should automatically start up and dump you on the dashboard. You’ll need to hit a button on the remote for it to pair, after which your remote should (hopefully) work again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Connect an iPhone or iPad as a Remote
 
@@ -135,18 +128,24 @@ Tim Brookes / How-To Geek
 
  Once connected you can use the trackpad interface just as you would your normal remote. You also have access to playback controls, a back button, and the TV or Control Center button plus a power button at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Try Updating Your Apple TV
 
  Updating your Apple TV may help resolve some issues, though it’s a bit of a long shot. You’ll also need to be able to control your Apple TV using another device to do this.
 
 ![Updating the tvOS software on an Apple TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_update_software2.png) 
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With your iPhone or iPad connected as a remote, navigate to Settings > System > Software Updates and install any outstanding updates. The Apple TV will restart, after which you can try using (or pairing) your remote again.
 
@@ -159,6 +158,13 @@ Tim Brookes / How-To Geek
 ![Teaching an Apple TV to use a regular TV remote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_learn_remote.png) 
 
  Remember that your TV will also react to any buttons you press, so this can occasionally cause issues if the required buttons trigger functions on your TV.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Control Your Apple TV with a Game Controller
 
@@ -191,16 +197,19 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction-for-2024/"><u>[Updated] Get More Eyeballs Perfect Your YouTube Description Templates for Viewer Attraction for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/echo-pop-versus-echo-dot-a-comparative-analysis-of-features-and-functions/"><u>Echo Pop Versus Echo Dot - A Comparative Analysis of Features and Functions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-for-bulk-deletion-of-ios-contacts/"><u>Expert Strategies for Bulk Deletion of iOS Contacts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722962186059-get-your-asus-atk0110-system-up-and-running-complimentary-acpi-drivers-downloadable-here/"><u>Get Your ASUS ATK0110 System Up and Running: Complimentary ACPI Drivers Downloadable Here!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-completely-remove-siri-suggestions-from-your-iphone-or-ipad-a-step-by-step-guide/"><u>How To Completely Remove Siri Suggestions From Your iPhone or iPad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-7-pro-dslrs-enhancing-live-stream-quality/"><u>In 2024, Top 7 Pro-DSLRs Enhancing Live Stream Quality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-preparing-your-iphone-for-resale/"><u>Step-by-Step Guide: Preparing Your iPhone for Resale</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-techniques-for-thorough-iphone-data-wipe-complete-and-safe/"><u>Top 3 Techniques for Thorough iPhone Data Wipe: Complete & Safe</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-for-earning-top-dollar-on-pre-owned-iphones/"><u>Top Strategies for Earning Top Dollar on Pre-Owned iPhones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tiffjpegpngpdf-2/"><u>オンラインで簡単にTIFF画像をJPEG・PNG・PDFに変換 - 2分で完了！</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-crafted-perfection-ranking-the-best-7-stardew-mods-7/"><u>[New] Crafted Perfection Ranking the Best 7 Stardew Mods (#7)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-masterful-gameplay-transmission-with-obs-studio-for-2024/"><u>[New] Masterful Gameplay Transmission with OBS Studio for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-photography-on-iphone-essential-apps-compilation/"><u>[New] Pro Photography on iPhone Essential Apps Compilation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-your-pc-snipping-guide-the-best-tools-to-try-first/"><u>[Updated] 2024 Approved Your PC Snipping Guide The Best Tools to Try First</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-best-strategies-for-saving-igtv-videos-mobilely-for-2024/"><u>[Updated] The Best Strategies for Saving IGTV Videos Mobilely for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevating-your-look-expert-tutorials-for-everyone/"><u>2024 Approved Elevating Your Look Expert Tutorials for Everyone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-premium-hd-webcams-featuring-sound/"><u>2024 Approved Top 5 Premium HD Webcams Featuring Sound</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-activate-find-my-feature-on-your-iphone/"><u>Comprehensive Steps to Activate 'Find My' Feature on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ensuring-the-security-of-your-ai-data-in-the-cloud-unveiling-apples-strategies-and-impact-learn/"><u>Ensuring the Security of Your AI Data in the Cloud: Unveiling Apple's Strategies & Impact - Learn</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-persistent-call-drops-on-your-iphone-comprehensive-troubleshooting-steps/"><u>Fixing Persistent Call Drops on Your iPhone: Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fully-unlock-your-dominican-republic-iphone-a-step-by-step-permanent-solution/"><u>Fully Unlock Your Dominican Republic iPhone - A Step-by-Step Permanent Solution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-ways-to-rebrand-your-ios-device-a-step-by-step-guide/"><u>Quick & Easy Ways to Rebrand Your iOS Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-swift-solutions-to-resolve-safari-issues-on-your-iphone-ios-18/"><u>Top 8 Swift Solutions to Resolve Safari Issues on Your iPhone (iOS 18)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-win11-shutdown-spike/"><u>Troubleshooting Win11 Shutdown Spike</u></a></li>
 </ul></div>
 

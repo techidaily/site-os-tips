@@ -1,7 +1,7 @@
 ---
 title: "Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone"
-date: 2024-10-30T18:13:32.027Z
-updated: 2024-11-04T17:00:56.253Z
+date: 2024-11-08T17:02:23.322Z
+updated: 2024-11-13T21:03:21.997Z
 tags:
   - ios
 categories:
@@ -34,16 +34,16 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select the share icon in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/1-iphone-video-share-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the share menu, select "Slideshow."
 
 ![Choose "Slideshow" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-make-slideshow-iphone.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Photos will play your video as a slideshow, but this slideshow has a specific theme, background music, and only plays once (not on loop). To change these settings, in the slideshow's bottom-right corner, tap "Options."
 
@@ -53,48 +53,35 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select "Theme."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-iphone-slideshow-theme.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the "Themes" screen, choose a simple theme so you can focus on your video. "Origami" is a good option. Then, in the top-left corner, tap "Back."
 
 ![Choose "Origami" and tap "Back."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-change-iphone-slideshow-theme.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Turn off the slideshow music so you can hear your video's audio. Do this by selecting "Music" and tapping "None." Then go back to the previous page.
 
 ![Select "Music" and tap "None."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-disable-iphone-slideshow-music.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Put your video in a loop by enabling the "Repeat" option. Then, in the top-right corner, tap "Done" to save your changes.
 
 ![Enable "Repeat" and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-loop-iphone-slideshow.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Photos will take you back to your video screen. Here, your video will play in a loop until you manually close it.
 
  And that's how you continue to watch your favorite videos on your iPhone!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make a YouTube Video Play in a Loop on iPhone
 
@@ -105,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  On the video playback page, in the top-right corner, tap the three dots.
 
 ![Select the three dots in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-youtube-video-menu.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From the open menu, select "Loop Video."
 
@@ -127,16 +121,18 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-tips-for-capturing-movies-on-everyday-tech-for-2024/"><u>[Updated] Cutting-Edge Tips for Capturing Movies on Everyday Tech for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-revolutionary-recording-methods-for-windows-10-games/"><u>[Updated] Revolutionary Recording Methods for Windows 10 Games</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-activating-and-deactivating-iphones-dfu-mode-effectively/"><u>Complete Tutorial: Activating and Deactivating iPhone's DFU Mode Effectively</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-vanished-icalendar-appointments-on-your-iphone-with-these-6-tricks/"><u>How to Recover Vanished iCalendar Appointments on Your iPhone with These 6 Tricks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/proven-strategies-to-retrieve-lost-texts-in-apples-ios-system/"><u>Proven Strategies to Retrieve Lost Texts in Apple's iOS System</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/rapid-training-image-transformation-for-dynamic-youtube-desktop-thumbnails/"><u>Rapid Training Image Transformation for Dynamic YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-hdmi-connection-issues-restore-sound-from-computers-to-monitors-and-televisions/"><u>Solve HDMI Connection Issues - Restore Sound From Computers to Monitors and Televisions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-recover-lost-voice-recordings-on-your-iphone/"><u>Step-by-Step Guide: How To Recover Lost Voice Recordings on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/successful-techniques-for-retrieving-your-lost-gmail-password-and-account-access-a-complete-guide/"><u>Successful Techniques for Retrieving Your Lost Gmail Password & Account Access – A Complete Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insights-into-youtubes-creative-commons-licensing-system/"><u>[Updated] Insights Into YouTube’s Creative Commons Licensing System</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-how-to-share-screen-on-facebook-live/"><u>2023 | How to Share Screen on Facebook Live?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-android-optimization-tools-top-10-apps-to-enhance-your-phones-speed-and-efficiency/"><u>Best Android Optimization Tools: Top 10 Apps to Enhance Your Phone's Speed and Efficiency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel Fingerprint Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-launch-failures-play-your-favorite-steam-games-on-windows-11-now/"><u>Bypassing Launch Failures: Play Your Favorite Steam Games on Windows 11 Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-libre-y-gratuita-de-musica-flac-a-video-wmv-en-linea-una-guia-paso-por-paso-con-movavi/"><u>Conversión Libre Y Gratuita De Música FLAC a Vídeo WMV en Línea: Una Guía Paso Por Paso Con Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-cultural-diplomacy-advantages-of-speaking-multiple-languages/"><u>Cross-Cultural Diplomacy: Advantages of Speaking Multiple Languages</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/echoing-ethos-with-closing-credits/"><u>Echoing Ethos with Closing Credits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-your-devices-screen-and-speaker-after-water-exposure/"><u>Effective Solutions: Repairing Your Device's Screen and Speaker After Water Exposure</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlined-strategies-for-powerpoint-recordings/"><u>Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshoot-your-message-send-failures-fast-solutions-for-persistent-issues/"><u>Troubleshoot Your Message Send Failures: Fast Solutions for Persistent Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-the-smart-lock-feature-on-your-android-phone/"><u>Ultimate Guide: Mastering the Smart Lock Feature on Your Android Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2024-11-01T17:06:15.296Z
-updated: 2024-11-04T17:28:05.696Z
+date: 2024-11-08T19:54:11.723Z
+updated: 2024-11-13T17:46:25.417Z
 tags:
   - ios
 categories:
@@ -31,22 +31,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now tap on the blue “Type” field and select “Weight” from the list. Tap on “Sample Value” and choose “Ask Each Time” from the field just above the keyboard. Finally, select the unit you want to use (this should already default to your preferred measurement, likely “lb” or “kg”).
 
 ![Finishing up adding an action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now give your workflow a name by tapping the field at the top of the screen (it will likely have the “Log Health Sample” placeholder text, grayed out). Tap “Rename” and call it something like “Record weight” and then tap “Choose Icon” and pick something appropriate.
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
 
  To save, hit “Done” in the top-right corner of the screen. That’s it!
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using Your New Shortcut
 
@@ -56,25 +63,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Edit" button on the iPhone widgets screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now tap on the widget you just added, and next to the “Shortcut” field choose the “Record weight” shortcut you just created. The widget will be added, drag it into place and you’re done. You can also [place these widgets on a regular Home screen](https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/) if you’d rather.
 
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Seeing Results
 
@@ -85,16 +85,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Getting the Most Out of Apple Health
@@ -118,17 +112,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-instantaneously-engaging-audiences-how-obs-simplifies-instagram-streams/"><u>[Updated] 2024 Approved Instantaneously Engaging Audiences How OBS Simplifies Instagram Streams</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-remove-your-facebook-friends-from-iphone-address-book/"><u>Comprehensive Guide: How to Remove Your Facebook Friends From iPhone Address Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-mobikin-cleaner-guide-features-reviews-and-performance-on-windows-and-mac/"><u>Comprehensive Mobikin Cleaner Guide: Features, Reviews, and Performance on Windows & Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/costs-beyond-price-the-reality-of-affordable-windows-licenses/"><u>Costs Beyond Price: The Reality of Affordable Windows Licenses</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-exceptional-office-laptops-insights-on-alternatives-to-lenovo-and-apple-devices/"><u>Exploring Exceptional Office Laptops: Insights on Alternatives to Lenovo and Apple Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-your-iphones-camera-issues-3-easy-solutions/"><u>Fix Your iPhone's Camera Issues: 3 Easy Solutions</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-tecno-spark-20-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-fix-the-cannot-delete-issue-on-your-iphone-seamlessly/"><u>Ultimate Guide: How to Fix the 'Cannot Delete' Issue on Your iPhone Seamlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-correcting-loadlibrary-failed-with-error-87-a-step-by-step-guide/"><u>Understanding and Correcting 'LoadLibrary Failed with Error 87': A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-hidden-features-of-system-restore-in-win11/"><u>Unlocking the Hidden Features of System Restore in Win11</u></a></li>
-<li><a href="https://facebook.techidaily.com/unpacking-the-hidden-costs-and-benefits-of-using-facebook-for-multi-app-logins/"><u>Unpacking the Hidden Costs and Benefits of Using Facebook for Multi-App Logins</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-power-of-mobikin-cleaner-for-pcs-in-depth-review-and-insights-for-windows-and-macos-users/"><u>Unveiling the Power of Mobikin Cleaner for PCs: In-Depth Review and Insights for Windows and macOS Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-master-reverse-playback-of-videos-on-android-devices/"><u>[New] Master Reverse Playback of Videos on Android Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-11-step-by-step-pathways-to-perfect-grading/"><u>[Updated] In 2024, 11 Step by Step Pathways to Perfect Grading</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-calculating-earnings-the-essence-of-youtube-short-revenue-split/"><u>[Updated] In 2024, Calculating Earnings The Essence of YouTube Short Revenue Split</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-correcting-the-binkyw32dll-missing-error-dilemma/"><u>Expert Tips on Correcting The 'binkyW32.dll' Missing Error Dilemma</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-iphones-sync-issues-top-strategies-for-a-perfect-calendar-update/"><u>Fix Your iPhone's Sync Issues: Top Strategies for a Perfect Calendar Update</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-zte-nubia-flip-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of ZTE Nubia Flip 5G? Try These Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphones-wi-fi-connection-woes-effective-strategies-and-tips/"><u>How to Resolve iPhone's Wi-Fi Connection Woes - Effective Strategies and Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-speed-up-your-iphone-tips-for-a-swiftly-responsive-device/"><u>How to Speed Up Your iPhone: Tips for a Swiftly Responsive Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>In 2024, Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/missing-iphone-images-swift-recovery-strategies-inside/"><u>Missing iPhone Images? Swift Recovery Strategies Inside</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-video-editing-software-for-mac-similar-to-pinnacle-studio/"><u>New Best Video Editing Software for Mac Similar to Pinnacle Studio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-device-detection-errors-with-windows-11-easy-solutions/"><u>Overcoming Device Detection Errors with Windows 11: Easy Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-locate-your-lost-iphone-using-a-laptop-or-mac-device/"><u>Quick Tips: Locate Your Lost iPhone Using a Laptop or Mac Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-a-invalid-sim-error-on-your-iphone-comprehensive-fix-guide/"><u>Solutions for a 'Invalid SIM' Error on Your iPhone: Comprehensive Fix Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/theoi-project-phoenix-online-available-at-(httpwwwtheoicomtextgreekmythology21html)/"><u>Theoi Project – Phoenix [Online] Available At: <http://www.theoi.com/Text/GreekMythology21.html></u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubled-by-unsending-texts-discover-why-and-rapid-fixes/"><u>Troubled by Unsending Texts? Discover Why and Rapid Fixes</u></a></li>
 </ul></div>
 

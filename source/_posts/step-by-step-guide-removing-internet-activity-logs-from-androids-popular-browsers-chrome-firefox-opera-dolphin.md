@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Internet Activity Logs From Android's Popular Browsers (Chrome, Firefox, Opera, Dolphin)"
-date: 2024-08-18T09:36:14.465Z
-updated: 2024-08-19T09:36:14.465Z
+date: 2024-11-07T19:08:44.529Z
+updated: 2024-11-13T19:29:48.397Z
 tags:
   - delete-android-data
 categories:
@@ -28,12 +28,16 @@ How to Clear History on Android
 * [Part 5. How to clear app data/history with one click](https://tools.techidaily.com/)
 * [Part 6. How to recover deleted history on Android](https://tools.techidaily.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Part 1\. How to clear browsing history on Android
 
  As different people have different choices for browsers on Android, here we list the main browsers to let you know how to clear browsing history on Android, including Google Chrome, Mozilla Firefox, Opera mini, Dolphin, internet (stock browser), and UC Browser.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to clear history on Android (Google Chrome)
 
@@ -46,8 +50,12 @@ Step 2 Tap on the button with three dots and choose "History".
 Step 3 When you enter the History page, select "Clear Browsing Data", and you can choose what you want to delete, including browsing history, cookies and site data, cached images and files and more. After your choice, you can tap on "Clear Data" button to delete the Google Chrome browsing history with ease.
 
 ![Clear Google Chrome Browsing History on Android](https://www.aiseesoft.com/images/android-data-recovery/clear-chrome-history.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to clear history on Android (Mozilla Firefox)
@@ -59,9 +67,6 @@ Step 1 Open Mozilla Firefox.
 Step 2 Just like the steps to clear Google Chrome browsing history, you are going to "Clear Browsing History" section, but there is no button to clear cookies and cache data. So you can just delete browsing history here.
 
 ![Clear Mozilla Firefox Browsing History on Android](https://www.aiseesoft.com/images/android-data-recovery/clear-firefox-history.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3 For clearing cookies and cache, go to "Settings" > "Privacy", and you can see "Clear Data", tap it to finish deleting all the histories from Firefox.
 
@@ -72,9 +77,6 @@ Step 3 For clearing cookies and cache, go to "Settings" > "Privacy", and you can
  The Opera Mini browser has a loyal user base, but it pales into insignificance in terms of user numbers; it only holds about 1.6 percent of the Android market.
 
 ![Clear Opera mini Browsing History on Android](https://www.aiseesoft.com/images/android-data-recovery/delete-opera-history.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1 Open Opera mini browser on your Android. When your browser is open, tap on Opera logo in the bottom-right corner. A small window will pop up. Tap on the "Gear" icon to enter the browser's settings.
 
@@ -87,8 +89,12 @@ Step 1 Launch Dolphin on Android.
 Step 2 Tap Dolphin icon in the image below and enter the page to choose "Settings" > "Clear Data", and choose browsing data, cookies, cache and data and more. Last, tap "Clear Selected Data".
 
 ![Clear Dolphin Browsing History on Android](https://www.aiseesoft.com/images/android-data-recovery/clear-dolphin-history.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to clear history on Android (internet/stock browser)
@@ -100,8 +106,12 @@ Step 1 Open your built-in browser on your Android device.
 Step 2 Go to "Settings" > "Privacy Settings". As you always do, choose one or two items you want to delete to clear stock browser history.
 
 ![Clear internet/Stock Browser History on Android](https://www.aiseesoft.com/images/android-data-recovery/clear-stock-browser-history.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to clear history on Android (UC Browser)
@@ -114,9 +124,6 @@ Step 1 To begin with, tap on the three horizontal lines at the bottom from UC. S
 
 Step 2 You'll see your bookmarks list first. Swipe left to reveal your browsing history. In the bottom-right corner, you'll see a "Clear" button. Tap on the button, and confirm to clear UC browsing history on Android.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. How to clear Google Search history on Android
 
  How to clear Google Search history on Android? To clear Google Search history, you need to open Google Search widget first, and just follow the steps below:
@@ -124,18 +131,17 @@ Step 2 You'll see your bookmarks list first. Swipe left to reveal your browsing 
 Step 1 Find "Settings" by tapping the "three lines" button in the top left corner of the screen. And then choose "Account and privacy".
 
 ![Google Search Clear](https://www.aiseesoft.com/images/android-data-recovery/google-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 
 Step 2 Select "Google Account History" > "Web and App Activity". And then tap "Manage Activity" at the bottom.
 
 ![Clear Google Search](https://www.aiseesoft.com/images/android-data-recovery/clear-google-search.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 Now, you will find an icon similar to gear, click it to open "History" page, and choose "Remove items". You can delete the history by time ranking. To clear all the histories, just choose "The beginning of time" and tap "Remove".
 
@@ -143,15 +149,18 @@ Step 3 Now, you will find an icon similar to gear, click it to open "History" pa
 
  If you want to hide your location history, you can check the post to[delete Googel location history](https://tools.techidaily.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 3\. How to clear YouTube watch history or search history on Android
 
  The process of deleting YouTube Watch/Search history is similar. So you can go to YouTube app from Android, find its settings, and then clear YouTube Search history according to the process of Google's.
 
 ![Clear YouTube search history on Android](https://www.aiseesoft.com/images/iphone-data-eraser/clear-youtube-history-on-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1 Launch the YouTube app on your Android phone, and then sign into it with your account ID and password.
 
@@ -159,16 +168,17 @@ Step 2 Tap on the three-line icon near the red YouTube "Play" icon. You 'll find
 
 Step 3 Now you can select history option from "Privacy" in settings. And here, you are able to clear or pause YouTube watch history as well as search history on Android.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4\. How to clear call history on Android Phone
 
  How to clear call history on Android? Clearing call history is a very easy process on Android. Just go through the following tutorial in order to clear call history on Android.
 
 ![Clear Call History on Android](https://www.aiseesoft.com/images/resource/clear-cache-android/clear-call-history-android.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1 Tap the Call app on Android. There you will see all the call logs listed by date.
@@ -180,9 +190,6 @@ Step 2 You can tap and hold the call log that you want to delete. There should b
  There are so many apps on Android, and sometimes their cache a large of space on Android. What does cache mean? Every time when you are using an app on Android, some cache will be produced. Here we will tell you how to delete app cache/data on Android.
 
 ![Android Clear App Cache](https://www.aiseesoft.com/images/resource/clear-cache-android/android-clear-app-cache.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
 Step 1 Go to "Settings" and tap on "Application Manager" (or "Apps").
 
@@ -194,15 +201,19 @@ Step 3 There you can see the total space taken by cache. Tap "Clear cache".
 
 ![iSkysoft Data Eraser to Clear History on Android](https://www.aiseesoft.com/images/android-data-recovery/iskysoft-data-eraser.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1 Connect your Android device to the computer and launch iSkysoft Data Eraser for Android.
 
 Step 2 Once your device is detected by the program, you can click the "Erase All Data" button.
 
 Step 3 Tape on "Delete" button > "Erase Now" to clear history on Andorid.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6\. Recover deleted history on Android
 
  Sometimes, when you have deleted the histories of your Android, suddenly you find you have lost the important data. So how to recover deleted history or app data from Android? We recommend you[Android Data Recovery](https://tools.techidaily.com/aiseesoft-android-data-recovery/) , one top Android files recovery software to help you recover lost data from Android. With this data recovery, you can not only recover browsing history and app data, but also you can[recover deleted contacts](https://tools.techidaily.com/aiseesoft-android-data-recovery/) , messages, photos, videos and more. Just download and try it for free!
@@ -230,8 +241,6 @@ Read this article to Safari cache and cookies from iphone
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +248,20 @@ Read this article to Safari cache and cookies from iphone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-luxury.techidaily.com/panasonic-lumix/"><u>「Panasonic Lumixで失われた写真を取り戻す方法」</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-back-up-and-recover-contacts-photos-on-your-htc-device/"><u>Complete Guide: How to Back Up & Recover Contacts, Photos on Your HTC Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-saving-your-data-with-android-backup-features/"><u>Complete Guide: Saving Your Data with Android Backup Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-ultimate-guide-to-the-most-reliable-portable-car-starters-of-2024-auto-innovators/"><u>Expert Picks: Ultimate Guide to the Most Reliable Portable Car Starters of 2024 | Auto Innovators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-soft-onset-visual-effects/"><u>In 2024, Soft Onset Visual Effects</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/iphonepcwhatsapp/"><u>IPhoneからPCへのWhatsAppデータ移行ガイド：初学者用</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-3-superior-techniques-for-android-data-backup/"><u>Ultimate Guide: 3 Superior Techniques for Android Data Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-safeguard-your-android-data-with-leading-backup-solutions/"><u>Ultimate Guide: Safeguard Your Android Data with Leading Backup Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-solutions-a-step-by-step-guide-on-performing-a-softhard-reset-on-your-huawei-device/"><u>Unlocking Solutions: A Step-by-Step Guide on Performing a Soft/Hard Reset on Your Huawei Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-minitool-movie-maker-a-detailed-review-and-comparison-to-alternatives/"><u>Updated 2024 Approved Minitool Movie Maker A Detailed Review and Comparison to Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-best-flv-editor-for-windows-8-professional-video-editing-made-easy-for-2024/"><u>Updated Best FLV Editor for Windows 8 Professional Video Editing Made Easy for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+</ul></div>
 

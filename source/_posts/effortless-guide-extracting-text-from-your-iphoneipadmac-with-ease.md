@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease"
-date: 2024-10-29T18:18:38.474Z
-updated: 2024-11-04T16:23:55.758Z
+date: 2024-11-09T20:31:48.487Z
+updated: 2024-11-13T17:54:59.077Z
 tags:
   - ios
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  Select text, copy it, and paste it into a note, email, or document from anywhere using your iPhone, iPad, or Mac. This trick can help you circumvent all kinds of pesky limitations or even grab “IRL” text by taking a photo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Copy Any Text on iPhone or iPad
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 !['Show Text' icon on a screenshot in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show_text_icon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tap on this and the text in the image should immediately be highlighted. You can now select this text as you would any other, by tapping and holding your finger until the text selection tool appears. Drag the start and end points where you want them, or hit “Select All” to grab everything.
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  This also works using videos as long as you pause the video on the text that you want to copy. Now repeat the process using the “Show Text” icon and select what you want to copy.
 
  This trick also works in Safari, just tap and hold an image then choose “Show Text” first.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Copy Any Text on Mac
 
@@ -75,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why This Is So Useful
 
  This neat trick circumvents the inability to select and copy text on certain websites. [Use your iPhone, iPad, or Mac to take a screenshot](https://video-capture.techidaily.com/updated-in-2024-videographers-guide-to-capturing-sports-competitions/) and then copy the text as normal. I’ve used this trick to copy recipes from YouTube’s description box in the iPhone app, for example.
@@ -83,14 +83,14 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ![Selecting the text on a keyring using a photo in Apple Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select_text_photo.png) 
 
- If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
-
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
 
 ##  More Useful iPhone Tricks
 
@@ -113,24 +113,24 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-from-youtube-to-high-definition-prime-downloader-choices-for-2024/"><u>[New] From YouTube to High Definition Prime Downloader Choices for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-enhancing-cinematography-skills-through-micro-photography/"><u>[New] In 2024, Enhancing Cinematography Skills Through Micro Photography</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-progressive-procedure-masterful-method-with-applewatch/"><u>[Updated] 2024 Approved Progressive Procedure Masterful Method with AppleWatch</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-xiaomi-11-series-a-visual-journey-through-precision-recording/"><u>[Updated] In 2024, Xiaomi 11 Series A Visual Journey Through Precision Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-behind-the-screencast-scenes-industry-secrets-revealed/"><u>2024 Approved Behind the Screencast Scenes Industry Secrets Revealed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/26-metaverse-milestones-a-journey-into-virtual-realms-for-2024/"><u>26 Metaverse Milestones A Journey Into Virtual Realms for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-se-review/"><u>Apple Watch SE Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-hidden-apple-books-features-with-these-10-essential-tips/"><u>Discover Hidden Apple Books Features with These 10 Essential Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dont-wait-any-longer-identify-these-5-critical-reasons-to-update-your-phone-today/"><u>Don't Wait Any Longer! Identify These 5 Critical Reasons to Update Your Phone Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-methods-for-syncing-and-downloading-icloud-images-on-various-gadgets/"><u>Effortless Methods for Syncing and Downloading iCloud Images on Various Gadgets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-annotate-images-with-these-5-iphone-tricks/"><u>Effortlessly Annotate Images with These 5 iPhone Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/evaluating-the-value-of-premium-icloud-storage-options-is-it-a-smart-buy/"><u>Evaluating the Value of Premium iCloud Storage Options: Is It a Smart Buy?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-premium-timekeeping-with-cost-effective-apple-watch-series-8-deals/"><u>Experience Premium Timekeeping with Cost-Effective Apple Watch Series 8 Deals</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-restoring-accidentally-deleted-pictures-on-ios-devices/"><u>Expert Tips: Restoring Accidentally Deleted Pictures on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-what-if-the-reason-behind-apples-decision-against-intelligent-features-in-classic-iphones/"><u>Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/find-your-missing-iphone-easily-with-these-android-tricks/"><u>Find Your Missing iPhone Easily with These Android Tricks!</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-11-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme 11 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-80-pro-straight-screen-edition-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor 80 Pro Straight Screen Edition to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-strategies-to-save-instagram-stories-for-2024/"><u>[Updated] Essential Strategies to Save Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>[Updated] In 2024, The Art of Perusing Past Facebook Pages To Review or Not To?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-10-memes-blending-hilarity-and-emotional-depth-on-insta/"><u>[Updated] In 2024, Top 10 Memes Blending Hilarity and Emotional Depth on Insta</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-tech-released-the-new-stylish-magsafe-power-bank-that-charges-faster-than-ever-before-discover-the-innovation-on-gizmodaily/"><u>Cutting-Edge Tech Released: The New, Stylish MagSafe Power Bank That Charges Faster Than Ever Before - Discover the Innovation on GizmoDaily!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/youtube-streams-to-local-files-audio-guide-for-2024/"><u>From YouTube Streams to Local Files Audio Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-step-by-step-guide-youtube-videos-in-avi-format/"><u>In 2024, Step-by-Step Guide YouTube Videos in AVI Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-connexent-driver-update-for-windows-10-version-2004-a-comprehensive-guide/"><u>Installing the Connexent Driver Update for Windows 10 Version 2004: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-sharing-across-apple-devices-connecting-your-iphone-ipad-and-mac-via-clipboard/"><u>Seamless Sharing Across Apple Devices: Connecting Your iPhone, iPad & Mac via Clipboard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/set-google-maps-as-your-new-standard-navigation-app-on-iphone-step-by-step-guide/"><u>Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-sharpening-and-enhancing-fuzzy-images/"><u>Step-by-Step Guide to Sharpening and Enhancing Fuzzy Images</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-eliminate-black-screen-complications/"><u>Steps to Eliminate Black Screen Complications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-unexpected-camera-sounds-on-your-iphone-tutorial/"><u>Stop Unexpected Camera Sounds on Your iPhone - Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-drawbacks-of-the-new-apple-vision-pro-could-these-flaws-stop-you/"><u>Top 6 Drawbacks of the New Apple Vision Pro - Could These Flaws Stop You?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-automating-your-whatsapp-notifications-for-key-occasions/"><u>Top Strategies for Automating Your WhatsApp Notifications for Key Occasions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transitioning-from-apples-icloud-to-google-drive-a-personal-trial-run/"><u>Transitioning From Apple's iCloud to Google Drive - A Personal Trial Run</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-solving-sos-calling-issues-on-your-iphone/"><u>Ultimate Guide: Solving 'SOS Calling' Issues on Your iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unmatched-mac-visual-scriber-with-sound-capture-for-2024/"><u>Unmatched Mac Visual Scriber with Sound Capture for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-you-cant-find-events-in-your-iphone-calendar/"><u>What to Do if You Can't Find Events in Your iPhone Calendar</u></a></li>
 </ul></div>
 

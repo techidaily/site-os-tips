@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac"
-date: 2024-10-29T16:17:55.308Z
-updated: 2024-11-04T16:14:30.114Z
+date: 2024-11-07T19:52:39.123Z
+updated: 2024-11-13T17:32:52.950Z
 tags:
   - ios
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  Nobody likes passwords, understandably so. They're tricky to come up with and even trickier to remember, but a new authentication method called "passkeys" could make them a thing of the past. Here's how you can use passkeys to enjoy a password-less experience on your iPhone, iPad, or Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is a Passkey?
 
  Simply put, a [a passkey is a kind of password](https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/) that you don't have to enter, protect, or remember. Sounds great, right? But then, how do you authenticate yourself when signing in to your accounts? Well, by simply unlocking your device.
@@ -57,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 * Make sure passkeys are supported by your browser. If you're using Safari or Chrome, you're golden.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Enable Passkeys
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 ![AutoFill Passwords and Passkeys toggle turned on and iCloud Keychain enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/iphone-password-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  How to Create a Passkey
@@ -94,27 +87,20 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Passkeys option highlighted under the Security tab in Google Account settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone8-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To generate a new passkey, tap the "Create a Passkey**"** button located at the bottom. Then tap "Continue" to proceed.
 
 ![A button for creating a new passkey highlighted in Google Account dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone9-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the next screen, you'll be prompted to save the passkey to iCloud Keychain. Tap "Continue" to authenticate yourself using Face ID or Touch ID. If you haven't set up a biometric option, enter your passcode.
 
 ![iOS displaying a prompt to save a new passkey to iCloud Kitchen with the 'Continue' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone-10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it! You've successfully created and saved a passkey for your Google Account on your Apple device. You can now log in to your Google Account by simply using facial recognition, fingerprint recognition, or your passcode. You can also safely [share your passkeys with your friends and family](https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-a60s-phone-withwithout-imei-number-by-drfone-android/).
 
@@ -126,20 +112,27 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Google Account log in screen with the 'Try another way' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the listed options, select "Use Your Passkey."
 
 ![Google Account additional log in options with passkey option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap "Continue." Depending on which unlock method you've set up on your device, you'll be asked to authenticate yourself with Face ID, Touch ID, or your passcode. After doing so, you'll be automatically logged into your account.
 
 ![iOS prompt asking the user if they want to sign in to their Google account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How to Use Passkeys on a Different Device
 
@@ -149,20 +142,27 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![PayPal log in screen with the 'Log in with a Passkey' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-1-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A pop-up box should appear on the screen asking you whether you would like to use a passkey from another device. Select the option to sign in from an iPhone, iPad, or Android device and click "Continue."
 
 ![iCloud Keychain pop-up asking how would you like to sign in to paypal.com. The option to use passkey from another iPhone, iPad, or Android device is selected and the Continue button is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-2-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should see a QR code appear on the screen.
 
 ![A QR code to sign in with passkey from another iPhone, iPad or Android device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-3-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, open the camera app on your iPhone or iPad and simply point it to the QR code. (Don't click the shutter button.) Then tap the "Sign In with a Passkey" button that pops up on the screen. Make sure Bluetooth is enabled on both devices and they're close to each other. 
 
@@ -173,16 +173,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 ![Prompt asking the user if they want to sign in to their PayPal account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-ios.PNG) 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why You Should Be Using Passkeys Whenever Possible
@@ -208,24 +202,22 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/erfect-audio-gear-for-streamers/"><u>[New] Perfect Audio Gear for Streamers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-5-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[Updated] 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-uncover-the-quickest-rising-youtube-channels-to-uplift-you/"><u>[Updated] Uncover the Quickest Rising YouTube Channels to Uplift You</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metacosm-musings-the-best-quotations-for-virtual-inhabitants/"><u>2024 Approved Metacosm Musings The Best Quotations for Virtual Inhabitants</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digiarty-incwinxdvd/"><u>Digiarty Inc.(WinXDVD) -利用ガイドと購入手段:コンビニ決済の便利さをご紹介</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-easily-change-your-ipad-iphone-and-mac-screen-time-pin-or-password/"><u>How to Easily Change Your iPad, iPhone and Mac Screen Time PIN or Password</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-11-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme 11 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-realme-narzo-n55-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme Narzo N55 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2213470-9780007591480-mindfulness-weeks-5-6-of-your-8-week-plan/"><u>Mindfulness: Weeks 5-6 of Your 8-Week Plan | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/phone-ring-holders-how-my-initial-dislike-turned-into-an-essential-accessory-for-me/"><u>Phone Ring Holders: How My Initial Dislike Turned Into an Essential Accessory for Me</u></a></li>
-<li><a href="https://os-tips.techidaily.com/preserve-your-precious-moments-with-icloud-avoid-apples-deleted-image-issue-by-enabling-this-crucial-feature/"><u>Preserve Your Precious Moments with iCloud: Avoid Apple's Deleted Image Issue by Enabling This Crucial Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-digital-interaction-with-apple-vision-pro-navigating-the-new-age-of-face-based-computing/"><u>Revolutionizing Digital Interaction with Apple Vision Pro: Navigating the New Age of Face-Based Computing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-underground-navigation-googles-breakthrough-for-tunnel-compatible-maps-now-available/"><u>Revolutionizing Underground Navigation: Google's Breakthrough for Tunnel-Compatible Maps Now Available</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-your-apple-experience-the-impact-of-ai-on-iphone-ipad-and-mac-in-autumn/"><u>Revolutionizing Your Apple Experience: The Impact of AI on iPhone, iPad & Mac in Autumn</u></a></li>
-<li><a href="https://os-tips.techidaily.com/score-a-100-discount-on-the-new-portable-ipad-mini-perfect-for-travelers/"><u>Score a $100 Discount on the New, Portable iPad Mini Perfect for Travelers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solution-steps-for-iphone-users-struggling-with-unsuccessful-message-serversync/"><u>Solution Steps for iPhone Users Struggling with Unsuccessful Message Serversync</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-wi-fi-voice-calls-on-the-latest-iphones/"><u>Step-by-Step Guide: Activating Wi-Fi Voice Calls on the Latest iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/steps-to-take-if-your-lost-airtag-appears-at-home-a-comprehensive-guide/"><u>Steps to Take If Your Lost AirTag Appears at Home: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capturing-cinematic-moments-across-devices/"><u>[New] 2024 Approved Capturing Cinematic Moments Across Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-sim-inspired-memories-a-comprehensive-guide-to-capturing-life-events-with-gameplay-recordings/"><u>[New] Sim-Inspired Memories A Comprehensive Guide to Capturing Life Events with Gameplay Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-final-cut-pros-essential-toolkit-the-top-10-plugin-list/"><u>[Updated] Final Cut Pro's Essential Toolkit The Top 10 Plugin List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-retrieving-lost-photographs-from-your-iphone/"><u>A Step-by-Step Guide: Retrieving Lost Photographs From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-and-premium-iphone-message-retrieval-applications-of-2024-a-comprehensive-list/"><u>Best Free and Premium iPhone Message Retrieval Applications of 2024: A Comprehensive List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-finest-apple-device-compatible-messaging-platforms-free-of-charge/"><u>Discover The Finest Apple Device-Compatible Messaging Platforms (Free of Charge)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620267152-discover-the-ultimate-list-of-zero-cost-tools-to-track-your-calls-easily-ideal-for-iphones-from-5-to-x-series/"><u>Discover the Ultimate List of Zero-Cost Tools to Track Your Calls Easily - Ideal for iPhones From 5 to X Series</u></a></li>
+<li><a href="https://os-tips.techidaily.com/finding-lost-photographs-after-accidental-deletion-on-ios-and-macos-devices/"><u>Finding Lost Photographs After Accidental Deletion on iOS and macOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-repairing-isdonedll-errors-in-windows-11-os/"><u>Guide to Repairing ISDone.dll Errors in Windows 11 OS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-recover-deleted-texts-a-three-step-guide/"><u>How to Recover Deleted Texts: A Three-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-sound-quality-by-updating-usb-audio-drivers-for-windows-xpvista71011/"><u>Improve Your Sound Quality by Updating USB Audio Drivers for Windows XP/Vista/7/10/11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone XS Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-narzo-60-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme Narzo 60 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-unleashed-mastering-the-art-of-downgrading-with-tinyumbrella/"><u>IOS Unleashed: Mastering the Art of Downgrading with TinyUmbrella</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-7-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 7 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-texts-on-your-apple-device-a-step-by-step-guide-for-macos-users/"><u>Retrieve Accidentally Deleted Texts on Your Apple Device: A Step-by-Step Guide for macOS Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/talking-the-talk-mastering-viewer-communication-for-2024/"><u>Talking the Talk Mastering Viewer Communication for 2024</u></a></li>
 </ul></div>
 

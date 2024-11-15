@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Shift: How Gemini Superseded Google Assistant"
-date: 2024-11-03T17:28:53.749Z
-updated: 2024-11-04T17:55:15.310Z
+date: 2024-11-06T16:48:04.126Z
+updated: 2024-11-13T16:15:25.595Z
 tags:
   - ios
 categories:
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
  There's also a premium version called Gemini Advanced, which unlocks additional features of Ultra. We're talking about expanded abilities with multimodal inputs, more interactive coding tools, deeper data analysis, and more. You can access Gemini Advanced for $20/month after a free two-month trial as part of Google One's new AI Premium Plan.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Can Google Gemini Do As Google Assistant Replacement?
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Using Google Gemini to launch Whatsapp on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-101242_google.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **Send Messages**: You can also use Gemini to send messages to your contacts by voice or typing. For example, you can say, "Send a message to John" or "Text Lisa," and Gemini will ask you what you want to say.
 
 ![sending text message using Google Gemini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102215_google.jpg) 
@@ -70,15 +63,28 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Using Google Gemini to initiate call on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102308_google.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Search the Web**: Gemini can help you find information on the web, such as weather, news, sports, or trivia. You can ask Gemini anything you want, such as "What's the weather like today?" or "Who is topping the Premier League?" and Gemini will show you the relevant results from Google.
 
 ![Using Google Gemini to Google search on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102920_google.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Screen Awareness**: Gemini can also understand what's on your screen and help you with relevant actions. Tap "Add This Screen" to let Gemini capture the details of your current screen.
@@ -99,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
  Gemini is always learning and improving, so you can expect new features and updates in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google Assistant Tasks That Google Gemini Can't Do (Yet)
 
  Gemini has some limitations compared to Google Assistant. Unlike Google Assistant, which can perform basic tasks without an internet connection, such as setting alarms, playing music, or making phone calls, Google Gemini requires a constant and stable internet connection to function. This means that if you are in a remote area or your network is down, you won't be able to use Google Gemini. In addition, Gemini doesn't currently support any media integrations. So you won't be able to ask it to play podcasts, news broadcasts, radio stations, or music from services like Spotify.
@@ -109,27 +122,26 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Google Assistant helping Gemini.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-094859.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The good news is Google Assistant can "help" Gemini with some of these tasks still. If you're using Gemini as the default digital assistant on Android, it will essentially fall back to Assistant for timers and alarms, controlling smart home devices, on-device actions like turning on Bluetooth, broadcasting to smart speakers, and reading pages out loud.
 
  While these limitations may be frustrating if you are a longtime Google Assistant user, they stem from the fact that Gemini represents an entirely different, more advanced AI architecture. As Gemini matures, hopefully, its capabilities will expand to close the gaps with Assistant and combine conversational intelligence with Google's services. But for now, you may need to switch between the two for certain tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use Google Gemini AI
 
 ![Gemini AI tap selected in the Google app on an Apple iPhone 15 Pro Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53528020292_1ca68ef944_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -154,20 +166,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[New] In 2024, Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-android-and-iphones-leading-facelift-technology/"><u>[Updated] Android & iPhone's Leading Facelift Technology</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-key-to-discovery-perfecting-your-youtube-tags-game/"><u>[Updated] In 2024, Key to Discovery Perfecting Your YouTube Tags Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-pc-freezing-issues-quick-fixes-and-solutions/"><u>Football Manager 2022 PC Freezing Issues: Quick Fixes and Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-8-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 8 Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-charting-the-top-8-online-photo-hybrid-creator/"><u>In 2024, Charting the Top 8 Online Photo Hybrid Creator</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-streaming-facebook-made-easy-pcmaclaptop-tips-and-tricks/"><u>In 2024, Streaming Facebook Made Easy PC/Mac/Laptop Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-user-friendly-interfaces-lessons-from-the-successful-tea-timer-app-model/"><u>Mastering User-Friendly Interfaces: Lessons From the Successful Tea Timer App Model</u></a></li>
-<li><a href="https://os-tips.techidaily.com/monitoring-your-emotional-well-being-using-apple-health-app/"><u>Monitoring Your Emotional Well-Being Using Apple Health App</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-refinement-of-music-files-on-mac-a-look-at-the-most-acclaimed-mp3-editors/"><u>New In 2024, Refinement of Music Files on Mac A Look at the Most Acclaimed MP3 Editors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-ios-update-171-enhances-airdrop-connectivity-revamps-music-experience-and-boosts-screen-time-management/"><u>New IOS Update 17.1 Enhances AirDrop Connectivity, Revamps Music Experience & Boosts Screen Time Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/newly-released-idos-3-the-ultimate-dos-emulator-now-available-on-the-app-store/"><u>Newly Released iDOS 3: The Ultimate DOS Emulator Now Available on the App Store</u></a></li>
-<li><a href="https://os-tips.techidaily.com/personalize-your-device-like-never-before-discovering-the-versatility-of-reinks-e-ink-phone-case-c1-reviewed/"><u>Personalize Your Device Like Never Before: Discovering the Versatility of ReiNK's E Ink Phone Case C1 Reviewed!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/predicted-breakthroughs-for-ai-at-the-upcoming-apple-wwdc-2024-a-look-into-future-possibilities/"><u>Predicted Breakthroughs for AI at the Upcoming Apple WWDC 2024: A Look Into Future Possibilities.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-gaming-in-octobers-exclusive-deal-extravaganza-seize-your-chance-to-snag-discounts-up-to-1000-dont-miss-out-zdnet/"><u>Save Big on Gaming in October's Exclusive Deal Extravaganza! Seize Your Chance to Snag Discounts up to $1000 – Don’t Miss Out | ZDNET</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficient-obs-adjustments-on-cost-effective-computers/"><u>[New] In 2024, Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-teredo-tunneling-pseudo-interface-code-10-error/"><u>[Solved] Teredo Tunneling Pseudo-Interface Code 10 Error</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-building-through-characters-and-plot-twists/"><u>[Updated] 2024 Approved Channel-Building Through Characters and Plot Twists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-strategies-for-successful-longer-content-on-social-media-hubs/"><u>[Updated] 2024 Approved Strategies for Successful Longer Content on Social Media Hubs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-spin-swivel-and-shuffle-videos-effortlessly-using-vlc-player-for-2024/"><u>[Updated] Spin, Swivel, and Shuffle Videos Effortlessly Using VLC Player for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hack-your-way-to-instant-signature-bg-elimination/"><u>2024 Approved Hack Your Way to Instant Signature BG Elimination</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-watch-a-must-have-companion-for-athlete-recovery-and-downtime/"><u>Apple Watch: A Must-Have Companion for Athlete Recovery and Downtime</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-recording-quality-with-8-amazing-free-tips/"><u>Boost Your iPhone's Recording Quality with 8 Amazing Free Tips!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breathing-fresh-life-into-your-vintage-iphone-ultimate-guide-for-a-newer-experience/"><u>Breathing Fresh Life Into Your Vintage iPhone - Ultimate Guide for a Newer Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-understanding-airpods-pro-mastering-controls-unveiling-advanced-features-and-navigating-gestures/"><u>Comprehensive Guide: Understanding AirPods Pro - Mastering Controls, Unveiling Advanced Features & Navigating Gestures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/copilot-by-microsoft-launches-new-ios-application/"><u>Copilot by Microsoft Launches New iOS Application</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-guide-preparing-to-embrace-the-apple-world/"><u>Critical Guide: Preparing to Embrace the Apple World</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disappointing-wearos-experience-leads-me-to-switch-to-apples-smartwatch/"><u>Disappointing WearOS Experience Leads Me to Switch to Apple's Smartwatch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discontinuation-announcement-apple-ends-sales-of-watch-series-9-and-ultra-models/"><u>Discontinuation Announcement: Apple Ends Sales of Watch Series 9 & Ultra Models</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974442796-ensure-top-notch-gaming-updated-rtx-2080-driver-packs-for-windows-10-and-11-instant-download/"><u>Ensure Top-Notch Gaming: Updated RTX 2080 Driver Packs for Windows 10 and 11 - Instant Download!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-verdict-unveiling-the-capabilities-of-the-xtool-s1-diode-laser-system-for-personal-workspaces/"><u>Professional Verdict: Unveiling the Capabilities of the XTool S1 Diode Laser System for Personal Workspaces</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-5-strategies-to-seamlessly-share-images-from-ipad-to-pc/"><u>Top 5 Strategies to Seamlessly Share Images From iPad to PC</u></a></li>
 </ul></div>
 

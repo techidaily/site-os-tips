@@ -1,7 +1,7 @@
 ---
 title: "Adoring iOS Innovation While Staying True to Android: A Tech Enthusiast's Balancing Act"
-date: 2024-10-29T17:18:34.706Z
-updated: 2024-11-04T17:35:28.115Z
+date: 2024-11-08T19:46:49.470Z
+updated: 2024-11-13T20:10:30.878Z
 tags:
   - ios
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 
  I'm so deep in the Apple ecosystem that you can only see the top of my head, but the one Apple product I just can't learn to love is its most popular—the iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I’m 99% Apple Now
 
  Apple first got its claws into me with the second-generation iPad. It seemed like the perfect device for me, bringing together all the things I needed a computer to do together into one slim package with the bonus of all-day battery life. Since then, an iPad has been indispensable to my daily life, and for several years I didn't bother owning a [laptop](https://win-dash.techidaily.com/1722972482843-corsair-void-pro-windows-driver-download-and-installation-made-simple/) at all, opting for a keyboard attachment instead. My M2 12.9-inch iPad Pro is my 7th iPad (unless I forgot one) and it's better than ever. Honestly, it's the one device I spend the most time on.
@@ -33,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  I’ve Tried the iPhone Twice
 
  It's that dalliance with Apple Watches that had me butting heads with iPhone. You see, while I was getting along more or less with my Galaxy Watch, my wife convinced me that I should try an Apple Watch, as she loves hers. That's fine, but since Apple has decided that the Watch is strictly an iPhone accessory, I couldn't use my iPad or Mac with it. She had an old iPhone 11 Pro lying around, so we could use that.
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
  Which meant I had to daily drive the 11 Pro until I could get my next phone upgrade. Suffice it to say that I absolutely hated that phone within a week of using it, but kept at it because I was in line to get an iPhone 14 Pro, which was surely going to solve the issues I had with the 11.
 
  I picked up a 1TB iPhone 14 Pro, and sure enough, it was a much better phone, but Apple had addressed pretty much none of the things that made it impossible to get along with the device, and honestly, I don't think they could, because most of it might be in the DNA of the iPhone itself.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  My Phone Can’t Be This Locked Down
 
@@ -69,13 +62,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The iPhone Form Factor Isn’t Great
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
@@ -86,11 +72,25 @@ Corbin Davenport / How-To Geek
 
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
 
  For [flagship phones](https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/) in particular, photos matter. By all accounts, iPhones offer some of the best camera equipment and photos money can buy. However, smartphone photography is just as much about [software post-processing](https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/) as it is about the hardware, and I just can't stand the look of iPhone photos. It's quite hard to pin down why exactly, and this is clearly subjective, but iPhone photos feel a little soulless to me. Maybe the word is "overprocessed", but I have no doubt that the photos from my S22 Ultra are no less processed, just differently.
 
  Nonetheless, photos taken on iPhone do nothing for me. In particular I like taking [macro photos](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/) as well as portrait photos, and while the macro camera mode on my iPhone 14 Pro was plenty capable, I just couldn't get the same sorts of shots that my S21 Ultra or S22 Ultra can manage.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Is the Battery Life So Awful?
 
@@ -99,10 +99,10 @@ Corbin Davenport / How-To Geek
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I’m Willing to Try Again
@@ -126,14 +126,24 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid/"><u>[New] In 2024, How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[Updated] In 2024, The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-whatsapp-successfully-executes-bold-move-with-profit-surge/"><u>1. WhatsApp Successfully Executes Bold Move with Profit Surge</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-most-outstanding-smartphones-a-closer-look-at-leading-iphones/"><u>2023'S Most Outstanding Smartphones: A Closer Look at Leading iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/are-iphones-built-to-resist-water-and-how-much-exposure-is-safe/"><u>Are iPhones Built to Resist Water, and How Much Exposure Is Safe?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/benefits-vs-drawbacks-in-vr-technology/"><u>Benefits vs Drawbacks in VR Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/current-status-of-game-emulator-legality-safe-or-on-the-brink-of-illegalization/"><u>Current Status of Game Emulator Legality: Safe or on the Brink of Illegalization?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sifting-through-legacy-works-a-cultural-journey-for-2024/"><u>Sifting Through Legacy Works A Cultural Journey for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-stop-nier-from-unexpectedly-quitting/"><u>Troubleshooting Guide: How to Stop NieR From Unexpectedly Quitting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-master-list-of-10-best-video-chat-programs-today/"><u>[New] Master List of 10 Best Video Chat Programs Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4/"><u>[Updated] 2024 Approved Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-navigating-twitters-live-video-landscape/"><u>[Updated] In 2024, Navigating Twitter's Live Video Landscape</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tips-for-effective-vimeo-broadcasting/"><u>[Updated] Tips for Effective Vimeo Broadcasting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-windows-10-capture-miniapp-for-2024/"><u>[Updated] Windows 10 Capture MiniApp for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-diy-movie-magic-speedy-hacks-for-aspiring-producers/"><u>2024 Approved DIY Movie Magic Speedy Hacks for Aspiring Producers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>2024 Approved Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-safeguard-phone-information-iphones-and-androids/"><u>Comprehensive Steps to Safeguard Phone Information: IPhones and Androids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-save-your-iphones-information-using-icloud-itunes-or-pc-a-complete-guide/"><u>Easy Steps: Save Your iPhone's Information Using iCloud, iTunes or PC - A Complete Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-photo-preservation-for-smartphone-users-securely-saving-images-on-android-and-iphone/"><u>Effortless Photo Preservation for Smartphone Users: Securely Saving Images on Android & iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experts-complete-handbook-for-iphone-and-android-backup-data-recovery-techniques/"><u>Expert's Complete Handbook for iPhone and Android Backup Data Recovery Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-preserving-your-tunes-ultimate-strategies-for-securing-your-songs-on-all-iphones-model-15-14-13-and-earlier/"><u>Guide: Preserving Your Tunes - Ultimate Strategies for Securing Your Songs on All iPhones (Model 15, 14, 13, and Earlier)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-a-corrupted-iphone-backup-with-two-reliable-techniques/"><u>How to Fix a Corrupted iPhone Backup with Two Reliable Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-celebrating-the-greats-anime-opens-of-all-time/"><u>In 2024, Celebrating the Greats Anime Opens of All Time</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-rescue-mission-retrieving-your-valuable-information-beyond-itunes-and-icloud-boundaries/"><u>IPhone Rescue Mission: Retrieving Your Valuable Information Beyond iTunes and iCloud Boundaries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-iphone-data-extractor-in-2021-seamless-itunes-backup-transfer-to-windows-or-mac/"><u>Leading iPhone Data Extractor in 202#1. Seamless iTunes Backup Transfer to Windows or Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-mobile-video-preservation-the-optimal-strategies-for-saving-content-on-iphones-and-androids/"><u>Mastering Mobile Video Preservation: The Optimal Strategies for Saving Content on iPhones & Androids</u></a></li>
+<li><a href="https://win-superb.techidaily.com/restoring-a-vmware-environment-effective-techniques-for-data-restoration-in-esxi-and-workstation-systems/"><u>Restoring a VMware Environment: Effective Techniques for Data Restoration in ESXi & Workstation Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-leading-free-online-screencasting-solutions/"><u>The Leading Free Online Screencasting Solutions</u></a></li>
 </ul></div>
 

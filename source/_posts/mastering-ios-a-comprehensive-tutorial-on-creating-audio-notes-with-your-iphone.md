@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS: A Comprehensive Tutorial on Creating Audio Notes with Your iPhone"
-date: 2024-11-02T16:46:05.543Z
-updated: 2024-11-04T17:22:05.404Z
+date: 2024-11-10T17:46:56.444Z
+updated: 2024-11-13T20:49:10.932Z
 tags:
   - ios
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Accessing the Audio app in the Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Audio," and it'll begin recording your audio right away.
 
 ![Selecting the Audio app in Messages to start a new voice recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-3.jpg) 
@@ -35,27 +42,20 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Sound wave icon in the Messages app to quickly start a new voice recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Start speaking your message. If you want to take a pause, hit the stop button (with a red square icon) to pause the recording.
 
 ![Pausing a voice recording in the Messages app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-4-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap the plus (+) button (with a timestamp to its right) to resume recording and start speaking again.
 
 ![Resuming a voice recording in the Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you've finished speaking, hit the stop button again to end the recording. At any point, if you want to discard a voice recording, hit the x button.
 
@@ -72,35 +72,9 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Sending the voice message in the Messages app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-8.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to review the message before sending it, hit the play icon to the left of the audio waveform, and it'll start playing your recording.
 
 ![Previewing a recorded voice message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-7.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By default, the Messages app automatically deletes voice messages two minutes after you send them. Thankfully, you get an option to save them should you ever need them later. Simply tap the "Keep" button that appears below the voice message after sending it, and the Messages app will save the message.
 
@@ -110,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![iPhone Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down and tap on "Expire" under the "Audio Messages" section.
 
 ![Expire option for voice messages on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-11.jpg) 
@@ -124,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
  Finally, select "Never" on the next screen.
 
 ![Setting voice message expiry on iPhone to Never.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-12.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Listen and Reply to a Voice Message on Your iPhone
 
@@ -139,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Enabling the Raise to Listen option in Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-25.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lastly, you can also check a voice message's content without actually playing it. Simply look at the transcript under the voice message to know what the message contains. This is useful when you're in a situation where you can't play the audio but need to check a voice message someone has sent to you.
 
  After you've checked a voice message, the Messages app will automatically delete it two minutes later. Tap the "Keep" button below the message to save it. Or change the expiry setting to never, as shown in the previous section.
@@ -149,22 +130,15 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Composing an in-line reply for a voice message on the iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/send-a-voice-message-on-an-iphone-20.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, if the Raise to Listen feature is enabled on your iPhone, replying to messages is slightly different. After you've listened to a message, lower your iPhone and put it back on your ear. You'll now hear a tone indicating that the recording has begun. Start speaking your reply message and, when done, lower the iPhone to stop recording.
 
  Hit the arrow button to send the message. You can also preview the message if you want.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What You Need to Know About Sending and Receiving Voice Messages on an iPhone
@@ -183,9 +157,29 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  Lastly, if a voice message is saved, the Messages app shows "Kept" under the message to inform the other person in the conversation that their message has been saved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  What Languages Does the Transcript Feature Support?
 
  The audio transcription feature in the Messages app is supported in many regions and available in various languages. You can check out [Apple's support page](https://www.apple.com/ios/feature-availability/#messages-audio-message-transcription) to find out if it's available in your native language.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Can You Save Voice Messages in the Voice Memos App?
 
@@ -210,17 +204,19 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-high-definition-showdown-projection-systems-versus-tv-in-4k-world-for-2024/"><u>[New] High-Definition Showdown Projection Systems versus TV in 4K World for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>[Updated] 2024 Approved The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-success-strategy-standard-studio-or-beta-edge-for-2024/"><u>[Updated] Channel Success Strategy Standard Studio or Beta Edge for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-cutting-edge-techniques-for-capturing-stellar-interviews-on-idevices-for-2024/"><u>[Updated] Cutting-Edge Techniques for Capturing Stellar Interviews on iDevices for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-decoding-facebook-capturing-and-keeping-status-videos/"><u>[Updated] In 2024, Decoding Facebook Capturing and Keeping Status Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-timing-translation-from-20mb-to-seconds-measurement/"><u>[Updated] Timing Translation From 20Mb to Seconds Measurement</u></a></li>
-<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-benefit-from-revamped-google-drive-interface/"><u>Android & iPhone Users Benefit From Revamped Google Drive Interface</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comparing-waze-and-google-maps-a-detailed-review-of-features-and-performance/"><u>Comparing Waze and Google Maps: A Detailed Review of Features and Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/compatibility-check-can-your-apple-device-support-the-upcoming-ios-17-and-ipados/"><u>Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-using-apples-facetime-app-on-android-phones/"><u>Complete Guide to Using Apple's FaceTime App on Android Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-iphone-problem-solving-strategies-for-seamless-performance/"><u>Comprehensive iPhone Problem-Solving Strategies for Seamless Performance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30i-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30i Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-countermoves-in-media-how-to-reverse-videos/"><u>[Updated] 2024 Approved Countermoves in Media How to Reverse Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-choosing-between-obs-and-streamlabs-for-broadcast-excellence/"><u>2024 Approved Choosing Between OBS and Streamlabs for Broadcast Excellence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-a-seamless-cross-share-experience-with-fb-and-igtv/"><u>2024 Approved Crafting a Seamless Cross-Share Experience with FB & IGTV</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-meme-mastery-top-ten-template-treasures/"><u>2024 Approved Meme Mastery Top Ten Template Treasures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-ensure-accurate-sleep-monitoring-on-your-apple-watch-solutions-that-work/"><u>How To Ensure Accurate Sleep Monitoring on Your Apple Watch – Solutions That Work!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-an-unresponsive-iphone-or-ipad-troubleshooting-steps/"><u>How to Fix an Unresponsive iPhone or iPad: Troubleshooting Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-use-apples-airplay-feature-effectively-an-in-depth-explanation/"><u>How to Use Apple's AirPlay Feature Effectively: An In-Depth Explanation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/icloud-for-windows-receives-significant-upgrade-discover-the-latest-features/"><u>ICloud for Windows Receives Significant Upgrade - Discover the Latest Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-ugreen-5000mah-magnetic-charger-pad-does-it-spark-anxiety/"><u>In-Depth Analysis of the Ugreen 5000mAh Magnetic Charger Pad: Does It Spark Anxiety?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/major-icloud-enhancements-now-available-on-windows-platforms-whats-new/"><u>Major iCloud Enhancements Now Available on Windows Platforms: What's New</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-pinterest-content-top-5-free-download-apps/"><u>Mastering Pinterest Content Top 5 FREE Download Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/migrating-seamlessly-from-windows-7-to-the-latest-10/"><u>Migrating Seamlessly: From Windows 7 To The Latest 10</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
 </ul></div>
 

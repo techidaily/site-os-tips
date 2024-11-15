@@ -1,7 +1,7 @@
 ---
 title: "Solving Flash Drive Issues: Effective Techniques for Device Repair and Data Retrieval"
-date: 2024-08-18T09:36:19.957Z
-updated: 2024-08-19T09:36:19.957Z
+date: 2024-11-12T16:21:41.264Z
+updated: 2024-11-13T20:30:05.255Z
 tags:
   - fix-windows-problems
 categories:
@@ -27,12 +27,16 @@ If you suffer a lot from the issue, this page can help you exactly.
 
 12 solutions are given here, and get the most suitable one for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 Check the SD card container
 
 ![Check the SD card container](https://www.aiseesoft.com/images/data-recovery/sd-card-check.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  SD card container is the device that put SD card. The SD card reader, phone or camera can be the container.
 
@@ -45,15 +49,23 @@ You can change a SD card reader to read it again on your computer.
 ## 2 Check the USB adapters (for computer)
 
 ![Check the USB adapters](https://www.aiseesoft.com/images/data-recovery/check-usb.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are trying to let your computer read your SD card via the USB card reader, you should try the suggestions below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Change USB ports
 
  Change the USB ports for your SD reader. You can try both the front and back USB ports for connection.
@@ -64,9 +76,6 @@ The loose USB connection may lead to the failure of workable SD card.
 
  Make sure the USB connector is securely attached to the USB port. You can verify its connection by disconnecting the USB connector and re-connecting it to the USB port.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart computer
 
  Disconnect the USB connector, restart the computer, and then re-connect the USB connector to the USB port.
@@ -82,9 +91,6 @@ If other cards can be read, then your SD card is problematic.
 ## 3 Clean SD card
 
 ![Clean SD card](https://www.aiseesoft.com/images/data-recovery/clean-sd-card.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  Sometimes, there will be dust or dirt because of the careless protection for chips, thus your phone cannot read SD card.
 
@@ -98,9 +104,6 @@ If other cards can be read, then your SD card is problematic.
 
  In this case, you can use something to reshape the slot to fix SD card cannot be read by phone problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Check drive on computer
 
  No drive icon or drive icon is outdated will disable you to find your SD card.
@@ -123,12 +126,16 @@ Drive is outdated?
 
 ![Fix SD card in the slot](https://www.aiseesoft.com/images/data-recovery/update-usb-drive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 Check write-protection
 
 ![Check write-protection](https://www.aiseesoft.com/images/data-recovery/write-protection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Write-protection for some SD cards will disable files to be modified.
 
@@ -136,15 +143,9 @@ Write-protection for some SD cards will disable files to be modified.
 
  If your SD card has a write-protection switch, make sure it is set to disabled, or in the opposite direction that it points to "LOCK" on the card. Then you can try using the SD card again and see if this fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Improperly formatted SD card
 
 ![Improperly formatted SD card](https://www.aiseesoft.com/images/data-recovery/format-sd-card.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  With some card readers that use and store data on the SD card, the card is formatted much like how a disk drive is formatted when first used in a computer.
 
@@ -169,13 +170,7 @@ For removing the trouble, you can do as following:
 For example, "attrib -h -r -s /s /d G:\\\*.\*".
 
 ![Improperly formatted SD card](https://www.aiseesoft.com/images/data-recovery/sd-card-virus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9 Force SD card show up
 
 You can try the way to let your SD card show up forcibly.
@@ -186,6 +181,13 @@ You can try the way to let your SD card show up forcibly.
 
 ![Force SD card show up](https://www.aiseesoft.com/images/data-recovery/force-read-sd-card.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10 Wrong data transfer mode on Android
 
 ![Wrong data transfer mode on Android](https://www.aiseesoft.com/images/data-recovery/media-transfer.jpg)
@@ -194,29 +196,27 @@ You can try the way to let your SD card show up forcibly.
 
  When removing the barrier, you need to select Media Transfer option, and the Explorer should display the data stored on the memory card.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 11 Phone apps fail to read
 
 ![Phone apps fail to read](https://www.aiseesoft.com/images/data-recovery/set-app-destination.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Particular Android software won't recognize an SD card. Other apps read the SD card and write data on it no problem.
 
  For solving it, you need to go to the "Settings" of the app you have problems with (for example Gallery or Camera) and set SD card as the destination.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12 Memory card is broken or damaged
 
  As a result of mechanical damage, your phone doesn't see your SD card or the latter stopped working.
 
  For fixing the damaged SD card, you can jump to this post to get the detailed steps:[How to fix damaged SD card](https://tools.techidaily.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Tip Recover data from formatted/corrupted SD card
 
  The above solutions focus on fixing the issue of SD card is not reading. If your SD card can show up, but the data are gone for formatting or being corrupted, how to do?
@@ -245,6 +245,13 @@ Aiseesoft Data Recovery is the exact remedy.
 
 ![Scan Data from Micro SD Card](https://www.aiseesoft.com/images/data-recovery/removable-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2 Recover data from SD card
 
  After the scanning result is done, you can click the folder in the left sidebar to view the detailed data types in the folder from the right window.
@@ -252,6 +259,13 @@ Aiseesoft Data Recovery is the exact remedy.
  Find the file type and the exact files that you want to get back, and click "Recover" to save the lost files in SD card to computer.
 
 ![Recover Data from Micro SD Card](https://www.aiseesoft.com/images/data-recovery/scan-ppt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you only possess you Android phone and SD card, then you can[recover deleted files from SD card](https://tools.techidaily.com/aiseesoft-android-data-recovery/) with the USB cable.
 
@@ -265,9 +279,6 @@ Tips
 
 ![recover various lost data from Windows Hard Drive and Memory Card, etc. ](https://www.aiseesoft.com/images/youtube-video/video-recover-lost-data-from-hard-drive.jpg) ![play-button](https://www.aiseesoft.com/images/play-button.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  This article aims at showing you how to fix SD card is not reading or being detected when you are using it. 12 solutions are for you and pick up the best one by yourself. Still, when you lost data from the SD card, you can learn from the bonus tip to get the solution easily.
@@ -305,8 +316,6 @@ More Reading
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -314,4 +323,26 @@ More Reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easing-into-public-speaking-10-common-video-blogger-fears/"><u>[New] 2024 Approved Easing Into Public Speaking 10 Common Video Blogger Fears</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-guide-to-audio-alchemy-sites/"><u>[New] Exclusive Guide to Audio Alchemy Sites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-are-opinions-on-goods-compensated-in-videos/"><u>[Updated] Are Opinions on Goods Compensated in Videos?</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypassing-the-hurdle-three-trustworthy-techniques-for-troubleshooting-iphone-picture-transfer-problems/"><u>Bypassing the Hurdle: Three Trustworthy Techniques for Troubleshooting iPhone Picture Transfer Problems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-to-resolve-ipad-unresponsiveness-and-tips-for-ongoing-protection/"><u>Effective Strategies to Resolve iPad Unresponsiveness & Tips for Ongoing Protection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-display-decoded-examining-samsungs-ue590-monitor/"><u>Elite Display Decoded Examining Samsung's UE590 Monitor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-recover-pictures-from-an-iphone-backup-top-strategies/"><u>How to Successfully Recover Pictures From an iPhone Backup: Top Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-in-depth-review-of-updated-videoshow-app-for-24-users/"><u>In 2024, In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/novice-writers-best-enhancements-for-gopro/"><u>Novice’ Writers Best Enhancements for GoPro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-disappeared-phone-numbers-a-step-by-step-guide-to-recovering-lost-contacts-post-itunes-backup/"><u>Reviving Your Disappeared Phone Numbers: A Step-by-Step Guide to Recovering Lost Contacts Post-iTunes Backup</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-for-earning-from-every-youtube-short/"><u>Step-by-Step Guide for Earning From Every YouTube Short</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-unsticking-your-iphone-from-constant-headset-connectivity/"><u>Step-by-Step Solutions: Unsticking Your iPhone From Constant Headset Connectivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-full-recovery-of-lost-safari-bookmarks-on-ios-devices/"><u>Step-by-Step Tutorial: Full Recovery of Lost Safari Bookmarks on iOS Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-cheat-sheet-essentials-for-vlc-and-mac/"><u>The Ultimate Cheat Sheet Essentials for VLC and Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-remedies-to-combat-ipad-stalling-issues-and-techniques-for-future-safeguarding/"><u>Top 3 Remedies to Combat iPad Stalling Issues & Techniques for Future Safeguarding</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-ranking-of-top-rated-ios-data-restoration-applications-a-comprehensive-review/"><u>Ultimate Ranking of Top-Rated iOS Data Restoration Applications - A Comprehensive Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-hidden-data-how-to-retrieve-removed-phone-conversation-logs-from-iphone/"><u>Uncovering Hidden Data: How to Retrieve Removed Phone Conversation Logs From iPhone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138554740-9781948062107-witch-please-a-memoir/"><u>Witch, Please: A Memoir | Free Book</u></a></li>
+</ul></div>
 

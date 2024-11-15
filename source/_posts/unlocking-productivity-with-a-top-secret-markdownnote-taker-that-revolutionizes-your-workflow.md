@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-10-31T17:15:26.730Z
-updated: 2024-11-04T18:21:58.127Z
+date: 2024-11-10T18:52:19.214Z
+updated: 2024-11-13T17:31:44.903Z
 tags:
   - ios
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Most writing apps hide your local data from you. Samsung Notes, for example, comes pre-installed on my Galaxy Z Fold 5, but I can only back up notes to either Samsung's cloud or Microsoft's. I can also only access my notes using that one app, meaning I'm locked in.
@@ -54,10 +61,16 @@ Bertel King / How-To Geek
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -70,22 +83,16 @@ Bertel King / How-To Geek
 
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tabs Simplify Working With Multiple Documents
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -95,15 +102,22 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -111,13 +125,6 @@ Bertel King / How-To Geek
  Even though Obsidian is a Markdown editor, you don't actually need to know how to write Markdown to format your text. The app contains a formatting bar directly above your keyboard. When you tap the bold icon, Obsidian will surround the highlighted text with asterisks, which is how Markdown communicates that something needs to be in bold. If you want to turn something into a heading, tap the heading icon, and Obsidian will insert a hashtag. One hashtag denotes Heading 1, two hashtags denote Heading 2, and so on.
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Word and Character Count Included for Writers
 
@@ -130,13 +137,6 @@ Bertel King / How-To Geek
  I love it when an app displays the current word count on-screen as I write, but tucking this information into a separate page is fine, too. I just need it to be available. In many note-taking apps, it isn't. This is the other big reason I'm not relying on Samsung Notes. It's a reason Google Keep and [many alternatives to Apple Notes](https://ai-voice-clone.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/) aren't well-suited to the job. It's a big part of why iA Writer and Jotterpad are.
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Extend Obsidian With Plug-ins
 
@@ -165,18 +165,20 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-seeking-visual-vintage-free-art-archives-online/"><u>[New] 2024 Approved Seeking Visual Vintage Free Art Archives Online</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-immerse-in-tiktok-entertainment-with-ease-and-grace-for-2024/"><u>[New] Immerse in TikTok Entertainment with Ease and Grace for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-iphones-made-simple-how-to-save-and-savor-animated-images/"><u>[Updated] IPhones Made Simple How to Save and Savor Animated Images</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-mindset-of-a-photographer-polarrs-editing-techniques/"><u>2024 Approved Inside the Mindset of a Photographer Polarr’s Editing Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-for-activating-emergency-caller-id-skip-on-ios-devices/"><u>Easy Steps for Activating Emergency Caller ID Skip on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tips-on-how-to-perform-a-successful-airpods-software-update/"><u>Easy Tips on How to Perform a Successful AirPods Software Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-contact-editing-discover-the-latest-upgrade-for-microsoft-outlook-on-mobile-devices/"><u>Enhanced Contact Editing: Discover the Latest Upgrade for Microsoft Outlook on Mobile Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-android-functions-that-apple-needs-to-borrow-for-upcoming-iphones/"><u>Essential Android Functions That Apple Needs to Borrow for Upcoming iPhones</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/godly-onslaught-ragnaroks-day/"><u>Godly Onslaught Ragnarok’s Day</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-c55-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco C55</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-using-manycam-advanced-multi-camera-editing-for-streamers/"><u>Ultimate Guide to Using ManyCam | Advanced Multi-Camera Editing for Streamers</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/windows-11-22h26/"><u>Windows 11 22H2版本的蓝屏问题及其6种有效解决策略</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mobile-streamers-guide-post-photos-and-videos-not-twits/"><u>2024 Approved Mobile Streamers' Guide Post Photos & Videos, Not Twits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>2024 Approved The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-transferring-data-from-ipad-to-icloud-macbook-itunes-or-an-external-hard-drive/"><u>Comprehensive Guide: Transferring Data From iPad to iCloud, MacBook, iTunes, or an External Hard Drive</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-transfer-your-music-from-iphone-to-macpc-with-complete-backup-steps/"><u>Easy Guide: Transfer Your Music From iPhone to Mac/PC with Complete Backup Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ipad-and-itunes-backup-guide-a-beginners-tutorial/"><u>Effortless iPad & iTunes Backup Guide - A Beginner's Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-intellij-unison-back-up-and-running-on-win11/"><u>How to Get IntelliJ Unison Back Up & Running on Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ethereal-editing-in-extended-frame-rate/"><u>In 2024, Ethereal Editing in Extended Frame Rate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-strategies-achieving-advertising-excellence/"><u>In 2024, Smart Strategies Achieving Advertising Excellence</u></a></li>
+<li><a href="https://win-top.techidaily.com/instant-fix-guide-eradicating-the-0x80072ee7-issue-efficiently/"><u>Instant Fix Guide: Eradicating the 0X80072EE7 Issue Efficiently</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-iphone-file-saving-applications-protect-your-data-with-these-leading-choices/"><u>Top 8 iPhone File-Saving Applications: Protect Your Data with These Leading Choices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-the-issue-of-iphone-failing-to-sync-with-icloud/"><u>Troubleshooting Steps: Resolving the Issue of iPhone Failing to Sync with iCloud</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-tips-for-undefined-disk-issues-in-windows-1011-without-resorting-to-drive-formatting/"><u>Troubleshooting Tips for Undefined Disk Issues in Windows 10/11 Without Resorting to Drive Formatting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-guide-sync-your-iphone-with-icloud-complete-backup-strategies/"><u>Ultimate Step-by-Step Guide: Sync Your iPhone with iCloud - Complete Backup Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-apples-itunes-backup-process-methods-and-locations/"><u>Understanding Apple's iTunes Backup Process: Methods & Locations</u></a></li>
 </ul></div>
 

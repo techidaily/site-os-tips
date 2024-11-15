@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System"
-date: 2024-10-29T17:13:42.602Z
-updated: 2024-11-04T18:21:04.437Z
+date: 2024-11-07T17:17:39.806Z
+updated: 2024-11-13T18:51:58.437Z
 tags:
   - ios
 categories:
@@ -29,16 +29,16 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Android has had [custom icon packs for years](https://fox-http.techidaily.com/updated-in-2024-navigating-the-complexities-of-mac-and-mixer-streaming/), and since you can download third-party icon packs, you can pick from a wide range of art styles. Nevertheless, I'm excited about this iOS addition because we'll likely see improved custom icon support among app developers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Game Mode
 
  Game Mode made its way from [macOS](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/) to iOS, a feature that the first wave of Android gaming phones pioneered before it got baked into [Android 12](https://developer.android.com/games/optimize/adpf/gamemode/about-API-and-interventions) in 2021\. Game mode minimizes background activity and focuses processing power on your game to achieve better in-game performance and lower latency for accessories like AirPods and wireless controllers.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  RCS Messaging
 
@@ -57,10 +57,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  Another feature that's been around for years on Android phones is hidden apps. Similar to app lock, it's a privacy feature that ensures your friends don't see your most embarrassing apps on your home screen. When you hide an app on iOS 18, it goes into a locked "Hidden" folder that you can access just like any other locked app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Custom Lock Screen Shortcuts
@@ -72,10 +72,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  The default lock screen shortcuts on iPhone are the camera on the right and the flashlight on the left. These shortcuts are nothing new, but what _is_ new is that you can now customize or even fully remove them. I'm surprised to see that Apple will let people launch third-party apps; Snapchat was shown as a shortcut example. Again, custom lock screen shortcuts are old news for Android users, as they've had this feature since Android 14.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Password Manager
@@ -97,10 +97,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 ![iOS 18 Mail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-mail.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Email categorization that's coming soon to the built-in Mail app looks a lot like Gmail labels. The app will now sort emails into Primary, Transactions, Updates, and Promotions, based on what type of email it is. Gmail has Primary, Promotions, Social, Updates, and Forums. Sounds familiar, right?
@@ -108,10 +108,16 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  Credit where credit is due: I quite like the new digest view that consolidates all emails from a business into one window. This view allows you to quickly check snippets of all emails from a business without having to fiddle around with the search function.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Calendar Reminders
@@ -119,10 +125,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  The Calendar app will now show tasks you create in Reminders. Although this is a simple change, it's a game-changer for busy individuals who rely on their notes to keep track of daily tasks. Google Calendar does the same with Google Tasks and, to a lesser extent, Google Keep, but we'll see [Keep and Tasks sync up](https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/) sometime soon. Ultimately, both Android and iOS will have identical calendar functions when these changes come around.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AI Photo Editing
@@ -131,16 +137,16 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  On-Device AI
 
 ![Apple Intelligence presentation slide at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_splash.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple
 
@@ -169,17 +175,16 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-perfecting-virtual-sessions-best-free-and-paid-zoom-transcribing-tools-for-2024/"><u>[New] Perfecting Virtual Sessions Best Free & Paid Zoom Transcribing Tools for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pinnacle-mac-studio-for-unparalleled-video-and-audio-recording-for-2024/"><u>[New] Pinnacle Mac Studio for Unparalleled Video & Audio Recording for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-precision-guide-to-mastering-mobizens-screen-capture-functionality/"><u>[New] Precision Guide to Mastering Mobizen's Screen Capture Functionality</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-time-saving-techniques-capturing-your-google-voice-conversations/"><u>[Updated] In 2024, Time-Saving Techniques Capturing Your Google Voice Conversations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/copy-dvd-safely-to-your-ipad-with-macxs-free-app-compatible-with-all-mac-operating-systems/"><u>Copy DVD Safely to Your iPad with MacX's Free App: Compatible with All Mac Operating Systems</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-pdf-manipulation-intuitive-pdf-text-editor-with-real-time-editing-features/"><u>Effortless PDF Manipulation: Intuitive PDF Text Editor with Real-Time Editing Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-update-news-and-product-safety-announcements-weekly-summary/"><u>IPhone Update News & Product Safety Announcements - Weekly Summary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/issues-with-apple-card-and-apple-pay-a-comprehensive-look/"><u>Issues with Apple Card & Apple Pay: A Comprehensive Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/key-hurdles-preventing-iphone-upgrade-decisions/"><u>Key Hurdles Preventing iPhone Upgrade Decisions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/love-at-first-sight-the-paprika-app-transforms-my-project-management-forever/"><u>Love at First Sight: The Paprika App Transforms My Project Management Forever!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-rated-mpeg-4-to-avi-transcoder-on-windows-updated/"><u>Top Rated MPEG-4 to AVI Transcoder on Windows - Updated</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-where-to-find-the-best-budgeted-gopro-purchases/"><u>[Updated] 2024 Approved Where to Find the Best Budgeted GoPro Purchases</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-non-gaming-screen-capture-apps-worth-your-time-for-2024/"><u>[Updated] Non-Gaming Screen Capture Apps Worth Your Time for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>2024 Approved The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-complete-guide-what-does-unlisted-mean-on-youtube/"><u>In 2024, Complete Guide What Does Unlisted Mean on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-to-deactivate-dnd-functionality-on-iphones/"><u>Step-by-Step Instructions to Deactivate DND Functionality on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-growing-trend-of-oversized-phones-why-are-they-becoming-the-norm/"><u>The Growing Trend of Oversized Phones: Why Are They Becoming the Norm?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-shocking-improvement-of-airpods-pro-2-my-ultimate-review/"><u>The Shocking Improvement of AirPods Pro 2 - My Ultimate Review!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-critical-enhancements-i-expect-in-the-latest-iphone-model-before-consideration/"><u>Top 5 Critical Enhancements I Expect in the Latest iPhone Model Before Consideration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-apple-pencil-substitutes-enhance-your-ipad-experience/"><u>Top Apple Pencil Substitutes: Enhance Your iPad Experience</u></a></li>
 </ul></div>
 

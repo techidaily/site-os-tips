@@ -1,7 +1,7 @@
 ---
 title: Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts
-date: 2024-11-03T16:12:06.444Z
-updated: 2024-11-04T17:01:05.518Z
+date: 2024-11-07T18:33:49.922Z
+updated: 2024-11-13T20:36:30.201Z
 tags:
   - iphone-manager
 categories:
@@ -34,6 +34,13 @@ In DearMob,
 
 ![export photos to mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-export.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 * Change view by grid size or group photos by date to better transfer and manage photos.
@@ -49,19 +56,6 @@ DearMob iPhone Manage allows you to preview photos by album folders. There are f
 * iPhone Manager version 6.5 and above support previewing photos that are directly imported from cameras, flash cards and other external drives into iPhone > Photos app.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**More About the External Drive Album**
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * You will see an External Drive album on the left panel inside the Photos module in DearMob. If your iPhone doesn't contain imported photos, you won't see the external drive album.
 * The External Drive album in DearMob is different from the Imports folder on iPhone > Photos. The Imports folder contains photos via AirDrop, cameras, flash cards and other external drives, while the External Drive album in DearMob doesn't show AirDropped photos.
@@ -81,25 +75,25 @@ In DearMob,
 
 ![add photos from mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-add.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Name the album as you like.
 * As per iOS/iPadOS system design, you need to add photos to custom albums when importing photos from PC/Mac to iDevice. System-generated albums like Camera Roll, Favorites, and Screenshots are locked in this scenario.
 * After importing photos to iPhone, find them in Photos App > Albums > From My Mac (the naming can be different for different iOS versions). You can also find the imported photos in the Camera Roll— in the section of the year when it was created.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Delete photos from your iPhone, iPad, or iPod on Your Mac
 
@@ -122,10 +116,10 @@ In DearMob,
 * All photos between the first and last photo will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Gaotags: Keep or Remove Photo Location Data
@@ -141,16 +135,23 @@ Note: It only works for macOS 10.13 (macOS High Sierra) and higher versions to r
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**What is the photo location data?**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Location data stores the geographical information about where your photo is taken. It is also known as GPS data, geolocation data, or geotags. It is stored in the EXIF metadata of the photo file.
 * iPhones and other smartphones with GPS capabilities can record the latitude and longitude coordinates of the device's location at the time the photo was captured.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Which setting allows iPhone to add location data to my photos?**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On iPhone: Settings > Privacy > Location Services > Camera.
@@ -163,19 +164,6 @@ On iPhone: Settings > Privacy > Location Services > Camera.
 ### How to Check Your iPhone Photos in Large Icons on a PC?
 
 To display your iPhone photos in the large icons view, simply click the 4-square icon located in the top right of the Photo Transfer panel.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can It Retain the Actual Capture Date When Exporting iPhone Photos?
 
@@ -196,16 +184,24 @@ Yes. The Windows version of DearMob iPhone Manager won't change the original cre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-webinar-recording-tactics-zero-price-strategy/"><u>[New] 2024 Approved Webinar Recording Tactics Zero Price Strategy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-send-hidden-youtube-videos-using-google-login/"><u>[New] In 2024, How to Send Hidden YouTube Videos Using Google Login</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eliminating-persistent-thread-stickers-on-insta-concealment-tips-and-tricks/"><u>Eliminating Persistent Thread Stickers on Insta: Concealment Tips & Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-hotspot-connection-failures-on-ios-devices-iphone-181716-top-causes-and-remedies/"><u>Fixing Hotspot Connection Failures on iOS Devices (iPhone 18/17/16): Top Causes and Remedies</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a56s-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A56s 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-streaming-netflix-possible-on-nintendo-switch-platform/"><u>Is Streaming Netflix Possible on Nintendo Switch Platform?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-x-essentials-adding-and-customizing-titles-for-2024/"><u>New Final Cut Pro X Essentials Adding and Customizing Titles for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-non-terminatable-process-on-windows/"><u>Quick Fixes for Non-Terminatable Process on Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-an-iphone-that-forgot-its-password/"><u>Step-by-Step Instructions for Resetting an iPhone That Forgot Its Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-voice-memos-and-mic-functionality/"><u>Troubleshooting Tips: Resolving Issues with Voice Memos and Mic Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-connection-failures-why-cant-my-airplay-stream-to-apple-tv/"><u>Understanding Connection Failures: Why Can't My AirPlay Stream to Apple TV?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-seamlessly-transferring-youtube-videos-to-your-instagram-account/"><u>[New] In 2024, Seamlessly Transferring YouTube Videos to Your Instagram Account</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>[Updated] 2024 Approved Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>[Updated] 2024 Approved Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bite-sized-script-producer/"><u>Bite-Sized Script Producer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-resetting-your-computer-with-a-system-restore-in-windows-versions-10-8-and-7/"><u>Complete Tutorial: Resetting Your Computer with a System Restore in Windows Versions 10, 8, and 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-restore-functionality-to-your-broken-usb-hard-drive/"><u>Effortless Ways to Restore Functionality to Your Broken USB Hard Drive</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-walkthrough-on-halting-windows-update-schedule-for-good/"><u>Expert Walkthrough on Halting Windows Update Schedule for Good</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-instant-music-downloads-master-the-quick-guide-to-securing-every-track-on-hearthisat-now/"><u>Free Instant Music Downloads! Master the Quick Guide to Securing Every Track on Hearthis.at Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-windows-10-random-reboots-effective-solutions-you-can-try/"><u>How to Fix Windows 10 Random Reboots: Effective Solutions You Can Try</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-itel-a05s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Itel A05s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-gateway-to-grandeur-embarking-on-a-classic-lit-journey/"><u>In 2024, Gateway to Grandeur Embarking on a Classic Lit Journey</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-perfecting-snapchat-gifting-a-guide-to-gifs/"><u>In 2024, Perfecting Snapchat Gifting - A Guide to Gifs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-hotmail-password-easily-even-if-you-cant-use-a-backup-email-or-phone-number/"><u>Resetting Your Hotmail Password Easily – Even if You Can't Use a Backup Email or Phone Number</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-laptop-restart-techniques-for-windows-and-mac-users-no-data-lost/"><u>Safe Laptop Restart Techniques for Windows and Mac Users: No Data Lost</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620260208-solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-shopping-sites-for-customized-gift-boxes-find-the-perfect-personalized-present/"><u>Top 10 Shopping Sites for Customized Gift Boxes - Find the Perfect Personalized Present</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-effective-remedies-for-correcting-sd-card-malfunctions/"><u>Top 7 Effective Remedies for Correcting SD Card Malfunctions</u></a></li>
 </ul></div>
 

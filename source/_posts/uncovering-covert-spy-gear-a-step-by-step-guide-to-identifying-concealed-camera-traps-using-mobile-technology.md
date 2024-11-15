@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-11-03T17:27:14.653Z
-updated: 2024-11-04T16:16:24.119Z
+date: 2024-11-12T18:59:42.861Z
+updated: 2024-11-13T17:08:07.917Z
 tags:
   - ios
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Scan for Networked Cameras
 
  Many places you stay give you access to the local network. You can use this to your advantage with an app named Fing. Fing makes both [iPhone](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://itunes.apple.com/us/app/fing-network-scanner/id430921107) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en%5FUS) apps. Better yet, it's free and doesn't have ads. Fing does ask you to sign in for more features, but you won't need to do that for the device and port scanning.
@@ -51,9 +44,23 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
@@ -61,31 +68,24 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
- The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
-
 <!-- affiliate ads begin -->
-<span id="1983472">
+<span id="1983575">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
 ##  How to Spot Night Vision Cameras
 
@@ -99,18 +99,18 @@ Josh Hendrickson / How-To Geek
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Josh Hendrickson / How-To Geek
 
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -133,19 +133,21 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-breakdown-of-12-youtubes-best-in-class-gaming-openings-for-2024/"><u>[New] The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-tips-for-navigating-zoom-on-win11-systems/"><u>[Updated] 2024 Approved Essential Tips for Navigating Zoom on Win11 Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[Updated] In 2024, Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>[Updated] Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-soundscape-dilution-via-audacity-tools/"><u>[Updated] Navigating Soundscape Dilution via Audacity Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2-how-to-turn-off-automatic-transcription-on-your-airpods-for-enhanced-privacy-and-control/"><u>2. How to Turn Off Automatic Transcription on Your AirPods for Enhanced Privacy and Control</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-high-dynamic-range-in-photoshop-artistry/"><u>2024 Approved Mastering High Dynamic Range in Photoshop Artistry</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-others-replicate-apples-success-with-modular-connectivity-in-electronics/"><u>Can Others Replicate Apple's Success with Modular Connectivity in Electronics?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/creating-artificial-intelligence-powered-backdrops-the-ultimate-guide-for-your-instagram-storytelling/"><u>Creating Artificial Intelligence-Powered Backdrops: The Ultimate Guide for Your Instagram Storytelling</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-fixes-to-restore-sound-on-your-iphone-headphones/"><u>Expert Fixes to Restore Sound on Your iPhone Headphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-computer-components-through-toms-hardware-wisdom/"><u>Mastering Computer Components Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://os-tips.techidaily.com/regain-access-3-straightforward-techniques-for-retrieving-deleted-photos-on-ios-devices/"><u>Regain Access: 3 Straightforward Techniques for Retrieving Deleted Photos on iOS Devices</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-mastery-of-lacies-data-recovery-app-on-windows-11/"><u>Step-by-Step Mastery of LaCie's Data Recovery App on Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-strategy-for-iphone-12-recovery-with-icloud-backup-feature-explained/"><u>Step-by-Step Strategy for iPhone 12 Recovery with iCloud Backup Feature Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unravel-your-pcs-potential-with-windows-10s-latest-games-for-2024/"><u>[New] Unravel Your PC's Potential with Windows 10'S Latest Games for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-play-to-perfection-ps3-playthroughs-captured-for-2024/"><u>[Updated] From Play to Perfection PS3 Playthroughs Captured for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-game-console-deals-under-100/"><u>[Updated] Ultimate Game Console Deals Under 100$</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>2024 Approved Video Revenue Generation on Facebook Tactics for Financial Growth</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-iphone-data-recovery-tools-top-5-apps-to-retrieve-your-lost-information/"><u>Best Free iPhone Data Recovery Tools: Top 5 Apps to Retrieve Your Lost Information</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-transferring-your-iphone-sms-history-to-a-pc/"><u>Easy Guide: Transferring Your iPhone SMS History to a PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-iphone-text-message-backup-tips-for-secure-and-hassle-free-communication-preservation/"><u>Effortless iPhone Text Message Backup Tips for Secure and Hassle-Free Communication Preservation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-methods-for-rebooting-an-ipad-device-bypassing-the-power-key/"><u>Effortless Methods for Rebooting an iPad Device Bypassing the Power Key</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-strategies-for-saving-your-memories-a-guide-to-iphone-photo-backups-in-ios-13-and-14/"><u>Essential Strategies for Saving Your Memories: A Guide to iPhone Photo Backups in iOS 13 & 14</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/keep-your-snaps-secret-stealthy-photo-taking-tricks-for-snapchat-for-2024/"><u>Keep Your Snaps Secret Stealthy Photo Taking Tricks for Snapchat for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/leading-service-virtual-video-correction-kits/"><u>Leading Service: Virtual Video Correction Kits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620204088-lost-your-iphones-itunes-backup-passphrase-effortless-recovery-steps-inside/"><u>Lost Your iPhone's iTunes Backup Passphrase? Effortless Recovery Steps Inside!</u></a></li>
+<li><a href="https://facebook.techidaily.com/natures-gift-to-facebook-entire-operations-on-renewables/"><u>Nature's Gift to Facebook: Entire Operations on Renewables</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-time-lapse-mastery-unlock-the-power-of-accelerated-video/"><u>New 2024 Approved Time Lapse Mastery Unlock the Power of Accelerated Video</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-iphone-message-archive-migration-to-windows-or-mac/"><u>Step-by-Step Tutorial: IPhone Message Archive Migration to Windows or Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-top-phone-apps-for-animated-text-in-videos-for-2024/"><u>Unleash Your Creativity Top Phone Apps for Animated Text in Videos for 2024</u></a></li>
 </ul></div>
 
