@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2024-11-08T19:54:11.723Z
-updated: 2024-11-13T17:46:25.417Z
+date: 2024-11-11T21:38:30.811Z
+updated: 2024-11-14T16:11:18.669Z
 tags:
   - ios
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Tracking your weight is a reliable way to see how changes in diet and lifestyle translate to real-world results. Apple Health is great for this, but the process of adding data manually is tedious. That’s why I built a shortcut to do it in two taps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Build a Shortcut to Track Your Weight
 
  If you've [never built a workflow using Shortcuts before](https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/), don’t be scared. This might be the simplest shortcut you can make since it only involves a single step. First, download the Shortcuts app from the [App Store](https://apps.apple.com/us/app/shortcuts/id915249334) (if you don’t already have it installed).
@@ -30,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Next, tap “Add Action” and use the search bar to find the “Log Health Sample” action. Tap on it to add it to your Shortcuts workflow.
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now tap on the blue “Type” field and select “Weight” from the list. Tap on “Sample Value” and choose “Ask Each Time” from the field just above the keyboard. Finally, select the unit you want to use (this should already default to your preferred measurement, likely “lb” or “kg”).
 
@@ -53,6 +53,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To save, hit “Done” in the top-right corner of the screen. That’s it!
 
 ##  Using Your New Shortcut
@@ -63,18 +70,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Edit" button on the iPhone widgets screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-22.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now tap on the widget you just added, and next to the “Shortcut” field choose the “Record weight” shortcut you just created. The widget will be added, drag it into place and you’re done. You can also [place these widgets on a regular Home screen](https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/) if you’d rather.
 
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Seeing Results
 
@@ -83,13 +90,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
 
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Getting the Most Out of Apple Health
 
@@ -112,22 +112,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-master-reverse-playback-of-videos-on-android-devices/"><u>[New] Master Reverse Playback of Videos on Android Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-11-step-by-step-pathways-to-perfect-grading/"><u>[Updated] In 2024, 11 Step by Step Pathways to Perfect Grading</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-calculating-earnings-the-essence-of-youtube-short-revenue-split/"><u>[Updated] In 2024, Calculating Earnings The Essence of YouTube Short Revenue Split</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-correcting-the-binkyw32dll-missing-error-dilemma/"><u>Expert Tips on Correcting The 'binkyW32.dll' Missing Error Dilemma</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-your-iphones-sync-issues-top-strategies-for-a-perfect-calendar-update/"><u>Fix Your iPhone's Sync Issues: Top Strategies for a Perfect Calendar Update</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-zte-nubia-flip-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of ZTE Nubia Flip 5G? Try These Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphones-wi-fi-connection-woes-effective-strategies-and-tips/"><u>How to Resolve iPhone's Wi-Fi Connection Woes - Effective Strategies and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-speed-up-your-iphone-tips-for-a-swiftly-responsive-device/"><u>How to Speed Up Your iPhone: Tips for a Swiftly Responsive Device</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>In 2024, Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/missing-iphone-images-swift-recovery-strategies-inside/"><u>Missing iPhone Images? Swift Recovery Strategies Inside</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-video-editing-software-for-mac-similar-to-pinnacle-studio/"><u>New Best Video Editing Software for Mac Similar to Pinnacle Studio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-device-detection-errors-with-windows-11-easy-solutions/"><u>Overcoming Device Detection Errors with Windows 11: Easy Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-locate-your-lost-iphone-using-a-laptop-or-mac-device/"><u>Quick Tips: Locate Your Lost iPhone Using a Laptop or Mac Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-a-invalid-sim-error-on-your-iphone-comprehensive-fix-guide/"><u>Solutions for a 'Invalid SIM' Error on Your iPhone: Comprehensive Fix Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/theoi-project-phoenix-online-available-at-(httpwwwtheoicomtextgreekmythology21html)/"><u>Theoi Project – Phoenix [Online] Available At: <http://www.theoi.com/Text/GreekMythology21.html></u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubled-by-unsending-texts-discover-why-and-rapid-fixes/"><u>Troubled by Unsending Texts? Discover Why and Rapid Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-frugal-hardware-efficient-obs-arrangements/"><u>[New] 2024 Approved Frugal Hardware Efficient OBS Arrangements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-detailed-study-on-workspace-optimization-and-productivity-levels/"><u>[New] A Detailed Study on Workspace Optimization and Productivity Levels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-professional-webcam-recording-solutions-explored/"><u>[New] Professional WebCam Recording Solutions Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-where-is-youtube-video-manager-all-you-need-to-know/"><u>[New] Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-firefoxs-social-media-edge-top-downloader-extensions-and-addons-for-fb-content-for-2024/"><u>[Updated] FireFox's Social Media Edge Top Downloader Extensions and Addons for FB Content for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-experts-choice-best-practices-for-vimeo-video-download/"><u>[Updated] In 2024, Expert's Choice Best Practices for Vimeo Video Download</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-archive-essentials-top-15-downloader-tools/"><u>2024 Approved Instagram Archive Essentials Top 15 Downloader Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/common-queries-and-insights-on-managing-iphones-voicemail-system/"><u>Common Queries & Insights on Managing iPhone's Voicemail System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-solutions-fixing-your-iphones-wi-fi-connection-issues-in-just-7-steps/"><u>Essential Solutions: Fixing Your iPhone's Wi-Fi Connection Issues in Just 7 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fenrir/"><u>Fenrir -</u></a></li>
+<li><a href="https://os-tips.techidaily.com/full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-issues-when-whatsapp-messages-fail-to-alert-you/"><u>How to Resolve Issues When WhatsApp Messages Fail to Alert You</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620251539-imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-the-red-screen-issue-on-iphones-a-step-by-step-guide/"><u>Troubleshooting the Red Screen Issue on iPhones - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-microsoft-teams-navigating-with-copilot-effortlessly/"><u>Unveiling the Secrets of Microsoft Teams: Navigating with Copilot Effortlessly</u></a></li>
 </ul></div>
 

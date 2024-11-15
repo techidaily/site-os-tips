@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Safely Backing Up & Transferring Data Between iOS Devices Using Windows - Expert Tips From DearMob
-date: 2024-11-11T18:07:42.552Z
-updated: 2024-11-13T19:44:14.142Z
+date: 2024-11-13T19:47:44.840Z
+updated: 2024-11-14T20:48:45.694Z
 tags:
   - iphone-manager
 categories:
@@ -31,9 +31,29 @@ In DearMob iPhone Manager,
 
 ![Open DearmMob Backup module](https://www.5kplayer.com/user-guide/images/userguide-how/main-ui-backup-restore-win.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Click **Back Up Now** to start.
 
 ![Backup iPhone, iPad, or iPod Touch on Windows PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-backup-idevice-pc.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** You can open up the backup location folder here:
 
@@ -46,10 +66,10 @@ In DearMob iPhone Manager,
 ![open backup location](https://www.5kplayer.com/user-guide/images/userguide-how/backup-location-show-in-folder.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Selective Backup**
@@ -60,10 +80,10 @@ In DearMob iPhone Manager, selective backup is made possible by exporting ticked
 * Tick the content you prefer and hit Export.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Restore iPhone, iPad, or iPod Touch from Backup Files
@@ -78,19 +98,19 @@ In DearMob,
 
 ![Restore iPhone, iPad, or iPod Touch from backup files on Windows](https://www.5kplayer.com/user-guide/images/userguide-how/guide-restore-idevice-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Selective Restore**
 
 DearMob also allows you to selectively restore only part of the files you need without erasing existing data on the destination iDevice, please read on:
 
 * Connect your iPhone, iPad, or iPod touch to the computer, and go to photos, videos, music, contacts, or any other category you want to restore data to.
 * Depending on which category you are in, you can click the + icon to create albums for photos, playlists for music, or simply drag and drop videos, books, and contacts into the respective category.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Migrate iPhone, iPad, or iPod Touch Files
 
@@ -114,13 +134,6 @@ Please make sure that your device remains connected to the computer at all times
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can connect multiple devices by USB or Wi-Fi connection and switch them on the top left corner.
 * You can tick the box to Restore App and App data.
 * As per iOS system design, backup files created on a higher iOS version cannot be restored to devices of a lower version. Therefore, before upgrading your device to a higher iOS version, it is always a good practice to back up iPhone using DearMob iPhone Manager.
@@ -128,16 +141,16 @@ Please make sure that your device remains connected to the computer at all times
 
 ## Frequently Asked Questions
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to backup iPhone to external hard drive?
 
 Firstly backup iPhone to your computer with DearMob iPhone Manager. Then, connect the external hard drive to the PC. Now you can move the backup file to the drive directly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Where are iPhone/iPad backups stored?
 
@@ -148,13 +161,6 @@ If you make an iPhone backup to your computer in DearMob iPhone Manager, you can
 The backup password you created is stored on your device. If you have encrypted backup file previously using iTunes, the backup password remains the same. If you forget the backup password, you cannot use that encrypted backup file for restoration.
 
 But you can create another backup file without encryption or set a new passcode by removing the current passcode stored on your iPhone: you will have to reset all settings on your device (Settings > Reset > Reset All Settings), which is iOS innate to secure your device data.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Does DearMob support migration between iPhones running different versions of iOS?
 
@@ -175,17 +181,20 @@ A backup file created from higher iOS version cannot be restored to an iOS devic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>[New] In 2024, Boosting Your Instagram Aesthetics Implementing Borders on Photos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-strategies-for-captivating-end-moments/"><u>[Updated] 2024 Approved Strategies for Captivating End Moments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/capturing-contentment-top-streaming-techniques-for-2024/"><u>Capturing Contentment Top Streaming Techniques for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-to-troubleshoot-swipe-to-secure-failures-in-apple-devices/"><u>Effective Techniques to Troubleshoot 'Swipe To Secure' Failures in Apple Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S17t Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-master-unlocking-your-sprint-device-a-step-by-step-guide-for-iphone-models-xs-xr-and-earlier-versions/"><u>How to Master Unlocking Your Sprint Device: A Step-by-Step Guide for iPhone Models XS, XR, and Earlier Versions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-the-issue-of-your-iphone-not-appearing-on-a-pc-expert-tips-and-tricks/"><u>How to Resolve the Issue of Your iPhone Not Appearing on a PC: Expert Tips and Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-social-media-synergy-cross-promoting-your-youtube-content/"><u>In 2024, Social Media Synergy Cross-Promoting Your YouTube Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-copying-dvd-movies-onto-computer-with-windows-operating-system/"><u>Step-by-Step Tutorial for Copying DVD Movies Onto Computer with Windows Operating System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-encyclopedia-britannica-garuda-online-available-at-(httpswwwhrenology-the-study-of-cranial-measurements-to-determine-intelligence-and-personality-traits15/"><u>The Encyclopedia Britannica – Garuda [Online] Available At: <Https://Wwwhrenology, the Study of Cranial Measurements to Determine Intelligence and Personality Traits.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-solve-your-smartphones-silent-crisis-top-techniques-to-restore-ringtone-functionality/"><u>Ultimate Guide: Solve Your Smartphone's Silent Crisis – Top Techniques to Restore Ringtone Functionality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arrative-enhancements-the-process-of-infusing-text-into-your-video-content-for-2024/"><u>[New] Narrative Enhancements The Process of Infusing Text Into Your Video Content for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-decibels-the-leading-youtube-voices/"><u>[Updated] 2024 Approved Digital Decibels The Leading YouTube Voices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-revenue-realms-of-youtube-from-virtual-viewership-to-banknotes/"><u>2024 Approved Revenue Realms of YouTube From Virtual Viewership to Banknotes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-switching-from-heic-to-jpg-transfer-between-your-iphone-ipad-and-mac/"><u>Easy Steps: Switching From HEIC to JPG Transfer Between Your iPhone, iPad & Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276293-free-software-to-design-personalized-ringtones-for-your-iphone-4s/"><u>Free Software to Design Personalized Ringtones for Your iPhone 4S!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/getting-ahead-with-apple-vision-pro-my-pre-order-experience-and-its-implications-for-enthusiasts/"><u>Getting Ahead with Apple Vision Pro: My Pre-Order Experience and Its Implications for Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-pairing-logitechs-wireless-mouse-with-different-rechargeable-transmitters/"><u>Guide to Pairing Logitech's Wireless Mouse With Different Rechargeable Transmitters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 8? | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-play-8t-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor Play 8T to Protect Your Individual Information</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-strategies-to-utilize-autofill-password-capability-in-iphones/"><u>In-Depth Strategies to Utilize Autofill Password Capability in iPhones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/key-players-in-top-6-4k-youtube-to-mp3-conversion-software-for-2024/"><u>Key Players in Top 6 4K YouTube-to-MP3 Conversion Software for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-steps-on-crafting-inexpensive-iphone-ringtone-alternatives/"><u>Ultimate Steps on Crafting Inexpensive iPhone Ringtone Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-def5-effective-methods-to-solve-onedrive-error-on-windows-11/"><u>Unlocking DEF5: Effective Methods to Solve OneDrive Error on Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-history-a-comprehensive-tutorial-for-restoring-previous-whatsapp-chats-across-smartphones/"><u>Unlocking History: A Comprehensive Tutorial for Restoring Previous WhatsApp Chats Across Smartphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/wireless-sync-mirroring-your-iphone-display-on-a-roku-tv-without-using-wi-fi/"><u>Wireless Sync: Mirroring Your iPhone Display on a Roku TV without Using Wi-Fi</u></a></li>
 </ul></div>
 

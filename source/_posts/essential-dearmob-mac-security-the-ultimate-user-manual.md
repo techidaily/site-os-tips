@@ -1,7 +1,7 @@
 ---
 title: "Essential DearMob Mac Security: The Ultimate User Manual"
-date: 2024-11-07T20:50:19.395Z
-updated: 2024-11-13T17:15:50.921Z
+date: 2024-11-07T16:48:43.551Z
+updated: 2024-11-14T23:34:05.643Z
 tags:
   - iphone-manager
 categories:
@@ -33,16 +33,29 @@ DearMob allows you to,
 
 ![Add file for encryption on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-mac.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Click **Encrypt Now** and the **Settings** window would pop up.  
  4\. Check the box "I've already know...", enter your new password, and then click OK.
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
@@ -52,16 +65,10 @@ DearMob allows you to,
 * The **Setting** window would pop out for you to set password for encryption, if you didn't set it before.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Decrypt Files Encrypted by DearMob on Mac
@@ -71,24 +78,17 @@ DearMob allows you to,
 
 ![Decrypt files on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * DearMob only decrypts files that were enciphered by DearMob iPhone Manager itself.
 * Tick **Temporarily save password** to remember your decode password for all decryptions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Export Video, Photo, Contact with Password on Mac
 
@@ -113,20 +113,19 @@ DearMob allows you to,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-top-15-youtube-playlists-catering-to-musicians/"><u>[New] 2024 Approved Top 15 YouTube Playlists Catering to Musicians</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-episode-unveiling-optimized-by-day-and-time/"><u>2024 Approved Episode Unveiling Optimized by Day & Time</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-access-and-use-your-tv-service-through-your-iphone/"><u>Complete Guide: How to Access and Use Your TV Service Through Your iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-advice-correcting-windows-11-install-failure-scenarios-efficiently/"><u>Expert Advice: Correcting Windows 11 Install Failure Scenarios Efficiently</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-track-to-your-hp-stream-printer-drivers/"><u>Fast Track to Your HP Stream Printer Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-ghost-touch-glitches-on-iphones-discover-effective-10-step-solutions/"><u>Overcoming Ghost Touch Glitches on iPhones: Discover Effective 10-Step Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-on-casting-your-ipad-screen-with-amazon-firestick/"><u>Step-by-Step Guide on Casting Your iPad Screen with Amazon Firestick</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-essential-guide-to-updating-your-birthdate-on-an-apple-account-reasons-and-steps/"><u>The Essential Guide to Updating Your Birthdate on an Apple Account: Reasons & Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-for-connecting-iphone-to-samsung-tv-screen-mirroring-simplified/"><u>The Ultimate Tutorial for Connecting iPhone to Samsung TV – Screen Mirroring Simplified</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-and-devices-for-seamless-iphone-wi-fi-connection/"><u>Top Strategies & Devices for Seamless iPhone Wi-Fi Connection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-iphones-5g-connection-issues-expert-solutions-for-optimal-performance/"><u>Troubleshooting Your iPhone's 5G Connection Issues: Expert Solutions for Optimal Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-top-quality-prints-from-heic-images/"><u>Ultimate Guide: Mastering Top-Quality Prints From HEIC Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-steps-to-crafting-a-wire-free-film-experience-in-college-living-spaces/"><u>Ultimate Steps to Crafting a Wire-Free Film Experience in College Living Spaces</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-crafting-realistic-3d-text-designs-in-photoshop-for-2024/"><u>[New] Crafting Realistic 3D Text Designs in Photoshop for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cripted-sentiments-for-show-summation/"><u>[New] Scripted Sentiments for Show Summation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube/"><u>[Updated] Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes-for-2024/"><u>[Updated] Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bluettis-dramatic-price-drop-the-ultimate-deal-on-portable-power-stations-during-the-major-seasonal-discount-event-insights-by-zdnet/"><u>Bluetti's Dramatic Price Drop: The Ultimate Deal on Portable Power Stations During the Major Seasonal Discount Event - Insights by ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/continuous-playback-a-step-by-step-tutorial-on-repeating-videos-on-your-iphone/"><u>Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/demystifying-iphone-aae-files-should-you-be-deleting-them/"><u>Demystifying iPhone AAE Files: Should You Be Deleting Them?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-whats-new-in-the-latest-ios-update-innovative-emojis-and-improved-podcast-transcriptions-await/"><u>Discover What's New in the Latest iOS Update – Innovative Emojis and Improved Podcast Transcriptions Await!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-your-next-favorite-tune-with-apple-music-radio-a-must-try-experience/"><u>Discover Your Next Favorite Tune with Apple Music Radio - A Must-Try Experience!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/editing-and-deleting-messages-a-comprehensive-guide-for-ios-devices/"><u>Editing & Deleting Messages: A Comprehensive Guide for iOS Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-f5-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Poco F5 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nubia-red-magic-8s-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nubia Red Magic 8S Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 12 mini? | Dr.fone</u></a></li>
 </ul></div>
 

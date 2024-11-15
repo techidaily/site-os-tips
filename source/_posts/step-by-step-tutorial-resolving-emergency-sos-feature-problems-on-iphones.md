@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Resolving Emergency SOS Feature Problems on iPhones"
-date: 2024-11-12T19:14:04.673Z
-updated: 2024-11-13T18:57:21.633Z
+date: 2024-11-08T23:53:54.856Z
+updated: 2024-11-14T16:38:47.758Z
 tags:
   - ios
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 * [Why Does My Phone Say "SOS Only"?](https://common-error.techidaily.com/explorerexe-error-solved-and-secured/)
 * [How to Fix "SOS Only" on an iPhone](https://extra-tips.techidaily.com/bringing-smiles-without-dollars-the-mememakers-way-for-2024/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * "SOS Only" on your iPhone means you're outside your carrier's coverage area, so you won't have normal calling, texting, or internet access.
@@ -33,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
  If you see "SOS Only" on your iPhone at the top of the screen you'll have trouble making calls, sending texts, or accessing the internet. Here's what's going on and how to get things back to normal.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Does "SOS Only" Mean on iPhone?
@@ -46,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 ![Making an SOS call in a rural area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/sos_only_iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Tim Brookes / How-To Geek_
@@ -57,6 +50,19 @@ _Tim Brookes / How-To Geek_
  Normal calls to standard numbers won't work and you won't be able to send text messages. Data services that connect to the internet also won't work. Your phone is effectively limited to calling police, fire, ambulance, coastguard, mountain rescue, or similar emergency services you may have in whatever country you are in.
 
  If you have an iPhone with Crash Detection or an Apple Watch with Fall Detection or other emergency services, these will still work as normal while you see the "SOS Only" warning.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Does My Phone Say "SOS Only"?
 
@@ -66,13 +72,6 @@ _Tim Brookes / How-To Geek_
 
  "SOS Only" can also appear at times when your cell phone provider is experiencing outages.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Fix "SOS Only" on an iPhone
 
  Since "SOS Only" is more of a failsafe feature than a problem, the only "fix" is to move within range of your carrier's network. If you see the message appear a lot, you might want to consider [making use of your iPhone's dual-SIM capabilities](https://facebook-video-footage.techidaily.com/new-in-2024-eradicating-grayscale-issues-with-youtube-video/) and subscribing to another mobile plan.
@@ -80,6 +79,13 @@ _Tim Brookes / How-To Geek_
  Sometimes your iPhone can get "stuck" on the "SOS Only" warning, causing it to appear in areas where you normally get a signal. In this instance, you can try enabling Airplane Mode by swiping down from the top-right corner and toggling the plane symbol on and then off in Control Center.
 
 ![Airplane Mode toggle in Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/airplane_mode.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also try [restarting your iPhone](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/) if this doesn't work, which should cause your device to re-establish a connection with your carrier.
 
@@ -98,22 +104,20 @@ _Tim Brookes / How-To Geek_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-top-alternative-to-samsungs-360-vr-camera-for-2024/"><u>[New] Top Alternative to Samsung’s 360 VR Camera for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-crafting-spectacular-time-lapses-from-gopro-hdrs-for-2024/"><u>[Updated] Crafting Spectacular Time Lapses From GoPro HDRs for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-harmony-a-comprehensive-song-selection-methodology-for-2024/"><u>[Updated] Instagram Harmony A Comprehensive Song Selection Methodology for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hero-5-in-action-an-in-depth-analysis/"><u>2024 Approved Hero 5 in Action An In-Depth Analysis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-tecno-camon-20-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Tecno Camon 20 Pro 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-instagrams-newest-feature-reels-explained/"><u>In 2024, Mastering Instagram's Newest Feature Reels Explained</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-xs-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone XS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-recover-your-viber-conversations-in-just-5-minutes/"><u>Quick Guide: Recover Your Viber Conversations in Just 5 Minutes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-your-missed-chats-expert-tips-for-restoring-erased-text-messages/"><u>Recover Your Missed Chats: Expert Tips for Restoring Erased Text Messages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-deleted-messages-in-ios-using-a-mac-easy-methods-explored/"><u>Restoring Deleted Messages in iOS Using a Mac: Easy Methods Explored</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-messages-on-icloud-using-top-performing-methods/"><u>Reviving Your Messages on iCloud Using Top-Performing Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/shadow-play-with-iphone-pro-photography-tips-for-2024/"><u>Shadow Play with iPhone Pro Photography Tips for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/skysoft-vs-competitors-in-iphone-data-restoration-finding-the-ultimate-recovery-tool-for-missed-texts-and-photos/"><u>Skysoft Vs. Competitors in iPhone Data Restoration: Finding the Ultimate Recovery Tool for Missed Texts and Photos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-quickest-quads-2022-olympics-skate/"><u>The Quickest Quads 2022 Olympics Skate</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-wi-fi-messaging-apps-communicate-seamlessly-without-cellular-data/"><u>Top 5 Wi-Fi Messaging Apps: Communicate Seamlessly Without Cellular Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-retrieving-your-erased-safari-bookmarks-and-history-from-ios-devices/"><u>Ultimate Guide: Retrieving Your Erased Safari Bookmarks & History From iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-restoring-accidentally-erased-voice-notes-from-an-ios-device/"><u>Ultimate Tutorial: Restoring Accidentally Erased Voice Notes From an iOS Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-guide-to-achieving-stunning-hdr-photos/"><u>[New] IPhone Guide to Achieving Stunning HDR Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-crafting-visual-tales-the-essential-guide-to-text-effects/"><u>[Updated] Crafting Visual Tales The Essential Guide to Text Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elevate-zoom-sound-a-guide-to-exceptional-quality/"><u>[Updated] Elevate Zoom Sound A Guide to Exceptional Quality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-for-moving-your-apple-id-password-onto-an-android-device-methods-and-best-practices/"><u>Comprehensive Tutorial for Moving Your Apple ID Password Onto an Android Device - Methods & Best Practices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-seamlessly-with-whatsapp-on-your-mac-step-by-step-tutorial/"><u>Connect Seamlessly with WhatsApp on Your Mac – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-blocking-access-and-deleting-share-from-your-macs-keychain-safely/"><u>Guide: Blocking Access and Deleting 'Share' From Your Mac's Keychain Safely</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-disable-share-this-feature-with-password-storage-on-your-device/"><u>How to Disable Share This Feature with Password Storage on Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/icloud-keychain-demystified-easy-ways-to-manage-and-access-your-saved-passwords-on-iphone/"><u>ICloud Keychain Demystified: Easy Ways to Manage and Access Your Saved Passwords on iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y78-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y78 5G</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-maximizing-your-youtube-clicks-with-optimal-dimensions/"><u>In 2024, Maximizing Your YouTube Clicks with Optimal Dimensions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-creative-sound-blaster-recon3d-drivers-step-by-step-guide/"><u>Installing Creative Sound Blaster Recon3D Drivers – Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-slow-down-the-action-top-10-video-players-for-smooth-playback/"><u>New Slow Down the Action Top 10 Video Players for Smooth Playback</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-integration-transferring-your-apple-keychain-passwords-amongst-multiple-devices/"><u>Seamless Integration: Transferring Your Apple Keychain Passwords Amongst Multiple Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-process-how-to-delete-your-entire-itunes-backup-from-pc-or-icloud/"><u>Step-by-Step Process: How to Delete Your Entire iTunes Backup From PC or iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/success-guide-resolving-the-iphone-7-x-cannot-restore-backup-issue-efficiently/"><u>Success Guide: Resolving the iPhone 7-X 'Cannot Restore Backup' Issue Efficiently</u></a></li>
 </ul></div>
 

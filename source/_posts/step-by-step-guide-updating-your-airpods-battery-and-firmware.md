@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2024-11-07T17:29:34.137Z
-updated: 2024-11-13T18:03:49.315Z
+date: 2024-11-08T20:32:40.541Z
+updated: 2024-11-14T20:53:12.372Z
 tags:
   - ios
 categories:
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  AirPods Typically Update the Firmware Automatically
@@ -53,19 +53,33 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, tap "About" to progress.
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
@@ -75,20 +89,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
 
@@ -123,21 +123,18 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-charting-course-videos-as-catalysts-in-teaching/"><u>[New] In 2024, Charting Course Videos as Catalysts in Teaching</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-internet-idols-index-10-most-subscribed-global-creators/"><u>[New] In 2024, Internet Idols Index 10 Most Subscribed Global Creators</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/earn-the-art-of-green-screen-without-costs-top-4-youtube-techniques-for-aspiring-vfx-artists-for-2024/"><u>[New] Learn the Art of Green Screen Without Costs Top 4 YouTube Techniques for Aspiring VFX Artists for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-fresh-topics-to-cover-in-your-vlogs/"><u>[Updated] Fresh Topics to Cover in Your Vlogs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/budget-phones-and-cybersecurity-decrypting-lecture/"><u>Budget Phones and Cybersecurity Decrypting Lecture</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-ultimate-ai-companer-analyzing-notion-and-chatgpt-pros-and-cons/"><u>Choosing the Ultimate AI Companer: Analyzing Notion and ChatGPT Pros & Cons</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-data-on-your-iphone-post-factory-reset/"><u>Complete Guide: Retrieving Lost Data on Your iPhone Post-Factory Reset</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/expanding-social-footprint-tying-igtv-and-facebook-together/"><u>Expanding Social Footprint Tying IGTV & Facebook Together</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-magic-6-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor Magic 6 Pro Easily?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-recover-deleted-iphone-contacts-on-your-mac-with-easy-steps/"><u>Quick Fixes: Recover Deleted iPhone Contacts on Your Mac with Easy Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-methods-restore-accidentally-deleted-iphone-notes-within-a-few-minutes/"><u>Quick Methods: Restore Accidentally Deleted iPhone Notes Within a Few Minutes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rejuvenate-your-ipads-performance-rediscover-peak-functionality-today/"><u>Rejuvenate Your iPad's Performance: Rediscover Peak Functionality Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-erased-texts-on-your-ipod-touch-5th-and-4th-generation/"><u>Step-by-Step Guide: Recovering Erased Texts on Your iPod Touch (5Th and 4Th Generation)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-retrieve-unintentionally-removed-photos-from-an-ipad-device/"><u>Step-by-Step Tutorial: How to Retrieve Unintentionally Removed Photos From an iPad Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-iphone-smsmms-recovery-tools-for-202-best-free-and-subscription-options-available/"><u>Top 6 iPhone SMS/MMS Recovery Tools for 202지 - Best Free and Subscription Options Available</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-no-fee-online-and-app-photo-refining-software/"><u>[New] Best No-Fee, Online & App Photo Refining Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-macs-best-picks-elite-4k-monitor-showdown/"><u>[New] Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-save-your-iphones-memory-on-windows-and-macos-an-ultimate-how-to-tutorial/"><u>Effortlessly Save Your iPhone's Memory on Windows & macOS: An Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/your-way-to-youtube-studio-a-comprehensive-overview/"><u>Find Your Way to YouTube Studio A Comprehensive Overview</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-yourself-from-apple-music-a-simple-process-for-unsubscribing-directly-on-web-without-itunes-according-to-zdnet-experts/"><u>Free Yourself From Apple Music: A Simple Process for Unsubscribing Directly on Web without iTunes, According to ZDNET Experts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-forgotten-iphone-backup-key-a-step-by-nstep-guide/"><u>How to Retrieve Forgotten iPhone Backup Key: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-securely-back-up-your-ipad-methods-including-icloud-macbook-itunes-and-external-drives/"><u>How to Securely Back Up Your iPad: Methods Including iCloud, MacBook, iTunes, and External Drives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-12plus-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme 12+ 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/itunes-backup-essentials-step-by-step-instructions-for-protecting-your-devices-information/"><u>ITunes Backup Essentials: Step-by-Step Instructions for Protecting Your Device's Information</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-itunes-backups-a-comprehensive-guide-to-saving-your-data-securely/"><u>Mastering iTunes Backups: A Comprehensive Guide to Saving Your Data Securely</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-october-prime-game-discounts-final-opportunity-to-score-savings-up-to-1k-spotted-by-zdnet/"><u>Unmissable October Prime Game Discounts : Final Opportunity to Score Savings Up to $1K - Spotted by ZDNet!</u></a></li>
 </ul></div>
 

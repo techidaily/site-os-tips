@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style"
-date: 2024-11-09T18:47:55.311Z
-updated: 2024-11-13T18:20:39.096Z
+date: 2024-11-13T23:29:30.064Z
+updated: 2024-11-14T20:53:02.016Z
 tags:
   - ios
 categories:
@@ -40,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  Even when it comes to foldable phones, developers know how to make great ones. Most of the experimentation has to do with durability and miniaturization, making components small enough that you can still fit flagship cameras on a device where each half needs to be thinner than that of an average phone. It would also be nice to get rid of the crease. But the fundamentals? Those are nailed down already.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Consistency Is Good for Brand Recognition
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -58,13 +58,6 @@ Tyler Hayes / How-To Geek
  Now that all phones are similarly shaped slabs, people tell the difference between brands by the differences in their design. iPhones have their cameras arranged in a square. Samsung's phones have three or more cameras lined up in a row. Pixel phones have a Star Trek-looking visor. OnePlus' phones have massive camera bumps that are a third of the size of the phone.
 
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Still Switch Brands to Try Something New
 
@@ -75,10 +68,10 @@ Tyler Hayes / How-To Geek
  When you're bored, satisfy your thirst for novelty by switching brands, but know you can switch back to the familiar when you so choose.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  ​You Can Get a Better Version of the Phone You Already Have
@@ -89,16 +82,16 @@ Tyler Hayes / How-To Geek
 
  This has worked in the iPhone's favor for a long time now. Each iPhone is a known quantity. The removal of the home button, the expansion of the screen size to fill the entire front of the device, and the addition of a camera bump are perhaps the most notable changes to the design of the phone since the release of the first model. This gradual evolution has meant that from year to year, each iPhone looks recognizable to people who own previous models. The software has expanded, but it has come with a degree of consistency that Android has not had over the same period of time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  ​We're More Productive When Things Stay the Same
 
 ![Person using the Camera app to take photo with the Google Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53249989394_936f059fc3_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -119,6 +112,13 @@ Justin Duino / How-To Geek
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
 ![OnePlus Open outside display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -145,18 +145,16 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-employing-google-trends-to-discover-compelling-video-themes-for-2024/"><u>[Updated] Employing Google Trends to Discover Compelling Video Themes for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-synthesis-of-song-elements-the-crossfade-approach/"><u>[Updated] Synthesis of Song Elements The Crossfade Approach</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/cross-platform-video-sharing-tiktok-and-twitter/"><u>Cross-Platform Video Sharing TikTok & Twitter</u></a></li>
-<li><a href="https://os-tips.techidaily.com/decoding-macos-requests-for-your-icloud-key-uncover-causes-and-find-fixes-easily/"><u>Decoding macOS Requests for Your iCloud Key: Uncover Causes and Find Fixes Easily</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620258862-effective-strategies-how-to-fix-your-mac-not-shutting-down-correctly-as-of-202/"><u>Effective Strategies: How to Fix Your Mac Not Shutting Down Correctly as of 202 #</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-face-transformation-apps-for-iphones-and-androids-for-2024/"><u>Leading Face Transformation Apps for iPhones & Androids for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimized-wdf-usage-reduced-cpu-load-solutions/"><u>Optimized WDF Usage: Reduced CPU Load Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-safari-problems-on-mac-for-enhanced-browsing/"><u>Resolving Safari Problems on Mac for Enhanced Browsing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-rebuilding-and-resetting-your-macbook-pros-os-x-system-prior-to-selling/"><u>Step-by-Step Guide: Rebuilding and Resetting Your MacBook Pro's OS X System Prior to Selling</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-transferring-your-macs-entire-image-collection-to-an-exterior-ssd/"><u>Step-by-Step Guide: Transferring Your Mac's Entire Image Collection to an Exterior SSD</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-imovie-a-guide-to-overcoming-freezing-problems/"><u>Troubleshooting iMovie: A Guide to Overcoming Freezing Problems</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/visual-storytelling-crafting-impressive-imovie-video-intros-for-2024/"><u>Visual Storytelling Crafting Impressive iMovie Video Intros for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/80s-movie-mania-your-definitive-selection-of-timeless-cinematic-gems/"><u>'80S Movie Mania: Your Definitive Selection of Timeless Cinematic Gems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unleash-creativity-with-these-5-windows-11-record-methods/"><u>[Updated] 2024 Approved Unleash Creativity with These 5 Windows 11 Record Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-to-profit-reaching-the-new-500-sub-total/"><u>[Updated] In 2024, Free to Profit Reaching the New 500 Sub Total</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-premier-ergonomic-wrist-rest-options/"><u>Comprehensive Guide: Premier Ergonomic Wrist Rest Options</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-f34-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy F34 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-x-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone X</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-solve-your-mobile-devices-glups-a-quick-guide-with-top-5-strategies/"><u>How to Solve Your Mobile Device's Glups: A Quick Guide with Top 5 Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-iphone-call-forwarding-issues-a-step-by-step-guide/"><u>How to Troubleshoot iPhone Call Forwarding Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-turn-your-cracked-iphone-into-cash-expert-tips-and-advice/"><u>How to Turn Your Cracked iPhone Into Cash: Expert Tips and Advice</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-locate-your-lost-iphone-using-a-laptop-or-mac-device/"><u>Quick Tips: Locate Your Lost iPhone Using a Laptop or Mac Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-non-responsive-intel-system-utilities/"><u>Troubleshooting Tips for Non-Responsive Intel System Utilities</u></a></li>
 </ul></div>
 

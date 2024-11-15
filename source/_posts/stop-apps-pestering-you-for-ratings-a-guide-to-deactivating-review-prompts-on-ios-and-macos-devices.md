@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2024-11-08T20:28:40.020Z
-updated: 2024-11-13T20:37:01.410Z
+date: 2024-11-12T23:13:02.016Z
+updated: 2024-11-15T00:18:43.394Z
 tags:
   - ios
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  User ratings and reviews help developers improve their apps but nagging users with in-app pop-ups asking for reviews or ratings isn't acceptable. Thankfully, Apple lets you turn off these pesky rating and review requests on your iPhone and Mac. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad
 
  If you're fed up with apps on your iPhone or iPad popping up rating and review requests every time you use them, you can turn off the in-app requests from the Settings app to settle this once and for all.
@@ -34,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![iPhone Settings app with App Store highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-1-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll down to locate the "In-App Ratings & Reviews" option. Then, flip the toggle switch next to it off.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
@@ -59,15 +52,22 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![Accessing App Store Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-3-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Settings" window, uncheck the checkbox next to "In-App Ratings & Reviews."
 
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -89,19 +89,24 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-catchy-cadences-in-creative-snaps-and-videos/"><u>[New] 2024 Approved Catchy Cadences in Creative Snaps and Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premiere-pros-art-of-audio-transitioning/"><u>[New] Premiere Pro’s Art of Audio Transitioning</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-straightforward-screen-grabber-w10-edition-for-2024/"><u>[Updated] Straightforward Screen Grabber, W10 Edition for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-rectifying-the-pdhdll-file-absent-problem/"><u>Expert Strategies for Rectifying the 'pdh.dll File Absent' Problem</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/futures-edge-the-top-10-sci-fi-movies-shaping-new-realities-for-2024/"><u>Future's Edge The Top 10 Sci-Fi Movies Shaping New Realities for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-thanksgiving-a-comparative-study/"><u>Global Thanksgiving: A Comparative Study</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-solve-iphone-call-drop-issues-a-step-by-step-guide/"><u>How to Solve iPhone Call Drop Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/power-up-your-journey-how-to-find-ev-charging-points-on-google-maps/"><u>Power Up Your Journey: How To Find EV Charging Points on Google Maps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-apple-id-passwords-made-easy-no-email-no-contact-info-required/"><u>Resetting Apple ID Passwords Made Easy – No Email, No Contact Info Required!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-fixing-yahoo-email-issues-on-ios-devices/"><u>Solutions for Fixing Yahoo Email Issues on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-puzzle-of-itunes-error-17-explore-8-proven-strategies-in-our-comprehensive-tutorial/"><u>Solving the Puzzle of iTunes Error 17 - Explore 8 Proven Strategies in Our Comprehensive Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-techniques-from-ipod-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry and Exit Techniques From iPod Recovery Mode</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-easy-fixes-for-overcoming-iphones-passcode-demand/"><u>Top 5 Easy Fixes for Overcoming iPhone's Passcode Demand</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-roadmap-to-becoming-an-excellent-interviewer/"><u>[New] The Roadmap To Becoming An Excellent Interviewer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-master-guide-to-unrestricted-digital-vaults/"><u>[Updated] 2024 Approved Master Guide to Unrestricted Digital Vaults</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-making-dreams-real-steps-towards-becoming-a-vtuber-for-2024/"><u>[Updated] From Making Dreams Real Steps Towards Becoming a VTuber for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>[Updated] In 2024, Ignite Your Creative Journey Blending Photography & Videos Through Pixiz</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-the-default-storage-of-itunes-backups-for-ios-devices-and-tweaking-settings-on-a-computer/"><u>Discovering the Default Storage of iTunes Backups for iOS Devices & Tweaking Settings on a Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-panic-if-your-iphone-calendars-vanish-restore-them-quickly-using-our-top-6-tips/"><u>Don't Panic If Your Iphone Calendars Vanish! Restore Them Quickly Using Our Top 6 Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-communication-with-emojis-and-stickers-on-ios-10-devices/"><u>Effective Communication with Emojis & Stickers on iOS 10 Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-master-unlocking-your-sprint-device-a-step-by-step-guide-for-iphone-models-xs-xr-and-earlier-versions/"><u>How to Master Unlocking Your Sprint Device: A Step-by-Step Guide for iPhone Models XS, XR, and Earlier Versions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-m6-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Poco M6 Pro 5G</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-the-issue-of-your-iphone-not-appearing-on-a-pc-expert-tips-and-tricks/"><u>How to Resolve the Issue of Your iPhone Not Appearing on a PC: Expert Tips and Tricks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lead-with-eloquence-mastery-of-business-communication/"><u>Lead with Eloquence: Mastery of Business Communication</u></a></li>
+<li><a href="https://os-tips.techidaily.com/steps-to-take-when-a-water-alert-occurs-on-an-apple-devices-lightning-port/"><u>Steps To Take When a Water Alert Occurs on an Apple Device's Lightning Port</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-future-unfolds-analyzing-the-shift-from-m1-pro-to-m1-max-for-2024/"><u>The Future Unfolds Analyzing The Shift From M1 Pro To M1 Max for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-15-timeless-classics-in-stop-motion-cinema-history/"><u>Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-texts-with-iphone-xs-animoji-the-ultimate-guide-to-creating-expressive-emojis/"><u>Transform Texts with iPhone X's Animoji - The Ultimate Guide to Creating Expressive Emojis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshoot-and-resolve-a-frozen-ipod-screen-in-depth-pictorial-instructions-for-success/"><u>Troubleshoot and Resolve a Frozen iPod Screen: In-Depth Pictorial Instructions for Success!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-iphone-calendar-woes-expert-tips-to-ensure-flawless-synchronization/"><u>Troubleshooting iPhone Calendar Woes: Expert Tips to Ensure Flawless Synchronization</u></a></li>
 </ul></div>
 

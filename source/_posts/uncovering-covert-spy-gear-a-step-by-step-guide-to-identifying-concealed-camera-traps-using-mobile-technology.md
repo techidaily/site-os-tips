@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-11-12T18:59:42.861Z
-updated: 2024-11-13T17:08:07.917Z
+date: 2024-11-09T19:17:47.348Z
+updated: 2024-11-14T19:52:10.072Z
 tags:
   - ios
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 * [Hidden Cameras Are a Real Danger](https://fox-helps.techidaily.com/the-animators-toolkit-windows-movie-maker-for-winning-projects-for-2024/)
 * [How to Scan for Networked Cameras](https://fox-http.techidaily.com/eliminating-blur-taming-shutter-vibration/)
 * [How to Spot Night Vision Cameras](https://facebook-video-share.techidaily.com/new-instant-subscription-monitoring-tools/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,22 +52,15 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
@@ -71,19 +71,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
@@ -100,10 +87,10 @@ Josh Hendrickson / How-To Geek
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
@@ -111,6 +98,13 @@ Josh Hendrickson / How-To Geek
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -133,21 +127,24 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unravel-your-pcs-potential-with-windows-10s-latest-games-for-2024/"><u>[New] Unravel Your PC's Potential with Windows 10'S Latest Games for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-from-play-to-perfection-ps3-playthroughs-captured-for-2024/"><u>[Updated] From Play to Perfection PS3 Playthroughs Captured for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-game-console-deals-under-100/"><u>[Updated] Ultimate Game Console Deals Under 100$</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>2024 Approved Video Revenue Generation on Facebook Tactics for Financial Growth</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-free-iphone-data-recovery-tools-top-5-apps-to-retrieve-your-lost-information/"><u>Best Free iPhone Data Recovery Tools: Top 5 Apps to Retrieve Your Lost Information</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-transferring-your-iphone-sms-history-to-a-pc/"><u>Easy Guide: Transferring Your iPhone SMS History to a PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-iphone-text-message-backup-tips-for-secure-and-hassle-free-communication-preservation/"><u>Effortless iPhone Text Message Backup Tips for Secure and Hassle-Free Communication Preservation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-methods-for-rebooting-an-ipad-device-bypassing-the-power-key/"><u>Effortless Methods for Rebooting an iPad Device Bypassing the Power Key</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-strategies-for-saving-your-memories-a-guide-to-iphone-photo-backups-in-ios-13-and-14/"><u>Essential Strategies for Saving Your Memories: A Guide to iPhone Photo Backups in iOS 13 & 14</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/keep-your-snaps-secret-stealthy-photo-taking-tricks-for-snapchat-for-2024/"><u>Keep Your Snaps Secret Stealthy Photo Taking Tricks for Snapchat for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/leading-service-virtual-video-correction-kits/"><u>Leading Service: Virtual Video Correction Kits</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620204088-lost-your-iphones-itunes-backup-passphrase-effortless-recovery-steps-inside/"><u>Lost Your iPhone's iTunes Backup Passphrase? Effortless Recovery Steps Inside!</u></a></li>
-<li><a href="https://facebook.techidaily.com/natures-gift-to-facebook-entire-operations-on-renewables/"><u>Nature's Gift to Facebook: Entire Operations on Renewables</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-time-lapse-mastery-unlock-the-power-of-accelerated-video/"><u>New 2024 Approved Time Lapse Mastery Unlock the Power of Accelerated Video</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-iphone-message-archive-migration-to-windows-or-mac/"><u>Step-by-Step Tutorial: IPhone Message Archive Migration to Windows or Mac</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-top-phone-apps-for-animated-text-in-videos-for-2024/"><u>Unleash Your Creativity Top Phone Apps for Animated Text in Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diversifying-audience-across-30plus-online-venues/"><u>[New] In 2024, Diversifying Audience Across 30+ Online Venues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-laughs-in-a-click-building-hilarious-memes/"><u>[Updated] In 2024, Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1-advanced-retouching-techniques-with-movavi-photo-editor-comprehensive-guide/"><u>1. Advanced Retouching Techniques with Movavi Photo Editor - Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-craftsman-studio-evaluation/"><u>Apex Craftsman Studio Evaluation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clear-your-iphones-memory-by-erasing-all-voicemails-forever-complete-instructions-inside/"><u>Clear Your iPhone's Memory by Erasing All Voicemails Forever - Complete Instructions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-essential-tips-and-tricks-for-using-ccleaner-on-your-ios-devices/"><u>Comprehensive Guide: Essential Tips & Tricks for Using CCleaner on Your iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-reset-your-iphoneipads-battery-usage-data/"><u>Comprehensive Guide: How to Reset Your iPhone/iPad's Battery Usage Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/delete-your-kik-conversations-forever-4-stealthy-techniques/"><u>Delete Your Kik Conversations Forever: 4 Stealthy Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discovering-the-immersive-world-of-lg-27ud68-for-2024/"><u>Discovering the Immersive World of LG 27UD68 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhancing-engagement-with-best-practices-for-fb-cover-vids-for-2024/"><u>Enhancing Engagement with Best Practices for FB Cover Vids for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-necromunda-hired-gun-pc-game-crashes-troubleshooting-guide/"><u>Fixing the 'Necromunda: Hired Gun' PC Game Crashes - Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-potential-of-quantum-hdr-imaging/"><u>In 2024, Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242260-in-depth-analysis-of-macgo-ios-erase-app-strengths-weaknesses-alternatives-and-faqs-covered/"><u>In-Depth Analysis of Macgo iOS Erase App – Strengths, Weaknesses, Alternatives, and FAQs Covered!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-solution-erase-your-instagram-search-history-on-iphone/"><u>Permanent Solution: Erase Your Instagram Search History on iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/samsungs-guide-to-crafting-captivating-time-lapses-with-smartphones-for-2024/"><u>Samsung's Guide to Crafting Captivating Time-Lapses with Smartphones for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedometer-and-cycling-metrics/"><u>Speedometer & Cycling Metrics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-thoroughly-wipe-browser-history-off-smartphones/"><u>Step-by-Step Guide: How to Thoroughly Wipe Browser History Off Smartphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-methods-for-freeing-up-your-icloud-library-by-deleting-e-books/"><u>Top 3 Methods for Freeing Up Your iCloud Library by Deleting E-Books</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-technique-removing-and-disabling-whatsapp-on-iphones-forever/"><u>Ultimate Technique: Removing and Disabling WhatsApp on iPhones Forever</u></a></li>
 </ul></div>
 
