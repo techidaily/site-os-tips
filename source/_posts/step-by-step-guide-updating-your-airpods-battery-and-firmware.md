@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2024-11-08T20:32:40.541Z
-updated: 2024-11-14T20:53:12.372Z
+date: 2024-11-22T03:17:24.108Z
+updated: 2024-11-23T18:45:05.927Z
 tags:
   - ios
 categories:
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  AirPods Typically Update the Firmware Automatically
@@ -53,42 +50,33 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, tap "About" to progress.
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
 
@@ -101,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -123,18 +115,20 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-no-fee-online-and-app-photo-refining-software/"><u>[New] Best No-Fee, Online & App Photo Refining Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-macs-best-picks-elite-4k-monitor-showdown/"><u>[New] Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-save-your-iphones-memory-on-windows-and-macos-an-ultimate-how-to-tutorial/"><u>Effortlessly Save Your iPhone's Memory on Windows & macOS: An Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/your-way-to-youtube-studio-a-comprehensive-overview/"><u>Find Your Way to YouTube Studio A Comprehensive Overview</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-yourself-from-apple-music-a-simple-process-for-unsubscribing-directly-on-web-without-itunes-according-to-zdnet-experts/"><u>Free Yourself From Apple Music: A Simple Process for Unsubscribing Directly on Web without iTunes, According to ZDNET Experts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-forgotten-iphone-backup-key-a-step-by-nstep-guide/"><u>How to Retrieve Forgotten iPhone Backup Key: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-securely-back-up-your-ipad-methods-including-icloud-macbook-itunes-and-external-drives/"><u>How to Securely Back Up Your iPad: Methods Including iCloud, MacBook, iTunes, and External Drives</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-12plus-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme 12+ 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/itunes-backup-essentials-step-by-step-instructions-for-protecting-your-devices-information/"><u>ITunes Backup Essentials: Step-by-Step Instructions for Protecting Your Device's Information</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-itunes-backups-a-comprehensive-guide-to-saving-your-data-securely/"><u>Mastering iTunes Backups: A Comprehensive Guide to Saving Your Data Securely</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unmissable-october-prime-game-discounts-final-opportunity-to-score-savings-up-to-1k-spotted-by-zdnet/"><u>Unmissable October Prime Game Discounts : Final Opportunity to Score Savings Up to $1K - Spotted by ZDNet!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-branding-50-free-youtube-banners-inside-for-2024/"><u>[Updated] Revolutionize Your Branding - 50 Free YouTube Banners Inside for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-behind-the-scenes-insider-knowledge-for-youtube-video-production/"><u>2024 Approved Behind the Scenes Insider Knowledge for YouTube Video Production</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-80-pro-straight-screen-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 80 Pro Straight Screen Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-guide-resolving-your-apple-id-login-problems-swiftly/"><u>Expert Guide: Resolving Your Apple ID Login Problems Swiftly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-how-to-take-photos-and-record-gameplay-on-sony-playstation/"><u>Expert Tips: How to Take Photos and Record Gameplay on Sony PlayStation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-ios-device-superuser-access-create-passwords-and-usernames-on-the-go/"><u>Free iOS Device Superuser Access: Create Passwords & Usernames on the Go</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-secure-your-whatsapp-with-a-strong-password-on-iphone-and-android-devices/"><u>How to Secure Your WhatsApp with a Strong Password on iPhone & Android Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-list-photos-with-perfect-beats-recorders/"><u>In 2024, Premier List Photos with Perfect Beats Recorders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-social-shares-comprehensive-instagram-posting-strategies-for-ultimate-engagement/"><u>Master the Art of Social Shares: Comprehensive Instagram Posting Strategies for Ultimate Engagement</u></a></li>
+<li><a href="https://os-tips.techidaily.com/personalizing-your-iphone-experience-a-step-by-step-guide-to-modifying-fonts-on-your-device/"><u>Personalizing Your iPhone Experience: A Step-by-Step Guide to Modifying Fonts on Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-effortlessly-blurring-images-and-portions-on-your-iphone/"><u>Quick Guide: Effortlessly Blurring Images & Portions on Your iPhone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/score-amazing-deals-limited-time-offers-on-high-quality-samsung-tech-for-prime-day/"><u>Score Amazing Deals: Limited-Time Offers on High-Quality Samsung Tech for Prime Day</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-free-subtitling-tools-of-2024/"><u>Top Free Subtitling Tools of 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-project-your-iphone-screen-onto-any-television-with-and-without-an-apple-tv/"><u>Ultimate Guide: How to Project Your iPhone Screen Onto Any Television – With and Without an Apple TV</u></a></li>
 </ul></div>
 

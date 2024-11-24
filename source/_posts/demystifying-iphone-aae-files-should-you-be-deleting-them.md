@@ -1,7 +1,7 @@
 ---
 title: "Demystifying iPhone AAE Files: Should You Be Deleting Them?"
-date: 2024-11-13T21:19:10.109Z
-updated: 2024-11-14T23:11:10.649Z
+date: 2024-11-18T00:16:55.991Z
+updated: 2024-11-23T19:47:51.614Z
 tags:
   - ios
 categories:
@@ -19,10 +19,7 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * [Can You Open an AAE File?](https://extra-hints.techidaily.com/in-2024-best-gopro-tools-for-deep-sea-cinematography/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * AAE files can only be opened and read by the Apple Photos app, and are not very useful outside of Apple's platforms.
 
  If you transfer photos from an iPhone or iPad to a Windows PC, you might see some files with the extension "AAE" stored along with the images. We'll explain this mysterious file type and what you should do with them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Are AAE Files?
 
@@ -50,20 +40,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 ![AAE Files and corresponding HEIC files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2023-10-31_09h49_10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, we opened up our iPhone with Windows Explorer and found two related files: the original image (IMG\_0244.HEIC) and the corresponding AAE file (IMG\_0244.AAE). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Does AAE Stand For?
 
@@ -71,11 +51,19 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  Apple first introduced AAE files in iOS 8 and in Mac OS X 10.10 Yosemite in 2014 around the same time that they [announced discontinuing Apple Aperture](https://support.apple.com/en-us/HT209594) and iPhotos in favor of the then-new Photos app, so this theory makes sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Do I Need to Save AAE Files?
 
  If you plan to permanently keep your iPhone photos on a platform that doesn't support the Apple Photos app, such as Windows or Linux, you don't need to save any AAE files. It's safe to delete them.
 
  If you'd like to open the files again later on a Mac, iPhone, or iPad, you could keep the AAE files with your original photos in the same directory, and the Photos app should be able to read them. In doing so, Photos will be able to see the edits you originally made in the Photos app before transferring your images to a non-Apple platform.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Open an AAE File?
 
@@ -84,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  It is easier to make sense of what you're reading if you open an AAE file in something like VSCode, which offers syntax highlighting and won't mess with formatting. 
 
 ![The contents of an AAE file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/text-of-an-aae-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Photos app on iPhone, iPad, and Mac uses those AAE files silently in a way that's transparent to the user, so you don't have to worry about "opening" them on those platforms, either. If AAE files exist in the same folder as the photos that they refer to, Photos will know how to use them automatically. Good luck!
 
@@ -102,17 +94,22 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos-for-2024/"><u>[New] A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS) for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-perfect-proposal-to-perfection-8-best-weddings-online/"><u>[Updated] The Perfect Proposal to Perfection 8 Best Weddings Online</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-your-hidden-wi-fi-passwords-quickly-top-3-methods-for-mac-users/"><u>Discover Your Hidden Wi-Fi Passwords Quickly: Top 3 Methods for Mac Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-fix-your-mac-not-shutting-down-correctly-as-of-202/"><u>Effective Strategies: How to Fix Your Mac Not Shutting Down Correctly as of 202#</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-whats-coming-in-apples-latest-wwdc-tease-a-deeper-dive-into-enhanced-intelligence-and-ios-18-features/"><u>Explore What's Coming in Apple's Latest WWDC Tease: A Deeper Dive Into Enhanced Intelligence & iOS 18 Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/foolproof-fixes-for-the-iphone-camera-icon-not-showing-problem/"><u>Foolproof Fixes for the 'iPhone Camera Icon Not Showing' Problem</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-prime-your-digital-footprint-efficient-channels-monikers/"><u>In 2024, Prime Your Digital Footprint Efficient Channels' Monikers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-iphones-sluggish-charge-expert-advice-and-effective-fixes/"><u>Solving iPhone's Sluggish Charge: Expert Advice and Effective Fixes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-narrative-on-film-for-2024/"><u>The Art of Narrative on Film for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-proven-techniques-to-resolve-macos-wont-power-off-problem/"><u>Top 6 Proven Techniques to Resolve macOS Won't Power Off Problem</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlock-joy-amidst-confinement-prime-20-jailbreak-funny-on-fb/"><u>Unlock Joy Amidst Confinement Prime 20 Jailbreak Funny on Fb</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-social-stage-this-years-viral-video-vanguards-on-twitter/"><u>[New] In 2024, The Social Stage This Year's Viral Video Vanguards on Twitter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-yourself-from-video-edges-on-youtube-for-2024/"><u>[Updated] Free Yourself From Video Edges on YouTube for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhance-video-stability-for-smooth-youtube-viewing-on-iphones/"><u>Enhance Video Stability for Smooth YouTube Viewing on iPhones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-exploring-different-approaches-to-game-playback/"><u>In 2024, Exploring Different Approaches to Game Playback</u></a></li>
+<li><a href="https://os-tips.techidaily.com/investigating-heat-management-issues-in-the-new-iphone-15-pro-series/"><u>Investigating Heat Management Issues in the New iPhone 15 Pro Series</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-version-175-released-how-to-update-your-iphone-now-with-new-improvements/"><u>IOS Version 17.5 Released – How to Update Your iPhone Now with New Improvements</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-purchasing-an-ipad-the-right-move-crucial-factors-before-making-a-decision/"><u>Is Purchasing an iPad the Right Move? Crucial Factors Before Making a Decision</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leaving-vintage-controllers-behind-for-cutting-edge-mobile-game-prowess/"><u>Leaving Vintage Controllers Behind for Cutting-Edge Mobile Game Prowess!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-mobile-protection-the-essential-guide-to-utilizing-a-security-key-on-ios-devices/"><u>Mastering Mobile Protection: The Essential Guide to Utilizing a Security Key on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-privacy-controls-a-users-handbook-for-configuring-app-permissions-on-apple-devices/"><u>Mastering Privacy Controls: A User's Handbook for Configuring App Permissions on Apple Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-efficiency-with-top-underrated-ios-tricks-beyond-the-basics/"><u>Maximize Efficiency with Top Underrated iOS Tricks: Beyond the Basics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigation-showdown-assessing-the-superiority-between-waze-and-google-maps/"><u>Navigation Showdown: Assessing the Superiority Between Waze and Google Maps.</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/page-unavailable-error-404-detected/"><u>Page Unavailable: Error 404 Detected</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-solution-overcoming-the-loading-stick-in-among-us-gameplay/"><u>Step-by-Step Solution: Overcoming the Loading Stick in Among Us Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-eliminating-the-recurring-double-click-error-on-keyboardmouse/"><u>Troubleshooting Complete: Eliminating the Recurring Double-Click Error on Keyboard/Mouse</u></a></li>
 </ul></div>
 

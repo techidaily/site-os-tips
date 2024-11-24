@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-11-13T00:02:49.340Z
-updated: 2024-11-14T18:27:37.038Z
+date: 2024-11-23T09:18:30.484Z
+updated: 2024-11-24T07:45:30.933Z
 tags:
   - ios
 categories:
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Word and Character Count Included for Writers](https://facebook-record-videos.techidaily.com/new-access-high-quality-youtube-images-without-paying-a-dime-for-2024/)
 * [You Can Extend Obsidian With Plug-ins](https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Obsidian saves notes as plain text files, giving you full control over your data and allowing easy backups.
@@ -36,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best writing tool is the one you have on you. For me, that's my smartphone, but it's no good without the right app. After searching high and low, I finally found an app that just about does it all. If you haven't yet heard of Obsidian, it may be the best note taking app for you, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Obsidian?
 
  Obsidian describes itself as your "second brain." It's one of quite a few "personal knowledge base" or "knowledge management apps" that take a different approach to organizing your notes. Obsidian allows internal linking between notes, searching through notes, and an interactive graph that shows the connections between notes.
@@ -43,6 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If that sounds like a lot to you, I agree. For me, that description was more off-putting than exciting and a reason to glance over Obsidian in the Play Store. In my opinion, [many note-taking apps are unnecessary](https://screen-mirroring-recording.techidaily.com/updated-topping-bargain-software-for-screen-capture-on-chromebook/). I merely wanted a simple app for writing, but once you download Obsidian and get it running, it's actually pretty great for doing just that.
 
  While I'm focusing on the Android version, Obsidian is available for basically any platform you can think of, whether that's on your PC, tablet, or phone. I use [the Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002537/https://play.google.com/store/apps/details?id=md.obsidian&hl=en%5FUS&gl=US), but the mobile version of Obsidian is largely the same [on the iPhone and iPad](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) as well. Now, let's get into what makes Obsidian so good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Notes Are Saved As Accessible Plain Text Files
 
@@ -55,13 +56,6 @@ Bertel King / How-To Geek
  Many popular alternatives are similar, be it iA Writer or Jotterpad. Yet as someone who writes for a living, I don't want to be dependent on any one app or cloud service continuing to exist for me to access my work. And you don't have to, either.
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
@@ -78,10 +72,7 @@ Bertel King / How-To Geek
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tabs Simplify Working With Multiple Documents
@@ -100,28 +91,23 @@ Bertel King / How-To Geek
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Even though Obsidian is a Markdown editor, you don't actually need to know how to write Markdown to format your text. The app contains a formatting bar directly above your keyboard. When you tap the bold icon, Obsidian will surround the highlighted text with asterisks, which is how Markdown communicates that something needs to be in bold. If you want to turn something into a heading, tap the heading icon, and Obsidian will insert a hashtag. One hashtag denotes Heading 1, two hashtags denote Heading 2, and so on.
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -130,13 +116,6 @@ Bertel King / How-To Geek
  I love it when an app displays the current word count on-screen as I write, but tucking this information into a separate page is fine, too. I just need it to be available. In many note-taking apps, it isn't. This is the other big reason I'm not relying on Samsung Notes. It's a reason Google Keep and [many alternatives to Apple Notes](https://ai-voice-clone.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/) aren't well-suited to the job. It's a big part of why iA Writer and Jotterpad are.
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Extend Obsidian With Plug-ins
 
@@ -165,15 +144,20 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guiding-you-through-youtubes-view-limitations/"><u>[New] In 2024, Guiding You Through YouTube's View Limitations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-for-bulk-deletion-of-ios-contacts/"><u>Expert Strategies for Bulk Deletion of iOS Contacts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-constant-crashes-in-valheim-on-windows-computers/"><u>Fixes for Constant Crashes in Valheim on Windows Computers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-cultivating-eco-diversity-in-metropolitan-land-use/"><u>In 2024, Cultivating Eco-Diversity in Metropolitan Land Use</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-iphones-space-effective-techniques-for-freeing-up-storage-on-ios-12-devices/"><u>Maximize Your iPhone's Space: Effective Techniques for Freeing Up Storage on iOS 12 Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-deletion-top-5-methods-for-removing-albums-off-your-iphone/"><u>Permanent Deletion: Top 5 Methods for Removing Albums Off Your iPhone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-discord-connection-drops-and-packet-loss-problems-easily/"><u>Resolving Discord Connection Drops and Packet Loss Problems Easily</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-directions-on-how-to-permanently-remove-images-from-your-ipad-without-restoring/"><u>Simple Directions on How to Permanently Remove Images From Your iPad Without Restoring</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-tips-how-to-restore-hard-drive-functionality-using-the-chkdsk-tool-on-windows-operating-systems-windows-1011/"><u>Troubleshooting Tips: How to Restore Hard Drive Functionality Using the CHKDSK Tool on Windows Operating Systems (Windows 10/11)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-best-free-girl-voice-changer-online-for-2024/"><u>Updated Best Free Girl Voice Changer Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/"><u>[New] In 2024, Multiplying Joy Sharing a Pile of Photos & Videos with Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-future-of-development-understanding-the-impact-of-next-gen-frameworks/"><u>[Updated] 2024 Approved The Future of Development Understanding the Impact of Next-Gen Frameworks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-student-friendly-history-vid-hubs-1-10-for-2024/"><u>[Updated] Best Student-Friendly History Vid Hubs (#1-10) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/constraint-c-for-every-redaction-made-include-an-asterisk-in-its-place-within-the-main-body-text-and-list-out-the-redacted-segments-with-their-corresponding30/"><u>Constraint C: For Every Redaction Made, Include an Asterisk () in Its Place Within the Main Body Text and List Out the Redacted Segments with Their Corresponding Sentence in Reverse Order Under Confidential Financial Optimism.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-audio-setbacks-fixing-opening-sound-device-glitches-in-audacity-5-tips-and-tricks/"><u>Dealing with Audio Setbacks: Fixing Opening Sound Device Glitches in Audacity - 5 Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-troubleshoot-and-resolve-common-itunes-issues-on-your-iphone/"><u>How to Troubleshoot & Resolve Common iTunes Issues on Your iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/itunes-audio-problem-solved-configuration-troubleshooting-tips/"><u>ITunes Audio Problem Solved - Configuration Troubleshooting Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-updating-your-airpods-battery-and-firmware/"><u>Step-by-Step Guide: Updating Your AirPods Battery & Firmware</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-resolving-emergency-sos-feature-problems-on-iphones/"><u>Step-by-Step Tutorial: Resolving Emergency SOS Feature Problems on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlining-your-phonebook-a-quick-guide-to-removing-several-iphone-contacts-at-once/"><u>Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surprising-features-revealed-discover-the-games-that-excel-on-m1-and-m2-ipads/"><u>Surprising Features Revealed: Discover the Games that Excel on M1 and M2 iPads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-birth-of-intelligent-machines-ais-genesis-story/"><u>The Birth of Intelligent Machines: AI's Genesis Story</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-unsung-heroes-of-canvas-open-source-paintings-for-2024/"><u>The Unsung Heroes of Canvas Open-Source Paintings for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-cell-phone-practices-that-shorten-battery-lifespan-avoid-these-mistakes/"><u>Top Cell Phone Practices That Shorten Battery Lifespan: Avoid These Mistakes!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-iphone-13-pro-max/"><u>Top-Rated Protective Covers for iPhone 13 Pro Max</u></a></li>
 </ul></div>
 

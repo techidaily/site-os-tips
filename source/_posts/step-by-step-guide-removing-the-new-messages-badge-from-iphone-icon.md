@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon"
-date: 2024-11-06T20:24:14.429Z
-updated: 2024-11-13T20:33:02.587Z
+date: 2024-11-22T17:49:54.906Z
+updated: 2024-11-24T07:23:00.180Z
 tags:
   - ios
 categories:
@@ -11,16 +11,17 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ## Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Mark All Messages as Read](https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/)
 * [How to Fix Messages Showing Unread on iPhone](https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2003-by-ldigisigner-sign-a-word-sign-a-word/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,10 +31,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  Does the Messages app on your iPhone say you have unread messages, even though all your iMessage and SMS messages are read in the app? If the Messages badge is stuck, here's the fix to get rid of the counter. We had the same problem and found a solution.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Mark All Messages as Read
@@ -43,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  If this doesn't solve your problem and you still see a number of unread messages on the Messages app on your iPhone home screen, however, we have a solution.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Fix Messages Showing Unread on iPhone
@@ -58,16 +53,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ![The response to "Hey Siri, read my messages"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/siri-read-messages.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above solution worked to fix a stubborn stuck unread counter on the messages app on an iPhone running iOS 16\. Here are some other solutions we came across during our research that you may want to try if you still have this problem:
@@ -94,16 +80,17 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-precision-cuts-and-transitions-for-premier-users-for-2024/"><u>[New] Precision Cuts & Transitions for Premier Users for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-space-optimization-mastery-premium-storage-reviews-for-2024/"><u>[New] Space Optimization Mastery Premium Storage Reviews for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-your-ai-sidekick-how-does-googles-voice-assistant-stack-up-against-amazons-alexa/"><u>Choosing Your AI Sidekick: How Does Google's Voice Assistant Stack Up Against Amazon's Alexa?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-17-solutions-for-removing-picture-outlines/"><u>In 2024, Prime 17 Solutions for Removing Picture Outlines</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-step-into-cinematic-world-shooting-dynamic-timelapses-on-gopro-hero5-black/"><u>In 2024, Step Into Cinematic World Shooting Dynamic Timelapses on GoPro Hero5 Black</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-10-video-editing-online-makers-is-worth-your-attention-for-2024/"><u>New Top 10 Video Editing Online Makers Is Worth Your Attention for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-instant-access-and-speedy-steps/"><u>Quick, Instant Access, and Speedy Steps.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recognizing-the-signs-when-its-time-for-a-new-iphone-battery/"><u>Recognizing the Signs: When It's Time for a New iPhone Battery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-common-issues-with-the-cash-app-a-step-by-step-guide-for-quick-recovery/"><u>Resolving Common Issues with the Cash App: A Step-by-Step Guide for Quick Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rethink-your-charge-understanding-the-truth-about-larger-phone-batteries/"><u>Rethink Your Charge: Understanding the Truth About Larger Phone Batteries</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-auditory-interface-win-for-2024/"><u>Ultimate Auditory Interface, WIN for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-mobile-way-to-youtube-fame-streamlined-channel-creation-process/"><u>2024 Approved The Mobile Way to YouTube Fame Streamlined Channel Creation Process</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-free-from-the-ios-data-recovery-endless-cycle-top-three-solutions/"><u>Breaking Free From the iOS Data Recovery Endless Cycle: Top Three Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-insights-into-lg-channels/"><u>Essential Insights Into LG Channels</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fast-track-to-finding-your-phones-imei-offline-a-step-by-step-guide/"><u>Fast Track to Finding Your Phone's IMEI Offline – A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-functional-call-forwarding-on-your-iphone-effective-solutions-and-tips/"><u>Fixing Non-Functional Call Forwarding on Your iPhone: Effective Solutions and Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/immediate-remedies-for-muted-iphones-expert-tips-to-restore-volume-fast/"><u>Immediate Remedies for Muted iPhones: Expert Tips to Restore Volume Fast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>In 2024, Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-uncovering-whatsapp-written-off-tricks-and-tips/"><u>In 2024, Uncovering WhatsApp' Written Off Tricks and Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-battle-plan-for-a-new-social-order-in-europe/"><u>Meta's Battle Plan for a New Social Order in Europe</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/team-harmony-and-efficiency-8-recommended-facebook-timers/"><u>Team Harmony and Efficiency 8 Recommended Facebook Timers</u></a></li>
 </ul></div>
 

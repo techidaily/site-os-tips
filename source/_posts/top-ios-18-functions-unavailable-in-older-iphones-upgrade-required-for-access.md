@@ -1,7 +1,7 @@
 ---
 title: Top IOS 18 Functions Unavailable in Older iPhones - Upgrade Required for Access
-date: 2024-11-08T20:44:56.422Z
-updated: 2024-11-14T20:08:45.369Z
+date: 2024-11-18T18:32:10.592Z
+updated: 2024-11-23T23:10:43.047Z
 tags:
   - ios
 categories:
@@ -34,6 +34,10 @@ Apple
 
  Several new features in iOS 18 will arrive via subsequent updates released later this year and next. This staggered release strategy has turned the otherwise dull mid-cycle OS updates into feature-packed events, giving Apple fans something to look forward to the whole year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Automatic Mail Categorization
 
  Like Gmail and other services, Apple's Mail app finally classes incoming messages into the Primary, Transactions, Updates, and Promotions categories. Automatic email categorization makes [inbox triage much easier](https://facebook.techidaily.com/outsmart-facebooks-tracking-mechanisms-now/), but it's "coming in an update later this year" and only in English.
@@ -48,13 +52,6 @@ Apple
 
  iOS 18 also brings guest access to the Home app, allowing others to control your home temporarily, but you must have a HomePod or Apple TV operating as a smart home hub to use it. Moreover, scheduling guest access requires a Matter-compatible smart lock that supports scheduling.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Supercharged Siri With ChatGPT Integration
 
 [Apple Intelligence](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) will launch in beta with iOS 18, iPadOS 18, and macOS Sequoia this fall. Still, Apple's[press release](https://www.apple.com/hr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/) acknowledges that "some features, software platforms, and additional languages will come over the course of the next year."
@@ -66,10 +63,7 @@ Apple
  Bloomberg's Mark Gurman claims that [Siri's AI superpowers](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/)—like onscreen awareness, controlling apps and devices, answers based on your data, and seamless integration with ChatGPT—will be available when iOS 18.4 launches next spring.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3 iOS 18 Features That Require an iPhone 12 or Later
@@ -81,10 +75,7 @@ Apple
  iOS 18 allows you to control your iPhone with your eyes using the [new Eye Tracking assistive feature](https://program-issues.techidaily.com/solutions-for-stable-play-addressing-the-call-of-duty-mobile-warzone-20-pc-edition-freezing-issues/). It requires no extra hardware other than Apple's TrueDepth camera, but you'll need an iPhone 12 or later or the iPhone SE 3.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Music Haptics via the iPhone's Taptic Engine
@@ -101,7 +92,15 @@ Apple
 
 ![The Apple TV App playing a movie, with the Enhance Dialogue set to Off in the Audio menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-tvos-18-tv-app-instigators-movie-enhance-dialogue-menu-off-option-selected.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, you'll need at least an iPhone 11 to enjoy clearer dialogue in movies. Enhance Dialogue is available "with compatible content in supported apps" when using built-in speakers, wired headphones, AirPods, or other Bluetooth speakers and headphones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What About Apple Intelligence?
 
@@ -109,23 +108,9 @@ Apple
 
 ![A wrap-up of features made possible with Apple Intelligence at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_wrap_up-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  On the Mac and iPad, Apple Intelligence requires an Apple Silicon chip like the Apple M1 or newer. This is the minimum hardware to use even the most [basic AI features such as writing tools](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/), Genmoji (custom emoji), and Image Playground (creating AI images from prompts)—let alone advanced ones like a more powerful Siri.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  iOS 18 Features Requiring Extra Accessories
 
@@ -137,15 +122,16 @@ Apple
 
 ![An AirPods card on iPhone listing new features like voice isolation and responding to Siri with head movement.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-light-mode-airpods-card-new-features-overview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Responding to Siri With Head Shakes
 
  Shaking or nodding your head to decline or accept calls requires the AirPods Pro 2.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Voice Isolation on AirPods
@@ -161,13 +147,6 @@ Apple
  Sending messages via satellite requires satellite connectivity provided by the iPhone 14 or later, just like the current [Emergency SOS via satellite](https://facebook-video-content.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide-for-2024/) feature. You'll be able to send end-to-end encrypted emergency iMessages and Tapbacks in the Messages app when stranded in a remote area without cellular and Wi-Fi connectivity.
 
 ![A chat in the iPhone's Messages app, with satellite connectivity guidance displayed at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-messages-via-satellite-connectivity-guidance-connected.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -190,16 +169,13 @@ Apple
 
  Solving mathematical equations as you're writing them in the Notes app supports common mathematical symbols, but you must write your math using Western Arabic numerals or type it using Arabic (Eastern & Western) or Devanagari numerals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  About Topographic Maps
 
  Topographic maps have hit Maps on iOS 18 after debuting on the Apple Watch a year earlier. If you live in the United States and Japan, you'll be able to access detailed trail networks and hikes for 63 US national parks, as well as create your own hikes and download topographic maps for offline navigation with turn-by-turn voice guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  About Safari Highlights and Reader Mode Summaries
 
@@ -232,6 +208,10 @@ Apple
 
 ![The Apple TV app on iPhone showing the InSight screen with names of actors detected in the scene, along with the song title.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-tv-app-dark-matter-show-insight-actors-music.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  The feature works in the TV app on the iPhone, iPad, and Mac devices updated to iOS 18, iPadOS 18, and macOS Sequoia. InSight only works with Apple Originals movies and TV shows, so you'll need an Apple TV+ subscription. The feature will expand to the entire Apple+ catalog over time, but it's unclear if Apple will add support for third-party video apps.
@@ -247,6 +227,10 @@ Apple
 ###  Event Tickets and New Event Guides
 
  These Wallet app features are available with events by participating ticket issuers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Viewing Your Home Electricity Usage
 
@@ -273,17 +257,16 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimizing-youtube-thumbnails-for-better-clickthrough-rates/"><u>[Updated] Optimizing YouTube Thumbnails for Better Clickthrough Rates</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-performance-of-a-google-wireless-nest-doorbell-for-home-security/"><u>Evaluating the Performance of a Google Wireless Nest Doorbell for Home Security</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/optimize-accessibility-top-free-speech-conversion-tools-for-macos-for-2024/"><u>Optimize Accessibility Top Free Speech Conversion Tools for MacOS for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-adjust-font-styles-on-android-device-using-pre-installed-options-and-third-party-tools/"><u>Quick Tips: Adjust Font Styles on Android Device Using Pre-Installed Options & Third-Party Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safe-methods-for-rooting-your-android-device-a-comprehensive-guide/"><u>Safe Methods for Rooting Your Android Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-revolutionary-2d-to-3d-conversion-in-their-latest-monitor-technology/"><u>Samsung Unveils Revolutionary 2D to 3D Conversion in Their Latest Monitor Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-solutions-to-resolve-your-samsung-galaxy-devices-screen-freezing-problem/"><u>Simple Solutions to Resolve Your Samsung Galaxy Device's Screen-Freezing Problem</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-tricks-to-overcome-the-system-ui-has-stopped-problem-on-your-device/"><u>Simple Tricks to Overcome the 'System UI Has Stopped' Problem on Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-android-app-malfunctions-top-7-effective-strategies-to-prevent-crashes/"><u>Solving Android App Malfunctions: Top 7 Effective Strategies to Prevent Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-commoners-choice-claudio-or-generative-pre-trained/"><u>The Commoner's Choice: Claudio or Generative Pre-Trained?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/zwei-methoden-zum-aktivieren-der-systemwiederherstellungspartition-in-windows/"><u>Zwei Methoden Zum Aktivieren Der Systemwiederherstellungspartition in Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embracing-health-tracking-the-exceptional-value-of-the-oura-ring-beyond-my-aversion-to-subscription-services/"><u>Embracing Health Tracking: The Exceptional Value of the Oura Ring Beyond My Aversion to Subscription Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/epic-games-launches-mobile-gaming-stores-on-android-and-ios-devices/"><u>Epic Games Launches Mobile Gaming Stores on Android & iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-tips-how-i-keep-my-iphone-free-of-memory-issues/"><u>Essential Tips: How I Keep My iPhone Free of Memory Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-latest-in-apples-ai-now-open-for-trials/"><u>Experience the Latest in Apple's AI - Now Open for Trials!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fullscreen-glitch-fixed-on-win11-monitor/"><u>Fullscreen Glitch Fixed on Win11 Monitor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nokia-g310-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nokia G310 Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-broadcasting-showdown-deciding-between-obs-and-twitch-studio/"><u>In 2024, Broadcasting Showdown Deciding Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-correcting-failed-video-delivery-on-mobile-platforms-social-network-apps/"><u>In 2024, Correcting Failed Video Delivery on Mobile Platform's Social Network Apps</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/moving-windows-folders-settings-and-apps-from-old-to-new-machine-a-comprehensive-guide/"><u>Moving Windows Folders, Settings & Apps From Old to New Machine: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/transformez-vos-fichiers-gsm-en-mp3-pour-free-utilisez-movavis-online-service/"><u>Transformez Vos Fichiers GSM en MP3 Pour Free - Utilisez Movavi's Online Service</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-11-11T20:48:12.576Z
-updated: 2024-11-14T23:38:34.425Z
+date: 2024-11-17T05:33:07.565Z
+updated: 2024-11-24T01:05:32.211Z
 tags:
   - ios
 categories:
@@ -11,16 +11,17 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,22 +32,12 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -57,15 +48,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -96,20 +88,18 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>[New] 2024 Approved Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>[New] In 2024, Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-ultimate-guide-top-freefire-streams-and-strategies-on-youtube/"><u>[New] In 2024, Ultimate Guide Top FreeFire Streams & Strategies on YouTube</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-capture-and-relive-your-favorite-moments-anywhere-anytime-the-best-in-free-video-downloaders-for-youtubes/"><u>[Updated] In 2024, Capture and Relive Your Favorite Moments Anywhere, Anytime The Best in Free Video Downloaders for YouTubes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-infinite-recorders-without-bounds/"><u>[Updated] Infinite Recorders Without Bounds</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-oppo-a59-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo A59 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-a-quick-tutorial-on-how-to-convert-image-to-youtube-thumbnail/"><u>In 2024, A Quick Tutorial On How To Convert Image To YouTube Thumbnail</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/perfecting-sound-with-advanced-audacity-methods/"><u>Perfecting Sound with Advanced Audacity Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-removal-of-your-iphones-google-location-data-a-step-by-step-guide/"><u>Permanent Removal of Your iPhone's Google Location Data: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-techniques-to-remove-cookies-and-browsing-records-in-safari-on-ios-devices/"><u>Simple Techniques to Remove Cookies and Browsing Records in Safari on iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-deleting-your-whatsapp-conversations-and-messages/"><u>Step-by-Step Guide: Deleting Your WhatsApp Conversations & Messages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-erasing-all-data-from-your-ipad-safely-including-tips-without-a-password/"><u>Ultimate Guide: Erasing All Data From Your iPad Safely, Including Tips Without a Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-instructions-for-removing-your-snapchat-images-from-conversations-and-memories/"><u>Ultimate Instructions for Removing Your Snapchat Images From Conversations & Memories</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-how-to-empty-your-facebook-cache-across-all-devices-windows-mac-android-ios/"><u>Ultimate Step-by-Step Tutorial: How to Empty Your Facebook Cache Across All Devices (Windows, Mac, Android, iOS)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-defeat-synthetic-followers-for-true-popularity-peak/"><u>[New] 2024 Approved Defeat Synthetic Followers for True Popularity Peak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-experience-the-power-of-windows-on-your-iphone-with-seamless-simulation/"><u>1. Experience the Power of Windows on Your iPhone with Seamless Simulation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-superior-charging-experience-why-magsafe-is-a-compelling-reason-to-upgrade-your-iphone/"><u>1. Superior Charging Experience: Why MagSafe Is a Compelling Reason to Upgrade Your iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>2024 Approved Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boring-godfall-a-disappointing-debut-for-the-playstation-5/"><u>Boring Godfall - A Disappointing Debut for the PlayStation 5</u></a></li>
+<li><a href="https://win-online.techidaily.com/compresion-de-videos-optimizada-para-usuarios-de-mac-top-softwares-recomendados/"><u>Compresión De Vídeos Optimizada Para Usuarios De Mac: Top Softwares Recomendados</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-realme-12plus-5g-by-drfone-android/"><u>How to Bypass FRP from Realme 12+ 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-gt-5-240w-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme GT 5 (240W) Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-significantly-reduce-the-size-of-high-definition-4k-and-8k-video-files-by-up-to-90/"><u>How to Significantly Reduce the Size of High-Definition, 4K, and 8K Video Files by Up to 90%</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-limits-of-machine-learning-in-medicine-revealed/"><u>The Limits of Machine Learning in Medicine Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-factors-to-evaluate-when-investing-in-an-unlocked-mobile-device/"><u>Top Factors to Evaluate When Investing in an Unlocked Mobile Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upgrade-your-chat-game-master-these-10-indispensable-imessage-tricks-for-immediate-use/"><u>Upgrade Your Chat Game: Master These 10 Indispensable iMessage Tricks for Immediate Use</u></a></li>
 </ul></div>
 

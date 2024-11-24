@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-11-14T00:08:29.869Z
-updated: 2024-11-14T23:07:13.495Z
+date: 2024-11-17T23:16:10.999Z
+updated: 2024-11-24T04:15:46.047Z
 tags:
   - ios
 categories:
@@ -11,16 +11,17 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 ## A Look Back in Time: Discovering When the Initial Smartphone Emerged
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -50,22 +52,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -96,18 +88,14 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-social-media-music-grabber/"><u>[New] Social Media Music Grabber</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutthroat-countdown-best-zombies-in-gaming-unveiled/"><u>[Updated] Cutthroat Countdown Best Zombies In Gaming Unveiled</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevating-gameplay-streaming-mastery-for-youtubers/"><u>[Updated] Elevating Gameplay Streaming Mastery for YouTubers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-instagram-way-of-showcasing-youtube-videos/"><u>[Updated] The Instagram Way of Showcasing YouTube Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/bypassing-the-hurdle-three-trustworthy-techniques-for-troubleshooting-iphone-picture-transfer-problems/"><u>Bypassing the Hurdle: Three Trustworthy Techniques for Troubleshooting iPhone Picture Transfer Problems</u></a></li>
-<li><a href="https://fox-search.techidaily.com/decoding-aomei-backupper-issues-comprehensive-guide-on-resolving-error-codes/"><u>Decoding AOMEI Backupper Issues: Comprehensive Guide on Resolving Error Codes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-best-8-text-retrieval-solutions-leading-apps-to-recover-deleted-messages-on-ios-and-android-systems/"><u>Discover the Best 8 Text Retrieval Solutions: Leading Apps to Recover Deleted Messages on iOS & Android Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rediscover-your-digital-footprints-expert-techniques-for-retrieving-erased-ipad-records/"><u>Rediscover Your Digital Footprints: Expert Techniques for Retrieving Erased iPad Records</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-deleted-iphone-notes-a-step-by-step-guide/"><u>Restore Deleted iPhone Notes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-lost-applications-a-guide-to-using-icloud-for-restoration/"><u>Reviving Lost Applications: A Guide to Using iCloud for Restoration</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-setting-up-and-managing-discord-channels-step-by-step-guide/"><u>[New] In 2024, Setting Up and Managing Discord Channels Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-how-to-make-a-hyperlapse-video/"><u>2024 Approved How to Make A Hyperlapse Video</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-in-depth-app-examination-azs-recording-and-alternatives/"><u>2024 Approved In-Depth App Examination - AZ's Recording & Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290538655-mp4avi/"><u>MP4とAVIの品質比較: 優れたフリーコンバーターを推奨します</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-beginners-can-reset-their-iphones-email-password-swiftly/"><u>Simple Guide: How Beginners Can Reset Their iPhone's Email Password Swiftly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-significance-of-heic-image-encoding-for-iphone-photography-key-facts-you-need-to-know/"><u>The Significance of HEIC Image Encoding for iPhone Photography: Key Facts You Need to Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-4-strategies-for-finding-your-lost-iphone-or-ipad/"><u>Top 4 Strategies for Finding Your Lost iPhone or iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-digital-touch-messaging-a-comprehensive-guide-for-iphone-users/"><u>Understanding Digital Touch Messaging: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/windows-10-treasures-exciting-new-apps-and-games-await-for-2024/"><u>Windows 10 Treasures Exciting New Apps & Games Await for 2024</u></a></li>
 </ul></div>
 

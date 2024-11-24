@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook
-date: 2024-11-07T20:31:51.775Z
-updated: 2024-11-13T17:11:04.072Z
+date: 2024-11-16T21:45:17.642Z
+updated: 2024-11-24T02:52:48.016Z
 tags:
   - ios
 categories:
@@ -18,10 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Remove Background Gets the Job Done Most of the Time](https://youtube-data.techidaily.com/n-2024-from-chords-to-chart-toppers-essential-musician-focused-youtube-content/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,13 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Removing the background from an image can be a cumbersome task with traditional photo editing tools. But if you use an iPhone or Mac, there's a quick and easy way to remove backgrounds from images. Let's take a look.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Remove the Background From an Image on an iPhone or iPad
 
  As of [iOS 16](https://youtube-clips.techidaily.com/in-2024-editors-dream-machine-top-portable-video-edits-tools/) and [iPadOS 16](https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/), you can use the Remove Background Quick Action in the Files app to simplify removing the background from images on the iPhone and iPad. Since this Quick Action is part of the Files app, you need to move any images you want to process from the Photos app to the Files app to use it.
@@ -47,30 +37,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select button in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap the Share icon in the bottom-left corner and select "Save to Files" from the Share menu.
 
 ![Save to Files option in iPhone Photos app's Share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, choose a folder to save the images and tap "Save."
 
 ![Saving photos to Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to move the images to a separate folder, you'll need to create one first. Tap the three-dot icon to the left of Save in the top-right corner of the app and select "New Folder."
 
 ![Creating a new folder in Files app to move Photos images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, give the folder a name and hit "Save" to save the selected images.
 
  With your images in the Files app, removing an image's background is super easy. Inside the folder with all your images, tap and hold a photo to bring up the context menu.
 
 ![Accessing the context menu on an image in the iPhone Files app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-7.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Quick Actions" and tap "Remove Background."
 
@@ -82,16 +81,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select option in Files app to choose multiple images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, select all the photos whose backgrounds you want to remove. Finally, tap the three-dot button in the bottom-right corner and select the "Remove Background" Quick Action to remove their backgrounds.
 
 ![Accessing the Remove Background Quick Action in Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-12.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove the Background From an Image on a Mac
 
@@ -112,13 +108,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To remove backgrounds from more than one image in one go, first select all the images while holding the Command key. Then, Control-click on your selection (or tap with two fingers on your trackpad) to access the context menu and choose Quick Actions > Remove Background.
 
 ![Using the Remove Background Quick Action to remove backgrounds of multiple images at once in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Remove Background Gets the Job Done Most of the Time
 
@@ -141,19 +130,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-breakdown-of-youtubes-money-making-mechanisms-cpm/"><u>[Updated] Breakdown of YouTube’s Money-Making Mechanisms (CPM)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-metaverse-insight-discovering-6-realistic-examples/"><u>[Updated] Metaverse Insight Discovering 6 Realistic Examples</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-vivaldis-new-features-include-vibrant-themes-and-dark-mode-on-ios/"><u>Enhanced User Experience: Vivaldi's New Features Include Vibrant Themes & Dark Mode on iOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-experience-with-active-phone-link-alerts/"><u>Enhancing Windows Experience with Active Phone Link Alerts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exclusive-preview-anticipating-ios-18-updates-breakthrough-in-apple-artificial-intelligence-and-siris-next-generation-wwdc24-highlights-and-new-tech-innovat21/"><u>Exclusive Preview: Anticipating iOS 18 Updates, Breakthrough in Apple Artificial Intelligence, and Siri's Next Generation - WWDC24 Highlights & New Tech Innovations!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expanding-storage-options-using-an-ipad-to-format-external-usb-devices-effortlessly/"><u>Expanding Storage Options: Using an iPad to Format External USB Devices Effortlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/from-iphone-14-to-iphone-15-pro-predictions-and-improvements-for-apples-next-gen-smartphone/"><u>From iPhone 14 to iPhone 15 Pro: Predictions and Improvements for Apple's Next-Gen Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-started-with-apples-freeform-step-by-step-instructions-for-optimal-experience/"><u>Get Started with Apple’s Freeform: Step-by-Step Instructions for Optimal Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-yuva-3-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Yuva 3 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-integration-a-step-by-step-tutorial/"><u>Mastering ChatGPT Integration: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolve-undetected-secondary-storage-device-on-windows-10-six-effective-methods/"><u>Resolve Undetected Secondary Storage Device on Windows 10 - Six Effective Methods</u></a></li>
-<li><a href="https://solve-news.techidaily.com/telechargement-gratuit-de-la-serie-ripper-version-entierement-numerisee-a-illimite/"><u>Téléchargement Gratuit De La Série Ripper : Version Entièrement Numérisée À Illimité</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/412159-9781440696268-the-complete-idiots-guide-to-wicca-craft/"><u>The Complete Idiot's Guide to Wicca Craft | Free Book</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-eye-candy-roundup-the-best-and-worst-of-8k-tv-tech/"><u>[New] 2024 Approved Eye Candy Roundup The Best and Worst of 8K TV Tech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-steps-to-transform-your-photos-hues-right-away/"><u>[New] 5 Steps to Transform Your Photo's Hues Right Away</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-efficiently-recording-your-xbox-adventures/"><u>[Updated] In 2024, Efficiently Recording Your Xbox Adventures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-facebook-for-video-sharing-tips/"><u>[Updated] Navigating Facebook for Video Sharing Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battling-hdmi-connectivity-fixing-conflicts-with-multiple-applications-on-one-device/"><u>Battling HDMI Connectivity: Fixing Conflicts with Multiple Applications on One Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-how-to-rapidly-resolve-no-location-found-issues-on-your-iphone/"><u>Effortless Solutions: How to Rapidly Resolve 'No Location Found' Issues on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-steps-to-resolve-difficulty-logging-into-apple-account-an-expert-approach/"><u>Essential Steps To Resolve Difficulty Logging Into Apple Account - An Expert Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/find-and-fix-your-missing-camera-on-device-screen/"><u>Find & Fix Your Missing Camera on Device Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-change-your-apple-id-password-a-step-by-step-guide-with-or-without-using-email-and-phone/"><u>How to Change Your Apple ID Password: A Step-by-Step Guide with or without Using Email & Phone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>New In 2024, How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-solutions-boosting-your-iphones-audio-without-a-fuss-a-step-by-step-troubleshoot/"><u>Quick Solutions: Boosting Your iPhone's Audio Without a Fuss - A Step-by-Step Troubleshoot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-d3dx928dll-file-not-detected-a-step-by-step-guide/"><u>Resolving the d3dx9_28.dll File Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-enablingdisabling-filters-on-pcs/"><u>Step-by-Step: Enabling/Disabling Filters on PCs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-prose-edda/"><u>The Prose Edda</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-solutions-to-restore-wi-fi-bars-post-ios-17-upgrade/"><u>Top 5 Solutions to Restore Wi-Fi Bars Post-iOS 17 Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-non-responsive-apple-maps/"><u>Troubleshooting Steps: Resolving Issues with Non-Responsive Apple Maps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-understanding-false-virus-warnings-and-top-5-strategies-to-prevent-them/"><u>Unveiling the Truth: Understanding False Virus Warnings & Top 5 Strategies to Prevent Them</u></a></li>
 </ul></div>
 

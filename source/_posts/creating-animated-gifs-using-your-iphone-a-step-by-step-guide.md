@@ -1,7 +1,7 @@
 ---
 title: "Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide"
-date: 2024-11-09T16:31:29.501Z
-updated: 2024-11-13T18:08:39.453Z
+date: 2024-11-17T08:10:49.691Z
+updated: 2024-11-23T20:45:43.072Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ---
 
 ## Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
  Share Live Photos that have been looped or bounced directly to apps or construct a workflow using iOS Shortcuts to export a GIF. Alternatively, download a third-party app like GIPHY and shoot, convert, and dress-up GIFs ready for export.
 
  Looping animated GIFs became popular during the early days of the internet when slow connection speeds made streaming video prohibitive. The format never really went away, so it's handy to know how to produce GIFs right on your iPhone.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Share Live Photos as GIFs
 
@@ -55,20 +46,10 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Choose between Live, Loop, and Bounce](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_loop_bounce.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pick one and preview the effect, then when you're ready to share hit the "Share" button (which looks like a box with an arrow pointing upwards). Now pick a destination app, like WhatsApp, and your Live Photo should send as a GIF. In some apps, the loop will be sent as a video, in which case you might want to use Shortcuts instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Live Photos or Videos into GIFs with Shortcuts
@@ -78,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
  For videos, you should trim your clip down to size before you attempt to convert it to a GIF. To do this, find the video in your Photos app then tap on "Edit" in the top-right corner of the screen. You can now grab the start and stop points on the video timeline that appears to trim your clip to size, then preview it with the "Play" button. Hit "Done" to save.
 
 ![Trim a video to size on your iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/trim_video.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With your Live Photo or video ready to go, it's time to build a shortcut that will export it to GIF and save it to your Photos app. To do this, launch the Shortcuts app on your iPhone or re-download it from the [App Store](https://apps.apple.com/au/app/shortcuts/id915249334) if you have previously deleted it. [Shortcuts is an app that lets you create time-saving workflows](https://buynow-help.techidaily.com/expert-review-how-the-new-apple-iphone-12-sets-the-bar-higher-than-ever/), and it has all sorts of uses.
 
@@ -95,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Add the "Make GIF" action to your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/search_gif.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The action will be added to your workflow. Next, tap on the "Content" button that appears and choose "Shortcut Input" from the list. We're doing this so that the shortcut targets the video or Live Photo you have open whenever it is triggered.
 
 ![Make GIF from "Shortcut Input" in Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shortcut_input.jpg) 
@@ -109,48 +98,28 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Limit your shortcut to certain content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/images_media_files.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now tap on the "Nowhere" variable and make sure "Show in Share Sheet" is enabled. This will allow you to trigger the shortcut from the "Share" option you see when viewing media.
 
 ![Make sure you can trigger your shortcut from the Share Sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/share_sheet.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, use the search box at the bottom of the screen to search for "quick look" and add a Quick Look action to the end of your workflow. This will preview the GIF you just made and makes it easy to share or save the output.
 
 ![Add the "Quick Look" action to your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/add_quick_look.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  All that's left to do is give your new shortcut a name and icon at the top of the screen. Hit "Done" and save your shortcut. It will appear in the Shortcuts app alongside your other workflows.
 
 ![Give your new shortcut a name and an icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/name_shortcut.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To use your new shortcut, find a Live Photo or video and hit the "Share" button. From the list of actions that appears, choose "Make GIF" or whatever name you gave your shortcut. Wait a second and your iPhone will convert your media into GIF format. You'll then see a preview of the GIF.
 
 ![Make sure you can trigger your shortcut from the Share Sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/share_sheet.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Use the "Share" button in the bottom-left corner to save, share, AirDrop, and more. When you hit "Done" your GIF will be discarded.
@@ -158,15 +127,16 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ![Live Photo converted to GIF using Shortcuts on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/IMG_0076.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Tim Brookes / How-To Geek_
 
  The GIF above was created from a Live Photo using "Loop" with "Auto Size" enabled. We used a "Seconds per Photo" value of 0.1 seconds to achieve slightly faster motion. [Download this shortcut](https://www.icloud.com/shortcuts/2fef5aa70c9d4974a36c8405720953ee) and add it to your Shortcuts app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Capture GIFs with Your Camera using GIPHY
 
@@ -197,20 +167,22 @@ _Tim Brookes / How-To Geek_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-step-by-written-by-john-smith-phd/"><u>[Updated] 2024 Approved Step-By Written by John Smith, PhD</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-earning-potential-for-creators-in-youtube-ads/"><u>[Updated] Earning Potential for Creators in YouTube Ads?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-channel-lockdowns-device-specific-tips/"><u>[Updated] Mastering YouTube Channel Lockdowns Device-Specific Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-online-presence-yt-descriptive-insights/"><u>[Updated] Streamline Your Online Presence YT Descriptive Insights</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728473721515-mpeg/"><u>「どうやって紛失したMPEGファイルを効果的に再生する？」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-2-written-by-jake-simonson-date-march-14-2023/"><u>2024 Approved Iconic 2 Written By Jake Simonson | Date March 14, 2023</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-m14-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy M14 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-immersive-audio-visuals-with-the-huawei-mediapad-m5-an-in-depth-review/"><u>Experience Immersive Audio-Visuals with the Huawei MediaPad M5 - An In-Depth Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-wash-away-your-computers-defender-past/"><u>How to Wash Away Your Computer's Defender Past</u></a></li>
-<li><a href="https://os-tips.techidaily.com/m4-vs-m2-ipad-pro-comparison-is-an-upgrade-beneficial-for-users/"><u>M4 Vs. M2 iPad Pro Comparison: Is an Upgrade Beneficial for Users?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mark-your-calendars-apple-announces-the-scheduled-date-for-its-upcoming-iphone-15-launch/"><u>Mark Your Calendars: Apple Announces the Scheduled Date for Its Upcoming iPhone 15 Launch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-control-over-iphone-alarm-volume-settings/"><u>Mastering Control Over iPhone Alarm Volume Settings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-picture-editing-the-ultimate-technique-for-cropping-with-iphoneipad/"><u>Mastering Picture Editing: The Ultimate Technique for Cropping with iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-your-thoughts-a-comprehensive-guide-to-navigating-the-iphone-journal-app/"><u>Mastering Your Thoughts: A Comprehensive Guide to Navigating the iPhone Journal App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-ios-experience-unveiling-the-ultimate-list-of-underrated-spotlight-search-tricks/"><u>Maximize Your iOS Experience: Unveiling the Ultimate List of Underrated Spotlight Search Tricks!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] 2024 Approved Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-premier-guide-to-cost-free-video-editors/"><u>[Updated] The Premier Guide to Cost-Free Video Editors</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/7-tipps-fur-den-transfer-von-iphone-filmen-zu-einem-pc-unter-windows-10-oder-11-schritt-fur-schritt-anleitung/"><u>7 Tipps Für Den Transfer Von IPhone-Filmen Zu Einem PC Unter Windows 10 Oder 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-guide-effortless-iphone-data-transfer-from-pc-with-and-without-itunes/"><u>Expert Guide: Effortless iPhone Data Transfer From PC with and without iTunes</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-parent-controls-on-microsoft-windows-11/"><u>Guide to Parent Controls on Microsoft Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-add-music-to-powerpoint-tutorial-guide-for-2024/"><u>How to Add Music to PowerPoint? [Tutorial Guide] for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-manually-back-up-your-iphone-using-these-3-quick-and-easy-techniques/"><u>How to Manually Back Up Your iPhone Using These 3 Quick and Easy Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xs-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XS Max</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-spark-10c-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Spark 10C FRP Without Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-ios-tools-to-explore-and-manage-your-phones-sync-files/"><u>Leading iOS Tools to Explore and Manage Your Phone's Sync Files</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-iphones-important-reminders-a-step-by-step-guide-to-free-and-premium-note-backup-solutions/"><u>Protect Your iPhone's Important Reminders: A Step-by-Step Guide to Free and Premium Note-Backup Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-techniques-securely-save-all-your-iphone-app-data/"><u>Quick & Easy Techniques: Securely Save All Your iPhone App Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-the-issue-of-non-visible-icloud-backups-a-comprehensive-guide/"><u>Resolving the Issue of Non-Visible iCloud Backups: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-conversations-how-to-preserve-and-relocate-iphone-text-messages-efficiently/"><u>Secure Your Conversations: How to Preserve and Relocate iPhone Text Messages Efficiently</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-to-protect-and-backup-whatsapp-conversations-on-iphones-a-comprehveiled-approach/"><u>Simple Steps to Protect and Backup WhatsApp Conversations on iPhones – A Comprehveiled Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-free-open-source-ai-picture-makers/"><u>The Ultimate Guide to Free, Open Source AI Picture Makers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-moisture-protection-of-iphone-13-phones/"><u>Understanding the Moisture Protection of iPhone 13 Phones</u></a></li>
 </ul></div>
 

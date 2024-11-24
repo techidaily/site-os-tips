@@ -1,7 +1,7 @@
 ---
 title: How to Change Your iPhone's Default Map Application to Google Maps with Ease
-date: 2024-11-09T21:34:43.821Z
-updated: 2024-11-14T23:18:32.878Z
+date: 2024-11-19T10:51:19.198Z
+updated: 2024-11-24T01:15:29.400Z
 tags:
   - ios
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you’re an iPhone user who prefers Google Maps over Apple Maps, you might wonder how to make it the default navigation app. Unfortunately, you can’t. However, there’s a workaround you can use that takes advantage of other Google apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Do You Need a Workaround?
 
  You can’t change the default navigation app for opening map links on your iPhone, Apple makes you use Apple Maps. This isn’t surprising, considering [Apple’s ecosystem is largely closed](https://win-blog.techidaily.com/resolving-game-breaking-crashes-for-star-wars-old-republic-expert-fixes-unlocked/). If you really want to change it, you’d have to jailbreak your iPhone.
@@ -45,23 +49,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The the "Chrome" option in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-chrome-option-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Chrome settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chrome-settings-page-iphone.PNG) 
 
 ![Setting the default browser to Chrome in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-chrome-default-browser-iphone.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close 
 
@@ -76,13 +66,14 @@ Close
 ![The "Gmail" option in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-gmail-option-iphone.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Gmail settings page in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-settings-page-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Setting the default mail app to Gmail in the Settings app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-default-mail-app-iphone.PNG) 
 
@@ -93,10 +84,7 @@ Close
 ![Tapping the hamburger menu in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gmail-inbox-iphone.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting the "Settings" option in the Gmail app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-option-gmail-iphone.PNG) 
@@ -107,14 +95,11 @@ Close
 
 ![The "Default App" option in Gmail's settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/default-apps-option-gmail-iphone.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Setting Google Maps as the default navigation app in Gmail on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setting-google-maps-default-gmail-iphone.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -139,22 +124,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-customization-seamlessly-embedding-text-and-links-in-youtube-videos/"><u>[New] Mastering Customization Seamlessly Embedding Text & Links in Youtube Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tactics-to-triumph-secrets-of-successful-social-media-videos/"><u>[New] Tactics to Triumph Secrets of Successful Social Media Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-boost-your-snapchat-speed-a-basic-beginners-guide/"><u>[Updated] Boost Your Snapchat Speed A Basic Beginner's Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-clearer-views-the-top-10-online-photo-fixes/"><u>[Updated] Clearer Views The Top 10 Online Photo Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-free-online-services-to-send-and-receive-text-messages-without-needing-a-phone/"><u>Best Free Online Services to Send and Receive Text Messages Without Needing a Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-on-activatingdeactivating-the-lock-feature-on-samsung-galaxy-devices/"><u>Complete Tutorial on Activating/Deactivating the Lock Feature on Samsung Galaxy Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-ultimate-guide-to-playing-among-us-in-202-using-pc-free-trials-and-paid-options-explained/"><u>Comprehensive Ultimate Guide to Playing Among Us in 202# Using PC - Free Trials & Paid Options Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/conveniently-view-and-manage-login-information-samsungs-advanced-password-protection-tool/"><u>Conveniently View and Manage Login Information: Samsung's Advanced Password Protection Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-selection-of-app-runners-the-top-7-solutions-for-using-mobile-apps-on-pc/"><u>Discover the Ultimate Selection of App Runners: The Top 7 Solutions for Using Mobile Apps on PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-mobile-alerts-how-to-design-and-set-up-unique-phone-tones-for-ios-and-android-phones/"><u>DIY Mobile Alerts: How to Design and Set Up Unique Phone Tones for iOS & Android Phones</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/inceleme-kolay-cok-gozeller-movavi-yerlestirici-yazilimi-duzenle/"><u>İnceleme Kolay: Çok Gözeller | Movavi Yerleştirici Yazılımı - Düzenle</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/keep-your-tweets-compliant-with-aspect-ratio-requirements-for-2024/"><u>Keep Your Tweets Compliant with Aspect Ratio Requirements for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-close-up-filmmaking-tips-for-a-standout-videography-career/"><u>Mastering Close-Up Filmmaking Tips for a Standout Videography Career</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-the-top-10-best-video-editor-apps-for-your-android-devices-and-enjoy-editing-home-movies-for-2024/"><u>New Get the Top 10 Best Video Editor Apps for Your Android Devices and Enjoy Editing Home Movies for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-creating-personalized-ringtones-on-iphone-and-android-devices/"><u>Step-by-Step Guide: Creating Personalized Ringtones on iPhone & Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-for-seamlessly-projecting-your-galaxy-screen-using-allshare-cast-technology/"><u>Step-by-Step Tutorial for Seamlessly Projecting Your Galaxy Screen Using AllShare Cast Technology</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-check-what-youve-liked-on-facebook-lately/"><u>[Updated] How To Check What You've Liked on Facebook Lately</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastery-in-monitoring-adding-time-based-events-to-obs-for-2024/"><u>[Updated] Mastery in Monitoring Adding Time-Based Events to OBS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-maximize-engagement-auto-resized-videos-from-mac-for-instagram-for-2024/"><u>[Updated] Maximize Engagement Auto-Resized Videos From Mac for Instagram for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-watch-series-6-assessment-incremental-improvements-maintain-its-top-ranking/"><u>Apple Watch Series 6 Assessment: Incremental Improvements Maintain Its Top Ranking</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-barriers-how-the-iphone-is-expanding-globally-while-maintaining-its-presence-in-the-us/"><u>Breaking Barriers: How the iPhone Is Expanding Globally While Maintaining Its Presence in the U.S.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/choosing-between-mid-tier-android-and-aged-iphone-models-why-opting-for-the-iphone-could-be-wiser/"><u>Choosing Between Mid-Tier Android and Aged iPhone Models: Why Opting for the iPhone Could Be Wiser</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-apples-nomad-base-one-max-the-ultimate-3-in-1-magsafe-charging-solution-review/"><u>Comprehensive Analysis of Apple's Nomad Base One Max: The Ultimate 3-in-1 MagSafe Charging Solution Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-security-update-available-for-iphone-ipad-and-mac-install-now-to-protect-your-device/"><u>Critical Security Update Available for iPhone, iPad, and Mac - Install Now to Protect Your Device!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-to-access-the-apple-watchs-body-heat-sensor-for-health-monitoring/"><u>Discover How to Access the Apple Watch's Body Heat Sensor for Health Monitoring</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-most-effective-iphone-email-management-applications-a-ranking-of-the-top-5-picks/"><u>Discover the Most Effective iPhone Email Management Applications: A Ranking of the Top 5 Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-guide-extracting-text-from-your-iphoneipadmac-with-ease/"><u>Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-to-properly-disinfecting-your-airpods-protect-your-health-with-expert-tips/"><u>Essential Guide to Properly Disinfecting Your AirPods – Protect Your Health with Expert Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/harmonizing-soundscape-a-comprehensive-guide-to-eq-adjustments/"><u>Harmonizing Soundscape A Comprehensive Guide to EQ Adjustments</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-loongson-powered-dtx-boards-and-pcs-in-the-us-market-for-only-373-begin-your-high-performance-journey-today/"><u>Introducing Loongson Powered DTX Boards and PCs in the US Market for Only $373, Begin Your High-Performance Journey Today!</u></a></li>
 </ul></div>
 

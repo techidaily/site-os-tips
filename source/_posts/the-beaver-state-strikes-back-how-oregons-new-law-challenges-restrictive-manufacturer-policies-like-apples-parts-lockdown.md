@@ -1,7 +1,7 @@
 ---
 title: "The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown"
-date: 2024-11-08T16:48:06.607Z
-updated: 2024-11-13T19:22:48.944Z
+date: 2024-11-18T22:07:56.913Z
+updated: 2024-11-24T05:06:11.412Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ---
 
 ## The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  UPDATE: 2024/03/28 10:41 EST BY CORBIN DAVENPORT
 
@@ -52,28 +56,22 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rand-selection-of-incredibly-affordable-footage-for-2024/"><u>[New] Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-7-premier-android-apps-to-banish-ads/"><u>[New] In 2024, Discover 7 Premier Android Apps to Banish Ads</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-navigating-the-path-to-viewable-reach-responsibly/"><u>[Updated] 2024 Approved Navigating the Path to Viewable Reach Responsibly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-headset-face-off-rift-vive-and-playstations-vr-standards/"><u>[Updated] Headset Face-Off Rift, Vive & PlayStation's VR Standards</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-for-monitoring-sleep-quality-with-your-apple-watch/"><u>Effective Strategies for Monitoring Sleep Quality with Your Apple Watch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-mobile-photography-why-upgrading-your-phones-camera-is-a-must/"><u>Elevate Your Mobile Photography: Why Upgrading Your Phone's Camera Is a Must</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-mental-health-through-iphone-monitoring-techniques/"><u>Enhancing Mental Health Through iPhone Monitoring Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-the-pro-lineup-the-case-for-colorful-innovations-at-apple/"><u>Enhancing the Pro Lineup: The Case for Colorful Innovations at Apple</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-techniques-enhancing-your-iphones-video-production-quality-with-these-10-strategies/"><u>Expert Techniques: Enhancing Your iPhone's Video Production Quality with These 10 Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-lifespan-of-eco-friendly-tech-our-compostable-iphone-cases-journey-over-half-a-year/"><u>Exploring the Lifespan of Eco-Friendly Tech: Our Compostable iPhone Case's Journey Over Half a Year</u></a></li>
-<li><a href="https://fox-info.techidaily.com/from-raw-footage-to-final-product-using-windows-10-for-editing-success/"><u>From Raw Footage to Final Product Using Windows 10 for Editing Success</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-belkins-magsafe-compatible-iphone-holder-today-special-price-just-23/"><u>Get Your Belkin's MagSafe-Compatible iPhone Holder Today - Special Price: Just $23!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-play-40c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor Play 40C Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oppo-find-n3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Oppo Find N3</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-seamlessly-switch-from-mp4-to-swf-comprehensive-guide-for-quick-onlineoffline-conversions/"><u>How to Seamlessly Switch From MP4 to SWF: Comprehensive Guide for Quick Online/Offline Conversions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/skillful-use-of-skypes-screen-share-capabilities-in-telecommuting/"><u>Skillful Use of Skype's Screen Share Capabilities in Telecommuting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-contents-reach-in-youtube-shorts-formats/"><u>[New] 2024 Approved Elevate Your Content's Reach in YouTube Shorts Formats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] In 2024, Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-hidden-world-of-hand-tracking/"><u>[New] Unveiling the Hidden World of Hand Tracking</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-screen-record-on-xiaomi-11t-mi-11mi-11-lite/"><u>[Updated] 2024 Approved How to Screen Record on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-iosandroid-techniques-extracting-twitters-gifs/"><u>[Updated] IOS/Android Techniques Extracting Twitter's GIFs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-phantasm-captures-action-tech-diary-for-2024/"><u>[Updated] Phantasm Captures Action Tech Diary for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eliminating-persistent-thread-stickers-on-insta-concealment-tips-and-tricks/"><u>Eliminating Persistent Thread Stickers on Insta: Concealment Tips & Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-hotspot-connection-failures-on-ios-devices-iphone-181716-top-causes-and-remedies/"><u>Fixing Hotspot Connection Failures on iOS Devices (iPhone 18/17/16): Top Causes and Remedies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-creating-stunning-time-lapse-videos-with-your-iphone/"><u>Guide: Creating Stunning Time-Lapse Videos with Your iPhone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-note-13-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi Note 13 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigating-through-ipad-recovery-mode-step-by-step-process-for-activation-and-deactivation/"><u>Navigating Through iPad Recovery Mode: Step-by-Step Process for Activation & Deactivation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-lost-icloud-and-local-contacts-on-your-iphone-restore-whats-gone/"><u>Solutions for Lost iCloud and Local Contacts on Your iPhone: Restore What's Gone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-high-cpu-error-linked-to-runtime-broker-in-windows-11-systems/"><u>Step-by-Step Fix for High CPU Error Linked to Runtime Broker in Windows 11 Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-an-iphone-that-forgot-its-password/"><u>Step-by-Step Instructions for Resetting an iPhone That Forgot Its Password</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-voice-memos-and-mic-functionality/"><u>Troubleshooting Tips: Resolving Issues with Voice Memos and Mic Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-connection-failures-why-cant-my-airplay-stream-to-apple-tv/"><u>Understanding Connection Failures: Why Can't My AirPlay Stream to Apple TV?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

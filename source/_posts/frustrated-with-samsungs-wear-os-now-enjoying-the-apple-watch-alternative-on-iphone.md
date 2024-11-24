@@ -1,7 +1,7 @@
 ---
 title: Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
-date: 2024-11-13T22:45:12.380Z
-updated: 2024-11-14T17:24:29.095Z
+date: 2024-11-17T19:08:17.420Z
+updated: 2024-11-23T21:05:20.337Z
 tags:
   - ios
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For all its faults, Apple's closed ecosystem also has its advantages — especially when it comes to the Apple Watch. When the closest competition is the Android-based WearOS, it's not hard to convince someone to jump to iOS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ditching WearOS For watchOS
 
  I am a data nerd. I like looking at data, finding trends, and seeing progress, and that extends to my health and fitness. I tried out smartwatches and fitness trackers over the years, but the combination of working from home (I no longer needed notifications since my phone is always available) and the sometimes spotty tracking inherent to WearOS meant that I'd eventually abandon them.
@@ -33,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  But I always liked the Apple Watch. While expensive, the aesthetics and features are unparalleled. My problem was that I've always been an Android person, and the Apple Watch only works with the iPhone.
 
 ![An Apple Watch Series 8 recording a Traditional Strength Training exercise using the Workout app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52559368560_69e3affd15_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -54,6 +51,10 @@ Joe Fedewa / How-To Geek
 
 ![Apple Watch Series 8 showing the 'Activity' watch face.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple_watch_s8_activity.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  The Apple Watch even works with Apple's Fitness+ app, allowing me to see my heart rate and more important information in real-time while I work out, allowing me to ramp up or slow down as needed. In short, I could get a similar experience on Android with a lot more tinkering, but Apple makes it so easy without all of the added hassle.
@@ -65,10 +66,7 @@ Tim Brookes / How-To Geek
 ![Lock screen on the Google Pixel 7a display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/google-pixel-android-lock-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -78,16 +76,7 @@ Justin Duino / How-To Geek
  Had I been able to sync my iPad with my Apple Watch, I wouldn't even have picked up an iPhone in the first place. This is frustrating when iPadOS already supports the Health and Fitness+ apps but doesn't satisfy the Apple Watch criteria for pairing.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It Was Worth The Effort...
@@ -97,10 +86,7 @@ Justin Duino / How-To Geek
 ![apple watch and iphone fitness+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/3cfb127b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You need an Apple Watch to use Fitness+. The stats tracked by the Watch get shown on your iPhone screen. 
@@ -132,20 +118,22 @@ You need an Apple Watch to use Fitness+. The stats tracked by the Watch get show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-bypass-spotifys-predicted-podcast-selections/"><u>[New] Bypass Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/riving-traffic-to-long-form-videos-via-shorts-for-2024/"><u>[New] Driving Traffic to Long-Form Videos via Shorts for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ditcanvas-solutions/"><u>[New] EditCanvas Solutions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-questing-quests-the-best-terrafirma-maps/"><u>[New] In 2024, Questing Quests The Best Terrafirma Maps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-prime-video-picks-the-extreme-favorites/"><u>[New] Prime Video Picks The Extreme Favorites</u></a></li>
-<li><a href="https://os-tips.techidaily.com/5-simple-methods-to-set-any-song-from-google-play-as-a-custom-ringtone-on-android-devices/"><u>5 Simple Methods to Set Any Song From Google Play as a Custom Ringtone on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-these-free-ios-simulation-apps-on-android-today-top-picks/"><u>Download These Free iOS Simulation Apps on Android Today – Top Picks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oneplus-nord-ce-3-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide OnePlus Nord CE 3 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://fox-info.techidaily.com/masterclass-in-image-cleanup-remove-unwanted-surroundings/"><u>Masterclass in Image Cleanup Remove Unwanted Surroundings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-your-lost-samsung-account-credentials-and-regaining-android-file-access/"><u>Recovering Your Lost Samsung Account Credentials and Regaining Android File Access</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-battery-not-recognized-with-easy-troubleshooting-steps/"><u>Solve 'Battery Not Recognized' With Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-7-powerful-emulators-to-install-android-and-ios-applications-on-your-windows-or-mac/"><u>Top 7 Powerful Emulators to Install Android and iOS Applications on Your Windows or Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-methods-for-running-android-applications-on-your-desktop-no-root-required/"><u>Top Methods for Running Android Applications on Your Desktop: No Root Required</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-install-and-use-android-apps-on-pcs-without-device-root-access/"><u>Ultimate Guide to Install and Use Android Apps on PCs without Device Root Access</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-leap-forward-in-exposure-management-and-composition/"><u>[New] A Leap Forward in Exposure Management and Composition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-problematic-youtube-shorts-thumbnails-display/"><u>[Updated] In 2024, Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs-for-2024/"><u>[Updated] The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-travel-youtube-channels-you-may-want-to-follow-for-2024/"><u>10 Best Travel Youtube Channels You May Want to Follow for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-perform-a-password-free-factory-reset-on-your-acer-laptop-with-windows-10/"><u>How to Perform a Password-Free Factory Reset on Your Acer Laptop with Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphone-video-import-guide-for-iphone-14promax-no-itunes-required/"><u>IPhone Video Import Guide for iPhone 14/Pro/Max: No iTunes Required!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcoming-iphone-lens-focus-discrepancies/"><u>Overcoming iPhone Lens Focus Discrepancies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/review-infinacore-t3-the-ultimate-portable-wireless-charger-and-multi-device-hub-with-ergonomic-adaptability/"><u>Review: Infinacore T3 - The Ultimate Portable Wireless Charger and Multi-Device Hub with Ergonomic Adaptability</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-mobile-browsing-google-chromes-latest-update-adds-bottom-address-bar-to-iphones/"><u>Revolutionizing Mobile Browsing: Google Chrome's Latest Update Adds Bottom Address Bar to iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/save-money-with-smart-locks-ditch-the-high-prices-of-locksmith-visits/"><u>Save Money with Smart Locks - Ditch the High Prices of Locksmith Visits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-mystery-of-your-iphones-decreasing-volume-easy-troubleshooting-guide/"><u>Solving the Mystery of Your iPhone's Decreasing Volume - Easy Troubleshooting Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-configuring-imessage-timers-and-reminders/"><u>Step-by-Step Tutorial: Configuring iMessage Timers & Reminders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/test-your-apple-ai-newly-released-smart-technology/"><u>Test Your Apple AI: Newly Released Smart Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-complete-guide-to-mood-tracking-on-apple-health-platform/"><u>The Complete Guide to Mood Tracking on Apple Health Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-creating-and-sharing-playlists-with-friends-on-apple-music/"><u>The Ultimate Tutorial: Creating and Sharing Playlists with Friends on Apple Music</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-defenders-error-0x80004004/"><u>Troubleshooting Defender's Error 0X80004004</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-inside-a-new-nintendo-switch-console-kit/"><u>What's Inside a New Nintendo Switch Console Kit?</u></a></li>
 </ul></div>
 

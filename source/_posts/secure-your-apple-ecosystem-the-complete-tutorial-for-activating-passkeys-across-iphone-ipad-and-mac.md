@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac"
-date: 2024-11-10T20:12:38.235Z
-updated: 2024-11-14T16:06:59.864Z
+date: 2024-11-20T17:29:53.522Z
+updated: 2024-11-23T19:57:02.995Z
 tags:
   - ios
 categories:
@@ -36,16 +36,7 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
  When you log into your account, the website requests to see the private key on your device and checks if it works with the public keys. You authenticate the request using your screen lock method—[Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/), [Touch ID](https://facebook-video-recording.techidaily.com/from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies-for-2024/), or a passcode—and as soon as you do that, you're get signed in to your account. So what used to require entering a username, password, and two-factor authentication code gets reduced to the simple act of unlocking your device.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Apps and Websites Support Passkeys?
@@ -63,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 * Make sure passkeys are supported by your browser. If you're using Safari or Chrome, you're golden.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Enable Passkeys
@@ -79,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![AutoFill Passwords and Passkeys toggle turned on and iCloud Keychain enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/iphone-password-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  How to Create a Passkey
 
  The steps to create a passkey vary from service to service, but generally speaking, you'll need to find the passkey option in your account settings for the said app or service. Then just follow the on-screen instructions.
@@ -97,32 +78,30 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 ![Google Account dashboard with the Security tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone7-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under the "How You Sign In to Google" header, locate "Passkeys" and tap it. You might be asked to enter your account password to verify your identity here.
 
 ![Passkeys option highlighted under the Security tab in Google Account settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone8-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To generate a new passkey, tap the "Create a Passkey**"** button located at the bottom. Then tap "Continue" to proceed.
 
 ![A button for creating a new passkey highlighted in Google Account dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone9-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the next screen, you'll be prompted to save the passkey to iCloud Keychain. Tap "Continue" to authenticate yourself using Face ID or Touch ID. If you haven't set up a biometric option, enter your passcode.
 
 ![iOS displaying a prompt to save a new passkey to iCloud Kitchen with the 'Continue' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone-10.png) 
 
  That's it! You've successfully created and saved a passkey for your Google Account on your Apple device. You can now log in to your Google Account by simply using facial recognition, fingerprint recognition, or your passcode. You can also safely [share your passkeys with your friends and family](https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-a60s-phone-withwithout-imei-number-by-drfone-android/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Sign In to Your Accounts with Passkeys
 
@@ -136,16 +115,13 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Google Account additional log in options with passkey option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap "Continue." Depending on which unlock method you've set up on your device, you'll be asked to authenticate yourself with Face ID, Touch ID, or your passcode. After doing so, you'll be automatically logged into your account.
 
 ![iOS prompt asking the user if they want to sign in to their Google account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How to Use Passkeys on a Different Device
 
@@ -164,10 +140,7 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 ![A QR code to sign in with passkey from another iPhone, iPad or Android device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-3-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, open the camera app on your iPhone or iPad and simply point it to the QR code. (Don't click the shutter button.) Then tap the "Sign In with a Passkey" button that pops up on the screen. Make sure Bluetooth is enabled on both devices and they're close to each other. 
@@ -175,10 +148,7 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 ![iPhone camera app scanning a QR code with the Sign in with a passkey button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-qr-code-scanning.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap "Continue" to authenticate yourself with Face ID, Touch ID, or your passcode to complete the sign-in process.
@@ -208,17 +178,16 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-educational-evolution-via-virtual-reality-for-2024/"><u>[New] Educational Evolution via Virtual Reality for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-instagram-reel-playbook-for-2024/"><u>[New] The Ultimate Instagram Reel Playbook for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-combining-chords-and-clips-the-ultimate-fb-video-soundtrack/"><u>[Updated] 2024 Approved Combining Chords and Clips The Ultimate FB Video Soundtrack</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-downloading-all-members-of-your-whatsapp-group-chat/"><u>A Comprehensive Guide to Downloading All Members of Your WhatsApp Group Chat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-synchronized-recording-sound-plus-screen-max-156/"><u>Comprehensive Guide to Synchronized Recording: Sound + Screen (Max 156)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-wellbeing-strategic-health-planning-with-gpt/"><u>Optimize Wellbeing: Strategic Health Planning with GPT</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-iphones-essential-information-learn-how-to-backup-with-itunes/"><u>Secure Your iPhone's Essential Information: Learn How to Backup with iTunes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-thoughts-comparing-the-best-free-vs-paid-methods-for-backing-up-notes-on-an-iphone/"><u>Secure Your Thoughts: Comparing the Best Free vs Paid Methods for Backing Up Notes on an iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-guide-to-saving-your-sms-conversations-with-secure-text-message-backups/"><u>Simple Guide to Saving Your SMS Conversations with Secure Text Message Backups</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/talking-audio-log-audit-for-2024/"><u>Talking Audio Log Audit for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-manual-for-removing-all-itunes-backups-across-your-computer-and-icloud-accounts/"><u>Ultimate Manual for Removing All iTunes Backups Across Your Computer and iCloud Accounts</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-elevate-your-audio-a-step-by-step-guide-to-finding-and-integrating-free-sound-effects-in-final-cut-pro/"><u>Updated Elevate Your Audio A Step-by-Step Guide to Finding and Integrating Free Sound Effects in Final Cut Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/erfecting-yt-thumbnails-with-aspect-ratios/"><u>[New] Perfecting YT Thumbnails with Aspect Ratios</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-time-allocation-mastery-work-and-youtube-synergy/"><u>[Updated] In 2024, Time Allocation Mastery Work & YouTube Synergy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-your-iphones-ios-journey-tips-for-personalizing-the-home-and-lock-screen-settings/"><u>Enhancing Your iPhone's iOS Journey: Tips for Personalizing the Home and Lock Screen Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-iphones-inability-to-connect-to-5g-networks-a-comprehensive-guide/"><u>Fixing iPhone's Inability to Connect to 5G Networks: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-extract-written-content-from-images-using-your-phone-or-desktop/"><u>How to Effortlessly Extract Written Content From Images Using Your Phone or Desktop</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-zoom-on-apple-tv-with-airplay-a-step-by-step-guide-for-seamless-video-conferencing/"><u>How To Fix Zoom on Apple TV with AirPlay: A Step-By-Step Guide for Seamless Video Conferencing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secure-practices-for-storing-video-conversations/"><u>Secure Practices for Storing Video Conversations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-for-casting-your-iphone-display-on-a-tv-screen-even-without-using-apples-device/"><u>Simple Steps for Casting Your iPhone Display on a TV Screen, Even Without Using Apple's Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-lava-blaze-2-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Lava Blaze 2 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

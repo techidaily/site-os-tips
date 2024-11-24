@@ -1,7 +1,7 @@
 ---
 title: "Issues with Apple Card & Apple Pay: A Comprehensive Look"
-date: 2024-11-09T19:00:59.085Z
-updated: 2024-11-14T19:19:02.885Z
+date: 2024-11-23T05:35:53.613Z
+updated: 2024-11-23T21:32:54.690Z
 tags:
   - ios
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 * **_Outage Resolved_**
 
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
 
@@ -50,23 +54,16 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-pinnacle-enterprise-data-vaulting/"><u>[New] 2024 Approved Pinnacle Enterprise Data Vaulting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-the-purpose-behind-facebooks-blue-emoji-for-2024/"><u>[Updated] Unveiling the Purpose Behind Facebook's Blue Emoji for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-xs-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone XS Max Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-rooting-on-android-a-comprehensive-tutorial-using-kingo-root-software/"><u>Mastering Rooting on Android: A Comprehensive Tutorial Using Kingo Root Software</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-emergency-bootstraps-the-ultimate-tutorial-on-operating-android-devices-in-safe-mode/"><u>Navigating Emergency Bootstraps: The Ultimate Tutorial on Operating Android Devices in Safe Mode</u></a></li>
-<li><a href="https://os-tips.techidaily.com/repair-guide-how-to-mend-a-damaged-smartphone-display/"><u>Repair Guide: How to Mend a Damaged Smartphone Display</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-effortlessly-unlocking-your-android-device-with-a-quick-jailbreak/"><u>Simple Steps: Effortlessly Unlocking Your Android Device with a Quick Jailbreak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-app-installation-issues/"><u>Simple Troubleshooting Steps to Resolve App Installation Issues</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/stepwise-approach-for-professional-screen-recordings-in-adobe-captive-for-2024/"><u>Stepwise Approach for Professional Screen Recordings in Adobe Captive for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-rpc-server-not-found-errors-in-microsoft-windows-systems/"><u>Troubleshooting RPC Server Not Found Errors in Microsoft Windows Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-ps3-gameplay-screencasts/"><u>[New] 2024 Approved Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-hitting-your-targets-with-these-8-social-media-planners/"><u>[New] 2024 Approved Hitting Your Targets with These 8 Social Media Planners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-photo-border-elimination/"><u>[Updated] 2024 Approved Mastering the Art of Photo Border Elimination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide-for-2024/"><u>Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hdr-editing-essentials-for-pc-users-for-2024/"><u>HDR Editing Essentials for PC Users for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-essential-tips-for-maintaining-optimal-mobile-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Mobile Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-9-lifesaving-features-of-the-apple-watch-enhancing-personal-safety/"><u>Top 9 Lifesaving Features of the Apple Watch: Enhancing Personal Safety</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-iphone-into-a-windows-like-device-effortlessly/"><u>Transform Your iPhone Into a Windows-Like Device Effortlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-an-overheated-iphone-identifying-the-reasons-and-implementing-solutions/"><u>Troubleshooting an Overheated iPhone: Identifying the Reasons & Implementing Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-stuck-ios-updates-on-iphone-a-guide-with-11-effective-fixes/"><u>Troubleshooting Stuck iOS Updates on iPhone: A Guide with 11 Effective Fixes</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

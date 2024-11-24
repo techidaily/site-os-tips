@@ -1,7 +1,7 @@
 ---
 title: "Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone"
-date: 2024-11-13T20:08:56.183Z
-updated: 2024-11-14T16:18:45.756Z
+date: 2024-11-22T19:55:29.851Z
+updated: 2024-11-24T08:53:51.480Z
 tags:
   - ios
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 * [Play a Video in iPhone's Photos App in a Loop](https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-t2x-5g-by-drfone-android/)
 * [Make a YouTube Video Play in a Loop on iPhone](https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,22 +38,12 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select the share icon in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/1-iphone-video-share-menu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the share menu, select "Slideshow."
 
 ![Choose "Slideshow" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-make-slideshow-iphone.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Photos will play your video as a slideshow, but this slideshow has a specific theme, background music, and only plays once (not on loop). To change these settings, in the slideshow's bottom-right corner, tap "Options."
@@ -57,28 +51,12 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Select "Options" at the lower-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/3-iphone-slideshow-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the "Slideshow Options" page, tap "Theme."
 
 ![Select "Theme."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-iphone-slideshow-theme.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the "Themes" screen, choose a simple theme so you can focus on your video. "Origami" is a good option. Then, in the top-left corner, tap "Back."
 
@@ -88,9 +66,17 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select "Music" and tap "None."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-disable-iphone-slideshow-music.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Put your video in a loop by enabling the "Repeat" option. Then, in the top-right corner, tap "Done" to save your changes.
 
 ![Enable "Repeat" and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-loop-iphone-slideshow.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Photos will take you back to your video screen. Here, your video will play in a loop until you manually close it.
 
@@ -127,19 +113,24 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-online.techidaily.com/1-how-safe-is-your-data-during-an-iphone-factory-reset-complete-wipe-or-partial-cleanup/"><u>1. How Safe Is Your Data During an iPhone Factory Reset: Complete Wipe or Partial Cleanup?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-the-science-of-color-grading-via-3d-lut-in-ps/"><u>2024 Approved Breaking Down the Science of Color Grading via 3D LUT in PS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-macos-safari-video-conversion-apps/"><u>2024 Approved Top 5 macOS Safari Video Conversion Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-7-fixes-for-resolving-weak-or-lost-cellular-connection-on-your-iphone/"><u>Best 7 Fixes for Resolving Weak or Lost Cellular Connection on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-to-correct-iphone-connection-problems-with-your-apple-id/"><u>Easy Steps to Correct iPhone Connection Problems with Your Apple ID</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-benefits-of-mechanical-keyboards-are-they-right-for-apple-enthusiasts/"><u>Exploring the Benefits of Mechanical Keyboards: Are They Right for Apple Enthusiasts?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-your-application-a-complete-guide-to-addressing-the-libgdkwin32-20dll-missing-error/"><u>Fixing Your Application: A Complete Guide to Addressing the libgdk_win32-2.0.dll Missing Error</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-8-vr-equipment-companion-guide/"><u>In 2024, Unmatched 8 VR Equipment Companion Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/restoring-obs-full-screen-display/"><u>Restoring OBS Full Screen Display</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-tricks-to-restore-your-iphones-unresponsive-home-button/"><u>Simple Tricks to Restore Your iPhone's Unresponsive Home Button</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-8-effective-solutions-for-resolving-imessage-activation-issues/"><u>Top 8 Effective Solutions for Resolving iMessage Activation Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-faqs-understanding-how-your-iphone-handles-voice-messages/"><u>Top FAQs: Understanding How Your iPhone Handles Voice Messages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-wi-fi-issues-fixing-connectivity-problems-on-your-iphone/"><u>Troubleshooting Wi-Fi Issues: Fixing Connectivity Problems on Your iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/video-mastery-share-stunning-images-on-youtube-efficiently/"><u>Video Mastery Share Stunning Images on YouTube Efficiently</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>[New] 2024 Approved The Right to Appeal Steps Following Abrupt Video Content Suspension</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-tips-on-podcast-titling-and-a-collection-of-over-50-engaging-names/"><u>[New] Pro Tips on Podcast Titling & A Collection of Over 50 Engaging Names</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-novices-guide-to-vectors-insight-into-types-and-software-choices/"><u>[Updated] Novice's Guide to Vectors Insight Into Types & Software Choices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-gopro-evolution-a-step-by-step-comparison-tutorial/"><u>2024 Approved Gopro Evolution A Step-by-Step Comparison Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-and-conquer-easy-tips-for-linking-your-logitech-mouse-to-pclaptop/"><u>Connect and Conquer: Easy Tips for Linking Your Logitech Mouse to PC/Laptop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-amazon-halo-a-deep-dive-into-personal-health-and-fitness-monitoring/"><u>Discover Amazon Halo: A Deep Dive Into Personal Health and Fitness Monitoring</u></a></li>
+<li><a href="https://os-tips.techidaily.com/double-tap-feature-added-to-apple-watch-series/"><u>Double Tap Feature Added to Apple Watch Series</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-altstore-pal-version-completely-gratis-exclusive-offer-for-european-audiences/"><u>Download AltStore PAL Version Completely Gratis: Exclusive Offer for European Audiences</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-to-prevent-auto-lock-on-your-iphone-display/"><u>Effective Techniques to Prevent Auto-Lock on Your iPhone Display</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-next-level-nintendo-ds-gaming-on-your-ipad-with-our-newly-released-screen-controlled-emulator-feature/"><u>Experience Next-Level Nintendo DS Gaming on Your iPad with Our Newly Released Screen-Controlled Emulator Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-strategies-for-enhancing-productivity-with-apple-mail-on-ios-devices/"><u>Expert Strategies for Enhancing Productivity with Apple Mail on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-cons-critical-weaknesses-in-apples-latest-vision-pro-worth-considering/"><u>Exploring the Cons: Critical Weaknesses in Apple's Latest Vision Pro Worth Considering</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-contact-sheets-soon-available-on-ios-devices/"><u>Get Ready: Contact Sheets Soon Available on iOS Devices!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/has-my-contact-blocked-me-understanding-imessage-communication-silence-cues/"><u>Has My Contact Blocked Me? Understanding iMessage Communication Silence Cues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>In 2024, Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-mophie-juice-pack-evaluation-for-iphone-14-pro-max-boosting-battery-life-with-trade-offs/"><u>In-Depth Mophie Juice Pack Evaluation for iPhone 14 Pro Max: Boosting Battery Life with Trade-Offs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-your-way-through-youtube-tvs-unique-offerings-for-2024/"><u>Navigating Your Way Through YouTube TV's Unique Offerings for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequential-viewing-guide-the-ultimate-way-to-experience-all-transformers-films/"><u>Sequential Viewing Guide: The Ultimate Way to Experience All Transformers Films</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-c12-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia C12 Pro without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

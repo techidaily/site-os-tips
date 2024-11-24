@@ -1,7 +1,7 @@
 ---
 title: "Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide"
-date: 2024-11-07T16:55:56.654Z
-updated: 2024-11-13T18:50:55.281Z
+date: 2024-11-21T23:42:32.181Z
+updated: 2024-11-23T17:29:31.864Z
 tags:
   - ios
 categories:
@@ -11,16 +11,17 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ## Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How Does Back Tap Work on iPhones?](https://facebook-clips.techidaily.com/new-mastery-over-buffering-in-vimeo-streams-revised-tips-for-2024/)
 * [Turn Your iPhone's Flashlight on with Back Tap](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 * To activate Back Tap and set it up for the flashlight, go to Settings, navigate to Accessibility > Touch, select "Back Tap," choose the number of taps (two or three), and select the Flashlight option in the actions list.
 
  Tired of fumbling around in the dark? With [iOS 14](https://facebook-video-content.techidaily.com/new-2024-approved-what-is-blue-video-icon-on-facebook-messenger/) or later on an iPhone 8 or newer, you can quickly turn on and off [your flashlight](https://fox-hovers.techidaily.com/new-a-comprehensible-approach-to-masterful-gopro-studio-edits/) with two or three taps on the back of your iPhone using a feature called [Back Tap](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/). Here's how to set it up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Does Back Tap Work on iPhones?
 
@@ -52,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-to-open-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Settings, navigate to Accessibility > Touch.
 
 ![Scroll to the "Physical and Motor" section, then tap "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-touch-in-physical-and-motor.png) 
@@ -60,31 +58,25 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![Back Tap is located at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-back-tap.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In "Back Tap" settings, choose whether you'd like to activate your flashlight using two taps ("Double Tap") or three taps ("Triple Tap") on the back of your phone, then select the matching option.
 
 ![Select "Double Tap" or "Triple Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-double-or-triple-tap.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, scroll down through the actions list until you see the Flashlight option. A blue checkmark will appear next to it once it is active.
 
 ![Select "Flashlight" in the tap menu. A blue check appears next to it when it is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/double-tap-flashlight-enabled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Press back once to make sure the change is registered, then exit Settings.
 
 ![Double Tap now displays "Flashlight."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/double-tap-flashlight-is-actually-on.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The next time you double or triple tap the back of your iPhone (depending on how you set it up), your iPhone flashlight will turn on. Tap the back two or three times again to turn it off. Have fun illuminating dark spaces!
 
@@ -103,21 +95,18 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-bypassing-detection-for-instagram-story-insights-pcandroidios-for-2024/"><u>[New] Bypassing Detection for Instagram Story Insights - PC/Android/iOS for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-pixlr-upgrades-for-enhanced-results/"><u>[New] Essential Pixlr Upgrades for Enhanced Results</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-obs-studio-guide-to-facebook-live-broadcasts/"><u>[Updated] 2024 Approved The Ultimate OBS Studio Guide to Facebook Live Broadcasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-pc-tips-with-toms-technology-guidance/"><u>Discover Top-Notch PC Tips with Tom’s Technology Guidance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-strategies-for-taking-screenshots-of-dvd-content-online/"><u>Effortless Strategies for Taking Screenshots of DVD Content Online</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-often-should-you-charge-your-airtags-duration-of-use-explored/"><u>How Often Should You Charge Your AirTags? Duration of Use Explored</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-issues-with-receiving-texts-from-iphones/"><u>How to Troubleshoot Issues with Receiving Texts From iPhones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-m477-printer-driver-installation-the-ultimate-guide-to-download-and-setup/"><u>HP M477 Printer Driver Installation: The Ultimate Guide to Download and Setup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/identifying-a-refurbished-iphone-a-step-by-step-guide/"><u>Identifying a Refurbished iPhone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-v30t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme V30T to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-it-worth-investing-in-an-apple-pencil-when-you-purchase-an-ipad/"><u>Is It Worth Investing in an Apple Pencil When You Purchase an iPad?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/measuring-daily-movement-with-just-your-smartphone-tips-for-iphone-and-android-users/"><u>Measuring Daily Movement with Just Your Smartphone - Tips for iPhone and Android Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/meet-the-new-nomad-mini-tracker-your-personal-battery-powered-location-finder-on-a-credit-card/"><u>Meet the New Nomad Mini Tracker: Your Personal, Battery-Powered Location Finder on a Credit Card!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigate-without-worry-apples-latest-update-brings-offline-functionality-to-its-mapping-service/"><u>Navigate Without Worry! Apple's Latest Update Brings Offline Functionality to Its Mapping Service</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-around-chatgpts-limits-can-you-push-past-the-threshold/"><u>Navigating Around ChatGPT's Limits: Can You Push Past The Threshold?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-asmr-series-on-youtube-platform-for-2024/"><u>[New] Best ASMR Series on YouTube Platform for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts/"><u>[New] In 2024, Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-innovative-approaches-for-enhancing-audience-interaction-through-fb-lives-multi-view-features/"><u>[New] In 2024, Innovative Approaches for Enhancing Audience Interaction Through FB Live's Multi-View Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-discover-7-essential-free-audio-tracks-for-youtubers/"><u>[Updated] In 2024, Discover 7 Essential Free Audio Tracks for YouTubers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-android-emulators-top-9-picks-for-windows-and-mac-users/"><u>Best Android Emulators: Top 9 Picks for Windows & Mac Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-post-sharing-on-instagram/"><u>Comprehensive Guide: Mastering the Art of Post Sharing on Instagram</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-monitoring-mobile-locations-android-and-ios-solutions/"><u>Effective Techniques for Monitoring Mobile Locations: Android and iOS Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/head-to-head-battle-iphone-x-against-the-samsung-galaxy-s8-an-analysis/"><u>Head-to-Head Battle: IPhone X Against the Samsung Galaxy S8 - An Analysis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-vlog-editing-essentials-utilizing-jump-cuts-rightly/"><u>In 2024, Vlog Editing Essentials Utilizing Jump Cuts Rightly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/pre-upload-best-practices-to-maintain-tiktoks-integrity/"><u>Pre-Upload Best Practices to Maintain TikTok's Integrity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620198160-simplified-mobile-experience-operating-android-directly-from-your-desktop-no-jailbreaking-needed/"><u>Simplified Mobile Experience: Operating Android Directly From Your Desktop, No Jailbreaking Needed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-android-apps-for-securely-storing-and-managing-your-passwords/"><u>Top-Rated Android Apps for Securely Storing and Managing Your Passwords</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease
-date: 2024-11-09T22:29:54.539Z
-updated: 2024-11-14T16:45:45.943Z
+date: 2024-11-21T03:49:30.419Z
+updated: 2024-11-23T22:44:54.234Z
 tags:
   - ios
 categories:
@@ -18,19 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [What Sensitive Content Warning Looks Like (And How to Interact With It)](https://www.howtogeek.com/how-to-automatically-blur-nsfw-content-on-iphone-or-mac/#what-sensitive-content-warning-looks-like-and-how-to-interact-with-it)
 * [Make Your Apple Devices People-Friendly](https://some-approaches.techidaily.com/2024-approved-the-journey-of-drones-from-current-uses-to-future-applications/)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Sensitive Content Warning is an iOS 17, iPadOS 17, and macOS Sonoma feature that safeguards you against obscene or sensitive media on your iPhone, iPad, and Mac.
@@ -38,13 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * When the Sensitive Content Warning feature blocks NSFW media on your device, you can either override the warning and view the photo or video, or you can block the sender and access Apple's safety resources to get more help.
 
  Are you apprehensive about unsolicited NSFW content appearing on your screen? Apple has a solution to counter this. It's called Sensitive Content Warning, and it safeguards you against unwanted nudity and obscene content on your Apple devices. Let's dive in to learn more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is the Sensitive Content Warning Feature?
 
@@ -57,28 +37,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Since the process happens on your device, Apple doesn't get access to the media file or any information about its identification. This means you can rest assured that your privacy isn't getting compromised in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Enable Sensitive Content Warning
 
  Sensitive Content Warning is disabled on iOS, iPadOS, and macOS Sonoma by default. Here's how to turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  On an iPhone or iPad
 
  Open Settings on your iPhone or iPad and go into "Privacy & Security."
 
 ![Privacy & Security option in iOS Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Sensitive Content Warning."
 
@@ -88,18 +62,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sensitive Content Warning feaured enabled on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enabling-sensitive-content-warning-on-iphone-3-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sensitive Content Warning should now be enabled for all the supported apps and services. If you don't want the feature to block NSFW media inside any of these apps or services, toggle off the switch next to them.
 
  When you turn on the Sensitive Content Warning feature on your iPhone, it will also enable it for any paired Apple Watch and block any unsolicited NSFW content you might receive on that going forward. The Apple Watch needs to be running on watchOS 10 for the feature to work.
 
  Also, keep in mind that if you disable Sensitive Content Warning for an app or service on your iPhone, it will also turn it off for a paired Apple Watch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  On a Mac
 
@@ -113,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Like on an iPhone or iPad, you can disable the feature for select apps and services if required. Though it's not available on as many Mac apps yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Sensitive Content Warning Looks Like (And How to Interact With It)
 
  With Sensitive Content Warning enabled, whenever you receive an obscene or sensitive photo or video inside a supported app or service, it will automatically get blurred. You'll see a warning message saying "This may be sensitive" on top of it.
@@ -122,6 +97,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Now, you can interact with this media in two ways. First, you can tap on "Show" to override the warning and view the photo or video. Or you can tap the alert icon (with an exclamation mark) to either block the sender or access Apple's safety resources to get more help.
 
 ![available actions on blurred media on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sensitive-content-warning-message-on-iphone-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Make Your Apple Devices People-Friendly
 
@@ -144,18 +123,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-professional-edge-adding-letterbox-frame-to-your-fb-videos-for-2024/"><u>[New] Professional Edge Adding Letterbox Frame to Your FB Videos for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dealing-with-disappearing-cpu-co-processor-drivers-in-windows-11-fixes-and-tips/"><u>Dealing with Disappearing CPU Co-Processor Drivers in Windows 11 – Fixes and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-methods-to-refresh-your-android-os-and-keep-your-apps-current/"><u>Easy Methods to Refresh Your Android OS and Keep Your Apps Current</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-troubleshooting-steps-for-reactivating-a-non-responsive-samsung-galaxy-s4/"><u>Easy Troubleshooting Steps for Reactivating a Non-Responsive Samsung Galaxy S4</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-cast-your-android-device-on-tv-pc-or-mac-a-comprehensive-guide/"><u>How to Cast Your Android Device on TV, PC, or Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correctly-handle-windows-error-0x80071a90/"><u>How To Correctly Handle Windows Error 0X80071A90</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-securely-perform-a-root-on-your-android-smartphone-or-tablet-expert-tips-and-tricks/"><u>How to Securely Perform a Root on Your Android Smartphone or Tablet: Expert Tips and Tricks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-discover-betterdiscords-top-10-trending-themes/"><u>In 2024, Discover BetterDiscord's Top 10 Trending Themes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/metaverse-masterpieces-top-ten-films-that-reimagine-realities/"><u>Metaverse Masterpieces Top Ten Films That Reimagine Realities</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-say-goodbye-to-tiktok-watermarks-best-online-remover-tools/"><u>New Say Goodbye to TikTok Watermarks Best Online Remover Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-deletion-of-your-gmail-a-step-by-step-guide/"><u>Permanent Deletion of Your Gmail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/proven-techniques-to-acquire-superior-hdr-cameras-for-2024/"><u>Proven Techniques to Acquire Superior HDR Cameras for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-easy-rooting-methods-for-your-kindle-fire-a-comprehensive-tutorial/"><u>Quick & Easy Rooting Methods for Your Kindle Fire: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elevating-skype-discussions-through-smart-zoom-practices/"><u>[New] 2024 Approved Elevating Skype Discussions Through Smart Zoom Practices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-conquering-viewersphere-channels-that-rule-the-net/"><u>[Updated] 2024 Approved Conquering Viewersphere Channels that Rule the Net</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-drone-racing-insights-and-best-fpv-models-for-2024/"><u>[Updated] Mastering Drone Racing Insights & Best FPV Models for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-internet-radio-streaming-made-easy-your-recording-guidebook/"><u>2024 Approved Internet Radio Streaming Made Easy Your Recording Guidebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/behind-the-scenes-fixes-for-instagram-videos/"><u>Behind-the-Scenes Fixes for Instagram Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-visual-performance-a-tutorial-on-graphics-card-replacement/"><u>Enhancing Visual Performance: A Tutorial on Graphics Card Replacement</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-efficiency-transforming-your-day-with-the-power-of-strategic-time-management/"><u>Mastering Efficiency: Transforming Your Day with the Power of Strategic Time Management</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-facetime-on-your-android-device-a-step-by-step-guide/"><u>Mastering FaceTime on Your Android Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-battery-life-with-iphones-low-power-mode/"><u>Maximizing Battery Life with iPhone's Low Power Mode</u></a></li>
+<li><a href="https://os-tips.techidaily.com/newly-discovered-details-on-the-next-gen-iphones-iphone-16-16-pro-and-max-insider-information-revealed/"><u>Newly Discovered Details on the Next-Gen iPhones (iPhone 16, 16 Pro & Max) - Insider Information Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-for-background-elimination-in-photos-using-your-iphone-and-macbook/"><u>Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/save-big-with-100-off-on-apples-compact-ipad-mini-ideal-for-on-the-go-adventures/"><u>Save Big with $100 Off on Apple's Compact iPad Mini – Ideal for On-the-Go Adventures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/shop-the-latest-ipad-air-and-ipad-pro-models-top-features-revealed/"><u>Shop the Latest iPad Air & iPad Pro Models: Top Features Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solution-found-updated-external-sonos-software-corrects-audio-malfunctions/"><u>Solution Found: Updated External Sonos Software Corrects Audio Malfunctions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-low-volume-in-airpods-a-step-by-step-guide/"><u>Solving the Issue of Low Volume in AirPods: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-fixing-the-common-minecraft-issue-exit-code-0-explained/"><u>Step-by-Step Solution: Fixing the Common Minecraft Issue - Exit Code 0 Explained</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2024-11-12T23:13:02.016Z
-updated: 2024-11-15T00:18:43.394Z
+date: 2024-11-17T04:59:28.598Z
+updated: 2024-11-24T03:29:15.956Z
 tags:
   - ios
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ## Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad](https://youtube-clips.techidaily.com/earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects-for-2024/)
 * [Turn Off In-App Ratings and Reviews Pop-Ups on a Mac](https://extra-support.techidaily.com/in-2024-quick-ig-post-featuring-podcast-insight/)
 
  User ratings and reviews help developers improve their apps but nagging users with in-app pop-ups asking for reviews or ratings isn't acceptable. Thankfully, Apple lets you turn off these pesky rating and review requests on your iPhone and Mac. Here's how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad
 
@@ -26,22 +34,16 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![iPhone Settings app with App Store highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll down to locate the "In-App Ratings & Reviews" option. Then, flip the toggle switch next to it off.
 
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
@@ -52,22 +54,12 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![Accessing App Store Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-3-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "Settings" window, uncheck the checkbox next to "In-App Ratings & Reviews."
 
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -89,24 +81,22 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-the-roadmap-to-becoming-an-excellent-interviewer/"><u>[New] The Roadmap To Becoming An Excellent Interviewer</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-master-guide-to-unrestricted-digital-vaults/"><u>[Updated] 2024 Approved Master Guide to Unrestricted Digital Vaults</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-making-dreams-real-steps-towards-becoming-a-vtuber-for-2024/"><u>[Updated] From Making Dreams Real Steps Towards Becoming a VTuber for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>[Updated] In 2024, Ignite Your Creative Journey Blending Photography & Videos Through Pixiz</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-the-default-storage-of-itunes-backups-for-ios-devices-and-tweaking-settings-on-a-computer/"><u>Discovering the Default Storage of iTunes Backups for iOS Devices & Tweaking Settings on a Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dont-panic-if-your-iphone-calendars-vanish-restore-them-quickly-using-our-top-6-tips/"><u>Don't Panic If Your Iphone Calendars Vanish! Restore Them Quickly Using Our Top 6 Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-communication-with-emojis-and-stickers-on-ios-10-devices/"><u>Effective Communication with Emojis & Stickers on iOS 10 Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-master-unlocking-your-sprint-device-a-step-by-step-guide-for-iphone-models-xs-xr-and-earlier-versions/"><u>How to Master Unlocking Your Sprint Device: A Step-by-Step Guide for iPhone Models XS, XR, and Earlier Versions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-m6-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Poco M6 Pro 5G</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-the-issue-of-your-iphone-not-appearing-on-a-pc-expert-tips-and-tricks/"><u>How to Resolve the Issue of Your iPhone Not Appearing on a PC: Expert Tips and Tricks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lead-with-eloquence-mastery-of-business-communication/"><u>Lead with Eloquence: Mastery of Business Communication</u></a></li>
-<li><a href="https://os-tips.techidaily.com/steps-to-take-when-a-water-alert-occurs-on-an-apple-devices-lightning-port/"><u>Steps To Take When a Water Alert Occurs on an Apple Device's Lightning Port</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-future-unfolds-analyzing-the-shift-from-m1-pro-to-m1-max-for-2024/"><u>The Future Unfolds Analyzing The Shift From M1 Pro To M1 Max for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-15-timeless-classics-in-stop-motion-cinema-history/"><u>Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-texts-with-iphone-xs-animoji-the-ultimate-guide-to-creating-expressive-emojis/"><u>Transform Texts with iPhone X's Animoji - The Ultimate Guide to Creating Expressive Emojis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshoot-and-resolve-a-frozen-ipod-screen-in-depth-pictorial-instructions-for-success/"><u>Troubleshoot and Resolve a Frozen iPod Screen: In-Depth Pictorial Instructions for Success!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-iphone-calendar-woes-expert-tips-to-ensure-flawless-synchronization/"><u>Troubleshooting iPhone Calendar Woes: Expert Tips to Ensure Flawless Synchronization</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-uncovering-the-secrets-of-superior-action-capture/"><u>[New] 2024 Approved Uncovering the Secrets of Superior Action Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-navigating-new-horizinas-in-the-world-of-srt-for-2024/"><u>[New] Navigating New Horizinas in the World of SRT for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-instagrams-sideways-video-phenomenon-investigation-required/"><u>[Updated] 2024 Approved Instagram's Sideways Video Phenomenon - Investigation Required</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-seamless-image-transfers-across-operating-systems/"><u>[Updated] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[Updated] Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-screen-time-feature-malfunction-upcoming-repair-by-apple/"><u>IPhone Screen Time Feature Malfunction: Upcoming Repair by Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-video-to-audio-conversion-guide-simple-steps-to-isolate-sound/"><u>IPhone Video-to-Audio Conversion Guide: Simple Steps to Isolate Sound</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphoneipadmac-message-recall-techniques-the-ultimate-how-to/"><u>IPhone/iPad/Mac Message Recall Techniques - The Ultimate How-To</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-it-feasible-to-switch-from-icloud-to-google-drive-my-experience/"><u>Is It Feasible to Switch From iCloud to Google Drive? My Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/magsafe-era-ends-apple-halts-production-of-magsafe-power-adapter-and-dual-charger-pad/"><u>MagSafe Era Ends: Apple Halts Production of MagSafe Power Adapter & Dual Charger Pad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-eye-tracking-feature-set-to-launch-on-iphone-and-ipad/"><u>New Eye-Tracking Feature Set to Launch on iPhone & iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-finger-technique-for-quickly-expanding-views-in-google-maps-for-better-navigation/"><u>One-Finger Technique for Quickly Expanding Views in Google Maps for Better Navigation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/premium-nomad-base-one-max-triple-functionality-breakdown-in-depth-guide-on-the-advanced-magsafe-battery-charger/"><u>Premium Nomad Base One Max Triple Functionality Breakdown: In-Depth Guide on the Advanced MagSafe Battery Charger</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-archived-stories-from-facebook-a-digital-handbook/"><u>Unlocking Archived Stories From Facebook A Digital Handbook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle/"><u>Unraveling RTMP Streams Overcoming Premiere's Export Hurdle</u></a></li>
 </ul></div>
 

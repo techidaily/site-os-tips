@@ -1,7 +1,7 @@
 ---
 title: "Essential DearMob Mac Security: The Ultimate User Manual"
-date: 2024-11-07T16:48:43.551Z
-updated: 2024-11-14T23:34:05.643Z
+date: 2024-11-18T23:32:12.337Z
+updated: 2024-11-23T19:16:19.071Z
 tags:
   - iphone-manager
 categories:
@@ -22,6 +22,10 @@ One way to protect iDevice backup is using iTunes. This time it won't be that co
 
 By using [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) for Mac, you can encrypt photos, videos and contacts exported from iDevices at military grade; password protect local photos and videos on Mac; decrypt files with DearMob encryption anytime you want to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Encrypt Photos and Videos with Password on Mac
 
 DearMob allows you to,  
@@ -33,42 +37,23 @@ DearMob allows you to,
 
 ![Add file for encryption on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Click **Encrypt Now** and the **Settings** window would pop up.  
  4\. Check the box "I've already know...", enter your new password, and then click OK.
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You can apply the same passwords to Photo, Video and Contact encryption.
 * Create your password with numbers, uppercase letter and lowercase letter.
 * The **Setting** window would pop out for you to set password for encryption, if you didn't set it before.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Decrypt Files Encrypted by DearMob on Mac
@@ -81,14 +66,15 @@ DearMob allows you to,
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * DearMob only decrypts files that were enciphered by DearMob iPhone Manager itself.
 * Tick **Temporarily save password** to remember your decode password for all decryptions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Export Video, Photo, Contact with Password on Mac
 
@@ -113,19 +99,20 @@ DearMob allows you to,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-crafting-realistic-3d-text-designs-in-photoshop-for-2024/"><u>[New] Crafting Realistic 3D Text Designs in Photoshop for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cripted-sentiments-for-show-summation/"><u>[New] Scripted Sentiments for Show Summation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube/"><u>[Updated] Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes-for-2024/"><u>[Updated] Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bluettis-dramatic-price-drop-the-ultimate-deal-on-portable-power-stations-during-the-major-seasonal-discount-event-insights-by-zdnet/"><u>Bluetti's Dramatic Price Drop: The Ultimate Deal on Portable Power Stations During the Major Seasonal Discount Event - Insights by ZDNet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/continuous-playback-a-step-by-step-tutorial-on-repeating-videos-on-your-iphone/"><u>Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/demystifying-iphone-aae-files-should-you-be-deleting-them/"><u>Demystifying iPhone AAE Files: Should You Be Deleting Them?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-whats-new-in-the-latest-ios-update-innovative-emojis-and-improved-podcast-transcriptions-await/"><u>Discover What's New in the Latest iOS Update – Innovative Emojis and Improved Podcast Transcriptions Await!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-your-next-favorite-tune-with-apple-music-radio-a-must-try-experience/"><u>Discover Your Next Favorite Tune with Apple Music Radio - A Must-Try Experience!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/editing-and-deleting-messages-a-comprehensive-guide-for-ios-devices/"><u>Editing & Deleting Messages: A Comprehensive Guide for iOS Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-f5-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Poco F5 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nubia-red-magic-8s-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nubia Red Magic 8S Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-step-by-step-approach-to-ending-live-sharing-on-laptops-and-tablets/"><u>[New] In 2024, A Step-by-Step Approach to Ending Live Sharing on Laptops and Tablets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-transformative-techniques-for-capturing-on-iphone/"><u>[New] In 2024, Transformative Techniques for Capturing on iPhone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-compliance-with-standards/"><u>2024 Approved Compliance with Standards</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-momentum-at-rest-best-idle-pc-games/"><u>2024 Approved Momentum at Rest Best Idle PC Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-post-prime-day-deals-save-36-on-the-mighty-8tb-samsung-t5-ssd-insights-from-zdnet/"><u>Amazon's Post-Prime Day Deals: Save 36% on the Mighty 8TB Samsung T5 SSD - Insights From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/continuation-of-discussion-user-opinions-and-choices-in-search-options-for-emeditor/"><u>Continuation of Discussion: User Opinions and Choices in Search Options for EmEditor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx941dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_41.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-video-retrieval-how-to-restore-accidentally-deleted-footage/"><u>IPhone Video Retrieval: How to Restore Accidentally Deleted Footage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-returning-ios-device-to-original-state-and-recovering-data-via-itunes-or-finder/"><u>Step-by-Step Tutorial: Returning iOS Device to Original State & Recovering Data via iTunes or Finder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-image-restoration-apps-on-windowsmac-2024-edition/"><u>The Ultimate Guide to the Top 5 iPhone Image Restoration Apps on Windows/Mac, 2024 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-compelling-motivations-behind-retrieving-lost-data-from-your-iphone-using-a-computer/"><u>Top 5 Compelling Motivations Behind Retrieving Lost Data From Your iPhone Using a Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-essential-ios-applications-for-effortlessly-retrieving-lost-iphone-contact-details/"><u>Top 6 Essential iOS Applications for Effortlessly Retrieving Lost iPhone Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-for-restoring-lost-notes-on-any-iphone-version-models-from-iphone-4-to-iphone-12/"><u>Ultimate Troubleshooting for Restoring Lost Notes on Any iPhone Version (Models From iPhone 4 to iPhone 12)</u></a></li>
 </ul></div>
 

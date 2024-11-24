@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Customizing Your iPhone Lock Screen with Text"
-date: 2024-11-06T17:46:32.924Z
-updated: 2024-11-13T16:12:54.803Z
+date: 2024-11-20T21:28:58.473Z
+updated: 2024-11-24T07:19:12.790Z
 tags:
   - ios
 categories:
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 * [Why Should You Add Lock Screen Text to Your iPhone?](https://youtube-zero.techidaily.com/ed-2024-approved-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube/)
 * [How to Add Text to Your iPhone Lock Screen](https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y100i-power-5g-to-pc-drfone-by-drfone-android/)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -73,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Select Lock Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-7.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, tap on "Add Widgets." If you already have widgets, remove them to make space for new ones.
 
 ![Tap the Add Widgets button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-8.jpg) 
@@ -80,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  You'll now see a list of all the widgets you can add. Scroll down and select "Any Text."
 
 ![Select AnyText from the widget list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/anytext-app-9.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Drag and drop the custom-text widget you created into the widget box.
 
@@ -106,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Since it can accommodate two widgets of this size, you can add another text box using the same process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Using Lock Screen 16 App
 
  The Lock Screen 16 app offers more feature-rich and customizable widgets for your lock screen. While much of its ability is locked behind a paywall, you can set a customizable text widget on your iPhone lock screen without paying a dime.
@@ -122,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Choose Limited Version](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once inside the app, scroll down to Status Widgets and hit the "Create" button. Remove one of the preset widgets if you see the "maximum four allowed" warning.
 
 ![Tap Create next to Status Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-4.jpg) 
@@ -130,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Type the text for widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select your desired font style and size. Then, turn the Widget Background on or off. If you keep it disabled, the text will appear without any background.
 
 ![Choose widget font style and size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-6.jpg) 
@@ -137,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Once you're done, tap the "Save" button.
 
 ![Tap Save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-7.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Back to the iPhone lock screen, long-press anywhere, select "Customize," and choose "Lock Screen."
 
@@ -157,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Select the Lock Screen 16 app in widget list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Swipe left to select the text widget you created.
 
 ![Swipe left to scroll through widgets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-3.jpg) 
@@ -165,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Select the Status widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hit "X" to close the widget list.
 
 ![Tap the X button to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-5.jpg) 
@@ -179,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Hit "Done" to save the widget.
 
 ![Tap Done to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/lock-screen-16-app-6.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You have successfully placed a text widget on your iPhone lock screen. Feel free to play with different font styles and sizes to match your preferences.
 
@@ -204,13 +189,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Launch it and tap the "Create" button on the top right.
 
 ![In LockNotes app, tap Create button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/locknotes-app-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tap the empty field and type the text you want to display. You'll see a preview of how it will appear on the lock screen.
 
@@ -242,6 +220,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Tap your text widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/locknotes-app-9.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hit "X" to close widgets.
 
 ![Tap X to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/locknotes-app-10.jpg) 
@@ -264,13 +246,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Open wallpaper image in Photos app, tap Edit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "Markup button" (the tiny pencil icon on the top right).
 
 ![Tap the Pen icon on the top right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-2.jpg) 
@@ -287,20 +262,21 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Adjust the size of your lock screen text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-6.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap "Done" on the top right to save the markup. Again, save the image by tapping "Done" on the top right.
 
 ![Tap Done on the top right to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap the "Share" button on the bottom left.
 
 ![Tap Share button on the bottom left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-8.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Use as Wallpaper."
 
@@ -313,6 +289,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  While a little cumbersome, this is the best way to write something on your iPhone lock screen without installing third-party apps. However, editing the text is a mess; you'll have to edit the picture and repeat the process all over again.
 
 ![Wallpaper with text on iPhone Lock Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/text-on-lock-screen-wallpaper-12.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Add Reminders to the iPhone Lock Screen
 
@@ -333,6 +313,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Tap "Done" to save the widget.
 
 ![Tap Done to save.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reminders-on-lock-screen-5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now check the tasks directly from your iPhone lock screen.
 
@@ -361,18 +345,15 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-variety-50-complimentary-youtube-banners-available/"><u>[New] In 2024, Discover Variety – 50 Complimentary YouTube Banners Available</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/expert-analysis-of-leading-android-video-editor-software-choices-featuring-movavi-insights/"><u>Expert Analysis of Leading Android Video Editor Software Choices Featuring Movavi Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-functionality-of-an-unresponsive-iphone-display-expert-tips/"><u>How to Restore Functionality of an Unresponsive iPhone Display - Expert Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-magic-6-lite-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Magic 6 Lite Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-8-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 8 Pro Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-nomad-magnetic-leather-case-expert-review-for-the-latest-iphone-15-pro/"><u>In-Depth Analysis of the Nomad Magnetic Leather Case: Expert Review for the Latest iPhone 15 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-growing-anxiety-for-vision-pros-longevity-in-light-of-the-newly-launched-visionos-2/"><u>My Growing Anxiety for Vision Pro's Longevity in Light of the Newly Launched visionOS 2</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-update-brings-revamped-contact-management-features-in-microsoft-outlooks-ios-and-android-applications/"><u>New Update Brings Revamped Contact Management Features in Microsoft Outlook's iOS and Android Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/plan-your-departure-with-ease-using-google-maps-real-time-arrival-predictions/"><u>Plan Your Departure with Ease Using Google Maps' Real-Time Arrival Predictions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-to-getting-those-crucial-sandisk-ssd-drivers-installed/"><u>Quick and Simple Guide to Getting Those Crucial Sandisk SSD Drivers Installed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-shut-down-multiple-safari-tabs-simultaneously-on-ios-devices/"><u>Quick Guide: Shut Down Multiple Safari Tabs Simultaneously on iOS Devices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-where-to-find-filmora-torrent-for-free-without-any-virus-and-risk-in-this-article-i-will-show-you-a-100-safe-and-useful-way-to-get-the/"><u>Updated 2024 Approved Where to Find Filmora Torrent for Free without Any Virus and Risk? In This Article, I Will Show You a 100 Safe and Useful Way to Get the Filmora Free Torrent</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-instagram-insiders-guide-to-dynamic-story-quizzes/"><u>[Updated] In 2024, The Instagram Insider's Guide to Dynamic Story Quizzes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-selecting-your-channel-weighing-up-the-merits-of-igtv-and-youtube/"><u>[Updated] Selecting Your Channel Weighing Up the Merits of IGTV & YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-advice-enhancing-your-screen-capture-game-with-mobizen-tools/"><u>2024 Approved Expert Advice Enhancing Your Screen Capture Game with Mobizen Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nt-strategy-mastery-selecting-top-rank-trackers-uncovered/"><u>Content Strategy Mastery - Selecting Top Rank Trackers Uncovered</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Pro Bootloader Easily</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257938-maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-a-deactivated-apple-id-top-5-methods-for-restoring-your-appstore-and-itunes-functionality/"><u>Solving the Issue of a Deactivated Apple ID: Top 5 Methods for Restoring Your AppStore & iTunes Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-effectively-reboot-your-ipod-touchnanoshuffle-issues-resolved/"><u>Step-by-Step Guide: How to Effectively Reboot Your iPod Touch/Nano/Shuffle (Issues Resolved)</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-4-metrics-and-tools-for-thriving-businesses/"><u>Top 4 Metrics & Tools for Thriving Businesses</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshoot-your-iphone-ease-a-detailed-list-of-24-common-problems-and-fixes/"><u>Troubleshoot Your iPhone Ease: A Detailed List of 24 Common Problems & Fixes</u></a></li>
 </ul></div>
 

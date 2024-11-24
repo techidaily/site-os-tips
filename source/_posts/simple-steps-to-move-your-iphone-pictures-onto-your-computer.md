@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Move Your iPhone Pictures Onto Your Computer
-date: 2024-11-06T16:39:57.763Z
-updated: 2024-11-13T16:06:43.099Z
+date: 2024-11-21T19:04:39.401Z
+updated: 2024-11-24T05:12:28.203Z
 tags:
   - ios
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Simple Steps to Move Your iPhone Pictures Onto Your Computer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Use File Explorer or Windows Explorer](https://article-knowledge.techidaily.com/2024-approved-storage-sizing-film-duration-in-gb/)
 * [Import Photos With Windows Photos (or Other Applications)](https://www.howtogeek.com/345540/how-to-transfer-photos-from-an-iphone-to-a-pc/#import-photos-with-windows-photos-or-other-applications)
 * [Sync Your Photos With iCloud Photo Library (or Other Services)](https://www.howtogeek.com/345540/how-to-transfer-photos-from-an-iphone-to-a-pc/#sync-your-photos-with-icloud-photo-library-or-other-services)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,19 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You don't need any special software to transfer photos and videos from an iPhone to a Windows PC. You don't even need iTunes. All you need is the Lightning-to-USB cable you use for charging.
 
  In fact, Apple's iTunes software doesn't even have a built-in way to copy photos from your iPhone to your PC. It does have a photo sync feature, but that's just for copying photos from your PC to your iPhone.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use File Explorer or Windows Explorer
 
@@ -58,22 +53,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Image folders on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folders-on-iphone.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see your photos as .JPG files or .HEIC files, videos as .MOV files, and screenshots as .PNG files. You can double-click them to view them right from your iPhone. You can also copy them to your PC using either drag-and-drop or copy-and-paste.
 
  If you delete an item in the DCIM folder, it's removed from your iPhone's storage.
 
 ![Right-click photos, videos, or other media files on your iPhone to delete them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/delete-files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To import everything from your iPhone, you could just copy-and-paste or drag-and-drop the 100APPLE folder (and any other folders) inside the DCIM folder. Or, you could just grab the whole DCIM folder if you want. Just make sure to copy instead of move the items, if you want them to remain on your phone.
 
 ![Copy the photo folders from your iPhone to other devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/copy-photos-to-iphone.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see files with the .HIEC file extension, that indicates your iPhone is taking photos using [the HEIF image format](https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/). This is the default setting as of [iOS 11](https://remote-screen-capture.techidaily.com/updated-2023s-best-screen-recorder-discover-with-camstudio/) and later, but you need to install the [HEIF image extension to view these files on Windows](https://sound-tweaking.techidaily.com/the-most-reliable-sites-to-stream-legal-background-music-collections-for-2024/).
 
@@ -84,10 +80,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Select the "Automatic" option to enable automatic conversion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/automatic-transfer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Import Photos With Windows Photos (or Other Applications)
@@ -99,13 +92,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Any other application that offers an "Import From Camera" or "Import From USB" function should work with your iPhone, too. Many other image management and photography programs offer this feature.
 
 ![Importing photos and videos from the iPhone with the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/importing-files-from-iphone.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Sync Your Photos With iCloud Photo Library (or Other Services)
 
@@ -120,13 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Photos that you take are automatically uploaded to your iCloud Photo Library, and then the iCloud software automatically downloads a copy of them to your PC.
 
 ![The iCloud app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa313bad9270.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This isn't the only application you can use for synchronizing photos to your PC. The [Dropbox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/dropbox/id327630330?mt=8), [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/google-photos/id962194608?mt=8), and [Microsoft OneDrive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/microsoft-onedrive/id477537958?mt=8) apps for iPhone all offer automatic photo-upload features, and you can use the [Dropbox](https://www.dropbox.com/), [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/), and [OneDrive](https://onedrive.live.com/) tools for Windows to automatically download those photos to your PC.
 
@@ -149,22 +128,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-all-you-need-to-know-about-valheim-seeds-and-the-best-valheim-seeds-for-2024/"><u>[New] All You Need to Know About Valheim Seeds & The Best Valheim Seeds for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-microscopic-views-on-ms-teams-chat-for-2024/"><u>[New] Mastering Microscopic Views on MS Teams Chat for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-easy-guide-setting-up-automated-texts-on-your-ios-device/"><u>1. Easy Guide: Setting Up Automated Texts on Your iOS Device</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-secrets-to-maximizing-youtube-traffic-with-optimized-metadata/"><u>2024 Approved Secrets to Maximizing YouTube Traffic with Optimized Metadata</u></a></li>
-<li><a href="https://os-tips.techidaily.com/3-key-features-i-hope-apple-enables-for-utilizing-my-personalized-ai-avatars-speech/"><u>3 Key Features I Hope Apple Enables for Utilizing My Personalized AI Avatar's Speech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-s23-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy S23 Ultra Phone When You Forget the Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/automate-a-new-vibe-change-iphones-background-regularly/"><u>Automate a New Vibe - Change iPhones Background Regularly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-efficiency-on-your-iphone-explore-the-10-must-use-keyboard-functions-for-power-users/"><u>Boost Efficiency on Your iPhone: Explore the 10 Must-Use Keyboard Functions for Power Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boosting-organization-skills-with-apples-integrated-ipad-and-iphone-note-taking-features/"><u>Boosting Organization Skills with Apple's Integrated iPad & iPhone Note Taking Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-pitaka-magez-car-phone-stand-evaluation-is-it-the-ultimate-iphone-support-system/"><u>Comprehensive Pitaka MagEZ Car Phone Stand Evaluation: Is It the Ultimate iPhone Support System?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-downloading-your-favorite-youtube-clips-on-ios-and-android-devices/"><u>Easy Guide: Downloading Your Favorite YouTube Clips on iOS & Android Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebooks-pivot-to-short-form-content-unpacking-2023-changes/"><u>Facebook's Pivot to Short-Form Content Unpacking 2023 Changes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-the-most-reliable-ai-powered-video-resolution-boosters-ranked-and-tested/"><u>Ultimate Guide to the Most Reliable AI-Powered Video Resolution Boosters - Ranked and Tested</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-ios-18-has-me-thrilled-a-perspective-from-a-dedicated-android-lover/"><u>Why iOS 18 Has Me Thrilled: A Perspective From a Dedicated Android Lover</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] 2024 Approved Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-photography-gurus-guide-to-date-stamping/"><u>[New] The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-setting-your-favorite-images-as-iphone-background-wallpapers/"><u>A Step-by-Step Guide to Setting Your Favorite Images as iPhone Background Wallpapers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-your-simple-2024-fix-for-the-wont-launch-problem/"><u>Battlefield ^: Your Simple 2024 Fix for the Won't Launch Problem</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-disseminating-videos-tiktok-content-for-a-wider-facebook-audience/"><u>In 2024, Disseminating Videos TikTok Content for a Wider Facebook Audience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-12-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 12 mini iCloud Bypass</u></a></li>
+<li><a href="https://win-community.techidaily.com/incredible-apps-for-designing-custom-text-based-wallpapers/"><u>Incredible Apps for Designing Custom Text-Based Wallpapers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ios-devices-with-dfu-mode-tips-and-techniques/"><u>Mastering iOS Devices with DFU Mode: Tips & Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-tagging-for-content-visibility-for-2024/"><u>Mastering YouTube Tagging for Content Visibility for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quickly-restore-touch-id-functionality-essential-tips-for-iphone-and-ipad-users/"><u>Quickly Restore Touch ID Functionality: Essential Tips for iPhone & iPad Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-iphone-wont-turn-off-issues-without-damage/"><u>Simple Troubleshooting Steps to Resolve 'iPhone Won't Turn Off' Issues Without Damage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-iphones-bluetooth-problem-a-step-by-step-guide-with-10-proven-fixes/"><u>Solve Your iPhone's Bluetooth Problem: A Step-by-Step Guide with 10 Proven Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-snapchat-struggles-in-5-easy-steps-quick-fixes-for-usability-issues/"><u>Solve Your Snapchat Struggles in 5 Easy Steps - Quick Fixes for Usability Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-fix-your-unresponsive-facetime-connection-with-these-simple-6-steps/"><u>The Ultimate Guide: Fix Your Unresponsive FaceTime Connection with These Simple 6 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-ios-16-wifi-connectivity-issues-common-problems-and-fixes/"><u>Troubleshooting IOS 16 WiFi Connectivity Issues: Common Problems & Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-connecting-and-syncing-an-iphone-with-windows-or-mac/"><u>Troubleshooting Steps: Connecting and Syncing an iPhone with Windows or Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-on-ubisofts-rainbow-six-siege-complimentary-version/"><u>Update on Ubisoft's Rainbow Six Siege - Complimentary Version</u></a></li>
 </ul></div>
 

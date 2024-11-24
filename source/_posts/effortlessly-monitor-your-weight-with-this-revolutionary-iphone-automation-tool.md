@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2024-11-11T21:38:30.811Z
-updated: 2024-11-14T16:11:18.669Z
+date: 2024-11-22T23:36:44.709Z
+updated: 2024-11-24T00:51:44.737Z
 tags:
   - ios
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Tracking your weight is a reliable way to see how changes in diet and lifestyle translate to real-world results. Apple Health is great for this, but the process of adding data manually is tedious. That’s why I built a shortcut to do it in two taps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Build a Shortcut to Track Your Weight
@@ -34,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Create new shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-17-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, tap “Add Action” and use the search bar to find the “Log Health Sample” action. Tap on it to add it to your Shortcuts workflow.
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
@@ -43,22 +44,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Finishing up adding an action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now give your workflow a name by tapping the field at the top of the screen (it will likely have the “Log Health Sample” placeholder text, grayed out). Tap “Rename” and call it something like “Record weight” and then tap “Choose Icon” and pick something appropriate.
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To save, hit “Done” in the top-right corner of the screen. That’s it!
 
@@ -70,18 +61,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Edit" button on the iPhone widgets screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now tap on the widget you just added, and next to the “Shortcut” field choose the “Record weight” shortcut you just created. The widget will be added, drag it into place and you’re done. You can also [place these widgets on a regular Home screen](https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/) if you’d rather.
 
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Seeing Results
 
@@ -90,6 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
 
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Getting the Most Out of Apple Health
 
@@ -112,20 +104,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-frugal-hardware-efficient-obs-arrangements/"><u>[New] 2024 Approved Frugal Hardware Efficient OBS Arrangements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-detailed-study-on-workspace-optimization-and-productivity-levels/"><u>[New] A Detailed Study on Workspace Optimization and Productivity Levels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-professional-webcam-recording-solutions-explored/"><u>[New] Professional WebCam Recording Solutions Explored</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-where-is-youtube-video-manager-all-you-need-to-know/"><u>[New] Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-firefoxs-social-media-edge-top-downloader-extensions-and-addons-for-fb-content-for-2024/"><u>[Updated] FireFox's Social Media Edge Top Downloader Extensions and Addons for FB Content for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-experts-choice-best-practices-for-vimeo-video-download/"><u>[Updated] In 2024, Expert's Choice Best Practices for Vimeo Video Download</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-archive-essentials-top-15-downloader-tools/"><u>2024 Approved Instagram Archive Essentials Top 15 Downloader Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/common-queries-and-insights-on-managing-iphones-voicemail-system/"><u>Common Queries & Insights on Managing iPhone's Voicemail System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-solutions-fixing-your-iphones-wi-fi-connection-issues-in-just-7-steps/"><u>Essential Solutions: Fixing Your iPhone's Wi-Fi Connection Issues in Just 7 Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fenrir/"><u>Fenrir -</u></a></li>
-<li><a href="https://os-tips.techidaily.com/full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-issues-when-whatsapp-messages-fail-to-alert-you/"><u>How to Resolve Issues When WhatsApp Messages Fail to Alert You</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620251539-imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-the-red-screen-issue-on-iphones-a-step-by-step-guide/"><u>Troubleshooting the Red Screen Issue on iPhones - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-microsoft-teams-navigating-with-copilot-effortlessly/"><u>Unveiling the Secrets of Microsoft Teams: Navigating with Copilot Effortlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-insights-on-how-youtube-handles-uploaded-videos/"><u>[New] 2024 Approved Insights on How YouTube Handles Uploaded Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-creating-professional-gameplay-archives-with-fbx-for-2024/"><u>[New] Creating Professional Gameplay Archives with FBX for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-screen-with-panopto-screen-recorder/"><u>[Updated] How To Record Screen With Panopto Screen Recorder</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-m6-pro-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco M6 Pro 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-through-with-stunning-hdr-portrait-shots/"><u>Breaking Through with Stunning HDR Portrait Shots</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-repair-tips-to-bring-back-life-into-silent-stereos/"><u>DIY Repair Tips to Bring Back Life Into Silent Stereos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-latest-innovations-what-to-expect-from-the-iphone-15-and-pro-models/"><u>Exploring Latest Innovations: What to Expect From the iPhone 15 & Pro Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-distinction-between-fords-new-infotainment-os-and-established-competitors-like-android-auto-and-apple-carplay/"><u>Exploring the Distinction Between Ford's New Infotainment OS and Established Competitors Like Android Auto & Apple CarPlay</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-iphone-15-pro-max-a-thorough-breakdown-by-ifixit-reveals-underwhelming-features/"><u>Exploring the iPhone 15 Pro Max: A Thorough Breakdown by iFixit Reveals Underwhelming Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-the-youtube-content-manager-toolkit-for-2024/"><u>Exploring the YouTube Content Manager Toolkit for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-stuck-screen-orientation-on-ios-devices-quick-guide/"><u>Fixing Stuck Screen Orientation on iOS Devices - Quick Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/knack-review-a-unique-character-in-an-unoriginal-game/"><u>Knack Review: A Unique Character in an Unoriginal Game</u></a></li>
 </ul></div>
 

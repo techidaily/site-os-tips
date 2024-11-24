@@ -1,7 +1,7 @@
 ---
 title: "Adoring iOS Innovation While Staying True to Android: A Tech Enthusiast's Balancing Act"
-date: 2024-11-10T19:54:44.213Z
-updated: 2024-11-14T19:55:03.922Z
+date: 2024-11-20T03:44:46.233Z
+updated: 2024-11-24T04:37:32.902Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 ---
 
 ## Adoring iOS Innovation While Staying True to Android: A Tech Enthusiast's Balancing Act
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  I’ve Tried the iPhone Twice
 
  It's that dalliance with Apple Watches that had me butting heads with iPhone. You see, while I was getting along more or less with my Galaxy Watch, my wife convinced me that I should try an Apple Watch, as she loves hers. That's fine, but since Apple has decided that the Watch is strictly an iPhone accessory, I couldn't use my iPad or Mac with it. She had an old iPhone 11 Pro lying around, so we could use that.
@@ -50,16 +47,13 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 
  I picked up a 1TB iPhone 14 Pro, and sure enough, it was a much better phone, but Apple had addressed pretty much none of the things that made it impossible to get along with the device, and honestly, I don't think they could, because most of it might be in the DNA of the iPhone itself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  My Phone Can’t Be This Locked Down
 
 ![AI generated isometric pixel art representation of an apple iphone inside a walled garden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_isometric_pixel_art_representation_of_an_apple__d1c8c3ba-aac6-407f-83fd-cdea5c783184_3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek / MidJourney
 
@@ -69,23 +63,9 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The iPhone Form Factor Isn’t Great
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -93,17 +73,29 @@ Corbin Davenport / How-To Geek
 
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
 
  For [flagship phones](https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/) in particular, photos matter. By all accounts, iPhones offer some of the best camera equipment and photos money can buy. However, smartphone photography is just as much about [software post-processing](https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/) as it is about the hardware, and I just can't stand the look of iPhone photos. It's quite hard to pin down why exactly, and this is clearly subjective, but iPhone photos feel a little soulless to me. Maybe the word is "overprocessed", but I have no doubt that the photos from my S22 Ultra are no less processed, just differently.
 
  Nonetheless, photos taken on iPhone do nothing for me. In particular I like taking [macro photos](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/) as well as portrait photos, and while the macro camera mode on my iPhone 14 Pro was plenty capable, I just couldn't get the same sorts of shots that my S21 Ultra or S22 Ultra can manage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is the Battery Life So Awful?
 
  I can live with the esthetics and photos that aren't to my taste, but going from having a day and a half of battery power on my S22 Ultra to a phone that barely ekes out a full day of normal use is not fun. I have zero battery anxiety with my Samsung phone, but felt it return with a vengeance with my last iPhone.
 
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  I’m Willing to Try Again
 
@@ -126,17 +118,24 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-avoid-draft-overload-on-tiktok-by-mastering-edit-techniques/"><u>[New] 2024 Approved Avoid Draft Overload on TikTok by Mastering Edit Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-apk-masterclass-enjoy-funimate-on-android/"><u>[New] APK Masterclass Enjoy Funimate on Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-ranked-5-backdrop-change-apps-for-iphones-x-8-7/"><u>[Updated] Top-Ranked 5 Backdrop Change Apps for iPhones (X, 8, 7)</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-create-ai-avatar-video-online/"><u>2024 Approved Create AI Avatar Video | Online</u></a></li>
-<li><a href="https://os-tips.techidaily.com/clearing-out-voicemail-entries-from-your-iphone-contact-list/"><u>Clearing Out Voicemail Entries From Your iPhone Contact List</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-wipe-out-all-message-data-from-your-iphone-once-and-forall/"><u>Effective Strategies: How to Wipe Out All Message Data From Your iPhone Once and ForAll</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-steps-to-delete-your-youtube-browsing-and-search-logs/"><u>Effortless Steps to Delete Your YouTube Browsing and Search Logs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-erase-apple-device-maps-history-secrets-for-a-total-wipeout/"><u>Effortlessly Erase Apple Device Maps History: Secrets for a Total Wipeout</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/eradicate-battlefield-eby-errors-with-these-10-proven-tricks/"><u>Eradicate Battlefield Eby Errors with These 10 Proven Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-gpt-4s-capabilities-at-no-charge-unveiling-5-easy-pathways-for-beginners-and-experts-alike/"><u>Leverage GPT-4's Capabilities at No Charge: Unveiling 5 Easy Pathways for Beginners and Experts Alike</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-product-revelation-best-15-unboxing-channels-for-2024/"><u>The Ultimate Guide to Product Revelation Best 15 Unboxing Channels for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-mastering-the-art-of-deleting-images-from-your-iphone/"><u>Ultimate Tutorial: Mastering the Art of Deleting Images From Your iPhone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-videography-essentials-7-free-audio-choices/"><u>[New] 2024 Approved YouTube Videography Essentials - 7 Free Audio Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-photo-perfection-discover-our-6-best-background-erasers/"><u>[New] Ultimate Photo Perfection – Discover Our 6 Best Background Erasers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-digital-detox-how-to-turn-off-youtube-on-computers-and-phones-for-2024/"><u>[Updated] Digital Detox How to Turn Off Youtube on Computers and Phones for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>2024 Approved Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/downsizing-your-flipbook-design-on-flipbuildercom-step-by-step-guide/"><u>Downsizing Your FlipBook Design on FlipBuilder.com - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-s24-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy S24 Ultra without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/key-hurdles-preventing-iphone-upgrade-decisions/"><u>Key Hurdles Preventing iPhone Upgrade Decisions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/love-at-first-sight-the-paprika-app-transforms-my-project-management-forever/"><u>Love at First Sight: The Paprika App Transforms My Project Management Forever!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-multitasking-in-the-apple-universe-translocating-batches-of-apps-together-on-iphoneipad/"><u>Master Multitasking in the Apple Universe: Translocating Batches of Apps Together on iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-battery-life-how-to-always-maintain-your-iphone-on-ultra-low-power/"><u>Mastering Battery Life: How to Always Maintain Your iPhone on Ultra-Low Power</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-the-art-of-youtube-micro-clips-for-2024/"><u>Mastering the Art of YouTube Micro Clips for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-photo-quality-essential-settings-update-for-the-iphone-15s-camera/"><u>Maximize Photo Quality: Essential Settings Update for the iPhone 15'S Camera</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/prolific-producers-of-profits-online/"><u>Prolific Producers of Profits Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-screen-from-inappropriate-images-on-iphonemac-with-ease/"><u>Protect Your Screen From Inappropriate Images on iPhone/Mac with Ease</u></a></li>
+<li><a href="https://os-tips.techidaily.com/shame-mode-activated-uncover-the-10-most-embarrassing-iphone-habits-and-learn-how-to-break-free/"><u>Shame Mode Activated? Uncover the 10 Most Embarrassing iPhone Habits & Learn How to Break Free!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-imessage-dilemma-effective-8-step-guide-for-ios-and-macos-devices/"><u>Solve Your iMessage Dilemma: Effective 8-Step Guide for iOS & macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-integrating-shazam-widget-into-ios-control-center/"><u>Step-by-Step Guide: Integrating Shazam Widget Into iOS Control Center</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-cutting-edge-of-photography-iphone-cropping-tips/"><u>The Cutting Edge of Photography IPhone Cropping Tips</u></a></li>
 </ul></div>
 

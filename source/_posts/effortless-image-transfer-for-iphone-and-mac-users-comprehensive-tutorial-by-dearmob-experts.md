@@ -1,7 +1,7 @@
 ---
 title: Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts
-date: 2024-11-09T18:00:58.436Z
-updated: 2024-11-14T23:30:22.174Z
+date: 2024-11-18T08:20:31.504Z
+updated: 2024-11-24T07:52:11.079Z
 tags:
   - iphone-manager
 categories:
@@ -20,19 +20,6 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
 [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) lets you transfer photos to or from iOS and iPadOS devices in a fast, easy, and safe manner. Whether they are Live Photos, ProRaw, burst photos, 4K HDR photos, or HEIC, all kinds of iPhone photos can be imported or exported to the iPhone in original resolution.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Transfer Photos from iPhone, iPad, or iPod Photos to Mac
 
 In DearMob,  
@@ -50,10 +37,7 @@ In DearMob,
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Change view by grid size or group photos by date to better transfer and manage photos.
@@ -69,6 +53,10 @@ DearMob iPhone Manage allows you to preview photos by album folders. There are f
 * iPhone Manager version 6.5 and above support previewing photos that are directly imported from cameras, flash cards and other external drives into iPhone > Photos app.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**More About the External Drive Album**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You will see an External Drive album on the left panel inside the Photos module in DearMob. If your iPhone doesn't contain imported photos, you won't see the external drive album.
 * The External Drive album in DearMob is different from the Imports folder on iPhone > Photos. The Imports folder contains photos via AirDrop, cameras, flash cards and other external drives, while the External Drive album in DearMob doesn't show AirDropped photos.
@@ -88,6 +76,10 @@ In DearMob,
 
 ![add photos from mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-add.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 * Name the album as you like.
@@ -95,16 +87,7 @@ In DearMob,
 * After importing photos to iPhone, find them in Photos App > Albums > From My Mac (the naming can be different for different iOS versions). You can also find the imported photos in the Camera Roll— in the section of the year when it was created.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delete photos from your iPhone, iPad, or iPod on Your Mac
@@ -123,13 +106,6 @@ In DearMob,
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Hit Select All to select all photos in an album.
 * To select multiple adjacent photos in an album, click the first photo, press and hold down the Shift key on the keyboard, and then click the last photo.
 * All photos between the first and last photo will be selected.
@@ -147,17 +123,14 @@ Note: It only works for macOS 10.13 (macOS High Sierra) and higher versions to r
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**What is the photo location data?**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Location data stores the geographical information about where your photo is taken. It is also known as GPS data, geolocation data, or geotags. It is stored in the EXIF metadata of the photo file.
 * iPhones and other smartphones with GPS capabilities can record the latitude and longitude coordinates of the device's location at the time the photo was captured.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Which setting allows iPhone to add location data to my photos?**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On iPhone: Settings > Privacy > Location Services > Camera.
 
@@ -166,16 +139,13 @@ On iPhone: Settings > Privacy > Location Services > Camera.
 
 ## Frequently Asked Questions
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Check Your iPhone Photos in Large Icons on a PC?
 
 To display your iPhone photos in the large icons view, simply click the 4-square icon located in the top right of the Photo Transfer panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can It Retain the Actual Capture Date When Exporting iPhone Photos?
 
@@ -196,20 +166,22 @@ Yes. The Windows version of DearMob iPhone Manager won't change the original cre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-professional-steps-for-high-quality-powerpoint-replays/"><u>[New] 2024 Approved Professional Steps for High-Quality PowerPoint Replays</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-level-gopro-tricks-and-insights/"><u>[Updated] Pro-Level GoPro Tricks and Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-complete-tutorial-for-syncing-and-organizing-safari-browser-favorites-from-ios-devices-on-windows-with-deermob-tool/"><u>A Complete Tutorial for Syncing & Organizing Safari Browser Favorites From iOS Devices on Windows with DeerMob Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dearmob-user-manual-effortlessly-move-music-from-ios-device-to-pc-with-windows-os/"><u>DearMob User Manual: Effortlessly Move Music From iOS Device to PC with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-remedies-for-dts-sound-failure-on-assigned-audio-equipment/"><u>Effective Remedies for 'DTS Sound Failure on Assigned Audio Equipment'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-dearmob-mac-security-the-ultimate-user-manual/"><u>Essential DearMob Mac Security: The Ultimate User Manual</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-regain-lost-disk-capacity-in-your-linux-based-virtualbox-machine-without-hassle/"><u>How to Regain Lost Disk Capacity in Your Linux-Based VirtualBox Machine Without Hassle</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-move-your-iphone-applications-to-a-mac-a-comprehensive-guide-by-dearmob/"><u>How to Seamlessly Move Your iPhone Applications to a Mac: A Comprehensive Guide by DearMob</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-install-logitech-g602-software-on-your-windows-computer/"><u>How to Securely Download & Install Logitech G602 Software on Your Windows Computer</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nubia-z50s-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nubia Z50S Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-dearmob-applications-a-comprehensive-guide-to-securing-your-mac/"><u>Mastering DearMob Applications: A Comprehensive Guide to Securing Your Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-and-editing-iphone-contacts-via-windows-pc-using-dearmob/"><u>Step-by-Step Guide: Syncing and Editing iPhone Contacts via Windows PC Using DearMob</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-for-navigating-and-utilizing-dearmob-iphone-app-on-windows-platforms/"><u>The Ultimate Tutorial for Navigating and Utilizing DearMob iPhone App on Windows Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-journaling-apps-for-effortless-note-taking/"><u>Top 6 Must-Have Journaling Apps for Effortless Note Taking</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssential-skills-for-youtube-gamers/"><u>[New] Essential Skills for YouTube Gamers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/auditory-enhancement-unlocked-delve-into-freeware-audio-effect-software-for-2024/"><u>Auditory Enhancement Unlocked Delve Into Freeware Audio Effect Software for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-pitaka-magez-car-phone-stand-evaluation-is-it-the-ultimate-iphone-support-system/"><u>Comprehensive Pitaka MagEZ Car Phone Stand Evaluation: Is It the Ultimate iPhone Support System?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-downloading-your-favorite-youtube-clips-on-ios-and-android-devices/"><u>Easy Guide: Downloading Your Favorite YouTube Clips on iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-every-iphone-user-should-know-when-their-wi-fi-wont-work/"><u>Effective Solutions Every iPhone User Should Know When Their Wi-Fi Won't Work</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-to-eliminate-repeated-entries-in-ios-contact-list/"><u>Effective Techniques to Eliminate Repeated Entries in iOS Contact List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-functionality-on-your-ipad-discovering-the-included-calculator-in-the-latest-ipados-18-update/"><u>Enhanced Functionality on Your iPad: Discovering the Included Calculator in the Latest iPadOS 18 Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-encountered-heres-why-input-not-supported-messages-appear-on-displays/"><u>Error Encountered? Here's Why 'Input Not Supported' Messages Appear on Displays</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-seamless-song-recognition-with-shazam-on-your-private-stereo-discover-music-in-your-headphones-effortlessly/"><u>Experience Seamless Song Recognition with Shazam on Your Private Stereo! Discover Music in Your Headphones Effortlessly.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-hiding-the-do-not-disturb-indicator-from-your-iphone-15-pro-screen/"><u>Expert Tips for Hiding the Do Not Disturb Indicator From Your iPhone 15 Pro Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-iphone-and-ipad-users-can-now-navigate-with-their-eyes/"><u>Get Ready: IPhone & iPad Users Can Now Navigate with Their Eyes!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-zte-axon-40-litewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on ZTE Axon 40 Litewith/without a PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-correctly-address-and-repair-the-error-0xc19001e1-on-your-windows-11-system/"><u>How to Correctly Address and Repair the 'Error 0Xc19001e1' On Your Windows 11 System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-105-classic-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia 105 Classic For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-revolutionary-flight-technology-exploring-mavic-pro/"><u>In 2024, Revolutionary Flight Technology – Exploring Mavic Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-most-amazing-features-of-iphone-16-pro-that-will-thrill-every-apple-fan-zdnet/"><u>Unveiling the Most Amazing Features of iPhone 16 Pro That Will Thrill Every Apple Fan | ZDNET</u></a></li>
 </ul></div>
 

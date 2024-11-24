@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the ButterFly Two-in-One Charger by Twelve South: The Traveler's Must-Have Companion with MagSafe Technology"
-date: 2024-11-08T20:33:10.902Z
-updated: 2024-11-13T20:37:05.367Z
+date: 2024-11-16T18:41:41.940Z
+updated: 2024-11-24T08:07:21.605Z
 tags:
   - ios
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b07f8aafe5ebbf14ba4a69b2b5bb7f9ec0a78d9ab
  Twelve South doesn’t label its new [ButterFly 2-in-1 MagSafe Charger](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) as a travel accessory, and you can use it at home, but it is, in fact, a device meant to pack away and travel with. It’s great because the petite iPhone and Apple Watch charger bends, tilts, and snaps together, all in the name of functional portability.
 
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
 
@@ -54,16 +58,13 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 [$129.95 at Twelve South](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) [$129.95 at Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The ButterFly 2-in-1 Charger Is Perfectly Small
 
 ![Twelve South Butterfly charger next to iPhone for thickness comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-thickness-comparison.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -86,10 +87,7 @@ Hannah Stryker / How-To Geek
 ![Twelve South Butterfly charger with accessories laid out on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-with-accessories.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -106,28 +104,22 @@ Hannah Stryker / How-To Geek
 
 ![iPhone horizontal on the Twelve South ButterFly 2-in-1 charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/iphone-twelve-south-stand.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  When each device is charging by itself, the other side is folded underneath, facedown. I can’t think of times when I would only want to charge my watch, but using it for an iPhone without having the watch portion spread out is a nice touch.
 
  Using the ButterFly horizontally for StandBy mode felt like a little bit of a hack, especially because the watch charger on the back is much less ideal. Still, I like that it’s even a possibility.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Price and Availability
 
  The ButterFly 2-in-1 MagSafe Charger is available now, directly from Twelve South and Apple. It has been back ordered at [Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) until early February, but more supply should be available in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Twelve South ButterFly 2-in-1 MagSafe Charger?
@@ -183,22 +175,21 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-innovative-insights-for-streaming-success-on-tiktoks-computer-interface-for-2024/"><u>[New] Innovative Insights for Streaming Success on TikTok's Computer Interface for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[Updated] 2024 Approved Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c55-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/design-dope-dabs-with-giphy-tools-for-2024/"><u>Design Dope Dabs with Giphy Tools for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-downloading-new-sas-drivers-for-modern-windows-versions-1187/"><u>Guide to Downloading New SAS Drivers for Modern Windows Versions (11/8/7)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/identifying-the-timestamp-of-messages-a-guide-to-checking-sms-send-times-on-iphone/"><u>Identifying the Timestamp of Messages: A Guide to Checking SMS Send Times on iPhone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-learn-how-to-split-your-screen-while-watching-netflix/"><u>In 2024, Learn How To Split Your Screen While Watching Netflix</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-the-latest-innovation-by-satechi-multi-standard-charging-stands-for-qi2-and-magsafe-technology/"><u>Introducing the Latest Innovation by Satechi – Multi-Standard Charging Stands for Qi2 and MagSafe Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-applications-adopt-new-approach-seamlessly-transitioning-consumers-to-outside-retail-platforms-for-purchases/"><u>IOS Applications Adopt New Approach: Seamlessly Transitioning Consumers to Outside Retail Platforms for Purchases</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-vs-android-comparing-mid-level-smartphones-to-outdated-iphones-discover-why-the-iphone-triumphs/"><u>IOS Vs. Android: Comparing Mid-Level Smartphones to Outdated iPhones - Discover Why the iPhone Triumphs.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-adopts-usb-c-bids-farewell-to-proprietary-chargers/"><u>IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-contact-blocking-a-step-by-step-guide/"><u>IPhone Contact Blocking: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-silent-on-calls-discover-these-12-troubleshooting-steps-for-immediate-fixes/"><u>IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-setting-an-alarm-possible-with-an-iphone-in-off-silent-or-do-not-disturb-mode/"><u>Is Setting an Alarm Possible with an iPhone in 'Off,' 'Silent,' Or 'Do Not Disturb' Mode?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavimp4wma/"><u>Movaviでシームレスな無償音楽ファイルMP4,WMA変換サービス</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/review-of-pny-duolink-ios-two-in-one-flash-drive-is-it-time-to-upgrade/"><u>Review of PNY DuoLink iOS Two-in-One Flash Drive - Is It Time To Upgrade?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-perfect-iphone-photos-quick-editing-hacks/"><u>[New] 2024 Approved Perfect iPhone Photos Quick Editing Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-smudge-free-life-with-sharp-clean-gopro-images-for-2024/"><u>[New] A Smudge-Free Life with Sharp, Clean GoPro Images for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uilding-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[New] Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-filmmakers-companion-filmora-for-youtube-trailers/"><u>[New] Filmmaker's Companion Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-writing-vlogs-a-guide-to-persuasive-scripts/"><u>2024 Approved Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-fixing-iphone-wont-restore-from-icloud-backup-problem/"><u>Complete Guide: Fixing 'iPhone Won't Restore From iCloud Backup' Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-securely-backing-up-and-keeping-your-iphone-data-in-icloud/"><u>Comprehensive Tutorial on Securely Backing Up and Keeping Your iPhone Data in iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficiently-syncing-iphone-images-with-your-mac-a-step-by-step-guide/"><u>Efficiently Syncing iPhone Images with Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-x100-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo X100</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-the-world-of-youtube-subscription-services-for-2024/"><u>Inside the World of YouTube Subscription Services for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-the-art-of-crafting-engaging-youtube-screen-closures-for-2024/"><u>Mastering the Art of Crafting Engaging YouTube Screen Closures for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-best-5-iphone-backup-apps-essential-tools-every-user-should-consider/"><u>The Best 5 iPhone Backup Apps: Essential Tools Every User Should Consider</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ibackup-viewer-of-2024-securely-transfer-your-iphone-data-to-pc/"><u>Top Rated iBackup Viewer of 2024: Securely Transfer Your iPhone Data to PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-icloud-backup-fails-to-initialize/"><u>Troubleshooting Steps When iCloud Backup Fails to Initialize</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-why-your-icloud-backup-might-be-missing-and-how-to-fix-it/"><u>Troubleshooting Tips: Why Your iCloud Backup Might Be Missing and How To Fix It</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 </ul></div>
 

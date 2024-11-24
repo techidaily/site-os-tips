@@ -1,7 +1,7 @@
 ---
 title: Guide for DearMob Users on Downloading iPhone's Clouded Memories (Photos & Videos) Onto a PC/Mac System
-date: 2024-11-07T18:24:35.001Z
-updated: 2024-11-14T20:27:34.129Z
+date: 2024-11-20T07:54:11.152Z
+updated: 2024-11-24T06:30:07.030Z
 tags:
   - iphone-manager
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Download Photos/Videos from iCloud?
 
@@ -38,24 +42,14 @@ DearMob iPhone Manager tags all your iCloud photos with a Cloud icon so that you
 
 ![how do i see my icloud photos](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photos.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Notes:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * A photo with a Cloud tag shows that it is on iCloud, and may not be on your devices unless you tap it in the Photos app for instant download. A progress bar will indicate the download status for each single photo.
 * However, videos saved on iCloud are not marked as photos with Cloud icon.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Download iCloud Photos to PC/Mac with DearMob?
 
@@ -64,16 +58,7 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 ![Download and Keep Originals](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1:** Go to Settings > \[Your Name\] > iCloud > Photos. 
@@ -84,15 +69,16 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 
 ![Download and Keep Originals](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Upon download, reconnect your device to computer and let DearMob read and retry exporting original photos/videos without failure.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Notes:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Read this guide should you encounter the "[iCloud photos could not be turned on](https://tools.techidaily.com/5kplayer/iphone-manager/)" issue.
@@ -114,24 +100,16 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-decoding-kinemaster-complexities-best-practices-and-alternative-digital-tools/"><u>[New] 2024 Approved Decoding KineMaster Complexities Best Practices & Alternative Digital Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-dollar-first-steps-in-youtubers-revenue/"><u>[New] 2024 Approved Digital Dollar First Steps in YouTubers' Revenue</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-link-and-leverage-your-fb-story-for-greater-impact/"><u>[New] 2024 Approved Link & Leverage Your FB Story for Greater Impact</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-4k-monitors-showdown-top-10-picks-for-2024/"><u>[New] 4K Monitors Showdown Top 10 Picks for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-diving-into-the-ultra-hd-waters-an-lg-27uhd68-monitor-guide-for-2024/"><u>[New] Diving Into the Ultra HD Waters An LG 27UHD68 Monitor Guide for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-mastering-full-rotation-shoots-9-must-follow-rules-for-2024/"><u>[New] Mastering Full-Rotation Shoots 9 Must-Follow Rules for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-the-course-to-earnings-with-youtube-videos/"><u>[Updated] 2024 Approved Charting the Course to Earnings with YouTube Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficiently-handling-apple-podcastsitunes-u-on-a-windows-pc-comprehensive-dearmob-user-manual/"><u>Efficiently Handling Apple Podcasts/iTunes U on a Windows PC | Comprehensive DearMob User Manual</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-ensuring-your-iphones-safety-by-backing-up-to-icloud/"><u>Step-by-Step Process: Ensuring Your iPhone's Safety by Backing Up to iCloud</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-configuring-deconfiguring-and-refreshing-your-siri-remote-for-apple-tv/"><u>Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-extracting-and-printer-friendly-converting-iphones-imessages-for-hardcopy-printouts/"><u>Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stop-apps-pestering-you-for-ratings-a-guide-to-deactivating-review-prompts-on-ios-and-macos-devices/"><u>Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-timely-notifications-in-ios-a-comprehensive-guide/"><u>Understanding Timely Notifications in iOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-productivity-with-apples-freeform-a-guide-to-enhancing-personal-organization/"><u>Unleash Productivity with Apple’s Freeform – A Guide to Enhancing Personal Organization</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-apples-advancements-discover-key-features-of-iphone-15-and-15-pro-series/"><u>Unveiling Apple's Advancements: Discover Key Features of iPhone 15 and 15 Pro Series</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-transform-your-photos-into-videos-best-ios-collage-apps/"><u>Updated In 2024, Transform Your Photos Into Videos Best iOS Collage Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-every-application-needs-a-functional-design-as-simple-as-the-tea-timer-app/"><u>Why Every Application Needs a Functional Design as Simple as the Tea Timer App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-for-designing-compelling-youtube-video-thumbnails/"><u>[Updated] In 2024, Best Practices for Designing Compelling YouTube Video Thumbnails</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-m6-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco M6 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y27-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y27 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-zte-nubia-z60-ultra-screen-sharing-drfone-by-drfone-android/"><u>How To Do ZTE Nubia Z60 Ultra Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-search-of-a-sleek-tablet-why-the-ipad-mini-deserves-serious-consideration/"><u>In Search of a Sleek Tablet? Why the iPad Mini Deserves Serious Consideration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-username-functionality-updates-available-on-signal-platform/"><u>Introducing Username Functionality: Updates Available on Signal Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-ownership-is-it-worth-your-investment-essential-insights-for-potential-buyers/"><u>IPad Ownership: Is It Worth Your Investment? Essential Insights for Potential Buyers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/"><u>Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-efficiency-adding-widgets-to-your-iphones-lock-screen-tutorial/"><u>Maximize Efficiency: Adding Widgets to Your iPhone's Lock Screen Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-guide-to-downloading-and-setting-up-hp-drivers/"><u>Quick and Simple Guide to Downloading & Setting Up HP Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470655963-struggling-with-iphones-vpn-connection-issues-here-are-7-quick-fixes/"><u>Struggling with iPhone's VPN Connection Issues? Here Are 7 Quick Fixes.</u></a></li>
 </ul></div>
 

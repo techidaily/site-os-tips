@@ -1,7 +1,7 @@
 ---
 title: Unlock Your iPhone's Hidden White Noise Features for Better Sleep
-date: 2024-11-10T16:34:11.517Z
-updated: 2024-11-13T17:16:44.564Z
+date: 2024-11-20T17:48:57.818Z
+updated: 2024-11-23T17:23:02.592Z
 tags:
   - ios
 categories:
@@ -27,10 +27,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The good news is you can make a Shortcut to drastically improve the experience. The benefit is you don't need to rely on a third-party app that could have annoying ads or stream over the internet all night.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Play Sleep Sounds on iPhone
@@ -40,19 +37,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Tap the &quot;Settings&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-23-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll down and select "Accessibility."
 
 ![Select &quot;Accessibility.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-23-49.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now go to "Audio/Visual."
 
 ![Go to &quot;Audio/Visual.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-26-01.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, we can select "Background Sounds" (that was a hike).
 
@@ -63,10 +65,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Toggle on &quot;Background Sounds.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-33-04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are a few things to tweak on this page as well. First, you can tap "Sound" to choose between a few white noise levels, ocean, rain, or stream.
@@ -77,23 +76,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Adjust the volume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-31-33.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lastly, decide if you want the sounds to stop when the device is locked.
 
 ![Toggle on the &quot;Stop Sounds When Locked.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-32-24.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's all there is to it. This is a nice feature, but it's not easy to get to. Let's fix that.
 
@@ -105,13 +90,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the &quot;Shortcuts&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-41-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, tap the plus icon in the top right to create a new shortcut.
 
 ![Tap the plus icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-41-54.png) 
@@ -119,6 +97,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Now tap "Add Action."
 
 ![Tap &quot;Add Action.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-42-22.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Use the search bar to find "Set Background Sounds."
 
@@ -136,22 +118,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select &quot;Add to Home Screen.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-49-49.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap "Add" on the next screen.
 
 ![Tap &quot;Add.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-08_15-50-35.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, when you tap the shortcut on the home screen, it will toggle the sleep sounds on or off! You can [disable the Shortcuts notification if you'd like](https://screen-recording.techidaily.com/comprehensive-assessment-of-frozen-treats-on-display-for-2024/).
 
@@ -174,22 +147,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-anime-aesthetics-in-viral-tiktoks/"><u>[New] 2024 Approved Mastering Anime Aesthetics in Viral TikToks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-master-the-melodies-secrets-to-adding-soundtracks-on-insta-for-2024/"><u>[New] Master the Melodies Secrets to Adding Soundtracks on Insta for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-with-film-color-grading-these-7/"><u>2024 Approved Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210063785-9781071549889-bambole-talismano-slave-creazione-fai-da-te-di-talismani/"><u>Bambole talismano slave. Creazione fai da te di talismani | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichiers-m4a-a-mp3-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers M4A À MP3 en Ligne Avec Movavi</u></a></li>
-<li><a href="https://os-tips.techidaily.com/double-tap-feature-added-to-apple-watch-series/"><u>Double Tap Feature Added to Apple Watch Series</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-altstore-pal-version-completely-gratis-exclusive-offer-for-european-audiences/"><u>Download AltStore PAL Version Completely Gratis: Exclusive Offer for European Audiences</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-to-prevent-auto-lock-on-your-iphone-display/"><u>Effective Techniques to Prevent Auto-Lock on Your iPhone Display</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-next-level-nintendo-ds-gaming-on-your-ipad-with-our-newly-released-screen-controlled-emulator-feature/"><u>Experience Next-Level Nintendo DS Gaming on Your iPad with Our Newly Released Screen-Controlled Emulator Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-for-enhancing-productivity-with-apple-mail-on-ios-devices/"><u>Expert Strategies for Enhancing Productivity with Apple Mail on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-cons-critical-weaknesses-in-apples-latest-vision-pro-worth-considering/"><u>Exploring the Cons: Critical Weaknesses in Apple's Latest Vision Pro Worth Considering</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-ready-contact-sheets-soon-available-on-ios-devices/"><u>Get Ready: Contact Sheets Soon Available on iOS Devices!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/has-my-contact-blocked-me-understanding-imessage-communication-silence-cues/"><u>Has My Contact Blocked Me? Understanding iMessage Communication Silence Cues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-ftd2xxdll-file-not-found-complete-guide/"><u>Solving the ftd2XX.dll File Not Found - Complete Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-problem-voice-chat-malfunction-on-content-warnings/"><u>Solving the Problem: Voice Chat Malfunction on Content Warnings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unified-communication-strategy-utilizing-a-single-phone-number-with-multiple-electronic-devices/"><u>Unified Communication Strategy: Utilizing a Single Phone Number with Multiple Electronic Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-novices-pathway-to-writing-youtube-video-plans/"><u>[Updated] A Novice's Pathway to Writing YouTube Video Plans</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-deletion-of-iphone-gaming-applications-steps-for-swiftly-eliminating-data-and-cache/"><u>Effortless Deletion of iPhone Gaming Applications: Steps for Swiftly Eliminating Data and Cache</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-clearing-out-your-conversations-deleting-facebook-messenger-chats-from-ios-and-android-devices/"><u>Guide: Clearing Out Your Conversations - Deleting Facebook Messenger Chats From iOS & Android Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Samsung Galaxy Z Fold 5 ?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fast-remove-iphone-game-files-and-clear-cache-simple-methods-revealed/"><u>How To Fast Remove iPhone Game Files and Clear Cache: Simple Methods Revealed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-t2-pro-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo T2 Pro 5G Easily?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-hashtags-that-work-in-gaming-vlogs/"><u>In 2024, The Ultimate Guide Hashtags That Work in Gaming Vlogs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-cache-management-erase-browsing-data-from-chrome-and-safari-on-your-ipad-effortlessly/"><u>Mastering Cache Management: Erase Browsing Data From Chrome & Safari on Your iPad Effortlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-removal-a-step-by-step-guide-to-completely-uninstalling-iphone-and-ipad-applications/"><u>Permanent Removal: A Step-by-Step Guide to Completely Uninstalling iPhone and iPad Applications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/riconverti-i-tuoi-file-asf-in-formato-swf-gratuito-online-con-movavi-converter/"><u>Riconverti I Tuoi File ASF in Formato SWF Gratuito Online Con Movavi Converter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-note-30-vip-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Note 30 VIP Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Shame Mode Activated? Uncover the 10 Most Embarrassing iPhone Habits & Learn How to Break Free!
-date: 2024-11-07T18:50:56.923Z
-updated: 2024-11-14T23:21:57.098Z
+date: 2024-11-18T10:04:52.594Z
+updated: 2024-11-23T18:12:19.117Z
 tags:
   - ios
 categories:
@@ -36,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The only real purpose this signature serves anymore is to preemptively excuse typos made due to typing on a mobile keyboard. Solve this by proofreading your emails before you send them, and [making use of Apple Mail’s undo send feature to save face](https://video-screen-grab.techidaily.com/groundbreaking-biodegradable-film-technology-advice-for-2024/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Read Receipts in Messages 
 
  Your iPhone asks you if you want to enable read receipts when you first start using the Messages app, after which you’d be forgiven for forgetting the feature exists at all. Unfortunately, this means exposing your “leave on read” habits to all your closest contacts.
@@ -45,13 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The message read receipts toggle in Messages settings on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-03-41.png) 
 
  With the arrival of Rich Communication Services (RCS) support in iOS 18, read receipts work with Android users too (not just iMessage users, as was the case previously).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3  Your Apple Music Listening History 
 
@@ -64,10 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Fortunately, there is an answer. [Create a Focus mode with the “Use Listening History” filter disabled](https://some-knowledge.techidaily.com/updated-how-to-create-time-travel-teleportation-effects/), then enable it under Control Center every time you want to pause your Apple Music history.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Your Lack of a Decent Contact Poster 
@@ -93,17 +87,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The toggle for disabling the "Hidden" album in the iPhone Photos app settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-06-29.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Not Cleaning Your Screen or Ports 
@@ -114,22 +102,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Closeup of a smartphone with water droplets on it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/black-iphone-water-droplets.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [blackzheep/Shutterstock.com](https://www.shutterstock.com/image-photo/closeup-phone-be-waterproof-shot-on-674357041)
 
  While you’re at it, [give your iPhone’s charging port a good clean out too](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/). Not only can lint and other debris lead to unsightly grime forming, but a dirty charging port could eventually [stop your device from charging properly](https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/). Use a wooden toothpick and be careful not to damage the charging contacts.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7  A Grubby Case or Cracked Screen Protector 
 
@@ -140,15 +119,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A Quad Lock iPhone 13 Pro case with a mysterious split down the side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/quad-lock-case-split.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
  The same is true of the display. If your screen protector is broken, it’s served its purpose well. Retire it, replace it with another, and get that shiny new feeling back.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  A Messy Home Screen 
 
@@ -178,13 +158,6 @@ Tim Brookes / How-To Geek
 
  On top of this, contacts will be able to see you’ve silenced notifications when trying to send you messages so they have a heads-up that you’re not necessarily able to get back to them right away.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10  Bonus: Not Locking and Hiding Apps 
 
  A new feature in iOS 18 allows you to finally lock and hide apps behind Face ID. To use the feature, tap and hold an app’s icon on your Home Screen or in the App Library and choose “Require Face ID” then choose between just locking the app behind Face ID or also hiding it.
@@ -210,24 +183,22 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/21-vegas-pro-insights-an-expert-breakdown/"><u>'21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-2024iphone-your-phones-voice-diary/"><u>[New] 2024IPhone Your Phone's Voice Diary</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-engagement-mastery-how-to-craft-instagrams-best-puzzles-for-2024/"><u>[New] Engagement Mastery How to Craft Instagram's Best Puzzles for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-screen-recorder-for-androids-seamless-use/"><u>[Updated] 2024 Approved Free Screen Recorder for Android's Seamless Use</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-audio-capture-from-skype-for-mp3/"><u>2024 Approved Mastering Audio Capture From Skype for MP3</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-android-optimization-tools-top-10-apps-to-enhance-your-phones-speed-and-efficiency/"><u>Best Android Optimization Tools: Top 10 Apps to Enhance Your Phone's Speed and Efficiency</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-f54-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy F54 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-moto-g13-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Moto G13 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-ms-paint-on-windows-11-quick-guide/"><u>Launching MS Paint on Windows 11: Quick Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/macbook-webcam-recording-tutorial/"><u>MacBook Webcam Recording Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-to-resolve-non-delivery-of-texts-or-emails-understand-and-address-common-hurdles/"><u>Quick Fixes to Resolve Non-Delivery of Texts or Emails – Understand and Address Common Hurdles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-the-error-4504-message-not-found-on-your-android-device-easy-fix-guide/"><u>Solve the 'Error 4504: Message Not Found' On Your Android Device - Easy Fix Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-setting-upaccessingrestoringremoving-a-samsung-account-and-effective-strategies-for-backup-and-restoration-of-your-personal-informa3/"><u>Step-by-Step Tutorial on Setting Up/Accessing/Restoring/Removing a Samsung Account & Effective Strategies for Backup & Restoration of Your Personal Information</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-activating-and-using-smart-lock-functionality-in-android-systems/"><u>Step-by-Step Tutorial: Activating and Using Smart Lock Functionality in Android Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-rooting-your-htc-one-m8-using-free-tools-a-beginners-guide/"><u>Step-by-Step Tutorial: Rooting Your HTC One (M8) Using Free Tools - A Beginner's Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-android-location-services-discover-the-top-10-best-options/"><u>The Ultimate Guide to Android Location Services - Discover the Top 10 Best Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshoot-your-message-send-failures-fast-solutions-for-persistent-issues/"><u>Troubleshoot Your Message Send Failures: Fast Solutions for Persistent Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-the-smart-lock-feature-on-your-android-phone/"><u>Ultimate Guide: Mastering the Smart Lock Feature on Your Android Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-comprehensive-kinetics-study-2023/"><u>[New] 2024 Approved Comprehensive Kinetics Study 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-optimal-offerings-best-devices-for-hd-video-processing/"><u>[New] Optimal Offerings Best Devices for HD Video Processing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ultimate-directory-easy-classics-ringtone-websites-for-2024/"><u>[New] Ultimate Directory Easy Classics Ringtone Websites for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-clearshot-capture-high-quality-windowsmac-imaging/"><u>[Updated] In 2024, ClearShot Capture High-Quality Windows/Mac Imaging</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beginners-guide-adding-text-overlays-on-youtube/"><u>Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-free-dvd-and-blu-ray-player-software-on-windows-10-top-3-picks/"><u>Best Free DVD & Blu-Ray Player Software on Windows 10: Top 3 Picks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211218275-9781803414799-developing-your-supernatural-awareness/"><u>Developing Your Supernatural Awareness | Free Book</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>In 2024, Tech Titans Triumph Best Online Tools to Record Your Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-using-ffpm-in-firefox/"><u>In 2024, The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-lost-images-from-an-iphoneipad/"><u>Step-by-Step Guide: Retrieving Lost Images From an iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-your-iphone-from-being-easily-found-disable-discovery-settings-instantly/"><u>Stop Your iPhone From Being Easily Found: Disable Discovery Settings Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-beaver-state-strikes-back-how-oregons-new-law-challenges-restrictive-manufacturer-policies-like-apples-parts-lockdown/"><u>The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-dawn-of-ubiquitous-smartphone-conformity-across-platforms/"><u>The Dawn of Ubiquitous Smartphone Conformity Across Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/think-twice-before-investing-in-these-4-trending-apple-gadgets/"><u>Think Twice Before Investing in These 4 Trending Apple Gadgets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-expectations-for-apples-newest-ipad-mini/"><u>Top Expectations for Apple's Newest iPad Mini</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-models-your-comprehensive-buyers-guide/"><u>Top-Rated iPad Models : Your Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-iphone-15-pro-our-picks/"><u>Top-Rated Protective Covers for the iPhone 15 Pro: Our Picks</u></a></li>
 </ul></div>
 

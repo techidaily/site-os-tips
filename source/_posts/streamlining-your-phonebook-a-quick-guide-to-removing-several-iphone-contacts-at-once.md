@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once"
-date: 2024-11-10T19:43:00.603Z
-updated: 2024-11-15T01:10:35.222Z
+date: 2024-11-19T02:32:06.903Z
+updated: 2024-11-24T01:28:28.048Z
 tags:
   - ios
 categories:
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  The "Contacts" app is often tucked in a folder and forgotten. There's a good chance you have some old contacts and duplicates cluttering it up. We'll show you a few ways to delete multiple contacts on an iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Can You Delete Multiple Contacts at Once on iPhone?
 
  Apple technically has an official method for removing multiple contacts at once on an iPhone. It was added in [iOS 16](https://facebook-video-footage.techidaily.com/2024-approved-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid/), but as we'll show below, it's actually not very practical.
@@ -55,16 +48,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap and hold a contact with two fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0209.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Drag both fingers down (or up) until you've selected all the contacts you'd like to delete. Release your fingers.
 
 ![Drag down with two fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0210.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap and hold with one finger on any of the selected contacts to bring up the menu. Select "Delete X Contacts."
 
@@ -74,7 +64,15 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Delete Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0212.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's all there is to it! This method isn't great if you're looking to select contacts that aren't arranged in order.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use an App to Delete Multiple Contacts on iPhone
 
@@ -92,16 +90,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap and hold one contact to select them, then select other contacts to delete.
 
 ![Press and hold a contact, then select more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0204.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now with all the contacts you want to delete highlighted, tap the trash icon in the bottom right corner.
 
@@ -121,19 +116,24 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Continue&quot; and &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0195-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a feature called "Contacts Enrichment" that will label certain contacts automatically. You don't need to enable this.
 
 ![Contacts Enrichment is optional.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0197.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, select "All Contacts" at the top of the screen.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can tap and hold one contact to select them. After one is selected, you can tap all the other contacts you'd like to delete until they're all highlighted.
@@ -167,10 +167,7 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ![Select &quot;View Duplicates.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0189.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select the contact you'd like to merge, or tap "Merge All" to merge them all at once.
@@ -180,13 +177,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  If you select an individual contact, you'll see where the duplicates are being pulled from. In this case, I have the same contact listed twice [from my synced Google account](https://facebook-record-videos.techidaily.com/updated-in-2024-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts/). It also shows which information will be merged. Tap "Merge" to continue to combine.
 
 ![Tap &quot;Merge.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0191.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lastly, confirm your decision by selecting "Merge" from the pop-up.
 
@@ -206,6 +196,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Contacts Enrichment is optional.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0197.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, select "All Contacts" at the top of the screen.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
@@ -214,22 +208,12 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap and hold one contact.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0213.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After one contact is selected, a checkmark button will appear in the top right corner. Tap the button to select all your contacts.
 
 ![Select the checkmark button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0214.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With all the contacts selected, tap the trash icon in the bottom bar.
@@ -261,24 +245,20 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlocking-the-secrets-of-spectacular-insta-films/"><u>[New] 2024 Approved Unlocking the Secrets of Spectacular Insta Films</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/osplusandroid-tips-for-uninterrupted-youtube-viewing-for-2024/"><u>[New] IOS+Android Tips for Uninterrupted YouTube Viewing for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-htc-vive-a-gateway-to-extraordinary-virtual-realms/"><u>[Updated] HTC Vive A Gateway to Extraordinary Virtual Realms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-stream-snippets-yearly-update/"><u>[Updated] Social Stream Snippets, Yearly Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-how-to-securely-archive-your-text-messages-from-iphone-or-android/"><u>Easy Guide: How to Securely Archive Your Text Messages From iPhone or Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-for-updated-drivers-of-hp-officejet-5255/"><u>Easy Installation Guide for Updated Drivers of HP OfficeJet 5255</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-transferring-your-android-messages-to-pc-or-mac-effortlessly/"><u>Guide: Transferring Your Android Messages to PC or Mac Effortlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-login-assistant-required-for-accessibility-services-a-step-by-step-guide/"><u>How to Resolve 'Login Assistant Required for Accessibility Services': A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-transfer-images-from-your-android-device-or-apple-smartphone/"><u>How to Transfer Images From Your Android Device or Apple Smartphone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-how-to-fix-and-prevent-slow-frame-rates/"><u>Outriders: How to Fix and Prevent Slow Frame Rates</u></a></li>
-<li><a href="https://os-tips.techidaily.com/preserve-your-chats-a-comprehensive-tutorial-for-archiving-messages-on-the-samsung-galaxy-and-note-smartphones/"><u>Preserve Your Chats: A Comprehensive Tutorial for Archiving Messages on the Samsung Galaxy and Note Smartphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-accountsservice-daemon-needs-a-login-issue-3-effective-strategies/"><u>Solving the 'AccountsService Daemon Needs a Login' Issue: 3 Effective Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-dominance-versus-gogs-niche-marketplace-role/"><u>Steam's Dominance Versus GOG's Niche Marketplace Role</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-switching-your-apple-login-credentials-from-ios-to-android/"><u>Step-by-Step Guide: Switching Your Apple Login Credentials From iOS to Android</u></a></li>
-<li><a href="https://os-tips.techidaily.com/syncing-apple-device-access-a-step-by-step-guide-for-managing-keychain-passwords-across-your-iphones-and-macs/"><u>Syncing Apple Device Access: A Step-by-Step Guide for Managing Keychain Passwords Across Your iPhones and Macs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-10t-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme 10T 5G Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-icloud-keychain-a-step-by-step-guide-to-unlocking-your-iphones-secrets/"><u>Understanding iCloud Keychain: A Step-by-Step Guide to Unlocking Your iPhone's Secrets</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-checklist-for-movie-maker-videos-on-vimeo/"><u>[New] 2024 Approved The Ultimate Checklist for Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-art-of-package-revelation-amplifying-initial-impressions/"><u>[New] The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-the-world-of-youtube-where-are-my-comments/"><u>[Updated] Exploring the World of YouTube Where Are My Comments?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f14-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy F14 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-online-platforms-for-sending-and-receiving-text-messages-top-10-picks/"><u>Best Free Online Platforms for Sending and Receiving Text Messages - Top 10 Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-how-to-reflect-iphone-display-on-a-2024-vizio-television/"><u>Complete Tutorial: How to Reflect iPhone Display on a 2024 VIZIO Television</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-tracking-your-smartphones-whereabouts-on-both-android-and-apple-devices/"><u>Comprehensive Guide: Tracking Your Smartphone's Whereabouts on Both Android and Apple Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-stunning-self-portraits-on-your-iphone-in-four-various-settings/"><u>Creating Stunning Self-Portraits on Your iPhone in Four Various Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-mirror-an-ipad-onto-roku-the-three-ultimate-techniques/"><u>How to Effortlessly Mirror an iPad Onto Roku: The Three Ultimate Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-windows-11s-biometric-authentication/"><u>Implementing Windows 11'S Biometric Authentication</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>In 2024, Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-ways-to-stream-any-media-directly-to-your-television-screen-no-apple-tv-required/"><u>New Ways to Stream Any Media Directly to Your Television Screen, No Apple TV Required</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-list-of-top-sd-cards-for-gopro-hero-78-for-2024/"><u>The Ultimate List of Top SD Cards for GoPro HERO 7/8 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-score-amazing-savings-on-laptops-this-oct-24-exclusive-deals-revealed-by-zdnet/"><u>Ultimate Guide: Score Amazing Savings on Laptops This Oct '24 – Exclusive Deals Revealed by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y100A | Dr.fone</u></a></li>
 </ul></div>
 

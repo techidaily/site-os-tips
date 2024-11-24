@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Productivity: A Step-by-Step Guide on Setting Up Your iPad as a Secondary Display for Windows and macOS Computers"
-date: 2024-11-06T17:51:01.680Z
-updated: 2024-11-13T19:47:55.264Z
+date: 2024-11-17T17:09:51.881Z
+updated: 2024-11-24T02:10:21.530Z
 tags:
   - ios
 categories:
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
  An iPad can't compete with a [real monitor](https://facebook-video-recording.techidaily.com/in-2024-unlocking-top-five-transformative-facebook-traits/) in terms of size or price, of course. But if you already have an iPad, it can pull double duty as a second monitor at your desk, or even with your laptop when you're out and about. A [simple iPad stand](https://amazon.com/dp/B01IJ5A2UA?tag=htg-v2-4p2k1g2-20&ascsubtag=UUhtgUeUpU222981&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F100886%2Fhow-to-use-your-ipad-as-a-second-monitor-for-your-pc-or-mac%2F&asc%5Fcampaign=Short-Term) or a [case with a built-in stand](https://www.amazon.com/s?tag=htg-v2-4p2k1g2-20&ascsubtag=UUhtgUeUpU222981&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F100886%2Fhow-to-use-your-ipad-as-a-second-monitor-for-your-pc-or-mac%2F&asc%5Fcampaign=Short-Term) completes the experience.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use iPad as a Second Monitor For Windows
@@ -43,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Sign in to "Duet Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/IMG_0049.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The first time you use Duet Display, you'll need to connect your iPad to your PC [with a cable](https://games-able.techidaily.com/bypassing-steam-disconnection-in-windows-11/). We can switch to wireless mode for future connections later.
 
  Once the devices are connected with a cable, and Duet Display is signed in and running on both, you'll see a brief zoom-out animation on your Windows display, and the desktop will be extended to your iPad.
@@ -62,38 +52,25 @@ Joe Fedewa / How-To Geek
 
 ![Select "Display Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should see two screens--one representing your main computer monitor (1), and the other representing your iPad (2). Click and drag the iPad screen to position it as it's positioned in real life, then click "Apply."
 
 ![Move display and click "Apply."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is also where you can choose to "Extend These Displays" or "Duplicate These Displays," which is screen mirroring.
 
 ![How to use Displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-29-46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, let's take a look at Duet Display's settings. Open the Windows app and switch to the "Settings" tab.
 
 ![Select the "Settings" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-28-38.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are a number of settings you may be interested in here. The one we're interested in is "Enable Duet Air." This will allow you to connect to your iPad wirelessly from this point on.
 
@@ -106,10 +83,7 @@ Joe Fedewa / How-To Geek
 ![Display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-33-03.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you've tweaked things to your liking, you're ready to go! It should be noted that Duet Display is also [available for macOS](https://updates.duetdisplay.com/AppleSilicon) if you happen to not like Sidecar or your Mac doesn't support the feature.
@@ -136,9 +110,17 @@ Joe Fedewa / How-To Geek
 
 ![iPad in the Mac display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the iPad itself, you'll see a sidebar with commonly used Mac controls.
 
 ![Sidecar UI showing Safari running How to Geek Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Sidecar-UI-showing-Safari-running-How-to-Geek-Website.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's the basics for Sidecar on Mac. It's a pretty remarkable and seamless experience. You can even [use your iPad with an Apple Pencil as a drawing pad for your Mac](https://extra-resources.techidaily.com/2024-approved-complete-exploration-of-morphvox-technology-for-voice-transformation/). If Sidecar is not an option for you, there are [some alternatives to try](https://screen-video-capture.techidaily.com/new-groundbreiting-recording-solutions-for-environmental-films-for-2024/).
 
@@ -163,15 +145,20 @@ Related: [How to Use Your iPad as an External Mac Display With Sidecar](https://
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastering-the-art-of-tiktok-intros-on-mac-devices-for-2024/"><u>[New] Mastering the Art of TikTok Intros on Mac Devices for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>[New] Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-and-dailymotion-unveiling-core-variations/"><u>[Updated] In 2024, YouTube & Dailymotion Unveiling Core Variations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-augmenting-youtube-video-space/"><u>[Updated] Step-by-Step Augmenting YouTube Video Space</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-12-4g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 12 4G PC | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-the-fallout-how-apple-downtime-causes-iphone-app-issues/"><u>Navigating the Fallout: How Apple Downtime Causes iPhone App Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/next-gen-performance-showdown-the-evolution-from-apples-a14-to-the-revolutionary-m1-chip/"><u>Next-Gen Performance Showdown: The Evolution From Apple's A14 to the Revolutionary M1 Chip</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/optimiser-la-taille-de-vos-fichiers-mp4-sans-sacrifier-la-qualite-guide-complet/"><u>Optimiser La Taille De Vos Fichiers MP4 Sans Sacrifier La Qualité - Guide Complet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/refresh-your-iphones-look-with-automatic-wallpaper-rotation/"><u>Refresh Your iPhone's Look with Automatic Wallpaper Rotation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-your-apple-watch-a-comprehensive-tutorial-for-beginners-and-pros/"><u>Resetting Your Apple Watch - A Comprehensive Tutorial for Beginners and Pros</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-captivating-thumbnails-a-comprehensive-guide-for-youtube-creators/"><u>[New] Crafting Captivating Thumbnails A Comprehensive Guide for YouTube Creators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-restoration-guide-resetting-iphone-15-how-to-wipe-all-data-and-configurations/"><u>Complete Restoration Guide: Resetting iPhone 15 – How to Wipe All Data & Configurations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-reset-your-iphoneipads-battery-usage-data/"><u>Comprehensive Guide: How to Reset Your iPhone/iPad's Battery Usage Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/delete-your-kik-conversations-forever-4-stealthy-techniques/"><u>Delete Your Kik Conversations Forever: 4 Stealthy Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-to-get-your-vrchat-up-and-running-again/"><u>Effective Fixes to Get Your VRChat Up and Running Again!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-ethernet-connectivity-for-windows-printers/"><u>Enhance Ethernet Connectivity for Windows Printers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/find-your-ideal-wedding-timer-on-android-and-ios-platforms-here-for-2024/"><u>Find Your Ideal Wedding Timer on Android & iOS Platforms Here for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-8-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 8 without App | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/modifying-personal-date-of-birth-online-fb/"><u>Modifying Personal Date of Birth Online (FB)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pclistenradio/"><u>PC環境下でListenRadio番組の録音テクニック</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-your-shopping-records-from-iphone/"><u>Step-by-Step Guide: Clearing Your Shopping Records From iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-secure-methods-for-completely-erasing-your-iphones-sms-history/"><u>Top 3 Secure Methods for Completely Erasing Your iPhone's SMS History</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-5-best-action-cameras-for-hunting-for-2024/"><u>Top 5 Best Action Cameras for Hunting for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-deletion-of-your-icloud-email-address/"><u>Ultimate Guide: Mastering Deletion of Your iCloud Email Address</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-erase-music-files-in-itunes-for-desktop-users/"><u>Ultimate Tutorial: How to Erase Music Files in iTunes for Desktop Users</u></a></li>
 </ul></div>
 

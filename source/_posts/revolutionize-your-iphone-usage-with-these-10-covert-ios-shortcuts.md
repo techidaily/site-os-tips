@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2024-11-11T17:25:17.283Z
-updated: 2024-11-15T01:06:57.424Z
+date: 2024-11-19T08:25:56.504Z
+updated: 2024-11-24T03:04:52.049Z
 tags:
   - ios
 categories:
@@ -30,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Here are 10 features you might not have heard of before, but once you get the hang of them, they can change how you do many things on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pause Music and Podcast Playback with a Timer
 
  It's not uncommon for iPhone users to sleep while listening to their favorite music track or podcast on Apple Music or Apple Podcast apps. However, only some know that the [iPhone's Clock app](https://android-frp.techidaily.com/poco-m6-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/) allows one to set a timer so that when it ends, it stops anything that is playing at the time, including WhatsApp audio or YouTube videos, and locks the screen.
@@ -46,10 +39,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![iPhone's home screen with an arrow next to the Clock app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select Timer from the options at the bottom of the screen.
@@ -63,13 +53,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Now choose the "When Timer Ends" option, scroll to the bottom of the menu, and hit "Stop Playing." Press Set at the top right.
 
 ![When Timer Ends option in Timer with a rectangle around the Stop Playing option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, hit the Start button and tune in to your bedtime playlist without worrying about stopping the playback, as the Clock app will automatically pause it and lock the screen for you.
 
@@ -97,16 +80,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Siri's confirmation dialogue box for turning on flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To turn off the flashlight, invoke Siri and say "Knox." Again, Siri confirms that the flashlight is off.
 
 ![Siri's confirmation for turning off the flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-13.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you haven't set up Siri, check out our guide on [enabling and using "Hey Siri" on iPhone](https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/) and iPad.
 
@@ -118,15 +98,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Photo picker in iOS 16 with an arrow next to the Copy option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head to a chat in WhatsApp and select paste. This will turn the image into a sticker that you can share with others.
 
 ![Custom Sticker dialog box on WhatsApp with an arrow next to the Send option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set Custom Alerts to Prepare for Charging the iPhone
@@ -153,6 +138,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Personal Automation options highlighting the battery level](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the bottom of the screen, search for "Notifications" and select "Show Notifications."
 
 ![Personal Automation menu highlighting the Show Notification option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6-6.png) 
@@ -165,20 +154,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Personal automation summary screen on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/personal-automation.png) 
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you'll get a notification that warns you about the battery percentage and gives you more time to prepare to charge your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Shield Sensitive Information with Notes Lock
 
@@ -191,6 +171,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Tap on Password.
 
 ![Notes settings highlighting the Password option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-15.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the following screen, choose "Use iPhone Passcode." Enter your iPhone's current password to confirm.
 
@@ -207,13 +191,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can lock this note from the app's menu by hitting the lock beside its name or locking your phone.
 
 ![An arrow next to the lock icon in an Apple Notes file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lock-icon-in-notes-app.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Elevate the Lock Screen's Appearance with Depth Effect
 
@@ -240,10 +217,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Highlighting the Set as Wallpaper Pair option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change How Notifications Appear on Your iPhone
@@ -280,6 +254,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Measure a Surface's Slope with the Hidden Spirit Level
 
  To end this list, we would like to tell you about another hidden iPhone feature that hides in plain sight: the digital spirit leveler. You might know your iPhone has the Measure app that lets you measure the distance between two objects. This app also has the Level feature that determines whether an object is perfectly straight or flat.
@@ -313,21 +291,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-complete-rundown-of-essential-youtube-video-downloading-apps-android/"><u>[New] The Complete Rundown of Essential YouTube Video Downloading Apps (Android)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boost-your-cinematography-game-essential-iphone-gear/"><u>[Updated] Boost Your Cinematography Game Essential iPhone Gear</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-echoes-of-everyday-events/"><u>[Updated] Echoes of Everyday Events</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-resolving-issues-with-mass-effect-trilogy-in-the-legendary-edition/"><u>Fixes and Solutions: Resolving Issues with Mass Effect Trilogy in the Legendary Edition</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-advanced-forex-technology-impacts-your-investments-a-deep-dive-into-mt4-copiers/"><u>How Advanced Forex Technology Impacts Your Investments: A Deep Dive Into MT4 Copiers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-oppo-a1x-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo A1x 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-itunes-error-code-2-on-windows-11-8-7-vista-and-xp/"><u>How to Resolve iTunes Error Code 2 on Windows 11, 8, 7, Vista & XP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chromebook-soundscaping-guide-selecting-the-best-text-to-speech-apps-online/"><u>In 2024, Chromebook Soundscaping Guide Selecting the Best Text-to-Speech Apps Online</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-mastering-multi-video-viewing-on-youtube/"><u>In 2024, Mastering Multi-Video Viewing on YouTube</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-iphone-restarts-an-in-depth-look-at-both-soft-and-factory-reset-procedures/"><u>Mastering iPhone Restarts: An In-Depth Look at Both Soft and Factory Reset Procedures</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210396427-9781087996172-on-cue/"><u>On Cue | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reliable-methods-to-resolve-iphoneipad-video-playback-errors/"><u>Reliable Methods to Resolve iPhone/iPad Video Playback Errors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-rapid-iphone-battery-depletion-solutions-and-tips/"><u>Understanding Rapid iPhone Battery Depletion: Solutions & Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-parental-controls-no-password-needed/"><u>Unlock Your iPhone's Parental Controls: No Password Needed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/utilizing-emoji-and-sticker-features-for-enhanced-messaging-on-ios-10/"><u>Utilizing Emoji & Sticker Features for Enhanced Messaging on iOS 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-10-steps-to-become-a-successful-smm-for-2024/"><u>[New] 10 Steps to Become a Successful SMM for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-7-strategies-for-delicious-food-vids/"><u>[Updated] Top 7 Strategies for Delicious Food Vids</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-comprehensive-guide-to-ringtones-for-snapchat-users/"><u>2024 Approved Comprehensive Guide to Ringtones for Snapchat Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-stealthy-introduction-to-unique-accessories-just-in-a-zdnet-review-reveals-the-charm-and-details/"><u>Apple's Stealthy Introduction to Unique Accessories Just In: A ZDNet Review Reveals the Charm and Details</u></a></li>
+<li><a href="https://common-error.techidaily.com/desktop-icon-vanishing-act-on-windows-11-heres-how-to-get-them-back/"><u>Desktop Icon Vanishing Act on Windows 11? Here's How to Get Them Back</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-when-windows-wont-progress-past-configuring-your-pc/"><u>Easy Solutions for When Windows Won't Progress Past 'Configuring Your PC'</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/engineering-peak-canon-sequential-films/"><u>Engineering Peak Canon Sequential Films</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-revive-your-iphones-battery-life-after-the-latest-ios-1751-installation-tips-from-zdnet/"><u>How to Revive Your iPhone's Battery Life After the Latest iOS 17.5.1 Installation | Tips From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-8t-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 8T 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/silence-intrusive-numbers-on-your-iphone-tips-for-blocking-sms/"><u>Silence Intrusive Numbers on Your iPhone: Tips for Blocking SMS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-accessing-and-checking-your-devices-location-history-on-iphoneipad/"><u>Step-by-Step Guide: Accessing and Checking Your Device's Location History on iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-save-youtube-content-for-offline-viewing-on-mobile-phones-and-tablets/"><u>Step-by-Step Tutorial: Save YouTube Content for Offline Viewing on Mobile Phones and Tablets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-saving-apple-maps-previews-for-offline-use-on-iphone-and-ipad/"><u>Step-by-Step Tutorial: Saving Apple Maps Previews for Offline Use on iPhone & iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/successfully-streaming-from-your-ipad-to-the-big-screen-tv-compatibility-tips/"><u>Successfully Streaming From Your iPad to the Big Screen - TV Compatibility Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/tackling-troubles-with-ios-18-photos-essential-steps-apple-must-take-to-improve-user-experience/"><u>Tackling Troubles with iOS 18 Photos: Essential Steps Apple Must Take to Improve User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-top-7-most-bizarre-and-unusual-iphone-accessories/"><u>The Top 7 Most Bizarre and Unusual iPhone Accessories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-11-essential-factors-to-consider-before-purchasing-pre-owned-iphones/"><u>Top 11 Essential Factors to Consider Before Purchasing Pre-Owned iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-new-iphone-15-2023-edition/"><u>Top-Rated Protective Covers for the New iPhone 15 - 2023 Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-9-key-platforms-where-aspiring-users-learn-about-artificial-intelligence-tools/"><u>Unveiling 9 Key Platforms Where Aspiring Users Learn About Artificial Intelligence Tools</u></a></li>
 </ul></div>
 

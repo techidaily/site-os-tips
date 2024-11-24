@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2024-11-08T00:58:32.872Z
-updated: 2024-11-14T16:25:57.232Z
+date: 2024-11-16T18:27:09.186Z
+updated: 2024-11-23T21:59:55.190Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,13 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Creating Cutouts is Easy
 
  As long as you have an iPhone XS or second-generation iPhone SE or newer, creating a cutout is so easy you’ll probably do it by mistake. You can [isolate subjects in photos](https://extra-support.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/) including people, pets, and inanimate objects like signs or clothing.
@@ -40,10 +37,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Isolating a subject from an image in iPhone Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1922.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -51,6 +45,10 @@ Tim Brookes / How-To Geek
  You can also create cutouts using the Files app, isolating subjects in images saved to your iCloud Drive or internal storage. To do this, long-press a photo and use the “Quick Actions” menu to “Remove Background.” In Safari, you can long press on a photo to reveal the context menu and then choose “Copy Subject” to copy the subject to your clipboard.
 
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create Stickers Using Photo Cutouts
 
@@ -78,6 +76,10 @@ Tim Brookes / How-To Geek
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Visual Log of Outfits and More
 
  This was an idea I saw [shared by TikTok user](https://www.tiktok.com/@macaulay%5Fflower/video/7142962238343630126) macaulay\_flower and it’s a stroke of genius. By taking a full-body selfie, you can create a visual log of outfits that can be easily stored in Apple Notes. Each time you come up with a new look, take another image, copy the subject, and paste it into your note.
@@ -86,25 +88,11 @@ Tim Brookes / How-To Geek
 
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Them in Instagram Stories
 
  Once you’ve copied a subject to your clipboard, using it in an Instagram story is easy if you know how. Once you’ve got your background sorted, you can tap anywhere within the frame to add text. Tap again to reveal the “Paste” option and use it to add a subject from your clipboard to your story.
 
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -126,13 +114,6 @@ Tim Brookes / How-To Geek
 
 ![Adding a subject to a Google Doc using the iPhone paste functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1929.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Publishing apps like [Apple Pages](https://apps.apple.com/us/app/pages/id361309726) and [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640), in addition to slideshow tools like [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) and [Apple Keynote](https://apps.apple.com/us/app/keynote/id409183694?mt=12) also natively support the feature. Design and layout apps like [Canva](https://apps.apple.com/us/app/canva-design-art-ai-editor/id897446215) and [PicCollage](https://apps.apple.com/au/app/piccollage-ai-photo-editor/id448639966) both support pasting of subjects once they’ve been copied to your clipboard.
@@ -140,6 +121,10 @@ Tim Brookes / How-To Geek
  Using these apps you can make use of templates to design a wide variety of digital and printable materials, from Instagram posts to business cards. In most cases, all you need to do is tap or long-tap and select “Paste.” Sometimes you’ll find this option underneath an ellipsis “...” menu instead.
 
  Many apps support the feature, you just need to experiment. Though you can’t refine what is selected as part of the subject isolation process, the feature makes it much easier to create impressive-looking work on mobile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Save for Use as a Transparent PNG
 
@@ -168,18 +153,16 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beginners-blueprint-for-green-screen-in-kinemaster/"><u>[New] Beginner's Blueprint for Green Screen in KineMaster</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-review-vrs-winning-features-and-faults/"><u>[New] In-Depth Review VR's Winning Features & Faults</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-your-live-broadcasts-with-obs-and-zoom/"><u>[Updated] 2024 Approved Optimizing Your Live Broadcasts with OBS & Zoom</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-guffaw-generator-pictorial-editor/"><u>[Updated] In 2024, Guffaw Generator Pictorial Editor</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-video-editing-tips-tips-for-making-a-better-home-movie/"><u>2024 Approved Video Editing Tips - Tips for Making a Better Home Movie</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits-for-2024/"><u>Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-digitization-on-demand-how-to-utilize-your-iphones-advanced-document-scanning-capabilities/"><u>Effortless Digitization on Demand: How to Utilize Your iPhone’s Advanced Document Scanning Capabilities</u></a></li>
-<li><a href="https://os-tips.techidaily.com/five-effective-methods-to-troubleshoot-and-repair-your-non-responsive-ipad-power-buttons/"><u>Five Effective Methods to Troubleshoot and Repair Your Non-Responsive iPad Power Buttons</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/how-to-combat-shake-in-visual-media-for-2024/"><u>How to Combat Shake in Visual Media for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-vrchat-crashes-8-reliable-methods-for-pc-users/"><u>How to Prevent and Fix VRChat Crashes: 8 Reliable Methods for PC Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-meizu-frp-by-drfone-android/"><u>The Updated Method to Bypass Meizu FRP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-iphone-silent-mode-understanding-the-causes-behind-missing-vibration-alerts/"><u>Troubleshooting iPhone Silent Mode: Understanding the Causes Behind Missing Vibration Alerts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unable-to-add-songs-to-your-iphone-discover-the-top-5-fixes/"><u>Unable to Add Songs to Your iPhone? Discover the Top 5 Fixes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-raw-to-rad-turning-up-the-heat-with-snapchat-filters/"><u>[New] From Raw to Rad Turning Up the Heat with Snapchat Filters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-real-time-broadcast-logging-made-simple-for-2024/"><u>[New] Real-Time Broadcast Logging Made Simple for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-your-first-encounter-with-snapseed-image-editing/"><u>[Updated] 2024 Approved Your First Encounter with Snapseed Image Editing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-the-current-period-option-for-your-iphones-cellular-data-usage-insights-and-tips/"><u>Decoding the 'Current Period' Option for Your iPhone's Cellular Data Usage: Insights and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-mice-of-2024-reviewed-and-rated/"><u>Discover the Leading Gaming Mice of 2024 Reviewed and Rated</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-your-must-use-iphone-audio-tool-a-hidden-gem-in-music-apps/"><u>Discover Your Must-Use iPhone Audio Tool: A Hidden Gem in Music Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/downsizing-pictures-like-a-pro-on-iphone-and-ipad/"><u>Downsizing Pictures Like a Pro on iPhone & iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-to-enable-screen-time-restrictions-for-apps-on-apples-iphone-and-ipad/"><u>Easy Steps to Enable Screen Time Restrictions for Apps on Apple's iPhone & iPad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolved-dvd-master-title-sequence-glitches-now-fixed/"><u>Resolved: DVD Master Title Sequence Glitches Now Fixed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-grand-release-of-free-gpt-n-reasons-to-stick-with-your-exclusive-chatgpt-plus-membership/"><u>The Grand Release of Free GPT-N: Reasons to Stick With Your Exclusive ChatGPT Plus Membership</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-microsoft-store-error-0x87e00017/"><u>Tips for Fixing Microsoft Store Error 0X87e00017</u></a></li>
 </ul></div>
 

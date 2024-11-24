@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad"
-date: 2024-11-13T19:05:18.419Z
-updated: 2024-11-14T17:15:52.613Z
+date: 2024-11-17T20:34:25.711Z
+updated: 2024-11-24T02:59:26.590Z
 tags:
   - ios
 categories:
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Apple's Mail app doesn't provide a lot of control over how much storage it uses. it wants to download and store a lot of emails so they can be indexed and searchable with [Spotlight](https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/). On iOS the Mail app may take up gigabytes of storage space because it wants to store a complete offline copy of your email. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  See How Much Space Mail is Using
 
  You can see how much space your iPhone or iPad's Mail app is using in the same way you'd [see how much space any other app is using](https://extra-guidance.techidaily.com/2024-approved-srs-mastery-innovative-conversion-techniques/). Open the Settings app on your device, and head to General > iPhone Storage.
@@ -46,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![The Mail app in the storage list. It shows 125 megabytes in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-mail.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Bad Solution: Manually Delete Emails
@@ -60,11 +50,23 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Tap the three-line button in the bottom left, then tap the "Filter By" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-tap-three-line-button-tap-filter-by.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap the toggle next to 
 
 ![Filters from the mail app, including "Only Mail with Attachments," "Only from VIP," and "Only Mail Sent Today."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-only-mail-with-attachments.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **You probably don't want to do this!** Any emails you delete from your phone will be deleted from the server if you [use IMAP for your email](https://fox-glue.techidaily.com/2024-approved-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/), which you probably do. Even if this wasn't a problem, this would take a long time. There's also no way to delete an attachment from an email—you just have to delete the entire email.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Better Solution: Remove and Re-Add the Account
 
@@ -76,23 +78,9 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Tap the "Delete Account" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-delete-gmail-account.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, power down your iPhone or iPad and start it back up to ensure all offline caches are completely cleared. Open the Mail app and you'll be asked to provide your email account details again. 
 
  Your iPhone will start downloading emails again, but this will clear out that old backlog of cached emails and file attachments.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Limit the Number of Emails Your Service Provides to Mail
 
@@ -105,10 +93,7 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![Limit the size of IMAP folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-folder-size-limits.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Another Email App instead of Mail
@@ -144,19 +129,24 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-identifying-a-user-writes-silent-unseen-snapshots/"><u>[New] In 2024, Identifying a User' Writes Silent, Unseen Snapshots</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-nailing-the-perfect-shot-advanced-strategies-for-instagram-video-editing/"><u>[Updated] In 2024, Nailing the Perfect Shot Advanced Strategies for Instagram Video Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-selective-selection-best-bands-for-ringtones/"><u>2024 Approved Selective Selection Best Bands for Ringtones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-a24-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy A24</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comprehensive-guide-retrieving-deleted-information-on-a-sony-vaio-computer-system/"><u>Comprehensive Guide: Retrieving Deleted Information on a Sony Vaio Computer System</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/dynamic-broadcasting-with-manycam-high-quality-live-streaming-tools-and-online-camera-solutions/"><u>Dynamic Broadcasting with ManyCam - High-Quality Live Streaming Tools & Online Camera Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-and-quick-download-your-asus-monitor-drivers-without-hassle/"><u>Easy and Quick: Download Your ASUS Monitor Drivers Without Hassle!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-repair-an-unformatted-sd-card-essential-steps-and-advice/"><u>How to Repair an Unformatted SD Card: Essential Steps and Advice</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-your-flash-drive-a-comprehensive-guide-to-fixing-and-restoring-files/"><u>Revive Your Flash Drive: A Comprehensive Guide to Fixing & Restoring Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-changing-your-hotmail-outlook-password-with-or-without-accessing-alternate-contact/"><u>Step-by-Step Guide: Changing Your Hotmail (Outlook) Password with or without Accessing Alternate Contact</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-formatting-a-locked-sd-card-across-pcs-macs-android-devices-and-cameras/"><u>Step-by-Step Guide: Formatting a Locked SD Card Across PCs, Macs, Android Devices & Cameras</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-performing-a-system-restore-on-windows-10-8-and-7/"><u>Step-by-Step Guide: Performing a System Restore on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210817046-9781786787309-witch-in-darkness/"><u>Witch in Darkness | Free Book</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-upload-imovie-video-to-vimeo/"><u>[New] 2024 Approved How to Upload iMovie Video to Vimeo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-screen-grabbing-software-compared-on-pcmac/"><u>[New] In 2024, Essential Screen Grabbing Software Compared on PC/Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-prime-top-10-drones-filmmakings-visual-frontiers/"><u>[Updated] 2024 Approved Prime Top 10 Drones Filmmaking's Visual Frontiers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-mpow-bluetooth-drivers-for-windows-get-your-download-here/"><u>Latest MPOW Bluetooth Drivers for Windows: Get Your Download Here</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-art-of-bsod-resolution-on-windows-10plus/"><u>Master the Art of BSOD Resolution on Windows 10+</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/melodic-masterpieces-top-sites-for-legal-skype-files-for-2024/"><u>Melodic Masterpieces Top Sites for Legal Skype Files for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlined-glitch-free-instagram-reels/"><u>Streamlined: Glitch-Free Instagram Reels</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-causes-behind-your-iphone-screen-brightness-fading-solutions-inside/"><u>Understanding the Causes Behind Your iPhone Screen Brightness Fading - Solutions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-secrets-a-step-by-step-guide-to-recovering-your-lost-iphone-backup-passwords-from-icloud-keychain/"><u>Unlock the Secrets: A Step-by-Step Guide to Recovering Your Lost iPhone Backup Passwords From iCloud Keychain</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphone-potential-with-google-lens-expert-tips-and-tricks/"><u>Unlocking iPhone Potential with Google Lens: Expert Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-next-big-thing-in-tech-hands-on-with-apples-latest-artificial-intelligence-feature/"><u>Unveiling the Next Big Thing in Tech: Hands-On with Apple's Latest Artificial Intelligence Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-how-governments-could-be-using-push-alerts-as-a-surveillance-tool/"><u>Unveiling the Truth: How Governments Could Be Using Push Alerts as a Surveillance Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-tech-delights-unveiling-the-latest-from-google-and-samsung/"><u>Upcoming Tech Delights: Unveiling the Latest From Google & Samsung</u></a></li>
+<li><a href="https://os-tips.techidaily.com/usb-type-c-connectivity-discover-apples-airpods-pro-latest-upgrade/"><u>USB Type-C Connectivity: Discover Apple's AirPods Pro Latest Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/weekly-digest-of-iphone-software-enhancements-and-product-recalls/"><u>Weekly Digest of iPhone Software Enhancements & Product Recalls</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-the-nsa-recommends-weekly-mobile-device-reboots-uncovering-essential-security-measures/"><u>Why the NSA Recommends Weekly Mobile Device Reboots - Uncovering Essential Security Measures</u></a></li>
 </ul></div>
 
