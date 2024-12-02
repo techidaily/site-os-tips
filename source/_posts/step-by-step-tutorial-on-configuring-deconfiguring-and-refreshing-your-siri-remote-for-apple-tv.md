@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
-date: 2024-11-17T02:03:13.017Z
-updated: 2024-11-24T03:54:24.753Z
+date: 2024-11-28T06:31:16.222Z
+updated: 2024-12-02T14:19:15.219Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,10 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Is your Apple TV remote not working? Are you trying to pair a new remote, or use your old remote with a different unit? Let’s fix the mess so you can go back to streaming your favorite shows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pair an Apple TV Remote
 
  If you need to pair an Apple TV remote with your Apple TV unit, whether it’s a new one or a spare one that you’ve picked up from somewhere, you can do so by putting your remote into pairing mode.
@@ -34,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, make sure your Apple TV is on. The easiest way to do this when you don’t have a remote connected is to simply unplug the Apple TV unit from the wall and plug it back in again. It’ll take a moment to start up, after which you’ll see the usual array of apps on the dashboard.
 
 ![Apple TV dashboard with YouTube selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_dash.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now take the remote that you want to pair and make sure you’re within three inches of the streaming box. With the remote pointed at your Apple TV unit, press and hold the Back “<“ or Menu button and the Volume Up “+” button at the same time for five seconds.
 
@@ -43,10 +43,6 @@ Tim Brookes / How-To Geek
 
  You may be asked to place your remote on top of the Apple TV unit to complete the pairing unit. Once you’re done, you should be able to use your remote as normal to wake, control, and sleep your Apple TV unit (and you won’t need to pair it again, even if it runs out of battery).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Reset an Apple TV Remote
 
  Sometimes your Apple TV remote can just stop working. This is usually the result of a temporary glitch, and one way you can attempt a fix is to reset the connection between your Apple TV remote and the Apple TV. This won’t unpair the remote, so you won’t need to go through the pairing process detailed above.
@@ -55,19 +51,11 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote reset combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_tv-vol_down.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Wait a few moments and the connection between the remote and Apple TV should be re-established. You can try tapping a few buttons on the remote to wake it up if nothing happens.
 
 ![Apple TV remote disconnected message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_disconnected.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Unpair an Apple TV Remote
 
@@ -78,10 +66,14 @@ Tim Brookes / How-To Geek
 ![Apple TV remote connected notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_connected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once complete, the remote will be paired with your desired Apple TV. Since a remote can only be paired with a single Apple TV unit at a time, it should no longer control the previous unit. If you want to migrate the remote back, you’ll need to follow this process again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Try Charging Your Apple TV Remote
 
@@ -92,6 +84,10 @@ Tim Brookes / How-To Geek
 ![Apple TV remote battery information screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_battery.png) 
 
  You won’t see a light or a charging indicator while the remote is charging, so be patient and test it when enough time has passed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Power Cycle the Apple TV to Reset It
 
@@ -111,6 +107,10 @@ Tim Brookes / How-To Geek
 
  Once connected you can use the trackpad interface just as you would your normal remote. You also have access to playback controls, a back button, and the TV or Control Center button plus a power button at the top of the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Try Updating Your Apple TV
 
  Updating your Apple TV may help resolve some issues, though it’s a bit of a long shot. You’ll also need to be able to control your Apple TV using another device to do this.
@@ -118,10 +118,6 @@ Tim Brookes / How-To Geek
 ![Updating the tvOS software on an Apple TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_update_software2.png) 
 
  With your iPhone or iPad connected as a remote, navigate to Settings > System > Software Updates and install any outstanding updates. The Apple TV will restart, after which you can try using (or pairing) your remote again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Control Your Apple TV with a TV or Universal Remote
 
@@ -140,6 +136,10 @@ Tim Brookes / How-To Geek
  You’ll need some way of controlling the Apple TV to set this up, so try connecting an iPhone or iPad using the Remote app before you begin. Put your controller of choice into pairing mode (the instructions will differ depending on which gamepad you’re trying to pair). To pair, navigate to Settings > Remotes and Devices > Bluetooth and select your controller from the list (or use Control Center by holding the TV button).
 
 ![View vvailable game controllers on an Apple TV via Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_game_controller-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After pairing, your controller should stay paired with your Apple TV, depending on which pad you’re using.
 
@@ -164,24 +164,24 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles/"><u>[New] 2024 Approved Enhancing User Experience A Quick How-To for YouTube CC & Subtitles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-superior-nintendo-switch-hd-recording/"><u>[New] Superior Nintendo Switch HD Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-play-facebook-videos-on-tv-in-2024/"><u>[Updated] How To Play Facebook Videos on TV, In 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-setting-sail-on-the-content-sea-your-youtube-account/"><u>2024 Approved Setting Sail on the Content Sea Your YouTube Account</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-new-innovative-apple-applications-can-substitute-itunes-for-windows-users/"><u>Discover How New Innovative Apple Applications Can Substitute iTunes for Windows Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-undiscovered-markdown-and-notetaking-tool-a-hidden-gem/"><u>Discover the Ultimate Undiscovered Markdown & Notetaking Tool: A Hidden Gem!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-local-air-purity-a-comprehensive-guide-on-monitoring-atmospheres-health/"><u>Discovering Local Air Purity: A Comprehensive Guide on Monitoring Atmosphere's Health</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-and-test-drive-the-newly-released-ios-18-beta-version/"><u>Download and Test Drive the Newly Released iOS 18 Beta Version!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tutorial-ios-print-functionality-explained/"><u>Easy Tutorial: IOS Print Functionality Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-for-monitoring-sleep-quality-with-your-apple-watch/"><u>Effective Strategies for Monitoring Sleep Quality with Your Apple Watch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-mobile-photography-why-upgrading-your-phones-camera-is-a-must/"><u>Elevate Your Mobile Photography: Why Upgrading Your Phone's Camera Is a Must</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-mental-health-through-iphone-monitoring-techniques/"><u>Enhancing Mental Health Through iPhone Monitoring Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-the-pro-lineup-the-case-for-colorful-innovations-at-apple/"><u>Enhancing the Pro Lineup: The Case for Colorful Innovations at Apple</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973972999-find-and-install-modern-nvidia-geforce-gtx-1050-drivers-comprehensive-guide-for-free/"><u>Find & Install Modern Nvidia Geforce GTX 1050 Drivers: Comprehensive Guide for Free</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-humankind-not-launching/"><u>How To Fix Humankind Not Launching</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovative-apple-ai-education-empowering-thousands-of-students-and-alumni-with-cutting-edge-training-insights/"><u>Innovative Apple AI Education: Empowering Thousands of Students and Alumni with Cutting-Edge Training – Insights</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-pro-grade-videos-in-minutes-no-experience-required-for-2024/"><u>New Pro-Grade Videos in Minutes No Experience Required for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/telling-stories-vertically-video-editing-for-instagram-with-fcpx/"><u>Telling Stories Vertically Video Editing for Instagram with FCPX</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-masters-building-marvels-virtual-horizons/"><u>[New] 2024 Approved Masters Building Marvel's Virtual Horizons</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-streams-save-as-mp3-beat-for-easy-playback/"><u>[Updated] In 2024, FB Streams Save as MP3 Beat for Easy Playback</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-uncomplicating-the-complication-of-the-invisible-green-on-macs/"><u>[Updated] In 2024, Uncomplicating The Complication of the Invisible Green on Macs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-removing-stickers-with-precision-a-tiktok-specialists-guide/"><u>[Updated] Removing Stickers with Precision A TikTok Specialist's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024s-best-e-learning-platforms-ranked-discover-the-finest-lms-solutions-available-today/"><u>2024'S Best E-Learning Platforms Ranked: Discover the Finest LMS Solutions Available Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/amass-a-million-in-moments-join-instagrams-elite/"><u>Amass a Million in Moments Join Instagram's Elite</u></a></li>
+<li><a href="https://os-tips.techidaily.com/cellular-ipads-are-they-the-game-changer-you-need/"><u>Cellular iPads: Are They the Game Changer You Need?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/choosing-iphone-15-pro-instead-of-pro-max-a-users-perspective/"><u>Choosing iPhone 15 Pro Instead of Pro Max: A User’s Perspective</u></a></li>
+<li><a href="https://os-tips.techidaily.com/christmas-driving-fun-setting-up-santa-and-yule-logos-for-a-yuletide-journey-in-waze/"><u>Christmas Driving Fun: Setting Up Santa & Yule Logos for a Yuletide Journey in Waze</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clear-photos-ahead-expert-tips-for-correcting-unfocused-picture-quality/"><u>Clear Photos Ahead: Expert Tips for Correcting Unfocused Picture Quality</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/crafting-a-distinctive-image-with-creative-personal-frames-on-tiktok-for-2024/"><u>Crafting a Distinctive Image with Creative Personal Frames on TikTok for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/defining-moments-understanding-why-this-is-considered-the-best-era-for-smartphones/"><u>Defining Moments: Understanding Why This Is Considered the Best Era for Smartphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-these-top-10-essential-siri-shortcuts-on-your-iphone-for-supercharged-productivity/"><u>Discover These Top 10 Essential Siri Shortcuts on Your iPhone for Supercharged Productivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-implementing-a-functional-action-button-on-your-iphone/"><u>Easy Steps: Implementing a Functional Action Button on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-handle-overheating-devices/"><u>Effective Strategies: How to Handle Overheating Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-exercise-routine-with-these-essential-fitness-tracker-hacks-6-tips/"><u>Elevate Your Exercise Routine with These Essential Fitness Tracker Hacks (6 Tips)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-optimal-performance-with-updated-brother-scanner-drivers-on-your-windows-device/"><u>Get Optimal Performance with Updated Brother Scanner Drivers on Your Windows Device</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/record-and-save-every-sound-on-pc-exclusive-x-recorder-for-2024/"><u>Record & Save Every Sound on PC - Exclusive X-Recorder for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon"
-date: 2024-11-22T17:49:54.906Z
-updated: 2024-11-24T07:23:00.180Z
+date: 2024-11-28T06:35:42.414Z
+updated: 2024-12-02T14:31:30.967Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ## Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 * [How to Fix Messages Showing Unread on iPhone](https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2003-by-ldigisigner-sign-a-word-sign-a-word/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  Does the Messages app on your iPhone say you have unread messages, even though all your iMessage and SMS messages are read in the app? If the Messages badge is stuck, here's the fix to get rid of the counter. We had the same problem and found a solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Mark All Messages as Read
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  If this doesn't solve your problem and you still see a number of unread messages on the Messages app on your iPhone home screen, however, we have a solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Fix Messages Showing Unread on iPhone
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ![The response to "Hey Siri, read my messages"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/siri-read-messages.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above solution worked to fix a stubborn stuck unread counter on the messages app on an iPhone running iOS 16\. Here are some other solutions we came across during our research that you may want to try if you still have this problem:
@@ -80,17 +80,21 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-the-mobile-way-to-youtube-fame-streamlined-channel-creation-process/"><u>2024 Approved The Mobile Way to YouTube Fame Streamlined Channel Creation Process</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breaking-free-from-the-ios-data-recovery-endless-cycle-top-three-solutions/"><u>Breaking Free From the iOS Data Recovery Endless Cycle: Top Three Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-insights-into-lg-channels/"><u>Essential Insights Into LG Channels</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fast-track-to-finding-your-phones-imei-offline-a-step-by-step-guide/"><u>Fast Track to Finding Your Phone's IMEI Offline – A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-non-functional-call-forwarding-on-your-iphone-effective-solutions-and-tips/"><u>Fixing Non-Functional Call Forwarding on Your iPhone: Effective Solutions and Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/immediate-remedies-for-muted-iphones-expert-tips-to-restore-volume-fast/"><u>Immediate Remedies for Muted iPhones: Expert Tips to Restore Volume Fast</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>In 2024, Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-uncovering-whatsapp-written-off-tricks-and-tips/"><u>In 2024, Uncovering WhatsApp' Written Off Tricks and Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-battle-plan-for-a-new-social-order-in-europe/"><u>Meta's Battle Plan for a New Social Order in Europe</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/team-harmony-and-efficiency-8-recommended-facebook-timers/"><u>Team Harmony and Efficiency 8 Recommended Facebook Timers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cut-and-paste-chronicles-qanda-archive/"><u>[New] 2024 Approved Cut & Paste Chronicles Q&A Archive</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-resolve-grainy-videos-sharpening-feed-and-playback-quality-online/"><u>[New] 2024 Approved Resolve Grainy Videos Sharpening Feed & Playback Quality Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-melody-matters-device-reviews/"><u>[Updated] 2024 Approved Melody Matters Device Reviews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-free-top-10-vr-360-video-players-for-pc/"><u>[Updated] FREE Top 10 VR (360 Video) Players for PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-social-potential-sharing-panoramic-content-with-facebook/"><u>[Updated] In 2024, Unlock Social Potential Sharing Panoramic Content with Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-positive-side-of-engaging-with-asmr/"><u>2024 Approved Exploring The Positive Side of Engaging with ASMR</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beginners-essential-strategies-for-password-management-on-your-ios-devices/"><u>Beginner's Essential Strategies for Password Management on Your iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-saving-and-sharing-your-icloud-keychain-with-csv-file-conversion/"><u>Complete Guide: Saving and Sharing Your iCloud Keychain with CSV File Conversion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-instructions-to-acquire-custom-ringtone-apps-on-apple-iphones-and-android-phones/"><u>Easy Instructions to Acquire Custom Ringtone Apps on Apple iPhones and Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-cast-your-ipad-onto-a-chromecast-top-3-techniques/"><u>How to Cast Your iPad Onto a Chromecast: Top 3 Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-zoom-on-apple-tv-with-airplay-a-step-by-step-guide-for-seamless-video-conferencing/"><u>How To Fix Zoom on Apple TV with AirPlay: A Step-By-Step Guide for Seamless Video Conferencing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/innovate-with-imagery-installing-the-windows-11-movie-maker-app-for-2024/"><u>Innovate with Imagery Installing the Windows 11 Movie Maker App for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-220-and-upgrade-limited-offer-on-rtx-3070-gpus-shop-at-zdnet-today/"><u>Save $220 and Upgrade: Limited Offer on RTX 3070 GPUs - Shop at ZDNET Today!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-for-casting-your-iphone-display-on-a-tv-screen-even-without-using-apples-device/"><u>Simple Steps for Casting Your iPhone Display on a TV Screen, Even Without Using Apple's Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-restoring-functionality-to-your-nonfunctional-iphone-alarm/"><u>Step-by-Step Solution: Restoring Functionality to Your Nonfunctional iPhone Alarm</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-financials-of-boosting-your-youtube-videos-for-2024/"><u>The Financials of Boosting Your YouTube Videos for 2024</u></a></li>
 </ul></div>
 

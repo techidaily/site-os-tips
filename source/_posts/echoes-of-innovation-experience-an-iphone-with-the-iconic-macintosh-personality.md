@@ -1,7 +1,7 @@
 ---
 title: "Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality"
-date: 2024-11-22T00:19:54.133Z
-updated: 2024-11-24T01:56:52.048Z
+date: 2024-11-28T08:11:40.075Z
+updated: 2024-12-02T13:26:26.892Z
 tags:
   - ios
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,20 +64,17 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-pinterest-a-players-sharing-snapchat-stories/"><u>[Updated] In 2024, Pinterest A-Players Sharing Snapchat Stories</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/1726028969362-5/"><u>「人気のオンラインで使える最高の音声記録ウェブサイト・トップ5」</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-download-facebook-videos-on-windows-and-mac/"><u>2024 Approved How to Download Facebook Videos on Windows and Mac</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/battery-powered-google-nest-doorbell-comprehensive-evaluation/"><u>Battery-Powered Google Nest Doorbell: Comprehensive Evaluation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-your-pcs-data-transfer-speed-an-easy-guide-to-update-standard-sata-ahci-controller-software/"><u>Boost Your PC’s Data Transfer Speed: An Easy Guide to Update Standard SATA AHCI Controller Software</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-key-steps-to-tackle-windows-blue-screen/"><u>Breaking Down Key Steps to Tackle Windows Blue Screen</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ19/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-tricks-for-clearing-up-iphone-storage-issues-following-the-ios-n-version-release/"><u>Essential Tricks for Clearing Up iPhone Storage Issues Following the iOS N Version Release</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/essential-vlc-mac-tips-and-tricks-guide-for-2024/"><u>Essential VLC Mac Tips & Tricks Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-vivo-y100a-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100A Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-ipad-connectivity-essential-steps-for-reactivating-the-usb-driver/"><u>Reviving iPad Connectivity: Essential Steps for Reactivating the USB Driver</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-fixing-a-mac-frozen-on-the-startup-with-an-apple-icon-displayed/"><u>Step-by-Step Guide: Fixing a Mac Frozen on the Startup with an Apple Icon Displayed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-encyclopedia-britannica-anubis-online-available-at-(httpswwwbritannicacomtopicanubis)/"><u>The Encyclopedia Britannica – Anubis [Online] Available At: <https://www.britannica.com/topic/Anubis></u></a></li>
-<li><a href="https://os-tips.techidaily.com/trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-an-unresponsive-display-repairing-apples-iphone-touch-issues/"><u>Troubleshooting an Unresponsive Display: Repairing Apple's iPhone Touch Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips/"><u>[New] 2024 Approved Exploring Facebook's 2023 Video Revolution The Rise of Compact Clips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[New] How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726226951507-vobmp4-movavi/"><u>完全無料: VOBビデオをMP4へ直接アップロード! 最新MOVAVI変換ソフトウェアでシームレスな移行🎬✨</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-versatility-in-data-analysis-beyond-chatbot-capabilities/"><u>Excel’s Versatility in Data Analysis, Beyond Chatbot Capabilities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-interactive-display-decode/"><u>In 2024, Interactive Display Decode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-relish-free-movie-playback-pc-and-mac-style/"><u>In 2024, Relish Free Movie Playback, PC & Mac Style</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276679-lost-iphone-discover-swift-solutions-with-this-complete-search-tutorial/"><u>Lost iPhone? Discover Swift Solutions with This Complete Search Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quickly-find-lost-pets-with-rings-budget-friendly-tag-for-dogs-and-cats-expert-insights-on-10-gadget/"><u>Quickly Find Lost Pets with Ring’s Budget-Friendly Tag for Dogs and Cats | Expert Insights on $10 Gadget</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-your-iphone-display-with-the-microsoft-xbox-one/"><u>Step-by-Step Guide: Syncing Your iPhone Display with the Microsoft Xbox One</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamline-your-mobile-workforce-with-verizon-wirelesss-efficient-mdm-solutions/"><u>Streamline Your Mobile Workforce with Verizon Wireless's Efficient MDM Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-zoom-airplay-overcoming-common-challenges-and-ensuring-flawless-streaming/"><u>Troubleshooting Your Zoom AirPlay: Overcoming Common Challenges and Ensuring Flawless Streaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-efficient-methods-and-applications-for-linking-your-iphone-with-wi-fi/"><u>Ultimate Guide: Efficient Methods & Applications for Linking Your iPhone with Wi-Fi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Issues with Apple Card & Apple Pay: A Comprehensive Look"
-date: 2024-11-23T05:35:53.613Z
-updated: 2024-11-23T21:32:54.690Z
+date: 2024-11-25T04:29:43.931Z
+updated: 2024-12-02T11:02:19.507Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
@@ -54,16 +54,22 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-ps3-gameplay-screencasts/"><u>[New] 2024 Approved Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-hitting-your-targets-with-these-8-social-media-planners/"><u>[New] 2024 Approved Hitting Your Targets with These 8 Social Media Planners</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-photo-border-elimination/"><u>[Updated] 2024 Approved Mastering the Art of Photo Border Elimination</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide-for-2024/"><u>Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hdr-editing-essentials-for-pc-users-for-2024/"><u>HDR Editing Essentials for PC Users for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-8-essential-tips-for-maintaining-optimal-mobile-performance/"><u>Top 8 Essential Tips for Maintaining Optimal Mobile Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-9-lifesaving-features-of-the-apple-watch-enhancing-personal-safety/"><u>Top 9 Lifesaving Features of the Apple Watch: Enhancing Personal Safety</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-iphone-into-a-windows-like-device-effortlessly/"><u>Transform Your iPhone Into a Windows-Like Device Effortlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-an-overheated-iphone-identifying-the-reasons-and-implementing-solutions/"><u>Troubleshooting an Overheated iPhone: Identifying the Reasons & Implementing Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-stuck-ios-updates-on-iphone-a-guide-with-11-effective-fixes/"><u>Troubleshooting Stuck iOS Updates on iPhone: A Guide with 11 Effective Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-360-video-submission-on-fb/"><u>[Updated] 2024 Approved The Complete Guide to 360 Video Submission on FB</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>[Updated] Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-fixed-easily-accessible-shorts-on-youtube/"><u>[Updated] Fixed Easily Accessible Shorts on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-pathway-to-a-powerful-instagram-influence/"><u>[Updated] In 2024, The Pathway to a Powerful Instagram Influence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelperfect-screen-capture-software-for-2024/"><u>[Updated] PixelPerfect Screen Capture Software for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-neo-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT Neo 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s23-tactical-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S23 Tactical Edition to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-173-enhancements-new-security-features-protecting-your-iphone-from-theft/"><u>IOS 17.3 Enhancements: New Security Features Protecting Your iPhone From Theft</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigating-your-neighborhood-air-conditions-effective-methods-for-assessing-environmental-cleanlinnss/"><u>Navigating Your Neighborhood Air Conditions: Effective Methods for Assessing Environmental Cleanlinnss</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-identity-preventing-criminal-access-to-your-mobile-line/"><u>Protect Your Identity: Preventing Criminal Access to Your Mobile Line</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-sharing-across-apple-devices-connecting-your-iphone-ipad-and-mac-via-clipboard/"><u>Seamless Sharing Across Apple Devices: Connecting Your iPhone, iPad & Mac via Clipboard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/set-google-maps-as-your-new-standard-navigation-app-on-iphone-step-by-step-guide/"><u>Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-sharpening-and-enhancing-fuzzy-images/"><u>Step-by-Step Guide to Sharpening and Enhancing Fuzzy Images</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-unexpected-camera-sounds-on-your-iphone-tutorial/"><u>Stop Unexpected Camera Sounds on Your iPhone - Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-m54-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy M54 5G Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-most-efficient-cable-modemwireless-router-combinations-of-2024/"><u>The Most Efficient Cable Modem/Wireless Router Combinations of 2024</u></a></li>
 </ul></div>
 

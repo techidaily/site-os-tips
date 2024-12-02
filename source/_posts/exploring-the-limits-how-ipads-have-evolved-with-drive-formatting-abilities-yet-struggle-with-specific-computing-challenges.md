@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Limits: How iPads Have Evolved with Drive Formatting Abilities Yet Struggle with Specific Computing Challenges"
-date: 2024-11-22T08:52:07.680Z
-updated: 2024-11-23T23:52:52.030Z
+date: 2024-11-24T22:51:22.831Z
+updated: 2024-12-02T04:33:58.434Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 ## Exploring the Limits: How iPads Have Evolved with Drive Formatting Abilities Yet Struggle with Specific Computing Challenges
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 * iPads are locked to iPadOS, making it difficult to use other operating systems or install apps from anywhere.
 
  iPadOS 18 introduces the ability to format external drives using Apple's tablet, a feature previously reserved for "real" operating systems like macOS and Windows. As iPads become more capable, they seem more viable as full-blown computer replacements. Unfortunately, the iPad still lags behind the Mac in some very important areas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  System-Level Customization
 
@@ -40,16 +44,12 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 ![Swift Playgrounds running on iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-learn-explore-large_2x.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
 
  The [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) app is available on iPad and is a great way to learn to code and build basic applications. However, without a version of Xcode for iPad, building full, complex apps for Apple devices and publishing them is currently not possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Switch Operating Systems and Run Virtual Machines
 
@@ -65,10 +65,6 @@ Hannah Brostrom / How-To Geek
 
  Virtual Machine software like [UTM](https://mac.getutm.app/gallery/) does allow for the creation and use of virtual machines, but it needs to be [sideloaded](https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/), and requires a jailbreak for use on modern iPads. Without access to another Mac or PC, you are not going to have an easy time working with another operating system using only an iPad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Install Apps from Anywhere
 
  Though the App Store currently has millions of apps that can be used on iPad, users are still limited by Apple's regulations. Though changes for EU users are making sideloading possible, software made for macOS or Windows does not function properly on iPadOS.
@@ -77,11 +73,11 @@ Hannah Brostrom / How-To Geek
 
 ![MacOS warning message alerting users to potential malicious software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/applesamplesoftware.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Without macOS support, or fundamental changes to iPadOS as a whole, its unlikely that installing software from the wider internet will be possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  User Swapping
 
@@ -102,6 +98,10 @@ Hannah Brostrom / How-To Geek
  macOS and Windows both provide options for multiple desktops, which can be great when managing different projects using different applications. Though iPadOS's introduction of [Stage Manager](https://extra-skills.techidaily.com/new-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools/) did improve its ability to multitask, it is not as natural to use or intuitive as many find desktop multitasking to be.
 
 ![iPad showing Stage Manager in use, with windows for Files, Maps, Notes, and Weather.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/c12c8eed56d20e9419d473efb62bfb38.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -128,19 +128,22 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-implementing-real-time-transcriptions-in-reels-and-stories/"><u>[New] 2024 Approved Implementing Real-Time Transcriptions in Reels and Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-images-in-your-instagram-profile/"><u>[New] Mastering Images in Your Instagram Profile</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-captivating-readers-with-the-top-5-engaging-book-trailers/"><u>[Updated] 2024 Approved Captivating Readers with the Top 5 Engaging Book Trailers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-no-watermarks-just-pure-tiktok-videos/"><u>[Updated] In 2024, No Watermarks, Just Pure TikTok Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-is-any-antivirus-worth-your-time-on-an-iphone-the-surprising-answer/"><u>1. Is Any Antivirus Worth Your Time on an iPhone? The Surprising Answer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-adding-exercises-to-your-apple-watch-by-hand/"><u>A Step-by-Step Guide: Adding Exercises to Your Apple Watch by Hand</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cant-be-patient-for-iphone-16-release-master-the-art-of-picking-the-best-alternative-in-apples-latest-offerings/"><u>Can't Be Patient for iPhone 16 Release? Master the Art of Picking the Best Alternative in Apple's Latest Offerings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/decode-and-maximize-your-impact-on-instagram-with-these-insights/"><u>Decode & Maximize Your Impact on Instagram with These Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ting-videography-mastery-of-the-green-screen-effect/"><u>Elevating Videography Mastery of the Green Screen Effect</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-art-gpt-powered-image-creation/"><u>Mastering AI Art: GPT-Powered Image Creation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210415866-9781722523510-maximize-your-potential-through-the-power-of-your-subconscious-mind-for-health-and-vitality/"><u>Maximize Your Potential Through the Power of Your Subconscious Mind for Health and Vitality | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877241-9781609257897-the-book-on-mediums/"><u>The Book on Mediums | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-samsungs-device-network-rivalries-apple-exploring-the-strength-of-their-unique-ecosystem/"><u>Why Samsung's Device Network Rivalries Apple: Exploring the Strength of Their Unique Ecosystem</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-the-iphone-13-continues-to-be-an-excellent-buy/"><u>Why the iPhone 13 Continues to Be an Excellent Buy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-cinematographers-journey-shooting-top-notch-youtube-content/"><u>[New] The Cinematographer's Journey Shooting Top-Notch YouTube Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-building-a-stronger-presence-with-effective-youtube-pairings/"><u>[Updated] In 2024, Building a Stronger Presence with Effective YouTube Pairings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-guide-to-influential-instagram-hashtags/"><u>[Updated] Quick Guide to Influential #Instagram Hashtags</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-the-multimedia-split-screen-experience-with-sierra-os/"><u>2024 Approved Mastering the Multimedia Split-Screen Experience with Sierra OS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-ios-device-data-retrieval-restore-information-from-iphones-ipads-and-ipods/"><u>Complete Guide to iOS Device Data Retrieval: Restore Information From iPhones, iPads & iPods</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hello-in-indonesian-a-quick-guide-to-indonesian-greetings/"><u>Hello in Indonesian: A Quick Guide to Indonesian Greetings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-samsung-flow-to-connect-your-windows-pc-and-galaxy-phone/"><u>How to Use Samsung Flow to Connect Your Windows PC and Galaxy Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-video-retrieval-how-to-restore-accidentally-deleted-footage/"><u>IPhone Video Retrieval: How to Restore Accidentally Deleted Footage</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigating-through-directory-tasks-a-comprehensive-guide-to-organizing-in-visual-studio-extensions-vsix/"><u>Navigating Through Directory Tasks: A Comprehensive Guide to Organizing in Visual Studio Extensions (VSIX)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pugilism-power-play-against-viewership-virtue/"><u>Pugilism Power Play Against Viewership Virtue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-tips-to-master-free-countdown-functions/"><u>Quick Tips to Master FREE Countdown Functions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mastering-iphone-backup-password-restoration/"><u>Step-by-Step Tutorial on Mastering iPhone Backup Password Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-returning-ios-device-to-original-state-and-recovering-data-via-itunes-or-finder/"><u>Step-by-Step Tutorial: Returning iOS Device to Original State & Recovering Data via iTunes or Finder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-image-restoration-apps-on-windowsmac-2024-edition/"><u>The Ultimate Guide to the Top 5 iPhone Image Restoration Apps on Windows/Mac, 2024 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-compelling-motivations-behind-retrieving-lost-data-from-your-iphone-using-a-computer/"><u>Top 5 Compelling Motivations Behind Retrieving Lost Data From Your iPhone Using a Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-essential-ios-applications-for-effortlessly-retrieving-lost-iphone-contact-details/"><u>Top 6 Essential iOS Applications for Effortlessly Retrieving Lost iPhone Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-for-restoring-lost-notes-on-any-iphone-version-models-from-iphone-4-to-iphone-12/"><u>Ultimate Troubleshooting for Restoring Lost Notes on Any iPhone Version (Models From iPhone 4 to iPhone 12)</u></a></li>
 </ul></div>
 

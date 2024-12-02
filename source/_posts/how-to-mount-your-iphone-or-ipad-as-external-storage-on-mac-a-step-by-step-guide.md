@@ -1,7 +1,7 @@
 ---
 title: "How to Mount Your iPhone or iPad as External Storage on Mac: A Step-by-Step Guide"
-date: 2024-11-18T05:14:52.997Z
-updated: 2024-11-24T04:12:44.448Z
+date: 2024-11-27T02:37:13.124Z
+updated: 2024-12-01T22:25:26.148Z
 tags:
   - iphone-manager
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 Different from most mobile backup apps for Mac, [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) can turn your iPhone/iPad into a USB flash drive. Thus, with your iOS device as the go-between, you can transfer all types of documents in any formats, including PPTs, PDFs, Excels, Words and folders from your Mac to another computer later, without the need of iTunes, Wi-Fi or any related apps to access the files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Store Files from a Computer to iPad/iPad Flash Drive
@@ -34,15 +34,15 @@ In DearMob iPhone Manager,In DearMob, your iPhone or iPad can become a USB drive
 
 ![Open DearmMob Flash Drive module](https://www.5kplayer.com/user-guide/images/userguide-how/flash-drive-dearmob.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Add any files from your computer by browsing and opening or directly dragging. 
 
 ![Add Any Files to iPhone Hard Drive](https://www.5kplayer.com/user-guide/images/userguide-how/add-files-from-mac-to-iphone.jpg) 
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You can add folders by clicking **Add Folder** on the drop-down list of +Add File.
 * You can drag the file or folder directly to add.
@@ -58,18 +58,14 @@ In DearMob, the files you've stored on your iOS device through the Flash Drive f
 
 ![Export Files from iPhone USB Drive to Mac](https://www.5kplayer.com/user-guide/images/userguide-how/export-files-usb-device-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * In this section, you can export files that were added to your iPhone via the Flash Drive feature in DearMob iPhone Manager.
 * While for other files stored in iPhone storage, you can find them in other features in the main UI, such as Photo Transfer, Music Manager, Video & Video, Files, Podcast, Book, etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify or Delete Files on iPhone/iPad Flash Drive
 
@@ -84,7 +80,7 @@ Through DearMob, the added files can be renamed or deleted.
 ![Export Files from iPhone USB Drive to Mac](https://www.5kplayer.com/user-guide/images/userguide-how/edit-file-name-usb-device-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Frequently Asked Questions
@@ -92,6 +88,10 @@ Through DearMob, the added files can be renamed or deleted.
 ### How can I use my iPhone as a USB without iTunes?
 
 When you use DearMob iPhone Manager, your iPhone can be taken as a USB to store files. Then you can add, export, and manage files on iPhone without iTunes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I get my computer to recognize my iPhone as a drive?
 
@@ -112,20 +112,21 @@ After connecting your iPhone to your Mac, you can see your iPhone on Finder. Dif
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-easily-access-igtv-content-download-guide-for-pcmac-users/"><u>[New] Easily Access IGTV Content Download Guide for PC/Mac Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-5-quick-video-capture-tools/"><u>[Updated] 2024 Approved Best 5 Quick Video Capture Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-find-youtube-partners-and-make-collab-videos-in-2024/"><u>[Updated] How to Find YouTube Partners and Make Collab Videos, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/10plus-best-instagram-video-editor-for-pc-online-android-for-2024/"><u>10+ Best Instagram Video Editor for PC, Online, Android for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-the-imessage-prompt-that-reminds-you-to-update-your-contacts/"><u>How to Resolve the iMessage Prompt That Reminds You to Update Your Contacts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-belkins-game-changing-magsafe-triple-port-charger-a-leap-forward-in-wireless-power-solutions/"><u>Introducing Belkin's Game-Changing MagSafe Triple Port Charger - A Leap Forward in Wireless Power Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-fords-latest-in-vehicle-system-not-a-direct-rival-to-android-autoapple-carplay/"><u>Introducing Ford's Latest In-Vehicle System: Not a Direct Rival to Android Auto/Apple CarPlay</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-users-ultimate-tutorial-converting-stills-to-movies-and-animations/"><u>IPhone Users' Ultimate Tutorial: Converting Stills to Movies & Animations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-it-worth-upgrading-from-the-m2-ipad-pro-to-the-new-m4-model/"><u>Is It Worth Upgrading From the M2 iPad Pro to the New M4 Model?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/learn-how-your-ipad-can-format-and-manage-external-hardware-a-comprehensive-guide/"><u>Learn How Your iPad Can Format and Manage External Hardware: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-twitch-a-complete-guide-for-streamers/"><u>Mastering Twitch: A Complete Guide for Streamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-transition-moving-your-whatsapp-from-android-to-iphone-a-step-by-step-guide/"><u>Seamless Transition: Moving Your WhatsApp From Android to iPhone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-airpods-at-unbeatable-prices-special-offer-today/"><u>Secure Your Apple AirPods at Unbeatable Prices - Special Offer Today!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamlining-the-editing-process-elevating-your-youtube-content-with-pc-for-2024/"><u>Streamlining the Editing Process Elevating Your YouTube Content with PC for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unveiling-the-layers-intricate-analysis-of-vegas-pro-21-for-2024/"><u>Unveiling the Layers Intricate Analysis of Vegas Pro '21 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-free-and-easy-top-11-youtube-title-inventors-for-2024/"><u>[New] Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-viral-harmony-essential-soundtracks-for-popular-video-shorts/"><u>[New] In 2024, Viral Harmony Essential Soundtracks For Popular Video Shorts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/htc-handset-users-manual-for-saving-and-retrieving-images-and-contact-details/"><u>HTC Handset User's Manual for Saving and Retrieving Images & Contact Details</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-key-pillars-top-6-social-platforms-benefiting-businesses/"><u>In 2024, Key Pillars Top 6 Social Platforms Benefiting Businesses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-pro-unveiled-a-deep-dive-into-its-studio-level-sound-quality-with-enhanced-audio-mix-capability-cnet/"><u>IPhone 16 Pro Unveiled: A Deep Dive Into Its Studio-Level Sound Quality with Enhanced Audio Mix Capability | CNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-cloud-storage-complete-guide-to-safeguarding-your-samsung-galaxy-s-devices-online/"><u>Mastering Cloud Storage: Complete Guide to Safeguarding Your Samsung Galaxy S Devices Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/preserve-your-chats-forever-ultimate-tips-for-saving-sms-on-ios-and-android-devices/"><u>Preserve Your Chats Forever: Ultimate Tips for Saving SMS on iOS and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-tutorial-on-safeguarding-photographs-from-your-samsung-phone/"><u>Quick & Easy Tutorial on Safeguarding Photographs From Your Samsung Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-safeguarding-your-motorola-content-on-pcs-in-the-cloud-or-across-phones/"><u>Quick Guide: Safeguarding Your Motorola Content on PCs, in the Cloud, or Across Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722018910628-ransomware-demystified-for-budget-phones-exclusive-chatgpt-podcast-edition-stay-safe-and-informed/"><u>Ransomware Demystified for Budget Phones: Exclusive ChatGPT Podcast Edition - Stay Safe and Informed!</u></a></li>
+<li><a href="https://facebook.techidaily.com/revelations-post-fb-account-termination/"><u>Revelations Post-FB Account Termination</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-your-ipads-notifications-steps-to-prevent-it-from-buzzing-when-your-iphone-receives-a-call/"><u>Silencing Your iPad's Notifications: Steps to Prevent It From Buzzing when Your iPhone Receives a Call</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-a23-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy A23 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-enable-lg-device-sync-and-recovery-with-cloud-or-computer/"><u>Step-by-Step Guide: Enable LG Device Sync & Recovery with Cloud or Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-preserving-data-on-android-devices-prior-to-unlocking-the-bootloader/"><u>Step-by-Step Tutorial: Preserving Data on Android Devices Prior to Unlocking the Bootloader</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
-date: 2024-11-17T19:08:17.420Z
-updated: 2024-11-23T21:05:20.337Z
+date: 2024-11-30T19:34:28.519Z
+updated: 2024-12-02T08:04:08.532Z
 tags:
   - ios
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Apple Watch Series 8 recording a Traditional Strength Training exercise using the Workout app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52559368560_69e3affd15_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -43,6 +43,10 @@ Tim Brookes / How-To Geek
 
 ![Fitbit-Charge-6 6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fitbit-charge-6-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  The Fitbit app tracked steps and workouts, but trying to sync it with MyFitnessPal when I tracked calorie intake was iffy at best. There was a time when I used Google Fit to track my walks, but I wanted to continue using it for historical data when I picked up a new fitness tracker. Trying to get the Samsung tracker and the Google Fit app to cooperate was frustrating at best. At one point, I managed to delete my Google Fit data.
@@ -52,7 +56,7 @@ Joe Fedewa / How-To Geek
 ![Apple Watch Series 8 showing the 'Activity' watch face.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple_watch_s8_activity.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -66,7 +70,7 @@ Tim Brookes / How-To Geek
 ![Lock screen on the Google Pixel 7a display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/google-pixel-android-lock-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -75,25 +79,21 @@ Justin Duino / How-To Geek
 
  Had I been able to sync my iPad with my Apple Watch, I wouldn't even have picked up an iPhone in the first place. This is frustrating when iPadOS already supports the Health and Fitness+ apps but doesn't satisfy the Apple Watch criteria for pairing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  It Was Worth The Effort...
 
  The real question remains: was all of this worth the effort? For me, it definitely was. The tracking on the Apple Watch has been the most accurate of all the [fitness trackers](https://some-techniques.techidaily.com/new-health-advocacy-through-strategic-social-media-plays/) I've tried. The variety of bands available make it easy to dress the watch up for any occasion.
 
 ![apple watch and iphone fitness+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/3cfb127b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You need an Apple Watch to use Fitness+. The stats tracked by the Watch get shown on your iPhone screen. 
 
  Also, access to Apple Fitness+ is a surprisingly good motivator. Programs that offer fitness videos are nothing new, but the real-time data on my heart rate and calories burned helps to quantify my progress. Even the meditation videos, which I'm typically not a fan of, help a lot in taking a moment to breathe and relax.
 
  Best of all, the Apple Watch syncs with my health insurance provider, which offers rebates and rewards for healthy habits. This is something that not all Android smartwatches can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ...But It's Not Perfect
 
@@ -118,22 +118,18 @@ You need an Apple Watch to use Fitness+. The stats tracked by the Watch get show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-leap-forward-in-exposure-management-and-composition/"><u>[New] A Leap Forward in Exposure Management and Composition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-problematic-youtube-shorts-thumbnails-display/"><u>[Updated] In 2024, Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs-for-2024/"><u>[Updated] The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/st-travel-youtube-channels-you-may-want-to-follow-for-2024/"><u>10 Best Travel Youtube Channels You May Want to Follow for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-perform-a-password-free-factory-reset-on-your-acer-laptop-with-windows-10/"><u>How to Perform a Password-Free Factory Reset on Your Acer Laptop with Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphone-video-import-guide-for-iphone-14promax-no-itunes-required/"><u>IPhone Video Import Guide for iPhone 14/Pro/Max: No iTunes Required!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/overcoming-iphone-lens-focus-discrepancies/"><u>Overcoming iPhone Lens Focus Discrepancies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/review-infinacore-t3-the-ultimate-portable-wireless-charger-and-multi-device-hub-with-ergonomic-adaptability/"><u>Review: Infinacore T3 - The Ultimate Portable Wireless Charger and Multi-Device Hub with Ergonomic Adaptability</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-mobile-browsing-google-chromes-latest-update-adds-bottom-address-bar-to-iphones/"><u>Revolutionizing Mobile Browsing: Google Chrome's Latest Update Adds Bottom Address Bar to iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/save-money-with-smart-locks-ditch-the-high-prices-of-locksmith-visits/"><u>Save Money with Smart Locks - Ditch the High Prices of Locksmith Visits</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-mystery-of-your-iphones-decreasing-volume-easy-troubleshooting-guide/"><u>Solving the Mystery of Your iPhone's Decreasing Volume - Easy Troubleshooting Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-configuring-imessage-timers-and-reminders/"><u>Step-by-Step Tutorial: Configuring iMessage Timers & Reminders</u></a></li>
-<li><a href="https://os-tips.techidaily.com/test-your-apple-ai-newly-released-smart-technology/"><u>Test Your Apple AI: Newly Released Smart Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-complete-guide-to-mood-tracking-on-apple-health-platform/"><u>The Complete Guide to Mood Tracking on Apple Health Platform</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-creating-and-sharing-playlists-with-friends-on-apple-music/"><u>The Ultimate Tutorial: Creating and Sharing Playlists with Friends on Apple Music</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-defenders-error-0x80004004/"><u>Troubleshooting Defender's Error 0X80004004</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-inside-a-new-nintendo-switch-console-kit/"><u>What's Inside a New Nintendo Switch Console Kit?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-immediate-access-to-your-videos-thumbnails-online-for-2024/"><u>[Updated] Immediate Access to Your Videos' Thumbnails Online for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capturing-android-sounds-without-root-access-guide/"><u>[Updated] In 2024, Capturing Android Sounds Without Root Access [Guide]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-subtle-techniques-make-unwanted-backgrounds-disappear-in-videos/"><u>[Updated] Subtle Techniques Make Unwanted Backgrounds Disappear in Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-time-lapse-tales-smartphone-storytelling-techniques/"><u>[Updated] Time-Lapse Tales Smartphone Storytelling Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-stuck-screen-orientation-on-ios-devices-quick-guide/"><u>Fixing Stuck Screen Orientation on iOS Devices - Quick Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-gt-neo-5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme GT Neo 5 Devices | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/four-week-update-on-ios-18-experience-a-comprehensive-review/"><u>Four Week Update on iOS 18 Experience - A Comprehensive Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-activating-dfu-and-recovery-modes-on-iphones-and-ipads/"><u>Guide: Activating DFU & Recovery Modes on iPhones and iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/hands-on-review-of-the-vibrant-nomad-glow-in-the-dark-sports-band-for-apple-watch/"><u>Hands-On Review of the Vibrant Nomad Glow-in-the-Dark Sports Band for Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-often-should-you-charge-your-airtags-duration-of-use-explored/"><u>How Often Should You Charge Your AirTags? Duration of Use Explored</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-issues-with-receiving-texts-from-iphones/"><u>How to Troubleshoot Issues with Receiving Texts From iPhones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-xs-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone XS Properly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-role-of-b-roll-in-polishing-video-projects-for-2024/"><u>The Role of B-Roll in Polishing Video Projects for 2024</u></a></li>
 </ul></div>
 

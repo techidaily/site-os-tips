@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!"
-date: 2024-11-23T04:24:10.445Z
-updated: 2024-11-23T23:11:52.069Z
+date: 2024-11-26T02:05:04.737Z
+updated: 2024-12-02T00:28:40.169Z
 tags:
   - ios
 categories:
@@ -19,12 +19,16 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Circle to Search?
 
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -41,13 +45,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tap on "Add Action."
 
@@ -71,16 +75,12 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
@@ -88,7 +88,7 @@ Justin Duino / How-To Geek
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
@@ -120,22 +120,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>[Updated] In 2024, Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-minecraft-recording-on-mac-a-step-by-step-guide/"><u>[Updated] Mastering Minecraft Recording on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-next-gen-fb-converter-transform-vids-to-premium-mp4-for-2024/"><u>[Updated] Next-Gen FB Converter Transform Vids to Premium MP4 for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterful-descriptions-for-youtube-success/"><u>2024 Approved Masterful Descriptions for YouTube Success</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-itel-p55t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Itel P55T by Name | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-bypassing-mobile-network-locks-for-iphones-on-verizon-atandt-sprint-and-t-mobile/"><u>Guide: Bypassing Mobile Network Locks for iPhones on Verizon, AT&T, Sprint & T-Mobile</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-solve-iphone-call-drop-issues-a-step-by-step-guide/"><u>How to Solve iPhone Call Drop Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>In 2024, TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-speakers-to-files-storing-system-sounds-using-audacity/"><u>New 2024 Approved From Speakers to Files Storing System Sounds Using Audacity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-apple-id-passwords-made-easy-no-email-no-contact-info-required/"><u>Resetting Apple ID Passwords Made Easy – No Email, No Contact Info Required!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-fixing-yahoo-email-issues-on-ios-devices/"><u>Solutions for Fixing Yahoo Email Issues on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-puzzle-of-itunes-error-17-explore-8-proven-strategies-in-our-comprehensive-tutorial/"><u>Solving the Puzzle of iTunes Error 17 - Explore 8 Proven Strategies in Our Comprehensive Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-techniques-from-ipod-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry and Exit Techniques From iPod Recovery Mode</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews-t17239718721769/"><u>Tom's Tech Insights: Comprehensive Gadget Reviews</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-easy-fixes-for-overcoming-iphones-passcode-demand/"><u>Top 5 Easy Fixes for Overcoming iPhone's Passcode Demand</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-your-iphone-contacts-wont-update-on-icloud/"><u>Troubleshooting Steps When Your iPhone Contacts Won't Update on iCloud</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-instagrams-verification-system-for-2024/"><u>[New] Decoding Instagram's Verification System for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-dissecting-fraps-screen-capture-features/"><u>[New] Dissecting Fraps Screen Capture Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-instagrams-secure-livestream-your-silent-journey/"><u>[Updated] In 2024, Instagram's Secure Livestream Your Silent Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-guide-best-10-cost-free-transformers-for-jpg-to-gif/"><u>2024 Approved Exclusive Guide Best 10 Cost-Free Transformers for JPG to GIF</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphone-experience-seamlessly-zooming-in-and-out-using-these-5-effective-strategies/"><u>Boost Your iPhone Experience: Seamlessly Zooming in and Out Using These 5 Effective Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-secure-your-data-by-moving-old-phone-passwords-to-your-new-iphone/"><u>Easy Steps: Secure Your Data by Moving Old Phone Passwords to Your New iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nokia-c12-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nokia C12 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audio-dimming-techniques-that-blend-perfectly-in-adobe-premiere-pro/"><u>In 2024, Audio Dimming Techniques That Blend Perfectly in Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-lava-yuva-3-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Lava Yuva 3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-17-apps-clear-unwanted-images-for-2024/"><u>Leading 17 Apps Clear Unwanted Images for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-changing-your-phones-lock-screen-image/"><u>Step-by-Step Guide: Changing Your Phone's Lock Screen Image</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-stopping-sms-from-coming-through-your-iphone/"><u>Step-by-Step Guide: Stopping SMS From Coming Through Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unsubscribing-from-tv-services-via-ios-device/"><u>Step-by-Step Instructions: Unsubscribing From TV Services via iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-simple-ways-to-connect-your-ipad-to-computermactv/"><u>Top 6 Simple Ways to Connect Your iPad to Computer/Mac/TV</u></a></li>
 </ul></div>
 

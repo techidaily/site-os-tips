@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2024-11-22T03:17:24.108Z
-updated: 2024-11-23T18:45:05.927Z
+date: 2024-11-29T21:53:57.048Z
+updated: 2024-12-01T20:29:33.092Z
 tags:
   - ios
 categories:
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  AirPods Typically Update the Firmware Automatically
@@ -50,9 +50,17 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, tap "About" to progress.
 
@@ -62,20 +70,16 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -115,20 +115,18 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-branding-50-free-youtube-banners-inside-for-2024/"><u>[Updated] Revolutionize Your Branding - 50 Free YouTube Banners Inside for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-behind-the-scenes-insider-knowledge-for-youtube-video-production/"><u>2024 Approved Behind the Scenes Insider Knowledge for YouTube Video Production</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-80-pro-straight-screen-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 80 Pro Straight Screen Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-guide-resolving-your-apple-id-login-problems-swiftly/"><u>Expert Guide: Resolving Your Apple ID Login Problems Swiftly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-how-to-take-photos-and-record-gameplay-on-sony-playstation/"><u>Expert Tips: How to Take Photos and Record Gameplay on Sony PlayStation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-ios-device-superuser-access-create-passwords-and-usernames-on-the-go/"><u>Free iOS Device Superuser Access: Create Passwords & Usernames on the Go</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-secure-your-whatsapp-with-a-strong-password-on-iphone-and-android-devices/"><u>How to Secure Your WhatsApp with a Strong Password on iPhone & Android Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-list-photos-with-perfect-beats-recorders/"><u>In 2024, Premier List Photos with Perfect Beats Recorders</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-art-of-social-shares-comprehensive-instagram-posting-strategies-for-ultimate-engagement/"><u>Master the Art of Social Shares: Comprehensive Instagram Posting Strategies for Ultimate Engagement</u></a></li>
-<li><a href="https://os-tips.techidaily.com/personalizing-your-iphone-experience-a-step-by-step-guide-to-modifying-fonts-on-your-device/"><u>Personalizing Your iPhone Experience: A Step-by-Step Guide to Modifying Fonts on Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-effortlessly-blurring-images-and-portions-on-your-iphone/"><u>Quick Guide: Effortlessly Blurring Images & Portions on Your iPhone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/score-amazing-deals-limited-time-offers-on-high-quality-samsung-tech-for-prime-day/"><u>Score Amazing Deals: Limited-Time Offers on High-Quality Samsung Tech for Prime Day</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-free-subtitling-tools-of-2024/"><u>Top Free Subtitling Tools of 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-project-your-iphone-screen-onto-any-television-with-and-without-an-apple-tv/"><u>Ultimate Guide: How to Project Your iPhone Screen Onto Any Television – With and Without an Apple TV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-your-video-brand-tips-for-great-youtube-banners/"><u>[Updated] In 2024, Elevating Your Video Brand Tips for Great YouTube Banners</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-the-art-of-greenscreen-in-kinemaster/"><u>[Updated] In 2024, Mastering the Art of Greenscreen in KineMaster</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-top-tier-skype-recorder-tech/"><u>2024 Approved Comprehensive Guide to Top-Tier Skype Recorder Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-editing-movie-maker-on-w11-in-detail/"><u>2024 Approved Mastering the Art of Editing Movie Maker on W11 in Detail</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/embark-on-a-new-journey-with-vision-pros-travel-functionality-essential-pre-trip-information-covered/"><u>Embark on a New Journey with Vision Pro's Travel Functionality: Essential Pre-Trip Information Covered!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-htc-u23s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your HTC U23s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-low-volume-in-airpods-a-step-by-step-guide/"><u>Solving the Issue of Low Volume in AirPods: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-lost-images-from-an-iphoneipad/"><u>Step-by-Step Guide: Retrieving Lost Images From an iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-your-iphone-from-being-easily-found-disable-discovery-settings-instantly/"><u>Stop Your iPhone From Being Easily Found: Disable Discovery Settings Instantly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-beaver-state-strikes-back-how-oregons-new-law-challenges-restrictive-manufacturer-policies-like-apples-parts-lockdown/"><u>The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-dawn-of-ubiquitous-smartphone-conformity-across-platforms/"><u>The Dawn of Ubiquitous Smartphone Conformity Across Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-hidden-rise-of-chromebooks-and-what-it-means-for-tech-enthusiasts-analysis/"><u>The Hidden Rise of Chromebooks and What It Means for Tech Enthusiasts Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/think-twice-before-investing-in-these-4-trending-apple-gadgets/"><u>Think Twice Before Investing in These 4 Trending Apple Gadgets</u></a></li>
 </ul></div>
 

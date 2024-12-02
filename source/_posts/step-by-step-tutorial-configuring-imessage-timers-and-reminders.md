@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Configuring iMessage Timers & Reminders"
-date: 2024-11-03T16:52:44.416Z
-updated: 2024-11-04T17:47:34.950Z
+date: 2024-11-25T19:37:31.181Z
+updated: 2024-12-01T18:40:50.087Z
 tags:
   - ios
 categories:
@@ -17,18 +17,15 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 * [How to Schedule a Text Message on iPhone](https://facebook-record-videos.techidaily.com/updated-streamlining-quality-youtubes-best-video-improvement-strategies/)
 * [Delete or Disable Delayed Text Messages on iPhone](https://fake-location.techidaily.com/how-to-fix-my-lava-blaze-2-5g-location-is-wrong-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  You can set up an automation in the Shortcuts app to schedule a delayed text message on iPhone. Choose the time of day, enter the message and recipient, and save the automation. Remember that the scheduled message will repeat automatically unless you disable or delete it.
 
  Sometimes it's best to create a text message while you're thinking of it. But what if you don't want to actually send it until later? Here, we'll show you how to send a scheduled text message on iPhone at whatever time you prefer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Can You Schedule a Text on iPhone?
 
@@ -39,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  To schedule a prewritten text message that sends automatically, you'll need to [set up an automation](https://tech-savvy.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/) using the Shortcuts app. It may not be the ideal solution because it does take a few minutes to set up. Plus, you must remember to remove the automation if you don't want the message to repeat. But it's the delayed message solution closest to what you probably want, though, and below are the steps for this method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Schedule a Text Message on iPhone
@@ -67,22 +61,23 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![The timing settings for the message Shortcut we're creating.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-imemdiately.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Although you may not want your text message to send continually, the repeat setting is required. If you want to schedule a one-time message, you'll simply remove the automation after it finishes, which we'll explain in the [next section](https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/).
 
  On the Actions screen, expand the Next Action Suggestions section and pick "Send Message." If it isn't visible, enter "message" in the search bar at the top to find it.
 
 ![Tap or search for the "Send Message" function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-send-message.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, on the subsequent screen, you'll use the top box to set up your text.
 
 ![The template for a "Send Message" Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-send-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap "Message" in blue and type your text. Then, tap "Recipients" in blue, select or [enter a contact](https://video-ai-editor.techidaily.com/updated-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-now/), and choose "Done."
 
@@ -92,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![An example Shortcut sending "Happy Birthday" to Sandy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-happpy-bday-sandy.png) 
 
- You'll then return to the Automation screen in the Shortcuts app. You can schedule another text message the same way or simply close the app.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll then return to the Automation screen in the Shortcuts app. You can schedule another text message the same way or simply close the app.
 
 ##  Delete or Disable Delayed Text Messages on iPhone
 
@@ -114,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  To disable the automation, select it, tap "Automation," then select "Don't Run."
 
 ![Set the automation to "Don't Run."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-don-t-run.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apple offers a feature to [schedule an email in the Mail app](https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-f14-5g-try-these-fixes-by-drfone-android/), so hopefully down the road, we'll see a feature to schedule a text in Messages as well. In the meantime, at least you can schedule a text message on iPhone using Shortcuts.
 
@@ -139,20 +124,21 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>[New] 2024 Approved Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-ingredients-to-inspiration-cooking-videos/"><u>[Updated] From Ingredients to Inspiration Cooking Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-humorhub-generate-awesome-memes/"><u>[Updated] In 2024, HumorHub Generate Awesome Memes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-capturing-every-angle-how-to-post-360-photos-on-androidios/"><u>2024 Approved Capturing Every Angle How to Post 360 Photos on Android/iOS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-c32-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from C32</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c32-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nokia C32 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-itunes-error-code-2-on-windows-11-8-7-vista-and-xp/"><u>How to Resolve iTunes Error Code 2 on Windows 11, 8, 7, Vista & XP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-compact-guide-setting-up-snapchat-macos-style/"><u>In 2024, Compact Guide Setting up Snapchat macOS-Style</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-iphone-restarts-an-in-depth-look-at-both-soft-and-factory-reset-procedures/"><u>Mastering iPhone Restarts: An In-Depth Look at Both Soft and Factory Reset Procedures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-address-coredll-missing-mistake/"><u>Step-by-Step Tutorial: How To Address Core.dll Missing Mistake</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-vlogger-vogue-launching-your-cosmetic-channel/"><u>The Ultimate Guide to Vlogger Vogue Launching Your Cosmetic Channel</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-rapid-iphone-battery-depletion-solutions-and-tips/"><u>Understanding Rapid iPhone Battery Depletion: Solutions & Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-parental-controls-no-password-needed/"><u>Unlock Your iPhone's Parental Controls: No Password Needed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/utilizing-emoji-and-sticker-features-for-enhanced-messaging-on-ios-10/"><u>Utilizing Emoji & Sticker Features for Enhanced Messaging on iOS 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-true-color-equalizer/"><u>[New] 2024 Approved True Color Equalizer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-for-managing-and-cleared-iphoneipad-battery-statistics/"><u>Easy Steps for Managing and Cleared iPhone/iPad Battery Statistics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/get-close-or-farther-with-ease-on-instagram-stories/"><u>Get Close or Farther with Ease on Instagram Stories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-thunder-tier-1-from-continuously-crashing-on-your-computer-system/"><u>How to Stop Thunder Tier 1 From Continuously Crashing on Your Computer System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>In 2024, Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/kickstart-your-webinar-skills-with-easy-to-follow-zoom-steps-for-2024/"><u>Kickstart Your Webinar Skills with Easy-to-Follow Zoom Steps for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-removal-of-your-iphones-google-location-data-a-step-by-step-guide/"><u>Permanent Removal of Your iPhone's Google Location Data: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-techniques-to-remove-cookies-and-browsing-records-in-safari-on-ios-devices/"><u>Simple Techniques to Remove Cookies and Browsing Records in Safari on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-deleting-your-whatsapp-conversations-and-messages/"><u>Step-by-Step Guide: Deleting Your WhatsApp Conversations & Messages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-5-amazing-open-source-ai-image-synthesis-programs/"><u>The Ultimate List: 5 Amazing Open-Source AI Image Synthesis Programs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y78plus-t1-edition-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y78+ (T1) Edition FRP Bypass</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-erasing-all-data-from-your-ipad-safely-including-tips-without-a-password/"><u>Ultimate Guide: Erasing All Data From Your iPad Safely, Including Tips Without a Password</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-instructions-for-removing-your-snapchat-images-from-conversations-and-memories/"><u>Ultimate Instructions for Removing Your Snapchat Images From Conversations & Memories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-how-to-empty-your-facebook-cache-across-all-devices-windows-mac-android-ios/"><u>Ultimate Step-by-Step Tutorial: How to Empty Your Facebook Cache Across All Devices (Windows, Mac, Android, iOS)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-creativity-in-youtube-production-an-intro-to-wmm-for-2024/"><u>Unlock Creativity in YouTube Production An Intro to WMM for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown"
-date: 2024-11-18T22:07:56.913Z
-updated: 2024-11-24T05:06:11.412Z
+date: 2024-11-25T17:49:41.507Z
+updated: 2024-12-02T08:48:10.921Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ## The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2024/03/28 10:41 EST BY CORBIN DAVENPORT
@@ -56,22 +56,17 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-contents-reach-in-youtube-shorts-formats/"><u>[New] 2024 Approved Elevate Your Content's Reach in YouTube Shorts Formats</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] In 2024, Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-hidden-world-of-hand-tracking/"><u>[New] Unveiling the Hidden World of Hand Tracking</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-screen-record-on-xiaomi-11t-mi-11mi-11-lite/"><u>[Updated] 2024 Approved How to Screen Record on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-iosandroid-techniques-extracting-twitters-gifs/"><u>[Updated] IOS/Android Techniques Extracting Twitter's GIFs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-phantasm-captures-action-tech-diary-for-2024/"><u>[Updated] Phantasm Captures Action Tech Diary for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eliminating-persistent-thread-stickers-on-insta-concealment-tips-and-tricks/"><u>Eliminating Persistent Thread Stickers on Insta: Concealment Tips & Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-hotspot-connection-failures-on-ios-devices-iphone-181716-top-causes-and-remedies/"><u>Fixing Hotspot Connection Failures on iOS Devices (iPhone 18/17/16): Top Causes and Remedies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-creating-stunning-time-lapse-videos-with-your-iphone/"><u>Guide: Creating Stunning Time-Lapse Videos with Your iPhone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-note-13-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi Note 13 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-through-ipad-recovery-mode-step-by-step-process-for-activation-and-deactivation/"><u>Navigating Through iPad Recovery Mode: Step-by-Step Process for Activation & Deactivation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-lost-icloud-and-local-contacts-on-your-iphone-restore-whats-gone/"><u>Solutions for Lost iCloud and Local Contacts on Your iPhone: Restore What's Gone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-high-cpu-error-linked-to-runtime-broker-in-windows-11-systems/"><u>Step-by-Step Fix for High CPU Error Linked to Runtime Broker in Windows 11 Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-an-iphone-that-forgot-its-password/"><u>Step-by-Step Instructions for Resetting an iPhone That Forgot Its Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-voice-memos-and-mic-functionality/"><u>Troubleshooting Tips: Resolving Issues with Voice Memos and Mic Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-connection-failures-why-cant-my-airplay-stream-to-apple-tv/"><u>Understanding Connection Failures: Why Can't My AirPlay Stream to Apple TV?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-achieving-financial-gain-through-youtube-videos/"><u>[Updated] 2024 Approved Achieving Financial Gain Through YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-visibility-in-a-newly-updated-social-platform/"><u>[Updated] Maximizing Visibility in a Newly Updated Social Platform</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-video-guide-from-youtube-to-twitter-for-2024/"><u>[Updated] Ultimate Video Guide From YouTube to Twitter for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/windows-1011uefi-ssd/"><u>最適化された手順：Windows 10/11をUEFI SSDにクローンするコツ</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/achieving-virality-on-youtube-essential-steps-demystified-for-2024/"><u>Achieving Virality on YouTube Essential Steps Demystified for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-reactivating-your-locked-iphone-techniques-for-unlock-and-restore/"><u>Comprehensive Tutorial on Reactivating Your Locked iPhone: Techniques for Unlock and Restore</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ11/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/exploring-the-best-features-of-the-nook-glowlight-3-the-ideal-e-reader-for-late-hours/"><u>Exploring the Best Features of the Nook GlowLight 3: The Ideal E-Reader for Late Hours</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-location-not-detected-on-iphone-swiftly-and-simply-a-step-by-step-guide/"><u>Fix 'Location Not Detected' On iPhone Swiftly and Simply – A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-spectacle-of-speed-simulators-top-5/"><u>In 2024, Spectacle of Speed Simulators (Top 5)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-system-repair-accessing-recovery-modes-across-phones-and-computers/"><u>Mastering System Repair: Accessing Recovery Modes Across Phones and Computers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620256136-trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Solutions Win: Discover Why a Cost-Effective Phone Stand Should Be on Your Radar"
-date: 2024-11-22T06:17:05.717Z
-updated: 2024-11-24T10:10:43.314Z
+date: 2024-11-28T00:09:28.587Z
+updated: 2024-12-01T23:23:15.519Z
 tags:
   - ios
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
  I chose one that was cheap (but didn't feel cheap), didn't come with branding, and could fold small enough to slip into a pocket. [It came in a two-pack for only $10](https://www.amazon.com/dp/B0CG9MQY6X/ref=twister%5FB0B5NFHZD9?%5Fencoding=UTF8&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003240&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-my-must-have-phone-accessory-is-a-cheap-stand%2F&asc%5Fcampaign=Evergreen), which was a nice bonus. My wife took a liking to them, too, so we now have at least six in various places.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Videos Are Better When Your Hands Are Free
@@ -48,10 +48,6 @@ Bertel King / How-To Geek
 
 ![Playing a game in a phone resting on a stand with a Bluetooth controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060762.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
  Many mobile games, especially ports, play much better with a Bluetooth gamepad (I'm looking at you, Dead Cells). But if you're holding the gamepad, what's holding the phone? I've spent enough time trying to prop my phone up against the back of a sofa or against a pillow to say I'm over it.
@@ -59,6 +55,10 @@ Bertel King / How-To Geek
  You can buy a phone clip that [attaches your phone to your controller](https://www.amazon.com/OIVO-Controller-Mobile-Playstation-Dualsense/dp/B08QZC4G25/ref=sr%5F1%5F3?crid=2EU2IJS6TW5QW&dib=eyJ2IjoiMSJ9.AhPomSMhv21Jza%5FOw169295-nDEKaGFScM5HxdjkLJLTw4IpnCMJlczfsXXBJm%5FrHLj-TQ7wfx83Ecph0TgJ8eeoc6eVpRKrvXyitZVBqT7okXIIOld%5FFRZowNQSeafsQ-B0jH4ot0eSQY7cIXecaAH7%5FpnezclGO0KY56CTgsZfUkvK9bkDVQP7cZ-bhw%5FsRMvH0A4dO0ekt1L1XGzZ8t%5FncZinBaUd2IuWRbOgvhk.su0-6%5Frgu68cWWgq750PIKGN3U0w57RlVyUScJGuf8U&dib%5Ftag=se&keywords=phone+stand+controller&qid=1716565622&sprefix=phone+stand+controlle%2Caps%2C100&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003240&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-my-must-have-phone-accessory-is-a-cheap-stand%2F&asc%5Fcampaign=Evergreen), but I don't like either the look or the feel of those. Telescopic controllers like the [GameSir G8 Galileo](https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/) are a great option, but I've settled on using my favorite Bluetooth controller (the [8BitDo Pro 2](https://www.amazon.com/Bluetooth-Controller-Joystick-Wireless-Gaming-Console/dp/B0CSPH1JYV/ref=sr%5F1%5F3?crid=1G6WU6AHI0GP1&dib=eyJ2IjoiMSJ9.XCVxcij26p7BdiN2YYrq%5FC6dSuvYW7ftUupOzXIpbdnk2Xi0zYevNLq7VJkxGKnzLcnwR-qApuUa7mkL8NlUIWhgaKWZJa2s-RhAQZXwKNzyluwKkBdBa8xkmsjc709VQ47wCZCJPV0qezuE2fmcub9GVAxCWG30MSOEXw7GBOx8ssIzye7I7hJDf-IUViME-OWTjGtPssYOv71hreMLjZ%5F5TOLJGP%5F%5FjzfiX-B67ic.IwlszLbiTXSTpRkgJBcwQQQqVvT9c%5FFfUTmYuRHqmYw&dib%5Ftag=se&keywords=8BitDo+Pro+2&qid=1716565811&sprefix=8bitdo+pro+2%2Caps%2C102&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003240&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-my-must-have-phone-accessory-is-a-cheap-stand%2F&asc%5Fcampaign=Evergreen)) and a phone stand. This way I can stick with the same controller regardless of whether I'm gaming at a computer monitor or using AR glasses.
 
  Gaming on the phone atop a stand is not all that different from using a Nintendo Switch with the Joy-Cons removed. Depending on your phone, there isn't all that big a difference in the size of your screen. Most phones have a screen comparable to or larger than the Switch's 6.2 inches. I own a Galaxy Z Fold 5, so my phone's 7.6-inch screen is actually bigger than that of a [Switch OLED](https://win11.techidaily.com/1719355296197-dimming-windows-11-brightness-simple-fixes-unveiled/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More Relaxed, More Focused Video Calls
 
@@ -72,6 +72,10 @@ Bertel King / How-To Geek
 
  A phone stand can serve as a basic tripod for taking timed photos of yourself or for being part of group photos when you're the photographer. One of the best features of [foldable phones like the Galaxy Z Flip 5](https://desktop-recording.techidaily.com/updated-ideal-tools-to-capture-your-pcs-display-on-windows-10-for-2024/) is that they serve as their own tripod, but a simple phone stand extends this luxury to any phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Follow Recipes Without Making Your Phone a Mess
 
 ![Phone on a stand displaying a recipe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060794.jpg) 
@@ -82,16 +86,12 @@ Bertel King / How-To Geek
 
  Holding a phone isn't ideal when working with a knife, so we keep a phone stand around in the kitchen to make recipes easier to read. It's easy to angle the stand back enough to keep text visible while standing. You also only need to have one dry finger to scroll through all the ads and paragraphs of filler to get to the actual recipe, rather than having to wipe down your whole hand.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Writing With a Keyboard and Mouse
 
 ![Samsung Galaxy Z Fold 5 with accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/samsung-galaxy-z-fold-5-with-accessories.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King/How-To Geek
@@ -101,7 +101,7 @@ Bertel King/How-To Geek
  Smartphones have long paired to Bluetooth keyboards and mice just fine, but to get the most out of that experience, you need somewhere to put your phone. With your phone propped up on a stand (and airplane mode toggled on), the experience isn't all that different from using a digital typewriter like the [Freewrite Alpha](https://tech-haven.techidaily.com/local-instance-of-chatgpt-for-windows-using-open-source-gpt-4-alternative/). Some Bluetooth keyboards even have phone stands built-in, but there's no need to buy one if you already have a small, pocketable phone stand lying around.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using My Phone While Charging
@@ -127,21 +127,24 @@ Bertel King/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-keeping-your-views-private-top-5-insta-tools/"><u>[New] Keeping Your Views Private - Top 5 Insta Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-avoiding-darkness-with-lightrooms-dynamic-range-technique/"><u>[Updated] Avoiding Darkness with Lightroom’s Dynamic Range Technique</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-easy-ways-to-screen-record-instagram-story-for-2024/"><u>[Updated] Easy Ways to Screen Record Instagram Story for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unlock-mysteries-select-top-puzzle-houses/"><u>[Updated] In 2024, Unlock Mysteries Select Top Puzzle Houses</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-ultimate-guide-to-unmissable-gaming-worlds/"><u>[Updated] In 2024, Your Ultimate Guide to Unmissable Gaming Worlds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-iphone-imaging-select-accessories-for-professionals/"><u>2024 Approved Maximize iPhone Imaging Select Accessories for Professionals</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/automatic-sync-of-documents-transferring-files-from-your-pc-to-a-connected-usb-on-windows-10/"><u>Automatic Sync of Documents: Transferring Files From Your PC to a Connected USB on Windows 10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-methods-for-eliminating-malware-from-your-android-devices/"><u>Effective Methods for Eliminating Malware From Your Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-easily-access-and-view-heic-images-on-your-android-device/"><u>How to Easily Access and View HEIC Images on Your Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-efficiently-disconnect-your-google-account-from-mobile-devices/"><u>How to Efficiently Disconnect Your Google Account From Mobile Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-wise-to-seek-investment-wisdom-from-artificial-intelligences-like-chatgpt-and-bard/"><u>Is It Wise to Seek Investment Wisdom From Artificial Intelligences Like ChatGPT and Bard?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-your-android-lock-screen-code-easy-steps-to-regain-access/"><u>Lost Your Android Lock Screen Code? Easy Steps to Regain Access!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secretly-delete-texts-from-phone-without-backup-iphone-and-android-steps/"><u>Secretly Delete Texts From Phone Without Backup: IPhone & Android Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-for-restoring-deleted-sms-on-verizon-and-atandt-phones/"><u>Step-by-Step Process for Restoring Deleted SMS on Verizon and AT&T Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/trouble-logging-into-snapchat-heres-how-you-can-overcome-these-login-issues/"><u>Trouble Logging Into Snapchat? Here's How You Can Overcome These Login Issues</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/hddand/"><u>シンプルな手順で外付けHDDから写真&画像を素早く回復する方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-craft-professional-tiktoks-mastery-of-numerical-changes-for-2024/"><u>[New] Craft Professional TikToks Mastery of Numerical Changes for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-delight-in-these-top-10-insta-memes-that-spark-joy-and-sobs/"><u>[New] Delight in These Top 10 Insta Memes That Spark Joy & Sobs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-professionals-handbook-to-video-editing-in-youtube-studio/"><u>[New] In 2024, The Professional's Handbook to Video Editing in YouTube Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-platforms-showcasing-googles-video-partner-program/"><u>[Updated] Platforms Showcasing Google's Video Partner Program</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-essential-marketing-lexicon-20-pivotal-words-and-phrases-for-2024/"><u>[Updated] The Essential Marketing Lexicon 20 Pivotal Words & Phrases for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypass-the-hassle-effective-strategies-for-rapid-fix-of-itunes-error-code-14-discover-how-in-under-10-steps/"><u>Bypass the Hassle: Effective Strategies for Rapid Fix of iTunes Error Code 14 - Discover How in Under 10 Steps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-user-experience-with-lamicall-s-tablet-stand-intricate-review-for-optimal-performance/"><u>Enhancing User Experience with Lamicall S Tablet Stand: Intricate Review for Optimal Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-fongo-leading-canadian-voice-over-ip-solutions/"><u>Expert Evaluation of Fongo: Leading Canadian Voice over IP Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-fixes-for-loading-issues-with-videos-on-ios-devices/"><u>Guaranteed Fixes for Loading Issues with Videos on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-remedies-to-resolve-the-disappearing-iphone-camera-icons-issue/"><u>Guaranteed Remedies to Resolve the Disappearing iPhone Camera Icons Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620252123-how-to-uncover-your-icloud-password-with-just-your-devices-imei-number-expert-secrets-revealed/"><u>How To Uncover Your iCloud Password With Just Your Device's IMEI Number - Expert Secrets Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257493-missing-iphone-images-swift-recovery-strategies-inside/"><u>Missing iPhone Images? Swift Recovery Strategies Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-troubles-heres-how-to-restore-voice-chat-functionality-in-sea-of-thieves/"><u>PC Troubles? Here's How to Restore Voice Chat Functionality in Sea of Thieves</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-forcefully-erase-directories-in-windows-1011-using-professional-software/"><u>Step-by-Step Instructions: Forcefully Erase Directories in Windows 10/11 Using Professional Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-restoring-facetime-functionality-on-iphones/"><u>Step-by-Step Solution: Restoring FaceTime Functionality on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-repairing-a-nonfunctional-iphone-securely-and-effectively/"><u>Step-by-Step Tutorial: Repairing a Nonfunctional iPhone Securely & Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-strategies-to-reclaim-your-iphones-storage-space-post-ios-17-upgrade/"><u>Top 7 Strategies to Reclaim Your iPhone's Storage Space Post-iOS 17 Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-bargain-alert-255-chromebook-steals-the-show-at-octobers-prime-day-extravaganza/"><u>Unbelievable Bargain Alert: $255 Chromebook Steals the Show at October's Prime Day Extravaganza!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-does-my-iphones-safari-keep-freezing-expert-tips-for-a-smooth-browsing-experience/"><u>Why Does My iPhone's Safari Keep Freezing? Expert Tips for a Smooth Browsing Experience</u></a></li>
 </ul></div>
 

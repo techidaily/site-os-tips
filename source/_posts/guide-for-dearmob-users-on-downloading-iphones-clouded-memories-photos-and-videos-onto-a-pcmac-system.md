@@ -1,7 +1,7 @@
 ---
 title: Guide for DearMob Users on Downloading iPhone's Clouded Memories (Photos & Videos) Onto a PC/Mac System
-date: 2024-11-20T07:54:11.152Z
-updated: 2024-11-24T06:30:07.030Z
+date: 2024-11-29T07:11:20.683Z
+updated: 2024-12-02T03:59:07.145Z
 tags:
   - iphone-manager
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Download Photos/Videos from iCloud?
 
@@ -42,14 +38,22 @@ DearMob iPhone Manager tags all your iCloud photos with a Cloud icon so that you
 
 ![how do i see my icloud photos](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photos.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Notes:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * A photo with a Cloud tag shows that it is on iCloud, and may not be on your devices unless you tap it in the Photos app for instant download. A progress bar will indicate the download status for each single photo.
 * However, videos saved on iCloud are not marked as photos with Cloud icon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Download iCloud Photos to PC/Mac with DearMob?
 
@@ -58,7 +62,7 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 ![Download and Keep Originals](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1:** Go to Settings > \[Your Name\] > iCloud > Photos. 
@@ -70,16 +74,12 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 ![Download and Keep Originals](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Upon download, reconnect your device to computer and let DearMob read and retry exporting original photos/videos without failure.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Notes:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Read this guide should you encounter the "[iCloud photos could not be turned on](https://tools.techidaily.com/5kplayer/iphone-manager/)" issue.
 * Read this guide should you encounter the "[photos missing from iCloud photo library](https://tools.techidaily.com/5kplayer/iphone-manager/)" issue.
@@ -100,16 +100,18 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-for-designing-compelling-youtube-video-thumbnails/"><u>[Updated] In 2024, Best Practices for Designing Compelling YouTube Video Thumbnails</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-poco-m6-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco M6 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y27-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y27 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-zte-nubia-z60-ultra-screen-sharing-drfone-by-drfone-android/"><u>How To Do ZTE Nubia Z60 Ultra Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-search-of-a-sleek-tablet-why-the-ipad-mini-deserves-serious-consideration/"><u>In Search of a Sleek Tablet? Why the iPad Mini Deserves Serious Consideration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-username-functionality-updates-available-on-signal-platform/"><u>Introducing Username Functionality: Updates Available on Signal Platform</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ipad-ownership-is-it-worth-your-investment-essential-insights-for-potential-buyers/"><u>IPad Ownership: Is It Worth Your Investment? Essential Insights for Potential Buyers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/"><u>Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-efficiency-adding-widgets-to-your-iphones-lock-screen-tutorial/"><u>Maximize Efficiency: Adding Widgets to Your iPhone's Lock Screen Tutorial</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-simple-guide-to-downloading-and-setting-up-hp-drivers/"><u>Quick and Simple Guide to Downloading & Setting Up HP Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721470655963-struggling-with-iphones-vpn-connection-issues-here-are-7-quick-fixes/"><u>Struggling with iPhone's VPN Connection Issues? Here Are 7 Quick Fixes.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-streamlit-splendor-hues-and-highlights-technique/"><u>[New] 2024 Approved Streamlit Splendor Hues and Highlights Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-premier-music-video-experience-6-picks/"><u>[New] Android's Premier Music Video Experience 6 Picks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-charting-your-path-to-higher-youtube-spotlight/"><u>[New] In 2024, Charting Your Path to Higher YouTube Spotlight</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-achieving-economical-data-management-with-cloud-services-for-2024/"><u>[Updated] Achieving Economical Data Management with Cloud Services for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ae-user-guide-adding-flavor-with-typefaces/"><u>[Updated] AE User Guide Adding Flavor with Typefaces</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dimming-dynamics-understated-audio-alteration-in-garageband-for-2024/"><u>[Updated] Dimming Dynamics Understated Audio Alteration in Garageband for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-activating-and-deactivating-iphones-dfu-mode-effectively/"><u>Complete Tutorial: Activating and Deactivating iPhone's DFU Mode Effectively</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-lenovo-ideapad-excellence-in-design-and-functionality/"><u>Comprehensive Guide to the Lenovo Ideapad: Excellence in Design and Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experts-roadmap-to-successfully-restoring-lost-notes-stored-in-icloud/"><u>Expert's Roadmap to Successfully Restoring Lost Notes Stored in iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-restoring-lost-sms-on-your-iphone-in-minutes/"><u>Quick Guide: Restoring Lost SMS on Your iPhone in Minutes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-deleted-chat-contacts-in-facebook-messenger-for-iphones-a-step-by-step-guide/"><u>Restoring Deleted Chat Contacts in Facebook Messenger for iPhones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-lost-messages-a-step-by-step-guide-to-recovering-deleted-mms-photos-from-your-iphone/"><u>Reviving Lost Messages: A Step-by-Step Guide to Recovering Deleted MMS Photos From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-the-methods-to-retrieve-erased-iphone-messages-comprehensive-guide/"><u>Uncovering the Methods to Retrieve Erased iPhone Messages: Comprehensive Guide</u></a></li>
 </ul></div>
 

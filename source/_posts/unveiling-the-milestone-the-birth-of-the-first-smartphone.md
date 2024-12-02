@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-11-17T05:33:07.565Z
-updated: 2024-11-24T01:05:32.211Z
+date: 2024-11-30T22:47:16.373Z
+updated: 2024-12-01T20:18:34.988Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,18 +88,18 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-defeat-synthetic-followers-for-true-popularity-peak/"><u>[New] 2024 Approved Defeat Synthetic Followers for True Popularity Peak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-experience-the-power-of-windows-on-your-iphone-with-seamless-simulation/"><u>1. Experience the Power of Windows on Your iPhone with Seamless Simulation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-superior-charging-experience-why-magsafe-is-a-compelling-reason-to-upgrade-your-iphone/"><u>1. Superior Charging Experience: Why MagSafe Is a Compelling Reason to Upgrade Your iPhone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>2024 Approved Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/boring-godfall-a-disappointing-debut-for-the-playstation-5/"><u>Boring Godfall - A Disappointing Debut for the PlayStation 5</u></a></li>
-<li><a href="https://win-online.techidaily.com/compresion-de-videos-optimizada-para-usuarios-de-mac-top-softwares-recomendados/"><u>Compresión De Vídeos Optimizada Para Usuarios De Mac: Top Softwares Recomendados</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-realme-12plus-5g-by-drfone-android/"><u>How to Bypass FRP from Realme 12+ 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-gt-5-240w-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme GT 5 (240W) Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/how-to-significantly-reduce-the-size-of-high-definition-4k-and-8k-video-files-by-up-to-90/"><u>How to Significantly Reduce the Size of High-Definition, 4K, and 8K Video Files by Up to 90%</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-limits-of-machine-learning-in-medicine-revealed/"><u>The Limits of Machine Learning in Medicine Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-factors-to-evaluate-when-investing-in-an-unlocked-mobile-device/"><u>Top Factors to Evaluate When Investing in an Unlocked Mobile Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upgrade-your-chat-game-master-these-10-indispensable-imessage-tricks-for-immediate-use/"><u>Upgrade Your Chat Game: Master These 10 Indispensable iMessage Tricks for Immediate Use</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-bluetooth-remotes-and-controllers-for-easy-shooting/"><u>[New] Bluetooth Remotes and Controllers for Easy Shooting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-snapback-to-loss-prevention/"><u>[New] In 2024, Quick Snapback to Loss Prevention</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-sharing-on-social-making-instagram-stories-explode-for-2024/"><u>[New] The Art of Sharing on Social Making Instagram Stories Explode for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ballot-bonanza-5-best-political-game-line-ups-for-2024/"><u>[Updated] Ballot Bonanza 5 Best Political Game Line-Ups for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-magic5-ultimate-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor Magic5 Ultimate to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Headset Problems on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-v29e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo V29e to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726026613529-pc/"><u>PC画面におけるビデオ品質向上・低下の効果的な方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-ipad-gameplay-using-the-apple-pencil-a-step-by-step-guide-to-better-entertainment/"><u>Transform Your iPad Gameplay Using the Apple Pencil - A Step-by-Step Guide to Better Entertainment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-apple-id-the-truth-behind-disappearing-accounts/"><u>Understanding Your Apple ID: The Truth Behind 'Disappearing' Accounts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-creative-filmmaking-using-an-apple-watch-as-your-handy-audio-mic-explained/"><u>Unleash Creative Filmmaking: Using an Apple Watch as Your Handy Audio Mic Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-your-apple-watch-top-12-essential-functions-unveiled/"><u>Unleash Your Apple Watch: Top 12 Essential Functions Unveiled</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-new-efficiency-levels-with-apples-iphone-speech-to-text-capability/"><u>Unlock New Efficiency Levels with Apple's iPhone Speech-to-Text Capability</u></a></li>
 </ul></div>
 

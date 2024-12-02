@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-date: 2024-11-17T07:34:02.033Z
-updated: 2024-11-23T21:23:21.079Z
+date: 2024-11-28T16:21:21.127Z
+updated: 2024-12-02T13:20:59.054Z
 tags:
   - ios
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The iPhone 16 Ultra?](https://extra-skills.techidaily.com/in-2024-instantly-fashion-company-symbols-with-open-source-tools/)
 * [Speculation and Rumor](https://instagram-video-files.techidaily.com/engage-viewers-with-3-innovative-description-styles-on-instagram-vids-for-2024/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * A new A18 system-on-chip is likely to arrive in both the iPhone 16 and 16 Pro, potentially with an "A18 Pro" faster version.
@@ -40,13 +44,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Apple A17 Pro SoC found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro_iphone.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  Apple may reserve the highest-performing chips for the more expensive model, with possible “A18 Pro” style branding. This should be a decent upgrade for the base-model iPhones considering the iPhone 15’s use of the older A16 SoC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  No More Mute Switch for the iPhone 16
 
@@ -54,15 +58,15 @@ Apple
 
 ![Volume buttons and Action Button on the Apple iPhone 15 Pro Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/volume-buttons-and-action-button-on-the-apple-iphone-15-pro-max.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  So-called dummy iPhone 16 models posted by X (Twitter) user [Sonny Dickson](https://x.com/SonnyDickson/status/1775704247348412559?s=20) depict a full range of iPhone models with an Action button in place of the mute toggle. As per the iPhone 15 Pro, this button can be used in the same way or reprogrammed. This allows you to use the button for other purposes like triggering a Shortcut, recording a voice memo, and turning on your device’s flashlight.
 
  On the iPhone 15 Pro, mute functionality can be accessed via Control Center instead. For those of us whose iPhones are always muted, the loss of a physical toggle in favor of more useful button would be a win.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A New Capture Button
 
@@ -89,7 +93,7 @@ Tyler Hayes / How-To Geek
  The base model iPhone 16 is not expected to differ in size from last year’s iPhone 15.; There are also no signs that Apple will bring back the [delightfully small iPhone mini](https://data-wizards.techidaily.com/bypassing-videography-errors-with-simple-fixes/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Slightly Better Display Technology
@@ -97,10 +101,6 @@ Tyler Hayes / How-To Geek
  Both iPhone models already use beautiful OLED panels, but a [report](https://www.thelec.kr/news/articleView.html?idxno=22829) from Korean blog The Elec suggests that Apple has considered the use of a [micro lens array](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a18-drfone-by-drfone-virtual-android/) (MLA) to increase brightness in 2024’s models. MLAs would allow Apple to boost brightness without increasing power consumption.
 
  Alternatively, Apple could settle for the same levels of brightness as seen in existing models while reducing power consumption and preserving battery life.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Faster Wi-Fi
 
@@ -112,18 +112,26 @@ Hannah Stryker / How-To Geek
 
  Both upgrades are welcome, with [Wi-Fi 7 bringing speeds of around 30Gbps](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) and [Wi-Fi 6E utilizing the 6GHz band](https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/) to top out at around 9.6Gbps. You will of course need a router compatible with these standards, and that router will need to support whatever speeds you hope to achieve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8GB of RAM on All Models
 
  According to the same Jeff Pu report, Apple will be bumping the RAM up to 8GB in all models this year. Last year’s iPhone 15 Pro already had 8GB, but the base models only featured 6GB.
 
 ![The final form of Lady Dimitrescu from Resident Evil Village flies overhead on the iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3caf4670-5199-11ee-bf3f-d4673beffea4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  Last year’s [iPhone 15 Pro was touted as a gaming beast](https://techidaily.com/how-to-soft-reset-lava-blaze-2-pro-phone-drfone-by-drfone-reset-android-reset-android/), and was one of a handful of mobile Apple devices able to run AAA games like _Resident Evil: Village_ and _Death Stranding_. Since this year’s models are rumored to be using the same or similar A18 systems-on-chip, increasing RAM allocation to close the gap makes sense if Apple wants to tempt more publishers to see the iPhone as more than just a mobile gaming platform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Slim Vertical Camera Bump for iPhone 16
@@ -132,17 +140,9 @@ Apple
 
  The last iPhone to see this style of slim vertical camera array was the iPhone XS, back in 2018.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Potentially More Expensive Price Tag
 
  Since component prices have risen, it wouldn’t be surprising to see Apple increase the price of this year’s iPhone 16 and 16 Pro models. Apple didn’t increase the price of either the base or the Pro models last year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The iPhone 16 Ultra?
 
@@ -171,18 +171,22 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-secrets-revealed-how-to-capture-your-facebook-sessions-for-2024/"><u>[New] Secrets Revealed How to Capture Your Facebook Sessions for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-zoom-meet-up-essentials-a-step-by-step-guide/"><u>[Updated] In 2024, Zoom Meet-Up Essentials A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smile-and-share-easy-memes-via-kinemaster/"><u>2024 Approved Smile and Share Easy Memes via KineMaster</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/augmented-reality-on-android-a-step-towards-future-viewing/"><u>Augmented Reality on Android - A Step Towards Future Viewing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/boost-your-mouse-functionality-updating-logitech-m310s-software/"><u>Boost Your Mouse Functionality: Updating Logitech M310's Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-analyzing-whether-youtube-premium-is-right-for-you/"><u>In 2024, Analyzing Whether YouTube Premium Is Right for You</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/1716465314611-profile-pictures-download-for-free/"><u>Profile Pictures - Download for FREE!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-iphone-experience-top-6-discreet-ios-update-enhancements/"><u>Transform Your iPhone Experience: Top 6 Discreet iOS Update Enhancements</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-face-recognition-top-5-solutions-when-your-iphones-face-id-fails/"><u>Troubleshooting Face Recognition: Top 5 Solutions When Your iPhone's Face ID Fails</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-iphone-13-pro-defenders-ranked/"><u>Ultimate Selection: IPhone 13 Pro Defenders Ranked</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-covert-spy-gear-a-step-by-step-guide-to-identifying-concealed-camera-traps-using-mobile-technology/"><u>Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-exclusive-discounts-save-big-on-updf-editor-and-apple-watch-series-eztrem/"><u>Unlock Exclusive Discounts: Save Big on UPDF Editor & Apple Watch Series ˈēztrēm!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-full-potential-ipadoss-path-to-powerful-multitasking-in-3-simple-steps/"><u>Unlock Full Potential: IPadOS's Path to Powerful Multitasking in 3 Simple Steps.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721423315897-beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-car-charging-at-home-key-insights-and-tips/"><u>Electric Car Charging at Home: Key Insights and Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-90-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 90 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-virtual-venues-clash-obstwitch-live/"><u>In 2024, Virtual Venues Clash OBS/Twitch Live</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-a54-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy A54 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mobility-control-deactivation-in-w11/"><u>Mastering Mobility Control Deactivation in W11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-effective-methods-for-resolving-the-youtube-freeze-up-dilemma-no-more-unresponsive-errors/"><u>Quick & Effective Methods for Resolving the YouTube Freeze-Up Dilemma: No More 'Unresponsive' Errors!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-home-entertainment-the-formidable-impact-of-gamesirs-g8-galileo/"><u>Revolutionizing Home Entertainment: The Formidable Impact of GameSir's G8 Galileo</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safeguard-your-digital-memories-how-to-prevent-whatsapp-from-deleting-years-of-chats-and-media/"><u>Safeguard Your Digital Memories: How to Prevent WhatsApp From Deleting Years of Chats and Media</u></a></li>
+<li><a href="https://os-tips.techidaily.com/speed-assessment-of-iphone-15s-new-usb-c-charging-connector/"><u>Speed Assessment of iPhone 15'S New USB-C Charging Connector</u></a></li>
+<li><a href="https://os-tips.techidaily.com/steps-to-transfer-your-google-authenticator-tokens-seamlessly-between-devices/"><u>Steps to Transfer Your Google Authenticator Tokens Seamlessly Between Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/tackle-phone-distractions-a-guide-to-overcoming-digital-interruptions-in-4-simple-steps/"><u>Tackle Phone Distractions: A Guide to Overcoming Digital Interruptions in 4 Simple Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-apple-watch-as-a-guardian-angel-discover-9-potential-life-preserving-benefits/"><u>The Apple Watch as a Guardian Angel: Discover 9 Potential Life-Preserving Benefits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-best-iphone-add-ons-exceptional-value-meets-innovation/"><u>The Best iPhone Add-Ons – Exceptional Value Meets Innovation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xr-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XR</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-long-lasting-test-of-a-biodegradable-phone-case-a-5-month-update/"><u>The Long-Lasting Test of a Biodegradable Phone Case - A 5-Month Update</u></a></li>
 </ul></div>
 

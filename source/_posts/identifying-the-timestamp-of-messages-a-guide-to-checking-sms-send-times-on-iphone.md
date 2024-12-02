@@ -1,7 +1,7 @@
 ---
 title: "Identifying the Timestamp of Messages: A Guide to Checking SMS Send Times on iPhone"
-date: 2024-11-12T20:26:50.738Z
-updated: 2024-11-13T19:14:59.074Z
+date: 2024-11-28T12:14:24.774Z
+updated: 2024-12-01T18:28:29.966Z
 tags:
   - ios
 categories:
@@ -11,9 +11,17 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 
 ## Identifying the Timestamp of Messages: A Guide to Checking SMS Send Times on iPhone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Check What Time a Message Was Sent](https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-11-to-new-iphone-drfone-by-drfone-transfer-from-ios/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
  By default, the iPhone's Messages app shows you the date and time for the first message on any given day, but not for every message sent and received. However, the exact time each message was sent is hidden — but there's an easy way to show all the exact timestamps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Check What Time a Message Was Sent
@@ -35,22 +40,12 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 ![The times iMessages were sent highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/send-time.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The default display is quite different. Notice the date and time at the top of a group of messages in the screenshot below, but there are no times on the _individual_ messages.
 
 ![A snippet of an iMessage conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/unlabeled-snippet-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You might also see a Read message at the bottom of the latest message with a time (if it's from the current day), a day of the week (if it's from the last week), or a date (if it's from before the last week).
 
@@ -59,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 ![A message's read time highlighted by an arrow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/readtime.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Blue text messages are ones sent through the iMessage system (between iPhones). If you have friends or family with a phone other than an iPhone, such as an Android phone or a Windows phone, the [messages they send you will be green](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/), indicating that they are SMS messages, not iMessage messages. The ability to check what time a message was sent does not depend on iMessage metadata, and will work with even basic SMS. 
@@ -84,19 +76,17 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-harmonizing-hashtags-instagram-tiktok-collaborative-guide/"><u>[New] In 2024, Harmonizing Hashtags Instagram-TikTok Collaborative Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-stream-a-comprehensive-ad-revenue-guide-on-youtube/"><u>[Updated] Elevate Your Stream A Comprehensive Ad Revenue Guide on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-merge-apple-music-and-videos-together/"><u>[Updated] Seamless Merge Apple Music & Videos Together</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlock-your-viewing-pleasure-with-budget-friendly-recording-tools-for-2024/"><u>[Updated] Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/masterclass-on-making-your-obs-edits-stand-out-amongst-the-best-for-2024/"><u>Masterclass on Making Your OBS Edits Stand Out Amongst the Best for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480502156-struggling-with-your-iphones-contact-list-correct-it-with-these-3-methods/"><u>Struggling with Your iPhone's Contact List? Correct It With These 3 Methods</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055570-9781735109015-tower-of-light/"><u>TOWER OF LIGHT | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-apps-enhancing-your-driving-experience-on-apples-carplay/"><u>Ultimate Selection of Apps Enhancing Your Driving Experience on Apple's CarPlay</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unbelievable-top-9-ios-apps-that-outperform-on-your-high-end-ipad-models/"><u>Unbelievable: Top 9 iOS Apps That Outperform on Your High-End iPad Models!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-hidden-white-noise-features-for-better-sleep/"><u>Unlock Your iPhone's Hidden White Noise Features for Better Sleep</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-convenience-why-utilizing-google-maps-save-location-function-enhances-your-daily-routine/"><u>Unlocking Convenience: Why Utilizing Google Maps' Save Location Function Enhances Your Daily Routine</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-early-ios-updates-why-paying-for-app-store-isnt-always-necessary/"><u>Unlocking Early iOS Updates - Why Paying for App Store Isn't Always Necessary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-top-unexpected-revelations-of-apples-revolutionary-vision-pro/"><u>Unveiling the Top Unexpected Revelations of Apple's Revolutionary Vision Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-masterful-instagram-reel-editors-the-ultimate-top-10-list/"><u>[New] In 2024, Masterful Instagram Reel Editors The Ultimate Top 10 List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>[Updated] Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
+<li><a href="https://os-tips.techidaily.com/cease-android-application-collapses-with-these-7-proven-fixes/"><u>Cease Android Application Collapses with These 7 Proven Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeat-browser-trickery-tactics-for-removing-the-false-alarm-known-as-google-chromes-critical-error/"><u>Defeat Browser Trickery: Tactics for Removing the False Alarm Known as Google Chrome's Critical Error</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-root-exploration-techniques-effective-strategies-to-handle-files-on-your-rooted-device/"><u>Discover Root Exploration Techniques: Effective Strategies to Handle Files on Your Rooted Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-methods-to-refresh-your-android-os-and-keep-your-apps-current/"><u>Easy Methods to Refresh Your Android OS and Keep Your Apps Current</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-garmins-ultra-30-action-camera-revealed-in-full-detail/"><u>In 2024, Garmin's Ultra 30 Action Camera Revealed in Full Detail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-through-eyes-unseen-an-essential-vr-chronology/"><u>In 2024, Through Eyes Unseen An Essential VR Chronology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620245402-lost-your-android-lock-screen-code-easy-steps-to-regain-access/"><u>Lost Your Android Lock Screen Code? Easy Steps to Regain Access</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-an-android-device-without-a-password-simple-solutions-explored/"><u>Unlocking an Android Device Without a Password: Simple Solutions Explored</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech-tech/"><u>Updated In 2024, How to Create Funny Talking Avatars Using Oddcast Text to Speech Tech</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1728499880949-windows/"><u>Windows系統下利用安全啟動技術完美複製硬碟映像的零損失方法</u></a></li>
 </ul></div>
 

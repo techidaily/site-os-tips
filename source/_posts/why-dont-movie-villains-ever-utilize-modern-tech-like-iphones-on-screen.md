@@ -1,7 +1,7 @@
 ---
 title: Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
-date: 2024-11-18T00:40:59.550Z
-updated: 2024-11-23T22:31:17.716Z
+date: 2024-11-28T08:09:39.070Z
+updated: 2024-12-02T12:12:04.897Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Apple products are extremely prevalent in TV shows and movies, but the company doesn't pay for product placement. Apple is more than happy to provide MacBooks, iPads, and iPhones to studios, but there's one unique stipulation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Does Product Placement Work?
@@ -35,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  According to [Bloomberg](https://www.bloomberg.com/news/articles/2012-05-10/apple-the-other-cult-in-hollywood), Apple does not pay for product placement, at least not with money. Instead, it provides its devices to studios for free as props. Apple even [provided Modern Family](https://www.hollywoodreporter.com/tv/tv-news/modern-family-creator-explains-ipad-53367/) with the first iPad before it was available. It appeared in an episode two days before people could buy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple's Product Placement Rules
@@ -69,21 +69,22 @@ Related: [Why Do TV Shows and Movies Cover Up Logos?](https://driver-download.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-video-voyages-venturing-into-the-vlog-profit-world/"><u>[New] In 2024, Video Voyages Venturing Into the Vlog Profit World</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>[New] Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-live-action-sims-playback/"><u>[Updated] In 2024, Advanced Techniques for Live-Action Sims Playback</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-essential-tips-for-stepping-away-from-a-discord-chat-room/"><u>[Updated] In 2024, Essential Tips for Stepping Away From a Discord Chat Room</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210347531-9782226388599-a-la-recherche-de-la-vie-interieure/"><u>A la recherche de la vie intérieure | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-to-perfecting-the-art-of-podcast-naming-for-2024/"><u>A Step-by-Step Guide to Perfecting the Art of Podcast Naming for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-13t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi 13T? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-g24-power-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola G24 Power to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/newly-launched-ipad-air-and-ipad-pro-available-for-purchase-get-your-hands-on-them-now/"><u>Newly Launched iPad Air and iPad Pro Available for Purchase - Get Your Hands On Them Now!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcoming-hesitation-why-i-chose-the-oura-ring-despite-disliking-subscriptions/"><u>Overcoming Hesitation - Why I Chose the Oura Ring Despite Disliking Subscriptions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revitalizing-your-aging-iphone-simple-steps-to-refresh-and-optimize/"><u>Revitalizing Your Aging iPhone: Simple Steps to Refresh and Optimize</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-call-quality-a-comprehensive-guide-for-restoring-audio-in-iphone-and-android-phones/"><u>Reviving Call Quality: A Comprehensive Guide for Restoring Audio in iPhone & Android Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionary-satechi-charging-solutions-now-compatible-with-qi2-and-magsafe-standards/"><u>Revolutionary Satechi Charging Solutions: Now Compatible with Qi2 & MagSafe Standards</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-home-entertainment-the-formidable-impact-of-gamesirs-g8-galileo/"><u>Revolutionizing Home Entertainment: The Formidable Impact of GameSir's G8 Galileo</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safeguard-your-digital-memories-how-to-prevent-whatsapp-from-deleting-years-of-chats-and-media/"><u>Safeguard Your Digital Memories: How to Prevent WhatsApp From Deleting Years of Chats and Media</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Troubleshooting DirectX Issues in Battlefield 2042 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-viral-video-hits-compilation/"><u>[Updated] 2024 Approved Facebook's Viral Video Hits Compilation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-creating-temporal-distortions-a-guide-to-movie-magic/"><u>[Updated] Creating Temporal Distortions A Guide to Movie Magic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-tactics-to-record-lol-clashes-for-2024/"><u>[Updated] Ultimate Tactics to Record LOL Clashes for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728480714694-windows-11-ssd/"><u>如何在Windows 11下实现 SSD 数据迁移：两种策略的全面指南</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comment-remplacer-lhdd-primaire-par-un-ssd-sur-windows-1011-en-preservant-tous-vos-fichiers/"><u>Comment Remplacer L'HDD Primaire Par Un SSD Sur Windows 10/11 en Préservant Tous Vos Fichiers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unresponsive-steam-graphics-in-windows/"><u>Correcting Unresponsive Steam Graphics in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-c67-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme C67 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-eye-tracking-feature-set-to-launch-on-iphone-and-ipad/"><u>New Eye-Tracking Feature Set to Launch on iPhone & iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-finger-technique-for-quickly-expanding-views-in-google-maps-for-better-navigation/"><u>One-Finger Technique for Quickly Expanding Views in Google Maps for Better Navigation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/premium-nomad-base-one-max-triple-functionality-breakdown-in-depth-guide-on-the-advanced-magsafe-battery-charger/"><u>Premium Nomad Base One Max Triple Functionality Breakdown: In-Depth Guide on the Advanced MagSafe Battery Charger</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protective-measures-for-your-ipad-trust-in-esrs-expertise/"><u>Protective Measures for Your iPad? Trust in ESR’s Expertise</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tip-seamlessly-cutting-and-pasting-content-across-ios-and-macos-devices/"><u>Quick Tip: Seamlessly Cutting and Pasting Content Across iOS & macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/release-memory-clog-by-decluttering-apple-mail-a-comprehensive-guide-for-ios-devices/"><u>Release Memory Clog by Decluttering Apple Mail: A Comprehensive Guide for iOS Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y100-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y100 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-iphones-display-potential-using-the-standby-feature/"><u>Revolutionize Your iPhone's Display Potential Using the Standby Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-smartphones-the-alluring-titanium-and-cutting-edge-usb-c-of-apples-new-iphone-15-pro-unveiled/"><u>Revolutionizing Smartphones: The Alluring Titanium and Cutting-Edge USB-C of Apple's New iPhone 15 Pro Unveiled!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-changeover-a-comprehensive-list-of-free-transformer-tools/"><u>Seamless Changeover A Comprehensive List of Free Transformer Tools</u></a></li>
 </ul></div>
 

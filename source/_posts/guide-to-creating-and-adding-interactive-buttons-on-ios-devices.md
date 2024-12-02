@@ -1,7 +1,7 @@
 ---
 title: Guide to Creating and Adding Interactive Buttons on iOS Devices
-date: 2024-11-17T03:40:00.665Z
-updated: 2024-11-23T16:08:59.891Z
+date: 2024-11-30T06:50:43.726Z
+updated: 2024-12-02T01:40:56.886Z
 tags:
   - ios
 categories:
@@ -27,21 +27,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the "Settings" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0369.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, go to the "Accessibility" settings and select "Touch."
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go to "Assistive Touch" and toggle it on at the top of the screen.
 
 ![Toggle on "Assistive Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-21_16-49-36.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A floating button will appear on the screen. By default, this button opens a menu that can contain up to eight different shortcuts. Tap "Customize Top Level Menu."
 
@@ -55,12 +51,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Action buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0377.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want even easier access to a specific action, you can select it as the Single-Tap, Double-Tap, or Long Press option for the floating button. This way you don't have to open the menu all the way.
 
 ![Custom Actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0378.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, a virtual button on the screen is not as convenient as a physical button, but it does have the added benefit of having more than one action.
@@ -71,12 +71,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down to "Back Tap."
 
 ![Select "Back Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0379.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select the "Double Tap" or "Triple Tap" gesture.
@@ -84,16 +88,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Choose a gesture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0380.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose from the list of actions.
 
 ![Choose an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0381.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's all there is to it! This is the best way to get a "physical" Action Button on an iPhone that doesn't have one. You still can launch the actions without the screen needing to be on.
 
@@ -124,21 +124,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-dazzling-instagram-stories-with-multi-image-techniques-for-2024/"><u>[New] Crafting Dazzling Instagram Stories with Multi-Image Techniques for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-iphone-tricks-turn-your-images-upside-down-sideways-for-2024/"><u>[Updated] IPhone Tricks Turn Your Images Upside-Down, Sideways for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-econo-audio-amps-for-youtubers-with-limited-dough/"><u>2024 Approved Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-funfactory-enjoy-video-making-with-ease/"><u>2024 Approved FunFactory Enjoy Video Making with Ease</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-huion-graphics-tablet-drivers-for-windows-pc/"><u>Download the Latest Huion Graphics Tablet Drivers for Windows PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-overcoming-iphones-dwindling-network-strength-with-these-7-proven-solutions/"><u>Expert Tips: Overcoming iPhones' Dwindling Network Strength with These 7 Proven Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-notification-issues-on-your-iphone-top-8-solutions-for-ios-10-11-and-12/"><u>Fixing Notification Issues on Your iPhone: Top 8 Solutions for iOS 10, 11 & 12</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-t2x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo T2x 5G Phones with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-redmi-note-12-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi Redmi Note 12 4G? Try These Fixes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v29-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo V29 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sim-free-iphone-setup-a-comprehensive-guide-on-how-to-turn-on-your-device/"><u>SIM-Free iPhone Setup: A Comprehensive Guide on How to Turn On Your Device</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-a2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi A2 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-12-iphone-gimbals-and-apps-ultimate-guide-to-smooth-video-capturing/"><u>Top 12 iPhone Gimbals and Apps: Ultimate Guide to Smooth Video Capturing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-effective-methods-to-track-your-iphone-from-computer-or-mac/"><u>Top 5 Effective Methods to Track Your iPhone From Computer or Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-your-verizon-device-2-proven-strategies-for-any-scenario/"><u>Unlocking Your Verizon Device: 2 Proven Strategies for Any Scenario</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-high-definition-top-mirrorless-cameras-(1k/"><u>[New] Affordable High-Definition Top Mirrorless Cameras (<$1K)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-by-accident-tiktok-rewind-restore-lost-content-for-2024/"><u>[New] By Accident, TikTok Rewind Restore Lost Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-securing-your-online-presence-off-facebook-activities-exposed/"><u>[New] Securing Your Online Presence Off-Facebook Activities Exposed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-teacher-created-videos-precision-in-cutting-and-splicing/"><u>[Updated] Teacher-Created Videos Precision in Cutting & Splicing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-masterclass-in-glamour-beauty-tutorials-for-all/"><u>2024 Approved Masterclass in Glamour Beauty Tutorials for All</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-resetting-your-computer-with-a-system-restore-in-windows-versions-10-8-and-7/"><u>Complete Tutorial: Resetting Your Computer with a System Restore in Windows Versions 10, 8, and 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-restore-functionality-to-your-broken-usb-hard-drive/"><u>Effortless Ways to Restore Functionality to Your Broken USB Hard Drive</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-walkthrough-on-halting-windows-update-schedule-for-good/"><u>Expert Walkthrough on Halting Windows Update Schedule for Good</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fostering-an-online-oasis-paving-the-way-for-a-prolific-youtube-presence-for-2024/"><u>Fostering an Online Oasis Paving the Way for a Prolific Youtube Presence for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-launch-troubles-top-strategies-to-overcome-game-failures/"><u>Hogwarts Legacy Launch Troubles? Top Strategies to Overcome Game Failures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-windows-10-random-reboots-effective-solutions-you-can-try/"><u>How to Fix Windows 10 Random Reboots: Effective Solutions You Can Try</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-hotmail-password-easily-even-if-you-cant-use-a-backup-email-or-phone-number/"><u>Resetting Your Hotmail Password Easily – Even if You Can't Use a Backup Email or Phone Number</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-laptop-restart-techniques-for-windows-and-mac-users-no-data-lost/"><u>Safe Laptop Restart Techniques for Windows and Mac Users: No Data Lost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-dll-not-found-issues-a-comprehensive-guide/"><u>Solving 'DLL Not Found' Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620260208-solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-changing-your-windows-7-pcs-login-credentials/"><u>Top Strategies for Successfully Changing Your Windows 7 PC's Login Credentials</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-7-2/"><u>Windows 7回復メディア作り - 便利な2コツ</u></a></li>
 </ul></div>
 

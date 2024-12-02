@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue of Low Volume in AirPods: A Step-by-Step Guide"
-date: 2024-11-18T16:13:43.935Z
-updated: 2024-11-24T05:40:13.811Z
+date: 2024-11-27T12:50:35.031Z
+updated: 2024-12-01T23:33:24.434Z
 tags:
   - ios
 categories:
@@ -39,6 +39,10 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
 
  Checking whether your AirPods are responding to the volume buttons is important because it helps us understand whether it's the volume buttons or the AirPods that aren't working properly. If you have tried all the ways to increase the volume and yet your AirPods feel exceptionally quiet, here's what you can do next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Clean Your AirPods
 
  If you haven't [cleaned your AirPods](https://on-screen-recording.techidaily.com/new-essential-tools-for-effective-adobe-presentation-recordings/) in a while, this is the first thing you should do. Since your AirPods spend most of their time in your ears, they can accumulate earwax, dust, and dirt. While it might not affect the sound quality initially, excessive debris (in the openings through which the driver fires sound) can easily impact the loudness, resulting in AirPods that don't sound as good.
@@ -56,7 +60,7 @@ _[Ivan\_Shenets/Shutterstock.com](https://www.shutterstock.com/image-photo/white
  A word of caution: do not submerge or run the AirPods under water. Unlike iPhones, they aren't water-resistant, and you might damage the device permanently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Take the Ear Tip Test
@@ -88,7 +92,7 @@ Shikhar Mehrotra / How-To Geek
 Shikhar Mehrotra / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Switch From ANC or Transparency to Regular Mode
@@ -102,6 +106,10 @@ Shikhar Mehrotra / How-To Geek
 Shikhar Mehrotra / How-To Geek
 
  On a Mac you'll find this option in the top-right corner of the screen, just click on your AirPods under "Sound" and choose which listening mode you want to use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Turn Off Headphone Safety
 
@@ -121,20 +129,20 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the Sounds & Haptics menu with an arrow next to the Headphone Safety option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
 
  Turn off "Headphone Notifications" and "Reduce Loud Audio."
 
 ![Screenshot of the Headphone Safety menu with arrows next to the required options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Sound/Equalizer Settings
@@ -151,15 +159,15 @@ Shikhar Mehrotra / How-To Geek
 
 ![Image of the EQ menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
 
  If you've enabled Dolby Atmos, disable the setting and see if the AirPods feel louder than before.
 
 ![Screenshot of the Dolby Atmos menu in Music settings with an arrow next to off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -168,7 +176,7 @@ Shikhar Mehrotra / How-To Geek
 ![Screenshot of the Sound Check option in the Apple Music settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
@@ -177,11 +185,11 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of Apple Music settings on Mac with an arrow next to the required options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shikhar Mehrotra / How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is One AirPod Quieter Than The Other? Here's The Fix
 
@@ -192,10 +200,6 @@ Shikhar Mehrotra / How-To Geek
  If the problem is more stubborn you might need to manually fix the unbalanced audio. To do this, open the "Settings" app and select "Accessibility."
 
 ![Screenshot of the Settings app with an arrow next to the Accessibility option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-12.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shikhar Mehrotra / How-To Geek
 
@@ -209,6 +213,10 @@ Shikhar Mehrotra / How-To Geek
 
 ![Screenshot of the audio balance slider in Audio & Visual menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shikhar Mehrotra / How-To Geek
 
 ##  Recalibrate Your AirPods' Volume
@@ -217,19 +225,11 @@ Shikhar Mehrotra / How-To Geek
 
  When your AirPods are connected to your iPhone, play something on a music streaming app. As the audio track plays, press the volume down button until muted. Now, disconnect your AirPods by disabling Bluetooth through the Control Center. Now, replay the music (it should come from your iPhone's speakers). Again, turn down the volume to zero. Now, open the Control Center, enable Bluetooth, and reconnect your AirPods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Reset AirPods and Re-Pair With Your iPhone
 
  If nothing works, it is time to [reset your AirPods to factory settings](https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-5-v-by-fonelab-android-recover-video/). For this, insert your AirPods in their charging case and shut the lid. Wait for about 30 seconds, then take the AirPods out of their case and put them in your ears. Now, go to Settings > Bluetooth > \[Your\] AirPods, hit the info icon, and then select "Forget This Device." Tap on Confirm to initiate the process.
 
 ![Pairing the Apple AirPods Pro 2 with iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/airpods-connected-to-iphones.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Kris Wouk / How-To Geek
 
@@ -254,19 +254,15 @@ Kris Wouk / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-navigating-video-editor-landscape-choose-filmora-or-democracy-creator/"><u>[New] In 2024, Navigating Video Editor Landscape Choose Filmora or Democracy Creator?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premium-choices-in-video-calling-platforms-for-tech-users/"><u>[Updated] 2024 Approved Premium Choices in Video Calling Platforms for Tech Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-resolve-frozen-youtube-videos-on-androidios/"><u>2024 Approved Resolve Frozen YouTube Videos on Android/iOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-digitization-on-demand-how-to-utilize-your-iphones-advanced-document-scanning-capabilities/"><u>Effortless Digitization on Demand: How to Utilize Your iPhone’s Advanced Document Scanning Capabilities</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/elite-virtual-classrooms-finding-value-outside-udemys-ecosystem/"><u>Elite Virtual Classrooms Finding Value Outside Udemy's Ecosystem</u></a></li>
-<li><a href="https://os-tips.techidaily.com/five-effective-methods-to-troubleshoot-and-repair-your-non-responsive-ipad-power-buttons/"><u>Five Effective Methods to Troubleshoot and Repair Your Non-Responsive iPad Power Buttons</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-and-fix-iphone-charging-issues-under-different-scenarios/"><u>How To Troubleshoot and Fix iPhone Charging Issues Under Different Scenarios</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-g2-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo G2 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sol/"><u>Sól -</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-iphone-silent-mode-understanding-the-causes-behind-missing-vibration-alerts/"><u>Troubleshooting iPhone Silent Mode: Understanding the Causes Behind Missing Vibration Alerts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unable-to-add-songs-to-your-iphone-discover-the-top-5-fixes/"><u>Unable to Add Songs to Your iPhone? Discover the Top 5 Fixes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-system-with-new-rtx-2060-super-video-card-drivers-for-windows-11-download-here/"><u>Update Your System with New RTX 2060 Super Video Card Drivers for Windows 11 - Download Here</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600720250-your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-professional-video-demos-harnessing-captivates-power/"><u>[New] 2024 Approved Professional Video Demos Harnessing Captivate's Power</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-be-a-good-interviewer/"><u>[Updated] 2024 Approved How To Be A Good Interviewer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-cut-video-length-for-instagram-on-mac/"><u>[Updated] In 2024, How To Cut Video Length For Instagram On Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphones-darkest-hours-decoded-for-photographers/"><u>[Updated] IPhone's Darkest Hours Decoded for Photographers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-communication-with-emojis-and-stickers-on-ios-10-devices/"><u>Effective Communication with Emojis & Stickers on iOS 10 Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-master-unlocking-your-sprint-device-a-step-by-step-guide-for-iphone-models-xs-xr-and-earlier-versions/"><u>How to Master Unlocking Your Sprint Device: A Step-by-Step Guide for iPhone Models XS, XR, and Earlier Versions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-the-issue-of-your-iphone-not-appearing-on-a-pc-expert-tips-and-tricks/"><u>How to Resolve the Issue of Your iPhone Not Appearing on a PC: Expert Tips and Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Honor 90 Phone with Broken Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-encyclopedia-britannica-garuda-online-available-at-(httpswwwhrenology-the-study-of-cranial-measurements-to-determine-intelligence-and-personality-traits15/"><u>The Encyclopedia Britannica – Garuda [Online] Available At: <Https://Wwwhrenology, the Study of Cranial Measurements to Determine Intelligence and Personality Traits.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-techniques-for-stunning-android-time-lapse-captures-for-2024/"><u>Top Techniques for Stunning Android Time-Lapse Captures for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-11-18T01:51:36.225Z
-updated: 2024-11-24T10:32:22.205Z
+date: 2024-11-28T12:45:06.588Z
+updated: 2024-12-02T02:55:30.396Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ## Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 * [Hidden Cameras Are a Real Danger](https://fox-helps.techidaily.com/the-animators-toolkit-windows-movie-maker-for-winning-projects-for-2024/)
 * [How to Scan for Networked Cameras](https://fox-http.techidaily.com/eliminating-blur-taming-shutter-vibration/)
 * [How to Spot Night Vision Cameras](https://facebook-video-share.techidaily.com/new-instant-subscription-monitoring-tools/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Scan for Networked Cameras
 
  Many places you stay give you access to the local network. You can use this to your advantage with an app named Fing. Fing makes both [iPhone](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://itunes.apple.com/us/app/fing-network-scanner/id430921107) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en%5FUS) apps. Better yet, it's free and doesn't have ads. Fing does ask you to sign in for more features, but you won't need to do that for the device and port scanning.
@@ -53,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even if you don't spot a camera on this list, take stock of how many devices you do see listed and what you can find around the place you are staying. If something stands out as unusual (perhaps with no recognizable details), and you can't locate a good source, write down the IP address. The next step is scan for open ports.
 
@@ -74,7 +70,15 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Spot Night Vision Cameras
 
@@ -93,10 +97,6 @@ Josh Hendrickson / How-To Geek
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -119,19 +119,20 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-guide-youtube-to-mpeg-transcoding/"><u>[New] Comprehensive Guide YouTube to MPEG Transcoding</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-transform-your-video-footage-with-advanced-screen-recording-tech/"><u>[New] In 2024, Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freezing-fun-at-the-beijing-olympics-2022/"><u>[Updated] Freezing Fun at the Beijing Olympics 2022</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-secure-song-transfers-to-youtube-channel/"><u>[Updated] Secure Song Transfers to Youtube Channel</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screenrec-made-simple-for-laptop-users/"><u>2024 Approved ScreenRec Made Simple for Laptop Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/detecting-mobile-internet-speed-limits-understanding-and-identifying-throttled-data/"><u>Detecting Mobile Internet Speed Limits: Understanding and Identifying Throttled Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-hidden-apple-books-features-with-these-10-essential-tips/"><u>Discover Hidden Apple Books Features with These 10 Essential Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dont-wait-any-longer-identify-these-5-critical-reasons-to-update-your-phone-today/"><u>Don't Wait Any Longer! Identify These 5 Critical Reasons to Update Your Phone Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-methods-for-syncing-and-downloading-icloud-images-on-various-gadgets/"><u>Effortless Methods for Syncing and Downloading iCloud Images on Various Gadgets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-annotate-images-with-these-5-iphone-tricks/"><u>Effortlessly Annotate Images with These 5 iPhone Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/evaluating-the-value-of-premium-icloud-storage-options-is-it-a-smart-buy/"><u>Evaluating the Value of Premium iCloud Storage Options: Is It a Smart Buy?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-logitech-g-pro-x-microphone-failures/"><u>Expert Tips on Resolving Logitech G Pro X Microphone Failures</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/toppen-11-metoder-ts-formatet-omvandlingsomrar-i-mp4-windows-mac-eller-online/"><u>Toppen 11 Metoder: TS-Formatet Omvandlingsområr I MP4 - Windows, Mac Eller Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-digital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>[New] 2024 Approved Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-investigating-new-horizons-past-manycams-realm-for-2024/"><u>[Updated] Investigating New Horizons Past ManyCam's Realm for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximizing-gopros-charged-time-span/"><u>[Updated] Maximizing GoPro's Charged Time Span</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mics-and-more-discovering-the-audio-essential-that-matches-your-yt-vision/"><u>2024 Approved Mics & More Discovering the Audio Essential That Matches Your YT Vision</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024s-ultimate-selection-of-miniature-mobile-devices-for-tech-enthusiasts/"><u>2024'S Ultimate Selection of Miniature Mobile Devices for Tech Enthusiasts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-apple-watch-series-8-high-performance-on-a-modest-spending-plan/"><u>Affordable Apple Watch Series 8: High Performance on a Modest Spending Plan</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-can-now-access-the-epic-games-marketplace/"><u>Android & iPhone Users Can Now Access the Epic Games Marketplace!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-watch-ultra-series-2-assessment-a-smartwatch-that-stirs-the-market-without-causing-a-tsunami/"><u>Apple Watch Ultra Series 2 Assessment: A Smartwatch That Stirs the Market Without Causing a Tsunami</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beginners-guide-mastering-your-first-steps-with-iphone-shortcuts/"><u>Beginner's Guide: Mastering Your First Steps with iPhone Shortcuts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-productivity-with-essential-iphone-automation-shortcuts/"><u>Boost Productivity with Essential iPhone Automation Shortcuts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boosting-storage-capacity-effective-methods-to-clear-memory-on-your-iphoneipad/"><u>Boosting Storage Capacity: Effective Methods to Clear Memory on Your iPhone/iPad</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/experience-precise-online-insights-website-optimization-powered-by-cookiebot-technology/"><u>Experience Precise Online Insights - Website Optimization Powered by Cookiebot Technology</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-climate-change-mitigation-through-urban-design-innovations/"><u>In 2024, Climate Change Mitigation Through Urban Design Innovations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-phone-applications-altering-your-natural-tone/"><u>In 2024, Innovative Phone Applications Altering Your Natural Tone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
 

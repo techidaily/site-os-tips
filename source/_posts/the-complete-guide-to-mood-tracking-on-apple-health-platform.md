@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Mood Tracking on Apple Health Platform
-date: 2024-10-31T16:36:09.259Z
-updated: 2024-11-04T17:40:42.188Z
+date: 2024-11-30T11:58:15.983Z
+updated: 2024-12-02T02:40:14.722Z
 tags:
   - ios
 categories:
@@ -48,30 +48,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An iPhone screen highlight Get Started for emotion logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_5290f2a011c0-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you set up the feature, Apple provides highlights about it and explains the meanings of mood and emotion in the context of Apple Health. Tap on "Begin" to log an emotion.
 
 ![An iPhone screen explaining the difference between emotion and mood.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_c75546c5817c-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Emotion" if you want to log what you are feeling at a given moment, or select "Mood" if you would like to log how you have felt for an entire day.
 
 ![An iPhone screen showing the difference between emotion and mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_f3c2f26c8bc6-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, drag the slider to select how you're feeling. Sliding towards the left indicates an unpleasant feeling, while sliding towards the right records a pleasant feeling.
 
 ![An iPhone showing a slider for mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_8ba0cfe8a561-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next screen, you will be presented with some words to choose from that best describe your present emotional state. Selecting from the words is an optional step that Apple states is used to build a better overall picture of the mood logged in the previous step. Tap any optional words that describe your mood, then tap "Next." You will also have the option of choosing words from the selected words that have the biggest impact on you.
 
@@ -80,10 +78,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  When you've done this, your iPhone will log your emotion and associated words in the Health app.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  On Your Apple Watch
@@ -93,6 +88,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Open the Mindfulness app.
 
 ![An Apple Watch highlighting the Mindfulness app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-14ad869e-33e6-426a-92eb-c5d4ea80eb79.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, scroll down and select "State of Mind."
 
@@ -126,24 +125,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone highlighting the Options button for setting up reminders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_779f3daec2ea-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the options, you can choose to be reminded during the day (this will send reminders around noon local time), or at the end of the day (this will send reminders during your bedtime as set on your phone or in the late evening hours of your local time). Or you can choose the "Add Reminder" option to pick an exact time of day when the reminder should be sent.
 
 ![An iPhone showing reminder options for emotion and mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5f41be10759f-1.jpeg) 
 
  You can also tap "Manage Mindfulness in Apple Watch App" to set reminders for your Apple Watch. The same options for setting up a reminder during the day, at the end of the day, or at a custom-selected time are provided for the Apple Watch, too.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  View Insights into Your Mental Wellbeing
 
@@ -159,22 +149,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone showing Associations in the Mental Wellbeing feature of Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6066.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Life Factors will show you factors such as Exercise Minutes, Mindful Minutes, Sleep, or Time in Daylight that might impact your mental well-being.
 
 ![An iPhone highlighting the life factors of the Mental Wellbeing feature in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6067.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Delete a Mood or Emotion Log
@@ -188,20 +172,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An iPhone highlighting how to delete health logs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6071.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Secure Is Your Mental Health Data?
 
@@ -224,22 +202,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfect-pace-essential-strategies-to-create-engaging-slow-motion-videos-and-images-for-instagram-audiences/"><u>[Updated] In 2024, Perfect Pace Essential Strategies to Create Engaging Slow Motion Videos and Images for Instagram Audiences</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-visual-guide-to-building-believable-characters-in-virtual-space/"><u>2024 Approved A Visual Guide to Building Believable Characters in Virtual Space</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>2024 Approved Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-restoring-audio-functionality-on-your-ios-18-iphone/"><u>Complete Guide to Restoring Audio Functionality on Your iOS 18 iPhone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effizienter-weg-zum-entfernen-von-daten-auf-einer-nvme-ssd-eine-einfache-anleitung/"><u>Effizienter Weg Zum Entfernen Von Daten Auf Einer NVMe SSD: Eine Einfache Anleitung</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-a1-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo A1 5G Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-immediately-fix-a-non-functional-safari-browser-on-ios-devices-a-guide-for-iphones-using-ios-18/"><u>How to Immediately Fix a Non-Functional Safari Browser on iOS Devices: A Guide for iPhones Using iOS 18</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-problems-with-accessing-yahoo-mail-via-iphone/"><u>How to Resolve Problems with Accessing Yahoo Mail via iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inside-microsofts-visionary-hololens-innovation/"><u>Inside Microsoft's Visionary HoloLens Innovation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-logitech-brio-webcam-drivers-for-windows-operating-systems-1087/"><u>Installing Logitech BRIO Webcam Drivers for Windows Operating Systems 10/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-windows-system-file-checker-sfc-failed-to-initiate-repair-process/"><u>Resolved Issue: Windows System File Checker (SFC) Failed to Initiate Repair Process</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-smartphone-lifespan-expert-tips-for-fixing-swift-iphone-battery-percentage-changes/"><u>Secure Your Smartphone Lifespan: Expert Tips for Fixing Swift iPhone Battery Percentage Changes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/setting-up-an-iphone-without-a-sim-card-essential-steps-and-tips/"><u>Setting Up an iPhone Without a SIM Card: Essential Steps and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-regaining-access-to-your-locked-iphone-without-the-old-password/"><u>Step-by-Step Guide: Regaining Access to Your Locked iPhone Without the Old Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620253206-troubleshooting-guide-for-when-find-my-iphone-fails-to-update-or-display-location-easy-solutions-inside/"><u>Troubleshooting Guide for When 'Find My iPhone' Fails to Update or Display Location - Easy Solutions Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-restoring-a-locked-iphone-via-hardware-key-or-itunes-backup/"><u>Ultimate Guide: Restoring a Locked iPhone via Hardware Key or iTunes Backup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wheres-the-slider-for-display-adjustments/"><u>Where's the Slider for Display Adjustments?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-a-guide-to-navigating-posting-on-altered-instagram-landscape/"><u>[New] 2024 Approved A Guide to Navigating Posting on Altered Instagram Landscape</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-learn-to-harvest-the-richness-of-facebook-live-experiences/"><u>[Updated] 2024 Approved , Learn to Harvest the Richness of Facebook Live Experiences</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-speeding-up-live-instagram-broadcasts-on-desktop/"><u>[Updated] 2024 Approved Speeding Up Live Instagram Broadcasts on Desktop</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website-for-2024/"><u>[Updated] Quick Tips for Seamless Embedding of YouTube Playlists on a Website for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-into-the-full-screen-era-for-fb-video-viewing/"><u>2024 Approved Step Into the Full-Screen Era for FB Video Viewing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242101-boost-your-iphones-speed-and-storage-with-these-4-best-free-cleanse-applications/"><u>Boost Your iPhone's Speed & Storage with These 4 Best Free Cleanse Applications!</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-harvard-to-facebook-sheryls-journey/"><u>From Harvard to Facebook: Sheryl's Journey</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-insights-into-data-wipe-excellence-with-dr-fone-data-eraser-by-wondershare-the-ios-edition/"><u>In-Depth Insights Into Data Wipe Excellence with Dr. Fone Data Eraser by Wondershare - The iOS Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-security-alert-comprehensive-tutorial-on-identifying-and-cleaning-ios-infections/"><u>IPhone Security Alert: Comprehensive Tutorial on Identifying and Cleaning iOS Infections</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-your-iphone-capacity-effortless-ways-to-clear-a-packed-memory/"><u>Maximize Your iPhone Capacity: Effortless Ways to Clear a Packed Memory</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-ram-usage-for-device-connectivity-services/"><u>Optimizing Windows RAM Usage for Device Connectivity Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-methods-to-completely-remove-songs-from-your-iphone/"><u>Quick & Easy Methods to Completely Remove Songs From Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-completely-remove-your-apple-mail-accounts-from-iphone-and-ipad/"><u>Step-by-Step Guide: Completely Remove Your Apple Mail Accounts From iPhone and iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-solving-the-code-n-problem-on-windows-systems/"><u>Step-by-Step Guide: Solving the 'Code N' Problem on Windows Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-top-3-methods-for-completely-resetting-your-ipad-passcode-free-and-secure/"><u>The Top 3 Methods for Completely Resetting Your iPad: Passcode-Free and Secure</u></a></li>
 </ul></div>
 

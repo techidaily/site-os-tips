@@ -1,7 +1,7 @@
 ---
 title: Additional US State Adopts iPhone's Digital ID System
-date: 2024-11-20T07:07:46.848Z
-updated: 2024-11-24T07:08:10.332Z
+date: 2024-11-29T16:11:56.828Z
+updated: 2024-12-02T10:52:02.122Z
 tags:
   - ios
 categories:
@@ -36,20 +36,24 @@ The dream of carrying around your phone without other cards is still a dream in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-the-journey-a-camera-buyers-guide/"><u>[Updated] Capturing the Journey A Camera Buyer's Guide</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/44cm5asx44gp44gx44gf44ov44o844oj5pah5pu444gu5zue5b6p5rov77ya5lia5rwb44gu44og44kv44ol44od44kv44gn5pyq5p2l5rc45yqr5lplusd6k2377yb44cn/"><u>「失くしたワード文書の回復法：一流のテクニックで未来永劫保護！」</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-create-stunning-mosaic-photo-collage/"><u>2024 Approved How to Create Stunning Mosaic Photo Collage</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/d-the-scenes-youtube-live-thumbnail-secrets/"><u>Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-ipad-feature-introducing-the-built-in-calculator-with-ipados-18-upgrade/"><u>New iPad Feature: Introducing the Built-In Calculator with iPadOS 18 Upgrade</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-iphone-enhancements-and-journaling-with-apples-latest-ios-172-software-upgrade/"><u>New iPhone Enhancements & Journaling with Apple's Latest iOS 17.2 Software Upgrade</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionary-kitchen-companion-plugable-pt-stand1-a-dynamic-rotating-ipad-stand/"><u>Revolutionary Kitchen Companion: Plugable PT-STAND1 - A Dynamic, Rotating iPad Stand</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-new-9th-generation-ipad-at-an-unbeatable-price-of-250-best-deal-available/"><u>Secure Your New 9Th Generation iPad at an Unbeatable Price of $250 - Best Deal Available!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/smartphone-sleuthing-methods-for-finding-and-exposing-stealth-surveillance-cameras-in-your-vicinity/"><u>Smartphone Sleuthing: Methods for Finding and Exposing Stealth Surveillance Cameras in Your Vicinity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-structuring-your-chatgpt-exchanges-using-specialized-folders/"><u>The Ultimate Guide to Structuring Your ChatGPT Exchanges Using Specialized Folders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-freezing-your-window-windows-screenshoting-guide/"><u>[New] 2024 Approved Freezing Your Window Windows Screenshoting Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-secure-and-sync-your-cinematic-recordings-across-platforms-for-2024/"><u>[New] Secure and Sync Your Cinematic Recordings Across Platforms for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-sony-xperia-10-v-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Sony Xperia 10 V to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-10-fixes-for-vanishing-youtube-shorts-thumbnails/"><u>In 2024, Top 10 Fixes for Vanishing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-nomad-magnetic-leather-case-expert-review-for-the-latest-iphone-15-pro/"><u>In-Depth Analysis of the Nomad Magnetic Leather Case: Expert Review for the Latest iPhone 15 Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-of-eliminating-online-track-record-on-facebook/"><u>Master the Art of Eliminating Online Track Record on Facebook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-growing-anxiety-for-vision-pros-longevity-in-light-of-the-newly-launched-visionos-2/"><u>My Growing Anxiety for Vision Pro's Longevity in Light of the Newly Launched visionOS 2</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-update-brings-revamped-contact-management-features-in-microsoft-outlooks-ios-and-android-applications/"><u>New Update Brings Revamped Contact Management Features in Microsoft Outlook's iOS and Android Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/plan-your-departure-with-ease-using-google-maps-real-time-arrival-predictions/"><u>Plan Your Departure with Ease Using Google Maps' Real-Time Arrival Predictions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-shut-down-multiple-safari-tabs-simultaneously-on-ios-devices/"><u>Quick Guide: Shut Down Multiple Safari Tabs Simultaneously on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-instant-access-and-speedy-steps/"><u>Quick, Instant Access, and Speedy Steps.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recognizing-the-signs-when-its-time-for-a-new-iphone-battery/"><u>Recognizing the Signs: When It's Time for a New iPhone Battery</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/923306-9781780992747-the-gray-witchs-grimoire/"><u>The Gray Witch's Grimoire | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-5-remote-viewing-recorders/"><u>Ultimate 5 Remote Viewing Recorders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncovering-the-entertaining-secrets-of-pokemons-shining-pearl/"><u>Uncovering the Entertaining Secrets of Pokémon's 'Shining Pearl'</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

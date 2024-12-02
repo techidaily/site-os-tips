@@ -1,7 +1,7 @@
 ---
 title: "IPhone Guide: Steps to Extract and Share Videos without Sound"
-date: 2024-11-18T17:16:55.587Z
-updated: 2024-11-23T16:29:54.972Z
+date: 2024-11-30T04:49:50.239Z
+updated: 2024-12-02T12:00:23.574Z
 tags:
   - ios
 categories:
@@ -11,18 +11,10 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ## IPhone Guide: Steps to Extract and Share Videos without Sound
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Remove Audio from a Video](https://ai-video-tools.techidaily.com/updated-the-ultimate-bokeh-experience-top-apps-for-iphone-and-android-users-for-2024/)
 * [How to Restore the Sound You Just Removed](https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-x-by-drfone-ios/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
  Sometimes, you'd like to share a video with others, but the accompanying audio track is distracting or perhaps introduces privacy concerns. Luckily, there's a quick way to silence a video using Photos on iPhone and iPad. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Remove Audio from a Video 
@@ -42,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![Tap the video you want to open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-tap-video.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With the video open, tap "Edit" in the upper-right corner of the screen. Note that there is a speaker icon at the bottom of the window that is blue. 
 
 ![Tap the edit button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-tap-edit-note-audio-icon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With audio enabled, a speaker icon will appear in the upper-left corner of the edit screen. Unlike other speaker icons in iOS and iPadOS, this is not simply a mute button—it actually controls whether or not there is audio attached to a video file. With the audio for the video removed, the speaker icon will change to a speaker icon with a diagonal strike mark through it.
 
@@ -56,16 +48,24 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![Tap the speaker icon to remove sound.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-audio-disable-click-done.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the audio is disabled on a particular video, you will see a grayed-out speaker icon on the toolbar in Photos when you are examining the video. This means that the video has no audio component to it.
 
 ![The grey icon indicates that there is no audio attached to a video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-audio-icon-grey.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the icon looks like a crossed-out speaker in this spot, it could mean that you phone is merely silenced. Turn the sound back on and make sure the speaker icon is fully grayed out before sharing.
 
  Now you're free to share the video however you wish, and no one will hear any sound when the video plays.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Restore the Sound You Just Removed
@@ -89,18 +89,19 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-veil-insta-story-exploration-without-trace/"><u>[New] In 2024, Unveiling the Veil Insta Story Exploration without Trace</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-investigating-freezing-moments-in-photobooth-recordings/"><u>[New] Investigating Freezing Moments in Photobooth Recordings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-the-art-of-sound-blending-a-comprehensive-audacity-workshop-series/"><u>[New] Perfecting the Art of Sound Blending A Comprehensive Audacity Workshop Series</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-how-to-access-high-end-features-with-disconitro/"><u>[Updated] In 2024, Unveiling the Secrets How to Access High-End Features with DiscoNitro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-removing-apple-store-transactions-from-your-iphones-past-purchases/"><u>Complete Tutorial: Removing Apple Store Transactions From Your iPhone's Past Purchases</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-steps-how-to-manage-and-remove-chats-and-messages-on-snapchat/"><u>Effective Steps: How to Manage and Remove Chats & Messages on Snapchat</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/enhance-your-imagery-a-step-by-step-guide-for-instagram-videos-for-2024/"><u>Enhance Your Imagery A Step-by-Step Guide for Instagram Videos for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-and-simple-adding-youtube-songs-to-imovie-edit/"><u>Quick and Simple Adding Youtube Songs to iMovie Edit</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-your-iphone-to-its-default-state-a-comprehensive-tutorial-for-wiping-and-refreshing-your-device/"><u>Resetting Your iPhone to Its Default State: A Comprehensive Tutorial for Wiping and Refreshing Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-erasing-iphone-reminders-a-step-by-step-tutorial/"><u>The Ultimate Guide: Erasing iPhone Reminders - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-simple-ways-to-free-up-space-by-deleting-unnecessary-ios-apps/"><u>Top 3 Simple Ways to Free Up Space by Deleting Unnecessary iOS Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-securely-profit-from-your-used-iphones-with-expert-techniques/"><u>Ultimate Guide: Securely Profit From Your Used iPhones with Expert Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-cam-protection-the-ultimate-10-guide/"><u>[New] In 2024, Cam Protection The Ultimate 10 Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-overcoming-iphones-dwindling-network-strength-with-these-7-proven-solutions/"><u>Expert Tips: Overcoming iPhones' Dwindling Network Strength with These 7 Proven Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-notification-issues-on-your-iphone-top-8-solutions-for-ios-10-11-and-12/"><u>Fixing Notification Issues on Your iPhone: Top 8 Solutions for iOS 10, 11 & 12</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/guide-facile-pour-changer-la-localisation-de-votre-partition-systeme-sous-windows-111087-sans-reinstaller/"><u>Guide Facile Pour Changer La Localisation De Votre Partition Système Sous Windows 11/10/8/7 Sans Réinstaller</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-troubleshooting-solving-iphones-sound-issues-step-by-step/"><u>IOS 18 Troubleshooting: Solving iPhone's Sound Issues Step-by-Step</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/h-streaming-elite-stabilizers-reviewed-for-2024/"><u>Smooth Streaming Elite Stabilizers Reviewed for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-12-iphone-gimbals-and-apps-ultimate-guide-to-smooth-video-capturing/"><u>Top 12 iPhone Gimbals and Apps: Ultimate Guide to Smooth Video Capturing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-effective-methods-to-track-your-iphone-from-computer-or-mac/"><u>Top 5 Effective Methods to Track Your iPhone From Computer or Mac</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortlessly-upgrade-from-windows-10-to-11-or-vice-versa-with-top-tools/"><u>Ultimate Guide: Effortlessly Upgrade From Windows 10 to 11 or Vice Versa with Top Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-free-fun-your-guide-to-checking-out-video-games-from-public-libraries/"><u>Unlock Free Fun: Your Guide to Checking Out Video Games From Public Libraries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-verizon-device-2-proven-strategies-for-any-scenario/"><u>Unlocking Your Verizon Device: 2 Proven Strategies for Any Scenario</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users-for-2024/"><u>Updated Edit Large Videos in No Time A Step-by-Step Guide for Mac Users for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Next Charger Case Must-Have: Integrated Audio Controls at Your Fingertips"
-date: 2024-11-08T19:42:31.927Z
-updated: 2024-11-13T20:13:35.581Z
+date: 2024-11-28T13:25:35.486Z
+updated: 2024-12-01T20:26:26.797Z
 tags:
   - ios
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 ## Next Charger Case Must-Have: Integrated Audio Controls at Your Fingertips
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Built-in volume controls on earbud charging cases could enhance usability and eliminate the need for manual adjustments via a phone.
@@ -19,10 +23,7 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
  The CMF Phone 1 looks like a solid budget phone that features a swappable back cover schtick reminiscent of the ancient HTC Tattoo. What caught my eye, though, are the CMF earbuds and their case, which rocks a volume wheel. Now I want my next earbud charging case to have one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on a Charging Case Could Actually Be Useful
@@ -35,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  Not only that, but a volume knob on my earbud charging case would also allow me to freely adjust the volume on every device I use the earbuds with, be that a PC, console, or TV.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Built-in Volume Controls Could Diversify Charging Case Designs
 
  The only differentiating factors in the ho-hum world of earbud charging case design are the shape of the case and the presence of transparent details, like on the [Nothing Ear 2](https://tech-revival.techidaily.com/1722140060602-ais-influence-on-transforming-dreams-into-tangible-outcomes-discover-how/) and the fresh-from-the-oven [Galaxy Buds Pro 3](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/).
@@ -45,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 ![CMF Buds charging case in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-buds.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nothing/CMF
 
  I could also see phone-like volume rockers, touch-based volume controls, or a volume control touch bar similar to those on some ASUS mechanical gaming keyboards.
@@ -59,10 +57,7 @@ Nothing/CMF
 ![ASUS ROG Falchion Volume Touch bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/asus-rog-falchion-volume-touch-bar.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ASUS
@@ -76,10 +71,7 @@ Christian Zibreg / How-To Geek / TinyPod
  In the case of the mechanical variant, the wheel could fit flush with the surface of the charging case and feature a nice and robust tactile feedback that would kick in when you rotate it clockwise and anticlockwise to adjust the sound volume. Tactile volume dials would not only inject a breath of originality and utility into the world of earbud charging cases; they would also bring back a dose of physicality and tactility to the otherwise bland, sterile, and [touch-only smartphone experience](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on My Earbuds’ Charging Case Would Be a Great Fidget Toy
@@ -105,16 +97,17 @@ Christian Zibreg / How-To Geek / TinyPod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-12-live-views-at-your-fingertips/"><u>[New] Exclusive 12 Live Views at Your Fingertips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/address-tweets-stuck-while-watching-online/"><u>Address Tweets Stuck While Watching Online</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12-pro-4g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12 Pro 4G Quickly | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-11-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 11 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 8 Plus</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphones-final-line-unavailable-issue-a-step-by-step-guide/"><u>Resolving iPhone's Final Line Unavailable Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-popular-apple-watch-glitches-a-guide-to-quick-and-effective-solutions/"><u>Solving Popular Apple Watch Glitches: A Guide to Quick & Effective Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-customizing-your-iphone-lock-screen-with-text/"><u>Step-by-Step Guide: Customizing Your iPhone Lock Screen with Text</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-the-new-messages-badge-from-iphone-icon/"><u>Step-by-Step Guide: Removing the 'New Messages' Badge From iPhone Icon</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-adding-imagery-and-media-to-your-photos-library-on-ios-devices/"><u>Step-by-Step Process: Adding Imagery and Media to Your Photos Library on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-mobile-substitutes-for-chatgpt-enhancing-ai-conversations-on-the-go/"><u>Top 6 Mobile Substitutes for ChatGPT: Enhancing AI Conversations on the Go</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iscovering-artistic-expression-top-film-tips-on-youtube/"><u>[New] Discovering Artistic Expression Top Film Tips on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-speed-up-your-file-format-shift-from-srt-to-text-txt/"><u>2024 Approved Speed-Up Your File Format Shift From SRT to Text (TXT)</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-11-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 11 Pro+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clear-your-iphones-memory-by-erasing-all-voicemails-forever-complete-instructions-inside/"><u>Clear Your iPhone's Memory by Erasing All Voicemails Forever - Complete Instructions Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-addressing-critical-hardware-issues-in-computers-post-process/"><u>Expert Tips for Addressing Critical Hardware Issues in Computer's POST Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-rip-your-carrie-dvd-collection-and-transform-them-into-an-easy-to-watch-ipad-tv-show-library/"><u>How to Rip Your Carrie DVD Collection & Transform Them Into an Easy-to-Watch iPad TV Show Library</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y77t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y77t Through Google Earth?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-in-script-to-speech-turning-xmlttml-files-to-srt-wonders/"><u>In 2024, Mastery in Script-to-Speech Turning XML/TTML Files to SRT Wonders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242260-in-depth-analysis-of-macgo-ios-erase-app-strengths-weaknesses-alternatives-and-faqs-covered/"><u>In-Depth Analysis of Macgo iOS Erase App – Strengths, Weaknesses, Alternatives, and FAQs Covered!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-thoroughly-wipe-browser-history-off-smartphones/"><u>Step-by-Step Guide: How to Thoroughly Wipe Browser History Off Smartphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-methods-for-freeing-up-your-icloud-library-by-deleting-e-books/"><u>Top 3 Methods for Freeing Up Your iCloud Library by Deleting E-Books</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-technique-removing-and-disabling-whatsapp-on-iphones-forever/"><u>Ultimate Technique: Removing and Disabling WhatsApp on iPhones Forever</u></a></li>
 </ul></div>
 

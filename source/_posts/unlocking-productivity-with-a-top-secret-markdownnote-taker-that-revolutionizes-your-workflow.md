@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-11-23T09:18:30.484Z
-updated: 2024-11-24T07:45:30.933Z
+date: 2024-11-24T18:04:18.798Z
+updated: 2024-12-02T03:08:57.729Z
 tags:
   - ios
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Word and Character Count Included for Writers](https://facebook-record-videos.techidaily.com/new-access-high-quality-youtube-images-without-paying-a-dime-for-2024/)
 * [You Can Extend Obsidian With Plug-ins](https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Obsidian saves notes as plain text files, giving you full control over your data and allowing easy backups.
@@ -29,10 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best writing tool is the one you have on you. For me, that's my smartphone, but it's no good without the right app. After searching high and low, I finally found an app that just about does it all. If you haven't yet heard of Obsidian, it may be the best note taking app for you, too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Obsidian?
 
  Obsidian describes itself as your "second brain." It's one of quite a few "personal knowledge base" or "knowledge management apps" that take a different approach to organizing your notes. Obsidian allows internal linking between notes, searching through notes, and an interactive graph that shows the connections between notes.
@@ -40,10 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If that sounds like a lot to you, I agree. For me, that description was more off-putting than exciting and a reason to glance over Obsidian in the Play Store. In my opinion, [many note-taking apps are unnecessary](https://screen-mirroring-recording.techidaily.com/updated-topping-bargain-software-for-screen-capture-on-chromebook/). I merely wanted a simple app for writing, but once you download Obsidian and get it running, it's actually pretty great for doing just that.
 
  While I'm focusing on the Android version, Obsidian is available for basically any platform you can think of, whether that's on your PC, tablet, or phone. I use [the Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002537/https://play.google.com/store/apps/details?id=md.obsidian&hl=en%5FUS&gl=US), but the mobile version of Obsidian is largely the same [on the iPhone and iPad](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) as well. Now, let's get into what makes Obsidian so good.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Notes Are Saved As Accessible Plain Text Files
 
@@ -56,6 +52,10 @@ Bertel King / How-To Geek
  Many popular alternatives are similar, be it iA Writer or Jotterpad. Yet as someone who writes for a living, I don't want to be dependent on any one app or cloud service continuing to exist for me to access my work. And you don't have to, either.
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
@@ -71,10 +71,6 @@ Bertel King / How-To Geek
 
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Tabs Simplify Working With Multiple Documents
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
@@ -87,13 +83,13 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -102,12 +98,16 @@ Bertel King / How-To Geek
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -144,20 +144,20 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/"><u>[New] In 2024, Multiplying Joy Sharing a Pile of Photos & Videos with Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-future-of-development-understanding-the-impact-of-next-gen-frameworks/"><u>[Updated] 2024 Approved The Future of Development Understanding the Impact of Next-Gen Frameworks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-best-student-friendly-history-vid-hubs-1-10-for-2024/"><u>[Updated] Best Student-Friendly History Vid Hubs (#1-10) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/constraint-c-for-every-redaction-made-include-an-asterisk-in-its-place-within-the-main-body-text-and-list-out-the-redacted-segments-with-their-corresponding30/"><u>Constraint C: For Every Redaction Made, Include an Asterisk () in Its Place Within the Main Body Text and List Out the Redacted Segments with Their Corresponding Sentence in Reverse Order Under Confidential Financial Optimism.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-audio-setbacks-fixing-opening-sound-device-glitches-in-audacity-5-tips-and-tricks/"><u>Dealing with Audio Setbacks: Fixing Opening Sound Device Glitches in Audacity - 5 Tips & Tricks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-troubleshoot-and-resolve-common-itunes-issues-on-your-iphone/"><u>How to Troubleshoot & Resolve Common iTunes Issues on Your iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/itunes-audio-problem-solved-configuration-troubleshooting-tips/"><u>ITunes Audio Problem Solved - Configuration Troubleshooting Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-updating-your-airpods-battery-and-firmware/"><u>Step-by-Step Guide: Updating Your AirPods Battery & Firmware</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-resolving-emergency-sos-feature-problems-on-iphones/"><u>Step-by-Step Tutorial: Resolving Emergency SOS Feature Problems on iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/streamlining-your-phonebook-a-quick-guide-to-removing-several-iphone-contacts-at-once/"><u>Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once</u></a></li>
-<li><a href="https://os-tips.techidaily.com/surprising-features-revealed-discover-the-games-that-excel-on-m1-and-m2-ipads/"><u>Surprising Features Revealed: Discover the Games that Excel on M1 and M2 iPads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-birth-of-intelligent-machines-ais-genesis-story/"><u>The Birth of Intelligent Machines: AI's Genesis Story</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-unsung-heroes-of-canvas-open-source-paintings-for-2024/"><u>The Unsung Heroes of Canvas Open-Source Paintings for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-cell-phone-practices-that-shorten-battery-lifespan-avoid-these-mistakes/"><u>Top Cell Phone Practices That Shorten Battery Lifespan: Avoid These Mistakes!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-iphone-13-pro-max/"><u>Top-Rated Protective Covers for iPhone 13 Pro Max</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/udiovisual-experts-choices-the-ultimate-video-editing-gear-for-2024/"><u>[New] Audiovisual Experts' Choices The Ultimate Video Editing Gear for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-media-captions-the-creme-de-la-creme-of-top-online-editors/"><u>[New] Transforming Media Captions The Crème De La Créme of Top Online Editors</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-filter-frenzy-unleash-the-power-of-10-innovative-tools/"><u>[Updated] Filter Frenzy Unleash the Power of 10 Innovative Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-appreciation-showcase-easy-access-to-otus/"><u>In 2024, Appreciation Showcase Easy Access to OTUs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-desire-for-a-cosmic-galaxy-ring-denied-by-samsungs-design/"><u>My Desire for a Cosmic Galaxy Ring Denied by Samsung's Design</u></a></li>
+<li><a href="https://os-tips.techidaily.com/phone-overheating-follow-these-tips-to-cool-things-down/"><u>Phone Overheating? Follow These Tips to Cool Things Down!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-vision-a-step-by-step-tutorial-on-modifying-iphones-screen-proximity-settings/"><u>Protect Your Vision: A Step-by-Step Tutorial on Modifying iPhone's Screen Proximity Settings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool-for-2024/"><u>Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sidecar-feature-connecting-your-mac-and-ipad-seamlessly/"><u>Sidecar Feature: Connecting Your Mac and iPad Seamlessly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stay-safe-on-the-road-waze-highlights-accident-prone-streets/"><u>Stay Safe on the Road: Waze Highlights Accident-Prone Streets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recording-and-preserving-iphone-voice-messages/"><u>Step-by-Step Guide: Recording and Preserving iPhone Voice Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-how-to-locate-and-retrieve-lost-airpods/"><u>Step-by-Step Strategies: How to Locate and Retrieve Lost AirPods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-compass-for-content-creators-steering-towards-viral-instagram-success/"><u>The Compass for Content Creators Steering Towards Viral Instagram Success</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/visual-bedtime-plays-reviewed-for-2024/"><u>Visual Bedtime Plays Reviewed for 2024</u></a></li>
 </ul></div>
 

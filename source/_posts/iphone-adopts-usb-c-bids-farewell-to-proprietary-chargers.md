@@ -1,7 +1,7 @@
 ---
 title: IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers
-date: 2024-11-11T21:10:24.410Z
-updated: 2024-11-13T18:30:29.809Z
+date: 2024-12-01T01:40:58.358Z
+updated: 2024-12-01T20:36:00.931Z
 tags:
   - ios
 categories:
@@ -13,11 +13,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 The iPhone 15 will be the first iPhone to include USB-C functionality, following on from a change Apple made to higher-end iPad models. Though Apple didn’t come up with this great idea on its own, the change is still something to celebrate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apple Drops the Lightning Connector
 
  Both the iPhone 15 and iPhone 15 Pro families (which include larger Plus and Pro Max models, but [no iPhone mini](https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-x100-drfone-by-drfone-virtual-android/)) will feature a [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) port for the first time. This is the first time Apple has changed the iPhone connector since Lightning replaced the old iPod connector on the iPhone 5 in 2012.
 
 ![iPhone 15 with USB-C port visible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_port.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -38,16 +46,7 @@ Apple
  It’s now easier to carry a single cable wherever you go to charge your iPhone, iPad, MacBook, Switch, Android tablet, Windows laptop, and so on. The new USB-C iPhones can even be used to charge the Apple Watch and AirPods with the right adapter (and who knows what else, once the technology is put through its paces).
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  One Connector, Two Standards
@@ -62,13 +61,6 @@ Apple
 
  This shouldn’t affect charging, which Apple says will net you 50% charge in 30 minutes when using a 20w charger or better (for both base and Pro models) so if you never use a cable to transfer data then you likely won’t notice any speed limitations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How the EU Forced Apple’s Hand
 
  There was, however, one detail missing from the iPhone 15 event that Apple held on September 12, 2023\. Not only did the company bury the lead a bit on the switch to USB-C (which was hotly tipped before the event), but Apple obviously didn’t mention the EU legislation that forced its hand in making the change.
@@ -79,18 +71,15 @@ Apple
 
 ![AirPods Pro charging via iPhone 15 over USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_airpods.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  Apple could have put the change off for a year, since “Autumn 2024” is right around the time when the iPhone 16 is due for release, but the company clearly thought that there was little point in waiting to make an inevitable change.
 
  The company previously made [comments](https://www.zdnet.com/article/eu-wants-usb-c-to-become-standard-charging-port-for-all-smartphones-to-cut-down-e-waste/) that suggested the mandate would “stifle” innovation and “harm consumers in Europe and around the world” though it’s not clear _how_ the company came to that conclusion. It’s fair to say that companies like Apple generally prefer to set trends rather than be forced to follow them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Use Any Old USB-C Cable?
 
@@ -101,10 +90,7 @@ Apple
  On top of a compliant cable (which Apple should include in the box), you’ll need a suitably powerful 20w or better USB-C adapter to fast charge your iPhone. Check out [our list of best phone chargers](https://some-techniques.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc-for-2024/) and [best portable battery packs](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) for some ideas.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About Your Old Lightning Cables?
@@ -144,22 +130,15 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-elevate-and-engage-the-ultimate-seo-playbook-for-podcasters-for-2024/"><u>[New] Elevate and Engage The Ultimate SEO Playbook for Podcasters for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-insights-the-best-apps-to-supercharge-your-profile/"><u>[New] Instagram Insights The Best Apps to Supercharge Your Profile</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[New] The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-audio-and-visual-quality-in-youtube-videos/"><u>[Updated] Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-power-of-design-in-audio-branding/"><u>In 2024, Unlock the Power of Design in Audio Branding</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-look-at-apples-latest-innovations-from-the-202-similar-problem-for-us-audience/"><u>Inside Look at Apple's Latest Innovations From the 202 # Similar Problem for U.S. Audience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ipads-and-their-capabilities-unveiled-successful-hard-drive-reformatting-vs-ongoing-issues-in-advanced-computer-operations/"><u>IPads and Their Capabilities Unveiled: Successful Hard Drive Reformatting Vs. Ongoing Issues in Advanced Computer Operations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-applications-exclusively-supported-on-the-upcoming-apple-vision-pro/"><u>IPhone & iPad Applications: Exclusively Supported on the Upcoming Apple Vision Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/june-showdown-apple-unveils-whats-next-at-the-2024-worldwide-developers-conference/"><u>June Showdown: Apple Unveils What's Next at the 2024 Worldwide Developers Conference</u></a></li>
-<li><a href="https://os-tips.techidaily.com/latest-updates-unveiled-netflix-shifts-from-basic-expert-iphone-repair-solutions-your-weekly-tech-news-digest/"><u>Latest Updates Unveiled: Netflix Shifts From Basic, Expert iPhone Repair Solutions – Your Weekly Tech News Digest</u></a></li>
-<li><a href="https://os-tips.techidaily.com/macos-compatible-printer-installation-tutorial-what-you-need-to-know/"><u>MacOS Compatible Printer Installation Tutorial: What You Need To Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/make-moves-on-mobile-snag-top-deals-for-iphone-games-with-todays-prime-day-offerings/"><u>Make Moves on Mobile - Snag Top Deals for iPhone Games with Today's Prime Day Offerings!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-efficiency-transforming-your-day-with-the-power-of-strategic-time-management/"><u>Mastering Efficiency: Transforming Your Day with the Power of Strategic Time Management</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-handbook-for-persistent-csgo-game-crashes-step-by-step/"><u>Quick-Fix Handbook for Persistent CSGO Game Crashes – Step by Step</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-system-restore-for-troubleshooting-your-windows-10-pc/"><u>The Ultimate Guide to System Restore for Troubleshooting Your Windows 10 PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-safe-speed-optimized-video-editors-for-windows-1110-enthusiasts/"><u>The Ultimate Selection of Safe, Speed-Optimized Video Editors for Windows 11/10 Enthusiasts</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-url-indexing-unlocking-the-potential-of-seo-mastery-with-powersuite-tools/"><u>Ultimate URL Indexing: Unlocking the Potential of SEO Mastery with PowerSuite Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-beyond-inshot-essential-laptop-editing-tools-for-2024/"><u>[New] Beyond Inshot Essential Laptop Editing Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-the-zoom-interface-a-focus-on-windows-10/"><u>[New] In 2024, Navigating the Zoom Interface A Focus on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-multi-background-streaming-the-green-screen-way/"><u>[New] Mastering Multi-Background Streaming The Green Screen Way</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-real-time-recording-battle-obs-studio-against-fraps/"><u>[Updated] 2024 Approved Real-Time Recording Battle OBS Studio Against Fraps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-photoshop-partners-for-pixel-perfect-grids-and-frames/"><u>[Updated] Photoshop Partners for Pixel-Perfect Grids and Frames</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620244835-broken-cell-phone-screen-discover-quick-fix-solutions-today/"><u>Broken Cell Phone Screen? Discover Quick Fix Solutions Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apple-is-redefining-artificial-intelligence-promising-strides-with-room-for-growth-zdnet/"><u>How Apple Is Redefining Artificial Intelligence – Promising Strides with Room for Growth | ZDNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620245085-speedy-kindle-fire-unlocking-techniques-step-by-step-instructions-inside/"><u>Speedy Kindle Fire Unlocking Techniques - Step-by-Step Instructions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-a-new-gmail-account-on-your-android-smartphone/"><u>Step-by-Step Guide: Setting Up a New Gmail Account on Your Android Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-tips-to-troubleshoot-persistent-snapchat-app-crashes-on-ios-and-android-devices/"><u>Top 6 Tips to Troubleshoot Persistent Snapchat App Crashes on iOS and Android Devices</u></a></li>
 </ul></div>
 

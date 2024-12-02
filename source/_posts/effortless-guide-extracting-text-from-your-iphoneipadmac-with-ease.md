@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease"
-date: 2024-11-21T04:02:46.573Z
-updated: 2024-11-24T09:45:59.496Z
+date: 2024-11-24T23:24:52.947Z
+updated: 2024-12-02T02:58:30.827Z
 tags:
   - ios
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ## Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Copy Any Text on iPhone or iPad](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-c22-drfone-by-drfone-virtual-android/)
 * [How to Copy Any Text on Mac](https://article-knowledge.techidaily.com/updated-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry-for-2024/)
 * [Why This Is So Useful](https://android-frp.techidaily.com/about-oppo-reno-9a-frp-bypass-by-drfone-android/)
 * [More Useful iPhone Tricks](https://some-approaches.techidaily.com/updated-preserving-audio-broadcasts-a-simple-internet-radio-technique/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  Select text, copy it, and paste it into a note, email, or document from anywhere using your iPhone, iPad, or Mac. This trick can help you circumvent all kinds of pesky limitations or even grab “IRL” text by taking a photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Copy Any Text on iPhone or iPad
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 !['Show Text' icon on a screenshot in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show_text_icon.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap on this and the text in the image should immediately be highlighted. You can now select this text as you would any other, by tapping and holding your finger until the text selection tool appears. Drag the start and end points where you want them, or hit “Select All” to grab everything.
 
  You can now use “Copy” to copy that text to the clipboard. Now open Notes, an email or Messages conversation, or a text document of your choice and paste the text by tapping and holding then selecting “Paste” from the context menu.
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  This trick also works in Safari, just tap and hold an image then choose “Show Text” first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Copy Any Text on Mac
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why This Is So Useful
 
  This neat trick circumvents the inability to select and copy text on certain websites. [Use your iPhone, iPad, or Mac to take a screenshot](https://video-capture.techidaily.com/updated-in-2024-videographers-guide-to-capturing-sports-competitions/) and then copy the text as normal. I’ve used this trick to copy recipes from YouTube’s description box in the iPhone app, for example.
@@ -78,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ![Selecting the text on a keyring using a photo in Apple Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select_text_photo.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More Useful iPhone Tricks
 
@@ -105,22 +105,21 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-exploring-metaverse-versus-omniverse-landscapes/"><u>[New] In 2024, Exploring Metaverse Versus Omniverse Landscapes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>[Updated] 2024 Approved Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-in-depth-analysis-of-slomo-video-capture-tool/"><u>2024 Approved In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210468839-9781761037870-astral-projection/"><u>Astral Projection | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cease-android-application-collapses-with-these-7-proven-fixes/"><u>Cease Android Application Collapses with These 7 Proven Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-root-exploration-techniques-effective-strategies-to-handle-files-on-your-rooted-device/"><u>Discover Root Exploration Techniques: Effective Strategies to Handle Files on Your Rooted Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-methods-to-refresh-your-android-os-and-keep-your-apps-current/"><u>Easy Methods to Refresh Your Android OS and Keep Your Apps Current</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-troubleshooting-steps-for-reactivating-a-non-responsive-samsung-galaxy-s4/"><u>Easy Troubleshooting Steps for Reactivating a Non-Responsive Samsung Galaxy S4</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-secure-browsing-with-windows-10s-safeguard/"><u>Enabling Secure Browsing with Windows 10’S SafeGuard</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-cast-your-android-device-on-tv-pc-or-mac-a-comprehensive-guide/"><u>How to Cast Your Android Device on TV, PC, or Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-securely-perform-a-root-on-your-android-smartphone-or-tablet-expert-tips-and-tricks/"><u>How to Securely Perform a Root on Your Android Smartphone or Tablet: Expert Tips and Tricks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ultimate-cameras-for-athletic-spectacle/"><u>In 2024, Ultimate Cameras for Athletic Spectacle</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620245402-lost-your-android-lock-screen-code-easy-steps-to-regain-access/"><u>Lost Your Android Lock Screen Code? Easy Steps to Regain Access</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-deletion-of-your-gmail-a-step-by-step-guide/"><u>Permanent Deletion of Your Gmail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/revamp-your-channels-smart-tips-for-yt-profiles-for-2024/"><u>Revamp Your Channels Smart Tips for YT Profiles for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-zte-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On ZTE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-10-drones-for-dynamic-cinematic-creations/"><u>[New] In 2024, Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-the-essence-of-sims-gaming/"><u>[Updated] In 2024, Capturing the Essence of Sims Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities/"><u>2024 Approved Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>2024 Approved Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/craftsmits-and-cinematography-precision-in-aspect-ratios/"><u>Craftsmits and Cinematography Precision in Aspect Ratios</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-strategies-to-lower-overconsumption-of-cpu-resources-in-new-world/"><u>Efficient Strategies to Lower Overconsumption of CPU Resources in New World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-reveals-compact-aio-desktop-surprising-twists-beyond-at-tech-conference/"><u>HP Reveals Compact AIO Desktop: Surprising Twists Beyond at Tech Conference</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-p55-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel P55 5G</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-fixing-yahoo-email-issues-on-ios-devices/"><u>Solutions for Fixing Yahoo Email Issues on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-puzzle-of-itunes-error-17-explore-8-proven-strategies-in-our-comprehensive-tutorial/"><u>Solving the Puzzle of iTunes Error 17 - Explore 8 Proven Strategies in Our Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-techniques-from-ipod-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry and Exit Techniques From iPod Recovery Mode</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-easy-fixes-for-overcoming-iphones-passcode-demand/"><u>Top 5 Easy Fixes for Overcoming iPhone's Passcode Demand</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255570-troubled-by-a-glitchy-smartphone-discover-5-simple-fixes/"><u>Troubled by a Glitchy Smartphone? Discover 5 Simple Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-your-iphone-contacts-wont-update-on-icloud/"><u>Troubleshooting Steps When Your iPhone Contacts Won't Update on iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620250948-unable-to-add-songs-to-your-iphone-discover-the-top-5-fixes/"><u>Unable to Add Songs to Your iPhone? Discover the Top 5 Fixes!</u></a></li>
 </ul></div>
 

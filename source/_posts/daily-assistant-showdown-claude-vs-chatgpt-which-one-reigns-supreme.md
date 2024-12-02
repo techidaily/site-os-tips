@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2024-11-21T00:39:33.121Z
-updated: 2024-11-23T19:27:34.588Z
+date: 2024-11-25T06:54:44.996Z
+updated: 2024-12-01T18:16:59.833Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ## Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
@@ -54,7 +54,7 @@ Dibakar Ghosh / How-To Geek / Midjourney
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which App Performs Better?
@@ -73,10 +73,6 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -85,12 +81,16 @@ Jason Dookeran/How-to-Geek
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
@@ -112,19 +112,16 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-practical-steps-to-remove-the-cluttered-background-in-figma/"><u>[New] Practical Steps to Remove the Cluttered Background in Figma</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-secrets-to-superior-gaming-recordings/"><u>[New] Unveiling the Secrets to Superior Gaming Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs/"><u>[Updated] 2024 Approved Capturing the Moment The Ultimate Guide to Screen Recording with OBS</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pinnacle-screenshot-programs/"><u>2024 Approved Pinnacle Screenshot Programs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boosting-gaming-performance-with-an-enhanced-asus-dual-geforce-gtx-970-ti-graphics-card/"><u>Boosting Gaming Performance with an Enhanced ASUS Dual GeForce GTX 970 Ti Graphics Card</u></a></li>
-<li><a href="https://program-issues.techidaily.com/origin-download-speeds-on-the-rise-a-guide-for-lightning-fast-transfers/"><u>Origin Download Speeds on the Rise: A Guide for Lightning-Fast Transfers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/us-spotify-premium-users-can-enjoy-complimentary-audiobooks/"><u>U.S. Spotify Premium Users Can Enjoy Complimentary Audiobooks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-the-best-practices-in-recording-games-on-steam/"><u>Unveiling the Best Practices in Recording Games on Steam</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-beyond-surface-level-of-apples-latest-approach-to-game-emulators/"><u>Unveiling the Truth: Beyond Surface Level of Apple's Latest Approach to Game Emulators</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-iphone-models-revealed-unpacking-the-secrets-of-iphone-16-16-pro-and-max/"><u>Upcoming iPhone Models Revealed: Unpacking the Secrets of iPhone 16, 16 Pro & Max</u></a></li>
-<li><a href="https://os-tips.techidaily.com/week-in-review-anticipating-new-innovations-by-google-and-samsungs-phone-lineup/"><u>Week in Review: Anticipating New Innovations by Google and Samsung's Phone Lineup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/week-in-review-say-goodbye-to-netflixs-basic-plan-and-discover-top-notch-iphone-fix-services/"><u>Week in Review: Say Goodbye to Netflix's Basic Plan & Discover Top-Notch iPhone Fix Services</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-my-dream-of-sporting-a-stellar-galaxy-band-was-denied-by-samsung/"><u>Why My Dream of Sporting a Stellar Galaxy Band Was Denied by Samsung</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-revolutionizing-your-viewing-the-zoom-effectiveness/"><u>[New] 2024 Approved Revolutionizing Your Viewing The Zoom Effectiveness</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a25-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A25 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-defy-2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-podcast-writing-with-expert-guidance/"><u>In 2024, Master the Art of Podcast Writing with Expert Guidance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-smart-spectacles-trends-and-picks/"><u>Leading Smart Spectacles Trends and Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/no-backup-no-problem-mastering-the-art-of-retrieving-deleted-iphone-contact-details-easily/"><u>No Backup? No Problem! Mastering the Art of Retrieving Deleted iPhone Contact Details Easily</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reclaim-your-memories-effective-strategies-for-finding-and-restoring-missing-videos-on-ios-devices/"><u>Reclaim Your Memories: Effective Strategies for Finding and Restoring Missing Videos on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resurrecting-missed-contacts-expert-strategies-for-retrieving-deleted-data-in-your-itunes-backup-archive/"><u>Resurrecting Missed Contacts: Expert Strategies for Retrieving Deleted Data in Your iTunes Backup Archive</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-memories-step-by-step-guide-to-retrieving-iphoneipad-images-from-an-itunes-backup/"><u>Reviving Your Memories: Step-by-Step Guide to Retrieving iPhone/iPad Images From an iTunes Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-iphone-apps-for-effective-data-recovery-and-restoration-of-lost-files/"><u>Top 5 iPhone Apps for Effective Data Recovery & Restoration of Lost Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-and-typography-tweaks-a-comprehensive-font-changing-tutorial/"><u>Windows 11 and Typography Tweaks: A Comprehensive Font Changing Tutorial</u></a></li>
 </ul></div>
 

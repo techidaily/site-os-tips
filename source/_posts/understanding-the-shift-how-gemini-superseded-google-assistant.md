@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Shift: How Gemini Superseded Google Assistant"
-date: 2024-11-22T03:06:44.178Z
-updated: 2024-11-23T16:32:05.859Z
+date: 2024-11-29T02:06:26.204Z
+updated: 2024-12-02T05:17:12.863Z
 tags:
   - ios
 categories:
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Using Google Gemini to launch Whatsapp on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-101242_google.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Send Messages**: You can also use Gemini to send messages to your contacts by voice or typing. For example, you can say, "Send a message to John" or "Text Lisa," and Gemini will ask you what you want to say.
 
 ![sending text message using Google Gemini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102215_google.jpg) 
@@ -56,21 +60,17 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Using Google Gemini to initiate call on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102308_google.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Search the Web**: Gemini can help you find information on the web, such as weather, news, sports, or trivia. You can ask Gemini anything you want, such as "What's the weather like today?" or "Who is topping the Premier League?" and Gemini will show you the relevant results from Google.
 
 ![Using Google Gemini to Google search on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102920_google.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Screen Awareness**: Gemini can also understand what's on your screen and help you with relevant actions. Tap "Add This Screen" to let Gemini capture the details of your current screen.
 
 ![Add this screen prompt on Google Gemini app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103025_google.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, you can ask it to generate text or answers based on what's visible on your screen. For instance, if you're reading an article, you can ask Gemini to summarize it or ask questions about the article.
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ![Playing tic-tac-toe with Google Gemini on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103154_google.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Make Jokes**: Gemini can also make you laugh with some funny jokes, puns, or memes. You can say, "Tell me a joke" or "Show me a random meme," and Gemini will surprise you with some hilarious content.
@@ -89,10 +89,14 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ![Google Gemini showing a random meme on prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103310_google.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gemini is always learning and improving, so you can expect new features and updates in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Assistant Tasks That Google Gemini Can't Do (Yet)
 
@@ -105,16 +109,12 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ![Google Assistant helping Gemini.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-094859.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The good news is Google Assistant can "help" Gemini with some of these tasks still. If you're using Gemini as the default digital assistant on Android, it will essentially fall back to Assistant for timers and alarms, controlling smart home devices, on-device actions like turning on Bluetooth, broadcasting to smart speakers, and reading pages out loud.
 
  While these limitations may be frustrating if you are a longtime Google Assistant user, they stem from the fact that Gemini represents an entirely different, more advanced AI architecture. As Gemini matures, hopefully, its capabilities will expand to close the gaps with Assistant and combine conversational intelligence with Google's services. But for now, you may need to switch between the two for certain tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use Google Gemini AI
 
@@ -143,16 +143,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://os-tips.techidaily.com/comprehensive-solutions-for-resolving-check-in-issues-with-ios-17-on-iphones/"><u>Comprehensive Solutions for Resolving 'Check In' Issues with iOS 17 on iPhones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-6-finest-journaling-tools-for-on-the-go-note-taking/"><u>Discover the 6 Finest Journaling Tools for On-the-Go Note Taking</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-the-iphones-blue-screen-of-death-now-with-ios-18-support/"><u>Effective Solutions: Repairing the iPhone's 'Blue Screen of Death,' Now with iOS 18 Support</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/expert-tips-for-not-displaying-flipbuilder-sites-in-your-ebooks-web-address/"><u>Expert Tips for Not Displaying FlipBuilder Sites in Your eBook's Web Address</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/phones-as-cameras-a-comprehensive-guide-to-mobile-video-production-for-2024/"><u>Phones as Cameras A Comprehensive Guide to Mobile Video Production for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sam-altmans-departure-from-openai-implications-for-the-future-of-chatgpt/"><u>Sam Altman's Departure From OpenAI: Implications for the Future of ChatGPT</u></a></li>
-<li><a href="https://os-tips.techidaily.com/struggling-with-ios-music-downloads-try-these-5-effective-remedies/"><u>Struggling with iOS Music Downloads? Try These 5 Effective Remedies.</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-experts-guide-to-growing-valheim-crops-successfully/"><u>The Expert's Guide to Growing Valheim Crops Successfully</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nokia-c32-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Nokia C32 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-persistent-reboots-top-fixes-for-your-constantly-restarting-iphone/"><u>Troubleshooting Persistent Reboots: Top Fixes for Your Constantly Restarting iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-chatgpt-across-languages/"><u>Unveiling the Potential of ChatGPT Across Languages</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-quick-guide-youtube-videos-turned-into-engaging-animation-gifs/"><u>[New] 2024 Approved Quick Guide YouTube Videos Turned Into Engaging Animation Gifs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-balancing-soundtracks-with-visual-storytelling-in-trailers/"><u>2024 Approved Balancing Soundtracks with Visual Storytelling in Trailers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-reviving-the-hidden-watch-icon-on-facebook/"><u>2024 Approved Reviving the Hidden Watch Icon on Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unveiling-tseries-youtube-revenue-strategy/"><u>2024 Approved Unveiling TSeries' YouTube Revenue Strategy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-tracking-your-smartphones-whereabouts-on-both-android-and-apple-devices/"><u>Comprehensive Guide: Tracking Your Smartphone's Whereabouts on Both Android and Apple Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-stunning-self-portraits-on-your-iphone-in-four-various-settings/"><u>Creating Stunning Self-Portraits on Your iPhone in Four Various Settings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-value-of-logitechs-c615-webcam-a-comprehensive-guide/"><u>Exploring the Value of Logitech's C615 Webcam: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-mirror-an-ipad-onto-roku-the-three-ultimate-techniques/"><u>How to Effortlessly Mirror an iPad Onto Roku: The Three Ultimate Techniques</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-ways-to-stream-any-media-directly-to-your-television-screen-no-apple-tv-required/"><u>New Ways to Stream Any Media Directly to Your Television Screen, No Apple TV Required</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-pop-quizzes-mastering-the-art-of-a-crackling-free-logiteche-g-pro-x-experience-on-pc-updated-tips/"><u>No More Pop Quizzes: Mastering the Art of a Crackling-Free Logiteche G Pro X Experience on PC - Updated Tips</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/recovering-erased-disks-in-windows-11-made-simple-and-straightforward/"><u>Recovering Erased Disks in Windows 11 Made Simple and Straightforward</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zmi-powerpack-20000-unveiled-a-comprehensive-review-of-this-mighty-portable-charger/"><u>ZMI PowerPack 20000 Unveiled: A Comprehensive Review of This Mighty Portable Charger</u></a></li>
 </ul></div>
 

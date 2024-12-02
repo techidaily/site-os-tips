@@ -1,7 +1,7 @@
 ---
 title: "Mastering Privacy Controls: A User's Handbook for Configuring App Permissions on Apple Devices"
-date: 2024-10-31T16:36:19.797Z
-updated: 2024-11-04T16:48:14.425Z
+date: 2024-11-30T09:00:03.216Z
+updated: 2024-12-01T19:29:48.328Z
 tags:
   - ios
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
 ## Mastering Privacy Controls: A User's Handbook for Configuring App Permissions on Apple Devices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Manage Permissions on iPhone and iPad](https://facebook-clips.techidaily.com/new-2024-approved-building-engagement-with-professional-fb-video-techniques/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 * [How to Turn Off Location For Apps on iPhone and iPad](https://data-safeguard.techidaily.com/boost-your-rankings-using-the-cookiebot-platform/)
 * [Manage Which Apps Can Use Cellular Data](https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/)
 * [How to Turn Off Background Apps on iPhone and iPad](https://some-techniques.techidaily.com/new-exploring-hand-tracking-an-in-depth-look/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,15 +43,16 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
 
 ![Open the "Settings" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_0305.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, go to "Privacy & Security."
 
 ![Select "Privacy and Security."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03061.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now we're looking at a list of permissions and features that apps can access. Everything from "Location Services" to "Microphone" to "Motion & Fitness." Select a category to see which apps have access to it.
@@ -59,10 +68,7 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
 ![Photo permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03091.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all there is to it! This is your one-stop-shop for all things app permissions. If you want to quickly adjust what apps can access, this is the place to go.
@@ -83,13 +89,6 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
 
 ![App permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03111.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Adjust the permissions to your liking and you're all set! It's very easy to see what an app can do from the app settings page.
 
 ##  How to Turn Off Location For Apps on iPhone and iPad
@@ -104,52 +103,37 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
 
 ![Select "Privacy and Security."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03061.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now select "Location Services" at the top of the screen.
 
 ![Select "Location Services."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/2023-05-16_12-22-01.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can turn off Location Services altogether with the toggle at the top of the screen.
 
 ![Turn off "Location Services."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/2023-05-16_12-28-35.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "Share My Location" section is where you can turn off "Find My iPhone/iPad."
 
 ![Share Location settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03121.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lastly, all the apps that can request location permissions are listed. A gray arrow indicates the app used your location in the last 24 hours; a purple arrow means it recently used your location.
 
 ![Location access in apps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_0313.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select an app to adjust how it can use your location, if at all.
 
 ![Location permission options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03141.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Location is one of the most critical permissions to keep an eye on. Not only can location access drain the battery on your iPhone or iPad, it can easily be abused for nefarious purposes. Keep an eye on which apps can use it, and don't hand out "[Precise Location](https://android-frp.techidaily.com/easy-guide-to-motorola-edge-40-pro-frp-bypass-with-best-methods-by-drfone-android/)" access lightly.
 
@@ -161,16 +145,13 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
 
 ![Open the "Settings" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_0305.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go to the "Cellular" section.
 
 ![Select "Cellular."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03151.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll down and you'll see a list of apps along with how much data they've used for the [current period](https://eaxpv-info.techidaily.com/updated-financial-flourishing-yielding-higher-returns-with-mobile-youtube-content-for-2024/).
 
@@ -181,19 +162,6 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
 ![Turn off location access.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_03171.jpg) 
 
  This is a great way to make sure you don't have unimportant apps slowly [eating up cellular data in the background](https://youtube-lab.techidaily.com/ssing-youtube-shorts-no-image-upload-issue/).
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Turn Off Background Apps on iPhone and iPad
 
@@ -210,6 +178,10 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
  Toggle off the switch for "Background App Refresh."
 
 ![Turn off "Background App Refresh."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/03/IMG_0319.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now the app will no longer be able to stay awake in the background. You'll notice it may load more slowly when you launch the app, since it has to start fresh.
 
@@ -232,24 +204,18 @@ _This_ _[Cybersecurity Awareness Week](https://extra-hints.techidaily.com/2024-a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-best-screenshots-tools-series/"><u>[New] In 2024, Best Screenshots Tools Series</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigate-a-2023-hack-steps-to-regain-fb-access/"><u>[Updated] 2024 Approved Navigate a 2023 Hack Steps to Regain FB Access</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-harnessing-instagram-video-power-strategizing-for-impact/"><u>[Updated] In 2024, Harnessing Instagram Video Power Strategizing for Impact</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits/"><u>[Updated] In 2024, Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-streaming-services-for-musicians/"><u>[Updated] Superior Streaming Services for Musicians</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-refuses-to-chargers-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Refuses to Chargers: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-a-red-screen-on-your-iphone-expert-tips-and-solutions/"><u>How to Fix a Red Screen on Your iPhone: Expert Tips and Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-network-resource-unavailable-error-on-windows/"><u>How to Fix the Network Resource Unavailable Error on Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-unresponsive-apps-essential-solutions-for-ios-and-android-users/"><u>How to Troubleshoot Unresponsive Apps: Essential Solutions for iOS and Android Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-a60-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel A60</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-tips-for-dealing-with-iphone-display-flickering-and-lag/"><u>Simple Troubleshooting Tips for Dealing with iPhone Display Flickering & Lag</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-cs2-performance-issues-tips-to-boost-your-frame-rate-and-eliminate-stutter/"><u>Solving CS2 Performance Issues: Tips to Boost Your Frame Rate and Eliminate Stutter</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-iphone-has-no-service-dilemma-discover-14-effective-fixes/"><u>Solving the 'iPhone Has No Service' Dilemma: Discover 14 Effective Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-incorinasmatic-mix-sharing-songs-in-social-spaces-for-2024/"><u>[New] Incorinasmatic Mix Sharing Songs in Social Spaces for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-crafting-dynamic-web-pages-with-php-and-html/"><u>[Updated] In 2024, Crafting Dynamic Web Pages with PHP and HTML</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-advanced-video-conferencing-applications-guide/"><u>In 2024, Advanced Video Conferencing Applications Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-gionee-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Gionee</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-webinar-archiving/"><u>In 2024, The Ultimate Guide to Webinar Archiving</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-device-safety-how-to-efficiently-backup-ios-and-android-phones/"><u>Mastering Device Safety: How to Efficiently Backup iOS & Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-transfer-of-android-images-a-step-by-step-guide-to-syncing-your-phone-pics-with-a-pc-or-google-photos/"><u>Seamless Transfer of Android Images: A Step-by-Step Guide to Syncing Your Phone Pics with a PC or Google Photos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-effortlessly-sync-your-android-photos-with-google-drive-or-pc/"><u>Simple Steps: Effortlessly Sync Your Android Photos with Google Drive or PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soundscapes-spectrum-music-finder-service-for-2024/"><u>Soundscapes Spectrum Music Finder Service for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-safeguarding-your-conversations-by-backing-up-texts-from-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Safeguarding Your Conversations by Backing Up Texts From Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-overcoming-error-code-103003-in-arma-3/"><u>Step-by-Step Solution for Overcoming 'Error Code 103003' In Arma 3</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/teslas-innovative-nacs-chargeport-now-powers-honda-electric-vehicles-too/"><u>Tesla's Innovative NACS Chargeport Now Powers Honda Electric Vehicles Too</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-vmware-crashes-bsod-on-win11/"><u>Troubleshooting Guide: VMware Crashes, BSOD on Win11</u></a></li>
 </ul></div>
 

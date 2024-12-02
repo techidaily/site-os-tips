@@ -1,7 +1,7 @@
 ---
 title: "Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!"
-date: 2024-11-17T09:59:48.538Z
-updated: 2024-11-23T21:21:06.600Z
+date: 2024-11-28T17:14:09.622Z
+updated: 2024-12-01T19:03:45.656Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539
 ---
 
 ## Apple iMessages Unlocked: Discover These 10 Incredible Features Few People Are Aware Of!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539
 
  All features are available when [messaging Apple users with iMessage](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/). Some features are [compatible with other types of devices](https://on-screen-recording.techidaily.com/new-in-2024-10-exceptional-educational-sites-a-look-without-udemy/) like Android phones but may appear or work a bit differently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Edit Recently Sent Messages
 
  New as of [iOS 16](https://youtube-clips.techidaily.com/in-2024-editors-dream-machine-top-portable-video-edits-tools/), [iPadOS 16](https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/), and [macOS Ventura](https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/), you can [edit a text message](https://instagram-video-recordings.techidaily.com/new-instagram-content-top-15-download-apps-unveiled-for-2024/) for up to 15 minutes after you send it.
@@ -38,13 +46,13 @@ Related: [How to Unsend or Edit an iMessage on iPhone, iPad and Mac](https://ins
 
 ![Edit a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Edit-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your recipient can see an Edited indicator below the message that they can select to view the original message.
 
 ![Edit a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Edit-MessagesThingsDidntKnowDo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Undo Send for the Last Message
 
@@ -57,7 +65,7 @@ Related: [How to Unsend or Edit an iMessage on iPhone, iPad and Mac](https://ins
  Note that your recipient may see the message before you unsend it. However, it does vanish from the conversation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Inline Replies to Organize Responses
@@ -75,7 +83,7 @@ Related: [How to Use Inline Replies in Messages on iPhone and iPad](https://extr
 ![Reply to a text in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Reply-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Track Flights and Packages
@@ -86,12 +94,20 @@ Related: [How to Use Inline Replies in Messages on iPhone and iPad](https://extr
 
 ![Preview Flight and Track Shipment in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PreviewTrack-MessagesThingsDidntKnowDo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll then see either a small pop-up window or a separate window open displaying the status of the flight or package. You can also obtain additional details as available such as departure and arrival times or [a parcel's current location](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-8-with-7-methods-by-drfone-ios/).
 
 ![Flight and package status in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PreviewedTracked-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Replace Words With Emoji
@@ -104,16 +120,12 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 
 ![Emoji icon on an iPhone keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EmojiKey-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll see any words in your message that have matching emoji become highlighted. Tap a highlighted word to replace it with the emoji. For some words, you may see different options you can pick from directly above the word.
 
 ![Words highlighted and replaced with emoji in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Emoji-MessagesThingsDidntKnowDo.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use a Mention to Get Attention
@@ -130,6 +142,10 @@ Related: [How to Quickly Select Emoji in Messages on an iPhone or iPad](https://
 
 Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-capture.techidaily.com/updated-2024-approved-perfect-your-game-with-these-top-7-stardew-valley-modifications/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Handwrite or Sketch a Message
 
  If you want to try something a little different with your next message, how about [handwriting it](https://extra-approaches.techidaily.com/2024-approved-premier-selection-ultimate-omnidirectional-cameras/) or drawing a picture? You can do this on iPhone and iPad and it takes only a minute to make your message special.
@@ -138,10 +154,6 @@ Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-captu
 
 ![Scribble key on the iPhone keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ScribbleKey-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll see a blank canvas appear for you to write or draw using your finger (or Apple Pencil on iPad). You can also see recent drawings and suggestions you can pick from along the bottom. Add your message and tap "Done."
 
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
@@ -149,10 +161,6 @@ Related: [10 Hidden Mac Features You Should Be Using](https://screen-video-captu
  You'll then see your handwriting or sketch in the text message field. Simply send it like any other message.
 
 ![Handwriting canvas in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Handwrite-MessagesThingsDidntKnowDo.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Filter Messages
 
@@ -168,10 +176,6 @@ Related: [How to Hide Spam Texts From Unknown Senders on iPhone](https://ios-unl
 
 ![Filters in Messages on Mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FiltersMac-MessagesThingsDidntKnowDo.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Tapback to Quickly React
 
  One of the fastest ways to acknowledge a text in Messages is with a [Tapback](https://tiktok-clips.techidaily.com/new-in-2024-capture-hearts-on-tiktok-designed-templates-for-visual-impact/). You can respond with a heart, thumbs up, thumbs down, laugh, exclamation, or question mark.
@@ -183,10 +187,6 @@ Related: [How to Reply With a Tapback in Messages on iPhone and iPad](https://ti
 ![Tapback in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Tapback-MessagesThingsDidntKnowDo.png) 
 
  For older versions of iOS, iPadOS, or macOS, the recipient sees a text label instead of an icon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Send Bubble or Screen Effects
 
@@ -221,17 +221,19 @@ Related: [10 Great iPhone Features You Should Be Using](https://some-skills.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-expanding-screen-coverage-of-youtube-videos/"><u>[New] Expanding Screen Coverage of YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-transcribing-with-googles-speech-api/"><u>[New] Step-by-Step Guide to Transcribing with Google's Speech API</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-voice-logging-made-simple-with-ipad-apps/"><u>[Updated] 2024 Approved Voice Logging Made Simple with iPad Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-restoring-default-sound-preferences-on-windows-tips-and-tricks/"><u>Complete Guide: Restoring Default Sound Preferences on Windows - Tips & Tricks</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-smart-8-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Smart 8 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/respecting-your-education-skip-the-ai-crutch/"><u>Respecting Your Education: Skip the AI Crutch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-power-of-non-touch-interactions-with-apple-watch-series-9s-advanced-neural-engine-and-hand-gestures-features/"><u>Unlock the Power of Non-Touch Interactions with Apple Watch Series 9’S Advanced Neural Engine and Hand Gestures Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-productivity-with-a-top-secret-markdownnote-taker-that-revolutionizes-your-workflow/"><u>Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unraveling-the-secrets-behind-the-iphones-dominance-in-video-playback/"><u>Unraveling the Secrets Behind the iPhone's Dominance in Video Playback</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-milestone-the-birth-of-the-first-smartphone/"><u>Unveiling the Milestone: The Birth of the First Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/when-and-how-to-deactivate-apples-find-my-iphone-feature-insights-and-instructions/"><u>When and How to Deactivate Apple's Find My iPhone Feature - Insights and Instructions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-free-mindfulness-playlist/"><u>[New] Free Mindfulness Playlist</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-budget-friendly-flight-machines-the-cheapest-drone-list-for-2024/"><u>[Updated] Budget-Friendly Flight Machines The Cheapest Drone List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-grasping-the-fundamentals-of-animated-communication/"><u>2024 Approved Grasping the Fundamentals of Animated Communication</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-proven-screenshot-solutions-for-the-cost-conscious-techie/"><u>2024 Approved Proven Screenshot Solutions for the Cost-Conscious Techie</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-voice-chat-failed-in-rainbow-six-siege-detailed-fixes/"><u>How to Solve 'Voice Chat Failed' In Rainbow Six Siege | Detailed Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-digital-artisans-guide-mastering-screen-recordings-in-macos/"><u>In 2024, The Digital Artisan's Guide Mastering Screen Recordings in macOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-many-reasons-behind-my-passion-for-apples-seamless-digital-world/"><u>The Many Reasons Behind My Passion for Apple's Seamless Digital World</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-essential-ios-security-measures-every-iphone-user-must-adopt/"><u>Top 7 Essential iOS Security Measures Every iPhone User Must Adopt</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-apple-watch-dial-and-complications-perfect-faces-for-every-day-and-event/"><u>Top Apple Watch Dial & Complications: Perfect Faces for Every Day and Event</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-and-indepth-analysis-of-pitaka-magez-slide-charger-perfect-companion-for-your-iphone/"><u>Ultimate Guide & InDepth Analysis of Pitaka MagEZ Slide Charger - Perfect Companion for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-why-imessage-requests-you-to-reconnect-with-friends-and-easy-repair-steps/"><u>Understanding Why iMessage Requests You To Reconnect with Friends & Easy Repair Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/valkyrie-vind-sl125-the-challenge-of-delivering-on-its-adorably-designed-promise/"><u>Valkyrie Vind SL125: The Challenge of Delivering on Its Adorably Designed Promise</u></a></li>
 </ul></div>
 

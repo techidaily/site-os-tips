@@ -1,7 +1,7 @@
 ---
 title: "Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide"
-date: 2024-11-17T08:10:49.691Z
-updated: 2024-11-23T20:45:43.072Z
+date: 2024-11-29T22:18:57.811Z
+updated: 2024-12-02T02:54:08.071Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ---
 
 ## Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Enable Live Photos in Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photo_camera.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Live Photos will be converted into GIFs automatically, depending on where you share them. The first thing you need to do is locate a Live Photo within the Photos app. Open it and you should see a "Live" button appear in the top-left corner of the image with a drop-down arrow.
 
 ![Live Photo drop-down selector](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photo_button.jpg) 
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
  Pick one and preview the effect, then when you're ready to share hit the "Share" button (which looks like a box with an arrow pointing upwards). Now pick a destination app, like WhatsApp, and your Live Photo should send as a GIF. In some apps, the loop will be sent as a video, in which case you might want to use Shortcuts instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Live Photos or Videos into GIFs with Shortcuts
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
  For videos, you should trim your clip down to size before you attempt to convert it to a GIF. To do this, find the video in your Photos app then tap on "Edit" in the top-right corner of the screen. You can now grab the start and stop points on the video timeline that appears to trim your clip to size, then preview it with the "Play" button. Hit "Done" to save.
 
 ![Trim a video to size on your iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/trim_video.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With your Live Photo or video ready to go, it's time to build a shortcut that will export it to GIF and save it to your Photos app. To do this, launch the Shortcuts app on your iPhone or re-download it from the [App Store](https://apps.apple.com/au/app/shortcuts/id915249334) if you have previously deleted it. [Shortcuts is an app that lets you create time-saving workflows](https://buynow-help.techidaily.com/expert-review-how-the-new-apple-iphone-12-sets-the-bar-higher-than-ever/), and it has all sorts of uses.
 
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ![Add the "Make GIF" action to your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/search_gif.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The action will be added to your workflow. Next, tap on the "Content" button that appears and choose "Shortcut Input" from the list. We're doing this so that the shortcut targets the video or Live Photo you have open whenever it is triggered.
@@ -92,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Change GIF parameters in the action field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/gif_settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new action will appear above the "Make GIF" action you added. This allows you to limit the shortcut to set categories of media and dictate where it appears across the operating system.
 
  To keep things tidy, tap on the "Images and XX More" variable. Disable any categories you don't want. We limited it to Images, Media, and Files.
 
 ![Limit your shortcut to certain content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/images_media_files.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now tap on the "Nowhere" variable and make sure "Show in Share Sheet" is enabled. This will allow you to trigger the shortcut from the "Share" option you see when viewing media.
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Add the "Quick Look" action to your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/add_quick_look.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  All that's left to do is give your new shortcut a name and icon at the top of the screen. Hit "Done" and save your shortcut. It will appear in the Shortcuts app alongside your other workflows.
 
 ![Give your new shortcut a name and an icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/name_shortcut.jpg) 
@@ -118,25 +118,17 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Make sure you can trigger your shortcut from the Share Sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/share_sheet.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Use the "Share" button in the bottom-left corner to save, share, AirDrop, and more. When you hit "Done" your GIF will be discarded.
 
 ![Live Photo converted to GIF using Shortcuts on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/IMG_0076.gif) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Tim Brookes / How-To Geek_
 
  The GIF above was created from a Live Photo using "Loop" with "Auto Size" enabled. We used a "Seconds per Photo" value of 0.1 seconds to achieve slightly faster motion. [Download this shortcut](https://www.icloud.com/shortcuts/2fef5aa70c9d4974a36c8405720953ee) and add it to your Shortcuts app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Capture GIFs with Your Camera using GIPHY
 
@@ -144,7 +136,15 @@ _Tim Brookes / How-To Geek_
 
 ![Create GIFs with GIPHY's "Create" feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/giphy_create.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GIPHY lets you save videos and GIFs, and there's no need to upload your files to the internet either. Best of all there are no watermarks to contend with. It's a solid choice if you're not getting on with built-in apps like Photos and Shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  GIFs that Keep on Giving
 
@@ -167,22 +167,16 @@ _Tim Brookes / How-To Geek_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] 2024 Approved Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-premier-guide-to-cost-free-video-editors/"><u>[Updated] The Premier Guide to Cost-Free Video Editors</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/7-tipps-fur-den-transfer-von-iphone-filmen-zu-einem-pc-unter-windows-10-oder-11-schritt-fur-schritt-anleitung/"><u>7 Tipps Für Den Transfer Von IPhone-Filmen Zu Einem PC Unter Windows 10 Oder 11: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-guide-effortless-iphone-data-transfer-from-pc-with-and-without-itunes/"><u>Expert Guide: Effortless iPhone Data Transfer From PC with and without iTunes</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-parent-controls-on-microsoft-windows-11/"><u>Guide to Parent Controls on Microsoft Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-add-music-to-powerpoint-tutorial-guide-for-2024/"><u>How to Add Music to PowerPoint? [Tutorial Guide] for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-manually-back-up-your-iphone-using-these-3-quick-and-easy-techniques/"><u>How to Manually Back Up Your iPhone Using These 3 Quick and Easy Techniques</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xs-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XS Max</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-spark-10c-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Spark 10C FRP Without Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/leading-ios-tools-to-explore-and-manage-your-phones-sync-files/"><u>Leading iOS Tools to Explore and Manage Your Phone's Sync Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-iphones-important-reminders-a-step-by-step-guide-to-free-and-premium-note-backup-solutions/"><u>Protect Your iPhone's Important Reminders: A Step-by-Step Guide to Free and Premium Note-Backup Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-easy-techniques-securely-save-all-your-iphone-app-data/"><u>Quick & Easy Techniques: Securely Save All Your iPhone App Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-the-issue-of-non-visible-icloud-backups-a-comprehensive-guide/"><u>Resolving the Issue of Non-Visible iCloud Backups: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-conversations-how-to-preserve-and-relocate-iphone-text-messages-efficiently/"><u>Secure Your Conversations: How to Preserve and Relocate iPhone Text Messages Efficiently</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-to-protect-and-backup-whatsapp-conversations-on-iphones-a-comprehveiled-approach/"><u>Simple Steps to Protect and Backup WhatsApp Conversations on iPhones – A Comprehveiled Approach</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-free-open-source-ai-picture-makers/"><u>The Ultimate Guide to Free, Open Source AI Picture Makers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-moisture-protection-of-iphone-13-phones/"><u>Understanding the Moisture Protection of iPhone 13 Phones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-streamlining-image-processes-with-polarrs-compreeved-tools-for-2024/"><u>[New] Streamlining Image Processes with Polarr's Compreeved Tools for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-examination-of-samsung-photo-editor-features-for-2024/"><u>[New] The Ultimate Examination of Samsung Photo Editor Features for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-exploring-hidden-realms-a-comprehensive-guide-to-youtubes-unlisted-videos/"><u>[Updated] 2024 Approved Exploring Hidden Realms A Comprehensive Guide to YouTube’s ‘Unlisted’ Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-introduction-to-plot-and-character-dynamics/"><u>[Updated] Introduction to Plot and Character Dynamics</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>In 2024, Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavimp4gif/"><u>Movaviで手軽なオンラインMP4からGIFへのフリー変換方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-android-remote-control-applications-managing-your-phone-via-pc/"><u>Top 5 Android Remote Control Applications: Managing Your Phone via PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-free-ios-emulators-available-for-your-android-device-right-now/"><u>Top 6 Free iOS Emulators Available for Your Android Device Right Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-favorite-google-play-songs-into-ringtones-a-step-by-step-guide-for-android-users/"><u>Transform Your Favorite Google Play Songs Into Ringtones: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-gaming-experience-mastering-call-of-duty-mobile-on-pc-with-three-effective-techniques/"><u>Transform Your Gaming Experience: Mastering Call of Duty Mobile on PC with Three Effective Techniques</u></a></li>
 </ul></div>
 

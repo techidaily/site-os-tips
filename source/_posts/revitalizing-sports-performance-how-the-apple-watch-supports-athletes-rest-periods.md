@@ -1,7 +1,7 @@
 ---
 title: "Revitalizing Sports Performance: How the Apple Watch Supports Athlete's Rest Periods"
-date: 2024-11-20T03:59:14.827Z
-updated: 2024-11-23T23:54:51.293Z
+date: 2024-11-29T00:07:47.695Z
+updated: 2024-12-01T18:27:15.967Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4710ca06d5c1bac3d98138fcc48df68b8cda1336e
 ## Revitalizing Sports Performance: How the Apple Watch Supports Athlete's Rest Periods
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/4710ca06d5c1bac3d98138fcc48df68b8cda1336e
  Other companies are investing in figuring out when people should be exercising more and when it’s better for their bodies to take it easier. My Apple Watch already knows a lot about my daily schedule, my weight trends, my sleeping length, my heart rate, and even my local weather. Why is it not more proactive about the information it’s providing? Even on an opt-in basis. It’s time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple, I Need Rest
 
 ![Apple Watch Ultra 2 with amount of exercise per week on screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/apple-watch-ultra-2-with-amount-of-exercise-per-week-on-screen-2.JPG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -48,6 +44,10 @@ Tyler Hayes / How-To Geek
  It took me longer to learn than I’d like to admit that it’s beneficial to your training to take days off and vary the types of workouts you do to help your overall progress. After some time, it became apparent to me that I was overly fatigued. When I did begrudgingly take a day off, I noticed my running times were much better the next few afterward, compared to the two days before I rested. Over the years, I've also found it beneficial to mix in stretching, yoga, or HIIT workouts on the days I wasn’t running.
 
  Right now, the Apple Watch doesn't acknowledge the concept of a rest day. If you miss a day, a streak is broken. That even applies to having a streak broken because of illness. If you're not completing your move, exercise, or stand rings each day, then you're not doing well enough from the watch's vantage point. Consistency is an important way to build habits, but pretending each of those three goals, represented as rings, will be met daily, indefinitely, seems a little unreasonable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Am I Ready to Exercise, and if So, How Much?
 
@@ -64,7 +64,7 @@ Tyler Hayes / How-To Geek
  Neither Oura nor Fitbit give away their readiness scores. Both companies put that information behind subscription services. If Apple feels the need to do the same, it already has [Fitness+](https://hardware-updates.techidaily.com/improve-performance-update-your-epson-wf-7720-windows-printer-drivers-here/) that it's probably underutilizing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Future of Health and Fitness Monitoring
@@ -72,7 +72,7 @@ Tyler Hayes / How-To Geek
 ![Apple Watch Ultra on laying on pair of running shoes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/apple-watch-ultra-on-laying-on-pair-of-running-shoes-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -106,20 +106,24 @@ Tyler Hayes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-sonic-boom-the-guide-to-musical-snapchat-videos/"><u>[New] In 2024, Sonic Boom The Guide to Musical Snapchat Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-user-friendly-way-of-migrating-snapchat-images-home/"><u>[Updated] The User-Friendly Way of Migrating SnapChat Images Home</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-dive-deep-into-the-past-with-these-top-10-student-friendly-yt-channels/"><u>2024 Approved Dive Deep Into the Past with These Top 10 Student-Friendly YT Channels</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-understanding-the-wma-audio-file-format/"><u>Comprehensive Guide: Understanding the WMA Audio File Format</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-realtek-audio-driver-software-for-your-pc-windows-11-10-7/"><u>Get the Latest Realtek Audio Driver Software for Your PC (Windows 11, 10, 7)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-mic-selection-for-professional-4k-filmmaking/"><u>In 2024, Optimal Mic Selection for Professional 4K Filmmaking</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://os-tips.techidaily.com/latest-password-software-adds-support-for-secure-passkey-feature/"><u>Latest Password Software Adds Support for Secure Passkey Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-your-airpods-experience-top-12-functions-for-maximum-enjoyment/"><u>Mastering Your AirPods Experience: Top 12 Functions for Maximum Enjoyment</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-your-cloud-space-a-must-read-guide-prior-to-purchasing-icloud-storage/"><u>Maximizing Your Cloud Space: A Must-Read Guide Prior to Purchasing iCloud Storage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-reasons-for-switching-from-google-maps-to-waze-a-comprehensive-look/"><u>My Reasons for Switching From Google Maps to Waze: A Comprehensive Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recognizing-signs-of-cell-phone-data-throttling-a-comprehensive-guide/"><u>Recognizing Signs of Cell Phone Data Throttling: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sharing-your-airtag-a-step-by-step-guide-for-multiple-user-access/"><u>Sharing Your AirTag: A Step-by-Step Guide for Multiple User Access</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>[New] Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-intonations-choosing-the-right-notes-for-your-snap/"><u>[Updated] In 2024, Instagram Intonations Choosing the Right Notes for Your Snap</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pixelpathway-pioneer-review/"><u>2024 Approved PixelPathway Pioneer Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-safe-is-using-apple-paygoogle-pay-compared-to-traditional-credit-card-transactions/"><u>How Safe Is Using Apple Pay/Google Pay Compared to Traditional Credit Card Transactions?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-an-apple-watch-displaying-the-apple-logo-instead-of-boot-up-screen/"><u>How to Resolve an Apple Watch Displaying the Apple Logo Instead of Boot-Up Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-the-imessage-prompt-that-reminds-you-to-update-your-contacts/"><u>How to Resolve the iMessage Prompt That Reminds You to Update Your Contacts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exposing-concealed-viewers-feedback-on-videos/"><u>In 2024, Exposing Concealed Viewers' Feedback on Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-v27-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo V27 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-belkins-game-changing-magsafe-triple-port-charger-a-leap-forward-in-wireless-power-solutions/"><u>Introducing Belkin's Game-Changing MagSafe Triple Port Charger - A Leap Forward in Wireless Power Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-fords-latest-in-vehicle-system-not-a-direct-rival-to-android-autoapple-carplay/"><u>Introducing Ford's Latest In-Vehicle System: Not a Direct Rival to Android Auto/Apple CarPlay</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-users-ultimate-tutorial-converting-stills-to-movies-and-animations/"><u>IPhone Users' Ultimate Tutorial: Converting Stills to Movies & Animations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-it-worth-upgrading-from-the-m2-ipad-pro-to-the-new-m4-model/"><u>Is It Worth Upgrading From the M2 iPad Pro to the New M4 Model?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/learn-how-your-ipad-can-format-and-manage-external-hardware-a-comprehensive-guide/"><u>Learn How Your iPad Can Format and Manage External Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pricing-framework-music-video-filming-costs-for-2024/"><u>Pricing Framework Music Video Filming Costs for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-apple-airpods-at-unbeatable-prices-special-offer-today/"><u>Secure Your Apple AirPods at Unbeatable Prices - Special Offer Today!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-creme-de-la-creme-of-fluid-interactive-games-for-2024/"><u>The Crème De La Créme of Fluid Interactive Games for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>Updated 2024 Approved Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
 </ul></div>
 

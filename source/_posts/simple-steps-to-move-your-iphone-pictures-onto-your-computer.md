@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Move Your iPhone Pictures Onto Your Computer
-date: 2024-11-21T19:04:39.401Z
-updated: 2024-11-24T05:12:28.203Z
+date: 2024-12-01T03:23:35.384Z
+updated: 2024-12-01T17:35:44.067Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Simple Steps to Move Your iPhone Pictures Onto Your Computer
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Use File Explorer or Windows Explorer](https://article-knowledge.techidaily.com/2024-approved-storage-sizing-film-duration-in-gb/)
@@ -22,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Sync Your Photos With iCloud Photo Library (or Other Services)](https://www.howtogeek.com/345540/how-to-transfer-photos-from-an-iphone-to-a-pc/#sync-your-photos-with-icloud-photo-library-or-other-services)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap "Trust."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/trust-this-pc.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your iPhone appears as a new device under "This PC" in File Explorer on Windows 10 or Windows 11\. Head here and double-click it.
 
  If you don't see the iPhone under This PC or Computer, unplug the iPhone, plug it back in, and ensure it's unlocked.
@@ -54,7 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Image folders on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folders-on-iphone.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see your photos as .JPG files or .HEIC files, videos as .MOV files, and screenshots as .PNG files. You can double-click them to view them right from your iPhone. You can also copy them to your PC using either drag-and-drop or copy-and-paste.
@@ -67,10 +67,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Copy the photo folders from your iPhone to other devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/copy-photos-to-iphone.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you see files with the .HIEC file extension, that indicates your iPhone is taking photos using [the HEIF image format](https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/). This is the default setting as of [iOS 11](https://remote-screen-capture.techidaily.com/updated-2023s-best-screen-recorder-discover-with-camstudio/) and later, but you need to install the [HEIF image extension to view these files on Windows](https://sound-tweaking.techidaily.com/the-most-reliable-sites-to-stream-legal-background-music-collections-for-2024/).
 
  However, you don't have to [disable HEIF on your iPhone](https://data-safeguard.techidaily.com/boost-your-digital-footprint-with-cookiebots-advanced-tools/) to make these photos more compatible. On your iPhone, head to Settings > Photos, scroll down, and then tap "Automatic" under Transfer to Mac or PC. Your iPhone automatically converts the photos to .JPEG files when you import them to a PC.
@@ -80,7 +76,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Select the "Automatic" option to enable automatic conversion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/automatic-transfer.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Import Photos With Windows Photos (or Other Applications)
@@ -107,6 +103,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The iCloud app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa313bad9270.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This isn't the only application you can use for synchronizing photos to your PC. The [Dropbox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/dropbox/id327630330?mt=8), [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/google-photos/id962194608?mt=8), and [Microsoft OneDrive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/microsoft-onedrive/id477537958?mt=8) apps for iPhone all offer automatic photo-upload features, and you can use the [Dropbox](https://www.dropbox.com/), [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/), and [OneDrive](https://onedrive.live.com/) tools for Windows to automatically download those photos to your PC.
 
 ![The Google Drive app can automatically synchronize photos between devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa30ed72d6fc.png) 
@@ -128,22 +128,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] 2024 Approved Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-photography-gurus-guide-to-date-stamping/"><u>[New] The Photography Guru's Guide to Date Stamping</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-setting-your-favorite-images-as-iphone-background-wallpapers/"><u>A Step-by-Step Guide to Setting Your Favorite Images as iPhone Background Wallpapers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-your-simple-2024-fix-for-the-wont-launch-problem/"><u>Battlefield ^: Your Simple 2024 Fix for the Won't Launch Problem</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-disseminating-videos-tiktok-content-for-a-wider-facebook-audience/"><u>In 2024, Disseminating Videos TikTok Content for a Wider Facebook Audience</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-12-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 12 mini iCloud Bypass</u></a></li>
-<li><a href="https://win-community.techidaily.com/incredible-apps-for-designing-custom-text-based-wallpapers/"><u>Incredible Apps for Designing Custom Text-Based Wallpapers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-ios-devices-with-dfu-mode-tips-and-techniques/"><u>Mastering iOS Devices with DFU Mode: Tips & Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-youtube-tagging-for-content-visibility-for-2024/"><u>Mastering YouTube Tagging for Content Visibility for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quickly-restore-touch-id-functionality-essential-tips-for-iphone-and-ipad-users/"><u>Quickly Restore Touch ID Functionality: Essential Tips for iPhone & iPad Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-iphone-wont-turn-off-issues-without-damage/"><u>Simple Troubleshooting Steps to Resolve 'iPhone Won't Turn Off' Issues Without Damage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-your-iphones-bluetooth-problem-a-step-by-step-guide-with-10-proven-fixes/"><u>Solve Your iPhone's Bluetooth Problem: A Step-by-Step Guide with 10 Proven Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-your-snapchat-struggles-in-5-easy-steps-quick-fixes-for-usability-issues/"><u>Solve Your Snapchat Struggles in 5 Easy Steps - Quick Fixes for Usability Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-fix-your-unresponsive-facetime-connection-with-these-simple-6-steps/"><u>The Ultimate Guide: Fix Your Unresponsive FaceTime Connection with These Simple 6 Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-ios-16-wifi-connectivity-issues-common-problems-and-fixes/"><u>Troubleshooting IOS 16 WiFi Connectivity Issues: Common Problems & Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-connecting-and-syncing-an-iphone-with-windows-or-mac/"><u>Troubleshooting Steps: Connecting and Syncing an iPhone with Windows or Mac</u></a></li>
-<li><a href="https://win-blog.techidaily.com/update-on-ubisofts-rainbow-six-siege-complimentary-version/"><u>Update on Ubisoft's Rainbow Six Siege - Complimentary Version</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-your-ultimate-playbook-for-nba-live-streams-15-tips/"><u>[New] Your Ultimate Playbook for NBA Live Streams (15 Tips)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apex-storage-wizards-best-of-android-cloud/"><u>Apex Storage Wizards Best of Android Cloud</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/easy-implementation-of-snap-camera-on-ms-teams-for-2024/"><u>Easy Implementation of Snap Camera on MS Teams for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620275386-effortless-sim-management-for-iphones-essential-guidelines-to-insertremove-sim-cards-successfully/"><u>Effortless SIM Management for iPhones: Essential Guidelines to Insert/Remove Sim Cards Successfully</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/energy-efficiency-improvements-across-various-sectors-industry-transportation-buildings-lower-overall-energy-consumption-and-associated-emissions/"><u>Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-siri-with-your-own-sound-tailoring-your-digital-assistant-for-improved-interaction/"><u>Enhance Siri with Your Own Sound: Tailoring Your Digital Assistant for Improved Interaction</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-civi-3-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/incandescent-ideas-innovations-for-stellar-cinematography/"><u>Incandescent Ideas Innovations for Stellar Cinematography</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-instructions-for-projecting-your-iphone-screen-onto-the-latest-vizio-model-202n/"><u>Ultimate Step-by-Step Instructions for Projecting Your iPhone Screen Onto the Latest VIZIO Model (202N)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-walkthrough-for-cable-free-display-of-iphone-on-mac-and-television-screens/"><u>Ultimate Walkthrough for Cable-Free Display of iPhone on Mac and Television Screens</u></a></li>
 </ul></div>
 

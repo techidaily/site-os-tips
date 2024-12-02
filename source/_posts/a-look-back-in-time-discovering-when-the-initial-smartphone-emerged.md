@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-11-17T23:16:10.999Z
-updated: 2024-11-24T04:15:46.047Z
+date: 2024-11-27T19:56:18.625Z
+updated: 2024-12-01T19:01:59.514Z
 tags:
   - ios
 categories:
@@ -11,17 +11,13 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 ## A Look Back in Time: Discovering When the Initial Smartphone Emerged
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
@@ -52,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -88,14 +88,22 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-setting-up-and-managing-discord-channels-step-by-step-guide/"><u>[New] In 2024, Setting Up and Managing Discord Channels Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-how-to-make-a-hyperlapse-video/"><u>2024 Approved How to Make A Hyperlapse Video</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-in-depth-app-examination-azs-recording-and-alternatives/"><u>2024 Approved In-Depth App Examination - AZ's Recording & Alternatives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290538655-mp4avi/"><u>MP4とAVIの品質比較: 優れたフリーコンバーターを推奨します</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-guide-how-beginners-can-reset-their-iphones-email-password-swiftly/"><u>Simple Guide: How Beginners Can Reset Their iPhone's Email Password Swiftly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-significance-of-heic-image-encoding-for-iphone-photography-key-facts-you-need-to-know/"><u>The Significance of HEIC Image Encoding for iPhone Photography: Key Facts You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-4-strategies-for-finding-your-lost-iphone-or-ipad/"><u>Top 4 Strategies for Finding Your Lost iPhone or iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-digital-touch-messaging-a-comprehensive-guide-for-iphone-users/"><u>Understanding Digital Touch Messaging: A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/windows-10-treasures-exciting-new-apps-and-games-await-for-2024/"><u>Windows 10 Treasures Exciting New Apps & Games Await for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unwinding-on-your-device-easy-phone-games/"><u>[New] In 2024, Unwinding on Your Device Easy Phone Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-nows-vr-innovation-snapshot/"><u>[New] Now's VR Innovation Snapshot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-approach-to-youtube-community-dialogue/"><u>2024 Approved Streamlining Your Approach to YouTube Community Dialogue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-realtek-rtl8188cu-drivers-compatible-with-windows-7-and-10/"><u>Get the Latest Realtek RTL8188CU Drivers: Compatible with Windows 7 & 10</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f04-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F04 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube/"><u>In 2024, Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-entry-point-not-found-error-in-fortnite-a-step-by-step-guide/"><u>Resolving the 'Entry Point Not Found' Error in Fortnite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surprising-features-revealed-discover-the-games-that-excel-on-m1-and-m2-ipads/"><u>Surprising Features Revealed: Discover the Games that Excel on M1 and M2 iPads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-cell-phone-practices-that-shorten-battery-lifespan-avoid-these-mistakes/"><u>Top Cell Phone Practices That Shorten Battery Lifespan: Avoid These Mistakes!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-iphone-13-pro-max/"><u>Top-Rated Protective Covers for iPhone 13 Pro Max</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-an-obsolete-apple-timepiece-into-vintage-clockwork-art/"><u>Transforming an Obsolete Apple Timepiece Into Vintage Clockwork Art</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-chaos-into-order-discover-why-families-adore-using-cozi-for-life-management/"><u>Transforming Chaos Into Order: Discover Why Families Adore Using Cozi for Life Management</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-common-glitches-in-apples-financial-services/"><u>Troubleshooting Common Glitches in Apple's Financial Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-cannot-connect-to-app-store-issue-on-your-iphoneipad/"><u>Troubleshooting Steps: Resolving 'Cannot Connect to App Store' Issue on Your iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-apple-watch-a-guide-to-fix-sleep-tracking-issues/"><u>Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-encouraging-gamers-to-develop-games-can-have-negative-consequences/"><u>Why Encouraging Gamers to Develop Games Can Have Negative Consequences</u></a></li>
 </ul></div>
 

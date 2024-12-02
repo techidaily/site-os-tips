@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts
-date: 2024-11-20T04:43:33.131Z
-updated: 2024-11-23T18:15:55.484Z
+date: 2024-11-26T23:04:38.873Z
+updated: 2024-12-01T16:55:19.159Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Step-by-Step Tutorial on Extracting and Printer Friendly Converting iPhone's iMessages for Hardcopy Printouts
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The easiest way to print iPhone text messages is to take screenshots of the conversation and print the screenshots. It's also possible to use third-party software to print full transcripts.
 
  iPhone text messages---including [iMessage](https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-max-by-drfone-ios/)\---live on your iPhone or [Mac](https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-12plus-5g-frp-bypass-by-drfone-android/). If you want to get those messages into the real world---either for court or personal records---you'll need to get creative. We'll show you two ways to print text messages on iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Print iPhone Text Messages Screenshots
 
@@ -40,10 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the &quot;Photos&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-54-31.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Go to the "Albums" tab and scroll down to select "Screenshots."
 
 ![Go to &quot;Screenshots.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-55-05.png) 
@@ -52,9 +48,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap &quot;Select&quot; and choose screenshots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-56-16.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the screenshots selected, tap the share icon (square with arrow pointing up) in the bottom left.
 
 ![Tap the share button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-57-21.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll up and select "Print" from the share menu.
 
@@ -63,10 +67,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Apple's built-in printing options will appear. Tap "Printer" to select a printer connected to the same Wi-Fi network, or tap the share icon to save it as a PDF and print it somewhere else.
 
 ![Select your printer or tap the share icon to save as PDF.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_14-59-46.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can see a print preview at the bottom of the screen. Depending on the type of printer you're using, you may have some extra settings to adjust.
 
@@ -77,10 +77,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Tap &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_15-34-00.png) 
 
  This method isn't the greatest if you have a lot of screenshots to print since it puts each screenshot on its own page. However, it's easy, and it gets the job done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Print an iPhone Text Message Transcript
 
@@ -97,7 +93,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Select a conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-17-25.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now click the "Print" button in the top right.
@@ -105,7 +101,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Click the &quot;Print&quot; button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-18-21.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A window with a print preview will appear. Tap "Print Now" to continue.
@@ -115,6 +111,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The Windows or Mac print dialog window will open. Select your printer and preferences and click "Print!"
 
 ![Choose printer settings and click &quot;Print.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-09_16-20-58.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You're all set! The transcript is a much neater presentation, but it does come with the downside of appearing more easily editable. That's something to consider if you need the text messages for legal purposes.
 
@@ -137,16 +137,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-2023s-samsung-bd-j5900-a-detailed-look/"><u>[New] 2023'S Samsung BD-J5900 A Detailed Look</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-winter-wonderland-in-beijing-olympic-year-2022/"><u>[New] Winter Wonderland in Beijing, Olympic Year 2022</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-seeking-speed-identifying-the-top-5-racer-games/"><u>[Updated] In 2024, Seeking Speed Identifying the Top 5 Racer Games</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-techniques-enhancing-your-iphones-video-production-quality-with-these-10-strategies/"><u>Expert Techniques: Enhancing Your iPhone's Video Production Quality with These 10 Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-lifespan-of-eco-friendly-tech-our-compostable-iphone-cases-journey-over-half-a-year/"><u>Exploring the Lifespan of Eco-Friendly Tech: Our Compostable iPhone Case's Journey Over Half a Year</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-newly-redesigned-amazon-echo-dot-4th-gen/"><u>Exploring the Newly Redesigned Amazon Echo Dot (4Th Gen)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-belkins-magsafe-compatible-iphone-holder-today-special-price-just-23/"><u>Get Your Belkin's MagSafe-Compatible iPhone Holder Today - Special Price: Just $23!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 11?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/integrating-chatgpt-into-your-apple-watch-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Apple Watch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-video-insights-mastering-youtube-statistics-with-social-blade-for-2024/"><u>Unlock Video Insights Mastering YouTube Statistics with Social Blade for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-daily-movie-storage-hours-to-gb-calculation-for-2024/"><u>[New] Daily Movie Storage Hours to GB Calculation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-sustaining-a-dynamic-facebook-experience/"><u>[New] Sustaining a Dynamic Facebook Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-reverse-video-techniques-for-android-devices/"><u>[Updated] 2024 Approved Reverse Video Techniques for Android Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools/"><u>[Updated] Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-an-online-empire-through-effective-marketing-for-2024/"><u>Building an Online Empire Through Effective Marketing for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-iphone-snaps-a-beginners-guide-to-using-the-photos-app-for-easy-edits/"><u>Enhance Your iPhone Snaps: A Beginner's Guide to Using the Photos App for Easy Edits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-smartphone-photography-upgrade-your-iphone-with-new-camera-features/"><u>Enhance Your Smartphone Photography: Upgrade Your iPhone 지난 베이스라인 with New Camera Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/evaluating-compatibility-with-the-latest-apple-iphone-15-model/"><u>Evaluating Compatibility with the Latest Apple iPhone 15 Model</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-enhanced-entertainment-apple-airplay-integration-in-hotel-tv-systems/"><u>Experience Enhanced Entertainment: Apple AirPlay Integration in Hotel TV Systems!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-iphones-and-viruses-why-traditional-antivirus-might-not-be-necessary/"><u>Exploring iPhones and Viruses: Why Traditional Antivirus Might Not Be Necessary</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-basics-of-backward-wireless-energy-transfer/"><u>Exploring the Basics of Backward Wireless Energy Transfer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-data-transfer-rates-of-the-latest-iphone-15-usb-c-interface/"><u>Exploring the Data Transfer Rates of the Latest iPhone 15 USB-C Interface</u></a></li>
+<li><a href="https://os-tips.techidaily.com/galileo-by-gamesir-a-powerhouse-in-the-realm-of-console-gaming/"><u>Galileo by GameSir: A Powerhouse in the Realm of Console Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-icon-alert-disappearances/"><u>How To Fix Icon Alert Disappearances</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-update-the-epson-wf-7720-printer-software-for-a-smooth-printing-experience-in-windows/"><u>How to Successfully Update the Epson WF-7720 Printer Software for a Smooth Printing Experience in Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR, Apples New iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-experience-with-these-top-7-mobile-adblockers-for-2024/"><u>Streamline Your Experience with These Top 7 Mobile AdBlockers for 2024</u></a></li>
 </ul></div>
 

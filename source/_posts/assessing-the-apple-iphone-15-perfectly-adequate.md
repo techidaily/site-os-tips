@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Apple iPhone 15: Perfectly Adequate"
-date: 2024-10-29T17:18:54.324Z
-updated: 2024-11-04T16:13:01.709Z
+date: 2024-12-01T07:01:29.927Z
+updated: 2024-12-02T14:27:08.978Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 ---
 
 ## Assessing the Apple iPhone 15: Perfectly Adequate
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,7 +27,15 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 
 ![iphone 15 pink](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-pink.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Apple iPhone 15
 
@@ -111,6 +123,10 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 USB Type-C port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-13.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  For the first time ever, the iPhone is using the same connector as the rest of the smartphone industry. Remember, before Lightning, iPhones were using the [30-pin connector](https://en.wikipedia.org/wiki/Dock%5Fconnector#30-pin%5Fdock%5Fconnector) from the iPod. Granted, Android phones and tablets were far from standardized charging in those days—anyone remember [Micro-B USB](https://amazon.com/dp/B00NH13G5A?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000546&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-iphone-15-review%2F&asc%5Fcampaign=Affiliate)? The people who extensively bought into the Lightning ecosystem might not be fans of the iPhone 15's new port and will have to [buy some dongles](https://eaxpv-info.techidaily.com/new-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/), but it's a great improvement overall.
@@ -119,29 +135,9 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 volume buttons and mute switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-19.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Corbin Davenport / How-To Geek
 
  Speaking of connectivity, the iPhone 15 series has the same satellite SOS feature as the iPhone 14 series. If you're in one of the supported countries, including the United States, you can contact emergency services or update your Find My location from areas without a functioning cell signal. Apple has also updated it to offer roadside assistance with AAA in the United States. It's a great feature that has already been [saving](https://techcrunch.com/2022/12/14/apples-emergency-sos-via-satellite-prompts-rescue-after-car-goes-off-a-cliff-north-of-la/) [lives](https://www.macrumors.com/2022/12/01/iphone-14-satellite-sos-in-action/) in the iPhone 14 series.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Display
 
@@ -150,13 +146,6 @@ Corbin Davenport / How-To Geek
  The iPhone 15 has a 6.1-inch screen, while the iPhone 15 Plus has a 6.7-inch screen. The larger model also has a slightly higher resolution (2796x1290 vs. 2556x1179) to compensate for the increased surface area. Everything else is the same, including the 1000 nits max brightness, "True Tone" feature that adjusts colors to be more accurate based on the light around you, and HDR support. I don't have any complaints with the screen on my base model iPhone 15—the deep blacks look great, and the screen can get bright enough in daylight.
 
 ![Apple iPhone 15 lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-08.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -194,31 +183,21 @@ Corbin Davenport / How-To Geek
 
  As with any other iPhone from the past few years, the iPhone 15 is fast enough and responsive for just about anything you can do on a smartphone. You will miss out on the [handful of major games](https://www.ign.com/articles/apple-iphone-15-pro-gaming-interview) in development exclusively for the iPhone 15 Pro and its A17 Pro chipset, such as "Resident Evil Village" and "Assassin's Creed Mirage," but everything else should work well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Battery Life
 
  I didn't have much of an issue with battery life on the iPhone 15\. My typical smartphone usage is checking emails and messages, watching videos, and occasionally tethering or playing games, but I've been playing more games than normal during my test period. Screen Time reports an average of 5 hours and 20 minutes of screen-on time, usually reaching around 30-35% charge before plugging it in overnight. If you don't use your phone a ton, you might be able to squeeze two days out of a single charge.
 
  It's worth noting that all those cool interactive widgets in iOS 17 can [drop your battery life](https://mastodon.social/@dcseifert/111117265518992422) if you have enough of them on your home screen. If you want to keep your iPhone 15 lasting all day, keep your interactive widgets to a minimum. You probably don't need to use [that new 80% charging limit](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/), though.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Camera
 
  The iPhone 15 and 15 Plus have two rear cameras, and they are a decent upgrade from the cameras on last year's iPhone 14\. The main camera now uses a higher resolution 48MP sensor instead of the 12MP sensor on last year's phones (and matching the camera on the 14 Pro). Photos aren't actually saved at that resolution, though—the pixels are combined to create a sharper 24MP image. That's similar to what most other flagship and mid-range smartphones do with their main cameras.
 
 ![Apple iPhone 15 camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-07.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -234,16 +213,13 @@ Close
 
 ![Daisy the dog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_4767-3.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Corbin Davenport / How-To Geek
 
 ![Daisy the dog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_4767.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -273,13 +249,14 @@ Corbin Davenport / How-To Geek
 
 ![iphone 15 pink](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-pink.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Apple iPhone 15
@@ -305,24 +282,16 @@ The iPhone 15 and iPhone 15 Plus bring most of the features from the 14 Pro to a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-deep-dive-samsung-galaxy-s8s-4k-capabilities/"><u>[Updated] 2024 Approved Deep Dive Samsung Galaxy S8's 4K Capabilities</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-maximizing-video-impact-while-staying-in-cc-zone/"><u>2024 Approved Strategies for Maximizing Video Impact While Staying in CC Zone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-media-playback-with-vlc-mac/"><u>2024 Approved Streamlining Media Playback with VLC (Mac)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-solutions-for-resolving-check-in-issues-with-ios-17-on-iphones/"><u>Comprehensive Solutions for Resolving 'Check In' Issues with iOS 17 on iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-the-iphones-blue-screen-of-death-now-with-ios-18-support/"><u>Effective Solutions: Repairing the iPhone's 'Blue Screen of Death,' Now with iOS 18 Support</u></a></li>
-<li><a href="https://os-tips.techidaily.com/finding-the-perfect-bargain-a-step-by-step-guide-to-purchasing-pre-owned-iphones-models-5-6-7-8-x-on-the-web/"><u>Finding the Perfect Bargain: A Step-by-Step Guide to Purchasing Pre-Owned iPhones (Models 5, 6, 7, 8, X) on the Web</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-iphones-vibration-feature-when-silenced-a-step-by-step-guide-for-problem-solving/"><u>How to Restore iPhone's Vibration Feature When Silenced: A Step-by-Step Guide for Problem Solving</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-swiftly-repair-an-apple-id-that-wont-work-effective-steps-for-immediate-fix/"><u>How to Swiftly Repair an Apple ID That Won't Work: Effective Steps for Immediate Fix</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-realme-narzo-60-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Realme Narzo 60 Pro 5G Device SIM</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/navigating-the-eerie-waters-of-robotic-care-with-harvards-innovative-tentacled-machine-safe-hands-for-fragile-goods/"><u>Navigating the Eerie Waters of Robotic Care with Harvard's Innovative Tentacled Machine – Safe Hands for Fragile Goods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-iphone-reboot-loop-step-by-step-guide-to-exit-dfu-recovery/"><u>Resolving iPhone Reboot Loop: Step-by-Step Guide to Exit DFU Recovery</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-how-to-recover-from-a-missing-or-undetectable-d3dx933dll-file/"><u>Solving the Dilemma: How to Recover From a Missing or Undetectable d3dx9_33.dll File</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-forcing-an-iphone-to-power-off-featuring-techniques-for-iphone-11-pro-models/"><u>Step-by-Step Instructions for Forcing an iPhone to Power Off, Featuring Techniques for iPhone 11 Pro Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/struggling-with-ios-music-downloads-try-these-5-effective-remedies/"><u>Struggling with iOS Music Downloads? Try These 5 Effective Remedies.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-persistent-reboots-top-fixes-for-your-constantly-restarting-iphone/"><u>Troubleshooting Persistent Reboots: Top Fixes for Your Constantly Restarting iPhone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-preventing-and-fixing-stardew-valley-pc-instability-issues/"><u>Ultimate Guide: Preventing and Fixing Stardew Valley PC Instability Issues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zipping-outcomes-turning-into-subrip-text-files/"><u>Zipping Outcomes Turning Into SubRip Text Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-popularity-boost-mastering-the-25-essential-hashtags/"><u>[Updated] 2024 Approved Insta-Popularity Boost Mastering the 25 Essential Hashtags</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultrawide-vs-uhd-4k-monitors-which-to-choose/"><u>[Updated] UltraWide VS UHD 4K Monitors Which to Choose</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-building-better-montages-a-creative-guide/"><u>2024 Approved Building Better Montages A Creative Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722874071792-add-a-splash-of-personality-to-your-mac-learn-to-change-folder-colors-today/"><u>Add a Splash of Personality to Your Mac: Learn to Change Folder Colors Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-fixing-iphone-wont-restore-from-icloud-backup-problem/"><u>Complete Guide: Fixing 'iPhone Won't Restore From iCloud Backup' Problem</u></a></li>
+<li><a href="https://techidaily.com/how-to-set-up-your-second-monitor-in-windows-7-8-and-10/"><u>How to Set up Your Second Monitor in Windows 7, 8 and 10</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-video-makers-with-music-for-android-and-iphone/"><u>In 2024, Best Video Makers with Music for Android and iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-infinix-gt-10-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix GT 10 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ibackup-viewer-of-2024-securely-transfer-your-iphone-data-to-pc/"><u>Top Rated iBackup Viewer of 2024: Securely Transfer Your iPhone Data to PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-icloud-backup-fails-to-initialize/"><u>Troubleshooting Steps When iCloud Backup Fails to Initialize</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-why-your-icloud-backup-might-be-missing-and-how-to-fix-it/"><u>Troubleshooting Tips: Why Your iCloud Backup Might Be Missing and How To Fix It</u></a></li>
 </ul></div>
 
