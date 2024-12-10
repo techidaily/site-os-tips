@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-11-30T22:47:16.373Z
-updated: 2024-12-01T20:18:34.988Z
+date: 2024-12-02T21:40:22.882Z
+updated: 2024-12-10T01:58:40.486Z
 tags:
   - ios
 categories:
@@ -12,17 +12,13 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,18 +88,15 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-bluetooth-remotes-and-controllers-for-easy-shooting/"><u>[New] Bluetooth Remotes and Controllers for Easy Shooting</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-snapback-to-loss-prevention/"><u>[New] In 2024, Quick Snapback to Loss Prevention</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-sharing-on-social-making-instagram-stories-explode-for-2024/"><u>[New] The Art of Sharing on Social Making Instagram Stories Explode for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ballot-bonanza-5-best-political-game-line-ups-for-2024/"><u>[Updated] Ballot Bonanza 5 Best Political Game Line-Ups for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-magic5-ultimate-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor Magic5 Ultimate to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Headset Problems on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-v29e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo V29e to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726026613529-pc/"><u>PC画面におけるビデオ品質向上・低下の効果的な方法</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-ipad-gameplay-using-the-apple-pencil-a-step-by-step-guide-to-better-entertainment/"><u>Transform Your iPad Gameplay Using the Apple Pencil - A Step-by-Step Guide to Better Entertainment</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-your-apple-id-the-truth-behind-disappearing-accounts/"><u>Understanding Your Apple ID: The Truth Behind 'Disappearing' Accounts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-creative-filmmaking-using-an-apple-watch-as-your-handy-audio-mic-explained/"><u>Unleash Creative Filmmaking: Using an Apple Watch as Your Handy Audio Mic Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-your-apple-watch-top-12-essential-functions-unveiled/"><u>Unleash Your Apple Watch: Top 12 Essential Functions Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-new-efficiency-levels-with-apples-iphone-speech-to-text-capability/"><u>Unlock New Efficiency Levels with Apple's iPhone Speech-to-Text Capability</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mydocument/"><u>「オンディーブでのMyDocumentの自動保存手順」</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-festive-gps-your-ultimate-guide-to-navigating-with-santas-sleigh-on-waze-during-the-holidays/"><u>A Festive GPS: Your Ultimate Guide to Navigating with Santa's Sleigh on Waze During the Holidays</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-restoring-your-apple-airpods-pros-max-pair/"><u>A Step-by-Step Guide to Restoring Your Apple AirPods / Pros / Max Pair</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ai-mastery-crafting-innovative-background-scenes-for-instagram-narratives-using-machine-learning-techniques/"><u>AI Mastery: Crafting Innovative Background Scenes for Instagram Narratives Using Machine Learning Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-latest-innovation-the-significant-improvements-of-the-apple-pencil-pro/"><u>Apple's Latest Innovation: The Significant Improvements of the Apple Pencil Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/capture-your-vision-leading-tablet-art-tools-for-2024/"><u>Capture Your Vision Leading Tablet Art Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/freezing-your-gameplay-xbox-one-screenshot-essentials-for-2024/"><u>Freezing Your Gameplay Xbox One Screenshot Essentials for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-vr-frontier-who-holds-the-crown/"><u>In 2024, The VR Frontier Who Holds the Crown?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-methods-of-recovering-lost-wmvcoredll-files-and-eliminating-related-error-messages/"><u>Master the Methods of Recovering Lost wmvcore.dll Files and Eliminating Related Error Messages</u></a></li>
 </ul></div>
 

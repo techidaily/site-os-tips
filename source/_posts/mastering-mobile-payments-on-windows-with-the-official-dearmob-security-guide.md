@@ -1,7 +1,7 @@
 ---
 title: Mastering Mobile Payments on Windows with the Official DearMob Security Guide
-date: 2024-11-29T21:19:47.944Z
-updated: 2024-12-02T09:19:53.972Z
+date: 2024-12-07T21:55:46.657Z
+updated: 2024-12-10T04:50:53.303Z
 tags:
   - iphone-manager
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Encrypt iOS/Local Files on Windows
@@ -38,7 +38,7 @@ In DearMob,
 ![Add file for encryption on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Click **Encrypt Now**, a window will pop out to let you set the password, if you haven't set before.  
@@ -46,18 +46,18 @@ In DearMob,
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * DearMob iPhone Manager only recognize the files in current folder. Files in subfolder cannot be recognized. Please select each folder for file encryption.
 * The password should contains lowercase letter, uppercase letter and numbers.
 * If you did not set password before, the **Setting** window will pop up to let you set the password for encryption.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Decrypt Files on PC Computer
@@ -69,7 +69,7 @@ In DearMob,
 ![Decrypt files on pc](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Export Files with Encryption
@@ -95,20 +95,17 @@ In DearMob,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nlightenment-echoes-best-ed-tutorials-yt-for-2024/"><u>[New] Enlightenment Echoes Best Ed Tutorials YT for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ten-essential-cam-covers-to-upgrade-your-security-for-2024/"><u>[New] Ten Essential Cam Covers to Upgrade Your Security for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-the-employment-lands-market-for-prompt-crafting/"><u>A Deep Dive Into the Employment Lands Market for Prompt Crafting</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-lost-songs-from-your-iphone-a-no-backup-guide/"><u>How to Recover Lost Songs From Your iPhone: A No-Backup Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-sms-conversations-a-guide-to-restoring-deleted-texts/"><u>How To Retrieve Lost SMS Conversations: A Guide To Restoring Deleted Texts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-rumors-of-sonys-next-gen-vr-setup-price-estimates-launch-window-and-specs-overview/"><u>Inside the Rumors of Sony's Next-Gen VR Setup: Price Estimates, Launch Window, and Specs Overview!</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1726227583001-movavi-video-editor/"><u>Movavi Video Editor: 高效下载与使用指南</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-lost-information-from-your-iphone-expert-guide-and-tips/"><u>Restoring Lost Information From Your iPhone: Expert Guide and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieving-lost-messages-essential-techniques-for-sms-recovery-on-your-device/"><u>Retrieving Lost Messages: Essential Techniques for SMS Recovery on Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-vanished-connections-a-step-by-step-guide-post-iphone-update-or-jailbreak/"><u>Reviving Your Vanished Connections: A Step-by-Step Guide Post-iPhone Update or Jailbreak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/saving-your-iphone-from-water-woes-top-3-techniques/"><u>Saving Your iPhone From Water Woes: Top 3 Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-restoring-deleted-photos-from-icloud-photo-streams-efficiently/"><u>Step-by-Step Tutorial: Restoring Deleted Photos From iCloud Photo Streams Efficiently</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/44ot44oh44kq55s76z2i44k144kk44k66kq5pw044go6kej5yop5bqm44cb44ki44k544oa44kv44oi5qplusu5asj5pu044gu5oml5byv44gn/"><u>ビデオ画面サイズ調整と解像度、アスペクト比変更の手引き</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-game-on-in-reality-the-ultimate-vr-headset-comparison/"><u>[New] Game On in Reality The Ultimate VR Headset Comparison</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] In 2024, Bring Imagination to Life Self-Animated Artistry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-engagement-with-pinterest-on-your-page-a-tutorial-for-facebook-users/"><u>Boost Engagement with Pinterest on Your Page: A Tutorial for Facebook Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-secret-ios-applications-a-step-by-step-guide/"><u>Discovering Secret iOS Applications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-when-your-discord-voice-chats-wont-connect/"><u>How to Resolve Problems When Your Discord Voice Chats Won't Connect</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-motorola-moto-g84-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Motorola Moto G84 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-11-proplus-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme 11 Pro+ to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-xs-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone XS in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-sms-texts-from-your-mac-a-step-by-step-guide/"><u>Retrieve Lost SMS Texts From Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-your-safari-bookmarks-from-an-itunes-data-backup/"><u>Step-by-Step Guide: Recovering Your Safari Bookmarks From an iTunes Data Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-6-ultimate-iphone-apps-for-restoring-lost-photographs/"><u>The 6 Ultimate iPhone Apps for Restoring Lost Photographs</u></a></li>
 </ul></div>
 

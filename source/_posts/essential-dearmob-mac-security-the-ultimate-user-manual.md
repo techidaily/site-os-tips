@@ -1,7 +1,7 @@
 ---
 title: "Essential DearMob Mac Security: The Ultimate User Manual"
-date: 2024-11-25T08:59:06.932Z
-updated: 2024-12-02T11:33:28.656Z
+date: 2024-12-09T02:31:08.779Z
+updated: 2024-12-10T05:20:56.417Z
 tags:
   - iphone-manager
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Encrypt iOS/Local Files on Mac
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 One way to protect iDevice backup is using iTunes. This time it won't be that complex. But if you are inclined to encipher local files or protect only part of iPhone files, an alternative is needed.
 
 By using [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) for Mac, you can encrypt photos, videos and contacts exported from iDevices at military grade; password protect local photos and videos on Mac; decrypt files with DearMob encryption anytime you want to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Encrypt Photos and Videos with Password on Mac
 
@@ -37,24 +41,20 @@ DearMob allows you to,
 
 ![Add file for encryption on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Click **Encrypt Now** and the **Settings** window would pop up.  
  4\. Check the box "I've already know...", enter your new password, and then click OK.
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 * You can apply the same passwords to Photo, Video and Contact encryption.
 * Create your password with numbers, uppercase letter and lowercase letter.
 * The **Setting** window would pop out for you to set password for encryption, if you didn't set it before.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Decrypt Files Encrypted by DearMob on Mac
 
@@ -63,18 +63,18 @@ DearMob allows you to,
 
 ![Decrypt files on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * DearMob only decrypts files that were enciphered by DearMob iPhone Manager itself.
 * Tick **Temporarily save password** to remember your decode password for all decryptions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Export Video, Photo, Contact with Password on Mac
 
@@ -99,24 +99,20 @@ DearMob allows you to,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nhancing-video-discoverability-with-ideal-thumbnail-widths-and-height/"><u>[New] Enhancing Video Discoverability with Ideal Thumbnail Widths and Height</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/abbyy-cloud-your-ultimate-solution-for-seamless-document-conversion-and-automation/"><u>Abbyy Cloud: Your Ultimate Solution for Seamless Document Conversion and Automation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/compatibility-check-can-the-nintendo-switch-play-netflix-shows-and-movies/"><u>Compatibility Check: Can The Nintendo Switch Play Netflix Shows and Movies?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-move-icloud-files-and-photos-to-your-android-smartphone/"><u>How To Effortlessly Move iCloud Files and Photos to Your Android Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-sell-your-aged-iphone-with-ease-and-boost-its-resale-value-ultimate-tutorial/"><u>How To Sell Your Aged iPhone with Ease & Boost Its Resale Value - Ultimate Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-pro-max-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Max Without Passcode Now</u></a></li>
-<li><a href="https://os-tips.techidaily.com/itunes-data-preservation-explained-techniques-and-storage-insights/"><u>ITunes Data Preservation Explained: Techniques & Storage Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-your-iphones-itunes-backup-passphrase-effortless-recovery-steps-inside/"><u>Lost Your iPhone's iTunes Backup Passphrase? Effortless Recovery Steps Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-cloud-storage-ultimate-steps-for-uploading-and-protecting-music-on-icloud/"><u>Mastering Cloud Storage: Ultimate Steps for Uploading and Protecting Music on iCloud</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pixel-perfection-leading-ps5-compatible-hdmi-21-monitors-for-2024/"><u>Pixel Perfection Leading PS5 Compatible HDMI 2.1 Monitors for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-data-effective-ways-to-backup-a-locked-iphone-step-by-step/"><u>Protect Your Data: Effective Ways to Backup a Locked iPhone Step by Step</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-iphone-data-transfer-icloud-itunes-and-third-party-options-a-step-by-step-guide/"><u>Seamless iPhone Data Transfer: ICloud, iTunes & Third-Party Options - A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-and-effective-discover-the-best-techniques-for-hassle-free-ipad-data-protection/"><u>Simple and Effective: Discover the Best Techniques for Hassle-Free iPad Data Protection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-guide-5-effortless-methods-to-back-up-your-iphone-applications/"><u>Simple Guide: 5 Effortless Methods to Back Up Your iPhone Applications</u></a></li>
-<li><a href="https://win-tips.techidaily.com/the-ultimate-solution-for-fixing-error-codes-0xa0a004244-and-0xc00da-bee-expert-tips-and-guidance/"><u>The Ultimate Solution for Fixing Error Codes 0xA0A004244 & 0xC00DA Bee: Expert Tips and Guidance</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/toolkit-software-articles-and-diy-tricks-by-stellar/"><u>Toolkit Software Articles & DIY Tricks by Stellar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-6-key-factors-leading-to-constant-car-battery-issues/"><u>Unveiling 6 Key Factors Leading to Constant Car Battery Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wwdc-2024-spotlight-explore-the-new-and-improved-features-of-apple-carplay-whats-hot-in-your-dashboard-now-cnet/"><u>WWDC 2024 Spotlight: Explore the New and Improved Features of Apple CarPlay - What's Hot in Your Dashboard Now | CNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-into-the-future-jaunt-vrs-potential-explored/"><u>[New] 2024 Approved Into the Future Jaunt VR's Potential Explored</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>[New] 2024 Approved The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-endings-that-wow-ranked-for-you-top-6/"><u>[New] In 2024, Free Endings That Wow - Ranked for You (Top 6)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-beyond-the-norm-redefining-fun-with-vr-technology/"><u>[Updated] Beyond the Norm Redefining Fun with VR Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adjusting-windows-11-settings-for-adaptive-hdr/"><u>Adjusting Windows 11 Settings for Adaptive HDR</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-androids-speed-with-these-10-essential-optimization-tools-and-cleaning-applications/"><u>Boost Your Android's Speed with These 10 Essential Optimization Tools and Cleaning Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discover-the-art-of-live-discord-recording/"><u>Discover the Art of Live Discord Recording</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-easiest-ways-to-remove-tiktok-watermarks-online/"><u>Discover the Easiest Ways to Remove TikTok Watermarks Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-approaches-for-image-collections-acquisition/"><u>Innovative Approaches for Image Collections Acquisition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-safeguarding-your-motorola-content-on-pcs-in-the-cloud-or-across-phones/"><u>Quick Guide: Safeguarding Your Motorola Content on PCs, in the Cloud, or Across Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-enable-lg-device-sync-and-recovery-with-cloud-or-computer/"><u>Step-by-Step Guide: Enable LG Device Sync & Recovery with Cloud or Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-preserving-data-on-android-devices-prior-to-unlocking-the-bootloader/"><u>Step-by-Step Tutorial: Preserving Data on Android Devices Prior to Unlocking the Bootloader</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-protecting-information-by-backing-up-android-devices/"><u>Step-by-Step Tutorial: Protecting Information by Backing up Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-effective-ways-to-securely-backup-your-android-device/"><u>Top 3 Effective Ways to Securely Backup Your Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-full-fledged-backup-solutions-for-samsung-galaxy-smartphones-s4s5s6s7/"><u>Ultimate Tutorial: Full-Fledged Backup Solutions for Samsung Galaxy Smartphones (S4/S5/S6/S7)</u></a></li>
 </ul></div>
 

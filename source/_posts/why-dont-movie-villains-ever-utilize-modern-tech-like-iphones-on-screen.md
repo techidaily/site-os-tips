@@ -1,7 +1,7 @@
 ---
 title: Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
-date: 2024-11-28T08:09:39.070Z
-updated: 2024-12-02T12:12:04.897Z
+date: 2024-12-05T20:11:33.576Z
+updated: 2024-12-09T19:51:47.762Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Apple products are extremely prevalent in TV shows and movies, but the company doesn't pay for product placement. Apple is more than happy to provide MacBooks, iPads, and iPhones to studios, but there's one unique stipulation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Does Product Placement Work?
@@ -35,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  According to [Bloomberg](https://www.bloomberg.com/news/articles/2012-05-10/apple-the-other-cult-in-hollywood), Apple does not pay for product placement, at least not with money. Instead, it provides its devices to studios for free as props. Apple even [provided Modern Family](https://www.hollywoodreporter.com/tv/tv-news/modern-family-creator-explains-ipad-53367/) with the first iPad before it was available. It appeared in an episode two days before people could buy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple's Product Placement Rules
@@ -69,22 +69,20 @@ Related: [Why Do TV Shows and Movies Cover Up Logos?](https://driver-download.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-viral-video-hits-compilation/"><u>[Updated] 2024 Approved Facebook's Viral Video Hits Compilation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-creating-temporal-distortions-a-guide-to-movie-magic/"><u>[Updated] Creating Temporal Distortions A Guide to Movie Magic</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-tactics-to-record-lol-clashes-for-2024/"><u>[Updated] Ultimate Tactics to Record LOL Clashes for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1728480714694-windows-11-ssd/"><u>如何在Windows 11下实现 SSD 数据迁移：两种策略的全面指南</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comment-remplacer-lhdd-primaire-par-un-ssd-sur-windows-1011-en-preservant-tous-vos-fichiers/"><u>Comment Remplacer L'HDD Primaire Par Un SSD Sur Windows 10/11 en Préservant Tous Vos Fichiers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-unresponsive-steam-graphics-in-windows/"><u>Correcting Unresponsive Steam Graphics in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-c67-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme C67 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-eye-tracking-feature-set-to-launch-on-iphone-and-ipad/"><u>New Eye-Tracking Feature Set to Launch on iPhone & iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/one-finger-technique-for-quickly-expanding-views-in-google-maps-for-better-navigation/"><u>One-Finger Technique for Quickly Expanding Views in Google Maps for Better Navigation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/premium-nomad-base-one-max-triple-functionality-breakdown-in-depth-guide-on-the-advanced-magsafe-battery-charger/"><u>Premium Nomad Base One Max Triple Functionality Breakdown: In-Depth Guide on the Advanced MagSafe Battery Charger</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protective-measures-for-your-ipad-trust-in-esrs-expertise/"><u>Protective Measures for Your iPad? Trust in ESR’s Expertise</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tip-seamlessly-cutting-and-pasting-content-across-ios-and-macos-devices/"><u>Quick Tip: Seamlessly Cutting and Pasting Content Across iOS & macOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/release-memory-clog-by-decluttering-apple-mail-a-comprehensive-guide-for-ios-devices/"><u>Release Memory Clog by Decluttering Apple Mail: A Comprehensive Guide for iOS Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y100-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y100 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionize-your-iphones-display-potential-using-the-standby-feature/"><u>Revolutionize Your iPhone's Display Potential Using the Standby Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-smartphones-the-alluring-titanium-and-cutting-edge-usb-c-of-apples-new-iphone-15-pro-unveiled/"><u>Revolutionizing Smartphones: The Alluring Titanium and Cutting-Edge USB-C of Apple's New iPhone 15 Pro Unveiled!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/seamless-changeover-a-comprehensive-list-of-free-transformer-tools/"><u>Seamless Changeover A Comprehensive List of Free Transformer Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-enhancing-focus-with-bigger-youtube-videos/"><u>[New] 2024 Approved Enhancing Focus with Bigger YouTube Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>[New] In 2024, 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-rapid-ascension-harness-likes-and-videos-for-insta-success/"><u>[New] In 2024, Rapid Ascension Harness Likes & Videos for Insta Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>[Updated] The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-syncing-sound-and-visuals-a-movie-maker-technique/"><u>2024 Approved Syncing Sound and Visuals A Movie Maker Technique</u></a></li>
+<li><a href="https://win-online.techidaily.com/micro-sd/"><u>Micro SD卡上删除视频的恢复方法：详解</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-iphone-enhancements-and-journaling-with-apples-latest-ios-172-software-upgrade/"><u>New iPhone Enhancements & Journaling with Apple's Latest iOS 17.2 Software Upgrade</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-pc-gaming-glitches-how-to-keep-your-star-wars-battlefront-ii-crash-free/"><u>Overcoming PC Gaming Glitches: How to Keep Your Star Wars: Battlefront II Crash-Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reasons-to-skip-the-purchase-of-iphone-16-is-apple-smart-enough/"><u>Reasons to Skip the Purchase of iPhone 16: Is Apple Smart Enough?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-kitchen-companion-plugable-pt-stand1-a-dynamic-rotating-ipad-stand/"><u>Revolutionary Kitchen Companion: Plugable PT-STAND1 - A Dynamic, Rotating iPad Stand</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-new-9th-generation-ipad-at-an-unbeatable-price-of-250-best-deal-available/"><u>Secure Your New 9Th Generation iPad at an Unbeatable Price of $250 - Best Deal Available!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/smartphone-sleuthing-methods-for-finding-and-exposing-stealth-surveillance-cameras-in-your-vicinity/"><u>Smartphone Sleuthing: Methods for Finding and Exposing Stealth Surveillance Cameras in Your Vicinity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphone-call-issue-why-your-phone-isnt-ringing-and-12-solutions/"><u>Solving iPhone Call Issue: Why Your Phone Isn't Ringing & 12 Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/spin-and-scale-new-heights-with-the-plugable-pt-stand1-the-ultimate-kitchen-friendly-ipad-support-system/"><u>Spin and Scale New Heights with the Plugable PT-STAND1 – The Ultimate Kitchen-Friendly iPad Support System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/shing-potential-a-treasury-of-youtube-themes-for-channels-for-2024/"><u>Unleashing Potential A Treasury of YouTube Themes for Channels for 2024</u></a></li>
 </ul></div>
 

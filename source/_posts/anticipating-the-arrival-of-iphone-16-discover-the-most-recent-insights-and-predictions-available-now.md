@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-date: 2024-11-28T16:21:21.127Z
-updated: 2024-12-02T13:20:59.054Z
+date: 2024-12-06T21:14:41.628Z
+updated: 2024-12-10T01:22:01.408Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,10 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The iPhone 16 Ultra?](https://extra-skills.techidaily.com/in-2024-instantly-fashion-company-symbols-with-open-source-tools/)
 * [Speculation and Rumor](https://instagram-video-files.techidaily.com/engage-viewers-with-3-innovative-description-styles-on-instagram-vids-for-2024/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * A new A18 system-on-chip is likely to arrive in both the iPhone 16 and 16 Pro, potentially with an "A18 Pro" faster version.
@@ -38,19 +38,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s almost time for Apple to unveil 2024’s iPhone lineup, and the rumor mill is swirling. While we won’t know for sure until Apple’s September event, let’s take a look at what leaks and speculation suggest is coming this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A New A18 System-on-Chip
 
  If there’s one change that’s pretty much guaranteed in the iPhone 16 and 16 Pro, it’s that Apple will be upgrading the guts of the device. MacRumors [reports](https://www.macrumors.com/2024/03/01/chip-details-of-16-upcoming-apple-devices-revealed/) that a private X (Twitter) account with a proven track record claims that both the iPhone 16 and its Pro counterpart will use an A18 [system-on-chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC).
 
 ![Apple A17 Pro SoC found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro_iphone.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  Apple may reserve the highest-performing chips for the more expensive model, with possible “A18 Pro” style branding. This should be a decent upgrade for the base-model iPhones considering the iPhone 15’s use of the older A16 SoC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  No More Mute Switch for the iPhone 16
 
@@ -63,10 +67,6 @@ Justin Duino / How-To Geek
  So-called dummy iPhone 16 models posted by X (Twitter) user [Sonny Dickson](https://x.com/SonnyDickson/status/1775704247348412559?s=20) depict a full range of iPhone models with an Action button in place of the mute toggle. As per the iPhone 15 Pro, this button can be used in the same way or reprogrammed. This allows you to use the button for other purposes like triggering a Shortcut, recording a voice memo, and turning on your device’s flashlight.
 
  On the iPhone 15 Pro, mute functionality can be accessed via Control Center instead. For those of us whose iPhones are always muted, the loss of a physical toggle in favor of more useful button would be a win.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A New Capture Button
 
@@ -82,6 +82,10 @@ Justin Duino / How-To Geek
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  If the rumors are true then that would leave only the telephoto camera at 12 megapixels, though The Elec [reports](https://www.thelec.kr/news/articleView.html?idxno=24491) that both iPhone 16 Pro models will see a 5x magnification (not just the Max model).
@@ -91,10 +95,6 @@ Tyler Hayes / How-To Geek
  Another rumor tied to the dummy iPhone model leak suggests that Apple is increasing the size of its Pro Models in 2024 to 6.3” and 6.9”, up from 6.1” and 6.7” in the iPhone 15 Pro. The thickness of the device is not expected to change, but the weight will probably increase slightly.
 
  The base model iPhone 16 is not expected to differ in size from last year’s iPhone 15.; There are also no signs that Apple will bring back the [delightfully small iPhone mini](https://data-wizards.techidaily.com/bypassing-videography-errors-with-simple-fixes/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Slightly Better Display Technology
 
@@ -112,26 +112,18 @@ Hannah Stryker / How-To Geek
 
  Both upgrades are welcome, with [Wi-Fi 7 bringing speeds of around 30Gbps](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) and [Wi-Fi 6E utilizing the 6GHz band](https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/) to top out at around 9.6Gbps. You will of course need a router compatible with these standards, and that router will need to support whatever speeds you hope to achieve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  8GB of RAM on All Models
 
  According to the same Jeff Pu report, Apple will be bumping the RAM up to 8GB in all models this year. Last year’s iPhone 15 Pro already had 8GB, but the base models only featured 6GB.
 
 ![The final form of Lady Dimitrescu from Resident Evil Village flies overhead on the iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3caf4670-5199-11ee-bf3f-d4673beffea4.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  Last year’s [iPhone 15 Pro was touted as a gaming beast](https://techidaily.com/how-to-soft-reset-lava-blaze-2-pro-phone-drfone-by-drfone-reset-android-reset-android/), and was one of a handful of mobile Apple devices able to run AAA games like _Resident Evil: Village_ and _Death Stranding_. Since this year’s models are rumored to be using the same or similar A18 systems-on-chip, increasing RAM allocation to close the gap makes sense if Apple wants to tempt more publishers to see the iPhone as more than just a mobile gaming platform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Slim Vertical Camera Bump for iPhone 16
@@ -144,11 +136,19 @@ Apple
 
  Since component prices have risen, it wouldn’t be surprising to see Apple increase the price of this year’s iPhone 16 and 16 Pro models. Apple didn’t increase the price of either the base or the Pro models last year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The iPhone 16 Ultra?
 
  It wouldn’t be a rumor roundup if we didn’t mention the iPhone Ultra, a long-rumored high-end variant of the iPhone. Rumors about this model first surfaced in 2023, but the device never materialized. A MacRumors [report](https://www.macrumors.com/2023/12/20/ios-18-code-four-new-iphone-models/) that iOS 18 refers only to four iPhone models has quelled speculation that a fifth high-end model could launch in September.
 
  Don’t hold your breath for this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Speculation and Rumor
 
@@ -171,22 +171,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/1721423315897-beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electric-car-charging-at-home-key-insights-and-tips/"><u>Electric Car Charging at Home: Key Insights and Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-90-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 90 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-virtual-venues-clash-obstwitch-live/"><u>In 2024, Virtual Venues Clash OBS/Twitch Live</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-a54-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy A54 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mobility-control-deactivation-in-w11/"><u>Mastering Mobility Control Deactivation in W11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-and-effective-methods-for-resolving-the-youtube-freeze-up-dilemma-no-more-unresponsive-errors/"><u>Quick & Effective Methods for Resolving the YouTube Freeze-Up Dilemma: No More 'Unresponsive' Errors!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-home-entertainment-the-formidable-impact-of-gamesirs-g8-galileo/"><u>Revolutionizing Home Entertainment: The Formidable Impact of GameSir's G8 Galileo</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safeguard-your-digital-memories-how-to-prevent-whatsapp-from-deleting-years-of-chats-and-media/"><u>Safeguard Your Digital Memories: How to Prevent WhatsApp From Deleting Years of Chats and Media</u></a></li>
-<li><a href="https://os-tips.techidaily.com/speed-assessment-of-iphone-15s-new-usb-c-charging-connector/"><u>Speed Assessment of iPhone 15'S New USB-C Charging Connector</u></a></li>
-<li><a href="https://os-tips.techidaily.com/steps-to-transfer-your-google-authenticator-tokens-seamlessly-between-devices/"><u>Steps to Transfer Your Google Authenticator Tokens Seamlessly Between Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/tackle-phone-distractions-a-guide-to-overcoming-digital-interruptions-in-4-simple-steps/"><u>Tackle Phone Distractions: A Guide to Overcoming Digital Interruptions in 4 Simple Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-apple-watch-as-a-guardian-angel-discover-9-potential-life-preserving-benefits/"><u>The Apple Watch as a Guardian Angel: Discover 9 Potential Life-Preserving Benefits</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-best-iphone-add-ons-exceptional-value-meets-innovation/"><u>The Best iPhone Add-Ons – Exceptional Value Meets Innovation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xr-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XR</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-long-lasting-test-of-a-biodegradable-phone-case-a-5-month-update/"><u>The Long-Lasting Test of a Biodegradable Phone Case - A 5-Month Update</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-advanced-techniques-in-youtube-video-editing/"><u>[New] 2024 Approved Cutting Edge Advanced Techniques in YouTube Video Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-edge-apps-for-mobile-screen-recording-for-2024/"><u>[New] Leading Edge Apps for Mobile Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems/"><u>[Updated] Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-dynamic-designs-drive-dazzling-tiktok-videos-quickly/"><u>[Updated] In 2024, Dynamic Designs Drive Dazzling TikTok Videos Quickly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-drone-picks-available-now-for-2024/"><u>[Updated] Top Drone Picks Available Now for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-turning-tails-into-heads-android-video-editing/"><u>[Updated] Turning Tails Into Heads Android Video Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-reno-11f-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo Reno 11F 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-12-fantastic-free-keyboard-proficiency-lessons-for-people-of-all-ages/"><u>Ultimate List of 12 Fantastic FREE Keyboard Proficiency Lessons for People of All Ages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-hidden-potential-discover-top-10-essential-imessage-functions-to-enhance-your-messaging-today/"><u>Unleash Hidden Potential: Discover Top 10 Essential iMessage Functions To Enhance Your Messaging Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-best-gaming-plans-for-smartphones-comprehensive-guide/"><u>Unlock the Best Gaming Plans for Smartphones - Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-compatibility-how-your-ipad-can-connect-to-usb-enabled-webcams-and-cameras/"><u>Upcoming Compatibility: How Your iPad Can Connect to USB-Enabled Webcams & Cameras</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-its-time-to-embrace-plastic-over-titanium-for-future-iphone-models/"><u>Why It's Time to Embrace Plastic over Titanium for Future iPhone Models</u></a></li>
 </ul></div>
 

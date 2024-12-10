@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2024-11-26T02:32:55.686Z
-updated: 2024-12-01T18:29:58.930Z
+date: 2024-12-04T20:25:14.289Z
+updated: 2024-12-10T01:29:14.939Z
 tags:
   - ios
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Creating Cutouts is Easy
 
  As long as you have an iPhone XS or second-generation iPhone SE or newer, creating a cutout is so easy you’ll probably do it by mistake. You can [isolate subjects in photos](https://extra-support.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/) including people, pets, and inanimate objects like signs or clothing.
@@ -33,7 +37,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Isolating a subject from an image in iPhone Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1922.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -55,10 +59,14 @@ Tim Brookes / How-To Geek
 ![iPhone stickers for use in iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1924.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create a Mood Board
 
@@ -80,19 +88,11 @@ Tim Brookes / How-To Geek
 
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use Them in Instagram Stories
 
  Once you’ve copied a subject to your clipboard, using it in an Instagram story is easy if you know how. Once you’ve got your background sorted, you can tap anywhere within the frame to add text. Tap again to reveal the “Paste” option and use it to add a subject from your clipboard to your story.
 
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -115,7 +115,7 @@ Tim Brookes / How-To Geek
 ![Adding a subject to a Google Doc using the iPhone paste functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1929.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -153,22 +153,19 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-practical-approach-to-using-screencastify-for-video-capture/"><u>[New] 2024 Approved A Practical Approach to Using Screencastify for Video Capture</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-your-visual-content-perfectly-place-icons-and-emojis-on-instagram/"><u>[New] In 2024, Elevate Your Visual Content Perfectly Place Icons & Emojis on Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-podcast-utilities-for-windows-top-8-picks/"><u>[New] Premium Podcast Utilities for Windows (Top 8 Picks)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tailored-approach-boosting-fans-via-page-ranking/"><u>[New] Tailored Approach Boosting Fans via Page Ranking</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-audibly-enhance-videos-shared-as-tweets-for-2024/"><u>[Updated] Audibly Enhance Videos Shared as Tweets for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-new-innovative-apple-applications-can-substitute-itunes-for-windows-users/"><u>Discover How New Innovative Apple Applications Can Substitute iTunes for Windows Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-undiscovered-markdown-and-notetaking-tool-a-hidden-gem/"><u>Discover the Ultimate Undiscovered Markdown & Notetaking Tool: A Hidden Gem!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-local-air-purity-a-comprehensive-guide-on-monitoring-atmospheres-health/"><u>Discovering Local Air Purity: A Comprehensive Guide on Monitoring Atmosphere's Health</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-and-test-drive-the-newly-released-ios-18-beta-version/"><u>Download and Test Drive the Newly Released iOS 18 Beta Version!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tutorial-ios-print-functionality-explained/"><u>Easy Tutorial: IOS Print Functionality Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-for-monitoring-sleep-quality-with-your-apple-watch/"><u>Effective Strategies for Monitoring Sleep Quality with Your Apple Watch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-mobile-photography-why-upgrading-your-phones-camera-is-a-must/"><u>Elevate Your Mobile Photography: Why Upgrading Your Phone's Camera Is a Must</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-mental-health-through-iphone-monitoring-techniques/"><u>Enhancing Mental Health Through iPhone Monitoring Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>In 2024, Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-anycubic-kobra-3-with-multi-color-capabilities/"><u>In-Depth Review of the Anycubic Kobra 3 with Multi-Color Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-hardware-evaluations-by-toms-technology-experts/"><u>Pioneering Hardware Evaluations by Tom's Technology Experts</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/save-and-enjoy-nba-matches-anywhere-easy-steps-for-downloading-videos-as-mp4-mov-avi-flv-wmv-or-mkv/"><u>Save & Enjoy NBA Matches Anywhere: Easy Steps for Downloading Videos as MP4, MOV, AVI, FLV, WMV or MKV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[New] 2024 Approved 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-bring-out-the-vibes-of-your-channel-top-10-online-artists-unite/"><u>[Updated] 2024 Approved Bring Out the Vibes of Your Channel Top 10 Online Artists Unite</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-jumpstart-your-virtual-engagement-with-these-tips-for-livestreams-for-2024/"><u>[Updated] Jumpstart Your Virtual Engagement with These Tips for Livestreams for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286322530-ai/"><u>AIを活用した最強画像・動画エンハンスメントツール 完全無料版 - ウィンクスビデオ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-kindle-paperwhite-user-manual-how-to-update-and-set-device-time-accurately/"><u>Amazon Kindle Paperwhite User Manual: How to Update and Set Device Time Accurately</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-airpods-experience-with-the-game-changing-conversation-awareness-feature-activate-now/"><u>Boost Your AirPods Experience with the Game-Changing Conversation Awareness Feature - Activate Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-clutter-on-icloud-a-step-by-step-guide-to-reclaim-storage/"><u>Clearing Clutter on iCloud - A Step-by-Step Guide to Reclaim Storage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-ringtone-crafting-how-to-make-unique-tones-for-your-iphone/"><u>DIY Ringtone Crafting: How to Make Unique Tones for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-switching-from-heic-picture-files-to-jpgs-for-iphone-and-ipad-users/"><u>Easy Guide: Switching From HEIC Picture Files to JPGs for iPhone & iPad Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoying-portable-steam-games-a-world-beyond-the-steam-deck/"><u>Enjoying Portable Steam Games: A World Beyond the Steam Deck</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-to-nomad-tracker-cards-the-ultimate-wallet-companion/"><u>Essential Guide to Nomad Tracker Cards: The Ultimate Wallet Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/imitation-bot-aid-filches-fb-usernames-and-passes/"><u>Imitation Bot Aid: Filches FB Usernames & Passes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-high-end-camcorders-for-impeccable-4k-quality-top-18/"><u>In 2024, High-End Camcorders for Impeccable 4K Quality (Top 18)</u></a></li>
 </ul></div>
 

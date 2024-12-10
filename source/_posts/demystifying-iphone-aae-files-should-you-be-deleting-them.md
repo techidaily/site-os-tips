@@ -1,7 +1,7 @@
 ---
 title: "Demystifying iPhone AAE Files: Should You Be Deleting Them?"
-date: 2024-11-30T22:31:02.802Z
-updated: 2024-12-02T08:06:45.058Z
+date: 2024-12-04T04:21:57.118Z
+updated: 2024-12-09T17:25:34.679Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ## Demystifying iPhone AAE Files: Should You Be Deleting Them?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Are AAE Files?](https://facebook-clips.techidaily.com/must-collect-blog-for-business-8-trending-videos-on-facebook-for-2024/)
@@ -22,12 +18,20 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * [Do I Need to Save AAE Files?](https://screen-recording.techidaily.com/updated-in-2024-endless-video-recording-program/)
 * [Can You Open an AAE File?](https://extra-hints.techidaily.com/in-2024-best-gopro-tools-for-deep-sea-cinematography/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AAE files are created by the Apple Photos app to track edits made to photos, allowing you to undo changes at any time.
 * AAE files can only be opened and read by the Apple Photos app, and are not very useful outside of Apple's platforms.
 
  If you transfer photos from an iPhone or iPad to a Windows PC, you might see some files with the extension "AAE" stored along with the images. We'll explain this mysterious file type and what you should do with them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Are AAE Files?
 
@@ -39,11 +43,11 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ![AAE Files and corresponding HEIC files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2023-10-31_09h49_10.png) 
 
- In this case, we opened up our iPhone with Windows Explorer and found two related files: the original image (IMG\_0244.HEIC) and the corresponding AAE file (IMG\_0244.AAE). 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ In this case, we opened up our iPhone with Windows Explorer and found two related files: the original image (IMG\_0244.HEIC) and the corresponding AAE file (IMG\_0244.AAE). 
 
 ##  What Does AAE Stand For?
 
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  Apple first introduced AAE files in iOS 8 and in Mac OS X 10.10 Yosemite in 2014 around the same time that they [announced discontinuing Apple Aperture](https://support.apple.com/en-us/HT209594) and iPhotos in favor of the then-new Photos app, so this theory makes sense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Do I Need to Save AAE Files?
@@ -60,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  If you plan to permanently keep your iPhone photos on a platform that doesn't support the Apple Photos app, such as Windows or Linux, you don't need to save any AAE files. It's safe to delete them.
 
  If you'd like to open the files again later on a Mac, iPhone, or iPad, you could keep the AAE files with your original photos in the same directory, and the Photos app should be able to read them. In doing so, Photos will be able to see the edits you originally made in the Photos app before transferring your images to a non-Apple platform.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can You Open an AAE File?
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 ![The contents of an AAE file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/text-of-an-aae-file.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Photos app on iPhone, iPad, and Mac uses those AAE files silently in a way that's transparent to the user, so you don't have to worry about "opening" them on those platforms, either. If AAE files exist in the same folder as the photos that they refer to, Photos will know how to use them automatically. Good luck!
@@ -94,24 +94,19 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-elevate-your-video-presentations-applying-zoom-filters-guide/"><u>[New] In 2024, Elevate Your Video Presentations Applying Zoom Filters Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-audio-format-switches-srt-to-ssa-and-more/"><u>[New] Mastering Audio Format Switches SRT to SSA & More</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-optimal-metaverse-displays-the-ultimate-8-picks-for-2024/"><u>[New] Optimal Metaverse Displays The Ultimate 8 Picks for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-restore-lost-sounds-to-twitter-vids/"><u>[New] Restore Lost Sounds to Twitter Vids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-speedy-pace-fb-videos-innovative-apps-and-proxies-ensuring-faster-uploaddownload/"><u>[Updated] Speedy Pace FB Videos Innovative Apps & Proxies Ensuring Faster Upload/Download</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>2024 Approved Unmatched Mounting Best Tripod Solutions for Smartphones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unparalleled-8-visual-augmentations-for-live-cams/"><u>2024 Approved Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-ringtone-crafting-how-to-make-unique-tones-for-your-iphone/"><u>DIY Ringtone Crafting: How to Make Unique Tones for Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-switching-from-heic-picture-files-to-jpgs-for-iphone-and-ipad-users/"><u>Easy Guide: Switching From HEIC Picture Files to JPGs for iPhone & iPad Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enjoying-portable-steam-games-a-world-beyond-the-steam-deck/"><u>Enjoying Portable Steam Games: A World Beyond the Steam Deck</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-guide-to-nomad-tracker-cards-the-ultimate-wallet-companion/"><u>Essential Guide to Nomad Tracker Cards: The Ultimate Wallet Companion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-customizing-your-apple-watchs-activity-log-with-offline-workouts/"><u>Expert Tips: Customizing Your Apple Watch's Activity Log with Offline Workouts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-enhanced-privacy-features-in-the-latest-update-of-google-maps-for-ios-and-android-devices/"><u>Explore Enhanced Privacy Features in the Latest Update of Google Maps for iOS & Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-access-to-apple-developer-beta-versions-risky-move-or-great-opportunity/"><u>Free Access to Apple Developer Beta Versions: Risky Move or Great Opportunity?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-ready-upcoming-iphone-tap-to-pay-functionality-through-external-app-developers/"><u>Get Ready! Upcoming iPhone Tap-to-Pay Functionality Through External App Developers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-does-the-iphone-handle-urgent-alerts-and-reminders/"><u>How Does the iPhone Handle Urgent Alerts and Reminders?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-essential-tips-for-gif-creation/"><u>In 2024, Essential Tips for GIF Creation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/launch-quest-conquering-the-hogwarts-legacy-troubleshooting-challenges-of-2024/"><u>Launch Quest: Conquering the Hogwarts Legacy Troubleshooting Challenges of 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-find-your-perfect-mac-live-streamer-from-here-for-2024/"><u>[New] Find Your Perfect Mac Live Streamer From Here for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-unveiling-the-very-best-storytelling-yt-channels-of-2023/"><u>[Updated] In 2024, Unveiling the Very Best Storytelling YT Channels of 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-request-for-access-to-entirety-of-shared-media-on-digital-chats/"><u>[Updated] Request for Access to Entirety of Shared Media on Digital Chats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-places-for-accessible-photography-loot/"><u>2024 Approved Top 10 Places for Accessible Photography Loot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/four-week-update-on-ios-18-experience-a-comprehensive-review/"><u>Four Week Update on iOS 18 Experience - A Comprehensive Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-activating-dfu-and-recovery-modes-on-iphones-and-ipads/"><u>Guide: Activating DFU & Recovery Modes on iPhones and iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/hands-on-review-of-the-vibrant-nomad-glow-in-the-dark-sports-band-for-apple-watch/"><u>Hands-On Review of the Vibrant Nomad Glow-in-the-Dark Sports Band for Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-often-should-you-charge-your-airtags-duration-of-use-explored/"><u>How Often Should You Charge Your AirTags? Duration of Use Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-11-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 11 without losing data?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-troubleshoot-issues-with-receiving-texts-from-iphones/"><u>How to Troubleshoot Issues with Receiving Texts From iPhones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-comprehensive-compilation-of-world-class-e-learning-sites-minus-udemy/"><u>In 2024, Comprehensive Compilation of World-Class E-Learning Sites (Minus Udemy)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-realme-gt-3-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme GT 3 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-10-streamers-for-real-time-television-content-for-2024/"><u>Top 10 Streamers for Real-Time Television Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-power-of-the-ipad-pro-a-distinctive-tech-marvel-beyond-the-macbook-in-depth-analysis-by-zdnet/"><u>Unveiling the Power of the IPad Pro – A Distinctive Tech Marvel Beyond the MacBook | In-Depth Analysis by ZDNET</u></a></li>
 </ul></div>
 

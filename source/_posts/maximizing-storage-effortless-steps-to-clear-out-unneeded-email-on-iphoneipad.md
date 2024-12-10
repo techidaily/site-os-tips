@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad"
-date: 2024-11-26T13:14:49.272Z
-updated: 2024-12-01T22:59:43.838Z
+date: 2024-12-04T04:41:09.707Z
+updated: 2024-12-10T01:52:34.421Z
 tags:
   - ios
 categories:
@@ -34,16 +34,12 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Open Settings, then go to General > iPhone Storage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-iphone-storage.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down in the list and look for the Mail app. This displays how much space is used by "Mail and Attachments." 
 
 ![The Mail app in the storage list. It shows 125 megabytes in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-mail.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Bad Solution: Manually Delete Emails
@@ -54,15 +50,19 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Tap the three-line button in the bottom left, then tap the "Filter By" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-tap-three-line-button-tap-filter-by.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap the toggle next to 
 
 ![Filters from the mail app, including "Only Mail with Attachments," "Only from VIP," and "Only Mail Sent Today."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-only-mail-with-attachments.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **You probably don't want to do this!** Any emails you delete from your phone will be deleted from the server if you [use IMAP for your email](https://fox-glue.techidaily.com/2024-approved-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/), which you probably do. Even if this wasn't a problem, this would take a long time. There's also no way to delete an attachment from an email—you just have to delete the entire email.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Better Solution: Remove and Re-Add the Account
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![Limit the size of IMAP folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-folder-size-limits.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Another Email App instead of Mail
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
  Once you set up your new email app, you can then remove your email accounts from the built-in Mail app using the instructions above, and it won't download emails or use any space at all. If you want to keep syncing calendars and contacts with an account but not use it in the Mail app, head to Settings > Mail > Accounts, tap the name of an account and disable the "Mail" slider for that account. You'll still have your address book and calendar, but email won't take up any space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Delete the Entire Mail App 
@@ -129,20 +129,20 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-accelerated-sound-adjustment-apps-overview/"><u>[New] 2024 Approved Accelerated Sound Adjustment Apps Overview</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-youtube-brand-visuals-the-ultimate-creation-guide/"><u>[New] In 2024, Mastering YouTube Brand Visuals The Ultimate Creation Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-seamless-addition-youtube-videos-into-google-slides/"><u>[New] In 2024, Seamless Addition YouTube Videos Into Google Slides</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-champion-smartphones-top-picks-for-excellent-video-quality/"><u>[Updated] Champion Smartphones Top Picks for Excellent Video Quality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-efficiency-in-social-media-sharing-tweets-with-snapchat-for-2024/"><u>[Updated] Efficiency in Social Media Sharing Tweets with Snapchat for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-ipad-voice-capture-strategies/"><u>[Updated] In 2024, Ultimate Guide IPad Voice Capture Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/oregon-enacts-groundbreaking-right-to-repair-legislation-targeting-tech-giants-proprietary-components/"><u>Oregon Enacts Groundbreaking Right-to-Repair Legislation Targeting Tech Giants' Proprietary Components</u></a></li>
-<li><a href="https://os-tips.techidaily.com/pros-and-cons-monitoring-your-furry-friends-with-airtags-is-it-worth-the-try/"><u>Pros and Cons: Monitoring Your Furry Friends with AirTags - Is It Worth the Try?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-easy-methods-for-sharing-images-via-imessage/"><u>Quick and Easy Methods for Sharing Images via iMessage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ready-for-a-new-iphone-now-expert-guide-selecting-your-perfect-device-from-todays-apple-selection/"><u>Ready for a New iPhone Now? Expert Guide: Selecting Your Perfect Device From Today’s Apple Selection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-alerts-anticipated-remedies-for-iphones-glitchy-clock-applications/"><u>Reviving Alerts: Anticipated Remedies for iPhone's Glitchy Clock Applications</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rode-streamer-pro-x-is-it-your-ticket-to-cinematic-success/"><u>Rode Streamer Pro X - Is It Your Ticket To Cinematic Success?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stay-alert-with-wazes-real-time-notifications-for-speed-limits-curves-and-road-hazards/"><u>Stay Alert with Waze's Real-Time Notifications for Speed Limits, Curves, and Road Hazards</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-adjusting-your-iphones-alarm-sound-level/"><u>Step-by-Step Guide: Adjusting Your iPhone's Alarm Sound Level</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-resolve-availability-issues-on-destiny-2-game-servers/"><u>Steps to Resolve Availability Issues on Destiny 2 Game Servers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audio-anomalies-top-disruptive-apps-on-the-go/"><u>[New] 2024 Approved Audio Anomalies Top Disruptive Apps on the Go</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-joke-jingles-guide-best-ringtones-online/"><u>[New] Joke Jingles Guide Best Ringtones Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-sounds-for-video-creators-royalty-free-options/"><u>[New] Top Sounds for Video Creators Royalty-Free Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-toolkit-3d-video-entrances-ranked/"><u>2024 Approved The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-fixes-resolving-game-disc-compatibility-problems-with-the-nintendo-wii/"><u>Essential Fixes: Resolving Game Disc Compatibility Problems with the Nintendo Wii</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-enhanced-entertainment-apple-airplay-integration-in-hotel-tv-systems/"><u>Experience Enhanced Entertainment: Apple AirPlay Integration in Hotel TV Systems!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-iphones-and-viruses-why-traditional-antivirus-might-not-be-necessary/"><u>Exploring iPhones and Viruses: Why Traditional Antivirus Might Not Be Necessary</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-basics-of-backward-wireless-energy-transfer/"><u>Exploring the Basics of Backward Wireless Energy Transfer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-data-transfer-rates-of-the-latest-iphone-15-usb-c-interface/"><u>Exploring the Data Transfer Rates of the Latest iPhone 15 USB-C Interface</u></a></li>
+<li><a href="https://os-tips.techidaily.com/galileo-by-gamesir-a-powerhouse-in-the-realm-of-console-gaming/"><u>Galileo by GameSir: A Powerhouse in the Realm of Console Gaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improve-ipad-performance-apple-quality-over-size/"><u>Improve iPad Performance: Apple - Quality Over Size!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-become-an-nft-expert-with-these-top-7-creative-tools/"><u>In 2024, Become an NFT Expert with These Top 7 Creative Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-free-and-best-text-to-speech-generators/"><u>Top 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-from-toms-computer-review/"><u>Unveiling the Latest From Tom's Computer Review</u></a></li>
 </ul></div>
 

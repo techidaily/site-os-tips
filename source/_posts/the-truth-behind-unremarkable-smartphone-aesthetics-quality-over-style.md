@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style"
-date: 2024-12-01T08:40:30.349Z
-updated: 2024-12-02T01:54:35.339Z
+date: 2024-12-08T04:33:17.843Z
+updated: 2024-12-10T03:55:47.987Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 ## The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 * [Redesigning Hardware Is Less Sustainable](https://win-howtos.techidaily.com/how-to-fix-nier-automata-crashes-on-your-windows-computer/)
 * [Even Techies Don't Want Change As Much As We Think We Do](https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Good smartphones designs remain consistent in part because there are limited ways to make powerful, durable, and comfortable devices.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
  It's exciting when a new phone feels completely different from what came before. Thing is, that's not what most people actually want. When a smartphone design is good, we want it to stay good, and frankly, most modern phones are good. That phones largely look the same year after year is actually a blessing, not a curse.
 
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  We've Figured Out How to Make Good Phones
 
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Most people don't closely follow the release of every new phone. They buy their phone, they wait two or three years, and then they get a new one. If they like the phone they have, then they probably look for a phone similar to the one they already own.
@@ -59,6 +63,10 @@ Tyler Hayes / How-To Geek
  Now that all phones are similarly shaped slabs, people tell the difference between brands by the differences in their design. iPhones have their cameras arranged in a square. Samsung's phones have three or more cameras lined up in a row. Pixel phones have a Star Trek-looking visor. OnePlus' phones have massive camera bumps that are a third of the size of the phone.
 
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Can Still Switch Brands to Try Something New
 
@@ -76,10 +84,6 @@ Tyler Hayes / How-To Geek
 
  This has worked in the iPhone's favor for a long time now. Each iPhone is a known quantity. The removal of the home button, the expansion of the screen size to fill the entire front of the device, and the addition of a camera bump are perhaps the most notable changes to the design of the phone since the release of the first model. This gradual evolution has meant that from year to year, each iPhone looks recognizable to people who own previous models. The software has expanded, but it has come with a degree of consistency that Android has not had over the same period of time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ​We're More Productive When Things Stay the Same
 
 ![Person using the Camera app to take photo with the Google Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53249989394_936f059fc3_o.jpg) 
@@ -95,7 +99,7 @@ Justin Duino / How-To Geek
  The Galaxy S23 Ultra may have looked near identical to its predecessor, but according to [Android Police](https://www.androidpolice.com/samsung-flagship-phones-apple-iphone-sales/), the former outsold the latter by over 6 million units. Samsung was not punished for keeping so much the same. If anything, it was rewarded.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Redesigning Hardware Is Less Sustainable
@@ -103,10 +107,6 @@ Justin Duino / How-To Geek
  One aspect of our modern economy is that things that were perfectly fine get changed for no reason other than to convince consumers to buy something they already have all over again. This is inherently wasteful. Compared to most industries, the tech industry's replacement cycle is even faster. We might own a hammer for ten or twenty years without giving it much thought. A laptop? Maybe five. A phone? Every other year or so. Manufacturers and carriers alike want us to [upgrade our phones often](https://facebook-video-footage.techidaily.com/updated-in-2024-diving-into-the-world-of-haul-video-content/).
 
  Whenever a phone changes, that means old cases no longer fit. We often have to throw out old charging cables and replace our earbuds. The impact throughout the supply chain is greater. All kinds of modules have to be resized and retooled. The more things that can be kept the same each year, the more we and manufacturers can reuse the stuff we already have.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
@@ -137,19 +137,16 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-chucklechamber-a-universe-of-comedy-creation-online/"><u>[New] In 2024, ChuckleChamber A Universe of Comedy Creation Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-enhancing-scene-clarity-with-zoom-cinematography/"><u>[New] In 2024, Enhancing Scene Clarity with ZOOM Cinematography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>[New] In 2024, Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-applying-luts-in-photoshop-cc-post-processing/"><u>[New] Innovative Approaches Applying LUTs in Photoshop CC Post-Processing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-insight-into-dji-inspire-2/"><u>[New] The Ultimate Insight Into DJI Inspire 2</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>[Updated] In 2024, Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-tablet-ipad-pro-vs-ipad-air-finding-your-perfect-apple-device/"><u>Choosing the Right Tablet: IPad Pro Vs. IPad Air - Finding Your Perfect Apple Device</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-leading-online-video-promo-builders/"><u>New In 2024, Leading Online Video Promo Builders</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-must-have-ipad-enhancements-for-the-year-2023/"><u>Ultimate Selection: Must-Have iPad Enhancements for the Year 2023</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-premium-iphone-14-skins-and-cases-reviewed/"><u>Ultimate Selection: Premium iPhone 14 Skins & Cases Reviewed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-most-protective-and-stylish-iphone-15-cases/"><u>Ultimate Selection: The Most Protective & Stylish iPhone 15 Cases</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-causes-behind-your-iphone-screen-brightness-fading-solutions-inside/"><u>Understanding the Causes Behind Your iPhone Screen Brightness Fading - Solutions Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secrets-a-step-by-step-guide-to-recovering-your-lost-iphone-backup-passwords-from-icloud-keychain/"><u>Unlock the Secrets: A Step-by-Step Guide to Recovering Your Lost iPhone Backup Passwords From iCloud Keychain</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-iphone-potential-with-google-lens-expert-tips-and-tricks/"><u>Unlocking iPhone Potential with Google Lens: Expert Tips and Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-checklist-for-capturing-flawless-ppts/"><u>[New] In 2024, The Complete Checklist for Capturing Flawless PPTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audience-centric-video-structure-chapter-addition-for-maximum-viewership-on-youtube/"><u>[Updated] In 2024, Audience-Centric Video Structure Chapter Addition for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-15-best-business-simulation-games-of-2024-mobileandpc/"><u>[Updated] Top 15 Best Business Simulation Games of 2024 [Mobile&PC]</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-microsoft-store-glitches-error-x80072f17-guide/"><u>Correcting Microsoft Store Glitches: Error X80072F17 Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-editing-your-iphones-videos-using-a-windows-computer/"><u>Step-by-Step Guide: Editing Your iPhones Videos Using a Windows Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-iphones-hotspot-issues-top-10-solutions-that-work/"><u>Troubleshooting iPhone's Hotspot Issues: Top 10 Solutions That Work</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-understanding-the-reasons-behind-your-iphones-sluggish-charging-performance/"><u>Troubleshooting: Understanding the Reasons Behind Your iPhone's Sluggish Charging Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-alpaka-go-sling-a-must-have-carrying-case-for-ipad-fans/"><u>Ultimate Guide to the Alpaka Go Sling: A Must-Have Carrying Case for iPad Fans</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-premier-widgets-for-the-ios-lockscreen-unlocking-new-possibilities/"><u>Ultimate Guide: Premier Widgets for the iOS Lockscreen Unlocking New Possibilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-finest-iphone-chargers-for-2-increased-battery-efficiency-a-comprehensive-guide-expert-picks-leading-iphone-chargers-of-2024-with-lon20/"><u>Ultimate Selection: The Finest iPhone Chargers for 2# Increased Battery Efficiency - A Comprehensive Guide / Expert Picks: Leading iPhone Chargers of 2024 with Long-Lasting Capacity Enhancement Features</u></a></li>
 </ul></div>
 

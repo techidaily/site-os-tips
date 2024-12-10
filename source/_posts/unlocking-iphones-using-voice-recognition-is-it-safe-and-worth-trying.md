@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-11-24T18:05:15.694Z
-updated: 2024-12-02T09:02:24.347Z
+date: 2024-12-06T23:52:57.914Z
+updated: 2024-12-10T05:31:24.595Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ---
 
 ## Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  A seemingly useful trick for unlocking your iPhone has been doing the rounds on social media which allows you to unlock your iPhone with a simple voice command. While it might sound handy, it's one tip you should probably avoid if you want to keep your device secure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Unlocking Your iPhone With Your Voice
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Set up Voice Control on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/set_up_voice_control.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, you'll need to mark the location of the buttons you'll be using on the "Enter Passcode" screen. Make sure that [Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) doesn't automatically unlock your iPhone (cover the sensor at the top of the screen) and grab something like a whiteboard marker or makeup brush that you can easily wipe off your iPhone screen when you're done.
 
  Physically mark the location of your passcode sequence on the "Enter Passcode" screen. You'll need to remember the sequence yourself, so make a note of the pattern as you're doing so.
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Mark passcode on iPhone lock screen (example)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_passcode-2-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Head back to Settings > Accessibility > Voice Control, tap on "Customize Commands" followed by "Create New Command..." and type (or speak) the phrase you want to use.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap on "Action" then select "Run Custom Gesture" and (using the marks you made earlier) tap out the unlock sequence used to enter your passcode. Now tap "Save" and then hit the "New Command" button to go back to the previous screen. Hit "Save" one more time and your gesture will be saved.
@@ -80,11 +80,11 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Unlock Your iPhone With an Apple Watch, Too
 
@@ -107,20 +107,21 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-your-path-to-superior-hdr-imagery-for-2024/"><u>[New] Your Path to Superior HDR Imagery for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-video-enlargement-on-youtube-for-2024/"><u>[Updated] Mastering Video Enlargement on YouTube for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-melody-in-motion-iphones-role-in-making-music-videos/"><u>2024 Approved Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-the-pro-lineup-the-case-for-colorful-innovations-at-apple/"><u>Enhancing the Pro Lineup: The Case for Colorful Innovations at Apple</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-techniques-enhancing-your-iphones-video-production-quality-with-these-10-strategies/"><u>Expert Techniques: Enhancing Your iPhone's Video Production Quality with These 10 Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-lifespan-of-eco-friendly-tech-our-compostable-iphone-cases-journey-over-half-a-year/"><u>Exploring the Lifespan of Eco-Friendly Tech: Our Compostable iPhone Case's Journey Over Half a Year</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-belkins-magsafe-compatible-iphone-holder-today-special-price-just-23/"><u>Get Your Belkin's MagSafe-Compatible iPhone Holder Today - Special Price: Just $23!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-spark-20-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 20 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/integrating-chatgpt-into-your-apple-watch-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Apple Watch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-screen-time-feature-malfunction-upcoming-repair-by-apple/"><u>IPhone Screen Time Feature Malfunction: Upcoming Repair by Apple</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-art-of-vlogging-starting-kit-and-tools-for-2024/"><u>Master the Art of Vlogging Starting Kit & Tools for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-winx-hd-video-converter-ultimate-edition-in-depth-tutorials-on-operating-customizing-and-crafting-videos/"><u>Master WinX HD Video Converter Ultimate Edition: In-Depth Tutorials on Operating, Customizing & Crafting Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-captioning-in-final-cut-pro-x-tips-and-tricks-for-success-for-2024/"><u>Updated Captioning in Final Cut Pro X Tips and Tricks for Success for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-just-pick-it-up-to-edit-your-own-videos-quickly-and-see-what-this-microsoft-video-editor-can-do-for-you-for-2024/"><u>Updated Just Pick It up to Edit Your Own Videos Quickly and See What This Microsoft Video Editor Can Do for You for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streamlining-long-videos-on-youtube-through-effective-chapter-management/"><u>[New] 2024 Approved Streamlining Long Videos on YouTube Through Effective Chapter Management</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-easy-way-to-mix-and-match-youtube-playlist-order-for-2024/"><u>[New] The Easy Way to Mix and Match YouTube Playlist Order for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exclusive-guide-365-days-of-no-cost-text-files/"><u>[Updated] 2024 Approved Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-mac-recorder-plus-audio-for-2024/"><u>Comprehensive Mac Recorder Plus Audio for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-customizing-your-apple-watchs-activity-log-with-offline-workouts/"><u>Expert Tips: Customizing Your Apple Watch's Activity Log with Offline Workouts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-enhanced-privacy-features-in-the-latest-update-of-google-maps-for-ios-and-android-devices/"><u>Explore Enhanced Privacy Features in the Latest Update of Google Maps for iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-access-to-apple-developer-beta-versions-risky-move-or-great-opportunity/"><u>Free Access to Apple Developer Beta Versions: Risky Move or Great Opportunity?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-upcoming-iphone-tap-to-pay-functionality-through-external-app-developers/"><u>Get Ready! Upcoming iPhone Tap-to-Pay Functionality Through External App Developers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-the-iphone-handle-urgent-alerts-and-reminders/"><u>How Does the iPhone Handle Urgent Alerts and Reminders?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/impact-of-always-on-display-on-smartphone-battery-life-whats-the-real-cost/"><u>Impact of Always-On Display on Smartphone Battery Life: What's the Real Cost?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/infinacores-t3-unveiled-compact-versatile-3-in-1-charging-station-review-for-on-the-go-power-needs-and-design-flexibility/"><u>Infinacore's T3 Unveiled: Compact, Versatile 3-in-1 Charging Station Review for On-the-Go Power Needs & Design Flexibility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-scanning-app-convert-images-and-documents-to-pdf-using-ocr-technology/"><u>IPhone Scanning App - Convert Images & Documents to PDF Using OCR Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/penning-podcasts-to-perfection-a-compreomed-writers-guide/"><u>Penning Podcasts to Perfection A Compreomed Writer’s Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-extravaganza-top-bargains-from-amazons-biggest-sale-of-the-year-now-available-in-october/"><u>Prime Day Extravaganza - Top Bargains From Amazon's Biggest Sale of the Year, Now Available in October!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-unite-without-problems/"><u>Windows & NVidia Unite Without Problems</u></a></li>
 </ul></div>
 

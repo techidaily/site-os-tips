@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your iCloud: Effective Strategies for Clearing Out Space"
-date: 2024-11-30T14:16:13.361Z
-updated: 2024-12-02T02:25:35.529Z
+date: 2024-12-04T18:09:02.762Z
+updated: 2024-12-09T21:59:14.266Z
 tags:
   - ios
 categories:
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Identify the Biggest Storage Hogs
 
  Before you start removing iCloud files, you can find out what's taking up the most space to determine what to delete. Open the Settings (iOS/iPadOS) or System Settings app (Mac), select your Apple ID at the top, and choose "iCloud."
@@ -43,9 +39,17 @@ Close
 
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -56,7 +60,7 @@ Close
 ![The iPhone's Settings app with the Recommended For You option highlighted in the iCloud section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-icloud-recommended-for-you-selected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
@@ -75,6 +79,10 @@ Close
 
 ![iPad Pro selected on the iCloud Backups screen in the Mac's System Settings app, with the Delete option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-app-icloud-section-manage-account-storage-backups-delete-option-highlight.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will permanently remove the entire backup archive from your iCloud account and switch off the iCloud Backup feature for that device.
 
  When you [disable the iCloud Backup option](https://win-howtos.techidaily.com/troubleshoot-and-resolve-sluggish-startup-problems-in-windows-7/), your iPhone will stop automatically backing up to iCloud when plugged in, locked, and connected to Wi-Fi, but its backup will stay in iCloud.
@@ -83,13 +91,13 @@ Close
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
 
@@ -98,10 +106,6 @@ Close
 Close 
 
  You can safely disable iCloud for apps that sync data online anyway, like Pocket or Facebook.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Back Up Your Photos to a Different Cloud Service
 
@@ -160,7 +164,7 @@ Close
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Consider Upgrading Your iCloud Storage
@@ -182,10 +186,6 @@ Close
  iCloud+ storage is also included in the [Apple One bundle,](https://some-guidance.techidaily.com/new-the-editors-edge-secrets-to-professional-photo-refining/) which combines multiple services at a discounted price. The $20/month tier includes 50GB, the $26/month one offers 200GB, and the flagship $38/month tier offers 2TB.
 
 ![The Apple One bundle plans and pricing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-one-bundle-individual-family-premier-plans-pricing.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If that wasn't enough, you can subscribe to Apple One and also buy one of the five iCloud+ storage plans to get a whopping 14TB of cloud-based storage.
 
@@ -210,24 +210,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-exclusive-access-to-facebook-beats-for-2024/"><u>[Updated] Exclusive Access to Facebook Beats for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>2024 Approved SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/deconstructing-the-new-peak-of-smartwatches-the-apple-watch-series-student/"><u>Deconstructing the New Peak of Smartwatches: The Apple Watch Series # Student</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-dimness-to-dazzle-a-guide-to-merging-in-lightroom/"><u>From Dimness to Dazzle A Guide to Merging in Lightroom</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-motorola-edge-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Motorola Edge 2023?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-social-media-dialogues-a-guide-to-joining-and-contributing-to-xtwitter-chats/"><u>Navigating the World of Social Media Dialogues: A Guide to Joining and Contributing to X/Twitter Chats</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-continuous-crashes-optimizing-your-pc-to-run-call-of-duty-mobile-suit-warzone-ii-smoothly/"><u>Overcoming Continuous Crashes: Optimizing Your PC to Run Call of Duty: Mobile Suit Warzone II Smoothly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-slide-show-creation-windows-11s-seven-step-methodology/"><u>Seamless Slide Show Creation: Windows 11'S Seven-Step Methodology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-counting-on-mobile-a-guide-to-using-your-iphoneandroid-device/"><u>Step Counting on Mobile: A Guide to Using Your iPhone/Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-superior-email-clients-available-on-the-iphone/"><u>Top 5 Superior Email Clients Available on the iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-iphone-15-case-picks/"><u>Top-Rated iPhone 15 Case Picks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transforming-live-photos-into-animation-a-step-by-step-guide-for-iphones/"><u>Transforming Live Photos Into Animation - A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transforming-your-iphone-into-a-portable-gaming-powerhouse-a-guide/"><u>Transforming Your iPhone Into a Portable Gaming Powerhouse: A Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ugreens-magnetic-5000mah-power-bank-evaluated-a-tale-of-unease-and-performance/"><u>Ugreen's Magnetic 5,000mAh Power Bank Evaluated: A Tale of Unease and Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unboxing-and-evaluation-the-ultimate-guide-to-nomads-premium-leather-back-cover-for-the-new-iphone-15-pro/"><u>Unboxing & Evaluation: The Ultimate Guide to Nomad's Premium Leather Back Cover for the New iPhone 15 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-energy-savings-a-guide-to-activating-and-understanding-iphones-low-power-mode/"><u>Unlocking Energy Savings: A Guide to Activating & Understanding iPhone's Low Power Mode</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-ios-174-a-comprehensive-guide-to-your-iphones-latest-capabilities/"><u>Unlocking iOS 17.4: A Comprehensive Guide to Your iPhone's Latest Capabilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-picture-perfect-support-portal/"><u>[Updated] In 2024, Picture Perfect Support Portal</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-intro-magic-crafting-irresistible-podcast-openers/"><u>2024 Approved Intro Magic Crafting Irresistible Podcast Openers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-net-laugh-builder/"><u>2024 Approved Net Laugh Builder</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/essential-forgotten-tips-for-instagram-proficiency-for-2024/"><u>Essential, Forgotten Tips for Instagram Proficiency for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-search-of-a-sleek-tablet-why-the-ipad-mini-deserves-serious-consideration/"><u>In Search of a Sleek Tablet? Why the iPad Mini Deserves Serious Consideration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-username-functionality-updates-available-on-signal-platform/"><u>Introducing Username Functionality: Updates Available on Signal Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-ownership-is-it-worth-your-investment-essential-insights-for-potential-buyers/"><u>IPad Ownership: Is It Worth Your Investment? Essential Insights for Potential Buyers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/"><u>Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-efficiency-adding-widgets-to-your-iphones-lock-screen-tutorial/"><u>Maximize Efficiency: Adding Widgets to Your iPhone's Lock Screen Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-year-on-reflecting-on-the-apple-watch-ultras-journey/"><u>One Year On: Reflecting on the Apple Watch Ultra's Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-arcade-with-expansive-front-ends/"><u>Revolutionize Your Arcade with Expansive Front Ends!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-instagram-video-descriptions-for-2024/"><u>The Ultimate Guide to Instagram Video Descriptions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-apples-advanced-ai-integration-in-iphone-mac-and-ipad-an-in-depth-guide-by-zdnet/"><u>Understanding Apple's Advanced AI Integration in iPhone, Mac, and iPad - An In-Depth Guide by ZDNet</u></a></li>
 </ul></div>
 

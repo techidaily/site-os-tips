@@ -1,7 +1,7 @@
 ---
 title: "Issues with Apple Card & Apple Pay: A Comprehensive Look"
-date: 2024-11-25T04:29:43.931Z
-updated: 2024-12-02T11:02:19.507Z
+date: 2024-12-04T21:25:51.665Z
+updated: 2024-12-09T20:41:03.132Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
@@ -54,22 +54,21 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-360-video-submission-on-fb/"><u>[Updated] 2024 Approved The Complete Guide to 360 Video Submission on FB</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>[Updated] Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-fixed-easily-accessible-shorts-on-youtube/"><u>[Updated] Fixed Easily Accessible Shorts on YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-pathway-to-a-powerful-instagram-influence/"><u>[Updated] In 2024, The Pathway to a Powerful Instagram Influence</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelperfect-screen-capture-software-for-2024/"><u>[Updated] PixelPerfect Screen Capture Software for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-neo-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT Neo 5 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s23-tactical-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S23 Tactical Edition to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-173-enhancements-new-security-features-protecting-your-iphone-from-theft/"><u>IOS 17.3 Enhancements: New Security Features Protecting Your iPhone From Theft</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-your-neighborhood-air-conditions-effective-methods-for-assessing-environmental-cleanlinnss/"><u>Navigating Your Neighborhood Air Conditions: Effective Methods for Assessing Environmental Cleanlinnss</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-identity-preventing-criminal-access-to-your-mobile-line/"><u>Protect Your Identity: Preventing Criminal Access to Your Mobile Line</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-sharing-across-apple-devices-connecting-your-iphone-ipad-and-mac-via-clipboard/"><u>Seamless Sharing Across Apple Devices: Connecting Your iPhone, iPad & Mac via Clipboard</u></a></li>
-<li><a href="https://os-tips.techidaily.com/set-google-maps-as-your-new-standard-navigation-app-on-iphone-step-by-step-guide/"><u>Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-sharpening-and-enhancing-fuzzy-images/"><u>Step-by-Step Guide to Sharpening and Enhancing Fuzzy Images</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stop-unexpected-camera-sounds-on-your-iphone-tutorial/"><u>Stop Unexpected Camera Sounds on Your iPhone - Tutorial</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-m54-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy M54 5G Device</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-most-efficient-cable-modemwireless-router-combinations-of-2024/"><u>The Most Efficient Cable Modem/Wireless Router Combinations of 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>[New] 2024 Approved Go From Gaming to Socializing Streaming Xbox to FB Live</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-8-cam-filters-for-optimal-online-performance-for-2024/"><u>[New] Top 8 Cam Filters for Optimal Online Performance for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-creator-revenue-streams-amidst-the-world-of-youtube-shorts/"><u>[Updated] 2024 Approved Creator Revenue Streams Amidst the World of YouTube Shorts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-critical-analysis-vidmas-contribution-to-screen-recording-for-2024/"><u>[Updated] Critical Analysis Vidma's Contribution to Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-sketch-to-scene-mastering-windows-movie-makers-animation/"><u>[Updated] In 2024, From Sketch to Scene Mastering Windows Movie Maker's Animation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpegmkv-movavi/"><u>線上無成本MPEG改MKV - 利用Movavi換圖工具</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/conquering-challenges-in-single-source-online-streaming/"><u>Conquering Challenges in Single-Source Online Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-skype-call-recording-a-step-by-step-guide/"><u>In 2024, Mastering Skype Call Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-chatgpts-world-a-comprehensive-tutorial-for-roleplayers/"><u>Navigating ChatGPT's World: A Comprehensive Tutorial for Roleplayers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-fitness-applications-for-iphones-transform-your-body-this-summer/"><u>Top Rated Fitness Applications for iPhones: Transform Your Body This Summer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/turning-off-your-iphones-vibration-alerts-easy-tutorial/"><u>Turning Off Your iPhone's Vibration Alerts – Easy Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-steps-to-reboot-your-apple-watch/"><u>Ultimate Guide: Steps to Reboot Your Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-syncing-and-securing-your-iphone-data-with-icloud/"><u>Ultimate Guide: Syncing and Securing Your iPhone Data with iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncover-the-top-secret-tricks-of-ios-transforming-your-iphone-experience/"><u>Uncover the Top Secret Tricks of iOS: Transforming Your iPhone Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-apple-airtag-charging-requirements-and-battery-life/"><u>Understanding Apple AirTag Charging Requirements & Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphones-share-focus-mode-a-comprehensive-guide/"><u>Understanding iPhone's 'Share Focus' Mode: A Comprehensive Guide</u></a></li>
 </ul></div>
 

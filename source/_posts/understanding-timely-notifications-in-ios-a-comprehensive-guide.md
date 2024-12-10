@@ -1,7 +1,7 @@
 ---
 title: "Understanding Timely Notifications in iOS: A Comprehensive Guide"
-date: 2024-11-27T16:55:18.357Z
-updated: 2024-12-01T22:34:28.985Z
+date: 2024-12-05T02:05:40.571Z
+updated: 2024-12-09T22:00:53.680Z
 tags:
   - ios
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
 ![Enabling Focus Mode from Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/Enabling-Focus-Mode-from-Control-Center.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  "Time Sensitive" notifications are simply a special class of notifications that are given higher priority. They were introduced in [iOS 15](https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-5-emulators-transforming-old-ps1-games-on-pcs/) alongside [the "Focus" feature](https://youtube-data.techidaily.com/24-stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/), and that's really where they are the most useful.
 
  Since these notifications have a higher priority, they can be allowed to break through the times when you may be blocking other notifications. They also stay on your lock screen for an hour. It's a way of saying "I want to block notifications but I don't want to miss anything important."
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
  Focus mode allows you to essentially create custom Do Not Disturb modes for specific situations. This is where Time Sensitive notifications really shine. You can indiscriminately block as many apps as you want without worrying about missing something urgent.
 
  Unfortunately, you don't get to decide what qualifies a notification as "Time Sensitive," that's up to the app developers. It's possible that an app could abuse the feature. All you can do is decide if you want to allow an app to use Time Sensitive notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Allow "Time Sensitive" Notifications in Focus
 
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 ![Open the &quot;Settings&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/2021-08-17_17-17-33.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Focus" to get started.
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
  You can set up Time Sensitive exceptions for each Focus mode. In other words, you could allow Time Sensitive notifications to bypass "Do Not Disturb" but not "Sleep," for example. Tap the Focus mode you want to adjust. We're going to use "Do Not Disturb." 
 
 ![Tap "Do Not Disturb" or whatever focus mode you want.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-tap-do-not-disturb.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You're at point in the process where you can choose which apps will be allowed to show notifications. Tap "Apps"
 
@@ -71,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
  Now, when the Focus mode is enabled, Time Sensitive notifications won't be blocked. Even if you're not allowing notifications from the app, the Time Sensitive notifications will get through.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Turn Off "Time Sensitive" Notifications
 
  What if an app is marking notifications as "Time Sensitive" and you don't agree? Or maybe an app is abusing the priority to shove annoying notifications in your face. You can turn off Time Sensitive notifications for any app.
@@ -80,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 ![Time Sensitive notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/NnUbMN2feKZH9Q9cgkTJRnXs-C5c1ReWddrAzqoKRNA-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%5F15%5Fbeta%5F1%5Foption%5Fto%5Fkeep%5For%5Fturn%5Foff%5Ftime/)_
@@ -93,25 +101,17 @@ _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%
 
 ![Tap "Notifications" to configure notifications on an app-by-app basis.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-tap-notifications.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Find the app that you want to turn off Time Sensitive notifications for.
 
 ![Open "Calendar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-calendar6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Toggle the switch off for "Time Sensitive Notifications." Note that not every app will have this option.
 
 ![Toggle the "Time Sensitive Notifications" options to "Off."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-time-sensitive-notifications-off.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's all there is to it. Time Sensitive [notifications](https://snapchat-videos.techidaily.com/updated-2024-approved-saving-snaps-from-snapchat-on-camera-roll-a-guide/) are great if they are used by the app properly. You may find them useful for some apps, but annoying with others. The more you fine-tune which apps can use them, the better the experience will be.
 
@@ -130,17 +130,21 @@ _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-walk-of-shadows-a-comprehensive-list-of-intense-zombie-games-for-2024/"><u>[Updated] Walk of Shadows A Comprehensive List of Intense Zombie Games for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-verifying-ad-revenue-for-channels/"><u>2024 Approved Verifying Ad Revenue for Channels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/5-best-360-degree-action-cameras/"><u>5 Best 360-Degree Action Cameras</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Moto G Stylus (2023) Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/one-year-on-reflecting-on-the-apple-watch-ultras-journey/"><u>One Year On: Reflecting on the Apple Watch Ultra's Journey</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-templates-for-panzoid-introduction/"><u>Premium Templates for Panzoid Introduction</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/primetrackings-smart-tiny-tracker-the-discreet-and-effective-anti-theft-solution-user-experiences-reveal/"><u>PrimeTracking's Smart Tiny Tracker: The Discreet & Effective Anti-Theft Solution – User Experiences Reveal</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protect-your-location-data-discover-new-privacy-controls-in-google-maps-recent-upgrade-for-mobile-users/"><u>Protect Your Location Data: Discover New Privacy Controls in Google Maps' Recent Upgrade for Mobile Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/protecting-privacy-a-guide-to-encrypting-pictures-on-apples-mobile-platforms/"><u>Protecting Privacy: A Guide to Encrypting Pictures on Apple's Mobile Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionize-your-fitness-journey-using-this-simple-iphone-app-based-tracker-for-weight-management/"><u>Revolutionize Your Fitness Journey Using This Simple iPhone App-Based Tracker for Weight Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-communications-with-apples-advanced-pq3-shield-against-quantum-decryption-threats/"><u>Secure Your Communications with Apple's Advanced PQ3 Shield Against Quantum Decryption Threats</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-vr-game-creators-to-watch/"><u>Top VR Game Creators To Watch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-earn-big-stay-safe-top-5-income-boosting-posts/"><u>[Updated] Earn Big, Stay Safe Top 5 Income Boosting Posts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-basic-steps-flip-video-using-vlc-software/"><u>2024 Approved Basic Steps Flip Video Using VLC Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-80-pro-straight-screen-edition-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor 80 Pro Straight Screen Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-device-driver-conflicts-within-world-of-warcraft-games/"><u>How to Overcome Device Driver Conflicts Within World of Warcraft Games</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-the-art-of-webcam-driver-updates-for-windows-7-with-these-steps/"><u>Master the Art of Webcam Driver Updates for Windows 7 with These Steps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/precision-gameplay-with-proximity-focus-in-roblox/"><u>Precision Gameplay with Proximity Focus in Roblox</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-magsafe-technology-on-iphones-features-and-uses/"><u>Understanding MagSafe Technology on iPhones: Features & Uses</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-swift-safeguard-measures-protecting-your-iphone-ipad-and-mac/"><u>Understanding Swift Safeguard Measures: Protecting Your iPhone, iPad, and Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-fitness-tracking-exploring-the-body-temperature-function-on-apple-watch/"><u>Understanding Your Fitness Tracking: Exploring the Body Temperature Function on Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-your-new-iphone-a-comprehensive-guide-to-10-must-try-features-and-applications/"><u>Unlocking the Power of Your New iPhone: A Comprehensive Guide to 10 Must-Try Features and Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unprecedented-low-pricing-on-apples-latest-ipad-pro-incredible-deals-await/"><u>Unprecedented Low Pricing on Apple's Latest iPad Pro - Incredible Deals Await!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-watchos-10-enhanced-features-with-the-revolutionary-smart-stack-and-upgraded-apps/"><u>Unveiling WatchOS 10: Enhanced Features with the Revolutionary Smart Stack & Upgraded Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/using-your-iphone-to-monitor-and-elevate-emotional-well-being/"><u>Using Your iPhone to Monitor & Elevate Emotional Well-Being</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-7-troubleshooting-overcoming-the-blue-screen-error-0x0000007e/"><u>Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E</u></a></li>
 </ul></div>
 

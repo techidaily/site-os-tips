@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2024-11-25T19:27:19.181Z
-updated: 2024-12-01T23:22:08.337Z
+date: 2024-12-04T03:09:23.763Z
+updated: 2024-12-09T18:12:17.279Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Tracking your weight is a reliable way to see how changes in diet and lifestyle translate to real-world results. Apple Health is great for this, but the process of adding data manually is tedious. That’s why I built a shortcut to do it in two taps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Build a Shortcut to Track Your Weight
@@ -35,12 +31,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Create new shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-17-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, tap “Add Action” and use the search bar to find the “Log Health Sample” action. Tap on it to add it to your Shortcuts workflow.
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now tap on the blue “Type” field and select “Weight” from the list. Tap on “Sample Value” and choose “Ask Each Time” from the field just above the keyboard. Finally, select the unit you want to use (this should already default to your preferred measurement, likely “lb” or “kg”).
@@ -50,10 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now give your workflow a name by tapping the field at the top of the screen (it will likely have the “Log Health Sample” placeholder text, grayed out). Tap “Rename” and call it something like “Record weight” and then tap “Choose Icon” and pick something appropriate.
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To save, hit “Done” in the top-right corner of the screen. That’s it!
 
@@ -69,17 +65,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
- You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
 
 ##  Seeing Results
 
  Head to Health > Body Measurements > Weight to see your numbers plotted on a chart. Use the “Add to Favorites” button at the bottom of the screen to pin this section to the “Summary” tab.
 
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
 
@@ -104,21 +104,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-contemplating-if-video-selfies-need-validation-on-instagram/"><u>[New] 2024 Approved Contemplating if Video Selfies Need Validation On Instagram</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-efficient-strategies-to-record-ppt-sessions/"><u>[New] 2024 Approved Efficient Strategies to Record PPT Sessions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[New] In 2024, Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-textual-transformation-in-adobe-after-effects-for-2024/"><u>[New] Textual Transformation in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-20-most-memorable-anime-series-intros-for-2024/"><u>[Updated] 20 Most Memorable Anime Series Intros for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-scripting-solutions-in-ae/"><u>2024 Approved Optimal Scripting Solutions in AE</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-mac-os-hd4k/"><u>从标清走向超清：在 Windows 和 Mac OS 上提升影片分辨率到 HD/4K</u></a></li>
-<li><a href="https://os-tips.techidaily.com/end-of-an-era-the-discontinuation-of-the-iconic-iphone-13-mini/"><u>End of an Era: The Discontinuation of the Iconic iPhone 13 Mini</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-privacy-on-apple-music-with-these-4-essential-strategies/"><u>Enhance Your Privacy on Apple Music with These 4 Essential Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-ipad-gaming-experience-with-the-apple-pencil-discover-the-simple-steps/"><u>Enhanced iPad Gaming Experience with the Apple Pencil: Discover the Simple Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enjoy-complimentary-apple-products-with-your-target-rewards-claim-now/"><u>Enjoy Complimentary Apple Products with Your Target Rewards – Claim Now!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-the-luminous-durable-apple-watch-sport-band-from-nomad-the-ultimate-guide/"><u>Experience the Luminous, Durable Apple Watch Sport Band From Nomad – The Ultimate Guide!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-apples-classical-playlist-a-wealth-of-melodies-at-exceptional-prices/"><u>Exploring Apple's Classical Playlist: A Wealth of Melodies at Exceptional Prices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/find-and-retrieve-deleted-connections-from-your-iphone-easily/"><u>Find and Retrieve Deleted Connections From Your iPhone Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximizing-speed-with-top-pc-monitor-controls/"><u>Maximizing Speed with Top PC Monitor Controls</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-asus-rog-ally-x-a-revolutionary-gaming-laptop-for-gamers-on-the-move/"><u>The Ultimate Guide to the Asus ROG Ally X - A Revolutionary Gaming Laptop for Gamers on the Move</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-sky-surfing-in-hd-with-the-yuneec-drone-review/"><u>[New] 2024 Approved Sky Surfing in HD with the Yuneec Drone Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transform-your-facebook-presence-with-these-11-video-marketing-tips/"><u>[New] 2024 Approved Transform Your Facebook Presence with These 11 Video Marketing Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-the-art-of-monochrome-modification/"><u>[New] Mastering the Art of Monochrome Modification</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-10-choices-the-ultimate-gb-emulator-list-android/"><u>[Updated] 2024 Approved Top 10 Choices The Ultimate GB Emulator List, Android</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-demystifying-facebooks-use-of-blue-video-icons-for-communication/"><u>2024 Approved Demystifying Facebook's Use of Blue Video Icons for Communication</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-video-downloader-review/"><u>2024 Approved Funimate Video Downloader Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-stop-motion-animation-tools-for-mac-and-pc-for-2024/"><u>Best Stop Motion Animation Tools for Mac and PC for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-feature-alert-expressvpn-introduces-built-in-password-storage-solution/"><u>New Feature Alert: ExpressVPN Introduces Built-In Password Storage Solution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/playing-timeless-arcade-games-on-ios-devices-at-no-cost-non-jailbreak-methods/"><u>Playing Timeless Arcade Games on iOS Devices at No Cost - Non-Jailbreak Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protonmail-and-protoncalendar-update-introducing-over-38-enhancements/"><u>ProtonMail & ProtonCalendar Update: Introducing Over 38 Enhancements!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revamped-and-reimagined-a-comprehensive-review-of-the-new-belkin-qi2-boostcharge-pro-dual-wall-and-car-mount-a-modern-take-on-an-iconic-3-in-1-iphone-charge19/"><u>Revamped and Reimagined: A Comprehensive Review of the New Belkin Qi2 BoostCharge Pro Dual Wall & Car Mount, a Modern Take on an Iconic 3-in-1 iPhone Charger</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revamping-the-experience-the-upcoming-transformation-of-apple-watch-software/"><u>Revamping the Experience: The Upcoming Transformation of Apple Watch Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-integration-your-guide-to-connecting-iphone-with-mac/"><u>Seamless Integration: Your Guide to Connecting iPhone with Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-non-rotating-screens-on-your-iphoneipad/"><u>Solving the Issue of Non-Rotating Screens on Your iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-accessing-stored-credit-card-information-on-your-ios-safari-browser/"><u>Step-by-Step Guide: Accessing Stored Credit Card Information on Your iOS Safari Browser</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-easy-way-to-verify-and-edit-your-age-on-tiktok/"><u>The Easy Way to Verify and Edit Your Age on TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-rogs-ultimate-answer-to-console-complaints/"><u>Unveiling RoG's Ultimate Answer to Console Complaints</u></a></li>
 </ul></div>
 
