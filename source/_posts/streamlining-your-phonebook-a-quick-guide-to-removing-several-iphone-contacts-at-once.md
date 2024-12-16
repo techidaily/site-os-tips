@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once"
-date: 2024-11-25T23:01:45.245Z
-updated: 2024-12-02T00:36:07.283Z
+date: 2024-12-14T21:34:59.381Z
+updated: 2024-12-15T23:34:25.909Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ---
 
 ## Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap the &quot;Contacts&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0187.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, go to "All Contacts" or whichever account you'd like to use, if you're not already there.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0188.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now we're going to select multiple contacts by dragging to select. So, tap and hold the first contact with two fingers.
 
 ![Tap and hold a contact with two fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0209.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Drag both fingers down (or up) until you've selected all the contacts you'd like to delete. Release your fingers.
 
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select &quot;Delete X Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0211.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lastly, confirm your choice by tapping "Delete Contacts."
 
 ![Tap &quot;Delete Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0212.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's all there is to it! This method isn't great if you're looking to select contacts that aren't arranged in order.
 
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap and hold one contact to select them, then select other contacts to delete.
 
 ![Press and hold a contact, then select more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0204.png) 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Delete&quot; to confirm.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0205.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a much more useful way to delete multiple contacts at once.
 
 ##  How to Mass Delete Contacts on iPhone
@@ -116,13 +116,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Continue&quot; and &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0195-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There's a feature called "Contacts Enrichment" that will label certain contacts automatically. You don't need to enable this.
 
 ![Contacts Enrichment is optional.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0197.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, select "All Contacts" at the top of the screen.
 
@@ -150,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap the &quot;Contacts&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0187.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, go to "All Contacts" if you're not already there.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0188.png) 
@@ -166,13 +170,13 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Merge.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0191.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lastly, confirm your decision by selecting "Merge" from the pop-up.
 
 ![Select &quot;Merge.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0194a.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Apple's built-in feature is pretty good if you don't have a ton of contacts to sift through. For a more advanced tool, check out our [full guide for deleting duplicate contacts on iPhone](https://smart-video-editing.techidaily.com/new-2024-approved-beyond-windows-10-photos-8-excellent-image-viewing-options/) and [Android devices.](https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/) 
 
@@ -185,20 +189,20 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ![Tap &quot;Continue&quot; and &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0195-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can skip past the "Contacts Enrichment" feature. It's not necessary for deleting contacts.
 
 ![Contacts Enrichment is optional.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0197.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, select "All Contacts" at the top of the screen.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First, tap and hold a contact to select it.
 
@@ -208,21 +212,17 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select the checkmark button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0214.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With all the contacts selected, tap the trash icon in the bottom bar.
 
 ![Tap the trash can icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0215.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Confirm your decision by tapping "Delete" one more time.
 
 ![Select &quot;Delete.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0216.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Boom! All your contacts are gone just like that.
 
@@ -245,18 +245,24 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/aunching-a-youtube-channel-key-pieces-of-equipment-for-2024/"><u>[New] Launching a YouTube Channel Key Pieces of Equipment for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-video-downloads-focus-on-mp4/"><u>[New] Mastering Video Downloads - Focus on MP4</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>[Updated] In 2024, Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-overview-merging-srt-with-mp4-files-and-videos/"><u>2024 Approved Comprehensive Overview Merging SRT with MP4 Files and Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-online-collection-of-video-downloader-tools/"><u>Elite Online Collection of Video Downloader Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-beyond-the-buzz-the-top-10-competitive-video-editors/"><u>In 2024, Beyond the Buzz The Top 10 Competitive Video Editors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-guide-to-inspiring-youtube-names/"><u>In 2024, The Ultimate Guide to Inspiring YouTube Names</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/introducing-stellars-pioneering-image-reconstruction-program-first-of-its-kind-worldwide-software-announcement/"><u>Introducing Stellar's Pioneering Image Reconstruction Program, First-of-Its-Kind Worldwide Software Announcement</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-the-secrets-of-your-wireless-network-passwords-on-smartphones/"><u>Unlocking the Secrets of Your Wireless Network Passwords on Smartphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unpairing-your-devices-how-to-separate-iphone-and-ipad-connections/"><u>Unpairing Your Devices: How to Separate iPhone and iPad Connections</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-ios-175-discover-a-spectrum-of-new-iphone-features-with-easy-to-follow-usage-guides/"><u>Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-shazams-latest-feature-pinpointing-songs-played-through-personal-earbuds/"><u>Unveiling Shazam's Latest Feature: Pinpointing Songs Played Through Personal Earbuds!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-exclusive-gaming-delight-with-single-platform-play-in-apex-legends/"><u>[New] In 2024, Exclusive Gaming Delight with Single-Platform Play in Apex Legends</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>[Updated] Focus on the Essentials The Compreenas for Removing Youtube Channels</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-kinetic-illustration-101-core-skills-and-concepts/"><u>[Updated] In 2024, Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficient-techniques-for-removing-junk-event-invitations-from-your-iphone-calendar/"><u>Efficient Techniques for Removing Junk Event Invitations From Your iPhone Calendar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-message-disappearance-on-kik-top-4-secure-deletion-methods/"><u>Guaranteed Message Disappearance on Kik: Top 4 Secure Deletion Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-clearing-out-your-conversations-deleting-facebook-messenger-chats-from-ios-and-android-devices/"><u>Guide: Clearing Out Your Conversations - Deleting Facebook Messenger Chats From iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fast-remove-iphone-game-files-and-clear-cache-simple-methods-revealed/"><u>How To Fast Remove iPhone Game Files and Clear Cache: Simple Methods Revealed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-xs-max-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone XS Max Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-legalities-of-instagram-harmonies/"><u>In 2024, Navigating Legalities of Instagram Harmonies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-ultimate-visual-treat-top-ten-4k-televisions/"><u>In 2024, Ultimate Visual Treat Top Ten 4K Televisions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-cache-management-erase-browsing-data-from-chrome-and-safari-on-your-ipad-effortlessly/"><u>Mastering Cache Management: Erase Browsing Data From Chrome & Safari on Your iPad Effortlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-knowledge-through-toms-tech-wisdom/"><u>Mastering Hardware Knowledge Through Tom's Tech Wisdom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-removal-a-step-by-step-guide-to-completely-uninstalling-iphone-and-ipad-applications/"><u>Permanent Removal: A Step-by-Step Guide to Completely Uninstalling iPhone and iPad Applications</u></a></li>
+<li><a href="https://win-webster.techidaily.com/sauvegardez-avec-assurance-guide-complet-a-trois-etapes-pour-disque-dur-externe/"><u>Sauvegardez Avec Assurance : Guide Complet À Trois Étapes Pour Disque Dur Externe</u></a></li>
+<li><a href="https://os-tips.techidaily.com/snapchat-cleanup-guide-a-simple-way-to-erase-conversations-and-texts/"><u>Snapchat Cleanup Guide - A Simple Way to Erase Conversations and Texts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-free-up-space-by-cleaning-your-ios-devices-instagram-app-data-2024-edition/"><u>Step-by-Step Tutorial: Free Up Space by Cleaning Your iOS Device's Instagram App Data, 2024 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-free-up-space-on-your-ipad-to-enhance-speed-and-responsiveness/"><u>The Ultimate Guide: Free Up Space on Your iPad to Enhance Speed and Responsiveness</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-0x8024a105-issue-with-windows-updates/"><u>Ultimate Guide: Resolving the 0X8024A105 Issue with Windows Updates</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-glitch-top-free-online-effect-generators/"><u>Unleash the Glitch Top Free Online Effect Generators</u></a></li>
 </ul></div>
 

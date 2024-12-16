@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2024-12-08T04:39:30.122Z
-updated: 2024-12-09T17:57:01.738Z
+date: 2024-12-13T05:34:22.490Z
+updated: 2024-12-15T19:53:46.269Z
 tags:
   - ios
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Here are 10 features you might not have heard of before, but once you get the hang of them, they can change how you do many things on your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pause Music and Podcast Playback with a Timer
 
  It's not uncommon for iPhone users to sleep while listening to their favorite music track or podcast on Apple Music or Apple Podcast apps. However, only some know that the [iPhone's Clock app](https://android-frp.techidaily.com/poco-m6-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/) allows one to set a timer so that when it ends, it stops anything that is playing at the time, including WhatsApp audio or YouTube videos, and locks the screen.
@@ -38,13 +42,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![iPhone's home screen with an arrow next to the Clock app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-12.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select Timer from the options at the bottom of the screen.
 
 ![Clock app home screen with an arrow next to the Timer option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-11.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Set the Timer between 10 to 20 minutes or any other duration.
 
@@ -54,13 +58,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![When Timer Ends option in Timer with a rectangle around the Stop Playing option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, hit the Start button and tune in to your bedtime playlist without worrying about stopping the playback, as the Clock app will automatically pause it and lock the screen for you.
 
 ![iPhone's Clock app with an arrow next to the option to start a Timer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Hidden Backspace Key to fix Mistakes in the Calculator
 
@@ -74,7 +78,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![iPhone's calculator app with an arrow indicating the direction to erase input](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-12.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You might also want to check out how to open the [hidden scientific calculator on your iPhone](https://win-solutions.techidaily.com/troubleshooting-guide-how-to-prevent-elex-ii-from-crashing-on-your-windows-machine/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Cast Spells with Siri to Turn on the Flashlight
 
@@ -98,6 +110,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Photo picker in iOS 16 with an arrow next to the Copy option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head to a chat in WhatsApp and select paste. This will turn the image into a sticker that you can share with others.
 
 ![Custom Sticker dialog box on WhatsApp with an arrow next to the Send option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers-2.png) 
@@ -118,21 +134,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Automation option in the Shortcuts app highlighting the Create Personal Automation option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the New Automation menu, scroll down and select "Battery Level."
 
 ![Personal Automation menu highlighting the battery level option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the following screen, select the battery level at which you intend to receive a notification using the slider. Once done, hit the Next button in the top right corner.
 
 ![Personal Automation options highlighting the battery level](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  At the bottom of the screen, search for "Notifications" and select "Show Notifications."
 
@@ -160,10 +172,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Notes settings highlighting the Password option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-15.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the following screen, choose "Use iPhone Passcode." Enter your iPhone's current password to confirm.
 
 ![Use iPhone Passcode option in Notes' settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/use-iphone-passcode-screenshot.png) 
@@ -171,10 +179,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Once done, the menu should look something like this.
 
 ![Notes password menu with the options to use iPhone passcode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-11.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Open the Notes app, head to the required file, tap the three-dots icon at the top right, and select Lock. Allow the Notes app to use Face ID and enter the iPhone's passcode.
 
@@ -192,10 +196,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![iPhone Lock Screen customization mode with an arrow next to the plus sign](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/customize-iphone-lock-screen.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hit Photos to select an image you wish to use as a wallpaper.
 
 ![Lock Screen customization menu with an arrow next to the Photos option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-16.png) 
@@ -205,7 +205,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Editing Lock Screen wallpaper to add depth effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, you can always press the three-dot menu in the bottom right to turn it on.
@@ -216,10 +216,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Highlighting the Set as Wallpaper Pair option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Change How Notifications Appear on Your iPhone
 
  If you don't like the way your iPhone displays notifications, change it in the Settings menu.
@@ -227,6 +223,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Open the Settings app and head to the Notifications menu.
 
 ![Settings app with an arrow next to the Notifications option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-19.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At the top of the menu, you'll see three options: Count, Stack, and List. Experiment with these options and see which one you prefer.
 
@@ -254,6 +254,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Measure a Surface's Slope with the Hidden Spirit Level
 
  To end this list, we would like to tell you about another hidden iPhone feature that hides in plain sight: the digital spirit leveler. You might know your iPhone has the Measure app that lets you measure the distance between two objects. This app also has the Level feature that determines whether an object is perfectly straight or flat.
@@ -265,10 +269,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Tap the Level option at the bottom right.
 
 ![Measure app with an arrow next to the level option at the bottom right](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-19.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hold your iPhone against a standing object or a flat surface to check the slope or the level.
 
@@ -291,18 +291,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-discover-excellent-tvs-and-displays-for-xbox-pro-series-x-games/"><u>[Updated] Discover Excellent TVs & Displays for Xbox Pro Series X Games</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-easy-guide-setting-up-automated-texts-on-your-ios-device/"><u>1. Easy Guide: Setting Up Automated Texts on Your iOS Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://os-tips.techidaily.com/3-key-features-i-hope-apple-enables-for-utilizing-my-personalized-ai-avatars-speech/"><u>3 Key Features I Hope Apple Enables for Utilizing My Personalized AI Avatar's Speech</u></a></li>
-<li><a href="https://os-tips.techidaily.com/automate-a-new-vibe-change-iphones-background-regularly/"><u>Automate a New Vibe - Change iPhones Background Regularly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-your-outlook-spell-check-back-on-track-a-step-by-step-guide/"><u>Getting Your Outlook Spell Check Back on Track: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-note-50-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Note 50 on Windows??</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-11-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme 11 5G</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/steps-to-extracting-information-from-your-aged-laptops-hard-drive/"><u>Steps to Extracting Information From Your Aged Laptop's Hard Drive</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317846-9781848506213-the-radiant-warrior/"><u>The Radiant Warrior | Free Book</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-10-music-reactions-on-yt-a-year-end-review/"><u>Top 10 Music Reactions on YT A Year-End Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-enhanced-features-why-the-apple-pencil-pro-is-a-major-leap-forward/"><u>Unveiling the Enhanced Features: Why the Apple Pencil Pro Is a Major Leap Forward</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-ios-18-has-me-thrilled-a-perspective-from-a-dedicated-android-lover/"><u>Why iOS 18 Has Me Thrilled: A Perspective From a Dedicated Android Lover</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-full-screen-preview-tutorials/"><u>[New] Step-by-Step Full Screen Preview Tutorials</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhancing-videos-with-camtasias-ken-burns-trick/"><u>[Updated] 2024 Approved Enhancing Videos with Camtasia's Ken Burns Trick</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uniting-viewers-mastering-interactive-dialogue-online/"><u>[Updated] Uniting Viewers Mastering Interactive Dialogue Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/complete-user-guide-to-unleashing-full-potential-of-ring-doorbell-proplus-review/"><u>Complete User Guide to Unleashing Full Potential of Ring Doorbell Pro+ Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-premium-white-hd-backgrounds-for-iphones-at-no-cost/"><u>Download Premium White HD Backgrounds for iPhones at No Cost</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/l-footprint-of-mr-beast/"><u>Fiscal Footprint of Mr. Beast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-ts-videoconverter-naar-mp4-professioneel-snel-en-efficient-met-movavi/"><u>Gratis Online Ts-Videoconverter Naar Mp4: Professioneel Snel en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/innovative-tricks-for-powering-up-your-iphone-without-traditional-methods/"><u>Innovative Tricks for Powering Up Your iPhone without Traditional Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keeping-private-how-to-set-a-password-on-your-iphones-note-app-for-added-security/"><u>Keeping Private: How to Set a Password on Your iPhone's Note App for Added Security</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-mac-video-editor-adobe-premiere-pro-for-experts/"><u>New In 2024, The Ultimate Mac Video Editor Adobe Premiere Pro for Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nonresponsive-or-stuck-pclaptop-key-issue-here-is-a-simple-fix-for-your-beloved-machine-article-title-how-to-guide-tech-talker402-chars/"><u>Nonresponsive or Stuck PC/Laptop Key Issue? Here Is a Simple Fix for Your Beloved Machine (Article Title) – How-To Guide | Tech Talker—402 Chars</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simplified-group-communication-the-ultimate-guide-for-sending-group-texts-on-ios-and-android/"><u>Simplified Group Communication: The Ultimate Guide for Sending Group Texts on iOS & Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-2024s-best-non-itunes-music-managers-for-windows-and-macos-devotees/"><u>The Ultimate List of 2024'S Best Non-iTunes Music Managers for Windows and macOS Devotees</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-12-itunes-substitutes-best-options-for-windows-and-mac-users/"><u>Top 12 iTunes Substitutes : Best Options for Windows & Mac Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-ios-17-release-will-your-iphone-8-be-upgradable/"><u>Upcoming iOS 17 Release: Will Your iPhone 8 Be Upgradable?</u></a></li>
 </ul></div>
 

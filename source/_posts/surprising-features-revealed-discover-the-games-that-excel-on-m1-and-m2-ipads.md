@@ -1,7 +1,7 @@
 ---
 title: "Surprising Features Revealed: Discover the Games that Excel on M1 and M2 iPads"
-date: 2024-11-24T20:09:43.006Z
-updated: 2024-12-02T00:38:08.086Z
+date: 2024-12-15T08:47:02.083Z
+updated: 2024-12-16T01:51:18.787Z
 tags:
   - ios
 categories:
@@ -26,23 +26,19 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
 [Apple Silicon](https://fox-cloud.techidaily.com/updated-in-2024-professional-gopro-footage-in-3-simple-steps/) iPads now pack as much or more punch than previous-generation gaming consoles, making it possible for developers to deliver console-grade gaming in a thin, fanless tablet. If you're wondering what to do with the horsepower in your
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why These Games Make the List
 
  With a few exceptions, most of the games on this list are not exclusive to an [iPad equipped with an M1](https://www.amazon.com/dp/B09V3JH3XS?tag=htg-v2-6mhu36m-20&ascsubtag=UUhtgUeUpU203220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F855672%2F9-games-you-wont-believe-your-m1-or-m2-ipad-can-run%2F&asc%5Fcampaign=Short-Term) or [M2 chip](https://www.amazon.com/Apple-11-inch-iPad-Pro-Wi-Fi-128GB/dp/B0BJLBKMV8/?tag=htg-v2-6mhu36m-20&ascsubtag=UUhtgUeUpU203220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F855672%2F9-games-you-wont-believe-your-m1-or-m2-ipad-can-run%2F&asc%5Fcampaign=Short-Term). However, playing them on iPads with the latest Apple Silicon offers significant benefits in one way or another. We've chosen a list of games that can take advantage of your tablet's power to bring them close to or even equal to the console or PC versions of these games. They offer console-grade gaming on the go without the compromises of weaker mobile devices or handheld consoles such as the Nintendo Switch.
 
 Related: [10 Games You Won't Believe Your M1 or M2 Mac Can Run](https://fox-cloud.techidaily.com/updated-in-2024-professional-gopro-footage-in-3-simple-steps/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [XCOM 2 Collection](https://apps.apple.com/us/app/xcom-2-collection/id1288508230) 
 
 ![*NOT the iPad Version showing soldier firing minigun.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Feral Interactive_
 
@@ -54,17 +50,9 @@ _Feral Interactive_
 
 [App Store Download](https://apps.apple.com/us/app/xcom-2-collection/id1288508230) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Civilization VI](https://apps.apple.com/us/app/sid-meiers-civilization-vi/id1235863443) 
 
 ![Civilization VI mobile showing open technlogy tree and game board](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Aspyr_
 
@@ -84,6 +72,10 @@ Related: [You Should Play These Retro PC Games on Your M1 or M2 Mac](https://ext
 
 ![Alien Isolation Mobile showing scene from the game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Feral Interactive_
 
  Alien: Isolation ($14.99) is a survival horror game that was originally released for PC and consoles in 2014\. The game is set in the universe of the Alien film franchise and follows the story of Amanda Ripley, the daughter of Ellen Ripley, as she tries to survive on a space station overrun by a deadly alien creature.
@@ -94,17 +86,9 @@ _Feral Interactive_
 
 [App Store Download](https://apps.apple.com/us/app/alien-isolation/id1573029040) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Divinity Original Sin 2](https://apps.apple.com/us/app/divinity-original-sin-2/id1458655678) 
 
 ![Divinity Original Sin 2 Mobile Screenshot of character standing by statue in a ruin,](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/4.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Divinity: Original Sin 2 ($24.99) is a role-playing game that was originally released for PC in 2017 and later released for consoles and mobile devices, including iPad. The game is set in a fantasy world and follows the story of a group of characters who are seeking to uncover the mystery of their shared pasts and the source of their magical abilities.
 
@@ -114,9 +98,17 @@ _Feral Interactive_
 
 [App Store Download](https://apps.apple.com/us/app/divinity-original-sin-2/id1458655678) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [GRID AutoSport](https://apps.apple.com/us/app/grid-autosport/id1179421849) 
 
 ![Grid Autosport Mobile Screenshot showing cars racing around track.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Feral Interactive_
 
@@ -130,10 +122,6 @@ Related: [Apple's MetalFX Technology Is the Start of the Mac Gaming Revolution](
 
 [App Store Download](https://apps.apple.com/us/app/grid-autosport/id1179421849) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Wreckfest](https://apps.apple.com/us/app/wreckfest/id1592505377) 
 
 ![Wreckfest Mobile screenshots showing cars racing and smashing into each other.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/6.jpg) 
@@ -145,6 +133,10 @@ _Handy Games_
  Wreckfest features a wide variety of cars, from muscle cars and sedans to trucks and buses, and a variety of tracks, ranging from dirt tracks to city streets and airport runways. The game also has a car customization system, allowing players to upgrade and modify their vehicles to improve their performance.
 
 [App Store Download](https://apps.apple.com/us/app/wreckfest/id1592505377) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Genshin Impact](https://apps.apple.com/us/app/genshin-impact-lantern-rite/id1517783697) 
 
@@ -160,11 +152,19 @@ _Handy Games_
 
 ![Diablo Immortal Screenshot showing female necromancer about to enter combat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/8.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Blizzard's free-to-play addition to the legendary Diablo franchise has faces some stiff criticism regarding it's monetization strategies, but there's no denying that the game looks good. The only problem is that even on the latest mobile devices, turning the eye-candy all the way up results in a bit of a chug-fest.
 
  That is, unless you're running an Apple Silicon iPad, in which case you can have your cake and eat it at silky-smooth frame rates. Best of all, you can use practically any [gamepad](https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/) instead of touch controls, and play the nicest looking version of Diablo this side of Diablo 4.
 
 [App Store Download](https://apps.apple.com/us/app/diablo-immortal/id1492005122) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  No Man's Sky (Announced)
 
@@ -193,20 +193,18 @@ _Feral Interactive_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-perfect-gifs-essential-virtual-meet-scenes-for-2024/"><u>[New] Perfect GIFs Essential Virtual Meet Scenes for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-revolutionary-addition-latest-widget-feature-in-the-microsoft-365-suite/"><u>1. 'Revolutionary Addition: Latest Widget Feature in the Microsoft 365 Suite'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-comprehensive-recap-of-apples-worldwide-developers-conference-wwdc-2024-key-takeaways-and-insights/"><u>1. Comprehensive Recap of Apple's Worldwide Developers Conference (WWDC) 2024: Key Takeaways and Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-top-10-android-innovations-apple-must-integrate-into-future-iphones/"><u>1. Top 10 Android Innovations Apple Must Integrate Into Future iPhones</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-command-prompt-wonders-you-didnt-know/"><u>10 Command Prompt Wonders You Didn’t Know!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-look-back-in-time-discovering-when-the-initial-smartphone-emerged/"><u>A Look Back in Time: Discovering When the Initial Smartphone Emerged</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-introduces-new-lending-services-in-latest-iphone-update/"><u>Apple Introduces New Lending Services in Latest iPhone Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/belkin-revolutionizes-charging-technology-unveiling-the-innovative-magsafe-3-port-adapter/"><u>Belkin Revolutionizes Charging Technology: Unveiling the Innovative MagSafe 3-Port Adapter</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-guide-fixing-the-logitech-c922-webcam-for-seamless-video-capture/"><u>Expert Guide: Fixing the Logitech C922 Webcam for Seamless Video Capture</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-reno-11f-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Reno 11F 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-edge-in-video-creation-top-10-gadgets/"><u>In 2024, Leading Edge in Video Creation - Top 10 Gadgets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pushing-boundaries-advanced-iphone-silhouette-techniques-for-2024/"><u>Pushing Boundaries Advanced iPhone Silhouette Techniques for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-unsubscribing-from-apple-arcade-is-out-of-the-question-a-deep-dive-into-three-compelling-reasons/"><u>Why Unsubscribing From Apple Arcade Is Out of the Question: A Deep Dive Into Three Compelling Reasons</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unlocking-the-potential-of-slug-line-formats-in-screenplays/"><u>[New] 2024 Approved Unlocking the Potential of Slug Line Formats in Screenplays</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raft-professional-scenes-access-these-top-8-free-green-screen-backdrops-sites-for-2024/"><u>[New] Craft Professional Scenes - Access These Top 8 Free Green Screen Backdrops Sites for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-masterful-asmr-methods-by-leading-talents/"><u>[Updated] Masterful ASMR Methods by Leading Talents</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-chatgpts-maximum-text-intake-strategies-to-extend-its-reach/"><u>Decoding ChatGPT's Maximum Text Intake: Strategies to Extend Its Reach</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-tutorial-safeguarding-privacy-by-deleting-all-input-records-from-iphone-keyboards/"><u>In-Depth Tutorial: Safeguarding Privacy by Deleting All Input Records From iPhone Keyboards</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-gameplay-videography-on-a-pc-running-windows-10-for-your-youtube-channel/"><u>Mastering the Art of Gameplay Videography on a PC Running Windows 10 for Your YouTube Channel</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-signals-with-style-the-clearstream-2v-hdtv-antenna-tested-and-analyzed-for-indoor-and-outdoor-excellence-in-performance/"><u>Navigating Signals with Style - The ClearStream 2V HDTV Antenna Tested and Analyzed for Indoor and Outdoor Excellence in Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-the-three-fastest-techniques-for-cleaning-up-your-ipads-game-library/"><u>Quick Guide: The Three Fastest Techniques for Cleaning Up Your iPad's Game Library</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-solutions-how-to-free-up-space-on-your-iphones-nearly-full-storage/"><u>Quick Solutions: How to Free Up Space on Your iPhone's Nearly Full Storage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-erase-entire-iphone-music-library-in-just-a-few-minutes/"><u>Simple Guide: Erase Entire iPhone Music Library in Just a Few Minutes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-clear-your-ipads-browser-cache-including-youtube-and-safari/"><u>Step-by-Step Guide: How to Clear Your iPad's Browser Cache, Including YouTube and Safari</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-elder-scrolls-online-blackwood-update-issues-resolved/"><u>The Elder Scrolls Online Blackwood Update – Issues Resolved?</u></a></li>
 </ul></div>
 

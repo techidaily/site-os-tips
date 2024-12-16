@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your iCloud: Effective Strategies for Clearing Out Space"
-date: 2024-12-04T18:09:02.762Z
-updated: 2024-12-09T21:59:14.266Z
+date: 2024-12-11T00:26:14.917Z
+updated: 2024-12-15T21:53:55.172Z
 tags:
   - ios
 categories:
@@ -40,16 +40,12 @@ Close
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -60,7 +56,7 @@ Close
 ![The iPhone's Settings app with the Recommended For You option highlighted in the iCloud section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-icloud-recommended-for-you-selected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
@@ -80,7 +76,7 @@ Close
 ![iPad Pro selected on the iCloud Backups screen in the Mac's System Settings app, with the Delete option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-app-icloud-section-manage-account-storage-backups-delete-option-highlight.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will permanently remove the entire backup archive from your iCloud account and switch off the iCloud Backup feature for that device.
@@ -91,13 +87,13 @@ Close
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
 
@@ -147,6 +143,10 @@ Close
 
 ![iCloud Mail in a web browser with the Empty Trash option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-icloud-mail-app-inbox-view-empty-trash-selected.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you delete emails, remember to empty the trash afterward to have them removed permanently and free up storage space.
 
  You don't need to delete your emails from Gmail, Outlook, or Yahoo as those services don't store inboxes in iCloud but rather within their own cloud space.
@@ -162,10 +162,6 @@ Close
  The selected attachments will be removed from all your Apple devices.
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Consider Upgrading Your iCloud Storage
 
@@ -186,6 +182,10 @@ Close
  iCloud+ storage is also included in the [Apple One bundle,](https://some-guidance.techidaily.com/new-the-editors-edge-secrets-to-professional-photo-refining/) which combines multiple services at a discounted price. The $20/month tier includes 50GB, the $26/month one offers 200GB, and the flagship $38/month tier offers 2TB.
 
 ![The Apple One bundle plans and pricing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-one-bundle-individual-family-premier-plans-pricing.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If that wasn't enough, you can subscribe to Apple One and also buy one of the five iCloud+ storage plans to get a whopping 14TB of cloud-based storage.
 
@@ -210,18 +210,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-picture-perfect-support-portal/"><u>[Updated] In 2024, Picture Perfect Support Portal</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-intro-magic-crafting-irresistible-podcast-openers/"><u>2024 Approved Intro Magic Crafting Irresistible Podcast Openers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-net-laugh-builder/"><u>2024 Approved Net Laugh Builder</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/essential-forgotten-tips-for-instagram-proficiency-for-2024/"><u>Essential, Forgotten Tips for Instagram Proficiency for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-search-of-a-sleek-tablet-why-the-ipad-mini-deserves-serious-consideration/"><u>In Search of a Sleek Tablet? Why the iPad Mini Deserves Serious Consideration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-username-functionality-updates-available-on-signal-platform/"><u>Introducing Username Functionality: Updates Available on Signal Platform</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ipad-ownership-is-it-worth-your-investment-essential-insights-for-potential-buyers/"><u>IPad Ownership: Is It Worth Your Investment? Essential Insights for Potential Buyers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/"><u>Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-efficiency-adding-widgets-to-your-iphones-lock-screen-tutorial/"><u>Maximize Efficiency: Adding Widgets to Your iPhone's Lock Screen Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/one-year-on-reflecting-on-the-apple-watch-ultras-journey/"><u>One Year On: Reflecting on the Apple Watch Ultra's Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-arcade-with-expansive-front-ends/"><u>Revolutionize Your Arcade with Expansive Front Ends!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-instagram-video-descriptions-for-2024/"><u>The Ultimate Guide to Instagram Video Descriptions for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-apples-advanced-ai-integration-in-iphone-mac-and-ipad-an-in-depth-guide-by-zdnet/"><u>Understanding Apple's Advanced AI Integration in iPhone, Mac, and iPad - An In-Depth Guide by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-ultimate-list-of-must-have-video-tech/"><u>[New] 2024 Approved Beginner's Ultimate List of Must-Have Video Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-obs-the-ultimate-tutorial-for-live-broadcasts-for-2024/"><u>[New] Mastering OBS The Ultimate Tutorial for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-simplified-screen-capture-methods-for-stories/"><u>[New] Simplified Screen Capture Methods for Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-the-potential-of-vocal-talent-for-engaging-videos/"><u>[Updated] Unlocking the Potential of Vocal Talent for Engaging Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-techniques-for-correcting-error-code-0xc19001e1-in-windows-10/"><u>Effective Techniques for Correcting Error Code 0xC19001E1 in Windows 10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-music-download-tips-expert-guide-to-enriching-your-ipads-playlist-at-no-cost/"><u>Free Music Download Tips: Expert Guide to Enriching Your iPad's Playlist at No Cost</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y78 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nokia-c300-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nokia C300 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-playlists-that-rule-spotifys-top-10/"><u>In 2024, Playlists that Rule Spotify's Top 10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-or-stolen-how-to-retrieve-your-missing-iphone-safely/"><u>Lost or Stolen? How to Retrieve Your Missing iPhone Safely</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-camera-drones-10-filmmakers-dream-fleet/"><u>Premier Camera Drones #10 Filmmakers' Dream Fleet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-personal-reminders-a-step-by-step-guide-to-enabling-passcode-locks-in-ios-notes/"><u>Secure Your Personal Reminders: A Step-by-Step Guide to Enabling Passcode Locks in iOS Notes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-or-removing-your-facebook-profile-from-an-iphone-device/"><u>Step-by-Step Guide: Disabling or Removing Your Facebook Profile From an iPhone Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unlocking-the-potential-of-your-iphones-wifi-sharing-abilities/"><u>Step-by-Step Instructions: Unlocking the Potential of Your iPhone's WiFi Sharing Abilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-no-cost-sms-services-sendreceive-messages-using-any-device/"><u>The Ultimate List of No-Cost SMS Services: Send/Receive Messages Using Any Device!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-auto-play-features-why-your-iphone-chooses-songs-on-apple-music/"><u>Understanding Auto-Play Features: Why Your iPhone Chooses Songs on Apple Music</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-screen-time-functions-and-steps-to-deactivate/"><u>Understanding iPhone Screen Time: Functions & Steps to Deactivate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-android-phones-address-book-guide-a-beginners-tutorial/"><u>Unlocking Your Android Phone's Address Book Guide: A Beginner's Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-users-handbook-upgrading-usb-bluetooth-module-drivers/"><u>Windows User's Handbook: Upgrading USB Bluetooth Module Drivers</u></a></li>
 </ul></div>
 

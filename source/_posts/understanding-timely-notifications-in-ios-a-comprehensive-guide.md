@@ -1,7 +1,7 @@
 ---
 title: "Understanding Timely Notifications in iOS: A Comprehensive Guide"
-date: 2024-12-05T02:05:40.571Z
-updated: 2024-12-09T22:00:53.680Z
+date: 2024-12-12T05:52:32.900Z
+updated: 2024-12-16T03:43:53.436Z
 tags:
   - ios
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 ![Enabling Focus Mode from Control Center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/Enabling-Focus-Mode-from-Control-Center.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  "Time Sensitive" notifications are simply a special class of notifications that are given higher priority. They were introduced in [iOS 15](https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-5-emulators-transforming-old-ps1-games-on-pcs/) alongside [the "Focus" feature](https://youtube-data.techidaily.com/24-stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/), and that's really where they are the most useful.
@@ -49,20 +49,20 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
 ![Open the &quot;Settings&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/2021-08-17_17-17-33.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select "Focus" to get started.
 
 ![Tap the "Focus" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-tap-focus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can set up Time Sensitive exceptions for each Focus mode. In other words, you could allow Time Sensitive notifications to bypass "Do Not Disturb" but not "Sleep," for example. Tap the Focus mode you want to adjust. We're going to use "Do Not Disturb." 
 
 ![Tap "Do Not Disturb" or whatever focus mode you want.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-tap-do-not-disturb.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're at point in the process where you can choose which apps will be allowed to show notifications. Tap "Apps"
@@ -75,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
  Now, when the Focus mode is enabled, Time Sensitive notifications won't be blocked. Even if you're not allowing notifications from the app, the Time Sensitive notifications will get through.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Turn Off "Time Sensitive" Notifications
 
  What if an app is marking notifications as "Time Sensitive" and you don't agree? Or maybe an app is abusing the priority to shove annoying notifications in your face. You can turn off Time Sensitive notifications for any app.
@@ -87,26 +83,30 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
 ![Time Sensitive notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/NnUbMN2feKZH9Q9cgkTJRnXs-C5c1ReWddrAzqoKRNA-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%5F15%5Fbeta%5F1%5Foption%5Fto%5Fkeep%5For%5Fturn%5Foff%5Ftime/)_
 
  If you don't feel like waiting around for that, you can turn them off manually as well. Open the "Settings" app from the home screen on your iPhone or iPad.
 
 ![Open the &quot;Settings&quot; app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/2021-08-17_17-17-33.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Notifications."
 
 ![Tap "Notifications" to configure notifications on an app-by-app basis.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-tap-notifications.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Find the app that you want to turn off Time Sensitive notifications for.
 
 ![Open "Calendar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-calendar6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Toggle the switch off for "Time Sensitive Notifications." Note that not every app will have this option.
@@ -130,21 +130,22 @@ _[Reddit u/EdwardTheHuman](https://www.reddit.com/r/iOSBeta/comments/o2d778/ios%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-earn-big-stay-safe-top-5-income-boosting-posts/"><u>[Updated] Earn Big, Stay Safe Top 5 Income Boosting Posts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-basic-steps-flip-video-using-vlc-software/"><u>2024 Approved Basic Steps Flip Video Using VLC Software</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-80-pro-straight-screen-edition-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor 80 Pro Straight Screen Edition Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-device-driver-conflicts-within-world-of-warcraft-games/"><u>How to Overcome Device Driver Conflicts Within World of Warcraft Games</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/master-the-art-of-webcam-driver-updates-for-windows-7-with-these-steps/"><u>Master the Art of Webcam Driver Updates for Windows 7 with These Steps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/precision-gameplay-with-proximity-focus-in-roblox/"><u>Precision Gameplay with Proximity Focus in Roblox</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-magsafe-technology-on-iphones-features-and-uses/"><u>Understanding MagSafe Technology on iPhones: Features & Uses</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-swift-safeguard-measures-protecting-your-iphone-ipad-and-mac/"><u>Understanding Swift Safeguard Measures: Protecting Your iPhone, iPad, and Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-your-fitness-tracking-exploring-the-body-temperature-function-on-apple-watch/"><u>Understanding Your Fitness Tracking: Exploring the Body Temperature Function on Apple Watch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-your-new-iphone-a-comprehensive-guide-to-10-must-try-features-and-applications/"><u>Unlocking the Power of Your New iPhone: A Comprehensive Guide to 10 Must-Try Features and Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unprecedented-low-pricing-on-apples-latest-ipad-pro-incredible-deals-await/"><u>Unprecedented Low Pricing on Apple's Latest iPad Pro - Incredible Deals Await!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-watchos-10-enhanced-features-with-the-revolutionary-smart-stack-and-upgraded-apps/"><u>Unveiling WatchOS 10: Enhanced Features with the Revolutionary Smart Stack & Upgraded Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/using-your-iphone-to-monitor-and-elevate-emotional-well-being/"><u>Using Your iPhone to Monitor & Elevate Emotional Well-Being</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-7-troubleshooting-overcoming-the-blue-screen-error-0x0000007e/"><u>Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-stepwise-protocols-for-capturing-superior-vimeo-content/"><u>[New] Stepwise Protocols for Capturing Superior Vimeo Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-efficiently-record-your-gotomeeting-conferences/"><u>[Updated] 2024 Approved Efficiently Record Your GoToMeeting Conferences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-your-digital-den-top-12-animal-simulator-games-on-android/"><u>[Updated] 2024 Approved Your Digital Den Top 12 Animal Simulator Games on Android</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-humor-havens-discovering-comedy-gems-on-youtube-for-2024/"><u>[Updated] Humor Havens Discovering Comedy Gems on YouTube for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oneplus-nord-n30-se-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On OnePlus Nord N30 SE? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-f25-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo F25 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/copernic-edition-selection-guide-identifying-your-perfect-match-among-various-options/"><u>Copernic Edition Selection Guide: Identifying Your Perfect Match Among Various Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-guide-generating-your-own-cost-free-iphone-tones/"><u>DIY Guide: Generating Your Own Cost-Free iPhone Tones</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-opinion-on-tp-link-deco-p9-revolutionizing-mesh-networking-at-home/"><u>Expert Opinion on TP-Link Deco P9: Revolutionizing Mesh Networking at Home</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-easily-cast-your-ios-devices-screen-on-a-projector/"><u>How To Easily Cast Your iOS Device's Screen on a Projector</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-use-of-iphone-front-selfie-camera-mirror-feature/"><u>Mastering the Use of iPhone Front (Selfie) Camera Mirror Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-whatsapp-security-setting-up-a-robust-password-protection-for-ios-and-android-users/"><u>Mastering WhatsApp Security: Setting Up a Robust Password Protection for iOS & Android Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-your-iphone-display-with-the-microsoft-xbox-one/"><u>Step-by-Step Guide: Syncing Your iPhone Display with the Microsoft Xbox One</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamline-your-mobile-workforce-with-verizon-wirelesss-efficient-mdm-solutions/"><u>Streamline Your Mobile Workforce with Verizon Wireless's Efficient MDM Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-zoom-airplay-overcoming-common-challenges-and-ensuring-flawless-streaming/"><u>Troubleshooting Your Zoom AirPlay: Overcoming Common Challenges and Ensuring Flawless Streaming</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-efficient-methods-and-applications-for-linking-your-iphone-with-wi-fi/"><u>Ultimate Guide: Efficient Methods & Applications for Linking Your iPhone with Wi-Fi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage: Effortless Steps to Clear Out Unneeded Email on iPhone/iPad"
-date: 2024-12-04T04:41:09.707Z
-updated: 2024-12-10T01:52:34.421Z
+date: 2024-12-10T23:50:43.775Z
+updated: 2024-12-16T00:01:35.107Z
 tags:
   - ios
 categories:
@@ -34,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Open Settings, then go to General > iPhone Storage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-iphone-storage.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down in the list and look for the Mail app. This displays how much space is used by "Mail and Attachments." 
 
 ![The Mail app in the storage list. It shows 125 megabytes in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-mail.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Bad Solution: Manually Delete Emails
@@ -50,19 +54,15 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Tap the three-line button in the bottom left, then tap the "Filter By" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-tap-three-line-button-tap-filter-by.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap the toggle next to 
 
 ![Filters from the mail app, including "Only Mail with Attachments," "Only from VIP," and "Only Mail Sent Today."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-only-mail-with-attachments.png) 
 
-**You probably don't want to do this!** Any emails you delete from your phone will be deleted from the server if you [use IMAP for your email](https://fox-glue.techidaily.com/2024-approved-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/), which you probably do. Even if this wasn't a problem, this would take a long time. There's also no way to delete an attachment from an email—you just have to delete the entire email.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**You probably don't want to do this!** Any emails you delete from your phone will be deleted from the server if you [use IMAP for your email](https://fox-glue.techidaily.com/2024-approved-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/), which you probably do. Even if this wasn't a problem, this would take a long time. There's also no way to delete an attachment from an email—you just have to delete the entire email.
 
 ##  A Better Solution: Remove and Re-Add the Account
 
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Your iPhone will start downloading emails again, but this will clear out that old backlog of cached emails and file attachments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Limit the Number of Emails Your Service Provides to Mail
 
  The above tips may not be good enough to reduce the space the Mail app uses in the long run. Luckily, there may be a way you can prevent the Mail app from downloading all the emails in your email account. Unfortunately, there's no option in the Mail app itself for this.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![Limit the size of IMAP folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-folder-size-limits.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use Another Email App instead of Mail
 
  Unfortunately, the Mail app may be difficult to tame. It may eventually take up a lot of storage again after you remove and re-add the accounts. Not all email services let you limit the number of emails your email service shows to the Mail app.
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
  Once you set up your new email app, you can then remove your email accounts from the built-in Mail app using the instructions above, and it won't download emails or use any space at all. If you want to keep syncing calendars and contacts with an account but not use it in the Mail app, head to Settings > Mail > Accounts, tap the name of an account and disable the "Mail" slider for that account. You'll still have your address book and calendar, but email won't take up any space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Delete the Entire Mail App 
@@ -129,20 +129,21 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audio-anomalies-top-disruptive-apps-on-the-go/"><u>[New] 2024 Approved Audio Anomalies Top Disruptive Apps on the Go</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-joke-jingles-guide-best-ringtones-online/"><u>[New] Joke Jingles Guide Best Ringtones Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-sounds-for-video-creators-royalty-free-options/"><u>[New] Top Sounds for Video Creators Royalty-Free Options</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-toolkit-3d-video-entrances-ranked/"><u>2024 Approved The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-fixes-resolving-game-disc-compatibility-problems-with-the-nintendo-wii/"><u>Essential Fixes: Resolving Game Disc Compatibility Problems with the Nintendo Wii</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-enhanced-entertainment-apple-airplay-integration-in-hotel-tv-systems/"><u>Experience Enhanced Entertainment: Apple AirPlay Integration in Hotel TV Systems!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-iphones-and-viruses-why-traditional-antivirus-might-not-be-necessary/"><u>Exploring iPhones and Viruses: Why Traditional Antivirus Might Not Be Necessary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-basics-of-backward-wireless-energy-transfer/"><u>Exploring the Basics of Backward Wireless Energy Transfer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-data-transfer-rates-of-the-latest-iphone-15-usb-c-interface/"><u>Exploring the Data Transfer Rates of the Latest iPhone 15 USB-C Interface</u></a></li>
-<li><a href="https://os-tips.techidaily.com/galileo-by-gamesir-a-powerhouse-in-the-realm-of-console-gaming/"><u>Galileo by GameSir: A Powerhouse in the Realm of Console Gaming</u></a></li>
-<li><a href="https://os-tips.techidaily.com/improve-ipad-performance-apple-quality-over-size/"><u>Improve iPad Performance: Apple - Quality Over Size!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-become-an-nft-expert-with-these-top-7-creative-tools/"><u>In 2024, Become an NFT Expert with These Top 7 Creative Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-free-and-best-text-to-speech-generators/"><u>Top 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-from-toms-computer-review/"><u>Unveiling the Latest From Tom's Computer Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-perfecting-iphone-360-video-posts-for-your-feed/"><u>[New] 2024 Approved Perfecting iPhone 360 Video Posts for Your Feed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-scope-on-splitcam-highest-quality-camera/"><u>[New] The Scope on SplitCam Highest Quality Camera?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-the-art-of-monetization-with-ajey-carryminati/"><u>[Updated] 2024 Approved Mastering the Art of Monetization with Ajey (CarryMinati)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-guide-perfecting-your-youtube-audio-to-text-conversion-for-2024/"><u>[Updated] Free Guide Perfecting Your YouTube Audio-to-Text Conversion for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-lineup-of-oled-laptops-in-depth-analysis-and-expert-ratings-zdnet/"><u>2024'S Elite Lineup of OLED Laptops: In-Depth Analysis and Expert Ratings | ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/blur-photos-fast-on-iphone-simple-steps-for-selective-image-privacy/"><u>Blur Photos Fast on iPhone - Simple Steps for Selective Image Privacy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-corporate-mobility-manage-devices-seamlessly-using-verizon-wireless-mdm-technology/"><u>Enhance Corporate Mobility: Manage Devices Seamlessly Using Verizon Wireless MDM Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-notifications-from-phone-link-app-on-windows/"><u>Fixing Unresponsive Notifications From Phone Link App on Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620273595-free-ios-device-superuser-access-create-passwords-and-usernames-on-the-go/"><u>Free iOS Device Superuser Access: Create Passwords & Usernames on the Go!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-k11-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo K11 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovate-and-inspire-computexs-ai-hardware/"><u>Innovate and Inspire: Computex’s AI Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-projections-on-the-oneplus-10-forecasting-costs-release-calendar-expected-functionality-and-leaks/"><u>Insider Projections on the OnePlus 10: Forecasting Costs, Release Calendar, Expected Functionality & Leaks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/preventing-heic-photos-in-airdrop-tips-for-converting-images-on-ios-and-macos-devices/"><u>Preventing HEIC Photos in Airdrop: Tips for Converting Images on iOS and macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-straightforward-techniques-for-mirroring-your-ipad-display-onto-a-pc-mac-or-television/"><u>Quick and Straightforward Techniques for Mirroring Your iPad Display Onto a PC, Mac or Television</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphone-charging-problems-effective-strategies-for-a-better-battery-life/"><u>Solving iPhone Charging Problems: Effective Strategies for a Better Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-charging-your-iphone-wirelessly-no-cable-needed/"><u>Ultimate Guide: Charging Your iPhone Wirelessly - No Cable Needed!</u></a></li>
 </ul></div>
 

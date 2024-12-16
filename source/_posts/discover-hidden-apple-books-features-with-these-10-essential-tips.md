@@ -1,7 +1,7 @@
 ---
 title: Discover Hidden Apple Books Features with These 10 Essential Tips
-date: 2024-12-04T21:58:38.324Z
-updated: 2024-12-10T00:40:07.258Z
+date: 2024-12-13T00:57:52.024Z
+updated: 2024-12-15T23:41:47.268Z
 tags:
   - ios
 categories:
@@ -41,7 +41,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking the number of pages read in a book in the Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Set Reading Goals 
@@ -90,10 +90,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Themes & Settings option in Apple Books menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-13.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can change a bunch of things from the "Themes & Settings" overlay screen, including the font size, font type, theme, and page turn animations.
 
 ![Themes & Settings overlay screen on the Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-14.jpg) 
@@ -108,6 +104,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search Book feature in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-16.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, type a number, and tap on the result to open that page.
 
 ![Searching a book by page number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-17.jpg) 
@@ -115,10 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can also use this search feature to look up something specific in a book. Simply type the text you want to find, and the app will show all the instances of it in the book.
 
 ![Searching a book in Apple Books by a word or phrase.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-18.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tap on one to jump in and read.
 
@@ -129,7 +125,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Bookmark button in the Apple Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-29.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see a bookmark icon in the bottom-right corner of the page, indicating it's bookmarked. The Books app keeps all your bookmarks for a book in one place. You can access them by tapping the menu button and going into "Bookmarks & Highlights."
@@ -139,7 +135,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When you want to remove a bookmark, it's easy. Tap the bookmark icon to bring up the menu, and then hit the bookmark button again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Highlight Text and Take Notes 
@@ -158,6 +154,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![HIghlight options in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-21.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to add a note to the highlight, tap on the highlighted text and select "Add Note" from the menu.
 
 ![Adding a note to a highlight in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-22.jpg) 
@@ -166,16 +166,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Square box in Books app indicating a highlight with a note.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-24.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, if you have multiple notes on a page, you can view them in one place. Tap the menu button in the bottom-right corner of the page and select "Bookmarks & Highlights." Switch to the "Highlights" tab, and you'll see all your highlights and notes for that book on this page.
 
 ![Checking all the higlights in a book in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-27.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Keep Your Books Synced Across All Your Devices 
@@ -196,10 +196,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Viewing all apps using iCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-35.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here, make sure the toggle next to "Books" is on.
 
 ![Allowing Books to use iCloud on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-36.jpg) 
@@ -207,6 +203,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Lastly, tap on "iCloud Drive" and enable it if it isn't already enabled.
 
 ![Turning on the Sync this iPhone feature under iCloud settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-38.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  Read and Annotate PDFs 
 
@@ -220,13 +220,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Selecting Books in Share Sheet to import a PDF into it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-40.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will open the PDF in the Apple Books app. You can now read the PDF or annotate it using the Markup tools.
 
 ![Markup option on a PDF in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-41.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9  Create a Wish List of Books You Want to Read 
 
@@ -236,13 +236,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Want to Read button in Books app to add a book to wishlist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-42.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you want to access your wishlist, head to the "Home" tab. Find the "Want to Read" section and tap on it. Here, you'll see all the books you've saved and can check their samples or purchase them.
 
 ![Want to Read section in the Apple Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-45.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Since the Books store is so exhaustive, you can use this feature to keep track of books whether or not you intend to read them digitally (or on the Apple Books service). 
 
@@ -269,17 +269,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-multimedia-management-with-mstream-tools-for-2024/"><u>[New] Easy Multimedia Management with MStream Tools for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-pro-level-snapshot-techniques-maximizing-zoomed-photo-and-video-experience/"><u>[New] Pro-Level Snapshot Techniques Maximizing Zoomed Photo and Video Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-harmonizing-different-footage-sources-on-ios-device/"><u>2024 Approved Harmonizing Different Footage Sources on iOS Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-boosting-windows-file-audit-with-precision/"><u>In 2024, Boosting Windows File Audit with Precision</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-surveying-with-style-instagrams-polling-protocols-explained/"><u>In 2024, Surveying with Style Instagram's Polling Protocols Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instantly-install-the-latest-windows-t-wireless-connectivity-drivers/"><u>Instantly Install the Latest Windows T Wireless Connectivity Drivers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mac-movie-creation-a-beginners-guide-to-making-movies/"><u>New In 2024, Mac Movie Creation A Beginners Guide to Making Movies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-of-apple-books-top-1nformation-and-strategies-for-better-reading/"><u>Unlock the Full Potential of Apple Books: Top 1Nformation and Strategies for Better Reading</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-phones-hidden-potential-with-live-photo-screen-magic-the-ultimate-underrated-ios-treat/"><u>Unlock Your Phone's Hidden Potential with Live Photo Screen Magic: The Ultimate Underrated iOS Treat</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-secret-how-smartphones-match-pc-performance-without-cooling-fans/"><u>Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-top-10-secret-enhancements-in-ios-17/"><u>Unveiling the Top 10 Secret Enhancements in iOS 17</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-enhancements-a-major-improvement-for-web-applications-on-ios-devices/"><u>Upcoming Enhancements: A Major Improvement for Web Applications on iOS Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-groundbreiting-recording-solutions-for-environmental-films/"><u>[New] 2024 Approved Groundbreiting Recording Solutions for Environmental Films</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-file-download-voice-track-analysis/"><u>[New] In 2024, File Download Voice Track Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mr-beasts-financial-portrait/"><u>[New] In 2024, Mr. Beast’s Financial Portrait</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-comprehensive-guide-to-crop-your-video-for-instagram/"><u>A Comprehensive Guide to Crop Your Video for Instagram</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-removing-apple-store-transactions-from-your-iphones-past-purchases/"><u>Complete Tutorial: Removing Apple Store Transactions From Your iPhone's Past Purchases</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-disabling-or-deleting-safari-app-on-iphones-ranging-from-xr-to-previous-generations/"><u>Comprehensive Tutorial on Disabling or Deleting Safari App on iPhones Ranging From XR to Previous Generations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-frontier-crash-issue-in-pc-gaming-a-step-by-step-guide/"><u>Fixing the Frontier Crash Issue in PC Gaming - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-3-for-pc-resolving-unexpected-black-screen-errors-effectively/"><u>Hitman 3 for PC - Resolving Unexpected Black Screen Errors Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-iphone-to-its-default-state-a-comprehensive-tutorial-for-wiping-and-refreshing-your-device/"><u>Resetting Your iPhone to Its Default State: A Comprehensive Tutorial for Wiping and Refreshing Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-simple-ways-to-free-up-space-by-deleting-unnecessary-ios-apps/"><u>Top 3 Simple Ways to Free Up Space by Deleting Unnecessary iOS Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-securely-profit-from-your-used-iphones-with-expert-techniques/"><u>Ultimate Guide: Securely Profit From Your Used iPhones with Expert Techniques</u></a></li>
 </ul></div>
 

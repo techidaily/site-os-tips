@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-11-27T19:56:18.625Z
-updated: 2024-12-01T19:01:59.514Z
+date: 2024-12-13T04:19:09.606Z
+updated: 2024-12-15T21:04:39.040Z
 tags:
   - ios
 categories:
@@ -11,13 +11,17 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 ## A Look Back in Time: Discovering When the Initial Smartphone Emerged
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -27,16 +31,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,22 +88,22 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unwinding-on-your-device-easy-phone-games/"><u>[New] In 2024, Unwinding on Your Device Easy Phone Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-nows-vr-innovation-snapshot/"><u>[New] Now's VR Innovation Snapshot</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-approach-to-youtube-community-dialogue/"><u>2024 Approved Streamlining Your Approach to YouTube Community Dialogue</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-realtek-rtl8188cu-drivers-compatible-with-windows-7-and-10/"><u>Get the Latest Realtek RTL8188CU Drivers: Compatible with Windows 7 & 10</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f04-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F04 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube/"><u>In 2024, Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-entry-point-not-found-error-in-fortnite-a-step-by-step-guide/"><u>Resolving the 'Entry Point Not Found' Error in Fortnite: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/surprising-features-revealed-discover-the-games-that-excel-on-m1-and-m2-ipads/"><u>Surprising Features Revealed: Discover the Games that Excel on M1 and M2 iPads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-cell-phone-practices-that-shorten-battery-lifespan-avoid-these-mistakes/"><u>Top Cell Phone Practices That Shorten Battery Lifespan: Avoid These Mistakes!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-iphone-13-pro-max/"><u>Top-Rated Protective Covers for iPhone 13 Pro Max</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transforming-an-obsolete-apple-timepiece-into-vintage-clockwork-art/"><u>Transforming an Obsolete Apple Timepiece Into Vintage Clockwork Art</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transforming-chaos-into-order-discover-why-families-adore-using-cozi-for-life-management/"><u>Transforming Chaos Into Order: Discover Why Families Adore Using Cozi for Life Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-common-glitches-in-apples-financial-services/"><u>Troubleshooting Common Glitches in Apple's Financial Services</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-cannot-connect-to-app-store-issue-on-your-iphoneipad/"><u>Troubleshooting Steps: Resolving 'Cannot Connect to App Store' Issue on Your iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-apple-watch-a-guide-to-fix-sleep-tracking-issues/"><u>Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-encouraging-gamers-to-develop-games-can-have-negative-consequences/"><u>Why Encouraging Gamers to Develop Games Can Have Negative Consequences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premiers-choice-15-superior-android-simulators/"><u>[New] 2024 Approved Premier's Choice 15 Superior Android Simulators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-vlog-through-proper-lighting-for-2024/"><u>[New] Elevating Your Vlog Through Proper Lighting for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-best-8-private-video-downloaders/"><u>2024 Approved Best 8 Private Video Downloaders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/avoiding-unnecessary-storage-use-halting-whatsapp-sync-on-mobile-phones/"><u>Avoiding Unnecessary Storage Use: Halting WhatsApp Sync on Mobile Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-safeguard-phone-information-iphones-and-androids/"><u>Comprehensive Steps to Safeguard Phone Information: IPhones and Androids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-save-your-iphones-information-using-icloud-itunes-or-pc-a-complete-guide/"><u>Easy Steps: Save Your iPhone's Information Using iCloud, iTunes or PC - A Complete Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-photo-preservation-for-smartphone-users-securely-saving-images-on-android-and-iphone/"><u>Effortless Photo Preservation for Smartphone Users: Securely Saving Images on Android & iPhone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/exclusive-insight-how-to-masterfully-preview-videos-online/"><u>Exclusive Insight: How to Masterfully Preview Videos Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experts-complete-handbook-for-iphone-and-android-backup-data-recovery-techniques/"><u>Expert's Complete Handbook for iPhone and Android Backup Data Recovery Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-preserving-your-tunes-ultimate-strategies-for-securing-your-songs-on-all-iphones-model-15-14-13-and-earlier/"><u>Guide: Preserving Your Tunes - Ultimate Strategies for Securing Your Songs on All iPhones (Model 15, 14, 13, and Earlier)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-a-corrupted-iphone-backup-with-two-reliable-techniques/"><u>How to Fix a Corrupted iPhone Backup with Two Reliable Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-seamlessly-add-snap-camera-to-microsoft-chats-for-2024/"><u>How To Seamlessly Add Snap Camera to Microsoft Chats for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlock-youtube-broadcast-google-meet-tutorial-steps/"><u>In 2024, Unlock YouTube Broadcast Google Meet Tutorial Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-rescue-mission-retrieving-your-valuable-information-beyond-itunes-and-icloud-boundaries/"><u>IPhone Rescue Mission: Retrieving Your Valuable Information Beyond iTunes and iCloud Boundaries</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Xiaomi .</u></a></li>
 </ul></div>
 

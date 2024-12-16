@@ -1,7 +1,7 @@
 ---
 title: "Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?"
-date: 2024-12-01T13:50:59.527Z
-updated: 2024-12-02T07:13:02.378Z
+date: 2024-12-11T03:59:27.511Z
+updated: 2024-12-16T04:54:43.133Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 ## Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  GPT vs. Claude On The Web
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
@@ -56,10 +56,6 @@ Dibakar Ghosh / How-To Geek / Midjourney
  Claude has a similar tokenization system, but the amount of messages you're allowed seems much more limited at the free level. After those messages run out, you can't use the model again until it resets. As someone who used a pro account for a bit, I noticed that the access limits had increased somewhat, but I still found that I ran out of credits before I could adequately get anything done. There is a higher-paid tier for both ChatGPT and Claude, but I haven't tested either.
 
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Which App Performs Better?
 
@@ -77,6 +73,10 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -85,13 +85,13 @@ Jason Dookeran/How-to-Geek
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
 
@@ -112,22 +112,20 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-playing-fb-videos-on-your-apple-device/"><u>[New] In 2024, Playing FB Videos on Your Apple Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-on-screen-caption-composer/"><u>[Updated] On-Screen Caption Composer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>2024 Approved Transform Your Photos Mastering Time Lapse with Samsung Mobile</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/disappear-red-eye-effect-on-iphone-images-at-no-charge/"><u>Disappear Red Eye Effect on iPhone Images at No Charge</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-se-2022-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone SE (2022) Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-personal-hotspot-problems-discover-these-effective-10-remedies-to-restore-connectivity/"><u>IPhone Personal Hotspot Problems? Discover These Effective 10 Remedies to Restore Connectivity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-update-news-and-product-safety-announcements-weekly-summary/"><u>IPhone Update News & Product Safety Announcements - Weekly Summary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/issues-with-apple-card-and-apple-pay-a-comprehensive-look/"><u>Issues with Apple Card & Apple Pay: A Comprehensive Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/key-hurdles-preventing-iphone-upgrade-decisions/"><u>Key Hurdles Preventing iPhone Upgrade Decisions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/love-at-first-sight-the-paprika-app-transforms-my-project-management-forever/"><u>Love at First Sight: The Paprika App Transforms My Project Management Forever!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-multitasking-in-the-apple-universe-translocating-batches-of-apps-together-on-iphoneipad/"><u>Master Multitasking in the Apple Universe: Translocating Batches of Apps Together on iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-battery-life-how-to-always-maintain-your-iphone-on-ultra-low-power/"><u>Mastering Battery Life: How to Always Maintain Your iPhone on Ultra-Low Power</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-photo-quality-essential-settings-update-for-the-iphone-15s-camera/"><u>Maximize Photo Quality: Essential Settings Update for the iPhone 15'S Camera</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movmp4windows105/"><u>MOVからMP4への無償変換手法：Windows10で5選、画質低下不用!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-in-game-video-production-a-complete-guide-for-2024/"><u>Streamlining In-Game Video Production A Complete Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-8-strategies-in-digital-sound-logging-techniques/"><u>Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-protouch-4k-uniscreen-hub-systems/"><u>[Updated] ProTouch 4K UniScreen Hub Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-guide-crafting-and-altering-multisnap-stories/"><u>[Updated] Simplified Guide Crafting & Altering Multisnap Stories</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-snippet-grabber-fb-to-mp3-for-2024/"><u>[Updated] Snippet Grabber FB to Mp3 for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-strategic-approaches-to-dominating-spotifys-ad-space-for-2024/"><u>[Updated] Strategic Approaches to Dominating Spotify's Ad Space for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-pfr-rate-for-sluggish-film-speed/"><u>[Updated] Top PFR Rate for Sluggish Film Speed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-top-5-must-have-ios-data-protection-solutions-for-your-smartphone/"><u>Discover the Top 5 Must-Have iOS Data Protection Solutions for Your Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-methods-the-top-three-strategies-for-secure-ipad-backup-solutions/"><u>Effortless Methods: The Top Three Strategies for Secure iPad Backup Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-save-your-iphones-memory-on-windows-and-macos-an-ultimate-how-to-tutorial/"><u>Effortlessly Save Your iPhone's Memory on Windows & macOS: An Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-15-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 15</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/is-picku-the-pinnacle-of-editing-excellence-on-android-devices/"><u>Is PickU The Pinnacle of Editing Excellence on Android Devices?</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-medias-new-controvernial-approach-to-advertising/"><u>Social Media's New Controvernial Approach to Advertising?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-music-backup-mastery-for-iphone-users-from-model-8-to-latest-iphone-series/"><u>Step-by-Step Music Backup Mastery for iPhone Users: From Model 8 to Latest iPhone Series</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-your-figma-project-with-clean-backgrounds-for-2024/"><u>Streamlining Your Figma Project with Clean Backgrounds for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-your-iphones-icloud-backup-failure/"><u>Troubleshooting Steps: Resolving Issues with Your iPhone's iCloud Backup Failure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-iphones-secrets-steps-to-retrieve-data-without-needing-itunes-or-icloud/"><u>Unlocking Your iPhone's Secrets: Steps to Retrieve Data Without Needing iTunes or iCloud</u></a></li>
 </ul></div>
 

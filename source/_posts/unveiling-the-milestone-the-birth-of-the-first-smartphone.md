@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-12-02T21:40:22.882Z
-updated: 2024-12-10T01:58:40.486Z
+date: 2024-12-09T06:11:54.412Z
+updated: 2024-12-16T07:13:43.559Z
 tags:
   - ios
 categories:
@@ -12,13 +12,17 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
@@ -48,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -88,15 +88,17 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-great.techidaily.com/mydocument/"><u>「オンディーブでのMyDocumentの自動保存手順」</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-festive-gps-your-ultimate-guide-to-navigating-with-santas-sleigh-on-waze-during-the-holidays/"><u>A Festive GPS: Your Ultimate Guide to Navigating with Santa's Sleigh on Waze During the Holidays</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-restoring-your-apple-airpods-pros-max-pair/"><u>A Step-by-Step Guide to Restoring Your Apple AirPods / Pros / Max Pair</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ai-mastery-crafting-innovative-background-scenes-for-instagram-narratives-using-machine-learning-techniques/"><u>AI Mastery: Crafting Innovative Background Scenes for Instagram Narratives Using Machine Learning Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-latest-innovation-the-significant-improvements-of-the-apple-pencil-pro/"><u>Apple's Latest Innovation: The Significant Improvements of the Apple Pencil Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/capture-your-vision-leading-tablet-art-tools-for-2024/"><u>Capture Your Vision Leading Tablet Art Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/freezing-your-gameplay-xbox-one-screenshot-essentials-for-2024/"><u>Freezing Your Gameplay Xbox One Screenshot Essentials for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-vr-frontier-who-holds-the-crown/"><u>In 2024, The VR Frontier Who Holds the Crown?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-methods-of-recovering-lost-wmvcoredll-files-and-eliminating-related-error-messages/"><u>Master the Methods of Recovering Lost wmvcore.dll Files and Eliminating Related Error Messages</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-quick-online-mp3-generator-from-fb-videos-2023-updates/"><u>[New] 2024 Approved Quick Online MP3 Generator From FB Videos, 2023 Updates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-music-live-streaming-services/"><u>[New] Best Music Live Streaming Services</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-synesthetic-screens-the-future-of-cinema/"><u>[New] Synesthetic Screens The Future of Cinema</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-refining-your-youtube-videos-after-publishing/"><u>[Updated] The Ultimate Guide to Refining Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-android-file-management-apps-reviewed-find-your-perfect-match/"><u>Best Android File Management Apps Reviewed: Find Your Perfect Match</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-top-rated-tracking-applications-finding-your-lost-android-device/"><u>Best Top-Rated Tracking Applications: Finding Your Lost Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620244631-expert-tips-for-reviving-a-dead-phone-battery-proven-methods-to-bring-your-device-back-to-life/"><u>Expert Tips for Reviving a Dead Phone Battery: Proven Methods to Bring Your Device Back to Life!</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y27s-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y27s</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-solution-completely-removing-your-gmail-account-for-good/"><u>Ultimate Solution: Completely Removing Your Gmail Account for Good</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/upcoming-release-of-windows-10-expected-arrival-in-the-usa-uk-and-down-under/"><u>Upcoming Release of Windows 10: Expected Arrival in the USA, UK and Down Under</u></a></li>
 </ul></div>
 

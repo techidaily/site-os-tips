@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2024-12-07T16:03:39.062Z
-updated: 2024-12-09T17:16:58.859Z
+date: 2024-12-15T00:55:43.627Z
+updated: 2024-12-16T00:41:44.191Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ## Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 * [The Deeper Fix: Disable Notifications on Lock Screen](https://vp-tips.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,11 +39,11 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Deeper Fix: Disable Notifications on Lock Screen
 
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Settings, tap "Notifications."
 
 ![Tap "Notifications" in the listed options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-notifications.png) 
@@ -63,16 +67,12 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![We selected the Messages app in the Notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-messages.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the app's notification settings, tap "Lock Screen" to uncheck it.
 
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
@@ -94,15 +94,24 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/best-password-management-tools-of-2022-slash-your-costs-insights-from-zdnet/"><u>Best Password Management Tools of 2022: Slash Your Costs - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-motorola-edgeplus-2023-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Edge+ (2023) in Minutes | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-a78-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo A78 Phones with/without a PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-free-video-calls-on-pcmac-os-for-easy-online-meetings/"><u>In 2024, Top Free Video Calls on PC/Mac OS for Easy Online Meetings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-reasons-for-switching-from-google-maps-to-waze-a-comprehensive-look/"><u>My Reasons for Switching From Google Maps to Waze: A Comprehensive Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recognizing-signs-of-cell-phone-data-throttling-a-comprehensive-guide/"><u>Recognizing Signs of Cell Phone Data Throttling: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sharing-your-airtag-a-step-by-step-guide-for-multiple-user-access/"><u>Sharing Your AirTag: A Step-by-Step Guide for Multiple User Access</u></a></li>
-<li><a href="https://os-tips.techidaily.com/silence-intrusive-numbers-on-your-iphone-tips-for-blocking-sms/"><u>Silence Intrusive Numbers on Your iPhone: Tips for Blocking SMS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-prices-unbeatable-deal-at-250-off-asus-rog-zephyrus-g16-with-powerful-intel-core-i9-1850h-and-nvidia-rtx-4070/"><u>Slash Prices: Unbeatable Deal at $250 Off - ASUS ROG Zephyrus G16 with Powerful Intel Core I9-1850H & NVIDIA RTX 4070</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-era-of-jobs-shaped-by-ai-progress/"><u>The New Era of Jobs Shaped by AI Progress</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-10-free-passport-photo-maker-for-desktop-and-online/"><u>[Updated] 10 Free Passport Photo Maker for Desktop and Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-free-live-streaming-software-and-app-for-all-platforms/"><u>[Updated] Best Free Live Streaming Software and App for All Platforms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-redmi-note-12r-frp-bypass-by-drfone-android/"><u>About Xiaomi Redmi Note 12R FRP Bypass</u></a></li>
+<li><a href="https://os-tips.techidaily.com/common-queries-and-insights-on-managing-iphones-voicemail-system/"><u>Common Queries & Insights on Managing iPhone's Voicemail System</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>Comprehensive Analysis Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-solutions-fixing-your-iphones-wi-fi-connection-issues-in-just-7-steps/"><u>Essential Solutions: Fixing Your iPhone's Wi-Fi Connection Issues in Just 7 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fenrir/"><u>Fenrir -</u></a></li>
+<li><a href="https://os-tips.techidaily.com/full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/highhurdle-slowmomenttape/"><u>HighHurdle SlowMomentTape</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-issues-when-whatsapp-messages-fail-to-alert-you/"><u>How to Resolve Issues When WhatsApp Messages Fail to Alert You</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620251539-imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-pro-enhancing-photo-clarity-details-and-composition/"><u>In 2024, IPhone Pro Enhancing Photo Clarity, Details & Composition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-leveraging-temporal-illusions-in-cinematography/"><u>In 2024, Leveraging Temporal Illusions in Cinematography</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfect-snapchat-video-maximizing-mac-capabilities/"><u>Perfect Snapchat Video Maximizing Mac Capabilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-definitive-strategy-for-reviving-a-blocked-iphone-secrets-to-access-unlock-and-data-retrieval/"><u>The Definitive Strategy for Reviving a Blocked iPhone: Secrets to Access, Unlock, and Data Retrieval</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-life-of-the-greek-gods/"><u>The Life of the Greek Gods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-iphone-photography-dealing-with-unresponsive-image-capture-functionality/"><u>Troubleshooting Tips for iPhone Photography: Dealing with Unresponsive Image Capture Functionality</u></a></li>
 </ul></div>
 

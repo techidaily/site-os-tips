@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-12-08T20:54:05.608Z
-updated: 2024-12-10T02:46:13.829Z
+date: 2024-12-13T04:49:26.202Z
+updated: 2024-12-15T20:07:51.997Z
 tags:
   - ios
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Word and Character Count Included for Writers](https://facebook-record-videos.techidaily.com/new-access-high-quality-youtube-images-without-paying-a-dime-for-2024/)
 * [You Can Extend Obsidian With Plug-ins](https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Obsidian saves notes as plain text files, giving you full control over your data and allowing easy backups.
@@ -32,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Obsidian offers tabs for multitasking, a formatting bar for easy text editing, word count, and character count features.
 
  The best writing tool is the one you have on you. For me, that's my smartphone, but it's no good without the right app. After searching high and low, I finally found an app that just about does it all. If you haven't yet heard of Obsidian, it may be the best note taking app for you, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Is Obsidian?
 
@@ -49,10 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
  Most writing apps hide your local data from you. Samsung Notes, for example, comes pre-installed on my Galaxy Z Fold 5, but I can only back up notes to either Samsung's cloud or Microsoft's. I can also only access my notes using that one app, meaning I'm locked in.
@@ -61,13 +49,13 @@ Bertel King / How-To Geek
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -78,6 +66,10 @@ Bertel King / How-To Geek
  File organizing is where the "knowledge graph" bit really comes into play. One way to think of a knowledge graph is your own offline version of Wikipedia consisting only of things you've written. You can create hyperlinks that link from one note to another and opt to ignore folders entirely if that sort of organizing doesn't work for you. You can then view graphs that show you an interesting web of how your written thoughts have connected over time.
 
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tabs Simplify Working With Multiple Documents
 
@@ -92,12 +84,16 @@ Bertel King / How-To Geek
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -108,6 +104,10 @@ Bertel King / How-To Geek
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -144,18 +144,20 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-discovering-the-best-music-playback-on-youtube-2023/"><u>[New] In 2024, Discovering the Best Music Playback on YouTube, 2023</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-transform-your-stream-embrace-obs-for-youtube-and-twitch-for-2024/"><u>[New] Transform Your Stream Embrace OBS for YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/coagulative-necrosis/"><u>Coagulative Necrosis</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversione-rapida-e-gratuita-dei-video-webm-a-swf-con-il-servizio-online-di-movavi-guida-completa/"><u>Conversione Rapida E Gratuita Dei Video WebM a SWF Con Il Servizio Online Di Movavi: Guida Completa</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-google-pixel-8-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Google Pixel 8 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-11-proplus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme 11 Pro+ to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-google-pixel-7a-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Google Pixel 7a</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-apple-watch-as-a-guardian-angel-discover-9-potential-life-preserving-benefits/"><u>The Apple Watch as a Guardian Angel: Discover 9 Potential Life-Preserving Benefits</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-best-iphone-add-ons-exceptional-value-meets-innovation/"><u>The Best iPhone Add-Ons – Exceptional Value Meets Innovation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-long-lasting-test-of-a-biodegradable-phone-case-a-5-month-update/"><u>The Long-Lasting Test of a Biodegradable Phone Case - A 5-Month Update</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-many-reasons-behind-my-passion-for-apples-seamless-digital-world/"><u>The Many Reasons Behind My Passion for Apple's Seamless Digital World</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unblocking-text-message-delivery-issues-on-android-phones/"><u>Unblocking Text Message Delivery Issues on Android Phones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-perfect-asmr-recording-top-mic-choices-unveiled/"><u>[New] In 2024, Perfect ASMR Recording Top Mic Choices Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-vlogs-the-finest-camera-selections-of-the-year-for-2024/"><u>[New] Mastering Vlogs The Finest Camera Selections of the Year for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-winning-gameplay-capture-with-fbx/"><u>[Updated] In 2024, Winning Gameplay Capture with FBX</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-inquiry-how-to-view-all-media-sharing-in-app-messages-in-2024/"><u>[Updated] Inquiry How to View All Media Sharing in App Messages, In 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-android-emulators-top-9-picks-for-windows-and-mac-users/"><u>Best Android Emulators: Top 9 Picks for Windows & Mac Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-post-sharing-on-instagram/"><u>Comprehensive Guide: Mastering the Art of Post Sharing on Instagram</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-techniques-for-monitoring-mobile-locations-android-and-ios-solutions/"><u>Effective Techniques for Monitoring Mobile Locations: Android and iOS Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-video-branding-incorporating-watermarks-into-youtube-media-for-2024/"><u>Elevate Video Branding Incorporating Watermarks Into YouTube Media for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/head-to-head-battle-iphone-x-against-the-samsung-galaxy-s8-an-analysis/"><u>Head-to-Head Battle: IPhone X Against the Samsung Galaxy S8 - An Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-easily-access-and-view-heic-images-on-your-android-device/"><u>How to Easily Access and View HEIC Images on Your Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-efficiently-disconnect-your-google-account-from-mobile-devices/"><u>How to Efficiently Disconnect Your Google Account From Mobile Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210349653-9782226294982-la-vie-dermite/"><u>La Vie d'ermite | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secretly-delete-texts-from-phone-without-backup-iphone-and-android-steps/"><u>Secretly Delete Texts From Phone Without Backup: IPhone & Android Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/343363--the-pill/"><u>The Pill | Free Book</u></a></li>
 </ul></div>
 

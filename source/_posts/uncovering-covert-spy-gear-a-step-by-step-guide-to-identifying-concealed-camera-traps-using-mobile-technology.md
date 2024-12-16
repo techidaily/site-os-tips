@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-12-08T16:09:44.499Z
-updated: 2024-12-09T20:11:14.149Z
+date: 2024-12-15T04:53:52.881Z
+updated: 2024-12-15T20:16:09.223Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ---
 
 ## Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  A family recently [discovered](https://arstechnica.com/information-technology/2019/04/airbnb-guest-found-hidden-surveillance-camera-by-scanning-wi-fi-network/) a rude surprise at their Airbnb: a hidden camera disguised as a smoke detector in the living room. Here are two ways to check for cameras—in an Airbnb or elsewhere—using only an iPhone or Android phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Hidden Cameras Are a Real Danger
 
  If you're staying in a hotel or an Airbnb, hidden cameras can be a worry. In the case of Airbnb, [your host is required to list any cameras](https://www.airbnb.com/help/article/887/what-are-airbnb-s-rules-about-electronic-surveillance-devices-in-listings) they have, whether or not they're turned on. Additionally, Airbnb does not allow hosts to place cameras in bathrooms or sleeping areas, even if that's a living room with a foldout bed.
@@ -41,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  Manufacturers design cameras disguised as other everyday objects, like [smoke detectors](https://www.amazon.com/Detector-Wireless-Cameras-Detection-Security/dp/B09Y5KX3YL?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), [clocks](https://www.amazon.com/AMCSXH-Detection-Security-Remote-Real-Support/dp/B07H23TVY7?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), [USB hubs](https://www.amazon.com/Spy-Camera-WiFi-1080P-Detection/dp/B07NQHH1RK/?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen), and even [wireless chargers](https://www.amazon.com/Wireless-Charger-Hidden-Detection-Security/dp/B07M91T1F7?tag=hotoge-20&ascsubtag=UUhtgUeUpU214007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F411095%2Fhow-to-detect-hidden-surveillance-cameras-with-your-phone%2F&asc%5Fcampaign=Evergreen). These can be used for legitimate reasons in your own home—for example, to hide a camera a burglar can't find or to monitor a nanny with that person's consent. But how do you ensure someone isn't targeting you with a hidden camera? With a single app and your phone's camera, you can do a sweep for hidden cameras when you check in.
 
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Scan for Networked Cameras
 
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
@@ -62,27 +62,19 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -92,11 +84,19 @@ Josh Hendrickson / How-To Geek
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Josh Hendrickson / How-To Geek
 
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -119,21 +119,18 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-firecapture-pro-for-ff/"><u>[New] FireCapture Pro for FF</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-art-of-video-editing-employing-strikethrough-for-clarity/"><u>[New] In 2024, The Art of Video Editing Employing Strikethrough for Clarity</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-content-visibility-discover-6-thumbnail-designers-best-tools/"><u>2024 Approved Elevate Your Content Visibility - Discover 6 Thumbnail Designers' Best Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-siris-smarts-how-apples-ai-boosts-app-intelligence/"><u>Enhancing Siri's Smarts: How Apple's AI Boosts App Intelligence</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enjoy-retro-game-experience-on-your-iphone-for-free-without-needing-to-jailbreak/"><u>Enjoy Retro Game Experience on Your iPhone for FREE Without Needing to Jailbreak</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-upgrades-needed-for-apples-next-big-thing-the-new-iphone/"><u>Essential Upgrades Needed for Apple's Next Big Thing - The New iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-projecting-iphone-visuals-on-your-mac-monitor/"><u>Expert Tips for Projecting iPhone Visuals on Your Mac Monitor</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-curious-absence-of-smartphones-in-film-antagonist-scenes-the-iphone-exclusion/"><u>Exploring the Curious Absence of Smartphones in Film Antagonist Scenes: The iPhone Exclusion</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-endless-reboot-cycle-tips-for-pcs-stuck-at-startup/"><u>Fixing the Endless Reboot Cycle: Tips for PCs Stuck at Startup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-apple-sports-mobile-app-now-available-top-entertainment-for-enthusiastic-spectators/"><u>Free Apple Sports Mobile App Now Available: Top Entertainment for Enthusiastic Spectators</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-common-problems-with-apple-carplay-for-a-seamless-driving-experience/"><u>How to Fix Common Problems with Apple CarPlay for a Seamless Driving Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v29-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V29 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-navigate-your-newly-enjoyed-facebook-movies-with-this-2023-guide/"><u>In 2024, Navigate Your Newly Enjoyed Facebook Movies with This 2023 Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-tactics-for-cutting-edge-macro-video-creation/"><u>Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-skin-cases-of-2022-ultimate-defense-and-style-combo/"><u>Top-Rated iPhone SE Skin Cases of 2022: Ultimate Defense & Style Combo</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unpacking-the-virb-ultra-30-action-cam-by-garmin-for-2024/"><u>[Updated] Unpacking the VIRB Ultra 30 Action Cam by Garmin for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/convertissez-gratuitement-vos-fichiers-mts-en-mp4-avec-ces-3-methodes/"><u>Convertissez Gratuitement Vos Fichiers MTS en MP4 Avec Ces 3 Méthodes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620197950-download-these-free-ios-simulation-apps-on-android-today-top-picks/"><u>Download These Free iOS Simulation Apps on Android Today – Top Picks!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-guide-how-to-easily-mirror-your-samsung-display-with-allshare-cast/"><u>Effortless Guide: How to Easily Mirror Your Samsung Display with AllShare Cast</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-and-premium-methods-a-complete-2024-tutorial-on-mastering-among-us-gameplay-on-your-computer/"><u>Free and Premium Methods: A Complete 2024 Tutorial on Mastering Among Us Gameplay on Your Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-x-vs-samsung-galaxy-s8-in-depth-feature-comparison/"><u>IPhone X vs Samsung Galaxy S8: In-Depth Feature Comparison</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/key-approaches-to-enhance-vhs-photos-digitally/"><u>Key Approaches to Enhance VHS Photos Digitally</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-lost-texts-a-complete-guide-to-retrieving-your-verizon-and-atandt-messages/"><u>Recover Lost Texts: A Complete Guide to Retrieving Your Verizon and AT&T Messages</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1645559-9781476765037-reflexiones-diarias-de-el-secreto/"><u>Reflexiones Diarias de El Secreto | Free Book</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-the-9-most-effective-android-emulators-on-pc-and-mac/"><u>The Ultimate List of the 9 Most Effective Android Emulators on PC & Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-chatgpt-dialogues-expert-techniques-unveiled/"><u>Transform ChatGPT Dialogues: Expert Techniques Unveiled</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/visual-voyage-from-vimeo-footage-to-animated-artistry-for-2024/"><u>Visual Voyage From Vimeo Footage to Animated Artistry for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
 </ul></div>
 

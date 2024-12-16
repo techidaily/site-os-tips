@@ -1,7 +1,7 @@
 ---
 title: "Guide: Mastering the Features of Apple Music's Shared Playlists"
-date: 2024-12-08T22:31:32.455Z
-updated: 2024-12-09T17:47:36.807Z
+date: 2024-12-10T00:44:19.784Z
+updated: 2024-12-15T22:18:51.225Z
 tags:
   - ios
 categories:
@@ -38,34 +38,38 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 ![New Playlist option in the Apple Music app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/new-playlist-option-in-the-apple-music-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Enter a title for your playlist and add an image if you like. Then, tap "Create."
 
 ![Creating a new playlist in the Apple Music app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/creating-new-playlist-in-the-apple-music-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the collaborator icon at the top.
 
 ![Collaborator icon in the Apple Music app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/collaborator-icon-in-the-apple-music-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turn on the "Approve Collaborators" toggle if you want to manually approve who can join your playlist using the link. Otherwise, leave it off to allow anyone with the link to join. Tap "Start Collaborating" to confirm.
 
 ![Start Collaborating option in the Apple Music app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/start-collaborating-option-in-the-apple-music-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Share the playlist link with your friends using any app you like.
 
 ![Playlist sharing option in the Apple Music app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/playlist-sharing-option-in-the-apple-music-app.jpg) 
 
- That's it! Your friends can either join the playlist directly by tapping on the playlist or request access, depending on whether you turned on "Approve Collaborators."
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it! Your friends can either join the playlist directly by tapping on the playlist or request access, depending on whether you turned on "Approve Collaborators."
 
 ##  How to Manage Collaborators on Apple Music
 
@@ -74,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 ![Request to join option to join the playlist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/request-to-join-option-to-join-the-playlist.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To accept the request, tap the Library icon, select the "Playlist" option, and then open the relevant playlist.
@@ -84,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  Tap the collaborator icon and hit the green tick to approve the request. You can tap the cross icon to decline the request.
 
 ![Checkmark sign for accepting the invitation to a collaborative playlist in Apple Music.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/checkmark-sign-for-accepting-the-invitation.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also remove a collaborator from your playlist. To do this, open the playlist that the collaborator is part of, tap the collaborator icon at the top, swipe left on the collaborator's name, and select "Remove." Confirm your choice by tapping "Remove" again in the pop-up box.
 
@@ -108,19 +116,23 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 ![Remove from playlist option in the Apple Music app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/remove-from-playlist-option-in-the-apple-music-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The collaborative feature also allows you to react to songs in your playlist. Simply open the playlist and play the song you want to react to. Then, tap the react button and choose an emoji of your choice.
 
 ![Reacting to songs with emoji in an Apple Music collaborative playlist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/react-icon-on-the-song.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If more than one person has reacted to a song with different emojis, you'll see the last-used emoji on the album art. You can see all the reactions by tapping on the emoji that appears.
 
 ![Different reactions on the ablum art of song.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/different-reactions-on-the-ablum-art-of-song.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Stop Collaborating or Leave a Collaborative Playlist
@@ -129,31 +141,23 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 ![Stop option in a collaborative playlist to disable collaboration.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/stop-option-in-playlist.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose "Stop" again from the confirmation box that pops up.
 
 ![Confirming you want to stop collaboration on a playlist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/stop-option-in-the-corfiramtion-box.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As a collaborator, you also have the option to leave a collaborative playlist. To do this, open the playlist, tap the collaborator icon, and select "Leave" next to Collaboration. Select "Leave" again to confirm your decision.
 
 ![Leave option to leave a collaborative playlist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/leave-option-to-leave-a-playlist.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What You Need to Use Collaborative Playlists on Apple Music
 
  There are two requirements to use collaborative playlists on Apple Music. First, you must ensure your iPhone is running on iOS 17.3 or later. To check the iOS version, open the Settings app, tap "General," and then select "Software Update." You must [update your iPhone](https://screen-video-capture.techidaily.com/updated-in-2024-premium-webcam-guide-5-best-options-with-mic-integration/) if the iOS version is 17.2 or earlier.
 
 ![iOS version in the Software Update panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ios-version-in-the-software-update-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The other requirement is an active [Apple Music](https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/) subscription. To check if you have an Apple Music subscription, open the Settings app and tap your name at the top.
 
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  Select "Subscriptions." Then, under the Active section, check if Apple Music is listed. If yes, then it means you have an active Apple Music subscription. You'll have to [purchase Apple Music](https://www.apple.com/apple-music/) if you don't have a subscription.
 
 ![Active Apple Music subscription in the Subscriptions window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-music-in-the-subscription-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,19 +186,20 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-extracting-audio-from-vimeo-content-easily/"><u>[New] In 2024, Extracting Audio From Vimeo Content Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-instagram-video-a-complete-guide-to-content-posting/"><u>[Updated] In 2024, Instagram Video A Complete Guide to Content Posting</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-understanding-transient-suppression-via-audacity-for-2024/"><u>[Updated] Understanding Transient Suppression via Audacity for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-13-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 13 mini? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-database-recovery-aid/"><u>Celestial Database Recovery Aid</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-15-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 15 Pro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-science-spheres-finest-15-youtube-picks/"><u>In 2024, Science Sphere's Finest 15 YouTube Picks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovating-interaction-beyond-vidcon-conclaves-for-2024/"><u>Innovating Interaction Beyond VidCon Conclaves for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-voice-assistant-gadgets-the-2024-market-roundup/"><u>Leading Voice Assistant Gadgets: The 2024 Market Roundup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-password-management-tool-embraces-passkey-authentication/"><u>New Password Management Tool Embraces Passkey Authentication</u></a></li>
-<li><a href="https://os-tips.techidaily.com/qi2-wireless-charging-feature-unveiled-on-iphone-13-and-iphone-14/"><u>Qi2 Wireless Charging Feature Unveiled on iPhone 13 & iPhone 14</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quickly-secure-access-enhance-apple-id-recovery-in-just-five-easy-steps/"><u>Quickly Secure Access: Enhance Apple ID Recovery in Just Five Easy Steps!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reevaluating-apple-arcade-why-you-should-consider-these-5-compelling-factors/"><u>Reevaluating Apple Arcade: Why You Should Consider These 5 Compelling Factors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-ios-163-the-new-feature-using-a-physical-security-key/"><u>Secure Your Apple Account with iOS 16.3: The New Feature Using a Physical Security Key</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-digital-memory-lane-with-backward-image-scans-facebook/"><u>[New] 2024 Approved Navigating Digital Memory Lane with Backward Image Scans (Facebook)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unveiling-vimeo-subscription-perks-for-every-user-type/"><u>[New] 2024 Approved Unveiling Vimeo Subscription Perks for Every User Type</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-engagement-youtube-insights-for-timing/"><u>[Updated] Elevate Engagement Youtube Insights for Timing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-from-conflict-to-resolution-an-in-depth-tutorial-on-reporting-users-on-discord-for-2024/"><u>[Updated] From Conflict to Resolution An In-Depth Tutorial on Reporting Users on Discord for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-strategies-for-winning-on-spotifys-ad-platform-for-2024/"><u>[Updated] Strategies for Winning on Spotify's Ad Platform for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/14-proven-strategies-resolve-your-no-service-issue-on-an-iphone/"><u>14 Proven Strategies: Resolve Your 'No Service' Issue on an iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-channels-discovering-gpodc-gold/"><u>2024 Approved Best Channels Discovering GPodC Gold</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dealing-with-unwanted-thread-accolades-on-ig-effective-disguise-strategies/"><u>Dealing with Unwanted Thread Accolades on IG - Effective Disguise Strategies</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/epic-justin-bieber-desktop-backgrounds-and-walls-high-quality-hd-images-download-now-at-yl-computing/"><u>Epic Justin Bieber Desktop Backgrounds & Walls: High-Quality HD Images - Download Now at YL Computing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-key-points-to-consider-when-selling-your-iphone/"><u>Essential Guide: Key Points to Consider When Selling Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-understanding-iphone-high-dynamic-range-hdr-technology/"><u>Essential Guide: Understanding iPhone High Dynamic Range (HDR) Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macxdvd-exclusive-2023-festive-season-free-gift-offer/"><u>MacXDVD Exclusive 2023 Festive Season Free Gift Offer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-icloud-unlocking-tools-for-removing-cloud-locks-on-ios-devices/"><u>Top Rated iCloud Unlocking Tools for Removing Cloud Locks on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-tips-ultimate-guide-to-troubleshooting-your-non-responsive-ipad-keyboard/"><u>Top Tips: Ultimate Guide to Troubleshooting Your Non-Responsive iPad Keyboard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-iphone-cant-sync-songs-playlists-or-photos-with-itunes-or-mac/"><u>Troubleshooting Guide: How to Resolve Issues When Your iPhone Can't Sync Songs, Playlists or Photos with iTunes or Mac</u></a></li>
 </ul></div>
 

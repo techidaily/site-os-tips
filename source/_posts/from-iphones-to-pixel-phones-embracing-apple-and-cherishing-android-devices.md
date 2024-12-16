@@ -1,7 +1,7 @@
 ---
 title: From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices
-date: 2024-11-27T00:34:32.588Z
-updated: 2024-12-02T12:03:11.423Z
+date: 2024-12-14T00:07:55.407Z
+updated: 2024-12-15T17:18:31.975Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -38,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I’ve Tried the iPhone Twice
@@ -50,10 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Which meant I had to daily drive the 11 Pro until I could get my next phone upgrade. Suffice it to say that I absolutely hated that phone within a week of using it, but kept at it because I was in line to get an iPhone 14 Pro, which was surely going to solve the issues I had with the 11.
 
  I picked up a 1TB iPhone 14 Pro, and sure enough, it was a much better phone, but Apple had addressed pretty much none of the things that made it impossible to get along with the device, and honestly, I don't think they could, because most of it might be in the DNA of the iPhone itself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  My Phone Can’t Be This Locked Down
 
@@ -71,6 +67,10 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  People often say that phones are all the same these days, but that's far from the truth. Hold any two different phones in your hand and the exact shape, weight, materials, and balance will make them feel miles apart. It is this combination of factors that just sits wrong for me when it comes to the iPhone.
@@ -78,7 +78,7 @@ Corbin Davenport / How-To Geek
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
@@ -87,15 +87,15 @@ Corbin Davenport / How-To Geek
 
  Nonetheless, photos taken on iPhone do nothing for me. In particular I like taking [macro photos](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/) as well as portrait photos, and while the macro camera mode on my iPhone 14 Pro was plenty capable, I just couldn't get the same sorts of shots that my S21 Ultra or S22 Ultra can manage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is the Battery Life So Awful?
 
  I can live with the esthetics and photos that aren't to my taste, but going from having a day and a half of battery power on my S22 Ultra to a phone that barely ekes out a full day of normal use is not fun. I have zero battery anxiety with my Samsung phone, but felt it return with a vengeance with my last iPhone.
 
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I’m Willing to Try Again
 
@@ -118,16 +118,20 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-humor-kinemaster-for-memes/"><u>[Updated] Unleashing Humor KineMaster for Memes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-15-masterpieces-in-stop-motion-cinema-history/"><u>2024 Approved Top 15 Masterpieces in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/asus-zephyrus-g14-gaming-laptop-review-where-quality-meets-performance/"><u>Asus Zephyrus G14 Gaming Laptop Review: Where Quality Meets Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-strategies-resolve-your-memory-card-issues-with-these-7-techniques/"><u>Essential Strategies: Resolve Your Memory Card Issues with These 7 Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-invalid-disk-failures-discover-the-best-3-techniques-for-stable-systems-and-easy-data-retrieval/"><u>Fixing Invalid Disk Failures? Discover the Best 3 Techniques for Stable Systems & Easy Data Retrieval</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A05s FRP?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-c55-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme C55 Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-7-effective-remedies-for-correcting-sd-card-malfunctions/"><u>Top 7 Effective Remedies for Correcting SD Card Malfunctions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-does-the-google-pixel-4a-deliver-for-casual-users/"><u>Unboxing and Testing: Does the Google Pixel 4a Deliver for Casual Users?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unlock-iphone-backup-secrets-for-windows-users-a-complete-how-to/"><u>Unlock iPhone Backup Secrets for Windows Users - A Complete How-To</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-role-of-free-exchange-in-discovery/"><u>[New] 2024 Approved The Role of Free Exchange in Discovery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetsnapter-the-leading-tool-for-storing-your-gif-delights/"><u>[New] TweetSnapter The Leading Tool for Storing Your Gif Delights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-guide-to-tracking-your-youtube-progress/"><u>[Updated] In 2024, The Essential Guide to Tracking Your YouTube Progress</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-non-contact-sensing/"><u>2024 Approved The Ultimate Guide to Non-Contact Sensing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>2024 Approved Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gamers-guide-what-makes-a-high-performance-gaming-pc/"><u>Gamer's Guide: What Makes a High-Performance Gaming PC?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-adjusting-display-distance-on-iphone-for-optimal-eye-health/"><u>Guide: Adjusting Display Distance on iPhone for Optimal Eye Health</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-retrieving-your-location-history-from-an-iphone-or-ipad/"><u>Guide: Retrieving Your Location History From an iPhone or iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-use-your-airpods-pro-a-detailed-walkthrough-of-device-management-innovative-capabilities-and-intuitive-hand-gestures/"><u>How To Use Your AirPods Pro: A Detailed Walkthrough of Device Management, Innovative Capabilities, and Intuitive Hand Gestures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ideal-iphone-workout-tools-achieve-peak-physical-form-by-summers-end/"><u>Ideal iPhone Workout Tools - Achieve Peak Physical Form by Summer's End</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-the-latest-apple-programs-seamless-replacement-for-itunes-on-windows-systems/"><u>Introducing the Latest Apple Programs: Seamless Replacement for iTunes on Windows Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-iphone-weather-tools-the-ultimate-selection-for-mobile-forecast-enthusiasts/"><u>Leading iPhone Weather Tools: The Ultimate Selection for Mobile Forecast Enthusiasts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c32-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C32 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-philips-hue-lighting-solutions-comprehensive-review-and-comparison-by-tech-experts-at-zdnet/"><u>Top-Ranked Philips Hue Lighting Solutions - Comprehensive Review and Comparison by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-with-yahoo-mail-heres-how-to-fix-missing-incoming-email-problems-quickly/"><u>Trouble with Yahoo Mail? Here's How to Fix Missing Incoming Email Problems Quickly</u></a></li>
 </ul></div>
 

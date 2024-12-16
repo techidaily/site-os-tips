@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style"
-date: 2024-12-08T04:33:17.843Z
-updated: 2024-12-10T03:55:47.987Z
+date: 2024-12-10T06:36:02.047Z
+updated: 2024-12-15T20:32:36.261Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 ## The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 * [Even Techies Don't Want Change As Much As We Think We Do](https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -63,10 +63,6 @@ Tyler Hayes / How-To Geek
  Now that all phones are similarly shaped slabs, people tell the difference between brands by the differences in their design. iPhones have their cameras arranged in a square. Samsung's phones have three or more cameras lined up in a row. Pixel phones have a Star Trek-looking visor. OnePlus' phones have massive camera bumps that are a third of the size of the phone.
 
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You Can Still Switch Brands to Try Something New
 
@@ -88,6 +84,10 @@ Tyler Hayes / How-To Geek
 
 ![Person using the Camera app to take photo with the Google Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53249989394_936f059fc3_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Many of us crave fun experimentation when we're younger, but this fades as we get older. Every small change can throw off our work schedule. If I go to activate a feature that apparently no longer exists, I now have to spend part of my day figuring out a new option. Even changing a setting can throw off an hour of work. Consistency is a feature. Change is a bug.
@@ -98,15 +98,15 @@ Justin Duino / How-To Geek
 
  The Galaxy S23 Ultra may have looked near identical to its predecessor, but according to [Android Police](https://www.androidpolice.com/samsung-flagship-phones-apple-iphone-sales/), the former outsold the latter by over 6 million units. Samsung was not punished for keeping so much the same. If anything, it was rewarded.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Redesigning Hardware Is Less Sustainable
 
  One aspect of our modern economy is that things that were perfectly fine get changed for no reason other than to convince consumers to buy something they already have all over again. This is inherently wasteful. Compared to most industries, the tech industry's replacement cycle is even faster. We might own a hammer for ten or twenty years without giving it much thought. A laptop? Maybe five. A phone? Every other year or so. Manufacturers and carriers alike want us to [upgrade our phones often](https://facebook-video-footage.techidaily.com/updated-in-2024-diving-into-the-world-of-haul-video-content/).
 
  Whenever a phone changes, that means old cases no longer fit. We often have to throw out old charging cables and replace our earbuds. The impact throughout the supply chain is greater. All kinds of modules have to be resized and retooled. The more things that can be kept the same each year, the more we and manufacturers can reuse the stuff we already have.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
@@ -137,16 +137,17 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-checklist-for-capturing-flawless-ppts/"><u>[New] In 2024, The Complete Checklist for Capturing Flawless PPTs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audience-centric-video-structure-chapter-addition-for-maximum-viewership-on-youtube/"><u>[Updated] In 2024, Audience-Centric Video Structure Chapter Addition for Maximum Viewership on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-15-best-business-simulation-games-of-2024-mobileandpc/"><u>[Updated] Top 15 Best Business Simulation Games of 2024 [Mobile&PC]</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-microsoft-store-glitches-error-x80072f17-guide/"><u>Correcting Microsoft Store Glitches: Error X80072F17 Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-editing-your-iphones-videos-using-a-windows-computer/"><u>Step-by-Step Guide: Editing Your iPhones Videos Using a Windows Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-iphones-hotspot-issues-top-10-solutions-that-work/"><u>Troubleshooting iPhone's Hotspot Issues: Top 10 Solutions That Work</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-understanding-the-reasons-behind-your-iphones-sluggish-charging-performance/"><u>Troubleshooting: Understanding the Reasons Behind Your iPhone's Sluggish Charging Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-alpaka-go-sling-a-must-have-carrying-case-for-ipad-fans/"><u>Ultimate Guide to the Alpaka Go Sling: A Must-Have Carrying Case for iPad Fans</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-premier-widgets-for-the-ios-lockscreen-unlocking-new-possibilities/"><u>Ultimate Guide: Premier Widgets for the iOS Lockscreen Unlocking New Possibilities</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-finest-iphone-chargers-for-2-increased-battery-efficiency-a-comprehensive-guide-expert-picks-leading-iphone-chargers-of-2024-with-lon20/"><u>Ultimate Selection: The Finest iPhone Chargers for 2# Increased Battery Efficiency - A Comprehensive Guide / Expert Picks: Leading iPhone Chargers of 2024 with Long-Lasting Capacity Enhancement Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-inside-out-stardew-valley-and-the-allure-of-ginger-island/"><u>[New] 2024 Approved Inside Out Stardew Valley and the Allure of Ginger Island</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>[Updated] 2024 Approved Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-discover-the-power-of-5-editors-beyond-youtubes-boundaries/"><u>[Updated] Discover the Power of 5 Editors Beyond Youtube's Boundaries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-solutions-for-resolving-check-in-issues-with-ios-17-on-iphones/"><u>Comprehensive Solutions for Resolving 'Check In' Issues with iOS 17 on iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-the-iphones-blue-screen-of-death-now-with-ios-18-support/"><u>Effective Solutions: Repairing the iPhone's 'Blue Screen of Death,' Now with iOS 18 Support</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/expanding-storytelling-with-alternative-cinematography/"><u>Expanding Storytelling with Alternative Cinematography</u></a></li>
+<li><a href="https://os-tips.techidaily.com/finding-the-perfect-bargain-a-step-by-step-guide-to-purchasing-pre-owned-iphones-models-5-6-7-8-x-on-the-web/"><u>Finding the Perfect Bargain: A Step-by-Step Guide to Purchasing Pre-Owned iPhones (Models 5, 6, 7, 8, X) on the Web</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-thors-bold-path-asgard-reborn/"><u>In 2024, Thor’s Bold Path Asgard Reborn</u></a></li>
+<li><a href="https://os-tips.techidaily.com/struggling-with-ios-music-downloads-try-these-5-effective-remedies/"><u>Struggling with iOS Music Downloads? Try These 5 Effective Remedies.</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-surprising-advantages-of-late-game-launches/"><u>The Surprising Advantages of Late Game Launches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-persistent-reboots-top-fixes-for-your-constantly-restarting-iphone/"><u>Troubleshooting Persistent Reboots: Top Fixes for Your Constantly Restarting iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-google-pixel/"><u>Unveiling the Google Pixel</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality"
-date: 2024-11-28T08:11:40.075Z
-updated: 2024-12-02T13:26:26.892Z
+date: 2024-12-10T02:24:13.651Z
+updated: 2024-12-15T17:27:25.611Z
 tags:
   - ios
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,17 +64,22 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips/"><u>[New] 2024 Approved Exploring Facebook's 2023 Video Revolution The Rise of Compact Clips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[New] How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726226951507-vobmp4-movavi/"><u>完全無料: VOBビデオをMP4へ直接アップロード! 最新MOVAVI変換ソフトウェアでシームレスな移行🎬✨</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excels-versatility-in-data-analysis-beyond-chatbot-capabilities/"><u>Excel’s Versatility in Data Analysis, Beyond Chatbot Capabilities</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-interactive-display-decode/"><u>In 2024, Interactive Display Decode</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-relish-free-movie-playback-pc-and-mac-style/"><u>In 2024, Relish Free Movie Playback, PC & Mac Style</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620276679-lost-iphone-discover-swift-solutions-with-this-complete-search-tutorial/"><u>Lost iPhone? Discover Swift Solutions with This Complete Search Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quickly-find-lost-pets-with-rings-budget-friendly-tag-for-dogs-and-cats-expert-insights-on-10-gadget/"><u>Quickly Find Lost Pets with Ring’s Budget-Friendly Tag for Dogs and Cats | Expert Insights on $10 Gadget</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-your-iphone-display-with-the-microsoft-xbox-one/"><u>Step-by-Step Guide: Syncing Your iPhone Display with the Microsoft Xbox One</u></a></li>
-<li><a href="https://os-tips.techidaily.com/streamline-your-mobile-workforce-with-verizon-wirelesss-efficient-mdm-solutions/"><u>Streamline Your Mobile Workforce with Verizon Wireless's Efficient MDM Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-zoom-airplay-overcoming-common-challenges-and-ensuring-flawless-streaming/"><u>Troubleshooting Your Zoom AirPlay: Overcoming Common Challenges and Ensuring Flawless Streaming</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-efficient-methods-and-applications-for-linking-your-iphone-with-wi-fi/"><u>Ultimate Guide: Efficient Methods & Applications for Linking Your iPhone with Wi-Fi</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-essential-low-cost-hd-cameras-for-sports-enthusiasts-for-2024/"><u>[Updated] Essential Low-Cost HD Cameras for Sports Enthusiasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-template-to-tutorial-gamers-channel-design-for-2024/"><u>[Updated] From Template to Tutorial Gamers' Channel Design for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordability-and-performance-the-ultimate-tp-link-archer-c9-review/"><u>Affordability and Performance: The Ultimate TP-Link Archer C9 Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-compelling-dandd-figures-using-gpt-and-generative-ai/"><u>Building Compelling D&D Figures Using GPT and Generative AI</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-ios-device-data-retrieval-restore-information-from-iphones-ipads-and-ipods/"><u>Complete Guide to iOS Device Data Retrieval: Restore Information From iPhones, iPads & iPods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-x50i-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor X50i Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-how-does-claude-pro-measure-up/"><u>In-Depth Analysis: How Does Claude Pro Measure Up?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-video-retrieval-how-to-restore-accidentally-deleted-footage/"><u>IPhone Video Retrieval: How to Restore Accidentally Deleted Footage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pick-your-favorites-top-6-fb-lite-videos-downloaders-for-2024/"><u>Pick Your Favorites Top 6 FB Lite Videos Downloaders for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mastering-iphone-backup-password-restoration/"><u>Step-by-Step Tutorial on Mastering iPhone Backup Password Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-returning-ios-device-to-original-state-and-recovering-data-via-itunes-or-finder/"><u>Step-by-Step Tutorial: Returning iOS Device to Original State & Recovering Data via iTunes or Finder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-image-restoration-apps-on-windowsmac-2024-edition/"><u>The Ultimate Guide to the Top 5 iPhone Image Restoration Apps on Windows/Mac, 2024 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-compelling-motivations-behind-retrieving-lost-data-from-your-iphone-using-a-computer/"><u>Top 5 Compelling Motivations Behind Retrieving Lost Data From Your iPhone Using a Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-essential-ios-applications-for-effortlessly-retrieving-lost-iphone-contact-details/"><u>Top 6 Essential iOS Applications for Effortlessly Retrieving Lost iPhone Contact Details</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/tutoriel-transfert-automatique-de-vos-donnees-vers-le-nuage-fichiers-et-dossiers-sur-un-disque-dur-externe/"><u>Tutoriel : Transfert Automatique De Vos Données Vers Le Nuage - Fichiers Et Dossiers Sur Un Disque Dur Externe</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-for-restoring-lost-notes-on-any-iphone-version-models-from-iphone-4-to-iphone-12/"><u>Ultimate Troubleshooting for Restoring Lost Notes on Any iPhone Version (Models From iPhone 4 to iPhone 12)</u></a></li>
 </ul></div>
 

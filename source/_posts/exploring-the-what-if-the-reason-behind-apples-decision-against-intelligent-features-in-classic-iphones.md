@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 'What-If': The Reason Behind Apple's Decision Against Intelligent Features in Classic iPhones"
-date: 2024-11-24T20:35:10.228Z
-updated: 2024-12-01T16:39:25.001Z
+date: 2024-12-11T18:46:32.622Z
+updated: 2024-12-16T06:54:10.085Z
 tags:
   - ios
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 * [Changes I Want to See in Apple Intelligence in the Future](https://some-guidance.techidaily.com/streamlined-guide-to-ingesting-ipodcast-content-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 * Apple also has Private Cloud Compute, which Apple Intelligence can tap into when it thinks that the processing power on your device isn't sufficient and needs cloud resources to complete the task.
 
  Even though Apple Intelligence looks genuinely innovative, it's getting a lot of backlash due to its availability. The feature won't be coming to most iPhones on the market, even though they are technically capable of running it. But there is a very compelling reason behind this decision.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Apple Intelligence Is Not Coming to Older iPhones
 
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
@@ -81,23 +85,19 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
 
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
 
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Changes I Want to See in Apple Intelligence in the Future
 
@@ -122,20 +122,20 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/hannel-cross-promotion-the-art-of-collaborative-co-stars/"><u>[New] Channel Cross-Promotion The Art of Collaborative Co-Stars</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-undercover-guide-to-enhancing-your-window-11-experience/"><u>[New] In 2024, The Undercover Guide to Enhancing Your WINDOW 11 Experience</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unraveling-the-mystery-of-downloading-youtube-playlists/"><u>[Updated] In 2024, Unraveling the Mystery of Downloading YouTube Playlists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-most-attractive-atandt-mobile-plans-for-may-2e-2024-in-depth-analysis-by-zdnet/"><u>Discover the Most Attractive AT&T Mobile Plans for May 2E 2024 - In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-google-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Google</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-the-maisto-rc-rock-crawler-the-ultimate-family-adventure-on-wheels/"><u>Inside Look at the Maisto RC Rock Crawler: The Ultimate Family Adventure on Wheels</u></a></li>
-<li><a href="https://os-tips.techidaily.com/m4-vs-m2-ipad-pro-comparison-is-an-upgrade-beneficial-for-users/"><u>M4 Vs. M2 iPad Pro Comparison: Is an Upgrade Beneficial for Users?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mark-your-calendars-apple-announces-the-scheduled-date-for-its-upcoming-iphone-15-launch/"><u>Mark Your Calendars: Apple Announces the Scheduled Date for Its Upcoming iPhone 15 Launch</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-control-over-iphone-alarm-volume-settings/"><u>Mastering Control Over iPhone Alarm Volume Settings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-picture-editing-the-ultimate-technique-for-cropping-with-iphoneipad/"><u>Mastering Picture Editing: The Ultimate Technique for Cropping with iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-your-thoughts-a-comprehensive-guide-to-navigating-the-iphone-journal-app/"><u>Mastering Your Thoughts: A Comprehensive Guide to Navigating the iPhone Journal App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-ios-experience-unveiling-the-ultimate-list-of-underrated-spotlight-search-tricks/"><u>Maximize Your iOS Experience: Unveiling the Ultimate List of Underrated Spotlight Search Tricks!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/steps-to-prevent-thumbnail-absence-on-shorts-videos-for-2024/"><u>Steps to Prevent Thumbnail Absence on Shorts Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-content-with-unmatched-clarity-upgrade-videos-using-winxvideo-ai-solutions/"><u>Transform Your Content with Unmatched Clarity - Upgrade Videos Using Winxvideo AI Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-easy-fixes-for-world-of-warcraft-system-crashes/"><u>Troubleshooting Easy Fixes for World of Warcraft System Crashes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-reverse-image-searching-on-instagram-for-2024/"><u>[New] Step-by-Step Guide to Reverse Image Searching on Instagram for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-snappy-strategies-for-reacquiring-deleted-posts/"><u>[Updated] In 2024, Snappy Strategies for Reacquiring Deleted Posts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-restoration-guide-resetting-iphone-15-how-to-wipe-all-data-and-configurations/"><u>Complete Restoration Guide: Resetting iPhone 15 – How to Wipe All Data & Configurations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-image-deletion-master-five-effective-methods-for-cleaning-up-whatsapp-photos-on-iphones-and-androids/"><u>Effortless Image Deletion: Master Five Effective Methods for Cleaning Up WhatsApp Photos on iPhones and Androids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/fine-tuning-your-audio-transitions-in-depth-insights-for-using-audacity-for-2024/"><u>Fine-Tuning Your Audio Transitions In-Depth Insights for Using Audacity for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s System? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-ditch-adobe-premiere-rush-top-4-video-editing-software-alternatives/"><u>In 2024, Ditch Adobe Premiere Rush Top 4 Video Editing Software Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-message-deletion-guide-securely-erase-texts-and-keep-data-safe-with-our-free-recovery-tips/"><u>IPhone Message Deletion Guide: Securely Erase Texts and Keep Data Safe with Our Free Recovery Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-storage-a-step-by-step-guide-to-removing-and-uninstalling-ios-applications-on-your-iphone-7/"><u>Maximizing Storage: A Step-by-Step Guide to Removing & Uninstalling iOS Applications on Your iPhone 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-innovation-enhanced-support-via-rtx210-win11-update/"><u>NVIDIA's Innovation: Enhanced Support via RTX210 Win11 Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-windows-11s-troublesome-error-0x80-grog-your-ultimate-fix-guide/"><u>Say Goodbye to Windows 11'S Troublesome Error 0X80 Grog - Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-deletion-of-your-icloud-email-address/"><u>Ultimate Guide: Mastering Deletion of Your iCloud Email Address</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-erase-music-files-in-itunes-for-desktop-users/"><u>Ultimate Tutorial: How to Erase Music Files in iTunes for Desktop Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289112434-windows-10dvd/"><u>Windows 10で成功するDVD書き込み - トップテクニックとエラー回避法</u></a></li>
 </ul></div>
 
