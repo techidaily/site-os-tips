@@ -1,7 +1,7 @@
 ---
 title: "Demystifying iPhone AAE Files: Should You Be Deleting Them?"
-date: 2024-12-12T03:51:52.450Z
-updated: 2024-12-16T08:25:35.289Z
+date: 2024-12-20T03:30:47.781Z
+updated: 2024-12-24T21:56:56.029Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 ## Demystifying iPhone AAE Files: Should You Be Deleting Them?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,16 +22,16 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * [Do I Need to Save AAE Files?](https://screen-recording.techidaily.com/updated-in-2024-endless-video-recording-program/)
 * [Can You Open an AAE File?](https://extra-hints.techidaily.com/in-2024-best-gopro-tools-for-deep-sea-cinematography/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * AAE files are created by the Apple Photos app to track edits made to photos, allowing you to undo changes at any time.
 * AAE files can only be opened and read by the Apple Photos app, and are not very useful outside of Apple's platforms.
 
  If you transfer photos from an iPhone or iPad to a Windows PC, you might see some files with the extension "AAE" stored along with the images. We'll explain this mysterious file type and what you should do with them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Are AAE Files?
 
@@ -43,10 +43,14 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ![AAE Files and corresponding HEIC files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2023-10-31_09h49_10.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this case, we opened up our iPhone with Windows Explorer and found two related files: the original image (IMG\_0244.HEIC) and the corresponding AAE file (IMG\_0244.AAE). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Does AAE Stand For?
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  If you'd like to open the files again later on a Mac, iPhone, or iPad, you could keep the AAE files with your original photos in the same directory, and the Photos app should be able to read them. In doing so, Photos will be able to see the edits you originally made in the Photos app before transferring your images to a non-Apple platform.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Can You Open an AAE File?
 
  On Windows, Linux, Chrome OS, Android, or Mac, you can open an AAE file in any text editor, but the XML data that you'll see there isn't very useful. The edit data can only be read by the Apple Photos app. 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 ![The contents of an AAE file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/text-of-an-aae-file.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Photos app on iPhone, iPad, and Mac uses those AAE files silently in a way that's transparent to the user, so you don't have to worry about "opening" them on those platforms, either. If AAE files exist in the same folder as the photos that they refer to, Photos will know how to use them automatically. Good luck!
@@ -94,21 +94,17 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-viewership-3-key-storytelling-approaches-for-2024/"><u>[Updated] Elevate Viewership 3 Key Storytelling Approaches for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boosting-engagement-navigate-to-these-8-best-apps-for-post-timers/"><u>[Updated] In 2024, Boosting Engagement Navigate to These 8 Best Apps for Post Timers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-swiftly-switch-songs-in-yt-playlist-heres-how-for-2024/"><u>[Updated] Swiftly Switch Songs in YT Playlist, Here's How for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-the-original-exploring-modern-substitutes-for-the-turing-test/"><u>Beyond the Original: Exploring Modern Substitutes for the Turing Test</u></a></li>
-<li><a href="https://article-helps.techidaily.com/boosting-creativity-top-tips-and-tricks-for-lunapic-editors/"><u>Boosting Creativity Top Tips & Tricks for LunaPic Editors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-refuses-to-chargers-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Refuses to Chargers: A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-securely-restoring-the-control-center-button-on-your-iphone/"><u>Guide: Securely Restoring the Control Center Button on Your iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs-for-2024/"><u>Image Editing Essentials The Ultimate Guide to Embedding Text on Windows & Macs for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-ultimate-guide-to-finding-free-video-subtitles/"><u>In 2024, Ultimate Guide to Finding Free Video Subtitles</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-your-iphone-security-unlock-techniques-and-protective-apps-for-the-lock-screen/"><u>Master Your iPhone Security: Unlock Techniques & Protective Apps for the Lock Screen</u></a></li>
-<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-tips-for-dealing-with-iphone-display-flickering-and-lag/"><u>Simple Troubleshooting Tips for Dealing with iPhone Display Flickering & Lag</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-iphone-has-no-service-dilemma-discover-14-effective-fixes/"><u>Solving the 'iPhone Has No Service' Dilemma: Discover 14 Effective Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secrets-of-animoji-mastering-face-mapping-on-your-iphone-x/"><u>Unlock the Secrets of Animoji: Mastering Face Mapping on Your iPhone X</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-voice-your-thoughts-encouraging-commentary-on-your-content/"><u>[New] In 2024, Voice Your Thoughts Encouraging Commentary on Your Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-obs-configurations-on-frugal-devices/"><u>[Updated] Top OBS Configurations on Frugal Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-stunning-time-lapses-on-galaxys/"><u>2024 Approved The Ultimate Guide to Capturing Stunning Time-Lapses on Galaxys</u></a></li>
+<li><a href="https://os-tips.techidaily.com/9-with-latest-101-firmware-enhancement/"><u>9 with Latest 10.1 Firmware Enhancement</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-revolutionizes-sports-gaming-with-major-new-features/"><u>Apple Revolutionizes Sports Gaming with Major New Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-you-ready-will-your-current-apple-device-be-able-to-operate-with-the-newly-launched-ios-n-and-ipados-n-versions/"><u>Are You Ready? Will Your Current Apple Device Be Able To Operate With The Newly Launched iOS N and iPadOS N Versions?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/collaborate-on-tracking-discover-the-new-feature-enabling-airtag-sharing-among-multiple-users/"><u>Collaborate on Tracking: Discover the New Feature Enabling AirTag Sharing Among Multiple Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-essential-apple-maps-functions-a-guide-to-its-top-10-hidden-gems/"><u>Discover Essential Apple Maps Functions: A Guide to Its Top 10 Hidden Gems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extensive-movement-review-2023/"><u>In 2024, Extensive Movement Review 2023</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/resolving-the-grey-screen-error-while-editing-pages-on-flip-a-step-by-step-guide/"><u>Resolving the Grey Screen Error While Editing Pages on Flip: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-latest-ios-update/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Latest iOS Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-creative-strategies-leveraging-chatgpt-in-video-game-narrative-design/"><u>Top 6 Creative Strategies: Leveraging ChatGPT in Video Game Narrative Design</u></a></li>
 </ul></div>
 

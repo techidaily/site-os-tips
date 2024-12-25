@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-12-09T06:11:54.412Z
-updated: 2024-12-16T07:13:43.559Z
+date: 2024-12-20T00:56:25.390Z
+updated: 2024-12-24T18:28:12.870Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -52,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -88,17 +88,22 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-quick-online-mp3-generator-from-fb-videos-2023-updates/"><u>[New] 2024 Approved Quick Online MP3 Generator From FB Videos, 2023 Updates</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-best-music-live-streaming-services/"><u>[New] Best Music Live Streaming Services</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-synesthetic-screens-the-future-of-cinema/"><u>[New] Synesthetic Screens The Future of Cinema</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-refining-your-youtube-videos-after-publishing/"><u>[Updated] The Ultimate Guide to Refining Your YouTube Videos After Publishing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-android-file-management-apps-reviewed-find-your-perfect-match/"><u>Best Android File Management Apps Reviewed: Find Your Perfect Match</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-top-rated-tracking-applications-finding-your-lost-android-device/"><u>Best Top-Rated Tracking Applications: Finding Your Lost Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620244631-expert-tips-for-reviving-a-dead-phone-battery-proven-methods-to-bring-your-device-back-to-life/"><u>Expert Tips for Reviving a Dead Phone Battery: Proven Methods to Bring Your Device Back to Life!</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y27s-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y27s</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-solution-completely-removing-your-gmail-account-for-good/"><u>Ultimate Solution: Completely Removing Your Gmail Account for Good</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/upcoming-release-of-windows-10-expected-arrival-in-the-usa-uk-and-down-under/"><u>Upcoming Release of Windows 10: Expected Arrival in the USA, UK and Down Under</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-drone-shopping-simplified-key-takeaways-for-beginners-for-2024/"><u>[New] Drone Shopping Simplified Key Takeaways for Beginners for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-gamers-secrets-to-effective-playback-logging-for-2024/"><u>[New] Gamers' Secrets to Effective Playback Logging for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-how-to-move-images-from-an-iphone-to-a-windows-pc-a-step-by-step-deermoon-tutorial/"><u>1. How to Move Images From an iPhone to a Windows PC: A Step-by-Step DeerMoon Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-transferring-e-books-seamlessly-from-iphone-to-mac-with-dearmob/"><u>Comprehensive Guide: Transferring E-Books Seamlessly From iPhone to Mac with DearMob</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-step-by-step-tutorial-on-shifting-library-content-between-iphone-and-mac-using-dearmob-app/"><u>Easy Step-by-Step Tutorial on Shifting Library Content Between iPhone & Mac Using DearMob App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficiently-utilizing-swift-transfer-options-in-your-dearmob-iphone-app-a-comprehensive-guide/"><u>Efficiently Utilizing Swift Transfer Options in Your DearMob iPhone App: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-image-transfer-for-iphone-and-mac-users-comprehensive-tutorial-by-dearmob-experts/"><u>Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/error-detection-and-correction-guide-mastery-with-emeditor-version-13/"><u>Error Detection & Correction Guide: Mastery with EmEditor Version 13</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-move-your-tunes-iphone-and-mac-transfer-guide-by-dearmob/"><u>How to Seamlessly Move Your Tunes: IPhone & Mac Transfer Guide by DearMob</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-sync-images-from-your-iphone-to-a-mac-a-step-by-step-dearmob-guide/"><u>How to Seamlessly Sync Images From Your iPhone to a Mac: A Step-by-Step DearMob Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-x50-gt-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor X50 GT via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Tecno Spark Go (2023) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-mac-programming-solutions-excluded-from-bandicam/"><u>In 2024, Premium Mac Programming Solutions Excluded From Bandicam</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-techniques-to-ensure-uninterrupted-video-capturing/"><u>In 2024, Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-management-with-dearmob-effortless-transfer-of-your-icloud-photos-and-videos-to-computer-or-mac/"><u>IPhone Management with DearMob: Effortless Transfer of Your iCloud Photos and Videos to Computer or Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-macos-big-sur-minimum-requirements-for-2024/"><u>Understanding MacOS Big Sur Minimum Requirements for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common Glitches in Apple's Financial Services
-date: 2024-12-11T02:06:02.180Z
-updated: 2024-12-16T04:17:10.621Z
+date: 2024-12-18T22:55:44.813Z
+updated: 2024-12-24T22:42:27.342Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
@@ -54,19 +54,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-blade-chroma-with-4k-camera-review/"><u>[New] 2024 Approved Blade Chroma with 4K Camera Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>[New] Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-image-transitions-with-ease-and-style/"><u>[New] Mastering Image Transitions with Ease and Style</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-download-youtubes-best-moments-without-full-streaming-for-2024/"><u>[Updated] Download YouTube's Best Moments Without Full Streaming for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-strategies-for-full-time-workers-who-create-videos/"><u>[Updated] Strategies for Full-Time Workers Who Create Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-strategies-for-saving-your-memories-a-guide-to-iphone-photo-backups-in-ios-13-and-14/"><u>Essential Strategies for Saving Your Memories: A Guide to iPhone Photo Backups in iOS 13 & 14</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-an-unsuccessful-icloud-backup-for-android-and-ios-devices-a-comprehensive-guide/"><u>Fixing an Unsuccessful iCloud Backup for Android and iOS Devices – A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-transfer-your-precious-memories-a-step-by-step-guide-to-backing-up-photos-from-ios-and-android-devices/"><u>How to Transfer Your Precious Memories: A Step-by-Step Guide to Backing Up Photos From iOS and Android Devices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-intricacies-of-clubhouse-explored-an-insiders-guide-to-its-core-principles-and-operations-for-2024/"><u>New The Intricacies of Clubhouse Explored An Insiders Guide to Its Core Principles and Operations for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-best-5-iphone-backup-apps-essential-tools-every-user-should-consider/"><u>The Best 5 iPhone Backup Apps: Essential Tools Every User Should Consider</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-to-help-you-change-color-like-a-pro/"><u>Tips and Tricks to Help You Change Color Like A Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-ibackup-viewer-of-2024-securely-transfer-your-iphone-data-to-pc/"><u>Top Rated iBackup Viewer of 2024: Securely Transfer Your iPhone Data to PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-icloud-backup-fails-to-initialize/"><u>Troubleshooting Steps When iCloud Backup Fails to Initialize</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-favorite-frames-most-engaged-ig-filters/"><u>[New] Favorite Frames Most Engaged IG Filters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-editors-guide-to-powerful-notebooks-and-more/"><u>[New] The Editor's Guide to Powerful Notebooks and More</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-visionarys-toolkit-for-personalized-animation-techniques-for-2024/"><u>[New] The Visionary's Toolkit for Personalized Animation Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ps4-live-recording-made-simple-with-obs-tutorial/"><u>[Updated] 2024 Approved PS4 Live Recording Made Simple with OBS Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-chaos-to-clarity-combining-obs-with-zoom/"><u>In 2024, From Chaos to Clarity Combining OBS with Zoom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-iphone-restarts-an-in-depth-look-at-both-soft-and-factory-reset-procedures/"><u>Mastering iPhone Restarts: An In-Depth Look at Both Soft and Factory Reset Procedures</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/online-ogg-a-wmv-senza-costi-la-guida-completa-per-convertire-file-utilizzando-il-servizio-web-di-movavi/"><u>Online OGG a WMV Senza Costi: La Guida Completa per Convertire File Utilizzando Il Servizio Web Di Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/secrets-of-earning-big-reddits-13-money-makers/"><u>Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-siri-the-ultimate-10-step-solution-for-iphone-users-full-step-by-step-guide/"><u>Troubleshooting Siri: The Ultimate 10-Step Solution for iPhone Users – Full Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-google-pixel-8-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Google Pixel 8 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-to-your-laptop-touchpad-stuck-situation-today/"><u>Unlock the Solution to Your Laptop Touchpad Stuck Situation Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/utilizing-emoji-and-sticker-features-for-enhanced-messaging-on-ios-10/"><u>Utilizing Emoji & Sticker Features for Enhanced Messaging on iOS 10</u></a></li>
 </ul></div>
 

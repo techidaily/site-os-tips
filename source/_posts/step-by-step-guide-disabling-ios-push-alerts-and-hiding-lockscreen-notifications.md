@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2024-12-15T00:55:43.627Z
-updated: 2024-12-16T00:41:44.191Z
+date: 2024-12-19T23:32:38.601Z
+updated: 2024-12-24T16:03:10.630Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ## Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,16 +20,16 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 * [The Quick Fix: Turn on "Do Not Disturb" Mode](https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-by-fonelab-android-recover-music/)
 * [The Deeper Fix: Disable Notifications on Lock Screen](https://vp-tips.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use "Do Not Disturb" mode to easily silence your iPhone or iPad. Launch Control Center, tap the Focus button, and incoming notifications won't wake your device's display.
 * If you don't want to use "Do Not Disturb," disable lock screen notifications individually for each app in your device's notification settings. Open Settings, tap "Notifications," select the app, and uncheck the "Lock Screen" option.
 
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
 
@@ -39,10 +39,14 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Deeper Fix: Disable Notifications on Lock Screen
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  To do so, open Settings on your iPhone or iPad.
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Settings, tap "Notifications."
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
@@ -94,24 +94,17 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-10-free-passport-photo-maker-for-desktop-and-online/"><u>[Updated] 10 Free Passport Photo Maker for Desktop and Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-free-live-streaming-software-and-app-for-all-platforms/"><u>[Updated] Best Free Live Streaming Software and App for All Platforms</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-redmi-note-12r-frp-bypass-by-drfone-android/"><u>About Xiaomi Redmi Note 12R FRP Bypass</u></a></li>
-<li><a href="https://os-tips.techidaily.com/common-queries-and-insights-on-managing-iphones-voicemail-system/"><u>Common Queries & Insights on Managing iPhone's Voicemail System</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>Comprehensive Analysis Mastering the Art of Video Editing With VivaCut</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-solutions-fixing-your-iphones-wi-fi-connection-issues-in-just-7-steps/"><u>Essential Solutions: Fixing Your iPhone's Wi-Fi Connection Issues in Just 7 Steps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fenrir/"><u>Fenrir -</u></a></li>
-<li><a href="https://os-tips.techidaily.com/full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/highhurdle-slowmomenttape/"><u>HighHurdle SlowMomentTape</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-issues-when-whatsapp-messages-fail-to-alert-you/"><u>How to Resolve Issues When WhatsApp Messages Fail to Alert You</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620251539-imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-pro-enhancing-photo-clarity-details-and-composition/"><u>In 2024, IPhone Pro Enhancing Photo Clarity, Details & Composition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-leveraging-temporal-illusions-in-cinematography/"><u>In 2024, Leveraging Temporal Illusions in Cinematography</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/perfect-snapchat-video-maximizing-mac-capabilities/"><u>Perfect Snapchat Video Maximizing Mac Capabilities</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-definitive-strategy-for-reviving-a-blocked-iphone-secrets-to-access-unlock-and-data-retrieval/"><u>The Definitive Strategy for Reviving a Blocked iPhone: Secrets to Access, Unlock, and Data Retrieval</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-life-of-the-greek-gods/"><u>The Life of the Greek Gods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-iphone-photography-dealing-with-unresponsive-image-capture-functionality/"><u>Troubleshooting Tips for iPhone Photography: Dealing with Unresponsive Image Capture Functionality</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-boost-your-channel-top-14-gaming-vids-for-youtube-success-for-2024/"><u>[Updated] Boost Your Channel Top 14 Gaming Vids for YouTube Success for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-gif-design-essentials-top-9-tools-to-elevate-your-creativity-for-2024/"><u>[Updated] GIF Design Essentials Top 9 Tools to Elevate Your Creativity for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-interactive-cosmos-explored-metaverse-versus-omniverse-discussed/"><u>2024 Approved Interactive Cosmos Explored Metaverse Versus Omniverse Discussed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-next-gen-capture-the-leading-apps-decoded/"><u>2024 Approved Next-Gen Capture The Leading Apps Decoded</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accelerate-your-pc-performance-on-windows-11-or-10-fixes-inside/"><u>Accelerate Your PC Performance on Windows 11 or 10 [Fixes Inside]</u></a></li>
+<li><a href="https://os-tips.techidaily.com/are-digital-wallets-like-apple-pay-or-google-pay-a-greater-security-upgrade-over-standard-credit-cards/"><u>Are Digital Wallets Like Apple Pay or Google Pay a Greater Security Upgrade over Standard Credit Cards?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/assessing-the-apple-iphone-15-perfectly-adequate/"><u>Assessing the Apple iPhone 15: Perfectly Adequate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automatic-transcription-feature-now-available-in-apples-latest-podcast-update/"><u>Automatic Transcription Feature Now Available in Apple's Latest Podcast Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/charge-multiple-gadgets-simultaneously-with-belkins-latest-200w-usb-c-portable-power-station/"><u>Charge Multiple Gadgets Simultaneously with Belkin's Latest 200W USB-C Portable Power Station</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-apples-visual-look-up-function-can-enhance-your-iphone-experience-a-comprehensive-guide/"><u>Discover How Apple's Visual Look-Up Function Can Enhance Your iPhone Experience: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-80-pro-straight-screen-edition-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor 80 Pro Straight Screen Edition Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-brand-identity-increasing-subscriber-count/"><u>Mastering YouTube Brand Identity Increasing Subscriber Count</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2024-12-15T04:53:52.881Z
-updated: 2024-12-15T20:16:09.223Z
+date: 2024-12-19T20:10:02.404Z
+updated: 2024-12-24T16:10:54.195Z
 tags:
   - ios
 categories:
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Scan for Networked Cameras
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
 ![Some cameras and other devices may show up as 'Generic.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/generic-device-could-be-a-camera.png) 
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
@@ -72,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -85,7 +89,7 @@ Josh Hendrickson / How-To Geek
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
@@ -93,10 +97,6 @@ Josh Hendrickson / How-To Geek
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -119,18 +119,17 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-unpacking-the-virb-ultra-30-action-cam-by-garmin-for-2024/"><u>[Updated] Unpacking the VIRB Ultra 30 Action Cam by Garmin for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/convertissez-gratuitement-vos-fichiers-mts-en-mp4-avec-ces-3-methodes/"><u>Convertissez Gratuitement Vos Fichiers MTS en MP4 Avec Ces 3 Méthodes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620197950-download-these-free-ios-simulation-apps-on-android-today-top-picks/"><u>Download These Free iOS Simulation Apps on Android Today – Top Picks!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-guide-how-to-easily-mirror-your-samsung-display-with-allshare-cast/"><u>Effortless Guide: How to Easily Mirror Your Samsung Display with AllShare Cast</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-and-premium-methods-a-complete-2024-tutorial-on-mastering-among-us-gameplay-on-your-computer/"><u>Free and Premium Methods: A Complete 2024 Tutorial on Mastering Among Us Gameplay on Your Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-x-vs-samsung-galaxy-s8-in-depth-feature-comparison/"><u>IPhone X vs Samsung Galaxy S8: In-Depth Feature Comparison</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/key-approaches-to-enhance-vhs-photos-digitally/"><u>Key Approaches to Enhance VHS Photos Digitally</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-lost-texts-a-complete-guide-to-retrieving-your-verizon-and-atandt-messages/"><u>Recover Lost Texts: A Complete Guide to Retrieving Your Verizon and AT&T Messages</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1645559-9781476765037-reflexiones-diarias-de-el-secreto/"><u>Reflexiones Diarias de El Secreto | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-the-9-most-effective-android-emulators-on-pc-and-mac/"><u>The Ultimate List of the 9 Most Effective Android Emulators on PC & Mac</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-chatgpt-dialogues-expert-techniques-unveiled/"><u>Transform ChatGPT Dialogues: Expert Techniques Unveiled</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/visual-voyage-from-vimeo-footage-to-animated-artistry-for-2024/"><u>Visual Voyage From Vimeo Footage to Animated Artistry for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-creating-focus-in-meetings-blurring-the-video-uniformity/"><u>[New] 2024 Approved Creating Focus in Meetings Blurring the Video Uniformity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-eliminatebgmaster-highest-quality-erasure-for-2024/"><u>[Updated] EliminateBgMaster Highest Quality Erasure for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-10-online-background-variant-software/"><u>2024 Approved Unveiling the Best 10 Online Background Variant Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-enhanced-capabilities-in-iphone-15-pro-with-action-buttons-and-usb-type-c-ports/"><u>Explore Enhanced Capabilities in iPhone 15 Pro with Action Buttons and USB Type-C Ports</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-limits-how-ipads-have-evolved-with-drive-formatting-abilities-yet-struggle-with-specific-computing-challenges/"><u>Exploring the Limits: How iPads Have Evolved with Drive Formatting Abilities Yet Struggle with Specific Computing Challenges</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-disabling-live-photos-can-cost-you-uncover-essential-iphone-hacks/"><u>How Disabling Live Photos Can Cost You: Uncover Essential iPhone Hacks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-much-will-you-pay-understanding-the-new-higher-prices-for-your-apple-device-batteries/"><u>How Much Will You Pay? Understanding the New Higher Prices for Your Apple Device Batteries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-enable-split-view-and-picture-in-picture-on-your-iphone/"><u>How to Enable Split View and Picture-in-Picture on Your iPhone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-7-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 7 without Security Questions?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-apple-phones-insight-into-the-forthcoming-foldable-models-specs-and-market-entry-strategy/"><u>The Next-Gen Apple Phones: Insight Into the Forthcoming Foldable Model's Specs and Market Entry Strategy</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlimited-dji-mini-and-air-2-luts-buy-or-free-for-2024/"><u>Unlimited DJI Mini & Air 2 LUTs - Buy or Free for 2024</u></a></li>
 </ul></div>
 

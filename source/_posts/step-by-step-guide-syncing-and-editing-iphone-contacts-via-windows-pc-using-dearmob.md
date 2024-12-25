@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Syncing and Editing iPhone Contacts via Windows PC Using DearMob"
-date: 2024-12-12T07:56:33.259Z
-updated: 2024-12-15T20:06:29.060Z
+date: 2024-12-22T03:38:32.722Z
+updated: 2024-12-25T01:03:15.978Z
 tags:
   - iphone-manager
 categories:
@@ -37,10 +37,14 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 
 ![export contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-manage-contact-new-feature.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Important Note:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Managing Contact Groups on iOS 15 and Lower**
@@ -52,6 +56,10 @@ For iPhone 7/7Plus/SE first-gen and older models, Apple dropped the support for 
 * Create New Contact Inside an existing Group
 
 To create new groups, you can go to icloud.com > Contacts, and click the Plus icon; or use the Contact app on Mac to create groups and sync it to iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Export Contacts from iPhone to Windows Computer
 
@@ -66,14 +74,10 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
 ![export contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-export-contact.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Supported output formats including: **VCF**, **PDF**, **TXT** and **HTML**.
@@ -89,7 +93,7 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 ![import contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-import-contact.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
@@ -97,7 +101,7 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 * Only .vcf format file supported.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create or Add New Contacts on iPhone
@@ -123,6 +127,10 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
   
 3\. Hit **Sync** button to transfer edited contact to your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Delete Contacts on iPhone
 
 1\. Select the contact that you want to delete, and click **Delete**.
@@ -138,10 +146,6 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
   
 2\. Hit **Sync** button to synchronize the deletion to your iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Back Up & Restore iPhone Contacts
 
 DearMob enable users to back up iPhone contacts in .bak file on your Windows computer in case that the important contact data gets lost. And when the contact data is missing, users can restore them from the backup file.
@@ -155,7 +159,7 @@ DearMob enable users to back up iPhone contacts in .bak file on your Windows com
 ![backup](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-backup-restore-contact.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sync iPhone Contacts with Windows PC
@@ -165,7 +169,7 @@ DearMob enable users to back up iPhone contacts in .bak file on your Windows com
 ![sync contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-sync-contact.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Merge Duplicate Contacts into One
@@ -178,10 +182,6 @@ DearMob enable users to back up iPhone contacts in .bak file on your Windows com
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click **Ignore** or Skip to skip merging this duplicated contacts.
 * Click **Merge These** to merge current duplicated contacts.
 * You can restore the merge by clicking **Roll back to**.
@@ -192,7 +192,7 @@ DearMob enable users to back up iPhone contacts in .bak file on your Windows com
 ![merge contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-merge-contact.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Frequently Asked Questions
@@ -240,15 +240,19 @@ Deleting multiple contacts on iPhone direcly can be tricky. Using an iPhone mana
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-pixelpioneer-screensaver-logging/"><u>[New] PixelPioneer Screensaver Logging</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-sensational-screens-the-top-10-tech-for-live-recordings/"><u>[New] Sensational Screens The Top 10 Tech for Live Recordings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-break-even-on-youtube-monetizing-with-a-minimum-of-500-viewers/"><u>[Updated] Break Even on Youtube Monetizing with a Minimum of 500 Viewers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-screen-times-best-and-worst-app-reviews/"><u>[Updated] Screen Time's Best and Worst App Reviews</u></a></li>
-<li><a href="https://driver-install.techidaily.com/confront-uartusb-incompatibility/"><u>Confront UART/USB Incompatibility</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-top-tales-youtubes-best-narrative-channels-this-year/"><u>In 2024, The Top Tales YouTube’s Best Narrative Channels This Year</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-usb-c-chargers-and-adapters-for-laptops/"><u>Top Rated USB-C Chargers & Adapters for Laptops</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-protective-covers-for-the-latest-iphone-se/"><u>Top-Rated Protective Covers for the Latest iPhone SE</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-multi-port-maggo-charger-by-anker-power-up-with-qi-usb-c/"><u>Ultimate Guide to the Multi-Port MagGo Charger by Anker - Power Up with Qi, USB-C</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-iphone-case-innovations-and-designs-for-the-year-2023/"><u>Ultimate Selection of iPhone Case Innovations and Designs for the Year 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steps-to-acquire-free-picture-frame-videos/"><u>[New] Steps to Acquire Free Picture Frame Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-decode-and-maximize-your-impact-on-instagram-with-these-insights/"><u>[Updated] 2024 Approved Decode & Maximize Your Impact on Instagram with These Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-apps-for-editing-and-mixing-dji-video-tapes/"><u>2024 Approved Ideal Apps for Editing and Mixing DJi Video Tapes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-infusing-instant-storytelling-with-musical-essence/"><u>2024 Approved Infusing Instant Storytelling With Musical Essence</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-restart-copypaste-feature-effectively-on-windows-11-machines/"><u>Expert Tips: Restart Copy/Paste Feature Effectively on Windows 11 Machines</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-manual-implementing-speech-to-text-with-google-docs/"><u>In 2024, Step-by-Step Manual Implementing Speech to Text with Google Docs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-username-functionality-updates-available-on-signal-platform/"><u>Introducing Username Functionality: Updates Available on Signal Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-ownership-is-it-worth-your-investment-essential-insights-for-potential-buyers/"><u>IPad Ownership: Is It Worth Your Investment? Essential Insights for Potential Buyers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-iphone-screen-recording-a-comprehensive-tutorial/"><u>Mastering the Art of iPhone Screen Recording – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-efficiency-adding-widgets-to-your-iphones-lock-screen-tutorial/"><u>Maximize Efficiency: Adding Widgets to Your iPhone's Lock Screen Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-year-on-reflecting-on-the-apple-watch-ultras-journey/"><u>One Year On: Reflecting on the Apple Watch Ultra's Journey</u></a></li>
+<li><a href="https://os-tips.techidaily.com/protect-your-location-data-discover-new-privacy-controls-in-google-maps-recent-upgrade-for-mobile-users/"><u>Protect Your Location Data: Discover New Privacy Controls in Google Maps' Recent Upgrade for Mobile Users</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-asus-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Asus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-screenshots-with-your-logitech-keyboard/"><u>Step-by-Step Guide: Capturing Screenshots with Your Logitech Keyboard</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Mobile Payments on Windows with the Official DearMob Security Guide
-date: 2024-12-14T22:28:11.941Z
-updated: 2024-12-15T20:13:31.566Z
+date: 2024-12-23T17:43:23.258Z
+updated: 2024-12-24T23:54:29.581Z
 tags:
   - iphone-manager
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Encrypt iOS/Local Files on Windows
@@ -38,7 +38,7 @@ In DearMob,
 ![Add file for encryption on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Click **Encrypt Now**, a window will pop out to let you set the password, if you haven't set before.  
@@ -46,15 +46,23 @@ In DearMob,
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * DearMob iPhone Manager only recognize the files in current folder. Files in subfolder cannot be recognized. Please select each folder for file encryption.
 * The password should contains lowercase letter, uppercase letter and numbers.
 * If you did not set password before, the **Setting** window will pop up to let you set the password for encryption.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Decrypt Files on PC Computer
 
@@ -63,14 +71,6 @@ In DearMob,
  3\. Input the correct password and choose **OK**.
 
 ![Decrypt files on pc](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-pc.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Export Files with Encryption
 
@@ -95,19 +95,20 @@ In DearMob,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-visual-vistas-essential-effects-for-striking-snaps/"><u>[Updated] In 2024, Visual Vistas Essential Effects for Striking Snaps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-filmmakers-choice-converting-avi-files-to-gif-via-filmora-software-windowsmac/"><u>2024 Approved Filmmaker's Choice Converting AVI Files to GIF via Filmora Software (Windows/Mac)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-the-scene-right-basic-cinematography-for-new-directors-for-2024/"><u>Capture the Scene Right Basic Cinematography for New Directors for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-asus-rog-phone-8-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Asus ROG Phone 8 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-p40-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel P40 Lock Screen Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-xr-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone XR online without jailbreak</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-tips-and-tricks-for-professional-logitech-webcam-recordings/"><u>In 2024, Tips & Tricks for Professional Logitech Webcam Recordings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/masterclass-series-incorporating-timekeepers-into-live-production/"><u>Masterclass Series Incorporating Timekeepers Into Live Production</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-choice-after-testing-endless-ipad-mini-keyboard-case-options-a-comprehensive-review/"><u>Top Choice After Testing Endless iPad Mini Keyboard Case Options: A Comprehensive Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-iphone-15-leather-protectors-ultimate-selection/"><u>Top-Rated iPhone 15 Leather Protectors: Ultimate Selection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-ipad-experience-top-8-revolutionary-ipados-18-enhancements/"><u>Transform Your iPad Experience: Top 8 Revolutionary iPadOS 18 Enhancements</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-solutions-restoring-sound-during-calls-on-your-ios-and-android-devices/"><u>Troubleshooting Solutions: Restoring Sound During Calls on Your iOS & Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-tackle-and-prevent-rapid-apple-watch-power-depletion/"><u>Ultimate Guide: How to Tackle and Prevent Rapid Apple Watch Power Depletion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-must-have-magsafe-attachments-for-iphones-2023-edition/"><u>Ultimate Guide: Must-Have MagSafe Attachments for iPhones - 2023 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premier-no-cost-screen-recorder-tool/"><u>[New] 2024 Approved Premier No-Cost Screen Recorder Tool</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-uncloak-from-tiktoks-undetectable-ban-for-2024/"><u>[New] How to Uncloak From TikTok’s Undetectable Ban for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-youtube-prominence-with-expert-use-of-the-hub-for-2024/"><u>[Updated] Elevating Youtube Prominence with Expert Use of the Hub for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ascend-your-earning-game-executing-a-three-part-blueprint-for-youtube-revenue-analysis/"><u>[Updated] In 2024, Ascend Your Earning Game Executing a Three-Part Blueprint for YouTube Revenue Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-phantom-footprints-videography-review/"><u>[Updated] In 2024, Phantom Footprints Videography Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-bargain-for-windowmac-users-top-8-free-3d-players/"><u>In 2024, Best Bargain for Window/Mac Users Top 8 FREE 3D Players</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-features-in-ios-174-exciting-updates-with-fresh-emojis-and-enhanced-podcast-support/"><u>New Features in iOS 17.4: Exciting Updates with Fresh Emojis & Enhanced Podcast Support!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-password-management-tool-embraces-passkey-authentication/"><u>New Password Management Tool Embraces Passkey Authentication</u></a></li>
+<li><a href="https://os-tips.techidaily.com/qi2-wireless-charging-feature-unveiled-on-iphone-13-and-iphone-14/"><u>Qi2 Wireless Charging Feature Unveiled on iPhone 13 & iPhone 14</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quickly-secure-access-enhance-apple-id-recovery-in-just-five-easy-steps/"><u>Quickly Secure Access: Enhance Apple ID Recovery in Just Five Easy Steps!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reevaluating-apple-arcade-why-you-should-consider-these-5-compelling-factors/"><u>Reevaluating Apple Arcade: Why You Should Consider These 5 Compelling Factors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-ios-163-the-new-feature-using-a-physical-security-key/"><u>Secure Your Apple Account with iOS 16.3: The New Feature Using a Physical Security Key</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stealthy-guide-to-reading-imessages-undetected-by-read-indicators/"><u>Stealthy Guide to Reading iMessages Undetected by Read Indicators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-tipps-voor-online-and-vrijgebruikelijke-tools-om-mkv-naar-mp4-te-versterken/"><u>Top-Tipps Voor Online & Vrijgebruikelijke Tools Om MKV Naar MP4 Te Versterken</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
 </ul></div>
 

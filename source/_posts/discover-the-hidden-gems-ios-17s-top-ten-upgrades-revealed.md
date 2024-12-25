@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2024-12-09T18:57:36.537Z
-updated: 2024-12-15T19:52:52.849Z
+date: 2024-12-18T03:31:54.465Z
+updated: 2024-12-24T19:31:16.555Z
 tags:
   - ios
 categories:
@@ -19,10 +19,14 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Enable "Clean Up Automatically" in password options to delete one-time codes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clean_up_codes.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To cut through the unwanted message build-up, get your iPhone to clean up for you. Head to Settings > Passwords > Password Options and enable “Clean Up Automatically” to have your iPhone automatically trash verification codes once they’ve been used.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Swipe to Reply to Messages
@@ -30,6 +34,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  In-line replies have already been a mainstay of iMessage since the iOS 14 update, but the feature was previously hidden under the long-press menu. Now, you can swipe right on a message to start typing a reply.
 
 ![Swipe to reply to messages with an in-line reply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reply_swipe.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see the message you’re replying to in the message window above the compose box.
 
@@ -39,26 +47,18 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  On top of this, there’s a “Call Hang-Up” command that you can enable under Settings > Siri & Search that lets you tell Siri to hang up the phone while you’re on a call.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Link Your Notes Together
 
 [Apple Notes is a powerful note-taking app](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) and it costs nothing to use (though you may need more iCloud storage if you have a lot of attachments). One of the last big missing features was the ability to link notes together, and iOS 17 finally changed that.
 
 ![Link notes together in Apple Notes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/link_notes.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add a link to a note by tapping a blank space to bring up the context menu and tapping “Add Link” then typing the title of a note. Give the link a name (which is what you’ll see when you tap on it) and hit “Done” to add the link.
 
  You can also add links to existing text by highlighting the text and then using the “Add Link” option in the context menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reminders Now Auto-Suggests Items
@@ -66,6 +66,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  If you’re into manually adding reminders to [Apple’s Reminders app](https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-5frp-lock-by-drfone-android/) (rather than simply asking Siri to do it), you’ll likely appreciate auto-suggestions while typing. As you add a shortcut, you’ll now see suggestions appear as you type, based on other reminders you have added in the past. Action the reminder by tapping on it.
 
 ![Get item suggestions in Apple Reminders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/autocomplete_reminders.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There’s also a new “Siri Suggestions” option beneath your pinned lists in the Reminders apps that finds to-do list items that you might have forgotten about. Tap on an item to add it to Reminders.
 
@@ -77,6 +81,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Straightness Level in Camera Viewfinder
 
  In iOS 17 you’ll see a new level overlay when taking photos that appears when your horizon is _nearly_ straight and disappears when you’re intentionally shooting Dutch angles. This is on by default, but you can turn it off under Settings > Camera > Level.
@@ -84,7 +92,7 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![The new level overlay helps you shoot straight when using the Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/camera_level.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Quickly Access and Lock Private Browsing
@@ -103,6 +111,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Animated Now Playing Screens in Music
 
  It’s not useful, and it’s not even universal, but Now Playing screens in the Music app now look a whole lot nicer as long as the album you’re listening to has animated album art.
@@ -111,23 +123,11 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close 
 
  Not only do albums now fill the screen and gradually blend into the controls at the bottom, but you’ll also see the animation play out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Upgrade to iOS 17
 
@@ -150,17 +150,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-transform-how-you-talk-best-mobile-apps-to-alter-vocal-quality/"><u>[New] 2024 Approved Transform How You Talk Best Mobile Apps to Alter Vocal Quality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-best-10-text-presets-for-after-effects/"><u>[Updated] Best 10 Text Presets for After Effects</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-art-of-vocal-performance-for-video-projects/"><u>[Updated] The Art of Vocal Performance for Video Projects</u></a></li>
-<li><a href="https://os-tips.techidaily.com/charming-girls-style-hd-iphone-backgrounds-perfect-selection-for-every-generational-device-including-iphone-xr-and-earlier-models/"><u>Charming Girls' Style HD iPhone Backgrounds - Perfect Selection for Every Generational Device, Including iPhone XR & Earlier Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-for-silencing-unwanted-texts-on-iphones/"><u>Effective Strategies for Silencing Unwanted Texts on iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-iphones-readability-with-simple-font-customization-techniques/"><u>Enhance Your iPhone's Readability with Simple Font Customization Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-an-iphones-non-responsive-battery-charge-simple-guidance/"><u>How to Fix an iPhone's Non-Responsive Battery Charge: Simple Guidance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sonys-blu-ray-revolution-s6700-updates-for-2024/"><u>Sony's Blu-Ray Revolution S6700 Updates for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-up-mondly-provides-free-learning-opportunities/"><u>Speak Up! Mondly Provides Free Learning Opportunities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stay-secure-dont-get-hooked-by-googles-deceptive-bard/"><u>Stay Secure, Don't Get Hooked by Google's Deceptive Bard</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-beauty-on-youtube-gear-makeup-tutorials-and-more/"><u>The Ultimate Guide to Beauty on YouTube - Gear, Makeup Tutorials, and More</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elite-cutting-edge-tools-for-app-editing/"><u>[Updated] 2024 Approved Elite Cutting-Edge Tools for App Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-avoiding-miscommunication-on-google-meet-best-practices/"><u>2024 Approved Avoiding Miscommunication on Google Meet Best Practices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-iphone-15-features-regular-usb-c-port-as-predicted-by-rumors-no-restrictions-on-mfi-certification/"><u>Apple's iPhone 15 Features Regular USB-C Port as Predicted by Rumors; No Restrictions on MFi Certification</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974363253-elevate-your-audio-experience-with-gigabytes-free-driver-download-now/"><u>Elevate Your Audio Experience with Gigabyte's Free Driver Download Now!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-process-embedding-internet-video-in-ppt-decks/"><u>In 2024, Step-By-Step Process Embedding Internet Video in PPT Decks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-new-possibilities-by-trading-in-your-classic-iphone-for-sleek-airpods-today/"><u>Unlock New Possibilities by Trading In Your Classic iPhone for Sleek AirPods Today!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-essential-12-siri-capabilities-on-your-ios-device/"><u>Unlock the Full Potential: Essential 12 Siri Capabilities on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-efficiency-with-your-iphone-ebyte-15-pros-action-button-comprehensive-usage-tips-and-tricks/"><u>Unlocking Efficiency with Your iPhone Ebyte 15 Pro's Action Button: Comprehensive Usage Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-is-my-iphone-heating-up-uncover-the-causes-of-iphone-overheating-and-remedies/"><u>Why Is My iPhone Heating Up? Uncover the Causes of iPhone Overheating & Remedies</u></a></li>
 </ul></div>
 

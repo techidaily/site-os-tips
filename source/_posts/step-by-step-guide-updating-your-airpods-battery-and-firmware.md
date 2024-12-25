@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2024-12-10T03:17:15.340Z
-updated: 2024-12-15T19:39:56.239Z
+date: 2024-12-20T21:19:43.757Z
+updated: 2024-12-24T23:49:58.897Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 ---
 
 ## Step-by-Step Guide: Updating Your AirPods Battery & Firmware
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  AirPods Typically Update the Firmware Automatically
 
  Thankfully, AirPods will normally update their [firmware](https://hardware-updates.techidaily.com/intel-chips-propel-modelfarms-unreal-engine-success-cutting-down-failure-rates-transition-to-amd-ryzen-for-faster-single-threaded-performance/)—a type of software that runs on the AirPods themselves—on their own. So long as a few prerequisites are met, you should never need to force your AirPods to update manually. Those prerequisites are:
@@ -48,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  However, there are some times you may wish to kick an update off manually. First, let's check which version of software the AirPods are running currently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Check Which Firmware Your AirPods Are Running
 
  With your AirPods in their Charging Case, open the lid near your iPhone. Dismiss the on-screen battery indicator that appears and then open the Settings app.
@@ -62,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, tap "About" to progress.
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
@@ -79,7 +71,11 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  To do so, put your AirPods into their Charging Case, start charging the case, and place it near your iPhone. Make sure your iPhone is connected to Wi-Fi. Next, open the cover and then dismiss the on-screen battery display.
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
@@ -115,22 +115,19 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-optimizing-youtube-auditory-experience-for-viewers/"><u>[New] 2024 Approved Optimizing YouTube Auditory Experience for Viewers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speed-photography-showdown-gopro-hero-4-vs-ghost-s-drift/"><u>[Updated] Speed Photography Showdown GoPro Hero 4 VS Ghost-S Drift</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-newest-viral-content-on-tiktok-today-for-2024/"><u>[Updated] The Newest Viral Content on TikTok Today for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-transform-your-videos-simple-steps-to-include-youtube-subtitlescc-for-2024/"><u>[Updated] Transform Your Videos Simple Steps to Include YouTube Subtitles/CC for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-boosting-obs-streams-direct-to-facebook-feed/"><u>2024 Approved Boosting OBS Streams Direct to Facebook Feed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>2024 Approved From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-remove-your-facebook-friends-from-iphone-address-book/"><u>Comprehensive Guide: How to Remove Your Facebook Friends From iPhone Address Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-mobikin-cleaner-guide-features-reviews-and-performance-on-windows-and-mac/"><u>Comprehensive Mobikin Cleaner Guide: Features, Reviews, and Performance on Windows & Mac</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discover-enhanced-productivity-with-emeditors-pro-edition-version-7-beta-release/"><u>Discover Enhanced Productivity with EmEditor's Pro Edition, Version 7 Beta Release</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-your-iphones-camera-issues-3-easy-solutions/"><u>Fix Your iPhone's Camera Issues: 3 Easy Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-the-beat-on-your-device-discover-how-to-easily-move-tunes-from-an-ipod-touchshufflenano-no-itunes-required/"><u>Get the Beat on Your Device: Discover How to Easily Move Tunes From an iPod Touch/Shuffle/Nano - No iTunes Required!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-uninstall-ebooks-from-your-ibooks-collection-the-three-superior-strategies/"><u>How to Effortlessly Uninstall eBooks From Your iBooks Collection: The Three Superior Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-cannot-capture-image-on-iphone-with-these-three-tips/"><u>How to Resolve 'Cannot Capture Image' On iPhone with These Three Tips</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-fix-the-cannot-delete-issue-on-your-iphone-seamlessly/"><u>Ultimate Guide: How to Fix the 'Cannot Delete' Issue on Your iPhone Seamlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-power-of-mobikin-cleaner-for-pcs-in-depth-review-and-insights-for-windows-and-macos-users/"><u>Unveiling the Power of Mobikin Cleaner for PCs: In-Depth Review and Insights for Windows and macOS Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>[New] 2024 Approved Pro Angler's Choice The Top 5 Cameras For Fishing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-adding-youtube-music-to-video-for-2024/"><u>[New] Adding YouTube Music To Video for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-into-the-world-of-innovative-youtube-video-techniques/"><u>[New] Step Into the World of Innovative YouTube Video Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-tips-for-uninterrupted-obs-video-playback-for-2024/"><u>[New] Tips for Uninterrupted OBS Video Playback for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1-should-you-consider-an-upgrade-to-the-newly-launched-2024-m3-macbook-air/"><u>1. Should You Consider an Upgrade to the Newly Launched 2024 M3 MacBook Air?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-content-with-external-weblinks-in-insta-for-2024/"><u>Enhancing Content with External Weblinks in Insta for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-an-offline-apple-device-explanations-and-tips-for-locating-it/"><u>Finding an Offline Apple Device: Explanations & Tips for Locating It</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-hotmail-password-easily-even-if-you-cant-use-a-backup-email-or-phone-number/"><u>Resetting Your Hotmail Password Easily – Even if You Can't Use a Backup Email or Phone Number</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-laptop-restart-techniques-for-windows-and-mac-users-no-data-lost/"><u>Safe Laptop Restart Techniques for Windows and Mac Users: No Data Lost</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620260555-stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-changing-your-windows-7-pcs-login-credentials/"><u>Top Strategies for Successfully Changing Your Windows 7 PC's Login Credentials</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unexpected-windows-11-reboots-effective-solutions-and-troubleshooting-tips/"><u>Unexpected Windows 11 Reboots: Effective Solutions & Troubleshooting Tips</u></a></li>
 </ul></div>
 

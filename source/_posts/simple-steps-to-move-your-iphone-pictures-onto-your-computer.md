@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Move Your iPhone Pictures Onto Your Computer
-date: 2024-12-14T19:31:59.062Z
-updated: 2024-12-15T19:13:28.662Z
+date: 2024-12-21T17:35:37.415Z
+updated: 2024-12-24T17:52:14.927Z
 tags:
   - ios
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap "Trust."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/trust-this-pc.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your iPhone appears as a new device under "This PC" in File Explorer on Windows 10 or Windows 11\. Head here and double-click it.
 
  If you don't see the iPhone under This PC or Computer, unplug the iPhone, plug it back in, and ensure it's unlocked.
@@ -55,13 +51,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Right-click photos, videos, or other media files on your iPhone to delete them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/delete-files.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To import everything from your iPhone, you could just copy-and-paste or drag-and-drop the 100APPLE folder (and any other folders) inside the DCIM folder. Or, you could just grab the whole DCIM folder if you want. Just make sure to copy instead of move the items, if you want them to remain on your phone.
 
 ![Copy the photo folders from your iPhone to other devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/copy-photos-to-iphone.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you see files with the .HIEC file extension, that indicates your iPhone is taking photos using [the HEIF image format](https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/). This is the default setting as of [iOS 11](https://remote-screen-capture.techidaily.com/updated-2023s-best-screen-recorder-discover-with-camstudio/) and later, but you need to install the [HEIF image extension to view these files on Windows](https://sound-tweaking.techidaily.com/the-most-reliable-sites-to-stream-legal-background-music-collections-for-2024/).
 
@@ -72,7 +68,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Select the "Automatic" option to enable automatic conversion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/automatic-transfer.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Import Photos With Windows Photos (or Other Applications)
@@ -86,7 +82,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Importing photos and videos from the iPhone with the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/importing-files-from-iphone.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sync Your Photos With iCloud Photo Library (or Other Services)
@@ -97,10 +97,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open the Settings app, tap &quot;Photos,&quot; then tap the toggle next to &quot;iCloud Photos.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/icloud_annotated.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can then install [iCloud for Windows](https://support.apple.com/en-us/HT204283), sign in with your Apple ID, and enable the "Photos" feature in the iCloud control panel. Click the "Options" button to control where photos are stored on your PC and adjust other settings.
 
  Photos that you take are automatically uploaded to your iCloud Photo Library, and then the iCloud software automatically downloads a copy of them to your PC.
@@ -110,6 +106,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  This isn't the only application you can use for synchronizing photos to your PC. The [Dropbox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/dropbox/id327630330?mt=8), [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/google-photos/id962194608?mt=8), and [Microsoft OneDrive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/microsoft-onedrive/id477537958?mt=8) apps for iPhone all offer automatic photo-upload features, and you can use the [Dropbox](https://www.dropbox.com/), [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/), and [OneDrive](https://onedrive.live.com/) tools for Windows to automatically download those photos to your PC.
 
 ![The Google Drive app can automatically synchronize photos between devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa30ed72d6fc.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just keep in mind that with these services, you're actually syncing those folders. So, if you delete something from a synced folder on your PC, it is also deleted on your phone.
 
@@ -128,22 +128,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-best-pc-snippets-tools-handy-guide-to-top-5-choices/"><u>[New] Best Pc Snippets Tools Handy Guide to Top 5 Choices</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-most-liked-and-watched-amazon-prime-video-on-twitter/"><u>[Updated] In 2024, Most Liked and Watched Amazon Prime Video on Twitter</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streaming-beyond-streamlabs-a-comparative-study/"><u>[Updated] In 2024, Streaming Beyond StreamLabs A Comparative Study</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-alternative-to-apples-xr-vision-therapy-beats-high-end-models-in-effectiveness-zdnet/"><u>Affordable Alternative to Apple's XR Vision Therapy Beats High-End Models in Effectiveness | ZDNet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-data-on-your-iphone-post-factory-reset/"><u>Complete Guide: Retrieving Lost Data on Your iPhone Post-Factory Reset</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ding-yt-playlists-seamlessly-on-webpages/"><u>Embedding YT Playlists Seamlessly on Webpages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y77t-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y77t to Another | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/is-this-program-banned-by-windows-defender-find-out-with-yl-softwares-guide/"><u>Is This Program Banned By Windows Defender? Find Out with YL Software's Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-work-on-the-move-with-the-miniature-105-eyoyo-em105-monitor-top-review-for-budget-friendly-tech/"><u>Maximizing Work on the Move with the Miniature 10.5 EYOYO EM105 Monitor: Top Review for Budget-Friendly Tech</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-recover-your-viber-conversations-in-just-5-minutes/"><u>Quick Guide: Recover Your Viber Conversations in Just 5 Minutes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-your-missed-chats-expert-tips-for-restoring-erased-text-messages/"><u>Recover Your Missed Chats: Expert Tips for Restoring Erased Text Messages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-deleted-messages-in-ios-using-a-mac-easy-methods-explored/"><u>Restoring Deleted Messages in iOS Using a Mac: Easy Methods Explored</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revamping-the-writers-toolkit-8-ai-innovations-explored/"><u>Revamping the Writer's Toolkit: 8 AI Innovations Explored</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-messages-on-icloud-using-top-performing-methods/"><u>Reviving Your Messages on iCloud Using Top-Performing Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/skysoft-vs-competitors-in-iphone-data-restoration-finding-the-ultimate-recovery-tool-for-missed-texts-and-photos/"><u>Skysoft Vs. Competitors in iPhone Data Restoration: Finding the Ultimate Recovery Tool for Missed Texts and Photos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-wi-fi-messaging-apps-communicate-seamlessly-without-cellular-data/"><u>Top 5 Wi-Fi Messaging Apps: Communicate Seamlessly Without Cellular Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-retrieving-your-erased-safari-bookmarks-and-history-from-ios-devices/"><u>Ultimate Guide: Retrieving Your Erased Safari Bookmarks & History From iOS Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-best-steadicams-for-dsrl-filming/"><u>[New] In 2024, Best Steadicams for DSRL Filming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-earn-big-today-discover-the-top-13-profit-methods-you-can-use-right-away/"><u>[Updated] In 2024, Earn Big Today! Discover the Top 13 Profit Methods You Can Use Right Away</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youthful-wealth-wonders-a-look-at-ryans-online-riches/"><u>[Updated] Youthful Wealth Wonders A Look at Ryan's Online Riches</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-checklist-for-preparing-to-sell-your-iphone-successfully/"><u>Comprehensive Checklist for Preparing to Sell Your iPhone Successfully</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-a-personalized-internet-joke-today-for-2024/"><u>Create a Personalized Internet Joke Today for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-m6-pro-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco M6 Pro 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-todays-drones-tomorrows-landscapes-an-overview/"><u>In 2024, Today’s Drones, Tomorrow's Landscapes An Overview</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-latest-ai-powered-thinkpads-the-ultimate-solution-for-modern-professionals-insights/"><u>Introducing Lenovo's Latest AI-Powered ThinkPads: The Ultimate Solution for Modern Professionals - Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-iphones-latest-feature-a-step-by-step-guide-to-using-the-built-in-document-scanner/"><u>Mastering Your iPhone's Latest Feature: A Step-by-Step Guide to Using the Built-In Document Scanner</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-find-someone-elses-iphone-using-only-the-contact-details/"><u>Quick Guide: Find Someone Else's iPhone Using Only the Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stalled-ipads-displaying-apple-symbols-effective-techniques-for-resolution-and-restarting/"><u>Stalled iPads Displaying Apple Symbols: Effective Techniques for Resolution and Restarting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-inaccessible-voicemails-from-an-ios-device/"><u>Step-by-Step Guide: Clearing Inaccessible Voicemails From an iOS Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-error-0x80004005-on-windows/"><u>Troubleshooting Guide: Resolving Error 0X80004005 on Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-notch-apps-to-bypass-icloud-security-and-free-your-device/"><u>Ultimate Guide: Top-Notch Apps to Bypass iCloud Security and Free Your Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide for DearMob Users on Downloading iPhone's Clouded Memories (Photos & Videos) Onto a PC/Mac System
-date: 2024-12-10T19:46:47.889Z
-updated: 2024-12-15T23:19:02.735Z
+date: 2024-12-22T19:56:39.147Z
+updated: 2024-12-24T23:07:13.645Z
 tags:
   - iphone-manager
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Download Photos/Videos from iCloud?
@@ -37,7 +37,7 @@ Free download DearMob iPhone Manager:
 [Buy Full License Version >>](https://tools.techidaily.com/5kplayer/iphone-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can I See My iCloud Photos in DearMob?
@@ -47,14 +47,10 @@ DearMob iPhone Manager tags all your iCloud photos with a Cloud icon so that you
 ![how do i see my icloud photos](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Notes:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * A photo with a Cloud tag shows that it is on iCloud, and may not be on your devices unless you tap it in the Photos app for instant download. A progress bar will indicate the download status for each single photo.
 * However, videos saved on iCloud are not marked as photos with Cloud icon.
@@ -66,7 +62,7 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 ![Download and Keep Originals](https://www.5kplayer.com/user-guide/images/userguide-how/download-icloud-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1:** Go to Settings > \[Your Name\] > iCloud > Photos. 
@@ -80,6 +76,10 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 **Step 4:** Upon download, reconnect your device to computer and let DearMob read and retry exporting original photos/videos without failure.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Notes:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Read this guide should you encounter the "[iCloud photos could not be turned on](https://tools.techidaily.com/5kplayer/iphone-manager/)" issue.
 * Read this guide should you encounter the "[photos missing from iCloud photo library](https://tools.techidaily.com/5kplayer/iphone-manager/)" issue.
@@ -100,15 +100,20 @@ To download all full-res photos and videos from iCloud to computer, you will hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-discover-other-pc-video-editing-programs/"><u>[New] 2024 Approved Discover Other PC Video Editing Programs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-samsung-gear-vr-game-collection/"><u>[Updated] In 2024, Ultimate Samsung Gear VR Game Collection</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/following-paths-those-whove-left-instagram-for-2024/"><u>Following Paths Those Who've Left Instagram for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-the-power-top-10-remarkable-ipad-capabilities-waiting-to-transform-your-digital-life/"><u>Unleash the Power: Top 10 Remarkable iPad Capabilities Waiting to Transform Your Digital Life</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secret-easily-locate-and-verify-your-phone-number-on-any-smartphone/"><u>Unlock the Secret: Easily Locate and Verify Your Phone Number on Any Smartphone!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-iphone-models-iphone-16-series-unveiled-leaked-specs-and-rumors/"><u>Upcoming iPhone Models: IPhone 16 Series Unveiled - Leaked Specs and Rumors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upgrade-your-chat-game-master-these-10-indispensable-imessage-tricks-for-immediate-use/"><u>Upgrade Your Chat Game: Master These 10 Indispensable iMessage Tricks for Immediate Use</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-crafting-an-iconic-identity-on-instagram-with-these-9-tricks/"><u>[New] In 2024, Crafting an Iconic Identity on Instagram with These 9 Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-smartphones-meet-virtual-worlds-top-10-headsets/"><u>2024 Approved Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-ipad-gaming-experience-with-the-apple-pencil-discover-the-simple-steps/"><u>Enhanced iPad Gaming Experience with the Apple Pencil: Discover the Simple Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-complimentary-apple-products-with-your-target-rewards-claim-now/"><u>Enjoy Complimentary Apple Products with Your Target Rewards – Claim Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-luminous-durable-apple-watch-sport-band-from-nomad-the-ultimate-guide/"><u>Experience the Luminous, Durable Apple Watch Sport Band From Nomad – The Ultimate Guide!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-apples-classical-playlist-a-wealth-of-melodies-at-exceptional-prices/"><u>Exploring Apple's Classical Playlist: A Wealth of Melodies at Exceptional Prices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/find-and-retrieve-deleted-connections-from-your-iphone-easily/"><u>Find and Retrieve Deleted Connections From Your iPhone Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/gaming-harmonies-archive-legal-free-to-access/"><u>Gaming Harmonies Archive Legal, Free to Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-designjet-500-software-for-smooth-printing-experience/"><u>Get Your HP DesignJet 500 Software for Smooth Printing Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-securing-your-mobile-apps-with-screen-locking-features-on-ios-devices/"><u>Guide: Securing Your Mobile Apps with Screen Locking Features on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-uploading-your-smartphone-images-from-ios-device-to-windowsmac-desktop/"><u>Guide: Uploading Your Smartphone Images From iOS Device to Windows/Mac Desktop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/is-it-possible-to-transcode-prores-videos-using-handbrake-software/"><u>Is It Possible to Transcode ProRes Videos Using HandBrake Software?</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/top-5-methods-for-capturing-computer-sound-insights-from-movavi/"><u>Top 5 Methods for Capturing Computer Sound: Insights From Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-12-mini-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 12 mini Passcode without a Computer</u></a></li>
 </ul></div>
 

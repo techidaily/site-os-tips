@@ -1,7 +1,7 @@
 ---
 title: "Essential DearMob Mac Security: The Ultimate User Manual"
-date: 2024-12-09T18:12:08.600Z
-updated: 2024-12-15T16:58:53.682Z
+date: 2024-12-18T18:57:56.975Z
+updated: 2024-12-24T23:37:37.707Z
 tags:
   - iphone-manager
 categories:
@@ -33,27 +33,27 @@ DearMob allows you to,
 
 ![Add file for encryption on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-add-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Click **Encrypt Now** and the **Settings** window would pop up.  
  4\. Check the box "I've already know...", enter your new password, and then click OK.
 
 ![Set password for encryption](https://www.5kplayer.com/user-guide/images/userguide-how/guide-encrypt-password.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You can apply the same passwords to Photo, Video and Contact encryption.
 * Create your password with numbers, uppercase letter and lowercase letter.
 * The **Setting** window would pop out for you to set password for encryption, if you didn't set it before.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Decrypt Files Encrypted by DearMob on Mac
@@ -63,18 +63,18 @@ DearMob allows you to,
 
 ![Decrypt files on Mac](https://www.5kplayer.com/user-guide/images/userguide-how/guide-decrypt-add-mac.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * DearMob only decrypts files that were enciphered by DearMob iPhone Manager itself.
 * Tick **Temporarily save password** to remember your decode password for all decryptions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Export Video, Photo, Contact with Password on Mac
 
@@ -99,20 +99,21 @@ DearMob allows you to,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-which-gopro-is-better-max-360-or-hero-11/"><u>[Updated] 2024 Approved Which GoPro Is Better, Max 360 or Hero 11?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-exploring-the-lowest-rates-on-cloud-services-2024-edition/"><u>[Updated] Exploring the Lowest Rates on Cloud Services, 2024 Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-no-cost-youtube-audio-tools-for-seamless-mp3-downloads/"><u>[Updated] No-Cost YouTube Audio Tools for Seamless MP3 Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unifying-your-digital-storytelling-via-merged-youtube-media/"><u>2024 Approved Unifying Your Digital Storytelling via Merged YouTube Media</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-s24plus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy S24+ Unlock Without Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-shift-from-google-snapshots-to-icloud-storage-a-step-by-step-guide/"><u>Effortless Shift From Google Snapshots to iCloud Storage - A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-tips-and-tricks-for-creating-regular-notifications-on-apples-iphoneipad/"><u>Effortless Tips & Tricks for Creating Regular Notifications on Apple's iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-sound-quality-with-airpods-pros-adaptive-audio-feature/"><u>Enhancing Sound Quality with AirPods Pro's Adaptive Audio Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-the-latest-microsofts-ai-the-copilot-app-is-available-on-iphones/"><u>Explore the Latest Microsoft's AI: The Copilot App Is Available on iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-elite-premium-protection-options-for-ipad-10gen-models/"><u>Exploring the Elite: Premium Protection Options for iPad 10Gen Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-pinnacle-period-in-smartphone-evolution-the-golden-age-unveiled/"><u>Exploring the Pinnacle Period in Smartphone Evolution – The Golden Age Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/from-iphones-to-pixel-phones-embracing-apple-and-cherishing-android-devices/"><u>From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone SE</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/new-on-the-block-discover-the-price-and-launch-schedule-for-the-sleek-ps5-slim/"><u>New on the Block - Discover the Price & Launch Schedule for the Sleek PS5 Slim</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-xcover-6-pro-tactical-edition-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy XCover 6 Pro Tactical Edition Black and White | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-beginners-blueprint-to-effective-use-of-aiseesoft-recorder/"><u>[New] 2024 Approved Beginner's Blueprint to Effective Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bizarre-vertical-reversal-in-insta-videos-a-glitch/"><u>[New] Bizarre Vertical Reversal in Insta Videos – A Glitch?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-guide-to-streamlining-console-game-recording/"><u>[New] Guide to Streamlining Console Game Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-digital-chuckler-designer/"><u>2024 Approved Digital Chuckler Designer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-free-ai-tools-to-generate-professional-emails-with-chatgpt-and-summarize-your-inbox/"><u>5 Free AI Tools to Generate Professional Emails With ChatGPT & Summarize Your Inbox</u></a></li>
+<li><a href="https://win-top.techidaily.com/comprehensive-guide-to-crafting-your-2n11-2n12-marketing-campaigns-leveraging-channels-managing-spendings-and-maximizing-social-platforms-through-massmail-t3/"><u>Comprehensive Guide to Crafting Your 2N11-2n12 Marketing Campaigns: Leveraging Channels, Managing Spendings & Maximizing Social Platforms Through MassMail Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-look-how-dell-p2715q-delivers-on-4k-quality/"><u>Inside Look How Dell P2715Q Delivers on 4K Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-nvidias-latest-rtx-2060-super-drivers-on-your-windows-pc-version-compatible-with-win10-and-win11/"><u>Install Nvidia's Latest RTX 2060 Super Drivers on Your Windows PC: Version Compatible with Win10 & Win11</u></a></li>
+<li><a href="https://techidaily.com/sign-wps-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wps file Documents Online for Free</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-browsing-with-vivaldi-for-iphoneipad-unveiling-stylish-themes-and-powerful-dark-mode-options/"><u>Transform Your Browsing with Vivaldi for iPhone/iPad - Unveiling Stylish Themes & Powerful Dark Mode Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-how-to-resolve-iphones-message-failed-to-download-from-server-issue/"><u>Troubleshooting Guide: How to Resolve iPhone's 'Message Failed to Download From Server' Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-secret-how-an-affordable-stand-is-essential-for-your-smartphone/"><u>Unlocking the Secret: How an Affordable Stand Is Essential for Your Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-feature-pay-with-a-tap-using-third-party-ios-applications/"><u>Upcoming Feature: Pay with a Tap Using Third-Party iOS Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-solutions-how-apple-addresses-iphone-alarm-vulnerabilities/"><u>Upcoming Solutions: How Apple Addresses iPhone Alarm Vulnerabilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcycle-your-aged-phones-into-awesome-audio-gadgets-for-childrens-entertainment/"><u>Upcycle Your Aged Phones Into Awesome Audio Gadgets for Children's Entertainment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/waze-integrates-leading-safety-functionality-into-google-maps/"><u>Waze Integrates Leading Safety Functionality Into Google Maps</u></a></li>
 </ul></div>
 

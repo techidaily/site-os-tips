@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2024-12-13T17:31:17.678Z
-updated: 2024-12-16T08:25:56.306Z
+date: 2024-12-23T00:02:21.200Z
+updated: 2024-12-25T04:43:30.718Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ---
 
 ## Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  GPT vs. Claude On The Web
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Signing In and Getting Started
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
@@ -60,6 +56,10 @@ Dibakar Ghosh / How-To Geek / Midjourney
  Claude has a similar tokenization system, but the amount of messages you're allowed seems much more limited at the free level. After those messages run out, you can't use the model again until it resets. As someone who used a pro account for a bit, I noticed that the access limits had increased somewhat, but I still found that I ran out of credits before I could adequately get anything done. There is a higher-paid tier for both ChatGPT and Claude, but I haven't tested either.
 
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which App Performs Better?
 
@@ -77,10 +77,6 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -88,6 +84,10 @@ Jason Dookeran/How-to-Geek
  I ran both apps through basic algebra tests, US History, Geography, and Science. The questions I asked were simple enough that a tenth-grader would know them, and both engines responded correctly. The only difference here is Claude's response time, which consistently came in between four and five times faster than ChatGPT. Claude once again takes pole position, giving it an unassailable 3–0 lead.
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hallucinations Still Happen On Mobile
 
@@ -112,24 +112,20 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-tweeting-short-videos-to-interactive-shareable-customized-gifs/"><u>[Updated] 2024 Approved From Tweeting Short Videos to Interactive, Shareable Customized GIFS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-leveraging-snapchat-for-income/"><u>[Updated] In 2024, Leveraging Snapchat for Income</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-envisioned-realities-a-selective-list-of-virtual-wisdoms/"><u>2024 Approved Envisioned Realities A Selective List of Virtual Wisdoms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-complete-tutorial-for-syncing-and-organizing-safari-browser-favorites-from-ios-devices-on-windows-with-deermob-tool/"><u>A Complete Tutorial for Syncing & Organizing Safari Browser Favorites From iOS Devices on Windows with DeerMob Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-transferring-and-recovering-iphone-messages-to-your-pc-with-dearmob/"><u>Complete Guide: Transferring and Recovering iPhone Messages to Your PC with DearMob</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-handle-and-edit-ipadiphone-chrome-bookmarks-on-pc-a-comprehensive-step-by-step-guide-by-deermob/"><u>How to Handle and Edit iPad/iPhone Chrome Bookmarks on PC: A Comprehensive Step-by-Step Guide by DeerMob</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-handle-ios-voice-memo-files-and-ringtones-with-windows-using-the-dearmob-guide/"><u>How to Handle iOS Voice Memo Files & Ringtones with Windows Using the DearMob Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-move-your-iphone-applications-to-a-mac-a-comprehensive-guide-by-dearmob/"><u>How to Seamlessly Move Your iPhone Applications to a Mac: A Comprehensive Guide by DearMob</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-on-samsung-t5-solid-state-drive-save-nearly-half-the-price-before-prime-day-deals-hit/"><u>Huge Discount on Samsung T5 Solid State Drive - Save Nearly Half the Price Before Prime Day Deals Hit!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>In 2024, Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-infinix-note-30-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Infinix Note 30 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-dearmob-applications-a-comprehensive-guide-to-securing-your-mac/"><u>Mastering DearMob Applications: A Comprehensive Guide to Securing Your Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-the-art-of-online-meeting-recordings-with-google/"><u>Mastering the Art of Online Meeting Recordings with Google</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011403459-quick-fixes-for-speedy-chrome-no-more-lag/"><u>Quick Fixes for Speedy Chrome – No More Lag</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-and-editing-iphone-contacts-via-windows-pc-using-dearmob/"><u>Step-by-Step Guide: Syncing and Editing iPhone Contacts via Windows PC Using DearMob</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-managing-ios-files-using-windows-systems-dearmob-users-compendium/"><u>Step-by-Step Instructions for Managing iOS Files Using Windows Systems | DearMob User's Compendium</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-future-of-audio-extraction-with-pazera-tools-analysis-for-2024/"><u>The Future of Audio Extraction with Pazera Tools Analysis for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/using-your-ios-device-as-a-usb-flash-drive-with-windiskmount-windows-tutorial/"><u>Using Your iOS Device as a USB Flash Drive with WinDiskMount (Windows Tutorial)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revolutionizing-iphone-photography-with-hdr-techniques/"><u>[New] Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-full-screen-preview-tutorials/"><u>[Updated] Step-by-Step Full Screen Preview Tutorials</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/p-dive-into-youtube-app-features-on-smartphones-for-2024/"><u>A Deep Dive Into YouTube App Features on Smartphones for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-video-malfunction-your-guide-to-recovery/"><u>Advanced Video Malfunction: Your Guide to Recovery?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-officejet-pro-8715-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download HP OfficeJet Pro 8715 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-started-with-apples-freeform-step-by-step-instructions-for-optimal-experience/"><u>Get Started with Apple’s Freeform: Step-by-Step Instructions for Optimal Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improving-iphone-call-clarity-a-guide-with-10-effective-techniques/"><u>Improving iPhone Call Clarity: A Guide with 10 Effective Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-magic-6-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor Magic 6 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-anker-maggo-dual-charging-platform-revealed-supports-qi-and-usb-c/"><u>In-Depth Anker MagGo Dual Charging Platform Revealed: Supports Qi & USB-C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-rollout-introduces-major-improvements-to-home-interface-and-mail-app-features-discover-how/"><u>IOS 18 Rollout Introduces Major Improvements to Home Interface and Mail App Features – Discover How!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-guide-mastering-the-art-of-looping-videos/"><u>IPhone Guide: Mastering the Art of Looping Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keep-every-call-a-comprehensive-method-to-store-iphone-voicemail-recordings/"><u>Keep Every Call: A Comprehensive Method to Store iPhone Voicemail Recordings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/latest-password-software-adds-support-for-secure-passkey-feature/"><u>Latest Password Software Adds Support for Secure Passkey Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/nintendo-switch-tips-easy-methods-for-snapping-and-posting-screen-caps/"><u>Nintendo Switch Tips: Easy Methods for Snapping & Posting Screen Caps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-18-plateformes-de-photographie-paid-a-privilegier-en-france/"><u>Top 18 Plateformes De Photographie Paid À Privilégier en France</u></a></li>
 </ul></div>
 

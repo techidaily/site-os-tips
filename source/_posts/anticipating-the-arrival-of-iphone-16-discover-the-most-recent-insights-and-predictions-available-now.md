@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-date: 2024-12-10T16:00:13.429Z
-updated: 2024-12-16T03:11:42.395Z
+date: 2024-12-22T03:25:49.421Z
+updated: 2024-12-24T18:10:24.984Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,22 +38,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s almost time for Apple to unveil 2024’s iPhone lineup, and the rumor mill is swirling. While we won’t know for sure until Apple’s September event, let’s take a look at what leaks and speculation suggest is coming this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A New A18 System-on-Chip
 
  If there’s one change that’s pretty much guaranteed in the iPhone 16 and 16 Pro, it’s that Apple will be upgrading the guts of the device. MacRumors [reports](https://www.macrumors.com/2024/03/01/chip-details-of-16-upcoming-apple-devices-revealed/) that a private X (Twitter) account with a proven track record claims that both the iPhone 16 and its Pro counterpart will use an A18 [system-on-chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC).
 
 ![Apple A17 Pro SoC found in the iPhone 15 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_pro_iphone.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  Apple may reserve the highest-performing chips for the more expensive model, with possible “A18 Pro” style branding. This should be a decent upgrade for the base-model iPhones considering the iPhone 15’s use of the older A16 SoC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  No More Mute Switch for the iPhone 16
@@ -57,6 +61,10 @@ Apple
  Apple’s iPhone Pro models often signal changes that will trickle down to the base models in future revisions. Last year’s iPhone 15 Pro ditched the mute switch, instead [replacing it with an “Action” button](https://youtube-lab.techidaily.com/banish-stutter-and-freeze-optimize-your-outriders-gameplay/) like the one found on the Apple Watch Ultra. This year’s iPhone 16 could receive the same treatment.
 
 ![Volume buttons and Action Button on the Apple iPhone 15 Pro Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/volume-buttons-and-action-button-on-the-apple-iphone-15-pro-max.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -78,10 +86,6 @@ Justin Duino / How-To Geek
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tyler Hayes / How-To Geek
 
  If the rumors are true then that would leave only the telephoto camera at 12 megapixels, though The Elec [reports](https://www.thelec.kr/news/articleView.html?idxno=24491) that both iPhone 16 Pro models will see a 5x magnification (not just the Max model).
@@ -98,6 +102,10 @@ Tyler Hayes / How-To Geek
 
  Alternatively, Apple could settle for the same levels of brightness as seen in existing models while reducing power consumption and preserving battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Faster Wi-Fi
 
  Min-Chi Kuo, the so-called “[best Apple analyst on the planet](https://www.cultofmac.com/273923/ming-chi-kuo/),” singled out the iPhone 16 range for a Wi-Fi 7 upgrade in a [post](https://twitter.com/mingchikuo/status/1670619672096686080?s=20) on X (Twitter) in 2023\. MacRumors has since tempered expectations based on a [report](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) from Jeff Pu that the iPhone 16 will receive Wi-Fi 6E support instead (as seen on the iPhone 15 Pro).
@@ -105,26 +113,18 @@ Tyler Hayes / How-To Geek
 ![Wi-Fi 7 Certified sign by a TP Link router at CES 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53468668835_5a142edd35_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
  Both upgrades are welcome, with [Wi-Fi 7 bringing speeds of around 30Gbps](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) and [Wi-Fi 6E utilizing the 6GHz band](https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/) to top out at around 9.6Gbps. You will of course need a router compatible with these standards, and that router will need to support whatever speeds you hope to achieve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  8GB of RAM on All Models
 
  According to the same Jeff Pu report, Apple will be bumping the RAM up to 8GB in all models this year. Last year’s iPhone 15 Pro already had 8GB, but the base models only featured 6GB.
 
 ![The final form of Lady Dimitrescu from Resident Evil Village flies overhead on the iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3caf4670-5199-11ee-bf3f-d4673beffea4.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Apple
 
@@ -136,13 +136,13 @@ Apple
 
  The last iPhone to see this style of slim vertical camera array was the iPhone XS, back in 2018.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Potentially More Expensive Price Tag
 
  Since component prices have risen, it wouldn’t be surprising to see Apple increase the price of this year’s iPhone 16 and 16 Pro models. Apple didn’t increase the price of either the base or the Pro models last year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The iPhone 16 Ultra?
 
@@ -171,22 +171,22 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-express-individuality-with-youtube-backgrounds/"><u>[New] 2024 Approved Express Individuality with YouTube Backgrounds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-low-cost-footage-source-directory-for-2024/"><u>[New] Essential Low-Cost Footage Source Directory for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-do-i-schedule-a-screen-recording/"><u>[Updated] 2024 Approved How Do I Schedule A Screen Recording</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crafting-cinematic-magic-making-your-instagram-videos-shine/"><u>[Updated] In 2024, Crafting Cinematic Magic Making Your Instagram Videos Shine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-mobile-banking-mastery-navigating-financial-services-in-the-digital-era/"><u>ABBYY Mobile Banking Mastery: Navigating Financial Services in the Digital Era</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-android-optimization-tools-top-10-apps-to-enhance-your-phones-speed-and-efficiency/"><u>Best Android Optimization Tools: Top 10 Apps to Enhance Your Phone's Speed and Efficiency</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-your-devices-screen-and-speaker-after-water-exposure/"><u>Effective Solutions: Repairing Your Device's Screen and Speaker After Water Exposure</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-restore-access-and-secure-your-data-on-locked-android-device-without-a-password/"><u>Guide: Restore Access & Secure Your Data on Locked Android Device without a Password</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-restore-accidentally-deleted-mlv-file-formats-on-your-device/"><u>How to Restore Accidentally Deleted MLV File Formats on Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-privacy-steps-to-overcome-samsung-and-non-samsung-screen-locks-on-android-devices/"><u>Mastering Mobile Privacy: Steps to Overcome Samsung and Non-Samsung Screen Locks on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-rooting-a-comprehensive-guide-for-efficient-file-management-on-root-access-phones/"><u>Mastering Rooting: A Comprehensive Guide for Efficient File Management on Root-Access Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-essentials-a-step-by-step-guide-to-utilizing-your-phones-android-system-recovery/"><u>Mastering the Essentials: A Step-by-Step Guide to Utilizing Your Phone's Android System Recovery</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sound-perfection-with-nest-audio-a-detailed-look-at-the-premier-device-for-music-buffs/"><u>Sound Perfection with Nest Audio: A Detailed Look at the Premier Device for Music Buffs</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/top-video-editing-tools-for-kids-free-and-paid-options-for-2024/"><u>Top Video Editing Tools for Kids Free and Paid Options for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshoot-your-message-send-failures-fast-solutions-for-persistent-issues/"><u>Troubleshoot Your Message Send Failures: Fast Solutions for Persistent Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-the-smart-lock-feature-on-your-android-phone/"><u>Ultimate Guide: Mastering the Smart Lock Feature on Your Android Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-screen-recorder-options-for-igadgets/"><u>[New] Screen Recorder Options for iGadgets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>[Updated] 2024 Approved Quantum Leap The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-non-udemy-online-education-sites/"><u>[Updated] 2024 Approved Ultimate Guide to Non-Udemy Online Education Sites</u></a></li>
+<li><a href="https://win-tips.techidaily.com/hdd-google/"><u>外付けHDDを対象にする東芝の改良手順 - Googleで検索</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-ocr-functionality-on-ios-devices-insights-into-operations-of-ocr-in-ios-18-and-17/"><u>Decoding OCR Functionality on iOS Devices: Insights Into Operations of OCR in iOS 18 and 17</u></a></li>
+<li><a href="https://os-tips.techidaily.com/generate-unique-free-ipad-admin-login-credentials-at-no-cost/"><u>Generate Unique, Free iPad Admin Login Credentials at No Cost</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-connecting-your-ipad-to-a-pc-via-screen-mirroring-on-windows-versions/"><u>Guide: Connecting Your iPad to a PC via Screen Mirroring on Windows Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movaviwebmm4a/"><u>MOVAVI免費在線解決方案：高效變更WEBM到M4A音頻</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-meizu-21-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Meizu 21 and Browser | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-rebooting-your-apple-watch-withwithout-the-help-of-an-iphone/"><u>Step-by-Step Guide: Rebooting Your Apple Watch With/Without the Help of an iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-mastery-reverting-back-to-earlier-ios-versions-without-hitches/"><u>Step-by-Step Mastery: Reverting Back to Earlier iOS Versions Without Hitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-chiefs-guide-to-superior-cloud-vaults-for-2024/"><u>The Chief's Guide to Superior Cloud Vaults for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-y78t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo Y78t without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-instructions-for-projecting-your-iphone-screen-onto-the-latest-vizio-model-202n/"><u>Ultimate Step-by-Step Instructions for Projecting Your iPhone Screen Onto the Latest VIZIO Model (202N)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-walkthrough-for-cable-free-display-of-iphone-on-mac-and-television-screens/"><u>Ultimate Walkthrough for Cable-Free Display of iPhone on Mac and Television Screens</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-mms-a-comprehensive-guide-on-activating-multimedia-messaging/"><u>Unlocking the Power of MMS: A Comprehensive Guide on Activating Multimedia Messaging</u></a></li>
 </ul></div>
 

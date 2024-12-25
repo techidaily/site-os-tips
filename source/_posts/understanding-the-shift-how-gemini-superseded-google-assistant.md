@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Shift: How Gemini Superseded Google Assistant"
-date: 2024-12-13T16:06:00.729Z
-updated: 2024-12-15T20:29:11.918Z
+date: 2024-12-21T04:17:05.565Z
+updated: 2024-12-25T03:12:28.918Z
 tags:
   - ios
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 * [Google Assistant Tasks That Google Gemini Can't Do (Yet)](https://www.howtogeek.com/what-is-gemini-and-why-did-it-replace-google-assistant/#google-assistant-tasks-that-google-gemini-can-39-t-do-yet)
 * [How to Use Google Gemini AI](https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-z-fold-5-bootloader-easily-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Google Gemini is an advanced AI model with three versions: Ultra, Pro, and Nano, optimized for various tasks and formats.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 * Gemini requires an internet connection and lacks media integration, reminders, routines, and real-time translation.
 
  Google was late to the AI game. The company released Bard in early 2023, behind ChatGPT and what would eventually become Microsoft Copilot. Bard was lackluster at first, but it has since had a major glow up to become "Gemini"—and Google Assistant is in its sights.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Is Google Gemini? Is It Different From Bard?
 
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
  There's also a premium version called Gemini Advanced, which unlocks additional features of Ultra. We're talking about expanded abilities with multimodal inputs, more interactive coding tools, deeper data analysis, and more. You can access Gemini Advanced for $20/month after a free two-month trial as part of Google One's new AI Premium Plan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Can Google Gemini Do As Google Assistant Replacement?
 
  When you install the Gemini Android app, you will be prompted to replace Google Assistant with Gemini. This will be a complete replacement. In other words, if you opt-in when you install the app and then say "Hey Google" to your phone, hold down the power button, swipe in from the lower corner of the display, or otherwise perform a trigger that would usually launch Assistant, you'll get the Gemini overlay instead. Once you install the Gemini app, it serves as your personal AI assistant. You can chat with it to get help on several kinds of everyday tasks:
@@ -60,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![sending text message using Google Gemini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102215_google.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Make Calls**: Gemini can also make phone calls by voice or tapping. You can say, "Call Mom" or "Dial 911," and Gemini will connect you to the right number.
 
 ![Using Google Gemini to initiate call on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102308_google.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Search the Web**: Gemini can help you find information on the web, such as weather, news, sports, or trivia. You can ask Gemini anything you want, such as "What's the weather like today?" or "Who is topping the Premier League?" and Gemini will show you the relevant results from Google.
 
@@ -76,23 +72,35 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Add this screen prompt on Google Gemini app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103025_google.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, you can ask it to generate text or answers based on what's visible on your screen. For instance, if you're reading an article, you can ask Gemini to summarize it or ask questions about the article.
 
 ![Using Google Gemini to summarize an article on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103121_google.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Play Games**: Gemini can also entertain you with fun games, such as trivia, hangman, or tic-tac-toe. You can say, "Let's play a game" or "I'm bored," and Gemini will suggest some games for you. You can also challenge Gemini to a game of rock-paper-scissors or coin-flip.
 
 ![Playing tic-tac-toe with Google Gemini on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103154_google.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Make Jokes**: Gemini can also make you laugh with some funny jokes, puns, or memes. You can say, "Tell me a joke" or "Show me a random meme," and Gemini will surprise you with some hilarious content.
 
 ![Google Gemini showing a random meme on prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103310_google.jpg) 
 
- Gemini is always learning and improving, so you can expect new features and updates in the future.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Gemini is always learning and improving, so you can expect new features and updates in the future.
 
 ##  Google Assistant Tasks That Google Gemini Can't Do (Yet)
 
@@ -104,17 +112,9 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Google Assistant helping Gemini.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-094859.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The good news is Google Assistant can "help" Gemini with some of these tasks still. If you're using Gemini as the default digital assistant on Android, it will essentially fall back to Assistant for timers and alarms, controlling smart home devices, on-device actions like turning on Bluetooth, broadcasting to smart speakers, and reading pages out loud.
 
  While these limitations may be frustrating if you are a longtime Google Assistant user, they stem from the fact that Gemini represents an entirely different, more advanced AI architecture. As Gemini matures, hopefully, its capabilities will expand to close the gaps with Assistant and combine conversational intelligence with Google's services. But for now, you may need to switch between the two for certain tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use Google Gemini AI
 
@@ -143,22 +143,21 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-the-secret-behind-successful-youtube-thumbnails/"><u>[New] 2024 Approved Unveiling The Secret Behind Successful YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-crafting-excellent-canon-time-lapse-visuals/"><u>[New] Crafting Excellent Canon Time-Lapse Visuals</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-precision-poetry-the-news-outro-art/"><u>[New] Precision Poetry The News Outro Art</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiency-soars-by-70-as-dhls-german-parent-company-deutsche-post-group-harnesses-power-of-rpa-and-abbyy-idp-technologies/"><u>Efficiency Soars by 70% as DHL's German Parent Company, Deutsche Post Group, Harnesses Power of RPA and ABBYY IDP Technologies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620270624-fast-track-your-missing-iphone-clips-back-a-step-by-step-strategy-to-recover-deleted-videos-swiftly/"><u>Fast Track Your Missing iPhone Clips Back: A Step-by-Step Strategy to Recover Deleted Videos Swiftly!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-mms-texts-on-your-iphone-device-a-step-by-step-tutorial/"><u>How to Retrieve Lost MMS Texts on Your iPhone Device: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-12-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 12 Pro 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone XS Max without Passcode or Face ID</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-hot-40-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Hot 40 Pro Devices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-digitalize-your-dvd-collection-a-comprehensive-conversion-guide/"><u>New 2024 Approved Digitalize Your DVD Collection A Comprehensive Conversion Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>New In 2024, Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-simple-guide-how-to-restore-lost-iphone-contact-information-without-a-backup/"><u>Quick & Simple Guide: How to Restore Lost iPhone Contact Information Without a Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-lost-iphone-histories-a-guide-to-retrieving-deleted-browser-and-search-records/"><u>Recovering Lost iPhone Histories: A Guide to Retrieving Deleted Browser & Search Records</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-icloud-contact-photo-and-message-data/"><u>Step-by-Step Guide: Recovering iCloud Contact, Photo & Message Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-for-restoring-missing-snapchat-conversations-across-mobile-platforms/"><u>Step-by-Step Tutorial for Restoring Missing Snapchat Conversations Across Mobile Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-transferring-your-ipods-playlist-collection-onto-your-pc-or-mac/"><u>Step-by-Step Tutorial: Transferring Your iPod's Playlist Collection Onto Your PC or Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-restoring-lost-tiktok-drafts-via-third-party-software/"><u>The Ultimate Guide to Restoring Lost TikTok Drafts via Third-Party Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-uncover-8-proven-services-for-effective-content-marketing/"><u>[Updated] 2024 Approved Uncover 8 Proven Services for Effective Content Marketing</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-10116/"><u>如何在Windows 10/11系统里找回被移除的6种关键文件 - 高效解答手册</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-comprehensive-development-timeline-of-the-iconic-iphone/"><u>Exploring the Comprehensive Development Timeline of the Iconic iPhone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-11-pro-max-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 11 Pro Max iCloud Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-navigating-and-resolving-the-infamous-connection-error/"><u>Hitman Navigating and Resolving the Infamous Connection Error</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-guarantee-full-compatibility-between-your-scanner-and-windows-insights-from-yl-computing/"><u>How to Guarantee Full Compatibility Between Your Scanner and Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-your-iphone-from-randomly-skipping-songs-4-effective-techniques/"><u>How To Stop Your iPhone From Randomly Skipping Songs: 4 Effective Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-huawei-nova-y91-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Huawei Nova Y91 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locating-your-iphones-itunes-backup-file-and-changing-its-path-in-windows-or-macos/"><u>Locating Your iPhone's iTunes Backup File & Changing Its Path in Windows or macOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/missing-iphone-images-swift-recovery-strategies-inside/"><u>Missing iPhone Images? Swift Recovery Strategies Inside</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-pro-level-video-effects-a-step-by-step-guide-for-2024/"><u>New Unlock Pro-Level Video Effects A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubled-by-unsending-texts-discover-why-and-rapid-fixes/"><u>Troubled by Unsending Texts? Discover Why and Rapid Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-resolving-issues-when-your-iphone-gets-trapped-in-audio-output-modes/"><u>Ultimate Guide: Resolving Issues When Your iPhone Gets Trapped in Audio Output Modes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620254672-when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques!</u></a></li>
 </ul></div>
 

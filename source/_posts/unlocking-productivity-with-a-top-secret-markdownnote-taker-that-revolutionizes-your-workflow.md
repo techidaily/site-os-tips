@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2024-12-13T04:49:26.202Z
-updated: 2024-12-15T20:07:51.997Z
+date: 2024-12-24T02:57:19.074Z
+updated: 2024-12-25T00:50:31.516Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,13 +53,13 @@ Bertel King / How-To Geek
 
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -67,13 +71,13 @@ Bertel King / How-To Geek
 
  For me, folders work just fine. The rest is unobtrusive and easy to forget is even there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Tabs Simplify Working With Multiple Documents
 
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -84,16 +88,12 @@ Bertel King / How-To Geek
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -101,13 +101,13 @@ Bertel King / How-To Geek
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -144,20 +144,17 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-perfect-asmr-recording-top-mic-choices-unveiled/"><u>[New] In 2024, Perfect ASMR Recording Top Mic Choices Unveiled</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/astering-vlogs-the-finest-camera-selections-of-the-year-for-2024/"><u>[New] Mastering Vlogs The Finest Camera Selections of the Year for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-winning-gameplay-capture-with-fbx/"><u>[Updated] In 2024, Winning Gameplay Capture with FBX</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-inquiry-how-to-view-all-media-sharing-in-app-messages-in-2024/"><u>[Updated] Inquiry How to View All Media Sharing in App Messages, In 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-android-emulators-top-9-picks-for-windows-and-mac-users/"><u>Best Android Emulators: Top 9 Picks for Windows & Mac Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-post-sharing-on-instagram/"><u>Comprehensive Guide: Mastering the Art of Post Sharing on Instagram</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-for-monitoring-mobile-locations-android-and-ios-solutions/"><u>Effective Techniques for Monitoring Mobile Locations: Android and iOS Solutions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-video-branding-incorporating-watermarks-into-youtube-media-for-2024/"><u>Elevate Video Branding Incorporating Watermarks Into YouTube Media for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/head-to-head-battle-iphone-x-against-the-samsung-galaxy-s8-an-analysis/"><u>Head-to-Head Battle: IPhone X Against the Samsung Galaxy S8 - An Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-easily-access-and-view-heic-images-on-your-android-device/"><u>How to Easily Access and View HEIC Images on Your Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-efficiently-disconnect-your-google-account-from-mobile-devices/"><u>How to Efficiently Disconnect Your Google Account From Mobile Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210349653-9782226294982-la-vie-dermite/"><u>La Vie d'ermite | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secretly-delete-texts-from-phone-without-backup-iphone-and-android-steps/"><u>Secretly Delete Texts From Phone Without Backup: IPhone & Android Steps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/343363--the-pill/"><u>The Pill | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-smart-techniques-to-capture-gotomeet-participants-for-2024/"><u>[New] Smart Techniques to Capture GoToMeet Participants for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-amp-up-your-media-get-free-soundtracks/"><u>[Updated] 2024 Approved Amp Up Your Media Get Free Soundtracks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-precision-recording-tips-for-gamers-and-videographers/"><u>[Updated] 2024 Approved Precision Recording Tips for Gamers and Videographers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-bring-your-beat-to-facebook-ios-and-android-edition/"><u>[Updated] Bring Your Beat to Facebook - iOS & Android Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-and-convert-your-itunes-content-without-drm-using-the-dearmob-tutorial/"><u>Access & Convert Your iTunes Content without DRM Using the DearMob Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-immortals-fenyx-rising-persistent-crashes-on-your-pcps4xbox/"><u>How to Fix Immortal's Fenyx Rising Persistent Crashes on Your PC/PS4/Xbox</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamlessly-sync-your-ios-camera-captures-with-windows-using-deermobs-comprehensive-guide/"><u>Seamlessly Sync Your iOS Camera Captures with Windows Using DeerMob's Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sync-your-iphone-with-windows-pc-comprehensive-transfer-instructions-for-deedroid-users/"><u>Sync Your iPhone with Windows PC - Comprehensive Transfer Instructions for DeeDroid Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-best-webcam-covers-and-stickers/"><u>Top 10 Best Webcam Covers & Stickers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/utilize-your-ios-devices-files-app-for-mac-compatibility-comprehensive-mounting-instructions/"><u>Utilize Your iOS Device's Files App for Mac Compatibility - Comprehensive Mounting Instructions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/utilizing-tailored-volume-reduction-in-audacity-for-2024/"><u>Utilizing Tailored Volume Reduction in Audacity for 2024</u></a></li>
 </ul></div>
 

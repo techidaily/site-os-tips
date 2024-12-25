@@ -1,7 +1,7 @@
 ---
 title: "Issues with Apple Card & Apple Pay: A Comprehensive Look"
-date: 2024-12-12T20:32:33.086Z
-updated: 2024-12-15T19:52:39.229Z
+date: 2024-12-19T20:40:08.519Z
+updated: 2024-12-24T18:13:09.800Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
@@ -54,20 +54,24 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-your-pathway-to-youtube-live-success-stories/"><u>[New] 2024 Approved Your Pathway to YouTube Live Success Stories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-your-recordings-mastering-zooms-features-for-audio-quality/"><u>[Updated] In 2024, Elevate Your Recordings Mastering Zoom's Features for Audio Quality</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/anubis/"><u>Anubis -</u></a></li>
-<li><a href="https://facebook.techidaily.com/dont-get-duped-by-these-14-recurring-facebook-swindles/"><u>Don't Get Duped by These 14 Recurring Facebook Swindles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/escaping-the-iphones-stuck-in-recovery-mode-a-3-step-rescue-guide/"><u>Escaping the iPhones Stuck in Recovery Mode: A 3-Step Rescue Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-x-a-complete-animoji-guide-for-proficient-users-for-2024/"><u>IPhone X A Complete Animoji Guide for Proficient Users for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-how-to-get-your-iphone-home-button-functioning-again/"><u>Quick Fixes: How to Get Your iPhone Home Button Functioning Again</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-methods-locating-your-friends-iphone-with-just-their-phone-number/"><u>Simple Methods: Locating Your Friend's iPhone with Just Their Phone Number</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-to-deactivate-find-my-device-feature-and-unlock-your-phone-for-sale-or-transfer/"><u>Step-by-Step Instructions to Deactivate 'Find My [Device]' Feature & Unlock Your Phone for Sale or Transfer</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-bridge-camera-experience-review-and-ranking-11-for-2024/"><u>The Bridge Camera Experience Review & Ranking #11 for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-atomic-heart-problems-when-your-pc-starts-up/"><u>Troubleshooting Atomic Heart Problems When Your PC Starts Up</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-why-your-whatsapp-push-notifications-arent-coming-through/"><u>Troubleshooting Steps: Why Your WhatsApp Push Notifications Aren't Coming Through</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-mystery-track-down-whos-showed-love-for-your-ig-uploads/"><u>Unlock The Mystery: Track Down Who's Showed Love for Your IG Uploads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-5-effective-strategies-stop-unknown-numbers-from-ringing-your-iphone/"><u>Unveiling 5 Effective Strategies: Stop Unknown Numbers From Ringing Your iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>[New] In 2024, Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-az-screen-recorder-review-series/"><u>[Updated] 2024 Approved AZ Screen Recorder Review Series</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-webpages-entirety-on-screen-for-2024/"><u>Capture Webpage's Entirety on Screen for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/demanding-the-ultimate-sound-experience-with-built-in-volume-buttons-for-my-future-earbud-case/"><u>Demanding the Ultimate Sound Experience with Built-In Volume Buttons for My Future Earbud Case!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/detecting-mobile-internet-speed-limits-understanding-and-identifying-throttled-data/"><u>Detecting Mobile Internet Speed Limits: Understanding and Identifying Throttled Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-hidden-apple-books-features-with-these-10-essential-tips/"><u>Discover Hidden Apple Books Features with These 10 Essential Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-wait-any-longer-identify-these-5-critical-reasons-to-update-your-phone-today/"><u>Don't Wait Any Longer! Identify These 5 Critical Reasons to Update Your Phone Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-methods-for-syncing-and-downloading-icloud-images-on-various-gadgets/"><u>Effortless Methods for Syncing and Downloading iCloud Images on Various Gadgets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-annotate-images-with-these-5-iphone-tricks/"><u>Effortlessly Annotate Images with These 5 iPhone Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/evaluating-the-value-of-premium-icloud-storage-options-is-it-a-smart-buy/"><u>Evaluating the Value of Premium iCloud Storage Options: Is It a Smart Buy?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-premium-timekeeping-with-cost-effective-apple-watch-series-8-deals/"><u>Experience Premium Timekeeping with Cost-Effective Apple Watch Series 8 Deals</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-restoring-accidentally-deleted-pictures-on-ios-devices/"><u>Expert Tips: Restoring Accidentally Deleted Pictures on iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-integrating-chatgpt-into-your-ubuntu-command-line-with-shellgpt/"><u>Guide: Integrating ChatGPT Into Your Ubuntu Command Line with ShellGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-s23plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy S23+?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-100-killer-facebook-bios-to-make-profile-attractive2/"><u>In 2024, 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-rugged-and-dependable-kensun-tire-inflator-for-on-the-go-use/"><u>In-Depth Evaluation: Rugged & Dependable Kensun Tire Inflator for On-the-Go Use</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-how-to-grab-a-screenshot-using-windows-or-mac/"><u>Step-by-Step Tutorial: How to Grab a Screenshot Using Windows or Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-not-found-in-windows-environments/"><u>Unraveling 'Not Found' In Windows Environments</u></a></li>
 </ul></div>
 

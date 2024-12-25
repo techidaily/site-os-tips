@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Annotate Images with These 5 iPhone Tricks
-date: 2024-12-11T03:45:49.609Z
-updated: 2024-12-15T23:02:43.045Z
+date: 2024-12-23T16:02:29.941Z
+updated: 2024-12-25T04:11:08.246Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Effortlessly Annotate Images with These 5 iPhone Tricks
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap the Markup button to add text to an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll be warned that Live Photo mode will be switched off if you continue. Hit “OK” to proceed and the Markup interface will appear.
 
  Along the bottom of the screen, you’ll see a variety of pens, pencils, erasers, a ruler, a color wheel, and a plus “+” button. Hit the plus “+” button and choose “Add Text” to add a text box to your image.
@@ -50,6 +50,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Edit the text box in Markup to add your text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  At the bottom of the screen, you can adjust the font, text size, alignment, formatting, and text color. While choosing a color you can also adjust the opacity of your text.
@@ -57,6 +61,10 @@ Tim Brookes / How-To Geek
 ![Use the text formatting tools to adjust text size, color, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup5.jpg) 
 
  Once you’re done, hit “Done” in the top-right corner of the screen. You can edit your text later by coming back to the Markup menu using the pen icon in the top-right corner of the screen. Share your image as you would normally from the Photos app and the text will be included.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Text Using Freeform
 
@@ -68,21 +76,17 @@ Tim Brookes / How-To Geek
 
 ![Create a new canvas in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap on the “Media” button in the bottom-right corner of the screen and choose “Photos or Videos” to select an image from your Photos library, or “Insert from...” to select an image from Files. You can also tap anywhere on the canvas and use “Paste” to add an image from your clipboard.
 
 ![Add images to your canvas in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With your image in place, tap on the “Text Box” button at the bottom of the screen. Drag the text box in place then double-tap inside it to edit your text. Use the text formatting tools above the keyboard to customize the size, color, and alignment of your text.
 
 ![Adjust text and formatting in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform3.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -94,11 +98,11 @@ Tim Brookes / How-To Geek
 
 ![Use a Shortcuts workflow to convert PDF to image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform5.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now open the PDF, hit Share, and tap on the “PDF Page to Image” Shortcut you just made. Your image will be in Photos, where you can crop and trim it as necessary.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Text Using Pages
 
@@ -123,7 +127,7 @@ Tim Brookes / How-To Geek
 ![Adding text using a text box in Pages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages4.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Add more images, diagrams, and whatever else you see fit. Then hit the ellipsis “…” button and choose “Export” followed by “Images” to export as an image. Use the “Save Image” button to add the image to your Photos library.
@@ -131,10 +135,6 @@ Tim Brookes / How-To Geek
 ![Export a Pages document as an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages5.jpg) 
 
  Lastly, find the image and hit “Edit” and then crop out the white space. You can now share your image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Add Text Using Third-Party Apps
 
@@ -150,13 +150,13 @@ Tim Brookes / How-To Geek
 
 ![Select "Story" and use the media picker in Instagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap anywhere to add text, then use the formatting tools at the top of the screen to modify alignment, color, background, and spacing.
 
 ![insta2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adding text to an Instagram story.
 
@@ -164,11 +164,11 @@ Adding text to an Instagram story.
 
 ![Saving an image to your Camera Roll via Instagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta3.jpg) 
 
- Now open up Photos, find the image, tap “Edit” and crop the image to your liking. You can now share it as you would any other.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now open up Photos, find the image, tap “Edit” and crop the image to your liking. You can now share it as you would any other.
 
 ##  Add Text Using a Web App
 
@@ -178,13 +178,13 @@ Adding text to an Instagram story.
 
 ![Opening an image in the Pixlr editor for web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Use the toolbar at the bottom of the screen to select “Text” then select “Add new text” or choose from one of the stylized text tools.
 
 ![Adding a text box to an image in Pixlr Express.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll down and change the “Text” box to whatever you want to text to read. You can now adjust other aspects like the size, color, and so on. You can add a curve, warp, background, outline, and shadow to the text if you want.
 
@@ -197,7 +197,7 @@ Adding text to an Instagram story.
  Choose an image format, size, and quality level, and then use the “Download” button to save the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatively, Use a Computer
@@ -221,18 +221,22 @@ Adding text to an Instagram story.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-techniques-for-better-obs-encoding/"><u>[New] 2024 Approved Advanced Techniques for Better OBS Encoding</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-click-to-convert-a-guide-to-effective-social-media-sales-techniques/"><u>[New] In 2024, From Click to Convert A Guide to Effective Social Media Sales Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-teenyscreenmugger-evaluation-insights/"><u>2024 Approved TeenyScreenMugger Evaluation Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/free-youtube-video-editing-apps-for-iphone-and-ipad-and-how-tos-for-2024/"><u>Best Free YouTube Video Editing Apps for iPhone & iPad & How-Tos for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-mac-compactors-shrink-your-files-without-sacrificing-quality/"><u>Best Mac Compactors: Shrink Your Files without Sacrificing Quality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-iphone-capacity-eliminate-superfluous-data-using-these-3-simple-strategies/"><u>Boost iPhone Capacity: Eliminate Superfluous Data Using These 3 Simple Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-iphones-speed-and-storage-with-these-4-best-free-cleanse-applications/"><u>Boost Your iPhone's Speed & Storage with These 4 Best Free Cleanse Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/clearing-out-clutter-master-the-art-of-deleting-facebook-cache-on-windows-mac-android-and-ios/"><u>Clearing Out Clutter: Master the Art of Deleting Facebook Cache on Windows, Mac, Android and iOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-walkthrough-how-to-thoroughly-erase-your-typed-messages-from-an-iphones-keyboard/"><u>Complete Walkthrough: How to Thoroughly Erase Your Typed Messages From an iPhone's Keyboard</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620242719-quick-fixes-to-enhance-performance-supercharge-your-iphone-1515-pro-in-just-a-few-steps/"><u>Quick Fixes to Enhance Performance: Supercharge Your iPhone 15/15 Pro in Just a Few Steps!</u></a></li>
-<li><a href="https://win-great.techidaily.com/solving-the-issue-why-wont-your-pc-detect-the-graphics-card-expert-advice-by-yl-computing/"><u>Solving the Issue: Why Won't Your PC Detect the Graphics Card? Expert Advice by YL Computing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-14-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 14 Activation Lock</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/transforming-viewers-into-active-participants/"><u>Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-enhancing-community-management-with-discord-roles/"><u>[New] 2024 Approved Enhancing Community Management with Discord Roles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-sharpen-your-content-for-unlimited-youtube-exposure/"><u>[Updated] 2024 Approved Sharpen Your Content for Unlimited YouTube Exposure</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-choices-essential-support-gear-for-your-gopro-camera-for-2024/"><u>[Updated] Best Choices Essential Support Gear for Your GoPro Camera for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-switching-from-heic-to-jpg-transfer-between-your-iphone-ipad-and-mac/"><u>Easy Steps: Switching From HEIC to JPG Transfer Between Your iPhone, iPad & Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experiencing-the-latest-a-hands-on-review-of-the-newly-unveiled-iphone-15-pro/"><u>Experiencing the Latest: A Hands-On Review of the Newly Unveiled iPhone 15 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276293-free-software-to-design-personalized-ringtones-for-your-iphone-4s/"><u>Free Software to Design Personalized Ringtones for Your iPhone 4S!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-xs-max-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone XS Max</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-strategies-to-utilize-autofill-password-capability-in-iphones/"><u>In-Depth Strategies to Utilize Autofill Password Capability in iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-no-cost-sms-services-sendreceive-messages-using-any-device/"><u>The Ultimate List of No-Cost SMS Services: Send/Receive Messages Using Any Device!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-ways-to-stream-your-casting-ipad-on-a-roku-device/"><u>Top 3 Ways to Stream Your Casting iPad on a Roku Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-k70-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi K70 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-steps-on-crafting-inexpensive-iphone-ringtone-alternatives/"><u>Ultimate Steps on Crafting Inexpensive iPhone Ringtone Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-history-a-comprehensive-tutorial-for-restoring-previous-whatsapp-chats-across-smartphones/"><u>Unlocking History: A Comprehensive Tutorial for Restoring Previous WhatsApp Chats Across Smartphones</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-newcomers-manual-to-lexis-sound-wave-processor/"><u>Updated 2024 Approved The Newcomers Manual to Lexis Sound-Wave Processor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/wireless-sync-mirroring-your-iphone-display-on-a-roku-tv-without-using-wi-fi/"><u>Wireless Sync: Mirroring Your iPhone Display on a Roku TV without Using Wi-Fi</u></a></li>
 </ul></div>
 

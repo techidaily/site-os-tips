@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: How I Keep My iPhone Free of Memory Issues"
-date: 2024-12-14T04:26:08.593Z
-updated: 2024-12-16T06:04:44.316Z
+date: 2024-12-17T20:44:16.761Z
+updated: 2024-12-25T00:26:50.201Z
 tags:
   - ios
 categories:
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Delete App pop-up on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-01-delete-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For a better idea of what’s taking up the most space, open the Settings app and select General > iPhone Storage, then scroll down to the app list, which displays file size next to each app’s name. To delete an app, select it from the list and tap “Delete” to delete it entirely. Or tap “Offload App” to [delete the app but save its data](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-zero-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) separately so your progress and settings will remain if you reinstall it.
 
 ![Offload App and Delete App options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-02-offload-or-delete-app.jpg) 
@@ -40,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Automatic Offload Unused Apps option menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-03-auto-offload-apps-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Deleted apps [can be re-downloaded](https://instagram-video-files.techidaily.com/new-expert-tips-to-download-and-save-instagram-media-from-your-computer-for-2024/) (provided they’re not [removed from the App Store](https://win-able.techidaily.com/fixing-madden-nfl-20-pc-game-crashes-a-comprehensive-guide/) entirely) by opening the App Store and tapping your user profile, then selecting “Apps” and searching through your download history.
 
 ![App download history on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-04-redownload.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  Clear Out Your Deleted Photos 
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
  Tap “Select” in the top-right corner, then tap the three dots (…) that appear in the bottom-right corner. Choose “Delete All” from the pop-up menu, then tap “Delete From This iPhone” to permanently delete everything in your Recently Deleted folder. You'll want to do this regularly to keep your iPhone storage free.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  Pay Attention to the Size of Downloads 
 
  You can also get ahead of any potential storage issues by simply avoiding large downloads. This doesn’t help if you explicitly need to download a particular item, but it can be useful if you’re looking at something that isn’t super important.
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
  Open the App Store and locate the game or app you’re thinking of downloading, then scroll down to the "Information" section of the page—you’ll find it almost all the way at the bottom, just above the “More by” and “Featured In” categories. Find the “Size” entry to learn how large the download is.
 
 ![App file size info on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-06-app-store-info.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Something to keep in mind is that some apps and games (particularly [live service games](https://facebook-video-share.techidaily.com/unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube-for-2024/)) often download even more data once you start them up for the first time. Since I'm always trying to keep my iPhone storage free, I'm very particular about which large apps I download in the first place.
 
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Sync This iPhone toggle for iCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-07-icloud-sync.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After uploading, you'll want to Settings > Photos > Optimize iPhone Storage to make your iPhone automatically save space by reducing the size of photos kept on your device. Be aware that you only get 5GB of iCloud storage for free. More than that will require [paying for more storage space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/).
 
  Alternatively, you can [use Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/) (which offers up to 15GB of storage for free). Open the Google Drive app, or download it first and sign in if it’s not already on your iPhone, then open the Google Drive folder you want to transfer items to.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![Upload file option in Google Drive app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-08-google-drive.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap the plus (+) icon in the bottom-right corner and select “Upload File” from the pop-up menu. Choose “Photos and Videos” (you may need to give the app access to your Photo Library first), select one or more photos or videos, then tap “Done.”
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
  Choose the “Recents” album from the pop-up menu and select the files again, then tap “Upload” to transfer them to the selected Google Drive folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Adjust the Photo and Video Settings 
@@ -108,13 +108,13 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Record Video resolution and fps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-10-record-video-options.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Back in the Camera menu, select “Formats” and change the Camera Capture setting to “High Efficiency.” Turn off the toggle next to “Apple ProRAW” to reduce photo file sizes, too.
 
 ![Apple ProRAW toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-12-apple-proraw.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6  Use an Old Phone for Spillover 
 
@@ -143,24 +143,24 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/6-effective-solutions-when-your-iphone-only-displays-sos-on-status-bar/"><u>6 Effective Solutions When Your iPhone Only Displays SOS on Status Bar</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-5-methods-to-resolve-stalled-whatsapp-backups-on-android-devices/"><u>Best 5 Methods to Resolve Stalled WhatsApp Backups on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-transfer-every-image-from-google-photos-across-devices-and-platforms/"><u>Complete Guide: How to Transfer Every Image From Google Photos Across Devices & Platforms</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-google-pixel-7a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Google Pixel 7a Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-how-to-retrieve-data-from-iphone-and-android-device-backups/"><u>Comprehensive Tutorial on How to Retrieve Data From iPhone & Android Device Backups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-methods-to-perform-an-efficient-factory-restore-on-your-htc-handset-with-screen-lock/"><u>Easy Methods to Perform an Efficient Factory Restore on Your HTC Handset with Screen Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620202417-effortlessly-upload-photos-from-your-android-device-to-computer-or-google-photos-detailed-instructions-inside/"><u>Effortlessly Upload Photos From Your Android Device to Computer or Google Photos - Detailed Instructions Inside</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-m14-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy M14 4G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-unused-scenes-a-filmmakers-approach/"><u>In 2024, Optimizing Unused Scenes A Filmmaker's Approach</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-utilize-vlc-to-archive-live-webcam-data/"><u>In 2024, Utilize VLC to Archive Live Webcam Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-and-usage-tips-on-the-verizon-backup-assistant-tool/"><u>In-Depth Analysis and Usage Tips on the Verizon Backup Assistant Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-app-management-on-android-a-step-by-step-guide-to-effortless-app-backups-and-restorations/"><u>Mastering App Management on Android: A Step-by-Step Guide to Effortless App Backups & Restorations</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/optimal-cpu-core-count-and-priority-settings-for-efficient-video-transcoding/"><u>Optimal CPU Core Count & Priority Settings for Efficient Video Transcoding</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcoming-lockouts-effective-techniques-to-hard-reset-a-stubborn-huawei-phone-or-tablet/"><u>Overcoming Lockouts: Effective Techniques to Hard Reset a Stubborn Huawei Phone or Tablet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209881093-9781916225824-secret-mars/"><u>Secret Mars | Free Book</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728463869081-onedrive/"><u>データ損失を防ぐ: OneDriveリンク解除後、あなたのファイルはどうなったか？再生方法ベストセレクション</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-streaming-giants-vimeo-youtube-or-dailymotion-in-2024/"><u>[New] Choosing Streaming Giants Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-stream-your-snapchat-moments-flawlessly/"><u>[New] How to Stream Your Snapchat Moments Flawlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-no-fog-only-clarity-gopro-lens-care-essentials/"><u>[New] No Fog, Only Clarity GoPro Lens Care Essentials</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-sharpen-your-focus-tips-for-zooming-inout-on-instagram-stories-for-2024/"><u>[New] Sharpen Your Focus Tips for Zooming In/Out on Instagram Stories for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-gourmet-gurus-who-you-should-subscribe-to/"><u>[Updated] Gourmet Gurus Who You Should Subscribe To</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-latest-pulse-of-facebooks-evolution/"><u>[Updated] In 2024, Latest Pulse of Facebook's Evolution</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-your-guide-to-retracing-fbs-most-watched-videos-now-for-2024/"><u>[Updated] Your Guide to Retracing FB’s Most-Watched Videos, Now for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-your-portal-to-successful-online-marketing-our-showcase-of-over-50-free-banners-awaits-you/"><u>2024 Approved Your Portal to Successful Online Marketing - Our Showcase of Over 50 Free Banners Awaits You!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/3-best-smartphones-for-recording-video-for-2024/"><u>3 Best Smartphones for Recording Video for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-free-from-the-ios-data-recovery-endless-cycle-top-three-solutions/"><u>Breaking Free From the iOS Data Recovery Endless Cycle: Top Three Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fast-track-to-finding-your-phones-imei-offline-a-step-by-step-guide/"><u>Fast Track to Finding Your Phone's IMEI Offline – A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-functional-call-forwarding-on-your-iphone-effective-solutions-and-tips/"><u>Fixing Non-Functional Call Forwarding on Your iPhone: Effective Solutions and Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-ipad-restoration-the-ultimate-step-by-step-tutorial-for-activatingdeactivating-recovery-mode/"><u>Mastering iPad Restoration: The Ultimate Step-by-Step Tutorial for Activating/Deactivating Recovery Mode</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257938-maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcoming-obstacles-how-to-correctly-troubleshoot-itunes-match-problems/"><u>Overcoming Obstacles: How to Correctly Troubleshoot iTunes Match Problems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-of-a-deactivated-apple-id-top-5-methods-for-restoring-your-appstore-and-itunes-functionality/"><u>Solving the Issue of a Deactivated Apple ID: Top 5 Methods for Restoring Your AppStore & iTunes Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-effectively-reboot-your-ipod-touchnanoshuffle-issues-resolved/"><u>Step-by-Step Guide: How to Effectively Reboot Your iPod Touch/Nano/Shuffle (Issues Resolved)</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshoot-your-iphone-ease-a-detailed-list-of-24-common-problems-and-fixes/"><u>Troubleshoot Your iPhone Ease: A Detailed List of 24 Common Problems & Fixes</u></a></li>
 </ul></div>
 

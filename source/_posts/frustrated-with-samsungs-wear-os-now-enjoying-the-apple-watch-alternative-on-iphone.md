@@ -1,7 +1,7 @@
 ---
 title: Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone
-date: 2024-12-09T04:53:10.126Z
-updated: 2024-12-16T06:27:35.604Z
+date: 2024-12-21T22:24:13.641Z
+updated: 2024-12-24T17:34:55.887Z
 tags:
   - ios
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For all its faults, Apple's closed ecosystem also has its advantages — especially when it comes to the Apple Watch. When the closest competition is the Android-based WearOS, it's not hard to convince someone to jump to iOS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Ditching WearOS For watchOS
 
  I am a data nerd. I like looking at data, finding trends, and seeing progress, and that extends to my health and fitness. I tried out smartwatches and fitness trackers over the years, but the combination of working from home (I no longer needed notifications since my phone is always available) and the sometimes spotty tracking inherent to WearOS meant that I'd eventually abandon them.
@@ -32,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Apple Watch Series 8 recording a Traditional Strength Training exercise using the Workout app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52559368560_69e3affd15_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -40,7 +36,7 @@ Tim Brookes / How-To Geek
  After picking up an iPad and learning about the Health app (and all the metrics it could track), I wanted to take the plunge. I shopped online and bought a used iPhone and Apple Watch, synced them up, and got tracking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Not An Android Smartwatch?
@@ -52,7 +48,7 @@ Tim Brookes / How-To Geek
 ![Fitbit-Charge-6 6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fitbit-charge-6-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -62,6 +58,10 @@ Joe Fedewa / How-To Geek
  The most significant advantage of [Apple and its walled garden ecosystem](https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-v30-easily-by-drfone-android/) is that everything just _works_. Apple has the Health app, where all my Apple Watch data syncs to, and I can manually record other vital data like my blood pressure, mood, and even medical records. Everything syncs nearly instantaneously between my Apple devices, meaning I don't need to tinker with finicky device syncing.
 
 ![Apple Watch Series 8 showing the 'Activity' watch face.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/apple_watch_s8_activity.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -79,15 +79,15 @@ Justin Duino / How-To Geek
 
  Had I been able to sync my iPad with my Apple Watch, I wouldn't even have picked up an iPhone in the first place. This is frustrating when iPadOS already supports the Health and Fitness+ apps but doesn't satisfy the Apple Watch criteria for pairing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  It Was Worth The Effort...
 
  The real question remains: was all of this worth the effort? For me, it definitely was. The tracking on the Apple Watch has been the most accurate of all the [fitness trackers](https://some-techniques.techidaily.com/new-health-advocacy-through-strategic-social-media-plays/) I've tried. The variety of bands available make it easy to dress the watch up for any occasion.
 
 ![apple watch and iphone fitness+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/3cfb127b.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You need an Apple Watch to use Fitness+. The stats tracked by the Watch get shown on your iPhone screen. 
 
@@ -118,22 +118,22 @@ You need an Apple Watch to use Fitness+. The stats tracked by the Watch get show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elevating-vr-gametime-through-advanced-recording-practices/"><u>[New] In 2024, Elevating VR Gametime Through Advanced Recording Practices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-engagement-with-these-4-looping-video-techniques/"><u>[New] In 2024, Enhance Engagement with These 4 Looping Video Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-productivity-leverage-the-new-copilot-enhancements-to-excel-at-prompt-writing-on-microsoft/"><u>Boost Your Productivity: Leverage the New Copilot Enhancements to Excel at Prompt Writing on Microsoft</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-driver-pack-for-your-logitech-racing-wheel-fast-free-download-for-windowsmac-users/"><u>Complete Driver Pack for Your Logitech Racing Wheel - Fast, Free Download for Windows/Mac Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/four-proven-methods-to-fix-iphone-software-update-issues-averting-the-update-unsuccessful-message/"><u>Four Proven Methods to Fix iPhone Software Update Issues: Averting the 'Update Unsuccessful' Message</u></a></li>
-<li><a href="https://os-tips.techidaily.com/garuda/"><u>Garuda -</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-10-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 10 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-tailored-approach-to-capturing-every-facetime-interaction-flawlessly/"><u>In 2024, Tailored Approach to Capturing Every FaceTime Interaction Flawlessly</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-drone-propeller-rankings-for-top-flyers/"><u>In 2024, Ultimate Drone Propeller Rankings for Top Flyers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/precision-screensaver-for-chromebooks-for-2024/"><u>Precision Screensaver for Chromebooks for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-for-your-non-charging-iphone-effortless-solutions/"><u>Quick Fixes for Your Non-Charging iPhone: Effortless Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-mystery-missing-emails-on-your-iphone-and-easy-fixes/"><u>Solving the Mystery: Missing Emails on Your iPhone and Easy Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-internet-sacred-text-archive-poetic-edda-skaldskaparmal-volsunga-saga-and-helgi-hundingsbane-online-available-at-(httpwwwsacred-textscomneueddh)/"><u>The Internet Sacred Text Archive – Poetic Edda: Skáldskaparmál, Volsunga Saga & Helgi Hundingsbane [Online] Available At: <http://www.sacred-texts.com/neu/eddh></u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-optimal-ios-health-apps-comparing-drfone-repair-tools-with-exceptional-alternatives/"><u>Ultimate Guide to Optimal iOS Health Apps - Comparing Dr.Fone Repair Tools with Exceptional Alternatives</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-steps-to-remove-your-ai-assistant-from-snapchat/"><u>Ultimate Guide: Steps to Remove Your AI Assistant From Snapchat</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-ios-13-update-enhancements-mastering-the-new-functionality-of-the-journal-application/"><u>Unveiling iOS 13 Update Enhancements: Mastering the New Functionality of the Journal Application</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enhancing-income-through-the-science-of-youtube-trailer-creation/"><u>[New] Enhancing Income Through the Science of YouTube Trailer Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertissez-gratuitement-un-fichier-mp4-en-format-mjpeg-avec-movavi/"><u>Convertissez Gratuitement Un Fichier MP4 en Format MJPEG Avec Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/daily-life-companion-showdown-claude-vs-chatgpt-which-one-wins-your-heart/"><u>Daily Life Companion Showdown: Claude Vs. ChatGPT – Which One Wins Your Heart?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-guide-to-unlocking-your-airpods-secret-the-power-of-conversation-aware-technology/"><u>Discover the Ultimate Guide to Unlocking Your AirPods’ Secret: The Power of Conversation Aware Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-unbeatable-value-apples-new-ipad-pro-at-record-affordable-rates-and-exciting-offers/"><u>Discover the Unbeatable Value: Apple's New iPad Pro at Record Affordable Rates and Exciting Offers!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-the-latest-ios-175-update-release-information-and-features-for-iphones/"><u>Download the Latest iOS 17.5 Update: Release Information and Features for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tip-navigate-with-ease-by-zooming-out-of-google-maps-using-a-single-swipe/"><u>Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embracing-health-tracking-the-exceptional-value-of-the-oura-ring-beyond-my-aversion-to-subscription-services/"><u>Embracing Health Tracking: The Exceptional Value of the Oura Ring Beyond My Aversion to Subscription Services</u></a></li>
+<li><a href="https://os-tips.techidaily.com/epic-games-launches-mobile-gaming-stores-on-android-and-ios-devices/"><u>Epic Games Launches Mobile Gaming Stores on Android & iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-tips-how-i-keep-my-iphone-free-of-memory-issues/"><u>Essential Tips: How I Keep My iPhone Free of Memory Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/guffaw-generator-pictorial-mixer-for-2024/"><u>Guffaw Generator Pictorial Mixer for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-epson-xp-400-printer-drivers-a-complete-guide/"><u>How to Install the Epson XP-400 Printer Drivers: A Complete Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nokia-xr21-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nokia XR21 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-screentosave-mobilepc-video-recording/"><u>In 2024, ScreenToSave Mobile/PC Video Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-winning-conversations-top-20-marketing-terms-explained/"><u>In 2024, Winning Conversations Top 20 Marketing Terms Explained</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-deciphering-the-newest-advances-in-nero-waveedito-for-2024/"><u>Updated Deciphering the Newest Advances in Nero WaveEdito for 2024</u></a></li>
 </ul></div>
 
