@@ -1,7 +1,7 @@
 ---
 title: "The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style"
-date: 2024-12-21T19:58:35.029Z
-updated: 2024-12-24T19:39:13.786Z
+date: 2025-01-01T12:28:57.075Z
+updated: 2025-01-03T04:34:08.222Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 ## The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 * [Redesigning Hardware Is Less Sustainable](https://win-howtos.techidaily.com/how-to-fix-nier-automata-crashes-on-your-windows-computer/)
 * [Even Techies Don't Want Change As Much As We Think We Do](https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Good smartphones designs remain consistent in part because there are limited ways to make powerful, durable, and comfortable devices.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  If you've walked away from the latest phone unveiling feeling underwhelmed by the lack of change, here's the bright side of the status quo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  We've Figured Out How to Make Good Phones
 
  When a technology is new, experimentation is the name of the game. We don't already know which design is the most durable, [how to make gadgets waterproof](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), or [how to allow for passive cooling](https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/). We're not even sure which of these things is important.
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  Even when it comes to foldable phones, developers know how to make great ones. Most of the experimentation has to do with durability and miniaturization, making components small enough that you can still fit flagship cameras on a device where each half needs to be thinner than that of an average phone. It would also be nice to get rid of the crease. But the fundamentals? Those are nailed down already.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Consistency Is Good for Brand Recognition
 
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -63,6 +63,10 @@ Tyler Hayes / How-To Geek
  Now that all phones are similarly shaped slabs, people tell the difference between brands by the differences in their design. iPhones have their cameras arranged in a square. Samsung's phones have three or more cameras lined up in a row. Pixel phones have a Star Trek-looking visor. OnePlus' phones have massive camera bumps that are a third of the size of the phone.
 
  Each release can seem boring when new phones have the same characteristics as outgoing models, but changing these aspects can remove what we've come to associate with each brand. If every brand were to constantly change their designs with each release, then it would be hard to distinguish between them. This year's Pixel could have more in common with the top Galaxy phone from three years ago than the Pixel from the year before, and what would be the upside?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Can Still Switch Brands to Try Something New
 
@@ -80,17 +84,9 @@ Tyler Hayes / How-To Geek
 
  This has worked in the iPhone's favor for a long time now. Each iPhone is a known quantity. The removal of the home button, the expansion of the screen size to fill the entire front of the device, and the addition of a camera bump are perhaps the most notable changes to the design of the phone since the release of the first model. This gradual evolution has meant that from year to year, each iPhone looks recognizable to people who own previous models. The software has expanded, but it has come with a degree of consistency that Android has not had over the same period of time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ​We're More Productive When Things Stay the Same
 
 ![Person using the Camera app to take photo with the Google Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53249989394_936f059fc3_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -111,6 +107,10 @@ Justin Duino / How-To Geek
 ##  Even Techies Don't Want Change As Much As We Think We Do
 
 ![OnePlus Open outside display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -137,20 +137,19 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-activatingdeactivating-picture-in-picture-youtube-viewing-on-iphone/"><u>[Updated] Activating/Deactivating Picture In Picture YouTube Viewing on iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-a-compelling-metaverse-presence-with-these-tools/"><u>2024 Approved Craft a Compelling Metaverse Presence with These Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-unfreeze-non-playing-youtube-tweets-chrome/"><u>2024 Approved Unfreeze Non-Playing YouTube Tweets Chrome</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bridging-gaps-connecting-canon-to-wireless-networks/"><u>Bridging Gaps: Connecting Canon to Wireless Networks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-coolest-gifts-for-young-gamers-picking-out-convenient-console-choices-and-essential-add-ons/"><u>Discover the Coolest Gifts for Young Gamers: Picking Out Convenient Console Choices and Essential Add-Ons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-installing-and-harnessing-chatgpt-modular-tools/"><u>Effective Strategies for Installing and Harnessing ChatGPT Modular Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f25-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F25 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-stabilize-iphone-videos-3-ways/"><u>In 2024, How to Stabilize iPhone Videos? [3-Ways]</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-efficiency-with-top-underrated-ios-tricks-beyond-the-basics/"><u>Maximize Efficiency with Top Underrated iOS Tricks: Beyond the Basics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigation-showdown-assessing-the-superiority-between-waze-and-google-maps/"><u>Navigation Showdown: Assessing the Superiority Between Waze and Google Maps.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieving-lost-voice-messages-on-your-iphone-a-step-by-step-guide/"><u>Retrieving Lost Voice Messages on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionizing-charging-apple-integrates-usb-type-c-into-in-ear-headphones/"><u>Revolutionizing Charging: Apple Integrates USB Type-C Into In-Ear Headphones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamlessly-transition-from-google-photos-to-protondrive-on-your-iphone-a-comparable-experience/"><u>Seamlessly Transition From Google Photos to ProtonDrive on Your iPhone: A Comparable Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/setapp-the-future-of-iphone-app-distribution-your-next-go-to-alternate-app-store/"><u>SetApp: The Future of iPhone App Distribution - Your Next Go-To Alternate App Store</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-windows-painting-and-sketchpad-programs-reviewed-for-2024/"><u>Top Windows Painting and Sketchpad Programs Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-beyond-indexation-understanding-youtubes-unlisted-mechanism/"><u>[New] 2024 Approved Beyond Indexation Understanding YouTube's Unlisted Mechanism</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-6-best-nft-makers-for-artists-to-unleash-imagination/"><u>[New] 6 Best NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>[Updated] Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-imyfone-d-back-overview-tips-benefits-and-user-experience/"><u>Complete IMyFone D-Back Overview – Tips, Benefits, & User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-retrieving-bookmarks-in-safari-after-itunes-restoration/"><u>Comprehensive Tutorial on Retrieving Bookmarks in Safari After iTunes Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620268460-discover-the-best-iphone-file-recovery-tools-retrieve-your-accidentally-deleted-data-in-just-5-steps/"><u>Discover the Best iPhone File Recovery Tools - Retrieve Your Accidentally Deleted Data in Just 5 Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mpeg4-m4aweb/"><u>Mpeg4 M4aファイルからの無料Web上への変換 - モバビ</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-lost-messages-a-guide-to-retrieving-deleted-text-conversations/"><u>Recovering Lost Messages: A Guide to Retrieving Deleted Text Conversations</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-locating-and-using-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Locating and Using the Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-restoring-your-ios-device-without-upgrading-software/"><u>Step-by-Step Tutorial: Restoring Your iOS Device Without Upgrading Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-fbx-game-recorder-playbook/"><u>The FBX Game Recorder Playbook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-cross-device-connectivity-easy-steps-to-view-icloud-photos-and-files-everywhere/"><u>Unlocking Cross-Device Connectivity: Easy Steps to View iCloud Photos and Files Everywhere</u></a></li>
 </ul></div>
 

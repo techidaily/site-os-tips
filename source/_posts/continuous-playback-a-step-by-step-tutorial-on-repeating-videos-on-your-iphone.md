@@ -1,7 +1,7 @@
 ---
 title: "Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone"
-date: 2024-12-22T16:11:26.038Z
-updated: 2024-12-24T23:24:01.988Z
+date: 2024-12-27T09:53:42.024Z
+updated: 2025-01-02T22:30:07.584Z
 tags:
   - ios
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 * [Make a YouTube Video Play in a Loop on iPhone](https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 * To make a YouTube video play in a loop on your iPhone, tap the three dots on the video playback page and select "Loop Video".
 
  Using just the [built-in features in iPhone's Photos](https://screen-recording.techidaily.com/new-2024-approved-android-capture-king-spam-free-edition/) and YouTube app, you can make your videos play in a loop for as long as you want. This eliminates the need to manually re-play your videos, and we'll show you how to do that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Play a Video in iPhone's Photos App in a Loop
 
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Choose "Slideshow" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-make-slideshow-iphone.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Photos will play your video as a slideshow, but this slideshow has a specific theme, background music, and only plays once (not on loop). To change these settings, in the slideshow's bottom-right corner, tap "Options."
 
 ![Select "Options" at the lower-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/3-iphone-slideshow-options.png) 
@@ -55,16 +55,12 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Select "Theme."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-iphone-slideshow-theme.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the "Themes" screen, choose a simple theme so you can focus on your video. "Origami" is a good option. Then, in the top-left corner, tap "Back."
 
 ![Choose "Origami" and tap "Back."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-change-iphone-slideshow-theme.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Turn off the slideshow music so you can hear your video's audio. Do this by selecting "Music" and tapping "None." Then go back to the previous page.
 
@@ -74,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Enable "Repeat" and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-loop-iphone-slideshow.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Photos will take you back to your video screen. Here, your video will play in a loop until you manually close it.
 
  And that's how you continue to watch your favorite videos on your iPhone!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Make a YouTube Video Play in a Loop on iPhone
 
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  From the open menu, select "Loop Video."
 
 ![Tap "Loop Video" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-loop-youtube-video.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And YouTube will keep playing the same video until you disable the loop. You can turn off the loop feature by tapping the same three dots and choosing "Loop Video." Enjoy!
 
@@ -113,20 +113,22 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-watch-dogs-legion-keeps-crashing-on-pc/"><u>[SOLVED] Watch Dogs: Legion Keeps Crashing on PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-speed-skaters-showcase-at-the-olympics-2022-edition/"><u>[Updated] 2024 Approved Speed Skaters' Showcase at the Olympics, 2022 Edition</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-making-your-mark-with-instagram-videos/"><u>2024 Approved Making Your Mark with Instagram Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfect-your-xbox-footage-4-recording-strategies-revealed/"><u>2024 Approved Perfect Your Xbox Footage 4 Recording Strategies Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-pushingpastthestatusquo-post-mycam-cams/"><u>In 2024, PushingPastTheStatusQuo Post-MyCam Cams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-depth-comparison-which-is-superior-for-dvd-ripping-handbrake-or-winx/"><u>In-Depth Comparison: Which Is Superior for DVD Ripping - HandBrake or WinX?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-gt-10-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix GT 10 Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-the-best-video-speed-controller-extensions/"><u>The Ultimate Guide to The Best Video Speed Controller Extensions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unbelievable-top-9-ios-apps-that-outperform-on-your-high-end-ipad-models/"><u>Unbelievable: Top 9 iOS Apps That Outperform on Your High-End iPad Models!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-hidden-white-noise-features-for-better-sleep/"><u>Unlock Your iPhone's Hidden White Noise Features for Better Sleep</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-convenience-why-utilizing-google-maps-save-location-function-enhances-your-daily-routine/"><u>Unlocking Convenience: Why Utilizing Google Maps' Save Location Function Enhances Your Daily Routine</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-early-ios-updates-why-paying-for-app-store-isnt-always-necessary/"><u>Unlocking Early iOS Updates - Why Paying for App Store Isn't Always Necessary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-top-unexpected-revelations-of-apples-revolutionary-vision-pro/"><u>Unveiling the Top Unexpected Revelations of Apple's Revolutionary Vision Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-go-grayscale-understanding-the-benefits-of-a-black-and-white-iphone-interface/"><u>Why Go Grayscale? Understanding the Benefits of a Black & White iPhone Interface</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/winning-the-race-against-time-optimization-techniques-to-speed-up-windows-11/"><u>Winning the Race Against Time: Optimization Techniques to Speed Up Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-peering-into-popularity-instagram-analytics-for-you-for-2024/"><u>[Updated] Peering Into Popularity Instagram Analytics for You for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-transform-your-streaming-skills-with-compreenass-obs-guide/"><u>[Updated] Transform Your Streaming Skills with Compreenas's OBS Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-chuckle-trail-your-guide-to-hilarious-online-stars/"><u>2024 Approved Chuckle Trail Your Guide to Hilarious Online Stars</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>2024 Approved Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-premier-portals-to-retro-playstation-gaming-on-your-desktop/"><u>2024 Approved Premier Portals to Retro PlayStation Gaming on Your Desktop</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-solutions-for-retrieving-deleted-iphone-contact-info/"><u>Complete Solutions for Retrieving Deleted iPhone Contact Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-characters-the-most-effective-gpt-prompts-unveiled/"><u>Elevating Characters: The Most Effective GPT Prompts Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-iphones-power-for-dynamic-range-shots/"><u>Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-texts-a-step-by-step-guide-to-recovering-deleted-sms/"><u>How to Retrieve Lost Texts: A Step-by-Step Guide to Recovering Deleted SMS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/initial-steps-to-professional-motion-graphics-for-2024/"><u>Initial Steps to Professional Motion Graphics for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-screen-replacement-services-affordable-options-and-estimated-costs-explained/"><u>IPhone Screen Replacement Services: Affordable Options & Estimated Costs Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-lost-contact-information-from-your-itunes-backup/"><u>Step-by-Step Guide: Restoring Lost Contact Information From Your iTunes Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-recovering-deleted-files-from-iphone-external-storage/"><u>Step-by-Step Tutorial on Recovering Deleted Files From iPhone External Storage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-playlist-in-10-seconds-youtube-shorts-explained/"><u>The Ultimate Playlist in 10 Seconds YouTube Shorts Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-technique-for-retrieving-deleted-content-on-iphones-discover-here/"><u>The Ultimate Technique for Retrieving Deleted Content on iPhones - Discover Here!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-effective-solutions-to-resolve-your-iphones-picture-sending-issues/"><u>Top 3 Effective Solutions to Resolve Your iPhone's Picture-Sending Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-concealed-apps-on-your-iphone-expert-techniques-revealed/"><u>Unveiling Concealed Apps on Your iPhone: Expert Techniques Revealed</u></a></li>
 </ul></div>
 

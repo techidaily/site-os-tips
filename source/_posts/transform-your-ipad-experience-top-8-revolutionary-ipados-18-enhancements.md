@@ -1,7 +1,7 @@
 ---
 title: "Transform Your iPad Experience: Top 8 Revolutionary iPadOS 18 Enhancements"
-date: 2024-12-17T18:10:21.951Z
-updated: 2024-12-25T00:15:59.555Z
+date: 2024-12-30T11:12:20.774Z
+updated: 2025-01-02T22:28:30.383Z
 tags:
   - ios
 categories:
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb
 ![Apple's new Control Center for iPadOS 18 on an iPad's screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-control-center-in-ipados-18.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -47,10 +47,6 @@ Apple
  You can add more options to a particular Control Center page by tapping the plus icon in the top left corner. You can swipe down from the top right corner to open the Control Center and then drag the slider on the right to browse through the different pages or you can use a single, continuous swipe to land on a particular group.
 
  Doubling down on customization, Apple includes the ability to adjust the icon size in the Control Center if an app offers more than a toggle. Last but not least, you can also [add controls from your favorite third-party apps](https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-a60-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/) (if their developers have one).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Personalize Your Home Screen the Way You Want
 
@@ -68,25 +64,21 @@ Apple
 
 ![The new floating tab bar on iPadOS .](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-floating-tab-bar-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  If you want to explore more menus, pressing the button on the left transforms the tab bar into a sidebar pinned to the left of the screen. Since many Apple users are already familiar with sidebars in apps like Safari, it should make getting around easier. Suppose you use a specific tab from the sidebar often. In that case, you can drag and drop the tab onto the floating tab bar, letting you customize the options.
 
  The new floating tab bar is available in apps across iPadOS 18\. You can access it on Apple Music, the App Store, Apple TV, and more. Apple also spent a few seconds mentioning how the tab bar changes into the sidebar with a fluent animation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Introducing Math Notes for iPad
 
  After years of anticipation (14 to be precise), [Apple has finally added an official Calculator app](https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-narzo-60-5g-by-drfone-android/) to iPadOS 18\. Although it is the same app available for iPhone users, iPads get some new tricks like a calculation history and unit conversions. While the former keeps a tab of the values you entered while performing calculations, the latter lets you convert one value, such as kilometers, into another value, like miles.
 
 ![Depiction of Math Notes on iPadOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/math-notes-on-ipados-18.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -102,10 +94,6 @@ Apple
 
  We'll have to wait and see how accurate and reliable Math Notes is, but it seems to work fine with basic mathematical expressions and even a few complex ones as seen in the demo. The feature is accessible in a new "Math Notes" folder in [the Apple Notes app](https://tech-recovery.techidaily.com/professional-insights-mastering-the-use-of-slack-in-your-business-environment/). Saved solutions are available from the sidebar like they usually are in the Notes app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Smart Script Can Recognize Your Handwriting
 
  This doesn't get said enough, but writing on paper and a smooth screen with a stylus are two completely different experiences. How a real pencil feels against the paper, rough to steer around doesn't usually compare with the smooth and gliding motion of an Apple Pencil. This is why someone with good handwriting might struggle to write with an [Apple Pencil on an iPad](https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/). For such users and others with rather indiscernible handwriting, Apple has introduced Smart Script.
@@ -120,6 +108,10 @@ Apple
 
 ![Scratching notes in Apple Notes app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scratching-text-in-apple-notes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  The handwriting recognition technology also works in the Math Notes app, mimicking your writing style while solving mathematical problems. Remember when we talked about assigning value to variables? That particular use case also relies on Smart Script, wherein the operating system recognizes what you've written and remembers the variable's value throughout the equation or function you wish to solve.
@@ -127,12 +119,16 @@ Apple
  After some digging, I came across this video from [Tom at Paperless Movement](https://www.youtube.com/watch?v=WWROY2pJqxk). It shows how the handwriting detection technology isn't 100% effective at the moment (iPadOS 18 is currently in the beta testing phase). The video shows how the iPad didn't recognize the value for some variables when the host tried to solve a mathematical expression that involved several of them. Further, it also reveals how the placement of the final equation can impact the result. Hopefully, Apple will rectify such errors before the public release in September 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  SharePlay Now Provides Real-Time Drawing and Remote Access
 
 ![Drawing on screen using new SharePlay on iPadOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-shareplay-feature-on-ipados-18.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -142,21 +138,25 @@ Apple
 
  Another feature that could be very useful for family members playing tech support personnel and Apple's service center professionals is the remote iPad control. As a word of caution, we would always warn users against providing remote device control to strangers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The New Photos App Keeps Libraries Organized
 
  The Photos app in iPadOS 18 automatically organizes libraries so you can easily access your favorite memories without searching for them. In the app, users will notice a familiar photo grid that showcases the most recent pictures, along with the new Collections section that categorizes photos by themes without placing them in different albums, as is the case with iPadOS 17\. The themes could be based on time, people, users' favorite memories, etc.
 
 ![New Apple Photos app showcasing the Collections at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/new-apple-photos-app.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  For instance, the Recent Days collection in the Photos app will show users the photos/videos they've captured recently and group them by event. If you're looking for pictures with other people, there's a "People & Pets" collection that shows all the photos, including photos of you and friends or family members. Further, users can pin the collections they'd like to access frequently. Swiping right from the photo grid reveals the new carousel view, featuring what the app figures are your favorite places, pets, and people.
 
  If you haven't explored the current Photos app on iPhone or iPad, check out our guide on [10 must-use features of the Apple Photos app](https://extra-tips.techidaily.com/2024-approved-an-in-depth-study-on-ffmpegs-excellence-in-original-audio-extraction/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  iPadOS 18 and Apple Intelligence
 
@@ -187,18 +187,19 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-navigating-social-surveys-instagram-stories-edition-for-2024/"><u>[New] Navigating Social Surveys Instagram Stories Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>[Updated] 2024 Approved Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-quick-start-to-youtube-success-creating-business-and-personal-channels-on-phone/"><u>[Updated] 2024 Approved Quick Start to YouTube Success Creating Business & Personal Channels on Phone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-affordable-video-players-across-oses-effortlessly/"><u>Discover Affordable Video Players Across OSes Effortlessly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-living-essential-tweaks-in-ios-settings-that-will-simplify-your-day/"><u>Effortless Living: Essential Tweaks in iOS Settings That Will Simplify Your Day</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-gameplay-on-ipad-introducing-the-latest-delta-emulator-with-advanced-ds-management-tools/"><u>Enhanced Gameplay on iPad: Introducing the Latest Delta Emulator with Advanced DS Management Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/extracting-audio-from-iphone-videos-a-step-by-step-tutorial/"><u>Extracting Audio From iPhone Videos: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-iphones-defective-screen-time-functionality-apples-solution-in-progress/"><u>Fixing iPhone's Defective Screen Time Functionality - Apple's Solution in Progress</u></a></li>
-<li><a href="https://os-tips.techidaily.com/from-rivalry-to-necessity-my-transformation-in-embracing-phone-ring-holders/"><u>From Rivalry to Necessity: My Transformation in Embracing Phone Ring Holders</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-retrieving-and-printing-sms-from-your-iphone-device/"><u>Guide: Retrieving and Printing SMS From Your iPhone Device</u></a></li>
-<li><a href="https://discover-help.techidaily.com/identifying-compatible-graphics-cards-for-your-computer-expert-guide-by-yl-computing/"><u>Identifying Compatible Graphics Cards for Your Computer - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-se-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone SE Without a Passcode</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-the-7-main-culprits-behind-an-uncooperative-iphone-touchscreen/"><u>Unlocking the Mystery: The 7 Main Culprits Behind an Uncooperative iPhone Touchscreen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-essence-of-a-memorable-video-conclusion-in-vimeo/"><u>[New] 2024 Approved The Essence of a Memorable Video Conclusion in Vimeo</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-free-methods-to-enhance-alter-and-amplify-your-vocal-expression/"><u>[Updated] Discover FREE Methods To Enhance, Alter & Amplify Your Vocal Expression</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-methods-to-exit-your-account-on-facebook-messenger/"><u>Effective Methods to Exit Your Account on Facebook Messenger</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971201994-get-the-ultimate-audio-experience-with-m-audio-fast-track-free/"><u>Get the Ultimate Audio Experience with M-Audio Fast Track – FREE</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-105-classic-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia 105 Classic Phones with/without a PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-can-i-recover-lost-notes-from-my-ipad-tips-on-retrieval-with-or-without-a-backup/"><u>How Can I Recover Lost Notes From My iPad? Tips on Retrieval with or without a Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-deleted-contact-information-a-guide-to-the-best-iphone-app-solutions/"><u>How to Restore Deleted Contact Information: A Guide to the Best iPhone App Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-choreographing-gripping-podcast-openings/"><u>In 2024, Choreographing Gripping Podcast Openings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-magic-v2-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor Magic V2</u></a></li>
+<li><a href="https://win11.techidaily.com/shield-windows-from-nonstop-updates/"><u>Shield Windows From Nonstop Updates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-images-from-your-itunes-data-backup/"><u>Step-by-Step Guide: Retrieving Images From Your iTunes Data Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-recover-deleted-events-from-your-iphone-ipad-or-ipod-calendar/"><u>Step-by-Step Tutorial: How to Recover Deleted Events From Your iPhone, iPad or iPod Calendar</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nail-size-mastery-for-higher-traffic-videos/"><u>Thumbnail Size Mastery for Higher Traffic Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unfixable-damaged-iphone-securely-restore-your-precious-information-today/"><u>Unfixable Damaged iPhone? Securely Restore Your Precious Information Today</u></a></li>
 </ul></div>
 

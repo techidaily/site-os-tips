@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2024-12-21T03:35:27.344Z
-updated: 2024-12-25T00:21:43.784Z
+date: 2024-12-28T16:41:39.026Z
+updated: 2025-01-03T05:40:46.642Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ## Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad](https://youtube-clips.techidaily.com/earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects-for-2024/)
@@ -23,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  User ratings and reviews help developers improve their apps but nagging users with in-app pop-ups asking for reviews or ratings isn't acceptable. Thankfully, Apple lets you turn off these pesky rating and review requests on your iPhone and Mac. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad
@@ -34,16 +30,20 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![iPhone Settings app with App Store highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down to locate the "In-App Ratings & Reviews" option. Then, flip the toggle switch next to it off.
 
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
@@ -54,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![Accessing App Store Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-3-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Settings" window, uncheck the checkbox next to "In-App Ratings & Reviews."
 
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -81,16 +81,21 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-modern-and-future-terrain-with-drones/"><u>[Updated] Navigating Modern and Future Terrain with Drones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-finest-iphone-15-leather-sleeves-expert-picks-and-reviews/"><u>2023'S Finest iPhone 15 Leather Sleeves: Expert Picks and Reviews</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-most-popular-iphone-1-pro-max-sleeves-choosing-the-perfect-case-for-your-device/"><u>2023'S Most Popular iPhone 1# Pro Max Sleeves: Choosing the Perfect Case for Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/access-denied-heres-how-you-can-reveal-and-answer-blocked-numbers-on-ios-devices/"><u>Access Denied? Here's How You Can Reveal and Answer Blocked Numbers on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-unveils-next-gen-processor-the-a17-surpasses-the-a16-speed-test/"><u>Apple Unveils Next-Gen Processor: The A17 Surpasses the A16 Speed Test</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-users-must-have-guide-mophie-3-in-1-travel-charger-revealed-best-price-for-on-the-go-charging/"><u>Apple Users' Must-Have Guide: Mophie 3-in-1 Travel Charger Revealed - Best Price for On-the-Go Charging</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-play-mov-files-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Xiaomi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-fix-how-to-stop-ghost-recon-breakpoint-from-crashing/"><u>Effortlessly Fix: How To Stop Ghost Recon Breakpoint From Crashing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-eliminating-windows-11-taskbar-chat-on-you/"><u>Understanding the Effect of Eliminating Windows 11 Taskbar Chat on You</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zeroing-in-on-windows-blue-screen-of-death-0x0000003b-error-explained/"><u>Zeroing In on Windows' Blue Screen of Death: 0X0000003B Error Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-around-youtubes-restrictions/"><u>[New] 2024 Approved Navigating Around Youtube's Restrictions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-leading-techniques-for-youtube-mpeg-migration-for-2024/"><u>[Updated] Leading Techniques for YouTube MPEG Migration for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>[Updated] Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tune-into-success-with-instagram-soundscapes/"><u>2024 Approved Tune Into Success with Instagram Soundscapes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/avoiding-unnecessary-storage-use-halting-whatsapp-sync-on-mobile-phones/"><u>Avoiding Unnecessary Storage Use: Halting WhatsApp Sync on Mobile Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-safeguard-phone-information-iphones-and-androids/"><u>Comprehensive Steps to Safeguard Phone Information: IPhones and Androids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620204212-expert-tips-for-overcoming-iphone-backup-restoration-problems-on-models-7-8-and-8plus/"><u>Expert Tips for Overcoming iPhone Backup Restoration Problems on Models 7, 8 & 8+!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/humor-haven-memes-for-iphones/"><u>Humor Haven Memes for iPhones</u></a></li>
+<li><a href="https://solve-news.techidaily.com/navigating-gpu-accelerated-video-encoding-with-handbrake-essential-qandas-unveiled/"><u>Navigating GPU-Accelerated Video Encoding with HandBrake: Essential Q&As Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-13-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 13 mini Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-applications-for-viewing-and-analyzing-your-iphones-backup-data/"><u>Top Rated Applications for Viewing and Analyzing Your iPhone's Backup Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-iphones-icloud-backup-restoration/"><u>Troubleshooting Steps: Resolving Issues with iPhone's iCloud Backup Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-on-securely-backing-up-your-iphone-to-a-computer-itunes-optional/"><u>Ultimate Tutorial on Securely Backing Up Your iPhone to a Computer, ITunes Optional!</u></a></li>
+<li><a href="https://facebook.techidaily.com/uniting-the-masses-a-step-by-step-for-full-group-features-on-fb/"><u>Uniting the Masses: A Step-by-Step for Full Group Features on FB</u></a></li>
+<li><a href="https://os-tips.techidaily.com/whatsapp-icloud-backup-not-uploading-here-are-11-swift-fixes-for-when-you-hit-a-roadblock-with-0-bytes/"><u>WhatsApp iCloud Backup Not Uploading? Here Are 11 Swift Fixes for When You Hit a Roadblock with 0 Bytes</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-13-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 13 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

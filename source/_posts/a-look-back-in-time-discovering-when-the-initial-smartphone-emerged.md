@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-12-23T20:58:50.881Z
-updated: 2024-12-24T20:14:34.375Z
+date: 2024-12-30T08:51:03.476Z
+updated: 2025-01-02T19:40:02.265Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ## A Look Back in Time: Discovering When the Initial Smartphone Emerged
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,15 +88,22 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-conquer-youtube-with-creator-studio-a-comprehensive-guide/"><u>[New] In 2024, Conquer YouTube with Creator Studio A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-exploring-the-colors-of-wings-in-bebops-parrot-edition/"><u>[Updated] 2024 Approved Exploring the Colors of Wings in Bebop's Parrot Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-vids-10-leading-apps-for-instagram-video-editing/"><u>[Updated] In 2024, Transforming Vids 10 Leading Apps for Instagram Video Editing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-quick-color-concealment-in-premiere/"><u>2024 Approved Quick Color Concealment in Premiere</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Without iTunes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-sanitizing-your-iphone-display-using-isopropyl-alcohol/"><u>Step-by-Step Guide: Sanitizing Your iPhone Display Using Isopropyl Alcohol</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ins-and-outs-of-apple-musics-auto-queue-system-for-iphones/"><u>The Ins and Outs of Apple Music's Auto-Queue System for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-finding-solutions-for-broken-spotlight-search-functionality-in-ios-1314/"><u>Troubleshooting Tips: Finding Solutions for Broken Spotlight Search Functionality in iOS 13/14</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-the-causes-and-remedies-for-a-non-syncing-fitbit-gadget/"><u>Uncovering the Causes and Remedies for a Non-Syncing Fitbit Gadget</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/bes-user-interface-for-comment-management-for-2024/"><u>YouTube's User Interface for Comment Management for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-investing-time-wisely-on-cover-art-creation-for-2024/"><u>[New] Investing Time Wisely on Cover Art Creation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-evaluating-the-leading-video-calling-platforms-for-tech-enthusiasts/"><u>[Updated] Evaluating the Leading Video Calling Platforms for Tech Enthusiasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-saving-window-views-on-pcs-from-winxp-to-11/"><u>[Updated] In 2024, Saving Window Views on PCs From WinXP to 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-most-popular-iphone-podcast-soundshare-for-2024/"><u>[Updated] Most Popular iPhone Podcast Soundshare for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms/"><u>2024 Approved 20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-high-dynamic-range-potential/"><u>2024 Approved Unlocking Windows' High Dynamic Range Potential</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/downloadhp-stream-driverseasily-and-quickly/"><u>Download|HP Stream Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/resolving-incompatibility-how-to-fix-a-scanner-that-wont-work-with-your-windows-pc-tips-from-yl-computing/"><u>Resolving Incompatibility: How to Fix a Scanner That Won't Work with Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-sharing-across-apple-devices-connecting-your-iphone-ipad-and-mac-via-clipboard/"><u>Seamless Sharing Across Apple Devices: Connecting Your iPhone, iPad & Mac via Clipboard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/set-google-maps-as-your-new-standard-navigation-app-on-iphone-step-by-step-guide/"><u>Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-sharpening-and-enhancing-fuzzy-images/"><u>Step-by-Step Guide to Sharpening and Enhancing Fuzzy Images</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-unexpected-camera-sounds-on-your-iphone-tutorial/"><u>Stop Unexpected Camera Sounds on Your iPhone - Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-drawbacks-of-the-new-apple-vision-pro-could-these-flaws-stop-you/"><u>Top 6 Drawbacks of the New Apple Vision Pro - Could These Flaws Stop You?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-automating-your-whatsapp-notifications-for-key-occasions/"><u>Top Strategies for Automating Your WhatsApp Notifications for Key Occasions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transitioning-from-apples-icloud-to-google-drive-a-personal-trial-run/"><u>Transitioning From Apple's iCloud to Google Drive - A Personal Trial Run</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Access and Manipulate iCalendar Files From an iOS/iPadOS Device Using DearMob App on a PC
-date: 2024-12-23T21:53:06.633Z
-updated: 2024-12-24T23:46:27.400Z
+date: 2024-12-30T11:52:12.530Z
+updated: 2025-01-02T21:46:47.394Z
 tags:
   - iphone-manager
 categories:
@@ -34,14 +34,14 @@ In DearMob,
 
 ![export calendar to pc](https://www.5kplayer.com/user-guide/images/userguide-how/export-calendar-on-win.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 * Click the **Refresh** icon to get the real-time Calendar info from your iDevice.
 * Never click the **Refresh** icon before you **Sync** all the changes to your iDevice. Once you hit the **Refresh** icon before synchronizing the data on your iDevice, all the efforts you have done will be erased with this click. So make sure that you hit the **Sync** button on the bottom right corner each time a new move has been made.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Import iPhone, iPad, or iPod Calendars from Your Windows PC
 
@@ -53,21 +53,13 @@ In DearMob,
  2\. Hit the **Sync** button to transfer Calendar from the computer to your iDevice.  
 ![Import calendar from pc](https://www.5kplayer.com/user-guide/images/userguide-how/import-calendar-on-win.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click the red curved icon on the very left corner to undo the process if you accidentally input the wrong file(s).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add iPhone, iPad, or iPod Calendars to Your Windows PC
 
@@ -81,7 +73,15 @@ In DearMob,
 
 ![Add Calendar](https://www.5kplayer.com/user-guide/images/userguide-how/add-calendar-on-win.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click the red curved icon on the very left corner to revoke the info if you accidentally type in the wrong words.
 
@@ -97,11 +97,11 @@ In DearMob,
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-* You can click the red curved icon to undo editing.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* You can click the red curved icon to undo editing.
 
 ## Delete iPhone, iPad, or iPod Calendars on Your Windows PC
 
@@ -129,15 +129,21 @@ In DearMob,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-beat-infused-videos-a-step-by-step-guide-to-adding-tunes-to-fb/"><u>[Updated] 2024 Approved Beat-Infused Videos A Step-by-Step Guide to Adding Tunes to FB</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit-for-2024/"><u>[Updated] Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-nubia-z50s-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia Z50S Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-the-shortcomings-of-ai-detection-apps-like-zerogpt-exposed-through-four-case-studies/"><u>Beware! The Shortcomings of AI Detection Apps Like ZeroGPT Exposed Through Four Case Studies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-facebooks-hidden-gem-a-guide-to-finding-and-using-marketplace/"><u>Navigating Facebook's Hidden Gem: A Guide to Finding and Using Marketplace</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncover-hidden-gems-in-music-through-apple-music-radio-dont-miss-out/"><u>Uncover Hidden Gems in Music Through Apple Music Radio – Don't Miss Out!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-free-access-to-apple-devices-through-targets-exclusive-promotion/"><u>Unlock Free Access to Apple Devices Through Target's Exclusive Promotion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secret-of-eternal-iphone-charges-exclusive-tips-for-constant-low-power-usage/"><u>Unlock the Secret of Eternal iPhone Charges: Exclusive Tips for Constant Low Power Usage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-11itunes-dvdstreamingapple-tv/"><u>Windows 11向けにiTunes DVDをStreaming可能にしてApple TVへ送信する手順</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-deep-dive-into-the-capabilities-of-yis-4k-hero/"><u>[New] In 2024, Deep Dive Into the Capabilities of YI's 4K Hero</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-demystifying-igtv-a-compreayers-guide-to-social-media/"><u>[New] In 2024, Demystifying IGTV A Compreayer's Guide to Social Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterpiece-makers-top-6-innovators-in-digital-art-space/"><u>[New] Masterpiece Makers Top 6 Innovators in Digital Art Space</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximize-your-marketing-metrics-top-8-apps-for-facebook-like-boost/"><u>[New] Maximize Your Marketing Metrics Top 8 Apps for Facebook Like Boost</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-winning-strategies-for-youtube-seo-titles-and-descriptions/"><u>[Updated] Winning Strategies for YouTube SEO Titles & Descriptions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-speed-simple-tips-for-optimizing-the-iphone-15-and-15-pro/"><u>Boost Your iPhone's Speed: Simple Tips for Optimizing the iPhone 15 and 15 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypassing-the-security-for-your-iphone-easy-methods-for-ios-18-without-using-a-password/"><u>Bypassing the Security for Your iPhone - Easy Methods for iOS 18 without Using a Password</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-out-itunes-media-files-on-windows-and-macos-proven-methods-for-a-fresh-start/"><u>Clearing Out iTunes Media Files on Windows & macOS: Proven Methods for a Fresh Start</u></a></li>
+<li><a href="https://win-web.techidaily.com/comment-sauvegardez-votre-systeme-windows-10-avec-une-cle-usb-a-laide-du-plus-puissant-logiciel-de-securite-economique/"><u>Comment Sauvegardez Votre Système Windows 10 Avec Une Clé USB À L'aide Du Plus Puissant Logiciel De Sécurité Économique</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-steps-for-resetting-browsers-autofill-settings/"><u>Effective Steps for Resetting Browser's Autofill Settings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-top-rated-2d-animation-programs-for-beginners-and-pros-for-2024/"><u>New Best Top-Rated 2D Animation Programs for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/nexus-core-systems-single-screen-high-definition-touch/"><u>Nexus Core Systems Single Screen, High Definition Touch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-cleaning-up-broken-file-formats-tackling-intransigent-media-corruption-issues/"><u>Step-by-Step Guide to Cleaning Up Broken File Formats: Tackling Intransigent Media Corruption Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-techniques-for-removing-ebooks-from-your-apple-ibooks-library/"><u>Top 3 Techniques for Removing eBooks From Your Apple iBooks Library</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-erasing-every-email-address-linked-to-your-ios-devices/"><u>Ultimate Tutorial: Erasing Every Email Address Linked to Your iOS Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/waterproof-wonders-unveiling-freezes-latest-sport-cooling-device-with-superior-active-cooling-perfect-for-subaqueous-fun/"><u>Waterproof Wonders: Unveiling Freeze's Latest Sport Cooling Device with Superior Active Cooling - Perfect for Subaqueous Fun</u></a></li>
 </ul></div>
 

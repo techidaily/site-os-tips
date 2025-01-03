@@ -1,7 +1,7 @@
 ---
 title: Top IOS 18 Functions Unavailable in Older iPhones - Upgrade Required for Access
-date: 2024-12-21T16:55:20.418Z
-updated: 2024-12-24T17:42:01.867Z
+date: 2024-12-29T08:05:53.635Z
+updated: 2025-01-03T02:50:18.521Z
 tags:
   - ios
 categories:
@@ -30,10 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A collage of thumbnails, with each promoting a different iOS 18 feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-key-features-wwdc24-slide.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  Several new features in iOS 18 will arrive via subsequent updates released later this year and next. This staggered release strategy has turned the otherwise dull mid-cycle OS updates into feature-packed events, giving Apple fans something to look forward to the whole year.
@@ -44,10 +40,6 @@ Apple
 
 ![Apple Mail on iPhone with the Primary inbox category selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-mail-app-inbox-categorization-primary-selected-closeup.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
 ###  Robot Vacuum Cleaner Support in Home
@@ -55,6 +47,10 @@ Apple
  The Home app on iOS 18, iPadOS 18 and macOS Sequoia supports vacuum cleaners from manufacturers like iRobot, so you can ask Siri to clean the floors and use these devices in automations. Core features like changing cleaning mode and viewing charge status are supported. However, this is "coming later this year," and you'll of course need a compatible robot vacuum cleaner.
 
  iOS 18 also brings guest access to the Home app, allowing others to control your home temporarily, but you must have a HomePod or Apple TV operating as a smart home hub to use it. Moreover, scheduling guest access requires a Matter-compatible smart lock that supports scheduling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Supercharged Siri With ChatGPT Integration
 
@@ -66,13 +62,13 @@ Apple
 
  Bloomberg's Mark Gurman claims that [Siri's AI superpowers](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/)—like onscreen awareness, controlling apps and devices, answers based on your data, and seamless integration with ChatGPT—will be available when iOS 18.4 launches next spring.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3 iOS 18 Features That Require an iPhone 12 or Later
 
  Many new features need the A14 chip from the iPhone 12, a 2020 handset. If you haven't upgraded your iPhone recently and these are important to you, consider buying an iPhone 16 when it arrives in September.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Vision Pro-Like Eye Tracking Navigation
 
@@ -81,10 +77,6 @@ Apple
 ###  Music Haptics via the iPhone's Taptic Engine
 
  With Music Haptics, people will be literally able to feel the music. The Taptic Engine inside your iPhone produces taps, textures, and refined vibrations based on what's playing. This works across the Apple Music catalog, and developers can add music haptics to their apps. This is another accessibility feature that only works on the iPhone 12 and later.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Live Audio Transcription in the Notes App
 
@@ -112,27 +104,27 @@ Apple
 
  Some iOS 18 features like gaming with spatial audio and lower audio latency require accessories. Others like Messages via satellite need specific iPhone hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Gaming With AirPods
 
  Low Bluetooth audio latency in Game Mode is exclusive to the AirPods Pro 2\. Spatial audio in games requires the AirPods 3, AirPods Pro, or AirPods Max.
 
 ![An AirPods card on iPhone listing new features like voice isolation and responding to Siri with head movement.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-light-mode-airpods-card-new-features-overview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Responding to Siri With Head Shakes
 
  Shaking or nodding your head to decline or accept calls requires the AirPods Pro 2.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Voice Isolation on AirPods
 
  iOS 18 brings the Voice Isolation feature to the latest AirPods Pro 2\. With this feature enabled, your earbuds will block external noise for the caller, such as the wind blowing around you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Improved Voice Quality
 
@@ -144,15 +136,7 @@ Apple
 
 ![A chat in the iPhone's Messages app, with satellite connectivity guidance displayed at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-messages-via-satellite-connectivity-guidance-connected.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Hands-Free Smart Lock Unlocking
 
@@ -173,13 +157,13 @@ Apple
 
  Solving mathematical equations as you're writing them in the Notes app supports common mathematical symbols, but you must write your math using Western Arabic numerals or type it using Arabic (Eastern & Western) or Devanagari numerals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  About Topographic Maps
 
  Topographic maps have hit Maps on iOS 18 after debuting on the Apple Watch a year earlier. If you live in the United States and Japan, you'll be able to access detailed trail networks and hikes for 63 US national parks, as well as create your own hikes and download topographic maps for offline navigation with turn-by-turn voice guidance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  About Safari Highlights and Reader Mode Summaries
 
@@ -187,7 +171,15 @@ Apple
 
 ![Two framed iPhone screenshots showcasing AI-powered Safari highlights and Reader Mode summaries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-safari-app-reader-mode-summaries-page-highlights.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  About Call Recording and Transcription
 
@@ -201,6 +193,10 @@ Apple
 * Mandarin Chinese (China mainland, Taiwan)
 * Cantonese (China mainland, Hong Kong)
 * Portuguese (Brazil)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  iOS 18: Geo-Blocking and Other Restrictions
 
@@ -216,13 +212,13 @@ Apple
 
  The feature works in the TV app on the iPhone, iPad, and Mac devices updated to iOS 18, iPadOS 18, and macOS Sequoia. InSight only works with Apple Originals movies and TV shows, so you'll need an Apple TV+ subscription. The feature will expand to the entire Apple+ catalog over time, but it's unclear if Apple will add support for third-party video apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Tap to Cash Contactless Money Transfers
 
  Tap to Cash enables contactless money transfers between iPhone owners in the United States. Apple reserves the right to lower the limits during the beta phase without notice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Apple Pay Rewards and Installments
 
@@ -235,6 +231,10 @@ Apple
 ###  Viewing Your Home Electricity Usage
 
  You can plug your utility account into the Home app to view rate plan information, peak and off-peak usage stats, etc. The US-only feature is restricted to Pacific Gas and Electric's residential electrical service, including areas served by Community Choice Aggregators.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Does Your iPhone Support iOS 18?
 
@@ -257,24 +257,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-infiltrating-hidden-user-communications-on-yt-platforms/"><u>[New] 2024 Approved Infiltrating Hidden User Communications on YT Platforms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>[Updated] 2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>[Updated] The Secrets of Editing Numerical Data in TikToks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-step-by-step-guide-creating-and-installing-personalized-iphone-ringtones/"><u>1. Step-by-Step Guide: Creating and Installing Personalized iPhone Ringtones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-most-popular-apple-watch-choices-expert-reviews-and-comparisons/"><u>2023'S Most Popular Apple Watch Choices - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-jest-in-imagery-create-with-kapwing/"><u>2024 Approved Jest in Imagery Create with Kapwing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/access-the-latest-ios-18-preview-release-today/"><u>Access the Latest iOS 18 Preview Release Today!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/additional-us-state-adopts-iphones-digital-id-system/"><u>Additional US State Adopts iPhone's Digital ID System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-benefit-from-revamped-google-drive-interface/"><u>Android & iPhone Users Benefit From Revamped Google Drive Interface</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comparing-waze-and-google-maps-a-detailed-review-of-features-and-performance/"><u>Comparing Waze and Google Maps: A Detailed Review of Features and Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/compatibility-check-can-your-apple-device-support-the-upcoming-ios-17-and-ipados/"><u>Compatibility Check: Can Your Apple Device Support the Upcoming iOS 17 & iPadOS?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-7-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 7?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p55t-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-4g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 4G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-dissecting-video-platform-distinctions-youtube-vs-dailymention/"><u>In 2024, Dissecting Video Platform Distinctions YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-for-xp-pens-advanced-16-pro-drawing-monitor-features-benefits-and-more/"><u>Top Reviews for XP-Pen's Advanced 16 Pro Drawing Monitor: Features, Benefits & More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-facebook-a-journey-through-its-history-appeal-factors-and-important-features/"><u>Understanding Facebook: A Journey Through Its History, Appeal Factors, and Important Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-milestone-the-birth-of-the-first-smartphone/"><u>Unveiling the Milestone: The Birth of the First Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/when-and-how-to-deactivate-apples-find-my-iphone-feature-insights-and-instructions/"><u>When and How to Deactivate Apple's Find My iPhone Feature - Insights and Instructions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-avoiding-ambiguity-clear-dating-of-digital-pics/"><u>[Updated] Avoiding Ambiguity Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapmaster-pro-advanced-ai-enhanced-editing/"><u>2024 Approved SnapMaster Pro Advanced AI Enhanced Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/crafting-excellence-at-a-premium-a-detailed-look-into-the-microsoft-surface-studio/"><u>Crafting Excellence at a Premium: A Detailed Look Into the Microsoft Surface Studio Ⅱ</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-hiding-the-do-not-disturb-indicator-from-your-iphone-15-pro-screen/"><u>Expert Tips for Hiding the Do Not Disturb Indicator From Your iPhone 15 Pro Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-iphone-and-ipad-users-can-now-navigate-with-their-eyes/"><u>Get Ready: IPhone & iPad Users Can Now Navigate with Their Eyes!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/google-maps-adopts-wazes-premier-safety-capabilities-for-enhanced-user-security/"><u>Google Maps Adopts Waze's Premier Safety Capabilities for Enhanced User Security</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-respond-when-an-unattended-apple-airtag-is-tracking-alongside-you-whats-next/"><u>How to Respond When an Unattended Apple AirTag Is Tracking Alongside You – What's Next?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-discovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras/"><u>In 2024, Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-guidelines-registering-on-google-meet/"><u>In 2024, Guidelines Registering on Google Meet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-motorola-edge-40-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Motorola Edge 40 Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ultimate-speaker-change-tech-for-internet-showbiz-pros/"><u>In 2024, Ultimate Speaker Change Tech for Internet Showbiz Pros</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-equilibrium-reversing-the-windows-peak-energy-spike/"><u>Restoring Equilibrium: Reversing the Windows Peak Energy Spike</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-chatgpt-accessing-up-to-date-information-means-for-everyone/"><u>What ChatGPT Accessing Up-to-Date Information Means for Everyone</u></a></li>
 </ul></div>
 

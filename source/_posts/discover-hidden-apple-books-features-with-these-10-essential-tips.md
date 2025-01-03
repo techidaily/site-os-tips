@@ -1,7 +1,7 @@
 ---
 title: Discover Hidden Apple Books Features with These 10 Essential Tips
-date: 2024-12-21T20:45:40.346Z
-updated: 2024-12-25T00:00:50.239Z
+date: 2024-12-31T05:51:23.617Z
+updated: 2025-01-03T07:45:28.598Z
 tags:
   - ios
 categories:
@@ -40,6 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the number of pages read in a book in the Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Set Reading Goals 
 
  If you haven't been reading much lately, the Reading Goals feature can help you get back on track. Once enabled, it tells you how many minutes you spend reading each day and the number of books and audiobooks you finish each year.
@@ -60,6 +64,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Reading Goals section in Apple Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-6.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also adjust your reading goal from here. To do this, tap on "Today's Reading" and hit the "Adjust Goal" button.
 
 ![Adjust Goal option for settings a reading goal in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-7.jpg) 
@@ -72,11 +80,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Books Read This Year section in the Apple Books app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-9.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To modify the goal, hit the "Adjust Goal" button. Then, set the number of books you want to read each year and hit "Done" to set this as your new yearly reading goal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Customize the App's Appearance 
 
@@ -93,10 +101,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now you can change a bunch of things from the "Themes & Settings" overlay screen, including the font size, font type, theme, and page turn animations.
 
 ![Themes & Settings overlay screen on the Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-14.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In addition, you can tap on "Customize" at the bottom of the page to open the theme customizer. From here, you can adjust other aspects of the page, such as line spacing, character spacing, and word spacing, among other things, as per your preference.
 
@@ -116,10 +120,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Searching a book in Apple Books by a word or phrase.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-18.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap on one to jump in and read.
 
 ## 5  Add Bookmarks (Not Just One) 
@@ -129,7 +129,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Bookmark button in the Apple Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-29.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see a bookmark icon in the bottom-right corner of the page, indicating it's bookmarked. The Books app keeps all your bookmarks for a book in one place. You can access them by tapping the menu button and going into "Bookmarks & Highlights."
@@ -137,10 +137,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking Bookmarks & Highlights in the Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-31.jpg) 
 
  When you want to remove a bookmark, it's easy. Tap the bookmark icon to bring up the menu, and then hit the bookmark button again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6  Highlight Text and Take Notes 
 
@@ -154,17 +150,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Highlighting a paragraph in the Apple Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-20.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, choose a color you'd like to use for the highlight. Alternatively, you can underline the text by tapping on the "U" button.
 
 ![HIghlight options in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-21.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to add a note to the highlight, tap on the highlighted text and select "Add Note" from the menu.
 
@@ -174,9 +162,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Square box in Books app indicating a highlight with a note.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-24.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, if you have multiple notes on a page, you can view them in one place. Tap the menu button in the bottom-right corner of the page and select "Bookmarks & Highlights." Switch to the "Highlights" tab, and you'll see all your highlights and notes for that book on this page.
 
 ![Checking all the higlights in a book in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-27.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  Keep Your Books Synced Across All Your Devices 
 
@@ -200,6 +200,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Allowing Books to use iCloud on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-36.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lastly, tap on "iCloud Drive" and enable it if it isn't already enabled.
 
 ![Turning on the Sync this iPhone feature under iCloud settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-38.jpg) 
@@ -221,7 +225,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Markup option on a PDF in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-41.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9  Create a Wish List of Books You Want to Read 
@@ -232,19 +236,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Want to Read button in Books app to add a book to wishlist.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-42.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you want to access your wishlist, head to the "Home" tab. Find the "Want to Read" section and tap on it. Here, you'll see all the books you've saved and can check their samples or purchase them.
 
 ![Want to Read section in the Apple Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-45.jpg) 
 
- Since the Books store is so exhaustive, you can use this feature to keep track of books whether or not you intend to read them digitally (or on the Apple Books service). 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Since the Books store is so exhaustive, you can use this feature to keep track of books whether or not you intend to read them digitally (or on the Apple Books service). 
 
 ## 10  Read Without Being Disturbed 
 
@@ -269,18 +269,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-harnessing-webcams-a-2023-guide-to-slidecast-perfection-for-2024/"><u>[Updated] Harnessing Webcams A 2023 Guide to Slidecast Perfection for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-hyperfast-picture-explorer-on-windows-11-for-2024/"><u>[Updated] Hyperfast Picture Explorer on Windows 11 for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/avoid-gaming-crashes-on-intel-13th-and-14th-gen-cpus-with-new-in-game-warning-comprehebate-your-system-now/"><u>Avoid Gaming Crashes on Intel 13Th and 14Th Gen CPUs with New In-Game Warning – Comprehebate Your System Now!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/faster-footage-in-powerpoint-filters-for-2024/"><u>Faster Footage in PowerPoint Filters for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/focal-points-the-most-superior-camera-lens-rankings-2024/"><u>Focal Points The Most Superior Camera Lens Rankings 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-mirror-an-ipad-onto-roku-the-three-ultimate-techniques/"><u>How to Effortlessly Mirror an iPad Onto Roku: The Three Ultimate Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro-review/"><u>In 2024, Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro Review</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-ways-to-stream-any-media-directly-to-your-television-screen-no-apple-tv-required/"><u>New Ways to Stream Any Media Directly to Your Television Screen, No Apple TV Required</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-effective-techniques-projecting-iphone-visuals-on-mac-without-hassle/"><u>Quick & Effective Techniques: Projecting iPhone Visuals on Mac Without Hassle</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-straightforward-techniques-for-mirroring-your-ipad-display-onto-a-pc-mac-or-television/"><u>Quick and Straightforward Techniques for Mirroring Your iPad Display Onto a PC, Mac or Television</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-transformation-from-frankish-to-nederlands/"><u>The Transformation From Frankish to Nederlands</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-charging-your-iphone-wirelessly-no-cable-needed/"><u>Ultimate Guide: Charging Your iPhone Wirelessly - No Cable Needed!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-premiere-samsung-gear-vr-playlist/"><u>[New] In 2024, Premiere Samsung Gear VR Playlist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859609065-updated-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[Updated] Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-10-youtube-tips-for-teachers/"><u>[Updated] In 2024, 10 YouTube Tips for Teachers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-is-any-antivirus-worth-your-time-on-an-iphone-the-surprising-answer/"><u>1. Is Any Antivirus Worth Your Time on an iPhone? The Surprising Answer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>2024 Approved Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-adding-exercises-to-your-apple-watch-by-hand/"><u>A Step-by-Step Guide: Adding Exercises to Your Apple Watch by Hand</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/filtro-gratuito-e-on-line-convertendo-arquivos-aac-em-formatos-wmv-com-facilidade-usando-movavi/"><u>Filtro Gratuito E On-Line: Convertendo Arquivos AAC Em Formatos WMV Com Facilidade Usando Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-6-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 6 without Security Questions?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-in-the-office-leveraging-chatgpt-for-enhanced-workflow-management/"><u>Maximizing Efficiency in the Office: Leveraging ChatGPT for Enhanced Workflow Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-routing-defective-disk-segmentation-procedure/"><u>Re-Routing Defective Disk Segmentation Procedure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-discounted-acer-nitro-get-your-24-165hz-curved-gaming-monitor-now-at-just-81/"><u>Save Big with the Discounted Acer Nitro: Get Your 24 165Hz Curved Gaming Monitor Now at Just $81</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-simplicity-using-assistive-features-to-convert-modern-iphones-into-fundamental-phones/"><u>Unlocking Simplicity: Using Assistive Features to Convert Modern iPhones Into Fundamental Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmatched-value-why-you-should-consider-the-iphone-13-as-your-next-phone/"><u>Unmatched Value: Why You Should Consider the iPhone 13 as Your Next Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-top-choice-in-support-stands-a-comprehensive-review-of-kuxius-x3nova-pro-max-for-ipads/"><u>Unveiling the Top Choice in Support Stands: A Comprehensive Review of Kuxiu's X3nova Pro Max for iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/vision-pros-uncertain-horizon-my-apprehensions-about-the-impact-of-introducing-visionos-2/"><u>Vision Pro’s Uncertain Horizon: My Apprehensions About the Impact of Introducing visionOS 2</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-samsungs-device-network-rivalries-apple-exploring-the-strength-of-their-unique-ecosystem/"><u>Why Samsung's Device Network Rivalries Apple: Exploring the Strength of Their Unique Ecosystem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-the-iphone-13-continues-to-be-an-excellent-buy/"><u>Why the iPhone 13 Continues to Be an Excellent Buy</u></a></li>
 </ul></div>
 

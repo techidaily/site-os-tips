@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2024-12-18T21:22:24.795Z
-updated: 2024-12-25T02:40:53.010Z
+date: 2024-12-31T19:09:35.070Z
+updated: 2025-01-02T20:22:23.887Z
 tags:
   - ios
 categories:
@@ -38,10 +38,6 @@ Tim Brookes / How-To Geek
 
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Create Stickers Using Photo Cutouts
 
  Stickers are an iMessage feature that allows you to [save and send a sheet of custom “stickers”](https://some-approaches.techidaily.com/new-unlocking-windows-10-key-skills-you-need/) (like emoji) but also stick them on top of content within that message window. Tapping on a sticker will insert it into your message, or you can long-press then drag and release the sticker inside the chat.
@@ -54,11 +50,11 @@ Tim Brookes / How-To Geek
 
 ![iPhone stickers for use in iMessage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1924.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create a Mood Board
 
@@ -68,9 +64,17 @@ Tim Brookes / How-To Geek
 
 ![A Nintendo 64-themed mood board created in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1925.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve copied a subject to your clipboard, paste it into a Freeform document by tapping a blank space and selecting “Paste” in the context menu. You can then move, scale, and arrange your mood board accordingly. If you want to create a mood board with non-Apple users, you’ll need to resort to a third-party tool like [Microsoft Whiteboard](https://screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users-for-2024/) or an [agile note-taking app like OneNote](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) instead.
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create a Visual Log of Outfits and More
 
@@ -87,7 +91,7 @@ Tim Brookes / How-To Geek
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -95,7 +99,7 @@ Tim Brookes / How-To Geek
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Highlight the Subject in Almost Any App
@@ -105,10 +109,6 @@ Tim Brookes / How-To Geek
  For example, you can paste a subject directly into an email and effectively get rid of the background. This can help emphasize the subject and remove untidy or distracting elements from your image. You can also paste your cutouts into the Notes app, a Slack chat, or anywhere [on your Mac using Universal Clipboard](https://extra-approaches.techidaily.com/new-is-picku-the-pinnacle-of-editing-excellence-on-android-devices/).
 
  On top of this, you can “Share” to Reminders if you want a visual representation of the item, book cover, person, and so on. You can also paste or “Share” into a Messages conversation, skipping the process of turning your image into a sticker before using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Them in Memes, Posters, and Creative Projects
 
@@ -153,24 +153,20 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-step-by-step-approach-to-crafting-customized-youtube-alerts-and-notifications-for-2024/"><u>[New] A Step-by-Step Approach to Crafting Customized Youtube Alerts & Notifications for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-breakthrough-ways-to-transform-your-powerpoint-presentations/"><u>[New] Breakthrough Ways to Transform Your PowerPoint Presentations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ableton-live-mastering-volume-dampening/"><u>[Updated] Ableton Live Mastering Volume Dampening</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unlock-the-best-places-to-explore-vector-artwork-at-no-cost/"><u>[Updated] Unlock the Best Places to Explore Vector Artwork at No Cost</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-cost-efficient-game-capture-learn-to-livestran-a-match/"><u>2024 Approved Cost-Efficient Game Capture Learn to Livestran a Match</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/digiarty-windows-xp-dvd-dvd/"><u>Digiarty Windows XP DVD完整使用授權合同 - 安全版 DVD創作工具</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-go-2023-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark Go (2023) Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-best-add-ons-to-boost-your-gopro-for-2024/"><u>Top 10 Best Add-Ons to Boost Your GoPro for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-innovations-in-qi-version-2-wireless-charging-systems/"><u>Understanding the Innovations in Qi Version 2 Wireless Charging Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-of-apple-books-top-1nformation-and-strategies-for-better-reading/"><u>Unlock the Full Potential of Apple Books: Top 1Nformation and Strategies for Better Reading</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-phones-hidden-potential-with-live-photo-screen-magic-the-ultimate-underrated-ios-treat/"><u>Unlock Your Phone's Hidden Potential with Live Photo Screen Magic: The Ultimate Underrated iOS Treat</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-secret-how-smartphones-match-pc-performance-without-cooling-fans/"><u>Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-top-10-secret-enhancements-in-ios-17/"><u>Unveiling the Top 10 Secret Enhancements in iOS 17</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-enhancements-a-major-improvement-for-web-applications-on-ios-devices/"><u>Upcoming Enhancements: A Major Improvement for Web Applications on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-i-prefer-airpods-to-soundbars-with-my-tv-the-top-four-reasons-explained/"><u>Why I Prefer AirPods to Soundbars with My TV - The Top Four Reasons Explained</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-the-iphone-15-pro-might-be-your-next-best-pick-for-portable-gaming/"><u>Why the iPhone 15 Pro Might Be Your Next Best Pick for Portable Gaming.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/your-iphone-will-host-contacts-list-in-new-app-soon-heres-why-it-matters/"><u>Your iPhone Will Host Contacts List in New App Soon - Here's Why It Matters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/liveship/"><u>ライブシップ(LIVESHIP) ビデオ撮影ガイド: 完全解説</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-effortlessly-faster-fb-videos-a-comprehensive-tools-repository/"><u>[Updated] 2024 Approved Effortlessly Faster FB Videos A Comprehensive Tools Repository</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-join-the-fun-best-gratuitous-meme-tools-available/"><u>[Updated] Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-upload-from-twitter-to-tumblr/"><u>2024 Approved Direct Upload From Twitter to Tumblr</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-your-skills-with-the-top-10-drawing-apps-on-android-platform/"><u>2024 Approved Enhance Your Skills with the Top 10 Drawing Apps on Android Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-s24-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy S24 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-excellence-with-central-luts-for-films/"><u>Achieving Excellence with Central Luts for Films</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-in-academic-writing-friend-or-foe-of-the-aspiring-scholars-craft/"><u>AI in Academic Writing: Friend or Foe of the Aspiring Scholar's Craft?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-reinstalling-your-ios-with-an-icloud-or-itunes-backup/"><u>Complete Guide: Reinstalling Your iOS with an iCloud or iTunes Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-smses-on-ios-and-android-devices/"><u>Complete Guide: Retrieving Lost SMSes on iOS and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-on-apowerrescue-insights-into-capabilities-value-for-money-and-other-options-available/"><u>Comprehensive Guide on ApowerRescue - Insights Into Capabilities, Value for Money & Other Options Available</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-methods-to-retrieve-images-from-your-iphones-backup/"><u>Effective Methods to Retrieve Images From Your iPhone's Backup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-find-x7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Find X7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-your-drenched-iphone-expert-methods-for-preventing-water-harm/"><u>Rescue Your Drenched iPhone - Expert Methods for Preventing Water Harm!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolve-your-iphone-sound-troubles-easily-using-these-6-effective-techniques/"><u>Resolve Your iPhone Sound Troubles Easily Using These 6 Effective Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Demanding the Ultimate Sound Experience with Built-In Volume Buttons for My Future Earbud Case!
-date: 2024-12-22T17:47:35.836Z
-updated: 2024-12-25T00:57:16.624Z
+date: 2024-12-27T22:24:40.468Z
+updated: 2025-01-03T02:13:35.345Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Demanding the Ultimate Sound Experience with Built-In Volume Buttons for My Future Earbud Case!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Built-in volume controls on earbud charging cases could enhance usability and eliminate the need for manual adjustments via a phone.
@@ -23,7 +19,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The CMF Phone 1 looks like a solid budget phone that features a swappable back cover schtick reminiscent of the ancient HTC Tattoo. What caught my eye, though, are the CMF earbuds and their case, which rocks a volume wheel. Now I want my next earbud charging case to have one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on a Charging Case Could Actually Be Useful
@@ -47,7 +43,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![CMF Buds charging case in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-buds.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nothing/CMF
@@ -56,6 +52,10 @@ Nothing/CMF
 
 ![ASUS ROG Falchion Volume Touch bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/asus-rog-falchion-volume-touch-bar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ASUS
 
  Or what about an iPod-like jog dial Apple could slap on the AirPods Pro Gen3 charging case? Imagine an AirPods Pro Gen3 charging case equipped with a touch-based or mechanical jog wheel you can use to adjust the volume and control playback. Something similar to the TinyPod Apple Watch case below, just without the screen.
@@ -63,7 +63,7 @@ ASUS
 ![Three sizes of the TinyPod Apple Watch silicone case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tinypod-apple-watch-silicone-case-all-sizes.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek / TinyPod
@@ -71,7 +71,7 @@ Christian Zibreg / How-To Geek / TinyPod
  In the case of the mechanical variant, the wheel could fit flush with the surface of the charging case and feature a nice and robust tactile feedback that would kick in when you rotate it clockwise and anticlockwise to adjust the sound volume. Tactile volume dials would not only inject a breath of originality and utility into the world of earbud charging cases; they would also bring back a dose of physicality and tactility to the otherwise bland, sterile, and [touch-only smartphone experience](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on My Earbuds’ Charging Case Would Be a Great Fidget Toy
@@ -97,24 +97,14 @@ Christian Zibreg / How-To Geek / TinyPod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-learn-to-sharpen-images-blur-and-excise-background-edges/"><u>[Updated] In 2024, Learn to Sharpen Images Blur and Excise Background Edges</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-stay-secure-how-to-ensure-your-os-receives-latest-updates-and-security-enhancements-tips-from-yl-computing-experts/"><u>1. Stay Secure: How to Ensure Your OS Receives Latest Updates and Security Enhancements – Tips From YL Computing Experts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-dive-deep-into-hdr-creation-the-ultimate-photoshop-playbook/"><u>2024 Approved Dive Deep Into HDR Creation The Ultimate Photoshop Playbook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-top-3-ios-password-managers-discover-secure-applications-to-retrieve-your-stored-login-credentials/"><u>Best Top 3 iOS Password Managers: Discover Secure Applications to Retrieve Your Stored Login Credentials</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-info-unveiling-the-device-lineup-for-ipados-v17/"><u>Essential Info: Unveiling the Device Lineup for iPadOS V17</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-dark-launch-issue-a-guide-to-resolving-complete-blackout-during-monster-hunter-world-boot/"><u>Fixing the Dark Launch Issue: A Guide to Resolving Complete Blackout During Monster Hunter: World Boot</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/galileo-by-gamesir-the-revolutionary-handheld-device-outshining-console-competitors/"><u>Galileo by GameSir: The Revolutionary Handheld Device Outshining Console Competitors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-activate-and-utilize-standby-features-in-ios-17-for-enhanced-iphone-efficiency/"><u>How To Activate and Utilize Standby Features in iOS 17 for Enhanced iPhone Efficiency</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-duplicate-a-drive-currently-in-use-by-windows/"><u>How to Duplicate a Drive Currently In Use by Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-effectively-limit-your-childs-app-usage-on-iphone-and-ipad-a-comprehensive-guide/"><u>How to Effectively Limit Your Child's App Usage on iPhone and iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-secure-your-whatsapp-with-a-strong-password-on-iphone-and-android-devices/"><u>How to Secure Your WhatsApp with a Strong Password on iPhone & Android Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-7-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 7</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-art-of-social-shares-comprehensive-instagram-posting-strategies-for-ultimate-engagement/"><u>Master the Art of Social Shares: Comprehensive Instagram Posting Strategies for Ultimate Engagement</u></a></li>
-<li><a href="https://os-tips.techidaily.com/personalizing-your-iphone-experience-a-step-by-step-guide-to-modifying-fonts-on-your-device/"><u>Personalizing Your iPhone Experience: A Step-by-Step Guide to Modifying Fonts on Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-effortlessly-blurring-images-and-portions-on-your-iphone/"><u>Quick Guide: Effortlessly Blurring Images & Portions on Your iPhone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-guide-digitally-authenticating-exe-msi-and-msp-files-for-enhanced-security/"><u>The Ultimate Guide: Digitally Authenticating EXE, MSI & MSP Files for Enhanced Security</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-hosting-sites-for-online-publishing/"><u>The Ultimate List of Free Video Hosting Sites for Online Publishing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-project-your-iphone-screen-onto-any-television-with-and-without-an-apple-tv/"><u>Ultimate Guide: How to Project Your iPhone Screen Onto Any Television – With and Without an Apple TV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-robotic-skies-varieties/"><u>[Updated] Robotic Skies' Varieties</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic-5-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic 5 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/instantaneous-inspector-of-images-on-windows-for-2024/"><u>Instantaneous Inspector of Images on Windows for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-past-expenditure-for-video-games-explored/"><u>Steam's Past Expenditure for Video Games Explored</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-shift-begins-as-iphones-embrace-universal-usb-c-port-technology/"><u>The Shift Begins as iPhones Embrace Universal USB-C Port Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-14-unnoticed-facetime-functions-boost-your-video-calls-today/"><u>Top 14 Unnoticed FaceTime Functions: Boost Your Video Calls Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-navigation-and-entertainment-apps-compatible-with-carplay/"><u>Top-Rated Navigation & Entertainment Apps Compatible with CarPlay</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-malfunctioning-iphone-touchscreen-effective-solutions/"><u>Troubleshooting a Malfunctioning iPhone Touchscreen: Effective Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-makes-an-ipad-unique-compared-to-other-tablets/"><u>What Makes an iPad Unique Compared to Other Tablets?</u></a></li>
 </ul></div>
 

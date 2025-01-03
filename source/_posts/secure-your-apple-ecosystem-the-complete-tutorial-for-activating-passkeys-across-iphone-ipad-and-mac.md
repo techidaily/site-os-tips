@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac"
-date: 2024-12-20T01:08:37.056Z
-updated: 2024-12-25T02:50:34.021Z
+date: 2025-01-01T00:38:10.399Z
+updated: 2025-01-02T20:33:14.146Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 ---
 
 ## Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  Nobody likes passwords, understandably so. They're tricky to come up with and even trickier to remember, but a new authentication method called "passkeys" could make them a thing of the past. Here's how you can use passkeys to enjoy a password-less experience on your iPhone, iPad, or Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is a Passkey?
 
  Simply put, a [a passkey is a kind of password](https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/) that you don't have to enter, protect, or remember. Sounds great, right? But then, how do you authenticate yourself when signing in to your accounts? Well, by simply unlocking your device.
@@ -35,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  When you log into your account, the website requests to see the private key on your device and checks if it works with the public keys. You authenticate the request using your screen lock method—[Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/), [Touch ID](https://facebook-video-recording.techidaily.com/from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies-for-2024/), or a passcode—and as soon as you do that, you're get signed in to your account. So what used to require entering a username, password, and two-factor authentication code gets reduced to the simple act of unlocking your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Which Apps and Websites Support Passkeys?
 
  While passkeys are clearly the future, they're still in the early days. It will take a while to fully transition to the promised password-less web. But the good news is that adoption is picking up steam, and you can already try out the passkey login experience on many of your favorite websites, including Google, Amazon, Best Buy, Adobe, Microsoft, Instacart, Nintendo, and PayPal.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 [1Password's passkey directory](https://passkeys.directory/) keeps track of all the websites, apps, and services that currently offer passkey login. We should continue to see more and more services adopting passkeys as they grow in popularity. That said, we're not expecting passwords to go away completely anytime soon, given just how deeply ingrained they're in our digital lives. Passwords and passkeys will continue to co-exist for the foreseeable future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create Passkeys on an iPhone, iPad, or Mac
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 * Update to iOS 16, iPadOS 16, macOS Ventura, or tvOS 16, or later.
 * Make sure passkeys are supported by your browser. If you're using Safari or Chrome, you're golden.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  How to Enable Passkeys
 
  First things first. Navigate to Settings > Passwords > Passwords Options. On a Mac, open the System Settings to find this.
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
  Make sure the "Autofill Passwords and Passkeys" toggle is turned on and check "iCloud Passwords & Keychain" is enabled.
 
 ![AutoFill Passwords and Passkeys toggle turned on and iCloud Keychain enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/iphone-password-options.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Create a Passkey
 
@@ -85,13 +89,13 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Passkeys option highlighted under the Security tab in Google Account settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone8-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To generate a new passkey, tap the "Create a Passkey**"** button located at the bottom. Then tap "Continue" to proceed.
 
 ![A button for creating a new passkey highlighted in Google Account dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-on-iphone9-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the next screen, you'll be prompted to save the passkey to iCloud Keychain. Tap "Continue" to authenticate yourself using Face ID or Touch ID. If you haven't set up a biometric option, enter your passcode.
 
@@ -107,17 +111,21 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![Google Account log in screen with the 'Try another way' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the listed options, select "Use Your Passkey."
 
 ![Google Account additional log in options with passkey option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap "Continue." Depending on which unlock method you've set up on your device, you'll be asked to authenticate yourself with Face ID, Touch ID, or your passcode. After doing so, you'll be automatically logged into your account.
 
 ![iOS prompt asking the user if they want to sign in to their Google account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/google-account-passkey-log-in4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  How to Use Passkeys on a Different Device
 
@@ -131,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![iCloud Keychain pop-up asking how would you like to sign in to paypal.com. The option to use passkey from another iPhone, iPad, or Android device is selected and the Continue button is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-2-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should see a QR code appear on the screen.
 
 ![A QR code to sign in with passkey from another iPhone, iPad or Android device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-3-1.png) 
@@ -143,16 +147,12 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![iPhone camera app scanning a QR code with the Sign in with a passkey button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-qr-code-scanning.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap "Continue" to authenticate yourself with Face ID, Touch ID, or your passcode to complete the sign-in process.
 
 ![Prompt asking the user if they want to sign in to their PayPal account with Face ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/passkey-sign-in-ios.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why You Should Be Using Passkeys Whenever Possible
@@ -178,20 +178,21 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-dual-lens-approach-gaining-audience-insight-with-3-pov-strategies-for-youtube-reactions/"><u>[New] 2024 Approved The Dual Lens Approach Gaining Audience Insight with 3 POV Strategies for YouTube Reactions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-evaluating-the-storage-power-of-64128gb-units-for-vids/"><u>[New] In 2024, Evaluating the Storage Power of 64/128GB Units for Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-leading-screen-recorders-for-chrome-os-without-payment-for-2024/"><u>[New] Leading Screen Recorders for Chrome OS Without Payment for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-optimal-gameplayers-for-your-androids-gb-games-for-2024/"><u>[New] Optimal GamePlayers for Your Android's GB Games for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-wise-owls-ultimate-general-knowledge-hubs/"><u>[Updated] In 2024, Wise Owls' Ultimate General Knowledge Hubs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/asus-bw-16d1x-u-blu-ray-writer-a-detailed-review-of-its-charming-aesthetics-and-minor-flaws/"><u>Asus BW-16D1X-U Blu-Ray Writer: A Detailed Review of Its Charming Aesthetics and Minor Flaws</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-c33-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme C33 2023 Fingerprint Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-charging-fails-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Charging Fails: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-does-sideloading-function-on-ios-devices/"><u>How Does Sideloading Function on iOS Devices?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-factory-restore-instructions-for-all-iphones-from-model-4-through-15/"><u>Step-by-Step Factory Restore Instructions for All iPhones From Model 4 Through 15</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-displaying-an-ipad-screen-on-windows-10-11-8-or-7-computers/"><u>Step-by-Step Instructions for Displaying an iPad Screen on Windows 10, 11, 8 or 7 Computers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620276316-the-ultimate-list-of-no-cost-sms-services-sendreceive-messages-using-any-device/"><u>The Ultimate List of No-Cost SMS Services: Send/Receive Messages Using Any Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-tips-how-to-resolve-iphone-alarm-issues/"><u>Ultimate Troubleshooting Tips: How to Resolve iPhone Alarm Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unearthing-hidden-ai-advantages-top-5-unused-chatgpt-features/"><u>Unearthing Hidden AI Advantages: Top 5 Unused ChatGPT Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-comprehensive-guide-evaluating-the-best-portable-power-station-options/"><u>ZDNet's Comprehensive Guide: Evaluating the Best Portable Power Station Options</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-professional-level-communication-on-skype/"><u>[New] In 2024, Professional-Level Communication on Skype</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-experience-with-youtubes-comment-features/"><u>[Updated] Streamline Your Experience with YouTube's Comment Features</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/approach/"><u>Approach</u></a></li>
+<li><a href="https://win-online.techidaily.com/crea-file-webm-da-convertitore-m4a-online-gratuito-con-movavi/"><u>Crea File WebM Da Convertitore M4A OnLine Gratuito Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-secrets-of-god-mode-in-windows-11/"><u>Discovering the Secrets of God Mode in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterful-crypto-communication-top-10-gpt-powered-conversation-starters/"><u>Masterful Crypto Communication: Top 10 GPT-Powered Conversation Starters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-smartphones-the-alluring-titanium-and-cutting-edge-usb-c-of-apples-new-iphone-15-pro-unveiled/"><u>Revolutionizing Smartphones: The Alluring Titanium and Cutting-Edge USB-C of Apple's New iPhone 15 Pro Unveiled!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-guide-reflecting-your-iphone-display-onto-mac-with-ease/"><u>Seamless Guide: Reflecting Your iPhone Display Onto Mac with Ease</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sink-or-swim-with-confidence-the-ultimate-iphone-protection-in-apples-premium-waterproof-case/"><u>Sink or Swim with Confidence: The Ultimate iPhone Protection in Apple's Premium Waterproof Case</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-download-and-setup-of-amd-radeon-rx-590-software-for-windows-users/"><u>Step-by-Step Download and Setup of AMD Radeon RX 590 Software for Windows Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-capturing-your-sms-exchange-on-screen/"><u>Step-by-Step Guide: Capturing Your SMS Exchange on Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlined-smartphone-use-how-modifying-iphone-configurations-can-enhance-daily-convenience/"><u>Streamlined Smartphone Use: How Modifying iPhone Configurations Can Enhance Daily Convenience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/tech-giant-apple-prepares-grand-reveals-for-its-2024-wwdc-scheduled-in-june-highlight/"><u>Tech Giant Apple Prepares Grand Reveals for Its 2024 WWDC, Scheduled in June Highlight</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-race-in-silicon-valley-measuring-the-performance-leap-from-apples-a16-to-a17-chipset/"><u>The Race in Silicon Valley: Measuring the Performance Leap From Apple's A16 to A17 Chipset</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-the-past-a-step-by-step-for-downloadable-facebook-logs/"><u>Unlocking the Past: A Step-by-Step for Downloadable Facebook Logs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-learn-hotkeys-to-manage-your-pc/"><u>Windows Wizardry: Learn Hotkeys to Manage Your PC</u></a></li>
 </ul></div>
 

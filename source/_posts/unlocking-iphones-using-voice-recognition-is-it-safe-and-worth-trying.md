@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2024-12-20T01:41:35.240Z
-updated: 2024-12-24T17:10:40.940Z
+date: 2024-12-28T19:37:16.524Z
+updated: 2025-01-03T01:25:04.889Z
 tags:
   - ios
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ## Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Unlocking Your iPhone With Your Voice](https://instagram-videos.techidaily.com/updated-instagram-voice-customization-made-easy/)
 * [Why Voice Unlocking Is a Bad Idea](https://howto.techidaily.com/infinix-hot-40-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Solving Face ID Issues](https://tech-savvy.techidaily.com/the-comprehensive-guide-to-scholarly-writing-and-ai/)
 * [Unlock Your iPhone With an Apple Watch, Too](https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,26 +41,22 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Mark passcode on iPhone lock screen (example)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_passcode-2-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Head back to Settings > Accessibility > Voice Control, tap on "Customize Commands" followed by "Create New Command..." and type (or speak) the phrase you want to use.
 
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap on "Action" then select "Run Custom Gesture" and (using the marks you made earlier) tap out the unlock sequence used to enter your passcode. Now tap "Save" and then hit the "New Command" button to go back to the previous screen. Hit "Save" one more time and your gesture will be saved.
 
 ![Run custom gesture using Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/run_custom_gesture.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Voice Unlocking Is a Bad Idea
 
@@ -72,6 +68,10 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
  This technique is often touted as a way to unlock your iPhone when your hands are dirty, but if you're unlocking your iPhone you're probably going to touch the screen anyway. Don't forget you can always enable Siri from the lock screen under Settings > Siri & Search > Allow Siri When Locked and enable "Hey Siri" while you're there to use your iPhone hands-free without bypassing your passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Solving Face ID Issues
 
  Another argument for this voice command is to solve problems that arise from [Face ID not working properly](https://extra-support.techidaily.com/new-premium-panzoid-structure-packs/). Unlocking your iPhone using facial recognition is fast and convenient, and you should use the feature if you have an iPhone that supports it. If you're having trouble, you might want to try re-scanning your appearance under Settings > Face ID & Passcode > Reset Face ID.
@@ -80,11 +80,11 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
 
- Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
 
 ##  Unlock Your iPhone With an Apple Watch, Too
 
@@ -107,20 +107,19 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-navigating-the-multi-stream-experience-on-netflix/"><u>[New] In 2024, Navigating the Multi-Stream Experience on Netflix</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unbound-zen-audio-releases/"><u>[New] In 2024, Unbound Zen Audio Releases</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-windows-11-photos-implement-filters-and-playlist-features/"><u>[New] Perfecting Windows 11 Photos Implement Filters and Playlist Features</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfecting-online-presentations-with-googles-whiteboard-tools-on-multiple-platforms/"><u>[Updated] In 2024, Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-look-back-the-evolution-of-apple-watch-ultra-after-its-first-year-in-the-market/"><u>A Look Back: The Evolution of Apple Watch Ultra After Its First Year in the Market</u></a></li>
-<li><a href="https://os-tips.techidaily.com/activating-your-iphones-flashlight-with-a-simple-tap-on-the-back-a-comprehensive-guide/"><u>Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-solutions-win-discover-why-a-cost-effective-phone-stand-should-be-on-your-radar/"><u>Affordable Solutions Win: Discover Why a Cost-Effective Phone Stand Should Be on Your Radar</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breaking-barriers-how-the-iphone-is-expanding-globally-while-maintaining-its-presence-in-the-us/"><u>Breaking Barriers: How the iPhone Is Expanding Globally While Maintaining Its Presence in the U.S.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/choosing-between-mid-tier-android-and-aged-iphone-models-why-opting-for-the-iphone-could-be-wiser/"><u>Choosing Between Mid-Tier Android and Aged iPhone Models: Why Opting for the iPhone Could Be Wiser</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-apples-nomad-base-one-max-the-ultimate-3-in-1-magsafe-charging-solution-review/"><u>Comprehensive Analysis of Apple's Nomad Base One Max: The Ultimate 3-in-1 MagSafe Charging Solution Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/critical-security-update-available-for-iphone-ipad-and-mac-install-now-to-protect-your-device/"><u>Critical Security Update Available for iPhone, iPad, and Mac - Install Now to Protect Your Device!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-release-of-over-600-tailored-apps-for-apples-upcoming-vision-pro-headset-revealed-by-zdnet/"><u>Exclusive Release of Over 600 Tailored Apps for Apple's Upcoming Vision Pro Headset Revealed by ZDNET</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-repurpose-images-and-videos/"><u>Instagram Repurpose Images & Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165142774-overheat-no-more-top-accessories-listed/"><u>Overheat No More: Top Accessories Listed!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-hidden-paths-to-pristine-stock-photography/"><u>The Hidden Paths to Pristine Stock Photography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-swift-ways-to-reorder-youtube-watchlist-alphabetically/"><u>[Updated] 2024 Approved Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
+<li><a href="https://article-posts.techidaily.com/beyond-tiktok-horizons-the-essence-of-triller-for-2024/"><u>Beyond TikTok Horizons The Essence of Triller for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fast-track-your-missing-iphone-clips-back-a-step-by-step-strategy-to-recover-deleted-videos-swiftly/"><u>Fast Track Your Missing iPhone Clips Back: A Step-by-Step Strategy to Recover Deleted Videos Swiftly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/framebyframe-faceoff-for-2024/"><u>FrameByFrame Faceoff for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-download-to-usage-setting-up-obs-on-a-mac/"><u>From Download to Usage Setting Up OBS on a Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-effortless-techniques-to-share-igtv-in-stories/"><u>In 2024, Effortless Techniques to Share IGTV in Stories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/no-backup-no-problem-mastering-the-art-of-retrieving-deleted-iphone-contact-details-easily/"><u>No Backup? No Problem! Mastering the Art of Retrieving Deleted iPhone Contact Details Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-80-pro-straight-screen-edition-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor 80 Pro Straight Screen Edition Phone Now with These Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reclaim-your-memories-effective-strategies-for-finding-and-restoring-missing-videos-on-ios-devices/"><u>Reclaim Your Memories: Effective Strategies for Finding and Restoring Missing Videos on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resurrecting-missed-contacts-expert-strategies-for-retrieving-deleted-data-in-your-itunes-backup-archive/"><u>Resurrecting Missed Contacts: Expert Strategies for Retrieving Deleted Data in Your iTunes Backup Archive</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-memories-step-by-step-guide-to-retrieving-iphoneipad-images-from-an-itunes-backup/"><u>Reviving Your Memories: Step-by-Step Guide to Retrieving iPhone/iPad Images From an iTunes Backup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-meta-quest-price-predictions-expected-arrival-date-and-insider-info-on-tech-specs/"><u>The Future of Meta Quest: Price Predictions, Expected Arrival Date, and Insider Info on Tech Specs</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-10-artificial-intelligence-image-enhancers-transform-your-pics-into-ultra-high-resolution/"><u>Top 10 Artificial Intelligence Image Enhancers: Transform Your Pics Into Ultra-High Resolution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-iphone-apps-for-effective-data-recovery-and-restoration-of-lost-files/"><u>Top 5 iPhone Apps for Effective Data Recovery & Restoration of Lost Files</u></a></li>
 </ul></div>
 

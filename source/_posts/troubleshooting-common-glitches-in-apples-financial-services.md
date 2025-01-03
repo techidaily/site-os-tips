@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common Glitches in Apple's Financial Services
-date: 2024-12-18T22:55:44.813Z
-updated: 2024-12-24T22:42:27.342Z
+date: 2024-12-30T16:18:50.753Z
+updated: 2025-01-02T19:27:16.513Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
@@ -54,18 +54,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-favorite-frames-most-engaged-ig-filters/"><u>[New] Favorite Frames Most Engaged IG Filters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-editors-guide-to-powerful-notebooks-and-more/"><u>[New] The Editor's Guide to Powerful Notebooks and More</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-visionarys-toolkit-for-personalized-animation-techniques-for-2024/"><u>[New] The Visionary's Toolkit for Personalized Animation Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ps4-live-recording-made-simple-with-obs-tutorial/"><u>[Updated] 2024 Approved PS4 Live Recording Made Simple with OBS Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-from-chaos-to-clarity-combining-obs-with-zoom/"><u>In 2024, From Chaos to Clarity Combining OBS with Zoom</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-iphone-restarts-an-in-depth-look-at-both-soft-and-factory-reset-procedures/"><u>Mastering iPhone Restarts: An In-Depth Look at Both Soft and Factory Reset Procedures</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/online-ogg-a-wmv-senza-costi-la-guida-completa-per-convertire-file-utilizzando-il-servizio-web-di-movavi/"><u>Online OGG a WMV Senza Costi: La Guida Completa per Convertire File Utilizzando Il Servizio Web Di Movavi</u></a></li>
-<li><a href="https://article-tips.techidaily.com/secrets-of-earning-big-reddits-13-money-makers/"><u>Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-siri-the-ultimate-10-step-solution-for-iphone-users-full-step-by-step-guide/"><u>Troubleshooting Siri: The Ultimate 10-Step Solution for iPhone Users – Full Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-google-pixel-8-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Google Pixel 8 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-to-your-laptop-touchpad-stuck-situation-today/"><u>Unlock the Solution to Your Laptop Touchpad Stuck Situation Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/utilizing-emoji-and-sticker-features-for-enhanced-messaging-on-ios-10/"><u>Utilizing Emoji & Sticker Features for Enhanced Messaging on iOS 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-insights-from-viewing-data-on-youtube/"><u>[New] 2024 Approved Earning Insights From Viewing Data on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-prime-mkv-software-pc-and-android/"><u>2024 Approved Prime MKV Software PC & Android</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazonbasics-tripod-review-for-aspiring-photographers/"><u>AmazonBasics Tripod Review for Aspiring Photographers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exclusive-features-of-ios-18-limited-by-phone-model-ensure-iphone-12-or-newer-to-enjoy-them-all/"><u>Exclusive Features of iOS 18 Limited by Phone Model – Ensure iPhone 12 or Newer to Enjoy Them All</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expect-the-unexpected-apples-highly-awaited-surprises-set-to-shine-at-may-7th-ipad-launch-event/"><u>Expect the Unexpected: Apple's Highly-Awaited Surprises Set to Shine at May 7Th iPad Launch Event</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-a-leap-forward-with-the-latest-upgrades-to-protonmail-and-protoncalendar-now-with-38-new-features/"><u>Experience a Leap Forward with the Latest Upgrades to ProtonMail and ProtonCalendar - Now with 38 New Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-classic-games-anew-with-delta-retro-emulator-just-launched-on-ios/"><u>Experience Classic Games Anew with Delta Retro Emulator, Just Launched on iOS!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-hidden-gems-in-facetime-14-underrated-tips-for-better-connections/"><u>Explore Hidden Gems in FaceTime - 14 Underrated Tips for Better Connections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-buffering-issues-during-discord-live-broadcasts/"><u>How to Fix Continuous Buffering Issues During Discord Live Broadcasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-google-pixel-8-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Google Pixel 8 Phones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138566329-9781984824158-the-secret-therapy-of-trees/"><u>The Secret Therapy of Trees | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-free-video-converters-para-windows-10-explicado-su-eficiencia-demostrada/"><u>Top 6 Free Video Converters Para Windows 10 Explicado - Su Eficiencia Demostrada</u></a></li>
 </ul></div>
 
