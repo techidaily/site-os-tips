@@ -1,7 +1,7 @@
 ---
 title: "Issues with Apple Card & Apple Pay: A Comprehensive Look"
-date: 2024-12-27T06:03:16.126Z
-updated: 2025-01-02T20:52:30.608Z
+date: 2025-01-06T02:11:20.502Z
+updated: 2025-01-10T03:30:42.459Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
@@ -54,18 +54,22 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-combine-audio-and-video-web-space/"><u>2024 Approved Combine Audio and Video Web Space</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-sound-blaster-z-drivers-seamlessly-for-windows-10-systems/"><u>Download the Sound Blaster Z Drivers Seamlessly for Windows 10 Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elevate-your-video-call-experience-with-the-best-live-recording-gadgets/"><u>In 2024, Elevate Your Video Call Experience with The Best Live Recording Gadgets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hunt-down-these-10-vectors-stock-image-websites/"><u>In 2024, Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/seamless-video-tweaks-integrating-story-remix-into-windows-10-photos/"><u>Seamless Video Tweaks Integrating Story Remix Into Windows 10 Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-pairing-process-for-airpods-and-windows-pcs/"><u>Streamlined Pairing Process for AirPods and Windows PCs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-experience-with-a-49-inch-curved-oled-game-monitor-by-phillips-evonia/"><u>The Ultimate Experience with a 49-Inch Curved OLED Game Monitor by Phillips Evonia</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-4-desired-functionalities-for-leveraging-my-synthetic-voice-on-ios-devices-by-apple/"><u>Top 4 Desired Functionalities for Leveraging My Synthetic Voice on iOS Devices by Apple</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-ipad-stand-picks-find-your-perfect-match/"><u>Top-Rated iPad Stand Picks : Find Your Perfect Match</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-small-form-factor-pc-cases-the-ultimate-list-for-2eetuy-2024/"><u>Top-Rated Small Form Factor PC Cases - The Ultimate List for 2Eetuy 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transform-your-browsing-with-vivaldi-for-iphoneipad-unveiling-stylish-themes-and-powerful-dark-mode-options/"><u>Transform Your Browsing with Vivaldi for iPhone/iPad - Unveiling Stylish Themes & Powerful Dark Mode Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-how-to-resolve-iphones-message-failed-to-download-from-server-issue/"><u>Troubleshooting Guide: How to Resolve iPhone's 'Message Failed to Download From Server' Issue</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-the-secret-how-an-affordable-stand-is-essential-for-your-smartphone/"><u>Unlocking the Secret: How an Affordable Stand Is Essential for Your Smartphone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-visioncapture-x-high-quality-edition/"><u>[New] In 2024, VisionCapture X High-Quality Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-disruptive-beats-curated-list-of-music-mutators/"><u>[Updated] Disruptive Beats Curated List of Music Mutators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-denial-of-your-creditdebit-card-6-methods-to-try/"><u>Bypassing Apple’s Denial of Your Credit/Debit Card – 6 Methods to Try</u></a></li>
+<li><a href="https://os-tips.techidaily.com/cant-remember-your-ios-device-lock-code-easy-solutions-for-accessing-your-phone/"><u>Can't Remember Your iOS Device Lock Code? Easy Solutions for Accessing Your Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-excellence-with-apple-m1-2020-redefining-arm-powered-computing-today/"><u>Experience Excellence with Apple (M1, 2020) - Redefining ARM-Powered Computing Today!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-the-issue-iphone-frozen-during-ios-1817-software-upgrade/"><u>Fixing the Issue: IPhone Frozen During iOS 18/17 Software Upgrade</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts/"><u>From Footage to Narrative The Essential Guide to Instagram Descriptive Texts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-10t-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 10T 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-desktop-image-merging-tips/"><u>In 2024, Professional Desktop Image Merging Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safely-recovering-touch-id-and-settings-icons-on-an-iphone-a-step-by-step-tutorial/"><u>Safely Recovering Touch ID and Settings Icons on an iPhone: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-why-wont-my-iphone-pair-with-itunes-and-how-to-repair-the-link/"><u>Step-by-Step Solution: Why Won’t My iPhone Pair with iTunes & How to Repair the Link</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-x8b-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor X8b Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-itunes-error-2-across-different-windows-versions-including-11-8-7-vista-and-xp/"><u>Troubleshooting iTunes Error 2 Across Different Windows Versions Including 11, 8, 7, Vista, and XP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncover-7-proven-fixes-for-when-your-iphone-fails-to-ringu-understanding-causes-and-remedies/"><u>Uncover 7 Proven Fixes for When Your iPhone Fails to Ringu: Understanding Causes and Remedies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-your-ios-device-top-5-methods-to-circumvent-the-iphone-lock-screen-without-accessing-siri/"><u>Unlock Your iOS Device: Top 5 Methods to Circumvent the iPhone Lock Screen Without Accessing Siri</u></a></li>
 </ul></div>
 

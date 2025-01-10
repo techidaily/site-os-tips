@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
-date: 2024-12-31T21:24:24.614Z
-updated: 2025-01-03T01:35:58.349Z
+date: 2025-01-03T00:04:35.283Z
+updated: 2025-01-09T16:55:13.676Z
 tags:
   - ios
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Is your Apple TV remote not working? Are you trying to pair a new remote, or use your old remote with a different unit? Let’s fix the mess so you can go back to streaming your favorite shows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pair an Apple TV Remote
 
  If you need to pair an Apple TV remote with your Apple TV unit, whether it’s a new one or a spare one that you’ve picked up from somewhere, you can do so by putting your remote into pairing mode.
@@ -30,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, make sure your Apple TV is on. The easiest way to do this when you don’t have a remote connected is to simply unplug the Apple TV unit from the wall and plug it back in again. It’ll take a moment to start up, after which you’ll see the usual array of apps on the dashboard.
 
 ![Apple TV dashboard with YouTube selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_dash.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now take the remote that you want to pair and make sure you’re within three inches of the streaming box. With the remote pointed at your Apple TV unit, press and hold the Back “<“ or Menu button and the Volume Up “+” button at the same time for five seconds.
 
@@ -40,7 +40,7 @@ Tim Brookes / How-To Geek
  You may be asked to place your remote on top of the Apple TV unit to complete the pairing unit. Once you’re done, you should be able to use your remote as normal to wake, control, and sleep your Apple TV unit (and you won’t need to pair it again, even if it runs out of battery).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset an Apple TV Remote
@@ -52,7 +52,7 @@ Tim Brookes / How-To Geek
 ![Apple TV remote reset combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_tv-vol_down.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -61,14 +61,6 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote disconnected message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_disconnected.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Unpair an Apple TV Remote
 
  There is no way to unpair an Apple TV remote from an Apple TV unit. This can present a problem if you have multiple Apple TV units and you want to migrate one remote to the other, for whatever reason. Fortunately, you can work around this limitation and effectively “hijack” the remote so that it works on your desired Apple TV.
@@ -76,6 +68,10 @@ Tim Brookes / How-To Geek
  First, make sure that the “old” Apple TV unit is powered off and unplugged. Next, make sure that your remote is within three inches of the “new” Apple TV unit you want to pair it with. Now all you need to do is follow the usual pairing instructions by pressing and holding the Back “<“ or Menu button and the Volume Up “+” button for five seconds and following any on-screen instructions.
 
 ![Apple TV remote connected notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_connected.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once complete, the remote will be paired with your desired Apple TV. Since a remote can only be paired with a single Apple TV unit at a time, it should no longer control the previous unit. If you want to migrate the remote back, you’ll need to follow this process again.
 
@@ -103,13 +99,13 @@ Tim Brookes / How-To Geek
 
 ![Selecting an Apple TV to control in the iPhone Remote app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t see your Apple TV listed, you can try waking it by restarting it (unplug it and then plug it back in, and wait for it to boot) and then selecting the Apple TV when it appears in the app. You may need to pair the iPhone, just follow any on-screen instructions.
 
  Once connected you can use the trackpad interface just as you would your normal remote. You also have access to playback controls, a back button, and the TV or Control Center button plus a power button at the top of the screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Try Updating Your Apple TV
 
@@ -118,6 +114,10 @@ Tim Brookes / How-To Geek
 ![Updating the tvOS software on an Apple TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_update_software2.png) 
 
  With your iPhone or iPad connected as a remote, navigate to Settings > System > Software Updates and install any outstanding updates. The Apple TV will restart, after which you can try using (or pairing) your remote again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Control Your Apple TV with a TV or Universal Remote
 
@@ -137,11 +137,11 @@ Tim Brookes / How-To Geek
 
 ![View vvailable game controllers on an Apple TV via Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_game_controller-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After pairing, your controller should stay paired with your Apple TV, depending on which pad you’re using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Consider Replacing the Remote
 
@@ -164,19 +164,16 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-chortlecove-app-where-laughter-thrives-online/"><u>[New] 2024 Approved ChortleCove App - Where Laughter Thrives Online</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-silence-the-algorithmic-intrusions-on-ig/"><u>[New] 2024 Approved Silence the Algorithmic Intrusions on IG</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-swipe-to-enhance-turning-videos-upside-down-for-2024/"><u>[New] Swipe to Enhance Turning Videos Upside Down for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-converting-tiktok-audio-into-desired-mobile-ringtones/"><u>[Updated] 2024 Approved Converting TikTok Audio Into Desired Mobile Ringtones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-best-camcorders-featuring-direct-faceviewing/"><u>[Updated] Best Camcorders Featuring Direct FaceViewing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-ringtones-guide-top-downloads/"><u>2024 Approved Ultimate Ringtones Guide Top Downloads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/4-simple-methods-to-securely-sync-and-backup-your-iphone-data-with-icloud-itunes-and-computer/"><u>4 Simple Methods to Securely Sync and Backup Your iPhone Data with iCloud, iTunes & Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-list-of-top-5-complimentary-iphone-backup-retrieval-software-options/"><u>Discover the Ultimate List of Top 5 Complimentary iPhone Backup Retrieval Software Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-text-preservation-a-user-friendly-approach-to-sms-data-backup-solutions/"><u>Effortless Text Preservation: A User-Friendly Approach to SMS Data Backup Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-overcoming-iphone-backup-restoration-problems-on-models-7-8-and-8plus/"><u>Expert Tips for Overcoming iPhone Backup Restoration Problems on Models 7, 8 & 8+</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-text-messages-and-media-files-from-an-ios-devices-itunes-backup/"><u>How to Recover Text Messages and Media Files From an iOS Device's iTunes Backup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/live-stream-success-tackling-common-2023-interruption-cases-in-fb/"><u>Live Stream Success Tackling Common 2023 Interruption Cases in FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-connectivity-a-step-by-step-strategy-for-adding-additional-ports-to-your-macbook-or-ipad-pro-expert-advice/"><u>Maximizing Connectivity: A Step-by-Step Strategy for Adding Additional Ports to Your MacBook or iPad Pro | Expert Advice</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-soundscape-synthesis-studio-mac-basics-for-2024/"><u>[New] Soundscape Synthesis Studio Mac Basics for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>2024 Approved Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-move-books-from-an-iphone-to-a-windows-pc-a-step-by-step-dearmob-tutorial/"><u>How to Move Books From an iPhone to a Windows PC: A Step-by-Step DearMob Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-managing-itunes-seamless-iphone-ipad-and-ipod-restoration-on-pc-with-dearmobs-step-by-step-instructions/"><u>Master Managing iTunes: Seamless iPhone, iPad, and iPod Restoration on PC with DearMob's Step-by-Step Instructions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/professional-level-iphone-video-duplication-three-simple-techniques/"><u>Professional-Level iPhone Video Duplication: Three Simple Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-windows-interface-extensiveness/"><u>Reduce Windows Interface Extensiveness</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-efficiently-changing-your-iphone-email-password-ideal-for-novices-and-experts-alike/"><u>Step-by-Step Tutorial: Efficiently Changing Your iPhone Email Password - Ideal for Novices and Experts Alike</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-role-of-voice-in-visual-content-for-2024/"><u>The Essential Role of Voice in Visual Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformer-movie-saga-watch-in-sequence-for-ultimate-experience/"><u>Transformer Movie Saga: Watch in Sequence for Ultimate Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-worlds-reimagined-the-most-spectacular-sci-fi-films-of-the-metaverse-era/"><u>Virtual Worlds Reimagined The Most Spectacular Sci-Fi Films of the Metaverse Era</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728470839365-windows-pcsd/"><u>Windows PC上で利用可能な安全な方法：SDカードの復元手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2024-12-28T16:41:39.026Z
-updated: 2025-01-03T05:40:46.642Z
+date: 2025-01-06T23:17:40.653Z
+updated: 2025-01-09T17:19:08.883Z
 tags:
   - ios
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  User ratings and reviews help developers improve their apps but nagging users with in-app pop-ups asking for reviews or ratings isn't acceptable. Thankfully, Apple lets you turn off these pesky rating and review requests on your iPhone and Mac. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad
@@ -30,20 +30,16 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![iPhone Settings app with App Store highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down to locate the "In-App Ratings & Reviews" option. Then, flip the toggle switch next to it off.
 
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
@@ -55,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![Accessing App Store Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-3-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the "Settings" window, uncheck the checkbox next to "In-App Ratings & Reviews."
 
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -81,21 +81,19 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-around-youtubes-restrictions/"><u>[New] 2024 Approved Navigating Around Youtube's Restrictions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-leading-techniques-for-youtube-mpeg-migration-for-2024/"><u>[Updated] Leading Techniques for YouTube MPEG Migration for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>[Updated] Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tune-into-success-with-instagram-soundscapes/"><u>2024 Approved Tune Into Success with Instagram Soundscapes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/avoiding-unnecessary-storage-use-halting-whatsapp-sync-on-mobile-phones/"><u>Avoiding Unnecessary Storage Use: Halting WhatsApp Sync on Mobile Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-safeguard-phone-information-iphones-and-androids/"><u>Comprehensive Steps to Safeguard Phone Information: IPhones and Androids</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620204212-expert-tips-for-overcoming-iphone-backup-restoration-problems-on-models-7-8-and-8plus/"><u>Expert Tips for Overcoming iPhone Backup Restoration Problems on Models 7, 8 & 8+!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/humor-haven-memes-for-iphones/"><u>Humor Haven Memes for iPhones</u></a></li>
-<li><a href="https://solve-news.techidaily.com/navigating-gpu-accelerated-video-encoding-with-handbrake-essential-qandas-unveiled/"><u>Navigating GPU-Accelerated Video Encoding with HandBrake: Essential Q&As Unveiled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-13-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 13 mini Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-applications-for-viewing-and-analyzing-your-iphones-backup-data/"><u>Top Rated Applications for Viewing and Analyzing Your iPhone's Backup Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-iphones-icloud-backup-restoration/"><u>Troubleshooting Steps: Resolving Issues with iPhone's iCloud Backup Restoration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-on-securely-backing-up-your-iphone-to-a-computer-itunes-optional/"><u>Ultimate Tutorial on Securely Backing Up Your iPhone to a Computer, ITunes Optional!</u></a></li>
-<li><a href="https://facebook.techidaily.com/uniting-the-masses-a-step-by-step-for-full-group-features-on-fb/"><u>Uniting the Masses: A Step-by-Step for Full Group Features on FB</u></a></li>
-<li><a href="https://os-tips.techidaily.com/whatsapp-icloud-backup-not-uploading-here-are-11-swift-fixes-for-when-you-hit-a-roadblock-with-0-bytes/"><u>WhatsApp iCloud Backup Not Uploading? Here Are 11 Swift Fixes for When You Hit a Roadblock with 0 Bytes</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-13-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 13 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-script-to-screen-crafting-your-unique-youtube-tale/"><u>[New] In 2024, From Script to Screen Crafting Your Unique YouTube Tale</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-visual-stories-from-vids-to-interactive-gifs/"><u>[Updated] 2024 Approved Tweeting Visual Stories From Vids to Interactive GIFs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-a-treasure-trove-sifting-through-the-top-10-economical-online-art-hubs/"><u>[Updated] A Treasure Trove Sifting Through the Top 10 Economical Online Art Hubs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-guide-to-adding-snapchat-on-your-macbook-for-2024/"><u>[Updated] Quick Guide to Adding Snapchat on Your MacBook for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-windows-photo-viewer-restoration-guide-for-11-users/"><u>[Updated] Windows Photo Viewer Restoration Guide for 11 Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-k11x-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo K11x PC | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/billboard-music-awards-2022-live-performance-full-hd-streaming-and-download/"><u>Billboard Music Awards 2022 Live Performance - Full HD Streaming and Download</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-ocr-functionality-on-ios-devices-insights-into-operations-of-ocr-in-ios-18-and-17/"><u>Decoding OCR Functionality on iOS Devices: Insights Into Operations of OCR in iOS 18 and 17</u></a></li>
+<li><a href="https://os-tips.techidaily.com/generate-unique-free-ipad-admin-login-credentials-at-no-cost/"><u>Generate Unique, Free iPad Admin Login Credentials at No Cost</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-connecting-your-ipad-to-a-pc-via-screen-mirroring-on-windows-versions/"><u>Guide: Connecting Your iPad to a PC via Screen Mirroring on Windows Versions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-rebooting-your-apple-watch-withwithout-the-help-of-an-iphone/"><u>Step-by-Step Guide: Rebooting Your Apple Watch With/Without the Help of an iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-vids-made-easy-and-free-to-gif-transformation-for-2024/"><u>Tweet Vids Made Easy & Free To GIF Transformation for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-and-configuring-ios-17-standby-mode-on-your-iphone-a-step-by-step-guide/"><u>Understanding and Configuring iOS 17 Standby Mode on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-mms-a-comprehensive-guide-on-activating-multimedia-messaging/"><u>Unlocking the Power of MMS: A Comprehensive Guide on Activating Multimedia Messaging</u></a></li>
 </ul></div>
 

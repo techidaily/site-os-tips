@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2024-12-28T23:45:23.878Z
-updated: 2025-01-02T17:34:55.778Z
+date: 2025-01-07T17:20:10.052Z
+updated: 2025-01-10T00:24:01.094Z
 tags:
   - ios
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ## Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The Quick Fix: Turn on "Do Not Disturb" Mode](https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-by-fonelab-android-recover-music/)
 * [The Deeper Fix: Disable Notifications on Lock Screen](https://vp-tips.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 * If you don't want to use "Do Not Disturb," disable lock screen notifications individually for each app in your device's notification settings. Open Settings, tap "Notifications," select the app, and uncheck the "Lock Screen" option.
 
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
 
@@ -39,10 +35,14 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Deeper Fix: Disable Notifications on Lock Screen
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Settings, tap "Notifications."
@@ -67,13 +67,13 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![We selected the Messages app in the Notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-messages.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the app's notification settings, tap "Lock Screen" to uncheck it.
 
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
 
@@ -94,22 +94,19 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boosting-visibility-key-steps-in-submitting-on-reddit/"><u>[New] Boosting Visibility Key Steps in Submitting on Reddit</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes/"><u>[Updated] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>[Updated] Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-insiders-approach-to-webinar-preservation/"><u>2024 Approved Insider's Approach to Webinar Preservation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-lost-information-from-your-iphones-sd-card/"><u>Complete Guide: Retrieving Lost Information From Your iPhone's SD Card</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-step-by-step-guide-how-to-safely-restore-your-iphone-without-losing-any-data/"><u>Complete Step-by-Step Guide: How to Safely Restore Your iPhone Without Losing Any Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/default-methods-to-retrieve-accidentally-deleted-facebook-messenger-conversations-a-step-by-step-guide/"><u>Default Methods to Retrieve Accidentally Deleted Facebook Messenger Conversations: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/finding-ways-to-retrieve-lost-phone-numbers-from-your-iphone-even-without-a-previous-copy/"><u>Finding Ways to Retrieve Lost Phone Numbers From Your iPhone, Even without a Previous Copy</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 13 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/ideal-app-selection-top-10-tools-for-instagram-reel-excellence-for-2024/"><u>Ideal App Selection Top 10 Tools for Instagram Reel Excellence for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-imessages-top-tips-for-secure-backups-and-must-have-utilities-on-ios-devices/"><u>Maximize Your iMessages: Top Tips for Secure Backups and Must-Have Utilities on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-lost-or-hidden-conversations-three-methods-for-restoring-deleted-facebook-messenger-messages-on-iphone/"><u>Recover Lost or Hidden Conversations: Three Methods for Restoring Deleted Facebook Messenger Messages on iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restoring-lost-iphone-messages-through-itunes-expert-tips-and-tricks/"><u>Restoring Lost iPhone Messages Through iTunes: Expert Tips & Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieving-accidentally-deleted-photos-on-your-ipod-touch-effective-strategies-and-tools/"><u>Retrieving Accidentally Deleted Photos on Your iPod Touch – Effective Strategies and Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-playlist-construction-on-youtube-for-2024/"><u>The Art of Playlist Construction on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/transform-your-social-media-image-best-tools-for-professional-fb-cover-photos-for-2024/"><u>Transform Your Social Media Image Best Tools for Professional FB Cover Photos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ace-guide-to-constructing-virtual-classroom-headlines-for-2024/"><u>[New] Ace Guide to Constructing Virtual Classroom Headlines for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-master-quick-photo-collage-with-google-images-in-minutes-for-2024/"><u>[Updated] Master Quick Photo Collage with Google Images in Minutes for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-maximizing-exposure-the-art-of-applying-youtube-tags/"><u>2024 Approved Maximizing Exposure The Art of Applying YouTube Tags</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/iconic-tricks-from-the-80s-for-stunning-videos/"><u>Iconic Tricks From the '80S for Stunning Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-automate-playlist-retrieval-from-youtube-directly/"><u>In 2024, Automate Playlist Retrieval From YouTube Directly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unraveling-the-best-video-formats-for-youtube-success/"><u>In 2024, Unraveling the Best Video Formats for YouTube Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mkv-mastery-top-mac-apps-for-2024/"><u>MKV Mastery Top Mac Apps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-essentials-seamless-audio-switching/"><u>Premier Essentials Seamless Audio Switching</u></a></li>
+<li><a href="https://os-tips.techidaily.com/remove-pictures-from-your-whatsapp-chat-top-5-easy-methods-for-iphone-and-android-users/"><u>Remove Pictures From Your WhatsApp Chat: Top 5 Easy Methods for iPhone & Android Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-erasing-your-entire-snapchat-message-and-chat-records/"><u>Step-by-Step Guide: Erasing Your Entire Snapchat Message and Chat Records</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stuck-iphone-charge-display-quick-and-effective-solutions-to-resolve-the-issue/"><u>Stuck iPhone Charge Display? Quick & Effective Solutions to Resolve the Issue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-compatibili-player-musicale-mp3aac-del-2020-per-sistemi-operativi-windows-and-mac/"><u>Top 5 Compatibili Player Musicale MP3/AAC Del 2020 Per Sistemi Operativi Windows & Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-erasing-browsing-history-from-mobile-devices/"><u>Top Strategies for Erasing Browsing History From Mobile Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tricks-for-deleting-whatsapp-talks-and-texts-updated-guide/"><u>Ultimate Tricks for Deleting WhatsApp Talks & Texts - Updated Guide</u></a></li>
 </ul></div>
 

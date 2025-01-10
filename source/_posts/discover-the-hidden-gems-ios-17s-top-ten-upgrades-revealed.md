@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2025-01-01T17:52:34.687Z
-updated: 2025-01-02T20:40:51.147Z
+date: 2025-01-03T18:18:22.358Z
+updated: 2025-01-09T20:02:49.981Z
 tags:
   - ios
 categories:
@@ -19,17 +19,21 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Enable "Clean Up Automatically" in password options to delete one-time codes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clean_up_codes.jpg) 
 
- To cut through the unwanted message build-up, get your iPhone to clean up for you. Head to Settings > Passwords > Password Options and enable “Clean Up Automatically” to have your iPhone automatically trash verification codes once they’ve been used.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To cut through the unwanted message build-up, get your iPhone to clean up for you. Head to Settings > Passwords > Password Options and enable “Clean Up Automatically” to have your iPhone automatically trash verification codes once they’ve been used.
 
 ##  Swipe to Reply to Messages
 
  In-line replies have already been a mainstay of iMessage since the iOS 14 update, but the feature was previously hidden under the long-press menu. Now, you can swipe right on a message to start typing a reply.
 
 ![Swipe to reply to messages with an in-line reply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reply_swipe.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see the message you’re replying to in the message window above the compose box.
 
@@ -39,15 +43,15 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  On top of this, there’s a “Call Hang-Up” command that you can enable under Settings > Siri & Search that lets you tell Siri to hang up the phone while you’re on a call.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Link Your Notes Together
 
 [Apple Notes is a powerful note-taking app](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) and it costs nothing to use (though you may need more iCloud storage if you have a lot of attachments). One of the last big missing features was the ability to link notes together, and iOS 17 finally changed that.
 
 ![Link notes together in Apple Notes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/link_notes.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can add a link to a note by tapping a blank space to bring up the context menu and tapping “Add Link” then typing the title of a note. Give the link a name (which is what you’ll see when you tap on it) and hit “Done” to add the link.
 
@@ -80,7 +84,7 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Quickly Access and Lock Private Browsing
@@ -89,15 +93,7 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Use Face ID to lock your private browsing session](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/face_id_private_browsing.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  New Shortcuts for Cropping Images in Photos
 
@@ -108,7 +104,7 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Animated Now Playing Screens in Music
@@ -117,13 +113,17 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![now_playing_japanese_breakfast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_japanese_breakfast.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -150,19 +150,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-srt-to-advanced-subtitle-formats-a-compendium/"><u>[New] Seamless SRT to Advanced Subtitle Formats A Compendium</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-reddits-golden-threads-a-commendable-collection-top-10/"><u>[Updated] Reddit's Golden Threads A Commendable Collection (Top 10)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-standing-out-in-a-crowd-the-finest-thumbnail-font-options/"><u>2024 Approved Standing Out in a Crowd The Finest Thumbnail Font Options</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-panoramic-lenses-vs-depth-filled-images/"><u>In 2024, Panoramic Lenses vs Depth-Filled Images</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-hot-40-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Hot 40 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-iphones-capacity-with-top-ranked-storage-management-apps/"><u>Maximize Your iPhone's Capacity with Top-Ranked Storage Management Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-iphones-performance-and-memory-with-a-simple-trick-eliminating-app-cache-for-zero-cost/"><u>Maximize Your iPhone's Performance and Memory with a Simple Trick: Eliminating App Cache for Zero Cost</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-deletion-of-iphone-voicemails-a-step-by-step-guide-to-free-up-storage/"><u>Permanent Deletion of iPhone Voicemails: A Step-by-Step Guide to Free Up Storage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-how-to-remove-music-tracks-from-your-ipod-touch-nano-shuffle-classic/"><u>Quick Fixes: How To Remove Music Tracks From Your iPod (Touch, Nano, Shuffle, Classic)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/remote-data-wipe-on-iphone-without-find-my-expert-tips-revealed/"><u>Remote Data Wipe on iPhone Without 'Find My' – Expert Tips Revealed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-a-fresh-start-clearing-content-and-settings-on-your-iphone-15-device/"><u>Step-by-Step Instructions for a Fresh Start: Clearing Content and Settings on Your iPhone 15 Device</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-broadcasting-directly-on-instagram/"><u>[Updated] In 2024, OBS Broadcasting Directly on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-mastering-the-art-of-purchasing-amazon-kindle-e-books-a-comprehensive-guide/"><u>1. Mastering the Art of Purchasing Amazon Kindle E-Books: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harness-the-potential-of-gratuitous-timer-tools-for-2024/"><u>Harness the Potential of Gratuitous Timer Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-codegpt-for-enhanced-vs-code-productivity/"><u>Integrating CodeGPT for Enhanced VS Code Productivity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2060-super-graphics-card-driver-download-for-windows-11/"><u>RTX 2060 Super Graphics Card Driver Download for Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209979619-9781640968110-spiritual-ninja/"><u>Spiritual Ninja | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-ipad-experience-with-just-3-tweaks-from-apple/"><u>Transform Your iPad Experience with Just 3 Tweaks From Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-iphone-experience-top-6-discreet-ios-update-enhancements/"><u>Transform Your iPhone Experience: Top 6 Discreet iOS Update Enhancements</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-face-recognition-top-5-solutions-when-your-iphones-face-id-fails/"><u>Troubleshooting Face Recognition: Top 5 Solutions When Your iPhone's Face ID Fails</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-iphone-13-pro-defenders-ranked/"><u>Ultimate Selection: IPhone 13 Pro Defenders Ranked</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-covert-spy-gear-a-step-by-step-guide-to-identifying-concealed-camera-traps-using-mobile-technology/"><u>Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-hardware-expertise/"><u>Unlocking Performance Secrets with Tom's Hardware Expertise</u></a></li>
 </ul></div>
 

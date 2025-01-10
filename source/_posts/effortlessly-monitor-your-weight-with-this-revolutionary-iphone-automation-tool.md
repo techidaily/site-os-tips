@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2025-01-01T02:50:40.528Z
-updated: 2025-01-03T00:07:43.607Z
+date: 2025-01-05T04:29:05.803Z
+updated: 2025-01-09T22:01:01.463Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,10 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Create new shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-17-04.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, tap “Add Action” and use the search bar to find the “Log Health Sample” action. Tap on it to add it to your Shortcuts workflow.
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
@@ -43,15 +35,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Finishing up adding an action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now give your workflow a name by tapping the field at the top of the screen (it will likely have the “Log Health Sample” placeholder text, grayed out). Tap “Rename” and call it something like “Record weight” and then tap “Choose Icon” and pick something appropriate.
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To save, hit “Done” in the top-right corner of the screen. That’s it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using Your New Shortcut
 
@@ -66,10 +62,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Seeing Results
 
@@ -78,7 +78,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
@@ -104,18 +104,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-converting-youtube-broadcasts-into-listenable-formats/"><u>[New] Converting YouTube Broadcasts Into Listenable Formats</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-simplify-crafting-effective-youtube-subscription-buttons/"><u>[Updated] Simplify Crafting Effective YouTube Subscription Buttons</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-your-edit-with-jump-cut-tips/"><u>[Updated] Streamlining Your Edit with Jump Cut Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-redmi-note-13-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi Redmi Note 13 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/avoid-mobile-data-disaster-seamless-guide-on-syncing-your-android-device-with-a-computer/"><u>Avoid Mobile Data Disaster: Seamless Guide on Syncing Your Android Device with a Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-utilizing-verizon-backup-assistant-a-comprehensive-walkthrough/"><u>Complete Guide to Utilizing Verizon Backup Assistant: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-how-to-mastering-data-protection-with-googleplus-and-samsungs-integrated-auto-backup-solutions/"><u>Complete How-To: Mastering Data Protection with Google+ & Samsung's Integrated Auto Backup Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-safeguard-your-whatsapp-messages-a-2024-guide-to-securely-backing-up-chats-on-android-devices/"><u>Comprehensive Steps to Safeguard Your WhatsApp Messages: A 2024 Guide to Securely Backing Up Chats on Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-guide-how-to-seamlessly-back-up-your-samsung-device-images/"><u>Effortless Guide: How to Seamlessly Back Up Your Samsung Device Images</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/al-approaches-to-extract-and-convert-youtube-videos/"><u>Ethical Approaches to Extract and Convert YouTube Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-v2-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic V2 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-infinix-hot-40-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Infinix Hot 40</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-xcover-6-pro-tactical-edition-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy XCover 6 Pro Tactical Edition Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-digital-migration-made-simple-top-5-file-transfer-routes-for-computers/"><u>[New] 2024 Approved Digital Migration Made Simple Top 5 File Transfer Routes for Computers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>[New] The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-collection-top-9-premium-wedding-movies-online/"><u>[Updated] 2024 Approved Essential Collection Top 9 Premium Wedding Movies Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-techniques-with-nvidia-recorder/"><u>[Updated] 2024 Approved Essential Techniques with NVIDIA Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaverse-musings-arvr-inclusive-quotes-collection/"><u>[Updated] Metaverse Musings AR/VR-Inclusive Quotes Collection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-pay-unlock-fcp-paths-to-a-free-edit-suite/"><u>[Updated] No Pay? Unlock FCP Paths to a Free Edit Suite</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-12-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus 12 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-these-4-effective-ways-to-track-down-your-missing-ios-device/"><u>Discover These 4 Effective Ways to Track Down Your Missing iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easily-stream-from-apple-to-microsoft-connect-your-iphone-to-xbox-one/"><u>Easily Stream From Apple to Microsoft: Connect Your iPhone to Xbox One</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevating-windows-10-photos-visuals-through-personalized-filtersmusic-for-2024/"><u>Elevating Windows 10 Photos Visuals Through Personalized Filters/Music for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/freies-installieren-von-geometry-dash-vollstandiger-losung-auf-iosipados-professionelle-tipps-zum-herunterladen/"><u>Freies Installieren Von Geometry Dash Vollständiger Lösung Auf iOS/iPadOS - Professionelle Tipps Zum Herunterladen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-enhance-image-clarity-a-comprehensive-guide-for-iphone-users/"><u>How to Enhance Image Clarity: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-password-management-solutions-for-iphones-unlock-easily-with-the-best-3-options-available-today/"><u>Leading Password Management Solutions for iPhones: Unlock Easily with the Best 3 Options Available Today!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-c55-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme C55 Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-enhance-ipad-speed-and-address-slow-down-issues-effectively/"><u>Quick Guide: Enhance iPad Speed & Address Slow Down Issues Effectively</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-mastering-zoom-functionality-on-your-iphone-with-five-simple-techniques/"><u>Quick Guide: Mastering Zoom Functionality on Your iPhone with Five Simple Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rethinking-time-a-comprehensive-walkthrough-for-altering-age-in-apple-id-settings/"><u>Rethinking Time? A Comprehensive Walkthrough for Altering Age in Apple ID Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-mastering-the-art-of-inserting-and-removing-a-sim-card-from-your-iphone/"><u>Simple Steps: Mastering the Art of Inserting and Removing a SIM Card From Your iPhone</u></a></li>
 </ul></div>
 

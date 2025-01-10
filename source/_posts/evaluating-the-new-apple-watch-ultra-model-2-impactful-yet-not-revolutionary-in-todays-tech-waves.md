@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves"
-date: 2025-01-02T06:28:12.511Z
-updated: 2025-01-03T07:38:59.069Z
+date: 2025-01-07T00:47:26.739Z
+updated: 2025-01-10T02:11:02.771Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 ---
 
 ## Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
  After using the original Ultra for the past year, I can safely say current owners should skip this upgrade. On the other hand, iPhone owners who don’t have an Ultra and are ready for the largest watch screen and the longest battery life should absolutely consider purchasing the Apple Watch Ultra 2.
 
 ![apple watch ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/mt5j3ref_vw_34fr_watch-49-titanium-ultra2_vw_34fr_watch-face-49-alpine-ultra2_vw_34fr_geo_in-removebg-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -118,6 +126,10 @@ Expand
 
 ![Showing the Action button on Apple Watch Ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  You're in luck if you liked the design of the original Ultra. The only color choice for the Ultra 2 is still natural titanium. The orange Action button is still present, too, along with the orange ring around the digital crown. Even underneath the watch, no markings indicate it’s the Ultra 2—that information is only found in software settings.
@@ -127,10 +139,6 @@ Tyler Hayes / How-To Geek
  While physical size is a personal preference, I still maintain that I think the Ultra’s (now Ultra 2) 49mm size should be useable by nearly all adults. You may not care for how it looks, but it should be fine to wear if you want its rugged or athletic features.
 
  For this review, I picked the new [Alpine Loop](https://www.apple.com/shop/product/MT5M3AM/A/49mm-blue-alpine-loop-large?fnode=21df583c35c700eef5f791d814c3b76c69ea38b0bc2fb907492403d104c0f5e44b8ff69fe54923b04f251356058b9079f5162a3d2a844f1ec1400951c6d5d93808b05e6f97337229e1ccd3fa42ae5a19eab2c270f69d6aba408446204eb10829), which Apple states is a carbon-neutral band. It looked a little different in the pictures to me, but wearing the band felt almost identical to last year’s Alpine Loop band. The band has been fine, but it did soak up sweat and water and was hard to dry quickly. So I would recommend the rubber [Ocean Band](https://www.apple.com/shop/product/MT653AM/A/49mm-orange-ocean-band?fnode=e4468a50c132abefe7bb265e61088133af76a853b95084892c8f0d6ae8acb1baa1a7fc29bc733e38c74b34231e7016e5c537f8683d62a9b8438b4e665ab774cf935671720e2f4c138a485b3bc317ccacdbc5407a8edefd63e34114d2866a1bda) for running, swimming, or use during a shower.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What’s Actually New With the Ultra 2?
 
@@ -157,10 +165,6 @@ Tyler Hayes / How-To Geek
 
  Battery life is listed at the same 36 hours the original Ultra had. Based on my initial experiences, I fully expect that to hold true, if not increase ever so slightly. Amazing battery life is a major factor keeping me using an Ultra model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Running With an Ultra 2
 
  My fitness activity of choice is running. I’ve put over 1,000 miles on the original Apple Watch Ultra this past year. I’ve had the chance to put double digital miles on the Ultra 2 so far, and it performed like the last one.
@@ -168,6 +172,10 @@ Tyler Hayes / How-To Geek
  I streamed Apple Music playlists while out on the road. I listened to podcasts using the [Overcast app](https://apps.apple.com/us/app/overcast/id888422857) while running. I used the default Workouts app to track my runs. The watch hardware handled all those things without an issue.
 
  I’m not crazy about the redesigned Workouts screens in watchOS 10, but that’s a software thing I'll need to deal with rather than being Ultra 2 hardware-related.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  watchOS 10 on Ultra 2
 
@@ -180,16 +188,12 @@ Tyler Hayes / How-To Geek
  The Apple Watch Ultra 2 is [available now for $799](http://www.apple.com/apple-watch-ultra-2/). All models have cellular connectivity, 64GB of storage, and a titanium frame. The choice comes down to picking one of three default Ultra 2 bands.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Apple Watch Ultra 2?
 
 ![Apple Watch Ultra 2 with the 'Modular Ultra' watch face.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/apple-watch-ultra-2-2.JPG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -198,10 +202,6 @@ Tyler Hayes / How-To Geek
  The Apple Watch Ultra seemed to be extremely popular. I saw people wearing them all the time. It makes sense that Apple wants to give its premium, high-end smartwatch another year to fully blossom and see how far it can go before the company needs to really update it. The Ultra 2 isn't for incessant upgraders but is a great choice for newcomers.
 
 ![apple watch ultra 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/mt5j3ref_vw_34fr_watch-49-titanium-ultra2_vw_34fr_watch-face-49-alpine-ultra2_vw_34fr_geo_in-removebg-preview.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -290,24 +290,22 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[Updated] 2024 Approved Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>[Updated] The Art of HDR Enhancement Your Lightroom Journey</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone XS Max</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-avi-gratuit-sur-ligne-changer-des-fichiers-wav-a-laide-de-movavi/"><u>Conversion AVI Gratuit Sur Ligne - Changer Des Fichiers WAV À L'aide De Movavi</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-the-latest-innovations-over-ten-fresh-capabilities-on-your-iphone-get-tutorials-and-mastery-techniques/"><u>Explore the Latest Innovations: Over Ten Fresh Capabilities on Your iPhone - Get Tutorials and Mastery Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-strangest-iphone-connector-gadgets-a-list-of-7-surprising-finds/"><u>Exploring the Strangest iPhone Connector Gadgets: A List of 7 Surprising Finds</u></a></li>
-<li><a href="https://os-tips.techidaily.com/finding-the-best-ipad-mini-keyboard-cover-through-exhaustive-trials-reveal-and-evaluation/"><u>Finding the Best iPad Mini Keyboard Cover Through Exhaustive Trials: Reveal and Evaluation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-adjusting-display-distance-on-iphone-for-optimal-eye-health/"><u>Guide: Adjusting Display Distance on iPhone for Optimal Eye Health</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-retrieving-your-location-history-from-an-iphone-or-ipad/"><u>Guide: Retrieving Your Location History From an iPhone or iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-use-your-airpods-pro-a-detailed-walkthrough-of-device-management-innovative-capabilities-and-intuitive-hand-gestures/"><u>How To Use Your AirPods Pro: A Detailed Walkthrough of Device Management, Innovative Capabilities, and Intuitive Hand Gestures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/huion-tablet-woes-fix-these-5-issues-when-your-pen-wont-work/"><u>Huion Tablet Woes? Fix These 5 Issues When Your Pen Won't Work</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ideal-iphone-workout-tools-achieve-peak-physical-form-by-summers-end/"><u>Ideal iPhone Workout Tools - Achieve Peak Physical Form by Summer's End</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-blend-pictures-with-computers-easily/"><u>In 2024, Blend Pictures with Computers Easily</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-captivating-costless-visual-collaboration-games/"><u>In 2024, Captivating Costless Visual Collaboration Games</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-the-latest-apple-programs-seamless-replacement-for-itunes-on-windows-systems/"><u>Introducing the Latest Apple Programs: Seamless Replacement for iTunes on Windows Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/leading-iphone-weather-tools-the-ultimate-selection-for-mobile-forecast-enthusiasts/"><u>Leading iPhone Weather Tools: The Ultimate Selection for Mobile Forecast Enthusiasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-slideshow-tools-for-iphone-series-9-13-xr-ios13-for-2024/"><u>Premium Slideshow Tools For iPhone Series 9-13 (XR-iOS13) for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/transferring-data-seamlessly-a-guide-for-synchronizing-dual-systems-by-yl-software/"><u>Transferring Data Seamlessly: A Guide for Synchronizing Dual Systems by YL Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-screencaps-made-simple-with-irecorder-for-2024/"><u>[New] Screencaps Made Simple with iRecorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-hd-viewing-top-10-android-video-apps/"><u>[New] Seamless HD Viewing Top 10 Android Video Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-initial-visual-journey-review-with-additional-paths/"><u>[Updated] Initial Visual Journey Review with Additional Paths</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>2024 Approved The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-excel-conquer-your-data-fears/"><u>ChatGPT in Excel: Conquer Your Data Fears</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficient-strategies-for-resolving-iphone-call-disruptions-verified-approaches/"><u>Efficient Strategies for Resolving iPhone Call Disruptions: Verified Approaches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/error-53-explained-simple-and-secure-solutions-inside/"><u>Error 53 Explained: Simple & Secure Solutions Inside</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-snappin-snapchat-5-swift-solutions-for-common-app-hiccups/"><u>Fix Snappin' Snapchat: 5 Swift Solutions for Common App Hiccups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-a-stuck-ipad-keyboard-in-10-easy-steps-comprehensive-repair-manual/"><u>Fixing a Stuck iPad Keyboard in 10 Easy Steps - Comprehensive Repair Manual</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-fixes-for-loading-issues-with-videos-on-ios-devices/"><u>Guaranteed Fixes for Loading Issues with Videos on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guaranteed-remedies-to-resolve-the-disappearing-iphone-camera-icons-issue/"><u>Guaranteed Remedies to Resolve the Disappearing iPhone Camera Icons Issue</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-s-best-time-lapse-video-editing-tools-free-paid-and-everything-in-between/"><u>New In 2024, S Best Time-Lapse Video Editing Tools Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-resolution-of-non-responsive-qualcomm-atheros-bluetooth-driver-problems-in-windows-11/"><u>Step-by-Step Resolution of Non-Responsive Qualcomm Atheros Bluetooth Driver Problems in Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-restoring-facetime-functionality-on-iphones/"><u>Step-by-Step Solution: Restoring FaceTime Functionality on iPhones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-for-you-methods-to-develop-a-bespoke-gpt-model/"><u>Tailoring ChatGPT for You: Methods to Develop a Bespoke GPT Model</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-google-pixel-fold-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Google Pixel Fold Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-voicemail-failures-a-list-of-common-problems-and-full-proof-fixing-methods/"><u>Understanding iPhone Voicemail Failures: A List of Common Problems and Full-Proof Fixing Methods</u></a></li>
 </ul></div>
 

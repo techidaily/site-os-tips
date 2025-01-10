@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2024-12-27T22:21:09.465Z
-updated: 2025-01-03T07:12:41.209Z
+date: 2025-01-07T00:04:37.630Z
+updated: 2025-01-10T00:17:38.788Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -52,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -88,15 +88,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-basics-of-kinetic-illustration-mastery/"><u>[New] Basics of Kinetic Illustration Mastery</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-screen-capture-apps-for-android-devices-reviewed/"><u>[New] In 2024, Best Screen Capture Apps for Android Devices Reviewed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame/"><u>[New] In 2024, Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-next-gen-gpus-for-crystal-clear-4k/"><u>[New] Next-Gen GPUs for Crystal Clear 4K</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-adding-vibrancy-easy-youtube-subscribe-animations-with-filmora-for-2024/"><u>[Updated] Adding Vibrancy Easy YouTube Subscribe Animations with Filmora for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-newest-huion-software-for-windows-systems/"><u>Comprehensive Guide to Installing Newest Huion Software for Windows Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-cash-app-upgrades-offer-parallel-benefits-to-apple-cards-robust-savings-options/"><u>Discover How Cash App Upgrades Offer Parallel Benefits to Apple Card's Robust Savings Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/embrace-modern-playfulness-why-i-prefer-iphone-games-over-classic-consoles/"><u>Embrace Modern Playfulness: Why I Prefer iPhone Games Over Classic Consoles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-apple-watch-experience-with-chatgpt-setup-tips-and-tricks/"><u>Enhance Your Apple Watch Experience with ChatGPT – Setup Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-google-drives-new-design-for-mobile-devices-unveiled/"><u>Enhanced User Experience: Google Drive's New Design for Mobile Devices Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-explore-and-master-group-communication-using-zoom-on-phone/"><u>[New] 2024 Approved Explore & Master Group Communication Using Zoom on Phone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-choosing-top-8-free-srt-services-for-2024/"><u>[New] The Ultimate Guide to Choosing Top 8 Free SRT Services for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-obs-toolkit-for-flawless-instagram-streams/"><u>[Updated] In 2024, The Complete OBS Toolkit for Flawless Instagram Streams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-skaldic-odyssey-ragnarok-awakens/"><u>[Updated] In 2024, The Skaldic Odyssey Ragnarök Awakens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-undercover-audio-gems-top-6-non-public-mobile-voice-capturers/"><u>[Updated] In 2024, Undercover Audio Gems Top 6 Non-Public Mobile Voice Capturers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-popular-tiktok-creations-dominating-twitter-discussions/"><u>2024 Approved Popular TikTok Creations Dominating Twitter Discussions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-for-iphones-unable-to-complete-ios-1817-update-process/"><u>Effective Solutions for iPhones Unable to Complete iOS 18/17 Update Process</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tutorial-effortless-ways-to-access-or-disconnect-from-ipods-recovery-environment/"><u>Expert Tutorial: Effortless Ways to Access or Disconnect From iPod's Recovery Environment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-iphone-display-issues-essential-guidelnces-and-hacks/"><u>How To Fix iPhone Display Issues: Essential Guidelnces & Hacks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-guide-seamlessly-entering-and-exiting-recovery-mode-on-your-ipad/"><u>How To Guide: Seamlessly Entering & Exiting Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcoming-issues-with-imessage-delivery-a-step-by-step-guide/"><u>Overcoming Issues with iMessage Delivery - A Step-by-Step Guide</u></a></li>
 </ul></div>
 
