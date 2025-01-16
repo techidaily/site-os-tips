@@ -1,7 +1,7 @@
 ---
 title: Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts
-date: 2025-01-05T20:10:18.589Z
-updated: 2025-01-10T00:09:18.513Z
+date: 2025-01-12T01:25:27.982Z
+updated: 2025-01-16T01:30:12.689Z
 tags:
   - iphone-manager
 categories:
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Transfer Photos between iPhone and Mac
 
 [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) lets you transfer photos to or from iOS and iPadOS devices in a fast, easy, and safe manner. Whether they are Live Photos, ProRaw, burst photos, 4K HDR photos, or HEIC, all kinds of iPhone photos can be imported or exported to the iPhone in original resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Transfer Photos from iPhone, iPad, or iPod Photos to Mac
 
@@ -37,10 +37,6 @@ In DearMob,
  2\. Hit **Photo Transfer** and select the photo(s) you want to transfer to Mac. Click **Export** and then you can find the photos on the local drive of your computer.
 
 ![export photos to mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-export.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
@@ -57,10 +53,6 @@ DearMob iPhone Manage allows you to preview photos by album folders. There are f
 * iPhone Manager version 6.5 and above support previewing photos that are directly imported from cameras, flash cards and other external drives into iPhone > Photos app.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**More About the External Drive Album**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * You will see an External Drive album on the left panel inside the Photos module in DearMob. If your iPhone doesn't contain imported photos, you won't see the external drive album.
 * The External Drive album in DearMob is different from the Imports folder on iPhone > Photos. The Imports folder contains photos via AirDrop, cameras, flash cards and other external drives, while the External Drive album in DearMob doesn't show AirDropped photos.
@@ -82,12 +74,16 @@ In DearMob,
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Name the album as you like.
 * As per iOS/iPadOS system design, you need to add photos to custom albums when importing photos from PC/Mac to iDevice. System-generated albums like Camera Roll, Favorites, and Screenshots are locked in this scenario.
 * After importing photos to iPhone, find them in Photos App > Albums > From My Mac (the naming can be different for different iOS versions). You can also find the imported photos in the Camera Roll— in the section of the year when it was created.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delete photos from your iPhone, iPad, or iPod on Your Mac
@@ -105,14 +101,10 @@ In DearMob,
 ![add photos from mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-add.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Hit Select All to select all photos in an album.
 * To select multiple adjacent photos in an album, click the first photo, press and hold down the Shift key on the keyboard, and then click the last photo.
@@ -127,6 +119,10 @@ Note: It only works for macOS 10.13 (macOS High Sierra) and higher versions to r
 ![Remove Photo Location Data](https://www.5kplayer.com/user-guide/images/userguide-how/remove-photo-location-data-mac.jpg) 
 * By default, the option is turned off. When you export photos, the embedded location data in the photos will be kept.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * When toggled on, DearMob iPhone Manager will remove photo location data when exporting photos from iPhone to computer.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**What is the photo location data?**
@@ -140,6 +136,10 @@ On iPhone: Settings > Privacy > Location Services > Camera.
 
 * If you select **Never**, iPhone won't embedded location data when taking photos.
 * Otherwise, iPhone will added location data to photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
@@ -166,20 +166,15 @@ Yes. The Windows version of DearMob iPhone Manager won't change the original cre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts/"><u>[New] 2024 Approved Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-stay-steady-with-the-right-tripod-techniques-for-top-notch-video-content/"><u>[New] 2024 Approved Stay Steady with the Right Tripod Techniques for Top-Notch Video Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-jokeframe-creations-punpicture-studio/"><u>[Updated] In 2024, JokeFrame Creations PunPicture Studio</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-speedy-steps-scribbling-down-slides-in-ppt/"><u>2024 Approved Speedy Steps Scribbling Down Slides in PPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expand-your-viewing-circle-how-disney-enables-sharing-on-hulu-with-double-the-fun/"><u>Expand Your Viewing Circle: How Disney Enables Sharing on Hulu with Double the Fun!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-pricing-and-features-of-amazfit-helio-ring-anticipated-release-schedule-revealed/"><u>Explore Pricing & Features of Amazfit Helio Ring – Anticipated Release Schedule Revealed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-to-creating-and-adding-interactive-buttons-on-ios-devices/"><u>Guide to Creating and Adding Interactive Buttons on iOS Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-look-at-apples-latest-innovations-from-the-202-similar-problem-for-us-audience/"><u>Inside Look at Apple's Latest Innovations From the 202 # Similar Problem for U.S. Audience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ipads-and-their-capabilities-unveiled-successful-hard-drive-reformatting-vs-ongoing-issues-in-advanced-computer-operations/"><u>IPads and Their Capabilities Unveiled: Successful Hard Drive Reformatting Vs. Ongoing Issues in Advanced Computer Operations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-applications-exclusively-supported-on-the-upcoming-apple-vision-pro/"><u>IPhone & iPad Applications: Exclusively Supported on the Upcoming Apple Vision Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/june-showdown-apple-unveils-whats-next-at-the-2024-worldwide-developers-conference/"><u>June Showdown: Apple Unveils What's Next at the 2024 Worldwide Developers Conference</u></a></li>
-<li><a href="https://os-tips.techidaily.com/latest-updates-unveiled-netflix-shifts-from-basic-expert-iphone-repair-solutions-your-weekly-tech-news-digest/"><u>Latest Updates Unveiled: Netflix Shifts From Basic, Expert iPhone Repair Solutions – Your Weekly Tech News Digest</u></a></li>
-<li><a href="https://os-tips.techidaily.com/macos-compatible-printer-installation-tutorial-what-you-need-to-know/"><u>MacOS Compatible Printer Installation Tutorial: What You Need To Know</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-tackle-zeroxc000003e-application-errors-in-win1011/"><u>Strategies to Tackle ZeroXc000003e Application Errors in Win10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expanding-digital-presence-stream-to-youtube-plus-additional-platforms-for-2024/"><u>[New] Expanding Digital Presence Stream to YouTube + Additional Platforms for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-recorder-tools-the-8-best-lists-for-2024/"><u>[Updated] Essential Recorder Tools The 8 Best Lists for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-recording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>2024 Approved Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-docooler-usb-20-12mp-camera-analysis-is-it-worth-the-hype/"><u>Comprehensive Docooler USB 2.0 12MP Camera Analysis: Is It Worth the Hype?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/high-definition-video-capture-with-splash-20-screen-recorder/"><u>High-Definition Video Capture with Splash 2.0 Screen Recorder</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reclaiming-storage-on-your-iphone-essential-strategies-following-the-latest-ios-17-refresh/"><u>Reclaiming Storage on Your iPhone: Essential Strategies Following the Latest iOS 17 Refresh</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-privacy-the-ultimate-3-step-guide-to-total-iphone-data-deletion/"><u>Secure Your Privacy: The Ultimate 3-Step Guide to Total iPhone Data Deletion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securely-removing-temp-files-and-flushing-cache-on-ios-devices/"><u>Step-by-Step Guide: Securely Removing Temp Files & Flushing Cache on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-methods-for-deleting-unnecessary-ios-files-and-expanding-your-iphone-storage/"><u>Top 3 Methods for Deleting Unnecessary iOS Files and Expanding Your iPhone Storage</u></a></li>
 </ul></div>
 

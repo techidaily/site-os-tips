@@ -1,7 +1,7 @@
 ---
 title: "Demystifying iPhone AAE Files: Should You Be Deleting Them?"
-date: 2025-01-07T06:04:48.464Z
-updated: 2025-01-10T00:03:36.989Z
+date: 2025-01-09T18:09:58.773Z
+updated: 2025-01-15T23:45:01.698Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ## Demystifying iPhone AAE Files: Should You Be Deleting Them?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Are AAE Files?](https://facebook-clips.techidaily.com/must-collect-blog-for-business-8-trending-videos-on-facebook-for-2024/)
@@ -23,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * [Can You Open an AAE File?](https://extra-hints.techidaily.com/in-2024-best-gopro-tools-for-deep-sea-cinematography/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * AAE files can only be opened and read by the Apple Photos app, and are not very useful outside of Apple's platforms.
 
  If you transfer photos from an iPhone or iPad to a Windows PC, you might see some files with the extension "AAE" stored along with the images. We'll explain this mysterious file type and what you should do with them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Are AAE Files?
 
@@ -47,17 +39,21 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ![AAE Files and corresponding HEIC files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2023-10-31_09h49_10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this case, we opened up our iPhone with Windows Explorer and found two related files: the original image (IMG\_0244.HEIC) and the corresponding AAE file (IMG\_0244.AAE). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Does AAE Stand For?
 
  Some [theorize](https://photo.stackexchange.com/questions/122302/what-does-the-apple-aae-file-extension-stand-for) that AAE files originated with the Apple Aperture photo management application on Mac, which used XML sidecar files for its non-destructive editing system. In that case, AAE might stand for "Apple Aperture Edits," "Apple Aperture Extension," or something similar.
 
  Apple first introduced AAE files in iOS 8 and in Mac OS X 10.10 Yosemite in 2014 around the same time that they [announced discontinuing Apple Aperture](https://support.apple.com/en-us/HT209594) and iPhotos in favor of the then-new Photos app, so this theory makes sense.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Do I Need to Save AAE Files?
 
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  If you'd like to open the files again later on a Mac, iPhone, or iPad, you could keep the AAE files with your original photos in the same directory, and the Photos app should be able to read them. In doing so, Photos will be able to see the edits you originally made in the Photos app before transferring your images to a non-Apple platform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can You Open an AAE File?
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  It is easier to make sense of what you're reading if you open an AAE file in something like VSCode, which offers syntax highlighting and won't mess with formatting. 
 
 ![The contents of an AAE file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/text-of-an-aae-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Photos app on iPhone, iPad, and Mac uses those AAE files silently in a way that's transparent to the user, so you don't have to worry about "opening" them on those platforms, either. If AAE files exist in the same folder as the photos that they refer to, Photos will know how to use them automatically. Good luck!
 
@@ -94,16 +94,20 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-expert-guide-to-cutting-edge-online-streaming-via-vlc-media-player/"><u>[New] 2024 Approved Expert Guide to Cutting-Edge Online Streaming via VLC Media Player</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-viewing-vr-films-and-games-on-ios/"><u>[Updated] Step-by-Step Guide to Viewing VR Films & Games on IOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-solutions-fixing-your-iphones-wi-fi-connection-issues-in-just-7-steps/"><u>Essential Solutions: Fixing Your iPhone's Wi-Fi Connection Issues in Just 7 Steps</u></a></li>
-<li><a href="https://discover-able.techidaily.com/expand-your-singing-repertoire-over-50-new-tracks-added-to-karaoke-cloud-pro-every-week-starting-feb-3-2017/"><u>Expand Your Singing Repertoire: Over 50 New Tracks Added to Karaoke Cloud Pro Every Week Starting Feb 3, 2017!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fenrir/"><u>Fenrir -</u></a></li>
-<li><a href="https://os-tips.techidaily.com/full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-issues-when-whatsapp-messages-fail-to-alert-you/"><u>How to Resolve Issues When WhatsApp Messages Fail to Alert You</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-htc-u23-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on HTC U23 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-top-10-os-xwin-enhancements-for-srt/"><u>In 2024, Unleashing Potential Top 10 OS X/Win Enhancements for SRT</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ely-growing-your-channels-popularity-a-one-million-goal-guide-for-2024/"><u>Securely Growing Your Channel's Popularity A One-Million Goal Guide for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-the-red-screen-issue-on-iphones-a-step-by-step-guide/"><u>Troubleshooting the Red Screen Issue on iPhones - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-what-is-triller-a-platform-that-challenges-traditional-video-sites/"><u>[New] 2024 Approved What Is Triller? A Platform That Challenges Traditional Video Sites</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>[New] Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-exploring-mycams-video-recording-quality-and-efficiency/"><u>[Updated] In 2024, Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unparalleled-top-5-lightweight-cinematography-devices/"><u>[Updated] Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-easy-guide-setting-up-automated-texts-on-your-ios-device/"><u>1. Easy Guide: Setting Up Automated Texts on Your iOS Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-manual-the-art-of-digital-sound-note-taking/"><u>2024 Approved Ultimate Manual The Art of Digital Sound Note-Taking</u></a></li>
+<li><a href="https://os-tips.techidaily.com/3-key-features-i-hope-apple-enables-for-utilizing-my-personalized-ai-avatars-speech/"><u>3 Key Features I Hope Apple Enables for Utilizing My Personalized AI Avatar's Speech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automate-a-new-vibe-change-iphones-background-regularly/"><u>Automate a New Vibe - Change iPhones Background Regularly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-efficiency-on-your-iphone-explore-the-10-must-use-keyboard-functions-for-power-users/"><u>Boost Efficiency on Your iPhone: Explore the 10 Must-Use Keyboard Functions for Power Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boosting-organization-skills-with-apples-integrated-ipad-and-iphone-note-taking-features/"><u>Boosting Organization Skills with Apple's Integrated iPad & iPhone Note Taking Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-pitaka-magez-car-phone-stand-evaluation-is-it-the-ultimate-iphone-support-system/"><u>Comprehensive Pitaka MagEZ Car Phone Stand Evaluation: Is It the Ultimate iPhone Support System?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-downloading-your-favorite-youtube-clips-on-ios-and-android-devices/"><u>Easy Guide: Downloading Your Favorite YouTube Clips on iOS & Android Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-itel-s23-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Itel S23.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-hd-graphics-4400-freshly-released-update-and-drivers-to-improve-performance/"><u>Intel HD Graphics 4400: Freshly Released Update & Drivers to Improve Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-quick-fix-prompting-windows-for-an-emergency-restart-in-protected-mode/"><u>Master the Quick Fix: Prompting Windows for an Emergency Restart in Protected Mode</u></a></li>
 </ul></div>
 

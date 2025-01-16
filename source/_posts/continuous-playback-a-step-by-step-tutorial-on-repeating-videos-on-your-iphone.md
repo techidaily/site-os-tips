@@ -1,7 +1,7 @@
 ---
 title: "Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone"
-date: 2025-01-03T21:55:26.304Z
-updated: 2025-01-09T16:53:13.273Z
+date: 2025-01-09T01:04:33.934Z
+updated: 2025-01-16T00:57:45.908Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ## Continuous Playback: A Step-by-Step Tutorial on Repeating Videos on Your iPhone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
  Using just the [built-in features in iPhone's Photos](https://screen-recording.techidaily.com/new-2024-approved-android-capture-king-spam-free-edition/) and YouTube app, you can make your videos play in a loop for as long as you want. This eliminates the need to manually re-play your videos, and we'll show you how to do that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Play a Video in iPhone's Photos App in a Loop
 
  In iPhone's Photos app, you don't have an official feature to play your video itself in a loop. But, you can [make a slideshow](https://facebook-clips.techidaily.com/new-unlocking-facebook-blue-verification-a-step-by-step-guide/) out of your video and make that play in a loop, which basically plays your video until you manually stop it.
@@ -38,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select the share icon in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/1-iphone-video-share-menu.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the share menu, select "Slideshow."
 
 ![Choose "Slideshow" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-make-slideshow-iphone.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Photos will play your video as a slideshow, but this slideshow has a specific theme, background music, and only plays once (not on loop). To change these settings, in the slideshow's bottom-right corner, tap "Options."
 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Select "Theme."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-iphone-slideshow-theme.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the "Themes" screen, choose a simple theme so you can focus on your video. "Origami" is a good option. Then, in the top-left corner, tap "Back."
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  Put your video in a loop by enabling the "Repeat" option. Then, in the top-right corner, tap "Done" to save your changes.
 
 ![Enable "Repeat" and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-loop-iphone-slideshow.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Photos will take you back to your video screen. Here, your video will play in a loop until you manually close it.
 
@@ -88,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![Select the three dots in the top-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-youtube-video-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the open menu, select "Loop Video."
 
 ![Tap "Loop Video" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-loop-youtube-video.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And YouTube will keep playing the same video until you disable the loop. You can turn off the loop feature by tapping the same three dots and choosing "Loop Video." Enjoy!
 
@@ -113,17 +113,16 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-textual-enhancement-techniques-for-instagram-live-and-igtv/"><u>[Updated] 2024 Approved Textual Enhancement Techniques for Instagram Live and IGTV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-online-potential-essential-fb-advice-for-businesses-for-2024/"><u>[Updated] Unlocking Online Potential Essential FB Advice for Businesses for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/common-queries-and-insights-on-managing-iphones-voicemail-system/"><u>Common Queries & Insights on Managing iPhone's Voicemail System</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-silence-to-symphony-how-to-set-up-unique-ringtones-and-sounds-for-android/"><u>From Silence to Symphony How to Set Up Unique Ringtones & Sounds for Android</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Plus without Losing Data? | Stellar</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-14-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 14 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620251539-imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-dell-p2715qs-stunning-4k-visuals/"><u>In 2024, The Ultimate Guide to Dell P2715Q's Stunning 4K Visuals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/standout-storytelling-in-multifaceted-cinemascape-for-2024/"><u>Standout Storytelling in Multifaceted Cinemascape for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-life-of-the-greek-gods/"><u>The Life of the Greek Gods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-iphone-photography-dealing-with-unresponsive-image-capture-functionality/"><u>Troubleshooting Tips for iPhone Photography: Dealing with Unresponsive Image Capture Functionality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/turning-your-instagram-movies-inside-out/"><u>Turning Your Instagram Movies Inside Out</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-optimizing-privacy-for-your-online-videography/"><u>2024 Approved Optimizing Privacy for Your Online Videography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-ai-interactions-potential-for-real-employment/"><u>Crafting AI Interactions: Potential for Real Employment?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-fortnite-status-through-playstation-5/"><u>Elevating Fortnite Status Through PlayStation 5</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-blaze-2-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Blaze 2 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-guide-to-amplifying-your-video-presence-with-seo-tips/"><u>In 2024, Guide to Amplifying Your Video Presence with SEO Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/integrating-twitter-promotions-into-your-digital-strategy/"><u>Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-ready-for-download-and-installation/"><u>Latest Canon PIXMA TS3322 Printer Drivers Ready for Download & Installation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-comfort-discover-the-new-ios-18-feature-that-eases-motion-sickness-on-your-device/"><u>Unlocking Comfort: Discover the New iOS 18 Feature That Eases Motion Sickness on Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-hidden-functions-10-amazing-tricks-within-apple-imessage-app/"><u>Unveiling Hidden Functions: 10 Amazing Tricks Within Apple iMessage App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-enhanced-features-why-the-apple-pencil-pro-is-a-major-leap-forward/"><u>Unveiling the Enhanced Features: Why the Apple Pencil Pro Is a Major Leap Forward</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-ios-18-has-me-thrilled-a-perspective-from-a-dedicated-android-lover/"><u>Why iOS 18 Has Me Thrilled: A Perspective From a Dedicated Android Lover</u></a></li>
 </ul></div>
 

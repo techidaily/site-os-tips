@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2025-01-08T16:56:12.448Z
-updated: 2025-01-09T18:13:37.789Z
+date: 2025-01-11T16:41:33.286Z
+updated: 2025-01-15T19:06:57.902Z
 tags:
   - ios
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [You Can Extend Obsidian With Plug-ins](https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,13 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While I'm focusing on the Android version, Obsidian is available for basically any platform you can think of, whether that's on your PC, tablet, or phone. I use [the Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002537/https://play.google.com/store/apps/details?id=md.obsidian&hl=en%5FUS&gl=US), but the mobile version of Obsidian is largely the same [on the iPhone and iPad](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) as well. Now, let's get into what makes Obsidian so good.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Notes Are Saved As Accessible Plain Text Files
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -58,16 +58,12 @@ Bertel King / How-To Geek
  Obsidian saves all notes as plain text files in an easily accessible folder on your phone, which you can then back up in any way you want: copy them to an external hard drive, sync them to another device, or upload them to the cloud. Your data is yours, and since Obsidian uses [Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), your formatting is also preserved when you choose to open your notes using another app. [Here's a Markdown syntax cheat sheet](https://screen-capture.techidaily.com/new-5-best-bandicam-mac-alternatives/) if you aren't already familiar with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Can Arrange Notes Into Folders or a Visual Knowledge Graph
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -91,19 +87,23 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
  Even though Obsidian is a Markdown editor, you don't actually need to know how to write Markdown to format your text. The app contains a formatting bar directly above your keyboard. When you tap the bold icon, Obsidian will surround the highlighted text with asterisks, which is how Markdown communicates that something needs to be in bold. If you want to turn something into a heading, tap the heading icon, and Obsidian will insert a hashtag. One hashtag denotes Heading 1, two hashtags denote Heading 2, and so on.
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Word and Character Count Included for Writers
 
@@ -144,18 +144,24 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-snapshot-sophistication-expert-advice-on-editing-magic/"><u>[Updated] Snapshot Sophistication Expert Advice on Editing Magic</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-guide-to-becoming-a-tiktok-live-companion/"><u>[Updated] The Ultimate Guide to Becoming a TikTok Live Companion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/craft-your-story-pace-with-instagrams-temp-control-feature-for-2024/"><u>Craft Your Story Pace with Instagram's Temp Control Feature for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eliminating-persistent-thread-stickers-on-insta-concealment-tips-and-tricks/"><u>Eliminating Persistent Thread Stickers on Insta: Concealment Tips & Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-a-nonfunctional-stadia-headset-a-step-by-step-guide/"><u>Fixing a Nonfunctional Stadia Headset: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-hotspot-connection-failures-on-ios-devices-iphone-181716-top-causes-and-remedies/"><u>Fixing Hotspot Connection Failures on iOS Devices (iPhone 18/17/16): Top Causes and Remedies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-creating-stunning-time-lapse-videos-with-your-iphone/"><u>Guide: Creating Stunning Time-Lapse Videos with Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-through-ipad-recovery-mode-step-by-step-process-for-activation-and-deactivation/"><u>Navigating Through iPad Recovery Mode: Step-by-Step Process for Activation & Deactivation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-simple-guide-transform-your-m3u8-playlists-into-high-quality-mp3-tracks-at-home-or-online/"><u>Quick and Simple Guide: Transform Your M3U8 Playlists Into High-Quality MP3 Tracks at Home or Online</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-how-to-get-facebook-notifications-up-and-running-again-on-ios-devices/"><u>Quick Fixes: How to Get Facebook Notifications Up and Running Again on iOS Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/rapid-results-elevate-images-on-windows-11/"><u>Rapid Results Elevate Images on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/robot-vacuum-savings-grab-the-deal-of-a-lifetime-with-320-off-today-dive-into-efficient-cleaning-amazon-exclusive/"><u>Robot Vacuum Savings: Grab the Deal of a Lifetime with 320% Off Today - Dive Into Efficient Cleaning! [Amazon Exclusive]</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-connection-failures-why-cant-my-airplay-stream-to-apple-tv/"><u>Understanding Connection Failures: Why Can't My AirPlay Stream to Apple TV?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-team-potential-harnessing-the-power-of-snap-camera/"><u>[New] 2024 Approved Unlocking Team Potential Harnessing the Power of Snap Camera</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-blueprints-livestream-and-log-sports-matches-effectively/"><u>[New] In 2024, Ultimate Blueprints Livestream & Log Sports Matches Effectively</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-free-guide-to-premium-mp4-screen-recorders-for-2024/"><u>[Updated] Free Guide to Premium MP4 Screen Recorders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-end-scene-excellence-your-guide-to-yt-outro-mastery/"><u>[Updated] In 2024, End Scene Excellence Your Guide to YT Outro Mastery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-subscription-rate-monitoring-software/"><u>[Updated] Subscription Rate Monitoring Software</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-jujutsu-kaisens-universe-on-your-tiktok-feed/"><u>2024 Approved Jujutsu Kaisen’s Universe on Your TikTok Feed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-workflow-with-an-ipad-the-ultimate-tech-hack-to-connect-it-as-a-dual-monitor-setup-for-pcsmacs/"><u>Boost Your Workflow with an iPad: The Ultimate Tech Hack to Connect It as a Dual Monitor Setup for PCs/Macs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-review-of-the-mophie-charge-station-for-iphone-13-and-13-pro-enhanced-power-at-a-cost/"><u>Comprehensive Review of the Mophie Charge Station for iPhone 13 & 13 Pro - Enhanced Power at a Cost</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dell-inspiron-15-drivers-for-windows-10/"><u>Dell Inspiron 15 Drivers for Windows 10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disabling-flash-alerts-a-step-by-step-guide-for-iphone-users/"><u>Disabling Flash Alerts: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disabling-your-iphones-persistent-screen-feature-a-comprehensive-guide/"><u>Disabling Your iPhone's Persistent Screen Feature: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficiently-managing-your-iphone-deleting-multiple-contacts-in-a-single-step/"><u>Efficiently Managing Your iPhone: Deleting Multiple Contacts in a Single Step</u></a></li>
+<li><a href="https://os-tips.techidaily.com/embracing-the-era-of-mobile-device-standardization/"><u>Embracing the Era of Mobile Device Standardization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-security-discover-expressvpns-latest-addition-a-password-management-tool/"><u>Enhance Your Security: Discover ExpressVPN's Latest Addition - A Password Management Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-vivaldis-new-features-include-vibrant-themes-and-dark-mode-on-ios/"><u>Enhanced User Experience: Vivaldi's New Features Include Vibrant Themes & Dark Mode on iOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exclusive-preview-anticipating-ios-18-updates-breakthrough-in-apple-artificial-intelligence-and-siris-next-generation-wwdc24-highlights-and-new-tech-innovat21/"><u>Exclusive Preview: Anticipating iOS 18 Updates, Breakthrough in Apple Artificial Intelligence, and Siri's Next Generation - WWDC24 Highlights & New Tech Innovations!</u></a></li>
+<li><a href="https://facebook.techidaily.com/forget-facebook-on-android-a-comprehensive-tutorial/"><u>Forget Facebook on Android: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-frame-rates-and-smoothing-gameplay-expert-tips-for-enhancing-your-fps-on-valorant/"><u>Improving Frame Rates & Smoothing Gameplay: Expert Tips for Enhancing Your FPS on Valorant</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-time-management-mastery-slack-and-filmora-for-productive-team-meetings/"><u>In 2024, Time Management Mastery Slack & Filmora for Productive Team Meetings</u></a></li>
 </ul></div>
 

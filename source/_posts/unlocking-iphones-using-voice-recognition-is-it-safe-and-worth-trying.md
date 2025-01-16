@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2025-01-06T00:49:24.453Z
-updated: 2025-01-09T23:54:40.449Z
+date: 2025-01-14T17:10:39.412Z
+updated: 2025-01-15T23:38:11.871Z
 tags:
   - ios
 categories:
@@ -18,15 +18,15 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 * [Solving Face ID Issues](https://tech-savvy.techidaily.com/the-comprehensive-guide-to-scholarly-writing-and-ai/)
 * [Unlock Your iPhone With an Apple Watch, Too](https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Set up a custom command within Voice Control settings to execute the sequence of button taps required to enter your passcode on your iPhone lock screen, then trigger it with a phrase. Alternatively, avoid putting iPhone security at risk and instead tweak Face ID to improve performance.
 
  A seemingly useful trick for unlocking your iPhone has been doing the rounds on social media which allows you to unlock your iPhone with a simple voice command. While it might sound handy, it's one tip you should probably avoid if you want to keep your device secure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Unlocking Your iPhone With Your Voice
 
@@ -34,37 +34,29 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Set up Voice Control on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/set_up_voice_control.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, you'll need to mark the location of the buttons you'll be using on the "Enter Passcode" screen. Make sure that [Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) doesn't automatically unlock your iPhone (cover the sensor at the top of the screen) and grab something like a whiteboard marker or makeup brush that you can easily wipe off your iPhone screen when you're done.
 
  Physically mark the location of your passcode sequence on the "Enter Passcode" screen. You'll need to remember the sequence yourself, so make a note of the pattern as you're doing so.
 
 ![Mark passcode on iPhone lock screen (example)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_passcode-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head back to Settings > Accessibility > Voice Control, tap on "Customize Commands" followed by "Create New Command..." and type (or speak) the phrase you want to use.
 
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap on "Action" then select "Run Custom Gesture" and (using the marks you made earlier) tap out the unlock sequence used to enter your passcode. Now tap "Save" and then hit the "New Command" button to go back to the previous screen. Hit "Save" one more time and your gesture will be saved.
 
 ![Run custom gesture using Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/run_custom_gesture.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Voice Unlocking Is a Bad Idea
 
@@ -84,7 +76,15 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 ![Set up an alternative appearance or add glasses to Face ID](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/alternative_appearance.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Unlock Your iPhone With an Apple Watch, Too
 
@@ -107,24 +107,19 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-a-decades-best-writes-across-film-classifications-for-2024/"><u>[New] A Decade's Best Writes Across Film Classifications for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-5-engaging-book-promo-videos/"><u>[New] Exploring 5 Engaging Book Promo Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>[New] The Real Number of YouTube Views You Need to Make a Living</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620257121-6-effective-strategies-to-resolve-non-functioning-iphone-reminders-in-no-time/"><u>6 Effective Strategies to Resolve Non-Functioning iPhone Reminders in No Time</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/eight-crucial-tips-for-making-an-informed-tablet-buying-decision/"><u>Eight Crucial Tips for Making an Informed Tablet Buying Decision</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-stop-immediate-redirect-of-incoming-calls-to-iphones-voicemail-easy-troubleshooting-steps/"><u>How to Stop Immediate Redirect of Incoming Calls to iPhone's Voicemail: Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-strategies-for-hulu-screen-grabs-everywhere/"><u>In 2024, Expert Strategies for Hulu Screen Grabs Everywhere</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-infinix-note-30i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Infinix Note 30i Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-syncing-problems-solved-steps-for-fixing-music-playlist-and-image-transfer-between-itunesmac-and-device/"><u>IPhone Syncing Problems Solved: Steps for Fixing Music, Playlist and Image Transfer Between iTunes/Mac and Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-account-with-these-simple-steps-to-turn-on-two-step-verification/"><u>Secure Your Apple Account with These Simple Steps to Turn On Two-Step Verification</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-to-free-an-iphone-from-persistent-earpiece-configuration/"><u>Step-by-Step Solutions to Free an iPhone From Persistent Earpiece Configuration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/struggling-with-muted-iphone-learn-effective-solutions-to-revive-its-volume/"><u>Struggling with Muted Iphone? Learn Effective Solutions to Revive Its Volume</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138571166-9781452531953-the-little-book-of-positive-actions/"><u>The Little Book of Positive Actions | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-when-your-airpods-cant-pair-with-an-iphone-top-5-methods/"><u>Troubleshooting Tips for When Your AirPods Can't Pair With an iPhone – Top 5 Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-resetting-and-rejuvenating-any-iphone-model-step-by-step/"><u>Ultimate Guide: Resetting and Rejuvenating Any iPhone Model Step-by-Step</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unveiling-alternatives-to-sns-hdr-in-a-crowded-space-for-2024/"><u>Unveiling Alternatives to SNS HDR in a Crowded Space for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/water-strike-recovery-guide-swift-fixes-and-professional-advice-for-saving-an-iphone-from-liquid-damage/"><u>Water Strike Recovery Guide: Swift Fixes and Professional Advice for Saving an iPhone From Liquid Damage</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/perehod-s-mbr-na-gpt-dlya-zhestkih-diskov-poshagovoe-opisanie-metoda-v-windows-bez-ispolzovaniya-instrumentov-konvertacii/"><u>Переход С MBR На GPT Для Жестких Дисков: Пошаговое Описание Метода В Windows Без Использования Инструментов Конвертации</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-vivid-visionary-views-premium-4k-screen-choices-for-2024/"><u>[New] Vivid Visionary Views Premium 4K Screen Choices for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-narrative-basics-explanation-for-2024/"><u>[Updated] Narrative Basics Explanation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reflection-photography-tips-for-iphone/"><u>[Updated] Reflection Photography Tips for iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/defining-moments-understanding-why-this-is-considered-the-best-era-for-smartphones/"><u>Defining Moments: Understanding Why This Is Considered the Best Era for Smartphones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-these-top-10-essential-siri-shortcuts-on-your-iphone-for-supercharged-productivity/"><u>Discover These Top 10 Essential Siri Shortcuts on Your iPhone for Supercharged Productivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-implementing-a-functional-action-button-on-your-iphone/"><u>Easy Steps: Implementing a Functional Action Button on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-how-to-handle-overheating-devices/"><u>Effective Strategies: How to Handle Overheating Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-exercise-routine-with-these-essential-fitness-tracker-hacks-6-tips/"><u>Elevate Your Exercise Routine with These Essential Fitness Tracker Hacks (6 Tips)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-iphone-snaps-a-beginners-guide-to-using-the-photos-app-for-easy-edits/"><u>Enhance Your iPhone Snaps: A Beginner's Guide to Using the Photos App for Easy Edits</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-s23-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel S23 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-asus-pce-ac56-wifi-adapter-drivers-compatible-with-windows-11-8-and-7/"><u>Resolved: ASUS PCE-AC56 WiFi Adapter Drivers Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://article-posts.techidaily.com/sound-brilliance-for-podcasters-top-10-microphones/"><u>Sound Brilliance for Podcasters Top 10 Microphones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone-for-2024/"><u>Top 5 Podcast Apps for Listening to Podcasts on an iPhone for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-samsung-smart-tv-applications-in-2n-2024/"><u>Top Rated Samsung Smart TV Applications in 2N 2024</u></a></li>
 </ul></div>
 

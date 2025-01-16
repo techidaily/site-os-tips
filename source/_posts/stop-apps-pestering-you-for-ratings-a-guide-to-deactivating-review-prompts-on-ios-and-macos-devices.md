@@ -1,7 +1,7 @@
 ---
 title: "Stop Apps Pestering You for Ratings: A Guide to Deactivating Review Prompts on iOS and macOS Devices"
-date: 2025-01-06T23:17:40.653Z
-updated: 2025-01-09T17:19:08.883Z
+date: 2025-01-09T17:33:00.022Z
+updated: 2025-01-15T16:52:54.006Z
 tags:
   - ios
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  User ratings and reviews help developers improve their apps but nagging users with in-app pop-ups asking for reviews or ratings isn't acceptable. Thankfully, Apple lets you turn off these pesky rating and review requests on your iPhone and Mac. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on an iPhone or iPad
@@ -35,11 +35,11 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![Turning off the In-App Ratings & Reviews option on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Off In-App Ratings and Reviews Pop-Ups on a Mac
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![Accessing App Store Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-3-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the "Settings" window, uncheck the checkbox next to "In-App Ratings & Reviews."
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![Turning off the In-App Ratings & Reviews option on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-off-in-app-reviews-and-ratings-on-iphone-and-mac-4.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -81,19 +81,15 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-from-script-to-screen-crafting-your-unique-youtube-tale/"><u>[New] In 2024, From Script to Screen Crafting Your Unique YouTube Tale</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-visual-stories-from-vids-to-interactive-gifs/"><u>[Updated] 2024 Approved Tweeting Visual Stories From Vids to Interactive GIFs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-treasure-trove-sifting-through-the-top-10-economical-online-art-hubs/"><u>[Updated] A Treasure Trove Sifting Through the Top 10 Economical Online Art Hubs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-guide-to-adding-snapchat-on-your-macbook-for-2024/"><u>[Updated] Quick Guide to Adding Snapchat on Your MacBook for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-windows-photo-viewer-restoration-guide-for-11-users/"><u>[Updated] Windows Photo Viewer Restoration Guide for 11 Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-k11x-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo K11x PC | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/billboard-music-awards-2022-live-performance-full-hd-streaming-and-download/"><u>Billboard Music Awards 2022 Live Performance - Full HD Streaming and Download</u></a></li>
-<li><a href="https://os-tips.techidaily.com/decoding-ocr-functionality-on-ios-devices-insights-into-operations-of-ocr-in-ios-18-and-17/"><u>Decoding OCR Functionality on iOS Devices: Insights Into Operations of OCR in iOS 18 and 17</u></a></li>
-<li><a href="https://os-tips.techidaily.com/generate-unique-free-ipad-admin-login-credentials-at-no-cost/"><u>Generate Unique, Free iPad Admin Login Credentials at No Cost</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-connecting-your-ipad-to-a-pc-via-screen-mirroring-on-windows-versions/"><u>Guide: Connecting Your iPad to a PC via Screen Mirroring on Windows Versions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-rebooting-your-apple-watch-withwithout-the-help-of-an-iphone/"><u>Step-by-Step Guide: Rebooting Your Apple Watch With/Without the Help of an iPhone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweet-vids-made-easy-and-free-to-gif-transformation-for-2024/"><u>Tweet Vids Made Easy & Free To GIF Transformation for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-and-configuring-ios-17-standby-mode-on-your-iphone-a-step-by-step-guide/"><u>Understanding and Configuring iOS 17 Standby Mode on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-the-power-of-mms-a-comprehensive-guide-on-activating-multimedia-messaging/"><u>Unlocking the Power of MMS: A Comprehensive Guide on Activating Multimedia Messaging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-scenes-of-online-content-monetization-for-2024/"><u>[Updated] Behind the Scenes of Online Content Monetization for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-non-rooting-methods-to-record-android-sounds/"><u>[Updated] Non-Rooting Methods to Record Android Sounds</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-methods-for-retrieving-lost-call-history-from-iphoneandroid-devices-successfully/"><u>Best Methods for Retrieving Lost Call History From iPhone/Android Devices Successfully</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-restoring-deleted-items-from-itunes-backup-efficient-data-recovery-solutions/"><u>Complete Guide to Restoring Deleted Items From iTunes Backup: Efficient Data Recovery Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-strategies-regain-full-control-of-your-gmail-with-these-proven-forgotten-password-solutions/"><u>Expert Strategies: Regain Full Control of Your Gmail with These Proven Forgotten Password Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-compilation-offline-ios-games-to-delight-in/"><u>In 2024, The Ultimate Compilation Offline iOS Games to Delight In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-with-claude-the-ai-leader-in-tech/"><u>Navigating the Future with Claude: The AI Leader in Tech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-substitutes-for-imobie-phonerescue-professional-data-restoration-solutions/"><u>Top Substitutes for iMobie PhoneRescue: Professional Data Restoration Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/transforming-views-into-a-following/"><u>Transforming Views Into a Following</u></a></li>
 </ul></div>
 

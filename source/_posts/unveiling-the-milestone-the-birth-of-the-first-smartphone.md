@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2025-01-07T00:04:37.630Z
-updated: 2025-01-10T00:17:38.788Z
+date: 2025-01-12T16:41:59.412Z
+updated: 2025-01-15T21:00:32.095Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,16 +88,17 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-explore-and-master-group-communication-using-zoom-on-phone/"><u>[New] 2024 Approved Explore & Master Group Communication Using Zoom on Phone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-choosing-top-8-free-srt-services-for-2024/"><u>[New] The Ultimate Guide to Choosing Top 8 Free SRT Services for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-obs-toolkit-for-flawless-instagram-streams/"><u>[Updated] In 2024, The Complete OBS Toolkit for Flawless Instagram Streams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-skaldic-odyssey-ragnarok-awakens/"><u>[Updated] In 2024, The Skaldic Odyssey Ragnarök Awakens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-undercover-audio-gems-top-6-non-public-mobile-voice-capturers/"><u>[Updated] In 2024, Undercover Audio Gems Top 6 Non-Public Mobile Voice Capturers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-popular-tiktok-creations-dominating-twitter-discussions/"><u>2024 Approved Popular TikTok Creations Dominating Twitter Discussions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-for-iphones-unable-to-complete-ios-1817-update-process/"><u>Effective Solutions for iPhones Unable to Complete iOS 18/17 Update Process</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tutorial-effortless-ways-to-access-or-disconnect-from-ipods-recovery-environment/"><u>Expert Tutorial: Effortless Ways to Access or Disconnect From iPod's Recovery Environment</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-iphone-display-issues-essential-guidelnces-and-hacks/"><u>How To Fix iPhone Display Issues: Essential Guidelnces & Hacks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-guide-seamlessly-entering-and-exiting-recovery-mode-on-your-ipad/"><u>How To Guide: Seamlessly Entering & Exiting Recovery Mode on Your iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/overcoming-issues-with-imessage-delivery-a-step-by-step-guide/"><u>Overcoming Issues with iMessage Delivery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-pros-and-cons-free2webcam-software-analysis/"><u>[New] 2024 Approved Pros & Cons Free2WebCam Software Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-insights-leveraging-inshot-for-editing-devices/"><u>[Updated] 2024 Approved Expert Insights Leveraging Inshot for Editing Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-beginners-primer-on-ai/"><u>A Beginner’s Primer on AI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-solutions-for-the-itbm-driver-missing-error-message/"><u>Effortless Solutions for the ITBM Driver Missing Error Message</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-anker-maggo-dual-charging-platform-revealed-supports-qi-and-usb-c/"><u>In-Depth Anker MagGo Dual Charging Platform Revealed: Supports Qi & USB-C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-rollout-introduces-major-improvements-to-home-interface-and-mail-app-features-discover-how/"><u>IOS 18 Rollout Introduces Major Improvements to Home Interface and Mail App Features – Discover How!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-guide-mastering-the-art-of-looping-videos/"><u>IPhone Guide: Mastering the Art of Looping Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keep-every-call-a-comprehensive-method-to-store-iphone-voicemail-recordings/"><u>Keep Every Call: A Comprehensive Method to Store iPhone Voicemail Recordings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-13-download-video-editing-software/"><u>New Free Filmora 13 Download Video Editing Software</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/securing-chrome-against-persistent-pop-ups-a-guide-using-malwarefox-for-optimal-defense/"><u>Securing Chrome Against Persistent Pop-Ups: A Guide Using MalwareFox for Optimal Defense</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-ransomware-with-mobile-economy-wisdom/"><u>Unraveling Ransomware with Mobile Economy Wisdom</u></a></li>
 </ul></div>
 

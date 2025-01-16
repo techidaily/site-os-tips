@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Creating and Installing Personalized iPhone Ringtones"
-date: 2025-01-06T04:17:10.033Z
-updated: 2025-01-09T22:53:06.545Z
+date: 2025-01-13T01:43:29.513Z
+updated: 2025-01-15T18:33:52.711Z
 tags:
   - ios
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ###### [Read update](https://buynow-help.techidaily.com/in-depth-look-at-the-razer-blade-pro-17-high-performance-on-the-go/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
  This process changed a bit with iTunes 12.7 and subsequent releases. The "Tones" library you could previously sync with your iPhone has been removed, but you can still manually place ringtone files on your phone. Any ringtones you had stored in iTunes are now located at `C:\Users\NAME\Music\iTunes\iTunesMediaTones`on a Windows PC or `~/Music/iTunes/iTunes Media/Tones/` on a Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step One: Get iTunes
 
  You almost never have to use iTunes with a [modern iPhone](https://vimeo-videos.techidaily.com/in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/), but adding your own custom ringtones still requires it.
@@ -58,17 +54,21 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Click "Open."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/click-Open.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the part of the audio file you want to use and click the "Save" button.
 
 ![Select the portion of the audio file you want, then click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/select-the-portion-you-want-and-click-Save.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Download the edited clip to your PC by clicking "Save" again. This is the file you'll need to import into iTunes.
 
 ![Click "Save."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/click-save.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step Three: Convert the MP3 to AAC
 
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
  First, add the sound file to iTunes and locate it in your library. You can do this by dragging and dropping the file directly into the iTunes library. Look under Library > Songs for the file afterward.
 
 ![Drag your audio file into itunes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00db266b1ee.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select the sound file in iTunes and click File > Convert > Create AAC Version.
 
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Both AAC and MPEG versions are present.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00db6a3a0c8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You now have your ringtone file as an AAC file. However, you need to change its file extension so iTunes will recognize it as a ringtone file.
 
  First, drag and drop the AAC file from the iTunes library to your Desktop or any other folder on your system.
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ![Change the file extension to .m4r.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dbce3d6e5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step Five: Add the Ringtone File to Your Phone
@@ -130,26 +130,22 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Go to the tones folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dc362344c.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Drag and drop the .m4r ringtone file from its folder to the Tones section in iTunes.
 
  If drag and drop doesn't work, use copy and paste instead. Select the ringtone file in File Explorer and press Ctrl+C, or right-click it and select copy. Next, click inside the Tones list inside iTunes and press Ctrl+V to paste it. Additionally, this part seems to break with the Microsoft Store version of iTunes. If you can't drag and drop or copy and paste the file into iTunes, try downloading and installing [iTunes from Apple's website](https://www.apple.com/itunes/) instead. Scroll about halfway down Apple's page until you see "Looking for other versions?" and then click "Windows." Click "Download" once the option appears.
 
 ![Drag and drop (or copy and paste) the ringtone you made into the tones folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dc9749744.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iTunes will sync the ringtone to your phone and it will immediately appear under Tones here.
 
 ![The new ringtone should sync immediately.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dcba72471.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step Six: Choose the Ringtone
@@ -158,19 +154,23 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![The "Sound and Haptics" options on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/tap-ringtone-button.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then choose your custom ringtone. Any custom ringtones you've added will appear at the top of the list, and all of the default ringtones will be listed below the small line.
 
 ![A custom ringtone on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/great-gig-in-the-sky.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also [assign that ringtone to a specific contact](https://youtube-zero.techidaily.com/ed-2024-approved-branding-excellence-youtube-naming-masterclass/), so you know who's calling just by the sound.
 
  To remove ringtones, reconnect your phone to iTunes and head back to the On My Device > Tones section. Right-click a tone and select "Delete from Library" to remove it from your device.
 
 ![If you want to remove the ringtone, right click and click &quot;Delete from Library.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/img_5a00dd95c71d6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're not short on space, there isn't any real need to delete the ringtones you add. You can have as many as you'd like!
 
@@ -189,17 +189,22 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-discovering-the-dynamics-of-whatsapp-vocal-messages-for-2024/"><u>[New] Discovering the Dynamics of WhatsApp Vocal Messages for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-amplify-your-facebook-presence-with-mobile-music-files/"><u>2024 Approved Amplify Your Facebook Presence with Mobile Music Files</u></a></li>
-<li><a href="https://video-capture.techidaily.com/decoding-mycam-cams-video-quality-and-recording-speed/"><u>Decoding MyCam Cam’s Video Quality and Recording Speed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-fifa-22-from-crashing-on-pc-solutions-proven-effective/"><u>How to Prevent FIFA 22 From Crashing on PC – Solutions Proven Effective</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-must-have-gear-for-road-trip-documentaries/"><u>In 2024, Must-Have Gear for Road Trip Documentaries</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/october-prime-deals-apple-m3-macbook-air-now-at-a-250-discount-on-amazon/"><u>October Prime Deals: Apple M3 MacBook Air Now at a $250 Discount on Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-reconfiguring-your-macs-command-key-tips/"><u>Step-by-Step Guide: Reconfiguring Your Mac's Command Key - Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-cutting-edge-of-content-tips-for-the-trendy-tiktoker-for-2024/"><u>The Cutting Edge of Content Tips for the Trendy TikToker for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-for-connecting-iphone-to-samsung-tv-screen-mirroring-simplified/"><u>The Ultimate Tutorial for Connecting iPhone to Samsung TV – Screen Mirroring Simplified</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-and-devices-for-seamless-iphone-wi-fi-connection/"><u>Top Strategies & Devices for Seamless iPhone Wi-Fi Connection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-iphones-5g-connection-issues-expert-solutions-for-optimal-performance/"><u>Troubleshooting Your iPhone's 5G Connection Issues: Expert Solutions for Optimal Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-top-quality-prints-from-heic-images/"><u>Ultimate Guide: Mastering Top-Quality Prints From HEIC Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-effortlessly-erase-photo-borders-with-photopea/"><u>[New] Effortlessly Erase Photo Borders with Photopea</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-engaging-audiences-on-multiple-digital-landscapes/"><u>[New] In 2024, Engaging Audiences on Multiple Digital Landscapes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-clear-choice-for-cost-free-screen-capture-technology/"><u>[New] The Clear Choice for Cost-Free Screen Capture Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-the-gap-in-tech-how-intel-ai-chief-wei-li-plans-to-popularize-modern-day-ai-supercomputing-zdnet-insights/"><u>Bridging the Gap in Tech: How Intel AI Chief Wei Li Plans to Popularize Modern-Day AI Supercomputing | ZDNET Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-get-back-lost-or-erased-iphone-contacts-from-your-mac-using-straightforward-techniques/"><u>How to Get Back Lost or Erased iPhone Contacts From Your Mac Using Straightforward Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-friends-information-from-facebook-messenger-on-ios-devices/"><u>How to Retrieve Lost Friends' Information From Facebook Messenger on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/icloud-file-rescue-efficiently-restore-deleted-items-from-your-icloud-backups/"><u>ICloud File Rescue: Efficiently Restore Deleted Items From Your iCloud Backups</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-lol-recording-three-easy-techniques/"><u>In 2024, Mastering LOL Recording Three Easy Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-guide-to-superior-free-lut-options/"><u>In 2024, The Ultimate Guide to Superior, Free LUT Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y28-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y28 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-iphone-images-swift-fixes-and-restoration-tips/"><u>Lost iPhone Images: Swift Fixes & Restoration Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-mission-how-to-get-back-lost-chats-from-your-ipod-touch-ios-versions-5-and-4/"><u>Rescue Mission: How to Get Back Lost Chats From Your iPod Touch (iOS Versions 5 & 4)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rescue-your-missing-numbers-a-guide-to-retrieving-removed-contacts-on-your-iphone/"><u>Rescue Your Missing Numbers: A Guide to Retrieving Removed Contacts on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-lost-footage-a-step-by-step-guide-to-retrieving-deleted-video-content-on-your-ipad/"><u>Restoring Lost Footage: A Step-by-Step Guide to Retrieving Deleted Video Content on Your iPad</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-the-unforeseen-store-issue-on-windows-11-systems/"><u>Step-by-Step Guide: Correcting the Unforeseen Store Issue on Windows 11 Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-your-icloud-images-on-iphone-via-photo-stream-or-library/"><u>Step-by-Step Guide: Retrieving Your iCloud Images on iPhone via Photo Stream or Library</u></a></li>
 </ul></div>
 

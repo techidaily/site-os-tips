@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2025-01-02T00:46:52.797Z
-updated: 2025-01-03T00:48:38.014Z
+date: 2025-01-10T23:10:14.005Z
+updated: 2025-01-15T23:14:18.261Z
 tags:
   - ios
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ## Step-by-Step Guide: Updating Your AirPods Battery & Firmware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [AirPods Typically Update the Firmware Automatically](https://facebook.techidaily.com/beyond-the-newsfeed-narrative-unveiling-fact-fiction-at-facebook/)
 * [How to Check Which Firmware Your AirPods Are Running](https://facebook-record-videos.techidaily.com/principles-of-filming-inspirational-daily-living-documentaries-for-2024/)
 * [How to Force an AirPods Firmware Update](https://printer-issues.techidaily.com/canon-printer-setup-simplified-with-pictures/)
 * [What About Android Users?](https://some-techniques.techidaily.com/in-2024-highlighted-top-5-minimalist-action-camera-picks/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  Apple's AirPods are one of the company's most popular accessories, and they're pretty great. Like all modern wireless headphones, they have firmware that sometimes needs to be updated for optimal performance. AirPods firmware should update automatically, but here's how to force an update if needed.
 
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  AirPods Typically Update the Firmware Automatically
 
@@ -48,15 +44,15 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  However, there are some times you may wish to kick an update off manually. First, let's check which version of software the AirPods are running currently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Check Which Firmware Your AirPods Are Running
 
  With your AirPods in their Charging Case, open the lid near your iPhone. Dismiss the on-screen battery indicator that appears and then open the Settings app.
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Inside the Settings app, tap the "General" button.
 
@@ -66,21 +62,17 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
 
@@ -90,9 +82,17 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -115,16 +115,18 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>[Updated] How To Downgrade Or Rollback The macOs Sierra To Os X El Capitan</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-methods-for-downloading-anime-from-various-websites-a-comprehensive-guide/"><u>Best Methods for Downloading Anime From Various Websites: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-guide-to-nomad-tracker-cards-the-ultimate-wallet-companion/"><u>Essential Guide to Nomad Tracker Cards: The Ultimate Wallet Companion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-customizing-your-apple-watchs-activity-log-with-offline-workouts/"><u>Expert Tips: Customizing Your Apple Watch's Activity Log with Offline Workouts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-enhanced-privacy-features-in-the-latest-update-of-google-maps-for-ios-and-android-devices/"><u>Explore Enhanced Privacy Features in the Latest Update of Google Maps for iOS & Android Devices</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-entertainment-gems-in-the-world-of-pokemon-shining-pearl/"><u>Exploring Entertainment Gems in the World of Pokémon Shining Pearl</u></a></li>
-<li><a href="https://os-tips.techidaily.com/free-access-to-apple-developer-beta-versions-risky-move-or-great-opportunity/"><u>Free Access to Apple Developer Beta Versions: Risky Move or Great Opportunity?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-ready-upcoming-iphone-tap-to-pay-functionality-through-external-app-developers/"><u>Get Ready! Upcoming iPhone Tap-to-Pay Functionality Through External App Developers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hands-on-guide-to-the-functionality-of-nooks-9-inch-lenovo-slates/"><u>Hands-On Guide to the Functionality of Nook's 9-Inch Lenovo Slates</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-samsung-ubd-k8500-review/"><u>In 2024, Samsung UBD-K8500 Review</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-photography-top-10-watermark-software/"><u>[New] 2024 Approved Essential Photography Top 10 Watermark Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-leading-15-android-virtual-machines-for-your-devices/"><u>[New] 2024 Approved The Leading 15 Android Virtual Machines for Your Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-captivating-channels-spotlight-on-the-most-popular-female-creators-for-2024/"><u>[Updated] Captivating Channels Spotlight on the Most Popular Female Creators for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oneplus-nord-3-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a58-4g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A58 4G by Name | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-the-share-play-status-feature-work-on-iphones/"><u>How Does the 'Share Play Status' Feature Work on iPhones?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-combine-several-emojis-into-a-single-icon-on-ios-devices/"><u>How to Combine Several Emojis Into a Single Icon on iOS Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-poco-c65-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Poco C65 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-script-to-screen-professional-youtube-editing-secrets/"><u>In 2024, From Script to Screen Professional YouTube Editing Secrets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-user-friendly-interfaces-lessons-from-the-successful-tea-timer-app-model/"><u>Mastering User-Friendly Interfaces: Lessons From the Successful Tea Timer App Model</u></a></li>
+<li><a href="https://os-tips.techidaily.com/monitoring-your-emotional-well-being-using-apple-health-app/"><u>Monitoring Your Emotional Well-Being Using Apple Health App</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-tiktok-video-magic-how-to-reverse-speed-up-and-slow-down-clips/"><u>New TikTok Video Magic How to Reverse, Speed Up, and Slow Down Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-xc0351000-error-lack-of-hypervisor-in-windows-sandbox/"><u>Solving XC0351000 Error - Lack of Hypervisor in Windows Sandbox</u></a></li>
 </ul></div>
 

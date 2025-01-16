@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2025-01-03T06:08:18.735Z
-updated: 2025-01-10T01:46:41.068Z
+date: 2025-01-10T17:04:21.686Z
+updated: 2025-01-15T17:08:27.462Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 ## Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT and Claude are leading AI companies with impressive web applications.
@@ -22,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 * Claude's mobile app outperforms ChatGPT's by offering fast responses and better usability.
 
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  GPT vs. Claude On The Web
 
@@ -35,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
@@ -70,7 +74,7 @@ Close
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Dookeran/How-to-Geek
@@ -82,16 +86,12 @@ Jason Dookeran/How-to-Geek
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Which Mobile App Is Better?
 
@@ -112,18 +112,19 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-voice-assignment-verification/"><u>[New] In 2024, Voice Assignment Verification</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-obs-configuration-for-budget-pcs/"><u>[Updated] Optimal OBS Configuration for Budget PCs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-catch-up-effective-methods-for-skipping-edgenuity-courses/"><u>[Updated] Quick Catch-Up Effective Methods for Skipping Edgenuity Courses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-rated-buytech-products-for-the-holidnseason-2023-edition-zdnet/"><u>Best-Rated BuyTech Products for the HolidnSeason - 2023 Edition | ZDNet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-your-airpods-now-unravel-the-mystery-of-persistent-connectivity-breakdowns-with-our-top-8-quick-solutions/"><u>Fix Your AirPods Now! Unravel the Mystery of Persistent Connectivity Breakdowns with Our Top 8 Quick Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/frustrated-with-samsungs-wear-os-now-enjoying-the-apple-watch-alternative-on-iphone/"><u>Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-apple-magsafe-charging-pad-today-for-a-low-price-of-32/"><u>Get Your Apple MagSafe Charging Pad Today for a Low Price of 32$!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hack-free-gaming-quick-fix-for-legends-crash/"><u>Hack-Free Gaming: Quick Fix for Legends Crash</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-assistive-touch-transforms-iphones-into-essential-communication-devices/"><u>How Assistive Touch Transforms iPhones Into Essential Communication Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782155-9781620551745-the-path-of-initiation/"><u>The Path of Initiation | Free Book</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-techniques-for-recording-audio-inputs-seamlessly-on-desktop-mobile-os-android-devices-and-iphones/"><u>Top Techniques for Recording Audio Inputs Seamlessly on Desktop, Mobile OS, Android Devices, and iPhones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/understanding-apples-audio-content-guidelines-for-2024/"><u>Understanding Apple’s Audio Content Guidelines for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-why-your-windows-files-may-have-an-x/"><u>Understanding Why Your Windows Files May Have an X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-transforming-online-meetings-choose-from-these-top-5-recorders-for-2024/"><u>[New] Transforming Online Meetings Choose From These Top 5 Recorders for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unlimited-verbal-input-processing-for-free-for-2024/"><u>[Updated] Unlimited Verbal Input Processing for Free for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-round-the-clock-insight-detailed-look-at-google-podcast/"><u>2024 Approved Round-the-Clock Insight Detailed Look at Google Podcast</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-downloading-all-members-of-your-whatsapp-group-chat/"><u>A Comprehensive Guide to Downloading All Members of Your WhatsApp Group Chat</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-sync-and-save-your-iphones-music-library-onto-a-mac-or-pc/"><u>Comprehensive Tutorial: Sync & Save Your iPhone's Music Library Onto a Mac or PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-transferring-and-saving-your-whatsapp-group-contacts/"><u>Easy Steps: Transferring and Saving Your WhatsApp Group Contacts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-guide-why-your-iphone-cant-back-up-and-how-to-enable-cloud-storage-sync/"><u>Fix Guide: Why Your iPhone Can't Back Up and How to Enable Cloud Storage Sync</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-netgear-a6100-driver-for-your-windows-pc-easy-guide-to-update/"><u>Get the Newest Netgear A6100 Driver for Your Windows PC: Easy Guide to Update</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-screen-snag-reviewed-in-depth-analysis/"><u>In 2024, Screen Snag Reviewed In-Depth Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mac-dvddigiarty/"><u>Mac DVD書き込みプログラム・動画編集ツール「Digiarty」からの新リリース</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-access-track-down-your-latest-facebook-watches-for-2024/"><u>Seamless Access Track Down Your Latest Facebook Watches for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-7-best-note-taking-apps-for-windows-pen-tablet-users/"><u>The 7 Best Note-Taking Apps for Windows Pen Tablet Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/thinkpad-drivers-on-the-rise-windows-10-version/"><u>Thinkpad Drivers on the Rise: Windows 10 Version</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-manual-for-removing-all-itunes-backups-across-your-computer-and-icloud-accounts/"><u>Ultimate Manual for Removing All iTunes Backups Across Your Computer and iCloud Accounts</u></a></li>
 </ul></div>
 
