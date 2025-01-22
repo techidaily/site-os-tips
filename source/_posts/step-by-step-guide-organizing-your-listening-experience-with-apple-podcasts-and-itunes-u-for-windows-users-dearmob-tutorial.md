@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Organizing Your Listening Experience with Apple Podcasts and iTunes U for Windows Users - DearMob Tutorial"
-date: 2025-01-11T21:53:11.132Z
-updated: 2025-01-16T00:53:44.437Z
+date: 2025-01-21T03:52:23.980Z
+updated: 2025-01-21T23:35:16.801Z
 tags:
   - iphone-manager
 categories:
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![export podcasts to PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-export-podcast-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 * Get real-time data of your iPhone, iPad or iPod using the Refresh button.
@@ -49,6 +45,14 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![add podcasts from pc](https://www.5kplayer.com/user-guide/images/userguide-how/guide-add-podcast-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Delete Podcasts from iPhone, iPad, or iPod
 
 1\. Select the podcasts you want to remove from your iPhone storage.
@@ -59,13 +63,17 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![delete podcasts on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-delete-podcast-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Export iTunes U from iPhone, iPad, or iPod to PC
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Note:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * iTunes U content has been shifted to Podcast section of iTunes by Apple since iTunes 12.7\. In accord with the changes, DearMob automatically add videos/audio you drop in iTunes U section to the Podcast list.
 
@@ -78,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Export iTunes U to PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-export-itunes-u-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add iTunes U to iPhone, iPad, or iPod from PC
@@ -95,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 * **Supported input formats**: MP4 H.264, MP4 H.265, MKV, MOV, WMV, AVI, etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Delete iTunes U from iPhone, iPad, or iPod
 
 1\. Select the iTunes U lessons added by you in the DearMob Podcast center.
@@ -110,22 +114,18 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Delete iTunes U on PC](https://www.5kplayer.com/user-guide/images/userguide-how/guide-delete-itunes-u-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Delete Podcasts from iPhone?
 
 You can delete podcast episodes on your iPhone in the Podcasts app by tapping the Remove Download button one by one. And you can also delete all podcasts from your iPhone using DearMob iPhone Manager. Select all the episodes in the Podcast menu of DearMob, then click Delete Podcast to remove them all in bulk.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can I Change the Backup Directory When Exporting Apple Podcasts?
 
@@ -146,18 +146,24 @@ Yes. You can change the save path by going to Settings from the main interface. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-easy-steps-for-extracting-your-fb-status-videos/"><u>[New] 2024 Approved Easy Steps for Extracting Your FB Status Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tailored-approach-software-free-vs-softwares-for-vimeo-download/"><u>[Updated] 2024 Approved Tailored Approach Software-Free Vs. Softwares For Vimeo Download</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-comprehensive-guide-to-nvidia-screener-use-for-2024/"><u>[Updated] Comprehensive Guide to NVIDIA Screener Use for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-in-youtubing-equipment-essentials-for-2024/"><u>[Updated] From Zero to Hero in YouTubing Equipment Essentials for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/adequate-storage-for-apple-iphones-are-64128256512gb-capacities-enough-to-meet-user-needs/"><u>Adequate Storage for Apple iPhones: Are 64/128/256/512GB Capacities Enough to Meet User Needs?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-iphones-capacity-with-imyfone-umate-pro-top-reviews-and-effective-alternatives/"><u>Boost Your iPhone's Capacity with IMyFone Umate Pro: Top Reviews and Effective Alternatives</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-image-deletion-master-five-effective-methods-for-cleaning-up-whatsapp-photos-on-iphones-and-androids/"><u>Effortless Image Deletion: Master Five Effective Methods for Cleaning Up WhatsApp Photos on iPhones and Androids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-quick-guide-to-instagrams-magnification-magic/"><u>In 2024, The Quick Guide to Instagram's Magnification Magic</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-message-deletion-guide-securely-erase-texts-and-keep-data-safe-with-our-free-recovery-tips/"><u>IPhone Message Deletion Guide: Securely Erase Texts and Keep Data Safe with Our Free Recovery Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-storage-a-step-by-step-guide-to-removing-and-uninstalling-ios-applications-on-your-iphone-7/"><u>Maximizing Storage: A Step-by-Step Guide to Removing & Uninstalling iOS Applications on Your iPhone 7</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/realtime-recording-titans-for-2024/"><u>RealTime Recording Titans for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components and Gadgets</u></a></li>
-<li><a href="https://facebook.techidaily.com/transforming-home-entertainment-with-facebook-portals-for-videocalls/"><u>Transforming Home Entertainment with Facebook Portals for Videocalls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-economical-action-filmmaking-gear-for-the-aspiring-pro/"><u>[New] Economical Action Filmmaking Gear for the Aspiring Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-most-memorable-tiktok-videos-and-their-twitter-spreads/"><u>[New] Most Memorable TikTok Videos & Their Twitter Spreads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-recommended-5-ps1-game-simulators-on-your-pc/"><u>[Updated] Expert-Recommended 5 PS1 Game Simulators on Your PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-become-a-pro-at-mac-audio-recording-using-audacity-today/"><u>In 2024, Become a Pro at Mac Audio Recording Using Audacity Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-hot-40-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Hot 40 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-gpt-3s-custom-instruction-mechanism/"><u>Navigating Through GPT-3’s Custom Instruction Mechanism</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-file-organizers-appearance-changing-folder-colors-on-a-mac/"><u>Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac!</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-transforming-your-mxf-files-into-compatible-mp4-format/"><u>Step-by-Step Guide: Transforming Your MXF Files Into Compatible MP4 Format</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-day-proven-iphone-shortcut-techniques-for-enhanced-efficiency/"><u>Transform Your Day: Proven iPhone Shortcut Techniques for Enhanced Efficiency</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-ipad-gameplay-using-the-apple-pencil-a-step-by-step-guide-to-better-entertainment/"><u>Transform Your iPad Gameplay Using the Apple Pencil - A Step-by-Step Guide to Better Entertainment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-apple-id-the-truth-behind-disappearing-accounts/"><u>Understanding Your Apple ID: The Truth Behind 'Disappearing' Accounts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-creative-filmmaking-using-an-apple-watch-as-your-handy-audio-mic-explained/"><u>Unleash Creative Filmmaking: Using an Apple Watch as Your Handy Audio Mic Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-your-apple-watch-top-12-essential-functions-unveiled/"><u>Unleash Your Apple Watch: Top 12 Essential Functions Unveiled</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-m34-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy M34 password or pattern lock</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-new-efficiency-levels-with-apples-iphone-speech-to-text-capability/"><u>Unlock New Efficiency Levels with Apple's iPhone Speech-to-Text Capability</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-wireless-communication-setting-up-iphones-wi-fi-calling-feature/"><u>Unlock Wireless Communication: Setting Up iPhone's Wi-Fi Calling Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-mystery-a-comprehensive-guide-to-apples-freeform-app-usage/"><u>Unveiling the Mystery: A Comprehensive Guide to Apple’s Freeform App Usage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/urgent-patch-required-secure-your-ios-and-macos-devices-against-vulnerability/"><u>Urgent Patch Required: Secure Your iOS & macOS Devices Against Vulnerability</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/victory-over-visual-voids-a-step-by-step-fix-for-call-of-duty-wwii-black-screens-on-pc/"><u>Victory over Visual Voids: A Step-by-Step Fix for Call of Duty: WWII Black Screens on PC</u></a></li>
 </ul></div>
 

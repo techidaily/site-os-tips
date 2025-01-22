@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: How I Keep My iPhone Free of Memory Issues"
-date: 2024-12-27T13:05:46.656Z
-updated: 2025-01-03T07:45:01.880Z
+date: 2025-01-20T16:50:02.073Z
+updated: 2025-01-21T16:01:31.087Z
 tags:
   - ios
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![Offload App and Delete App options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-02-offload-or-delete-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also tell your iPhone to automatically offload apps and games you don’t use often when you start to run low on space. Open the Settings app and select General > iPhone Storage, then tap “Enable” next to Offload Unused Apps to turn the feature on.
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![App download history on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-04-redownload.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Clear Out Your Deleted Photos 
@@ -56,7 +56,15 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Recently Deleted photos menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-05-recently-deleted.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap “Select” in the top-right corner, then tap the three dots (…) that appear in the bottom-right corner. Choose “Delete All” from the pop-up menu, then tap “Delete From This iPhone” to permanently delete everything in your Recently Deleted folder. You'll want to do this regularly to keep your iPhone storage free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Pay Attention to the Size of Downloads 
 
@@ -67,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![App file size info on the iOS App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-06-app-store-info.jpg) 
 
  Something to keep in mind is that some apps and games (particularly [live service games](https://facebook-video-share.techidaily.com/unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube-for-2024/)) often download even more data once you start them up for the first time. Since I'm always trying to keep my iPhone storage free, I'm very particular about which large apps I download in the first place.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4  Move Photos and Videos to the Cloud 
 
@@ -86,13 +90,13 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Upload file option in Google Drive app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-08-google-drive.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap the plus (+) icon in the bottom-right corner and select “Upload File” from the pop-up menu. Choose “Photos and Videos” (you may need to give the app access to your Photo Library first), select one or more photos or videos, then tap “Done.”
 
  Choose the “Recents” album from the pop-up menu and select the files again, then tap “Upload” to transfer them to the selected Google Drive folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Adjust the Photo and Video Settings 
 
@@ -104,16 +108,12 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 ![Record Video resolution and fps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-10-record-video-options.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Back in the Camera menu, select “Formats” and change the Camera Capture setting to “High Efficiency.” Turn off the toggle next to “Apple ProRAW” to reduce photo file sizes, too.
 
 ![Apple ProRAW toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-12-apple-proraw.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Use an Old Phone for Spillover 
@@ -143,18 +143,20 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-lg-bp550-review-2023-update-for-2024/"><u>[Updated] LG BP550 Review - 2023 Update for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-online-monetization-mission-youtube-to-your-bank-for-2024/"><u>[Updated] The Online Monetization Mission YouTube to Your Bank for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://os-tips.techidaily.com/counterfeit-copycat-of-lastpass-unveiled-in-ios-app-catalog/"><u>Counterfeit Copycat of LastPass Unveiled in iOS App Catalog</u></a></li>
-<li><a href="https://os-tips.techidaily.com/covert-techniques-for-intercepting-imessages-without-sending-read-alerts/"><u>Covert Techniques for Intercepting iMessages without Sending Read Alerts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/disappearance-of-the-original-app-store-game-emulator-a-detailed-insight/"><u>Disappearance of the Original App Store Game Emulator: A Detailed Insight</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dynamic-directionality-prime-phone-friendly-tripods/"><u>Dynamic Directionality Prime Phone-Friendly Tripods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easily-access-music-recognition-with-shazam-on-your-iphones-control-panel/"><u>Easily Access Music Recognition with Shazam on Your iPhone's Control Panel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-capture-spectacular-video-on-youtube-top-webcam-picks/"><u>In 2024, Capture Spectacular Video on YouTube Top Webcam Picks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-monetization-showdown-dailymotion-versus-youtube/"><u>In 2024, Monetization Showdown Dailymotion Versus YouTube</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-the-best-video-editing-experience-on-windows-8-and-above/"><u>New 2024 Approved Get the Best Video Editing Experience on Windows 8 and Above</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-ae-text-styles-guide-for-2024/"><u>Top 10 AE Text Styles Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-dji-flight-aesthetics-start-with-free-trial-lutts-for-2024/"><u>[Updated] Enhance DJI Flight Aesthetics – Start With Free Trial LUTTs for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mac-methods-for-cleaner-instagram-video-edits/"><u>[Updated] In 2024, Mac Methods for Cleaner Instagram Video Edits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/5-effective-ways-to-cleanly-reset-and-prepare-your-iphone-for-a-new-owner/"><u>5 Effective Ways to Cleanly Reset and Prepare Your iPhone for a New Owner</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-iphone-cleaning-apps-top-4-picks-for-optimizing-performance/"><u>Best Free iPhone Cleaning Apps: Top 4 Picks for Optimizing Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-nord-security-unveiling-the-team-shaping-nordvpn-and-its-comprehensive-privacy-solutions-insights-from-zdnet/"><u>Discovering Nord Security: Unveiling the Team Shaping NordVPN and Its Comprehensive Privacy Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-for-managing-and-cleared-iphoneipad-battery-statistics/"><u>Easy Steps for Managing and Cleared iPhone/iPad Battery Statistics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortlessly-elusive-facial-shadows-harnessing-the-power-of-motion-blur-in-photos-with-picsart/"><u>Effortlessly Elusive Facial Shadows Harnessing the Power of Motion Blur in Photos with Picsart</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-samsung-galaxy-f15-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfecting-your-instagram-format-imovie-square-video-creation/"><u>In 2024, Perfecting Your Instagram Format IMovie Square Video Creation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620241095-maximize-your-iphone-capacity-effortless-ways-to-clear-a-packed-memory/"><u>Maximize Your iPhone Capacity: Effortless Ways to Clear a Packed Memory!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-erase-all-content-on-your-ipod-before-selling/"><u>Step-by-Step Guide: How to Erase All Content on Your iPod Before Selling</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-5-key-questions-to-ask-when-shopping-for-the-perfect-smartwatch/"><u>The 5 Key Questions to Ask When Shopping for the Perfect Smartwatch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-trick-to-uninstall-game-pigeon-on-ios-devices-via-imessage/"><u>Ultimate Trick to Uninstall Game Pigeon on iOS Devices via iMessage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-clear-media-content-off-iphoneipad/"><u>Ultimate Tutorial: How to Clear Media Content Off iPhone/iPad</u></a></li>
 </ul></div>
 

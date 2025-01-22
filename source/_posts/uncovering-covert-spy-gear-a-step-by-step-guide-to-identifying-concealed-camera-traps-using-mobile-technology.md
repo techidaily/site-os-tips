@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2025-01-09T01:55:57.284Z
-updated: 2025-01-15T18:01:39.799Z
+date: 2025-01-15T20:36:06.068Z
+updated: 2025-01-21T16:53:08.130Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 * [How to Spot Night Vision Cameras](https://facebook-video-share.techidaily.com/new-instant-subscription-monitoring-tools/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
@@ -62,23 +62,27 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
 
 ![Tap 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tap-find-open-ports.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -93,10 +97,6 @@ Josh Hendrickson / How-To Geek
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -119,24 +119,24 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos/"><u>[Updated] The Key Role of Image Quality in Generating Clicks on YouTube Videos</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/4-vrmp4/"><u>「評価済みのフリーウェアトップ4選: VRファイルをMP4にして、よりスムーズな再生体験」</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/advanced-aerial-imaging-unleashed-a-deep-dive-into-dji-mavic-3-specs-and-performance/"><u>Advanced Aerial Imaging Unleashed: A Deep Dive Into DJI Mavic 3 Specs and Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-on-valorant-the-ultimate-guide-to-fix-stutter-and-enhance-frame-rates/"><u>Boost Your Gameplay on Valorant: The Ultimate Guide to Fix Stutter and Enhance Frame Rates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-innovation-at-toms-hardware-leading-tech-insights-unveiled/"><u>Discover Innovation at Tom's Hardware: Leading Tech Insights Unveiled</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps/"><u>In 2024, Modulate Your Message A Top-Tier List of Voice Change Mobile Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-of-10-inspirational-movies/"><u>In 2024, The Ultimate Collection of 10 Inspirational Movies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-it-too-late-expert-insights-on-timing-your-next-iphone-upgrade/"><u>Is It Too Late? Expert Insights on Timing Your Next iPhone Upgrade</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-device-harmony-a-step-by-step-tutorial-on-iphone-and-mac-synchronization/"><u>Mastering Device Harmony: A Step-by-Step Tutorial on iPhone and Mac Synchronization</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximizing-productivity-advanced-tips-for-optimizing-reminders-in-ios-17/"><u>Maximizing Productivity: Advanced Tips for Optimizing Reminders in iOS 17</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mirroring-ios-devices-and-macs-to-an-apple-tv-a-step-by-step-guide/"><u>Mirroring iOS Devices and Macs to an Apple TV - A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/multi-app-transfer-made-easy-swiftly-moving-various-applications-simultaneously-on-your-ios-device/"><u>Multi-App Transfer Made Easy: Swiftly Moving Various Applications Simultaneously on Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-the-murky-waters-of-game-emulation-is-it-risk-free-today-but-at-risk-tomorrow/"><u>Navigating the Murky Waters of Game Emulation: Is It Risk-Free Today but at Risk Tomorrow?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/"><u>Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-for-pure-pleasure-the-six-best-non-paying-titles/"><u>Play for Pure Pleasure: The Six Best Non-Paying Titles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-insert-text-into-photos-using-your-iphone/"><u>Quick Tips: Insert Text Into Photos Using Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/silent-video-creation-on-ios-a-step-by-step-process-for-cutting-out-audio-before-posting/"><u>Silent Video Creation on iOS: A Step-by-Step Process for Cutting Out Audio Before Posting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-tech-troubles-stopping-abrupt-program-quits-in-windows/"><u>Tackling Tech Troubles: Stopping Abrupt Program Quits in Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-expert-setup-for-high-quality-video-transmission/"><u>[New] 2024 Approved Expert Setup for High-Quality Video Transmission</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-excellent-screen-grabber-aid-for-youtube-content-creators/"><u>[Updated] In 2024, Excellent Screen Grabber Aid for YouTube Content Creators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/15-effective-ways-to-troubleshoot-and-repair-your-iphones-malfunctioning-gps-featuring-the-latest-iphone-12/"><u>15 Effective Ways to Troubleshoot and Repair Your iPhone's Malfunctioning GPS, Featuring the Latest iPhone 12</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-ssd-remains-discounted-by-36-post-october-prime-deals-insights-for-tech-enthusiasts-on-zdnet/"><u>Amazon's 8TB Samsung T5 SSD Remains Discounted by 36% Post-October Prime Deals - Insights for Tech Enthusiasts on ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/cant-remember-your-ios-device-lock-code-easy-solutions-for-accessing-your-phone/"><u>Can't Remember Your iOS Device Lock Code? Easy Solutions for Accessing Your Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-tips-for-resetting-your-ipod-device-solutions-included/"><u>Comprehensive Troubleshooting Tips for Resetting Your iPod Device - Solutions Included</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-resolve-iphone-models-15-11-and-x-echo-issues-with-these-4-steps/"><u>Effortless Solutions: Resolve iPhone (Models 15-11 & X) Echo Issues with These 4 Steps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-asuss-mg28uq-a-deep-dive-into-4k-uxga-for-2024/"><u>Exploring ASUS's MG28UQ - A Deep Dive Into 4K UXGA for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-the-issue-iphone-frozen-during-ios-1817-software-upgrade/"><u>Fixing the Issue: IPhone Frozen During iOS 18/17 Software Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-rectifying-yellow-screen-disruptions-on-windows/"><u>Mastering the Art of Rectifying Yellow Screen Disruptions on Windows ☠️</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/navigating-digital-spaces-the-impact-of-cookiebot-on-personalization/"><u>Navigating Digital Spaces: The Impact of Cookiebot on Personalization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-listing-of-superior-free-lut-downloads/"><u>Premier Listing of Superior Free LUT Downloads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safely-recovering-touch-id-and-settings-icons-on-an-iphone-a-step-by-step-tutorial/"><u>Safely Recovering Touch ID and Settings Icons on an iPhone: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-why-wont-my-iphone-pair-with-itunes-and-how-to-repair-the-link/"><u>Step-by-Step Solution: Why Won’t My iPhone Pair with iTunes & How to Repair the Link</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-itunes-error-2-across-different-windows-versions-including-11-8-7-vista-and-xp/"><u>Troubleshooting iTunes Error 2 Across Different Windows Versions Including 11, 8, 7, Vista, and XP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-infinix-smart-8-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Infinix Smart 8? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

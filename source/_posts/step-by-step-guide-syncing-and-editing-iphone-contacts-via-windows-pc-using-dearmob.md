@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Syncing and Editing iPhone Contacts via Windows PC Using DearMob"
-date: 2025-01-11T22:03:23.982Z
-updated: 2025-01-15T16:40:26.239Z
+date: 2025-01-15T19:16:32.981Z
+updated: 2025-01-22T00:59:10.076Z
 tags:
   - iphone-manager
 categories:
@@ -17,20 +17,20 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage iPhone Contacts on PC
 
 [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/), an easy-to-use iOS and iPadOS manager, empowers the iPhone users to organize the contact items without limits. You can export the iPhone contacts to your Windows computer, or import the file on Windows to your iPhone; you can add new contacts, edit the existed contacts, and even delete the unwanted contacts; furthermore, you can sync the contacts on iPhone to your Windows contact folder, back them up and restore when necessary, and merge the same contacts into just one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create and Manage Groups of Contacts
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * All the contacts stay in the iPhone entry. Adding new contact on a specific group will also add it to the iPhone entry. You can add one contact to multiple groups. For instance, a contact may belong to the Friends Group and the Running Club group simultaneously.
 
@@ -46,10 +46,14 @@ thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd
 ![export contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-manage-contact-new-feature.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Important Note:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Managing Contact Groups on iOS 15 and Lower**
 
@@ -61,13 +65,13 @@ For iPhone 7/7Plus/SE first-gen and older models, Apple dropped the support for 
 
 To create new groups, you can go to icloud.com > Contacts, and click the Plus icon; or use the Contact app on Mac to create groups and sync it to iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Export Contacts from iPhone to Windows Computer
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Please make sure that the iCloud Contact is off, or DearMob cannot access your iPhone contact data.
 
@@ -96,10 +100,6 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
 * Only .vcf format file supported.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create or Add New Contacts on iPhone
 
 1\. Click **Add** to create a new contact.
@@ -111,7 +111,7 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 ![add contact](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-add-contact.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit Contacts on iPhone
@@ -122,14 +122,14 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You can click **Edit** icon to undo editing.
 
   
 3\. Hit **Sync** button to transfer edited contact to your iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delete Contacts on iPhone
 
@@ -137,11 +137,11 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
 ![delete contact](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-delete-contact.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To undo deleting before hitting the Sync button, you can click the grey Del button on the contact card, or the Cancel button on the bottom left corner.
 * To select multiple contacts, use Ctrl-click or Shift-click.
@@ -149,10 +149,6 @@ To create new groups, you can go to icloud.com > Contacts, and click the Plus ic
 
   
 2\. Hit **Sync** button to synchronize the deletion to your iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Back Up & Restore iPhone Contacts
 
@@ -165,6 +161,10 @@ DearMob enable users to back up iPhone contacts in .bak file on your Windows com
 3\. Choose **Restore Contact**. Then the existed backup file would be shown up, select one which include what you are looking for, and click **Restore Now** to get them back on iPhone.
 
 ![backup](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-backup-restore-contact.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sync iPhone Contacts with Windows PC
 
@@ -192,7 +192,7 @@ DearMob enable users to back up iPhone contacts in .bak file on your Windows com
 ![merge contacts](https://www.5kplayer.com/user-guide/../user-guide/images/userguide-how/dearmob-user-guide-merge-contact.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Frequently Asked Questions
@@ -240,21 +240,22 @@ Deleting multiple contacts on iPhone direcly can be tricky. Using an iPhone mana
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-digital-display-delights-top-plugins-and-apps-for-photo-frames/"><u>[New] 2024 Approved Digital Display Delights Top Plugins & Apps for Photo Frames</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-successful-instagram-story-surveys/"><u>[New] In 2024, Step-by-Step Guide to Successful Instagram Story Surveys</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-comprerancial-insight-into-instagram-a-step-by-step-data-interpretation-toolkit/"><u>[New] The Comprerancial Insight Into Instagram A Step-by-Step Data Interpretation Toolkit</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-oppo-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Oppo .</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-to-swiftly-sideloading-on-android-for-enhanced-customization-and-freedom/"><u>Easy Guide to Swiftly Sideloading on Android for Enhanced Customization & Freedom</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-to-gain-full-control-rooting-your-samsung-galaxy-s-series-s8-s7-s6-edge-using-pingpong-method/"><u>Easy Steps to Gain Full Control: Rooting Your Samsung Galaxy S Series (S8, S7, S6 Edge) Using PingPong Method</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-performance-2800w-atx-psu-with-dual-12v-rails-suitable-for-intensive-ai-workloads-featuring-four-6a-power-connectors-perfect-for-quad-gpu-configuration23/"><u>High-Performance 2800W ATX PSU with Dual 12V Rails Suitable for Intensive AI Workloads: Featuring Four 6A Power Connectors Perfect for Quad GPU Configurations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-conceal-the-stubborn-threads-emblem-on-your-instagram-profile/"><u>How To Conceal The Stubborn Threads Emblem On Your Instagram Profile</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-recover-a-lost-android-smartphone-discover-the-greatest-non-ios-solutions-like-find-my-iphone/"><u>How to Recover a Lost Android Smartphone? Discover the Greatest Non-iOS Solutions Like Find My iPhone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-seamless-integration-vimeo-uploads-with-windows-media-center/"><u>In 2024, Seamless Integration Vimeo Uploads with Windows Media Center</u></a></li>
-<li><a href="https://os-tips.techidaily.com/locate-your-missing-android-smartphone-using-the-android-device-manager/"><u>Locate Your Missing Android Smartphone Using the Android Device Manager</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/losung-fur-den-nicht-erkannten-crucial-mx500-speicher/"><u>Lösung Für Den Nicht Erkannten Crucial MX500 Speicher</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fix-top-3-simple-methods-to-reboot-your-android-device-fast/"><u>Quick Fix: Top 3 Simple Methods to Reboot Your Android Device Fast</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-your-snapchat-sign-in-problems-effective-strategies-for-a-smooth-login-experience/"><u>Solving Your Snapchat Sign-In Problems: Effective Strategies for a Smooth Login Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-c55-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco C55 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-easy-gopro-video-editing-for-beginners/"><u>Updated Unleash Your Creativity Easy GoPro Video Editing for Beginners</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-harmonious-hummingbird-hustle-for-2024/"><u>[New] Harmonious Hummingbird Hustle for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frame-your-photos-right-with-top-tools-editors/"><u>[Updated] Frame Your Photos Right with Top Tools Editors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-exclusive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>[Updated] In 2024, Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>2024 Approved From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c210-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C210 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-up-disk-space-in-windows-11-quickly-using-revouninstaller/"><u>Clear Up Disk Space in Windows 11 Quickly Using RevoUninstaller</u></a></li>
+<li><a href="https://win-dash.techidaily.com/geforce-gt-710-drivers-download-for-windows/"><u>GeForce GT 710 Drivers Download for Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamlessly-transitioning-sounds-with-audacity-tips/"><u>In 2024, Seamlessly Transitioning Sounds with Audacity Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/to-upgrade-or-not-is-the-iphone-15-worth-considering/"><u>To Upgrade or Not: Is the iPhone 15 Worth Considering?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-mobile-gaming-subscriptions-the-ultimate-list/"><u>Top Mobile Gaming Subscriptions: The Ultimate List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-ipad-specifications-whats-the-ram-like-and-why-should-you-care/"><u>Understanding iPad Specifications: What's the RAM Like, and Why Should You Care?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uninstalling-safari-from-your-iphone-apples-global-policy-except-us/"><u>Uninstalling Safari From Your iPhone: Apple's Global Policy Except U.S.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-a-library-of-free-audiobooks-with-your-us-spotify-premium-account/"><u>Unlock a Library of Free Audiobooks with Your U.S. Spotify Premium Account</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-power-of-customization-adding-stickers-to-your-iphone-experience/"><u>Unlock the Power of Customization: Adding Stickers to Your iPhone Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-privacy-removing-numbers-from-your-iphones-call-list/"><u>Unlocking Privacy: Removing Numbers From Your iPhone's Call List</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-your-digital-library-effective-techniques-to-lift-drm-from-ebooks/"><u>Unlocking Your Digital Library: Effective Techniques to Lift DRM From eBooks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-complexities-insights-into-apples-new-usb-c-pencil-design/"><u>Unraveling the Complexities: Insights Into Apple's New USB-C Pencil Design</u></a></li>
 </ul></div>
 

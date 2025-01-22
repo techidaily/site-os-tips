@@ -1,7 +1,7 @@
 ---
 title: IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!
-date: 2024-11-28T04:01:59.558Z
-updated: 2024-12-01T20:38:09.440Z
+date: 2025-01-18T18:02:03.830Z
+updated: 2025-01-21T21:54:48.676Z
 tags:
   - ios
 categories:
@@ -33,15 +33,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Your iPhone can do a lot more than take calls, but good old-fashioned phone calls are central to the smartphone experience. Sometimes your iPhone won't ring at all or rings but doesn't make a sound. Let's look at what you can do to get things working again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check Your iPhone Isn't on Mute
 
  If your iPhone is ringing but doesn't make any sound, it's probably on mute (also called silent mode). You can [toggle mute on or off](https://some-guidance.techidaily.com/2024-approved-techniques-for-transferring-media-between-two-iphones/) using the flip switch on the left-hand side of the device. You should see a notification at the top of the screen that informs you of your choice. When you switch to mute mode, you should feel a haptic tap.
 
 ![Disable silent mode on iPhone using the flip switch on the side of the device](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/silent_mode_off_iphone.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your iPhone isn't muted, you can also check [your ring volume](https://vp-tips.techidaily.com/updated-greatest-copyright-free-pubg-image-anthology/). This is different from your iPhone volume, which by default is controlled using the two buttons on the left side of the device. You can change your ring volume under Settings > Sounds & Haptics. Tapping the slider will let you preview the ring volume with your default tone.
 
@@ -57,10 +57,6 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 !["Allow Calls From" Focus settings on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/allow_calls_focus_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some Focus modes can be triggered automatically whenever you start a certain activity. For example, if you have set up the Fitness profile within Focus settings calls may be silenced whenever you [start any type of workout on your Apple Watch](https://on-screen-recording.techidaily.com/new-elite-ipad-speech-recording-tools-3/). You can disable a mode, or set specific parameters to avoid it blocking your calls.
 
 ##  Check You're Reachable via Cellular or Wi-Fi Calls
@@ -69,12 +65,20 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Check Wi-Fi Calling and cellular reception on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wi-fi_calling_iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In areas of poor or no signal where you have Wi-Fi reception, you may also be able to [use iPhone Wi-Fi calling](https://screen-capture.techidaily.com/updated-2024-approved-finding-the-ultimate-cam-choice-post-manycam/). This will route standard cellular calls through the internet instead. For this to work you'll need to enable Wi-Fi calling under Settings > Phone > Wi-Fi Calling.
 
 ![Toggle Wi-Fi Calling on or off on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/wifi_calling_toggle.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Sure Your Mobile Plan is Active
@@ -82,6 +86,10 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
  If you have a pre-paid mobile plan that rolls over month-to-month, you could find yourself without service if a payment bounces or fails. This could be due to not having money in your account or not updating payment and contact details with your carrier.
 
 ![An active cellular plan within a carrier's app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/cellular_plan.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If everything else seems normal, it's probably worth checking with your provider that your mobile plan is still active. You can usually do this using your carrier's iPhone app or by logging in on the web wherever you have Wi-Fi. Once you've paid your service should return to normal.
 
@@ -93,10 +101,6 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Disable or allow calls on other Apple devices in iPhone Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/allow_calls_other_devices_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check the Caller Isn't Blocked by Mistake
 
  It's surprisingly easy to [block a contact](https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c22-drfone-by-drfone-virtual/) by mistake. If you have a specific friend or family member whose calls seem to consistently fail, it's worth checking they aren't on your block list. You can do this under the Phone app by tapping the "Contacts" tab and finding the person in question.
@@ -107,6 +111,10 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
  You can also review your full list of blocked contacts under Settings > Phone > Blocked Contacts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Disable the "Silence Unknown Callers" Option
 
  Your iPhone can [silence dreaded "Unknown" callers automatically](https://ai-vdieo-software.techidaily.com/2024-approved-top-video-to-audio-converters-for-mobile-devices/), which is a handy setting to enable if you're averse to answering anonymous incoming calls. This can be impractical since some important calls may come from obfuscated numbers. You'll find this setting under Settings > Phone > Silence Unknown Callers.
@@ -116,7 +124,7 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
  Any calls from these numbers that are silenced will be sent to voicemail. You'll still see the call in your call log under Phone > Recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Any Call Filtering Apps
@@ -129,23 +137,11 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 ![Turn off Call Forwarding on your iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/call_forwarding_iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check a Contact's Custom Ringtone
 
  If you have [set a custom ringtone for a contact](https://youtube-zero.techidaily.com/ed-2024-approved-branding-excellence-youtube-naming-masterclass/) and the tone isn't working properly, you should just hear your default ringtone instead. It's worth double-checking and even disabling the ringtone altogether if you think it may be causing problems. You can do this under the Phone app on the "Contacts" tab by finding the contact and tapping on the "Ringtone" field.
 
 ![Check any custom ringtones against a contact card on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/custom_ringtone_iphone.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Remember that musical ringtones that rely on Apple Music need to be saved offline on your device to work. To do this, find the track in question, tap and hold, then select "Download" from the menu that appears.
 
@@ -154,6 +150,10 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
  Your iPhone shouldn't ring when it detects that you are connected via [CarPlay](https://facebook-video-share.techidaily.com/precision-cinematography-ideal-lenses-for-digital-storytellers-for-2024/). Instead, the call should be passed along to your vehicle's entertainment system. This is to prevent you from having to touch your phone or answer it manually when it rings.
 
  If you're having trouble accepting phone calls via CarPlay you should look into restarting your car's head unit or entertainment system. This could be as simple as stopping the engine, turning off the ignition, then starting everything up again. Some cars may require a manual restart instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Try Restarting Your iPhone
 
@@ -164,7 +164,7 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
  The easiest way to do this is to ask Siri to restart your iPhone for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Consider FaceTime or Another VoIP Service
@@ -190,17 +190,22 @@ Related: [How to Turn Off Silent Mode on iPhone](https://facebook-clips.techidai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-saturation-perfection-tool/"><u>[New] In 2024, Saturation Perfection Tool</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pioneering-tools-to-embellish-photos-with-words/"><u>2024 Approved Pioneering Tools to Embellish Photos with Words</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725286830356-vs/"><u>最新ライトウェイト動画プレーヤーの推奨：フリー vs プレミアム - 利用上の重要事項とポイント</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beam-yourself-into-vr-android-tips-and-tricks/"><u>In 2024, Beam Yourself Into VR Android Tips & Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-photo-to-cartoon-software-for-windows-and-mac/"><u>In 2024, Best Photo to Cartoon Software for Windows & Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-phone-freedom-comprehensive-guide-on-android-s-pentiger-way-for-samsung-galaxy-s6s7s8-edges/"><u>Mastering Phone Freedom: Comprehensive Guide on Android S PenTiger Way for Samsung Galaxy S6/S7/S8 Edges</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-screen-captures-top-4-methods-for-quick-photos-on-alcatel-smartphones/"><u>Mastering the Art of Screen Captures: Top 4 Methods for Quick Photos on Alcatel Smartphones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/anding-movies-beyond-the-leading-titles/"><u>Outstanding Movies Beyond the Leading Titles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-effective-tricks-to-combat-samsung-galaxy-phone-freezing-glitches/"><u>Quick and Effective Tricks to Combat Samsung Galaxy Phone Freezing Glitches</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-adjust-font-styles-on-android-device-using-pre-installed-options-and-third-party-tools/"><u>Quick Tips: Adjust Font Styles on Android Device Using Pre-Installed Options & Third-Party Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safe-methods-for-rooting-your-android-device-a-comprehensive-guide/"><u>Safe Methods for Rooting Your Android Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-green-screen-software-for-mac-users-for-2024/"><u>Updated The Ultimate Guide to Green Screen Software for Mac Users for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>[New] Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-content-by-merging-apple-music-to-videos/"><u>[New] Maximize Content by Merging Apple Music to Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-the-future-of-drones-today-and-tomorrow/"><u>2024 Approved Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029120969-dvd/"><u>不可解な理由でDVDがプレイ出来ない時の対策：レンタルビデオ機器用</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/audible-annotators-top-selections-for-offline-text-conversion-for-2024/"><u>Audible Annotators Top Selections for Offline Text Conversion for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-easily-convert-avchd-videos-to-mp4-for-free-using-windows-3-seamlessly-transition-from-avchd-to-mp4-without-costs-a-guide-for-windows-10-users/"><u>How to Easily Convert AVCHD Videos to MP4 for Free Using Windows #3. Seamlessly Transition From AVCHD to MP4 Without Costs: A Guide for Windows 10 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x7b-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-anker-maggo-dual-charging-platform-revealed-supports-qi-and-usb-c/"><u>In-Depth Anker MagGo Dual Charging Platform Revealed: Supports Qi & USB-C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-rollout-introduces-major-improvements-to-home-interface-and-mail-app-features-discover-how/"><u>IOS 18 Rollout Introduces Major Improvements to Home Interface and Mail App Features – Discover How!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-guide-mastering-the-art-of-looping-videos/"><u>IPhone Guide: Mastering the Art of Looping Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keep-every-call-a-comprehensive-method-to-store-iphone-voicemail-recordings/"><u>Keep Every Call: A Comprehensive Method to Store iPhone Voicemail Recordings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/latest-password-software-adds-support-for-secure-passkey-feature/"><u>Latest Password Software Adds Support for Secure Passkey Feature</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-airpods-experience-top-12-functions-for-maximum-enjoyment/"><u>Mastering Your AirPods Experience: Top 12 Functions for Maximum Enjoyment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-your-cloud-space-a-must-read-guide-prior-to-purchasing-icloud-storage/"><u>Maximizing Your Cloud Space: A Must-Read Guide Prior to Purchasing iCloud Storage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/my-reasons-for-switching-from-google-maps-to-waze-a-comprehensive-look/"><u>My Reasons for Switching From Google Maps to Waze: A Comprehensive Look</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/who-will-rule-the-roads-comparing-gopro-and-ghost-s/"><u>Who Will Rule the Roads? Comparing GoPro and Ghost-S</u></a></li>
 </ul></div>
 

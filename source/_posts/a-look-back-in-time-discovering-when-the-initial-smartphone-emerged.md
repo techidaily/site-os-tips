@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2024-12-30T08:51:03.476Z
-updated: 2025-01-02T19:40:02.265Z
+date: 2025-01-17T00:42:48.651Z
+updated: 2025-01-21T23:48:41.058Z
 tags:
   - ios
 categories:
@@ -12,13 +12,17 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ## A Look Back in Time: Discovering When the Initial Smartphone Emerged
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,22 +88,16 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-investing-time-wisely-on-cover-art-creation-for-2024/"><u>[New] Investing Time Wisely on Cover Art Creation for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-evaluating-the-leading-video-calling-platforms-for-tech-enthusiasts/"><u>[Updated] Evaluating the Leading Video Calling Platforms for Tech Enthusiasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-saving-window-views-on-pcs-from-winxp-to-11/"><u>[Updated] In 2024, Saving Window Views on PCs From WinXP to 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-most-popular-iphone-podcast-soundshare-for-2024/"><u>[Updated] Most Popular iPhone Podcast Soundshare for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms/"><u>2024 Approved 20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-high-dynamic-range-potential/"><u>2024 Approved Unlocking Windows' High Dynamic Range Potential</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/downloadhp-stream-driverseasily-and-quickly/"><u>Download|HP Stream Drivers|Easily & Quickly</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/resolving-incompatibility-how-to-fix-a-scanner-that-wont-work-with-your-windows-pc-tips-from-yl-computing/"><u>Resolving Incompatibility: How to Fix a Scanner That Won't Work with Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-sharing-across-apple-devices-connecting-your-iphone-ipad-and-mac-via-clipboard/"><u>Seamless Sharing Across Apple Devices: Connecting Your iPhone, iPad & Mac via Clipboard</u></a></li>
-<li><a href="https://os-tips.techidaily.com/set-google-maps-as-your-new-standard-navigation-app-on-iphone-step-by-step-guide/"><u>Set Google Maps as Your New Standard Navigation App on iPhone - Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-to-sharpening-and-enhancing-fuzzy-images/"><u>Step-by-Step Guide to Sharpening and Enhancing Fuzzy Images</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stop-unexpected-camera-sounds-on-your-iphone-tutorial/"><u>Stop Unexpected Camera Sounds on Your iPhone - Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-drawbacks-of-the-new-apple-vision-pro-could-these-flaws-stop-you/"><u>Top 6 Drawbacks of the New Apple Vision Pro - Could These Flaws Stop You?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-for-automating-your-whatsapp-notifications-for-key-occasions/"><u>Top Strategies for Automating Your WhatsApp Notifications for Key Occasions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transitioning-from-apples-icloud-to-google-drive-a-personal-trial-run/"><u>Transitioning From Apple's iCloud to Google Drive - A Personal Trial Run</u></a></li>
+<li><a href="https://os-tips.techidaily.com/advanced-techniques-to-remove-multiple-iphone-contacts-efficiently/"><u>Advanced Techniques to Remove Multiple iPhone Contacts Efficiently</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-storage-with-these-simple-3-techniques/"><u>Boost Your iPhone's Storage with These Simple 3 Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-translation-a-practical-approach/"><u>ChatGPT in Translation: A Practical Approach</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-permanent-deletion-of-iphone-downloads-effective-techniques/"><u>Complete Guide: Permanent Deletion of iPhone Downloads - Effective Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/excel-efficiency-hacks-tips-for-seamless-undo-redo-and-repetition-of-tasks-using-shortcuts/"><u>Excel Efficiency Hacks: Tips for Seamless Undo, Redo, and Repetition of Tasks Using Shortcuts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fox-http.techidaily.com/maximizing-chrome-multitasking-via-picture-in-picture-mode-for-2024/"><u>Maximizing Chrome Multitasking via Picture in Picture Mode for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimized-pc-settings-for-a-lag-free-deathloop-adventure-what-you-need-to-know/"><u>Optimized PC Settings for a Lag-Free Deathloop Adventure: What You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209940993-resolve-your-speaker-issues-in-windows-11-and-7-no-more-crackling-sounds/"><u>Resolve Your Speaker Issues in Windows 11 and 7 – No More Crackling Sounds!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamline-your-safari-experience-a-comprehensive-walkthrough-for-emptying-browser-cache-on-ipads/"><u>Streamline Your Safari Experience: A Comprehensive Walkthrough for Emptying Browser Cache on iPads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unrivaled-sonic-union-for-speakers-for-2024/"><u>Unrivaled Sonic Union for Speakers for 2024</u></a></li>
 </ul></div>
 

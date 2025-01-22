@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings"
-date: 2024-11-25T11:42:12.926Z
-updated: 2024-12-02T13:13:44.404Z
+date: 2025-01-15T19:10:28.359Z
+updated: 2025-01-21T17:04:41.081Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ## Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 * [Link Your Lock Screen to a Focus Mode](https://fox-boxes.techidaily.com/7-exceptional-drone-gimbals-unveiled/)
 * [Choose What's Available While Your Phone Is Locked](https://screen-mirroring-recording.techidaily.com/explore-classic-ps3-games-through-best-emulators-2023-for-2024/)
 * [Your Lock Screen Is the Point of First Contact](https://facebook-video-files.techidaily.com/new-unraveling-the-enigma-how-to-download-messages-from-facebook/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Selecting the 'Add New Wallpaper' option under Wallpaper settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-add-new-wallpaper-in-wallpaper-settings-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, press and hold your lock screen until you see "Customize," then click the "+" icon.
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
  Similarly, if you want to delete the Lock Screen, press and hold the lock screen until you see "Customize." Then, swipe upwards and tap on the red trash icon, which will appear at the bottom of the screen.
 
 ![Deleting a Lock Screen on your iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-wallpaper-1.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Change Your Wallpaper
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Using the customize wallpaper toggle to modify an emoji wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/customize-wallpaper-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You must create a new Lock Screen if you want to change your wallpaper from one form to another. For instance, If you want to change your wallpaper from an emoji to a photo, you cannot do this by customizing an existing Lock Screen.
 
  Once your lock screen wallpaper is set, you have to decide if you want a matching Home Screen, as you can choose[separate Lock Screen and home screen wallpapers](https://easy-unlock-android.techidaily.com/introducing-the-asus-nuc-14-proplus-meteor-lake-cpus-and-advanced-features-at-only-860/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Change Your Preferred Clock Style
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Changing the font and color of the clock on your iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-font-color.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Furthermore, you can click the Globe icon to select from the numeral options of Arabic, Arabic Indic, Devanagari, Khmer, and Burmese. Depending on your chosen wallpaper, you can also set the depth effect (as mentioned earlier).
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Selecting different numeral styles for the clock on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-numerical-option-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Some Widgets
@@ -115,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
  You are limited to two to four widgets on an iPhone, depending on their size. However, iPad users can turn their screen landscape to add more widgets
 
  There are many [useful iPhone Lock Screen widgets](https://mondly-stories.techidaily.com/meet-your-upcoming-artificial-intelligence-confidant/); selecting one depends on your needs and usage. Some common widgets include Mail, Spotify, and Snapchat. Some widgets allow you to access functions without even launching the associated app. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Change Your Lock Screen Notifications
 
@@ -136,14 +140,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Linking your iPhone Lock Screen to a Focus mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/customize-lock-screen-for-focus-mode.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, choose the focus mode you want to customize and select a lock screen to link to it. You can create a new Lock Screen, choose an existing one, or select multiple Lock Screens to connect to this Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Choose What's Available While Your Phone Is Locked
@@ -162,13 +162,13 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Toggle notification previews on or off in the iPhone Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-show-previews-in-notification-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Set this to "When Unlocked" or "Never."
 
 ![Turn on notification previews when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-when-unlocked-in-show-previews.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Enabling "When Unlocked" shows your iPhone notifications once you have verified your identity using Face ID or Touch ID.
 
@@ -193,24 +193,18 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/harting-the-future-the-next-gen-youtube-festivals/"><u>[New] Charting the Future The Next Gen Youtube Festivals</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-reducing-loudness-gradually-techniques-for-logic-pro-users/"><u>[New] Reducing Loudness Gradually Techniques for Logic Pro Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-guide-to-making-money-on-youtube-average-required-views/"><u>[Updated] In 2024, The Ultimate Guide to Making Money on YouTube Average Required Views</u></a></li>
-<li><a href="https://os-tips.techidaily.com/anubis/"><u>Anubis -</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-wait-tips-for-resolving-loading-errors-in-sea-of-thieves/"><u>Beat the Wait: Tips for Resolving Loading Errors in Sea of Thieves</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-strategies-for-tracking-childrens-usage-of-snapchat-through-iphone-monitoring-techniques/"><u>Effective Strategies for Tracking Children’s Usage of Snapchat Through iPhone Monitoring Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/escaping-the-iphones-stuck-in-recovery-mode-a-3-step-rescue-guide/"><u>Escaping the iPhones Stuck in Recovery Mode: A 3-Step Rescue Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/exploring-the-synergy-between-abbyys-advanced-ocr-and-vivino-leading-wine-app-worldwide-exclusive-insights-from-abbyy-newsroom/"><u>Exploring the Synergy Between ABBYY's Advanced OCR and Vivino, Leading Wine App Worldwide - Exclusive Insights From ABBYY Newsroom</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newly-disclosed-intel-reports-suggest-persistent-stability-issues-beyond-power-surge-woes/"><u>Newly Disclosed Intel Reports Suggest Persistent Stability Issues Beyond Power Surge Woes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-how-to-get-your-iphone-home-button-functioning-again/"><u>Quick Fixes: How to Get Your iPhone Home Button Functioning Again</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/select-20-unencumbered-pubg-visual-stories-for-2024/"><u>Select 20 Unencumbered PUBG Visual Stories for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-issues-with-your-iphones-nearness-gauge/"><u>Solving Issues with Your iPhone's Nearness Gauge</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-to-deactivate-find-my-device-feature-and-unlock-your-phone-for-sale-or-transfer/"><u>Step-by-Step Instructions to Deactivate 'Find My [Device]' Feature & Unlock Your Phone for Sale or Transfer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-for-when-find-my-iphone-fails-to-update-or-display-location-easy-solutions-inside/"><u>Troubleshooting Guide for When 'Find My iPhone' Fails to Update or Display Location - Easy Solutions Inside!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-why-your-whatsapp-push-notifications-arent-coming-through/"><u>Troubleshooting Steps: Why Your WhatsApp Push Notifications Aren't Coming Through</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-5-effective-strategies-stop-unknown-numbers-from-ringing-your-iphone/"><u>Unveiling 5 Effective Strategies: Stop Unknown Numbers From Ringing Your iPhone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/up-to-date-nvidia-graphics-drivers-rtx-2nkd-supers-boost-your-pcs-running-win10-or-11/"><u>Up-to-Date Nvidia Graphics Drivers: RTX 2Nkd, Supers, Boost Your PCs Running Win10 or 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-vs-micro-video-which-outperforms-in-2024-youtubes-shorts-or-tiktoks/"><u>Vlogging Vs. Micro-Video Which Outperforms, In 2024 YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-minimal-time-maximum-effect/"><u>[New] Minimal Time, Maximum Effect</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-epic-escapades-in-playtime-paradise/"><u>[Updated] Epic Escapades in Playtime Paradise</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-achieve-unstoppable-viral-traction-with-these-fb-tricks/"><u>2024 Approved Achieve Unstoppable Viral Traction with These FB Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/capturing-life-on-camera-mastering-the-art-of-vlogging-for-2024/"><u>Capturing Life on Camera Mastering the Art of Vlogging for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-xs-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone XS with IMEI Code?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-leading-fourteen-full-frame-photography-devices/"><u>In 2024, Leading Fourteen Full Frame Photography Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-recommendation-best-iphone-ringtone-makers/"><u>In 2024, Recommendation Best iPhone Ringtone Makers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-voice-how-your-iphone-communicates-as-powerfully-as-apples-first-macintosh/"><u>Revolutionary Voice: How Your iPhone Communicates as Powerfully as Apple's First Macintosh</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-car-induced-discomfort-with-iphones-latest-ios-18-update-for-a-smoother-ride-experience/"><u>Say Goodbye to Car-Induced Discomfort with iPhone's Latest iOS 18 Update for a Smoother Ride Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-phone-easily-how-to-modify-iphone-password-settings/"><u>Secure Your Phone Easily: How to Modify iPhone Password Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/slow-charge-on-your-iphone-discover-why-and-how-to-fix-it/"><u>Slow Charge on Your iPhone? Discover Why and How to Fix It!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-iphones-ios-updating-issues-top-11-solutions/"><u>Solving Your iPhones iOS Updating Issues: Top 11 Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-routes-turning-pinterest-vids-into-music-files-for-2024/"><u>Ultimate Routes Turning Pinterest Vids Into Music Files for 2024</u></a></li>
 </ul></div>
 

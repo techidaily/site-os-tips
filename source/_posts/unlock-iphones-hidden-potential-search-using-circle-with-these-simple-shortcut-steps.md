@@ -1,7 +1,7 @@
 ---
 title: "Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!"
-date: 2024-12-24T02:26:17.132Z
-updated: 2024-12-24T18:33:33.706Z
+date: 2025-01-15T19:38:02.295Z
+updated: 2025-01-22T02:40:03.104Z
 tags:
   - ios
 categories:
@@ -32,7 +32,7 @@ Justin Duino / How-To Geek
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Get Circle to Search Functionality on Your iPhone
@@ -40,6 +40,10 @@ Justin Duino / How-To Geek
  To set up the workaround, you must have the [Google app on your iPhone](https://ai-video-tools.techidaily.com/updated-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/). If you don't already have it, download it from the App Store. Once you've installed the Google app, it's time to create a shortcut.
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
@@ -49,28 +53,28 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
@@ -86,10 +90,6 @@ Justin Duino / How-To Geek
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -120,20 +120,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-action-cameras-guidebook-for-winter-sports/"><u>[New] In 2024, Ultimate Action Cameras Guidebook for Winter Sports</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-hue-harmonizer-tool/"><u>[New] Ultimate Hue Harmonizer Tool</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[Updated] Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-revolutionize-video-closings-exclusive-end-screen-templates/"><u>[Updated] Revolutionize Video Closings - Exclusive End Screen Templates</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/st-cost-free-subtitle-grabs-from-youtube/"><u>10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-3d-text-illustration-in-adobe-illustrator/"><u>2024 Approved Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breaking-free-from-silent-a-guide-to-restore-your-iphones-sound/"><u>Breaking Free From Silent: A Guide to Restore Your iPhone's Sound</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-methods-to-view-battery-status-on-iphones-and-ipads/"><u>Easy Methods to View Battery Status on iPhones and iPads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/four-proven-methods-to-fix-iphone-software-update-issues-averting-the-update-unsuccessful-message/"><u>Four Proven Methods to Fix iPhone Software Update Issues: Averting the 'Update Unsuccessful' Message</u></a></li>
-<li><a href="https://os-tips.techidaily.com/garuda/"><u>Garuda -</u></a></li>
-<li><a href="https://win-popular.techidaily.com/heartfelt-sentiments-displayed-beautiful-miss-you-picture-walls-and-desktop-images-from-yl-software/"><u>Heartfelt Sentiments Displayed: Beautiful Miss You Picture Walls and Desktop Images From YL Software</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-xs-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone XS Max to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-mystery-missing-emails-on-your-iphone-and-easy-fixes/"><u>Solving the Mystery: Missing Emails on Your iPhone and Easy Fixes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-simple-guide-making-your-windows-computer-speak-like-a-fish/"><u>The Simple Guide Making Your Window's Computer Speak Like a Fish</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-ios-13-update-enhancements-mastering-the-new-functionality-of-the-journal-application/"><u>Unveiling iOS 13 Update Enhancements: Mastering the New Functionality of the Journal Application</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-no-followers-to-a-million-top-15-tricks-to-become-an-instagram-phenomenon-for-2024/"><u>[Updated] From No Followers to a Million Top 15 Tricks to Become an Instagram Phenomenon for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-charting-out-your-audience-youtubes-blueprint/"><u>[Updated] In 2024, Charting Out Your Audience YouTube's Blueprint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-aural-storytelling-on-instagram-reels/"><u>[Updated] The Art of Aural Storytelling on Instagram Reels</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-downloading-all-members-of-your-whatsapp-group-chat/"><u>A Comprehensive Guide to Downloading All Members of Your WhatsApp Group Chat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/closing-lols-recurring-connection-loop-insights-into-the-2024-game-patch-enhancements-and-error-corrections/"><u>Closing LoL's Recurring Connection Loop: Insights Into the 2024 Game Patch Enhancements and Error Corrections</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-sync-and-save-your-iphones-music-library-onto-a-mac-or-pc/"><u>Comprehensive Tutorial: Sync & Save Your iPhone's Music Library Onto a Mac or PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertir-archivos-mov-a-m4a-sin-costo-alguno-conversion-en-linea-facil/"><u>Convertir Archivos MOV a M4A Sin Costo Alguno - Conversión en Línea Fácil</u></a></li>
+<li><a href="https://win-premium.techidaily.com/effective-strategies-for-shielding-your-pc-from-harmful-malware-and-viruses-tips-by-yl-computing/"><u>Effective Strategies for Shielding Your PC From Harmful Malware & Viruses - Tips by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>In 2024, Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-thoughts-comparing-the-best-free-vs-paid-methods-for-backing-up-notes-on-an-iphone/"><u>Secure Your Thoughts: Comparing the Best Free vs Paid Methods for Backing Up Notes on an iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-to-saving-your-sms-conversations-with-secure-text-message-backups/"><u>Simple Guide to Saving Your SMS Conversations with Secure Text Message Backups</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-manual-for-removing-all-itunes-backups-across-your-computer-and-icloud-accounts/"><u>Ultimate Manual for Removing All iTunes Backups Across Your Computer and iCloud Accounts</u></a></li>
 </ul></div>
 

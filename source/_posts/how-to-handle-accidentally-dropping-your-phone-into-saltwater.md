@@ -1,7 +1,7 @@
 ---
 title: How to Handle Accidentally Dropping Your Phone Into Saltwater
-date: 2024-11-29T17:19:40.781Z
-updated: 2024-12-02T04:34:00.126Z
+date: 2025-01-19T02:07:30.771Z
+updated: 2025-01-21T16:53:16.989Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## How to Handle Accidentally Dropping Your Phone Into Saltwater
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  You're having a great day at the beach or on the ocean, but your fingers slip, and splash! Down goes your smartphone into the briny deep---or hopefully, just into a few inches of salt water. Either scenario can be devastating, so here's what you should do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  First, Try to Find It
@@ -50,7 +50,7 @@ Related: [Stop Putting Your Phone in Rice](https://sim-unlock.techidaily.com/eas
  If your phone isn't water resistant, you may have heard that placing your smartphone in rice will help dry it out, but that's [just a myth](https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/). Rice will do nothing, and leaving it sitting there will give the saltwater stuck inside the phone body extra time to corrode the electronics. If you ever want to use the phone again, you're in a [race against time](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) to disassemble the phone and clean it out before corrosion permanently damages the internal circuitry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If Possible, Take the Phone Apart
@@ -63,6 +63,10 @@ Related: [How Water Damages Electronics](https://blog-min.techidaily.com/5-ways-
 
 Related: [How to Back Up Your iPhone With iTunes (and When You Should)](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Otherwise, Take it to a Professional
 
  Obviously, the disassembly steps above require a certain level of technical know-how and also the tools and parts to safely open a modern smartphone without damage. So if you're not comfortable with taking your phone apart, take it as soon as possible to a qualified smartphone repair shop. Tell them you dropped your phone in salt water, and they should know what to do. The phone will need immediate disassembly and deep cleaning inside and out if you want to save it.
@@ -72,7 +76,7 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  If they aren't willing to work on it right away and the phone is very important, take the phone somewhere else. If you have an iPhone, you could consider [getting an appointment](https://facebook-clips.techidaily.com/new-2024-approved-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/) at an Apple store, for example.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  An Ounce of Prevention
@@ -82,10 +86,6 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  In this case, your ounce of prevention might be leaving your smartphone on dry land when you're near the water. But barring that, you could also place your smartphone in a waterproof case or [dry bag](https://www.amazon.com/MARCHWAY-Floating-Waterproof-Kayaking-Swimming/dp/B07SR1MDJM?tag=hotoge-20&ascsubtag=UUhtgUeUpU205513&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F813097%2Fwhat-to-do-if-you-drop-your-smartphone-in-the-ocean%2F&asc%5Fcampaign=Short-Term) before going anywhere near the ocean.
 
 ![41uKdhSztZL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41ukdhsztzl-_sl500_-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #####  JOTO Universal Waterproof Phone Pouch 
 
@@ -112,18 +112,17 @@ Inexpensive insurance against water exposure for a smartphone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unleash-your-gameplays-social-impact-from-xbox-live-to-facebook/"><u>[New] 2024 Approved Unleash Your Gameplay's Social Impact From Xbox Live to Facebook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-depth-guide-to-2023s-leading-web-capture-applications/"><u>[New] In-Depth Guide to 2023’S Leading Web Capture Applications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-mac-streaming-with-our-top-5-software-picks/"><u>[New] Master Mac Streaming with Our Top 5 Software Picks</u></a></li>
-<li><a href="https://win-updates.techidaily.com/44cm44k344k544og44ogioodquocqplusodkoodquodvcdjg53jgqtjg7pjg4jjgploqk3lrprjgznjgovjgzjgohjga7jgrpjg7pjg4jjg63jg7zjg6vjg5hjg43jg6voqbpjgzfjgytmiyvpoibjgi0/"><u>「システム リカバリー ポイントを設定するためのコントロールパネル詳しい手順」</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/captivate-viewers-learn-to-perfectly-border-ig-videos-for-2024/"><u>Captivate Viewers Learn to Perfectly Border IG Videos for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC Phone FRP Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-a-frozen-android-phone-with-our-step-by-step-data-retrieval-solution-for-corrupted-devices/"><u>Revive a Frozen Android Phone with Our Step-by-Step Data Retrieval Solution for Corrupted Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-battery-life-7-proven-strategies-to-get-your-android-phone-charging-again/"><u>Reviving Battery Life: 7 Proven Strategies to Get Your Android Phone Charging Again</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-gain-full-control-over-your-android-device-using-kingroot/"><u>Step-by-Step Guide: Gain Full Control Over Your Android Device Using KingRoot</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-smartphone-why-it-wont-power-up-and-effective-solutions-that-work/"><u>Troubleshooting Your Smartphone: Why It Won’t Power Up & Effective Solutions That Work</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-accelerating-android-devices-discover-the-leading-10-boosters-for-peak-performance/"><u>Ultimate Guide to Accelerating Android Devices: Discover the Leading 10 Boosters for Peak Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-unlocking-techniques-for-androids-security-measures-patterns-and-passwords/"><u>Ultimate Guide: Unlocking Techniques for Android's Security Measures - Patterns & Passwords</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-future-of-reading-a-closer-look-at-the-kobo-libra-h2os-water-resistance-features/"><u>Unboxing the Future of Reading: A Closer Look at the Kobo Libra H2O's Water Resistance Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elite-sound-collection-top-10-for-spotify-audiophiles-for-2024/"><u>[Updated] Elite Sound Collection Top 10 for Spotify Audiophiles for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-techniques-for-google-meet-coordination/"><u>[Updated] Step-by-Step Techniques for Google Meet Coordination</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-art-of-perfect-thumbnails-sizing-and-proportions-mastered/"><u>2024 Approved The Art of Perfect Thumbnails Sizing & Proportions Mastered</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-common-pitfalls-in-game-console-reimbursements/"><u>Avoiding Common Pitfalls in Game Console Reimbursements</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/creative-tims-advanced-horizon-ai-integrating-chakra-ui-and-nextjs-for-professionals/"><u>Creative Tim's Advanced Horizon AI: Integrating Chakra UI & NextJS for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-explainer-leveraging-google-docs-for-audio-to-text-conversion-for-2024/"><u>Full Explainer Leveraging Google Docs for Audio to Text Conversion for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mirroring-ios-devices-and-macs-to-an-apple-tv-a-step-by-step-guide/"><u>Mirroring iOS Devices and Macs to an Apple TV - A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/multi-app-transfer-made-easy-swiftly-moving-various-applications-simultaneously-on-your-ios-device/"><u>Multi-App Transfer Made Easy: Swiftly Moving Various Applications Simultaneously on Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigating-the-murky-waters-of-game-emulation-is-it-risk-free-today-but-at-risk-tomorrow/"><u>Navigating the Murky Waters of Game Emulation: Is It Risk-Free Today but at Risk Tomorrow?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/"><u>Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-insert-text-into-photos-using-your-iphone/"><u>Quick Tips: Insert Text Into Photos Using Your iPhone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-make-music-without-spending-a-dime-10-best-free-recording-software-for-2024/"><u>Updated Make Music Without Spending a Dime 10 Best Free Recording Software for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Tips & Tricks for Creating Regular Notifications on Apple's iPhone/iPad
-date: 2024-12-08T17:25:58.776Z
-updated: 2024-12-16T07:07:30.325Z
+date: 2025-01-19T21:27:18.954Z
+updated: 2025-01-21T16:14:36.415Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Effortless Tips & Tricks for Creating Regular Notifications on Apple's iPhone/iPad
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -27,27 +27,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It's not always easy to remember when to do important things. Luckily, your iPhone or iPad can easily remind you about a repeating task or event using the [Reminders](https://youtube-stream.techidaily.com/mastering-video-success-a-list-of-20-pro-shortcuts-for-2024/) app. Here's how to set it up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Set a Recurring Reminder on iPhone or iPad
 
  First, launch the Reminders app on your iPhone or iPad. The interface will vary slightly between the two platforms, but the options are basically the same. First, tap the "Today" button.
 
 ![Tap 'Today.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-tap-today.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then add a new reminder by tapping the "New Reminder" button at the bottom of the screen.
 
 ![Tap 'New Reminder' to create a new reminder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-tap-new-reminder.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When a reminder entry appears, type in whatever name you'd like—for example, "Check the Smoke Detector Batteries" or "Feed the Goats." After that, tap the "Info" button just beside the reminder name. (The Info button looks like a small circle with the letter "i" inside.)
 
 ![Tap the 'i' button to customize the reminder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-tap-the-i-button.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Details pane that pops up, select an initial date and time for the reminder. To make the reminder repeat, tap the "Repeat" option.
 
@@ -58,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Select the repeat interval from the listed options, or set a custom pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-repeat-options.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After setting the repeat interval, you can also select a date when the repetition will end using the "End Repeat" option. Or you can have the reminder repeat forever.
@@ -68,7 +68,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The reminder has been set to go off daily.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-daily-repeat.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need to add more repeating reminders, just tap the "New Reminder" button again. You can add as many as you'd like.
@@ -88,19 +88,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/phone-expertise-continuous-video-play-for-2024/"><u>[New] IPhone Expertise Continuous Video Play for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-others-replicate-apples-success-with-modular-connectivity-in-electronics/"><u>Can Others Replicate Apple's Success with Modular Connectivity in Electronics?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/creating-artificial-intelligence-powered-backdrops-the-ultimate-guide-for-your-instagram-storytelling/"><u>Creating Artificial Intelligence-Powered Backdrops: The Ultimate Guide for Your Instagram Storytelling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-social-content-creation-using-chatgpt-for-superior-results/"><u>Enhance Social Content Creation Using ChatGPT for Superior Results</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-innovative-tandem-oled-technology-in-new-ipad-pro-everything-you-need-to-know/"><u>Exploring the Innovative Tandem OLED Technology in New iPad Pro – Everything You Need to Know!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-edge-40-neo-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/my-decision-for-iphone-15-pro-over-the-enhanced-iphone-15-pro-max/"><u>My Decision for iPhone 15 Pro over the Enhanced iPhone 15 Pro Max</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-imovie-alternatives-expert-approved-video-editing-options/"><u>No-Cost iMovie Alternatives Expert-Approved Video Editing Options</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/quick-tips-for-setting-up-zoom-on-your-android-phonetablet-for-2024/"><u>Quick Tips for Setting Up Zoom on Your Android Phone/Tablet for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-the-persistent-unread-badge-on-your-iphone-messages-icon/"><u>Resolving the Persistent 'Unread' Badge on Your iPhone Messages Icon</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/score-the-sweetest-price-yet-on-apples-new-m2-macbook-air-at-amazon-for-only-800-no-prime-day-necessary-zdnet-exclusive-deal/"><u>Score the Sweetest Price Yet on Apple's New M2 MacBook Air at Amazon for Only $800 – No Prime Day Necessary | ZDNet Exclusive Deal</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tune-tastic-transfers-find-your-favorite-youtube-songs-with-top-6-free-android-apps/"><u>Tune-Tastic Transfers Find Your Favorite Youtube Songs with Top 6 Free Android Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unrestricted-creativity-the-ultimate-android-editing-selection-for-2024/"><u>Unrestricted Creativity The Ultimate Android Editing Selection for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-pictureperfection-fine-tuning-image-sizes-on-insta/"><u>[New] 2024 Approved PicturePerfection Fine-Tuning Image Sizes on Insta</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-snapshot-verbalizer/"><u>[Updated] In 2024, Snapshot Verbalizer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-understanding-the-use-of-burst-feature-in-gopros/"><u>2024 Approved Understanding the Use of Burst Feature in GoPros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/activating-plex-hardware-boost-step-by-step-guide/"><u>Activating PLEX Hardware Boost: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x9b-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X9b to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-vs-avi-a-detailed-head-to-head-file-format-showdown/"><u>MP4 vs AVI: A Detailed Head-to-Head File Format Showdown</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-to-seamlessly-backup-phone-numbers-and-emails-from-your-androidiphone-device/"><u>Simple Guide: How to Seamlessly Backup Phone Numbers and Emails From Your Android/iPhone Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-ultimate-guide-to-quick-and-easy-smartphone-data-backup/"><u>Simple Steps: Ultimate Guide to Quick and Easy Smartphone Data Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-saving-and-retrieving-calls-from-your-android-device/"><u>Step-by-Step Guide: Saving and Retrieving Calls From Your Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-2023-how-to-for-preserving-your-whatsapp-conversations-expert-tips-for-reliable-android-backups/"><u>The Ultimate 2023 How-To for Preserving Your WhatsApp Conversations: Expert Tips for Reliable Android Backups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-securely-transferring-android-images-to-google-drive-and-pc-without-hassle/"><u>The Ultimate Guide to Securely Transferring Android Images to Google Drive & PC Without Hassle</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-3-superior-techniques-for-android-data-backup/"><u>Ultimate Guide: 3 Superior Techniques for Android Data Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-safeguard-your-android-data-with-leading-backup-solutions/"><u>Ultimate Guide: Safeguard Your Android Data with Leading Backup Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-power-cycling-helps-resolve-common-smartphone-glitches-quickly/"><u>Why Power Cycling Helps Resolve Common Smartphone Glitches Quickly</u></a></li>
 </ul></div>
 

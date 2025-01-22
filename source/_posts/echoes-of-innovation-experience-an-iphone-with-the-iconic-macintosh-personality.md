@@ -1,7 +1,7 @@
 ---
 title: "Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality"
-date: 2024-12-10T02:24:13.651Z
-updated: 2024-12-15T17:27:25.611Z
+date: 2025-01-14T18:16:53.038Z
+updated: 2025-01-22T02:42:49.760Z
 tags:
   - ios
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,22 +64,20 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-essential-low-cost-hd-cameras-for-sports-enthusiasts-for-2024/"><u>[Updated] Essential Low-Cost HD Cameras for Sports Enthusiasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-template-to-tutorial-gamers-channel-design-for-2024/"><u>[Updated] From Template to Tutorial Gamers' Channel Design for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordability-and-performance-the-ultimate-tp-link-archer-c9-review/"><u>Affordability and Performance: The Ultimate TP-Link Archer C9 Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-compelling-dandd-figures-using-gpt-and-generative-ai/"><u>Building Compelling D&D Figures Using GPT and Generative AI</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-ios-device-data-retrieval-restore-information-from-iphones-ipads-and-ipods/"><u>Complete Guide to iOS Device Data Retrieval: Restore Information From iPhones, iPads & iPods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-x50i-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor X50i Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-how-does-claude-pro-measure-up/"><u>In-Depth Analysis: How Does Claude Pro Measure Up?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-video-retrieval-how-to-restore-accidentally-deleted-footage/"><u>IPhone Video Retrieval: How to Restore Accidentally Deleted Footage</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/pick-your-favorites-top-6-fb-lite-videos-downloaders-for-2024/"><u>Pick Your Favorites Top 6 FB Lite Videos Downloaders for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mastering-iphone-backup-password-restoration/"><u>Step-by-Step Tutorial on Mastering iPhone Backup Password Restoration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-returning-ios-device-to-original-state-and-recovering-data-via-itunes-or-finder/"><u>Step-by-Step Tutorial: Returning iOS Device to Original State & Recovering Data via iTunes or Finder</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-image-restoration-apps-on-windowsmac-2024-edition/"><u>The Ultimate Guide to the Top 5 iPhone Image Restoration Apps on Windows/Mac, 2024 Edition</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-compelling-motivations-behind-retrieving-lost-data-from-your-iphone-using-a-computer/"><u>Top 5 Compelling Motivations Behind Retrieving Lost Data From Your iPhone Using a Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-essential-ios-applications-for-effortlessly-retrieving-lost-iphone-contact-details/"><u>Top 6 Essential iOS Applications for Effortlessly Retrieving Lost iPhone Contact Details</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/tutoriel-transfert-automatique-de-vos-donnees-vers-le-nuage-fichiers-et-dossiers-sur-un-disque-dur-externe/"><u>Tutoriel : Transfert Automatique De Vos Données Vers Le Nuage - Fichiers Et Dossiers Sur Un Disque Dur Externe</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-for-restoring-lost-notes-on-any-iphone-version-models-from-iphone-4-to-iphone-12/"><u>Ultimate Troubleshooting for Restoring Lost Notes on Any iPhone Version (Models From iPhone 4 to iPhone 12)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-superior-green-tech-in-video-production-for-2024/"><u>[New] Superior Green Tech in Video Production for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-3-ways-to-record-lectures-on-mac/"><u>[Updated] 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-easy-steps-for-logging-vimeo-media-for-2024/"><u>[Updated] Easy Steps for Logging Vimeo Media for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/avoid-losing-important-files-comprehensive-guide-on-android-to-mac-backup/"><u>Avoid Losing Important Files: Comprehensive Guide on Android-to-Mac Backup</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/carousel-of-charms-a-romantic-italian-dialogue/"><u>Carousel of Charms: A Romantic Italian Dialogue</u></a></li>
+<li><a href="https://media-tips.techidaily.com/everything-you-need-to-know-about-tiff-files-explained/"><u>Everything You Need to Know About TIFF Files Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-huawei-p60-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Huawei P60?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-layering-youtube-vibes-on-video-canvases/"><u>In 2024, Layering YouTube Vibes on Video Canvases</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>In 2024, The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/securely-transfer-android-phone-data-to-pc-using-the-helium-application-without-needing-root-access/"><u>Securely Transfer Android Phone Data to PC Using the Helium Application Without Needing Root Access</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-strategies-for-transferring-motorola-information-pc-cloud-and-device-options/"><u>Simple Strategies for Transferring Motorola Information: PC, Cloud & Device Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-moving-pictures-onto-a-computer-using-android-and-ios-devices/"><u>Step-by-Step Guide: Moving Pictures Onto a Computer Using Android and iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-and-securing-your-information-from-a-cracked-android-device/"><u>Step-by-Step Guide: Retrieving and Securing Your Information From a Cracked Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-for-accessing-information-in-your-ios-and-android-backup-files/"><u>Step-by-Step Strategies for Accessing Information in Your iOS & Android Backup Files</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-top-10-android-cleaner-apps-to-enhance-your-devices-efficiency/"><u>The Ultimate List of Top 10 Android Cleaner Apps to Enhance Your Device's Efficiency</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
-date: 2025-01-14T21:07:26.790Z
-updated: 2025-01-15T19:56:23.633Z
+date: 2025-01-15T19:59:52.168Z
+updated: 2025-01-22T01:22:45.926Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Step-by-Step Tutorial on Configuring, Deconfiguring & Refreshing Your Siri Remote for Apple TV
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Pair an Apple TV remote by holding the "<" or Menu button and volume up at the same time, then follow any on-screen instructions.
@@ -22,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Try charging your Apple TV remote to revive it; if that doesn't work, consider using an iPhone or iPad as a temporary remote.
 
  Is your Apple TV remote not working? Are you trying to pair a new remote, or use your old remote with a different unit? Let’s fix the mess so you can go back to streaming your favorite shows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pair an Apple TV Remote
 
@@ -35,17 +27,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Apple TV dashboard with YouTube selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_dash.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now take the remote that you want to pair and make sure you’re within three inches of the streaming box. With the remote pointed at your Apple TV unit, press and hold the Back “<“ or Menu button and the Volume Up “+” button at the same time for five seconds.
 
 ![Apple TV remote pairing button combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_menu-vol_up.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  You may be asked to place your remote on top of the Apple TV unit to complete the pairing unit. Once you’re done, you should be able to use your remote as normal to wake, control, and sleep your Apple TV unit (and you won’t need to pair it again, even if it runs out of battery).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Reset an Apple TV Remote
 
@@ -54,10 +50,6 @@ Tim Brookes / How-To Geek
  Assuming your Apple TV is on, press and hold the TV (Control Center) button and the Volume Down “-“ button for five seconds. You should see the status light on your Apple TV unit blink once, and the “Connection Lost” notification appears on-screen.
 
 ![Apple TV remote reset combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_tv-vol_down.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -83,17 +75,21 @@ Tim Brookes / How-To Geek
 
 ![Apple TV remote battery information screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_battery.png) 
 
- You won’t see a light or a charging indicator while the remote is charging, so be patient and test it when enough time has passed.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You won’t see a light or a charging indicator while the remote is charging, so be patient and test it when enough time has passed.
 
 ##  Power Cycle the Apple TV to Reset It
 
  Sometimes the only way to solve a problem is to [turn a device off and on again](https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g13-drfone-by-drfone-virtual-android/). This is true for computers, smartphones, and tablets; so of course it’s true for the Apple TV as well.
 
  To fully power cycle your Apple TV unplug it from the wall, wait around 10 seconds, and then plug it back in again. The unit should automatically start up and dump you on the dashboard. You’ll need to hit a button on the remote for it to pair, after which your remote should (hopefully) work again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Connect an iPhone or iPad as a Remote
 
@@ -103,13 +99,13 @@ Tim Brookes / How-To Geek
 
 ![Selecting an Apple TV to control in the iPhone Remote app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_remote_iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t see your Apple TV listed, you can try waking it by restarting it (unplug it and then plug it back in, and wait for it to boot) and then selecting the Apple TV when it appears in the app. You may need to pair the iPhone, just follow any on-screen instructions.
 
  Once connected you can use the trackpad interface just as you would your normal remote. You also have access to playback controls, a back button, and the TV or Control Center button plus a power button at the top of the screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Try Updating Your Apple TV
 
@@ -119,6 +115,10 @@ Tim Brookes / How-To Geek
 
  With your iPhone or iPad connected as a remote, navigate to Settings > System > Software Updates and install any outstanding updates. The Apple TV will restart, after which you can try using (or pairing) your remote again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Control Your Apple TV with a TV or Universal Remote
 
  Another option for controlling your Apple TV is to use a standard TV remote, which relies on a shared media standard called HDMI-CEC. This technology allows you to [control streaming boxes and game consoles with a single remote](https://extra-support.techidaily.com/2024-approved-maximizing-gopro-footage/).
@@ -126,10 +126,6 @@ Tim Brookes / How-To Geek
  Again, you’ll need some method of controlling your Apple TV to set this up (we recommend a paired iPhone or iPad using the instructions above). Once you’ve done so, navigate to Settings > Remotes and Devices > Learn Remote then hit “Start” and then follow the on-screen instructions to teach your Apple TV to identify your TV remote.
 
 ![Teaching an Apple TV to use a regular TV remote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_learn_remote.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Remember that your TV will also react to any buttons you press, so this can occasionally cause issues if the required buttons trigger functions on your TV.
 
@@ -140,6 +136,10 @@ Tim Brookes / How-To Geek
  You’ll need some way of controlling the Apple TV to set this up, so try connecting an iPhone or iPad using the Remote app before you begin. Put your controller of choice into pairing mode (the instructions will differ depending on which gamepad you’re trying to pair). To pair, navigate to Settings > Remotes and Devices > Bluetooth and select your controller from the list (or use Control Center by holding the TV button).
 
 ![View vvailable game controllers on an Apple TV via Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple_tv_game_controller-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After pairing, your controller should stay paired with your Apple TV, depending on which pad you’re using.
 
@@ -164,21 +164,19 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-static-shots-to-time-lapse-video-tapestry/"><u>[New] From Static Shots to Time-Lapse Video Tapestry</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-manycam-review-is-there-a-better-alternative/"><u>[New] In 2024, ManyCam Review Is There A Better Alternative?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fable-formulators-fellowship-top-7-titans/"><u>[Updated] Fable Formulators Fellowship – Top 7 Titans</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-proven-techniques-to-enhance-subscriber-count-with-effective-channel-branding/"><u>2024 Approved Proven Techniques to Enhance Subscriber Count with Effective Channel Branding</u></a></li>
-<li><a href="https://os-tips.techidaily.com/4-effective-methods-to-recover-your-apps-via-icloud-backup/"><u>4 Effective Methods to Recover Your Apps via iCloud Backup</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/boosting-reach-transferring-fb-videos-on-whatsapp-efficiently/"><u>Boosting Reach Transferring FB Videos on WhatsApp Efficiently</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-you-restore-lost-imessages-from-ios-devices-explore-the-methods-using-a-mac-computer/"><u>Can You Restore Lost iMessages From iOS Devices? Explore the Methods Using a Mac Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-for-retrieving-erased-viber-messages-both-with-and-without-previous-backups/"><u>Easy Steps for Retrieving Erased Viber Messages - Both With & Without Previous Backups</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-7-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 7 Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-deleted-contacts-on-icloud-using-these-3-simple-techniques/"><u>Recover Deleted Contacts on iCloud Using These 3 Simple Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-tracks-on-your-ios-device-even-if-you-lack-a-backup/"><u>Retrieve Accidentally Deleted Tracks on Your iOS Device Even If You Lack a Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieving-lost-iphone-data-effective-techniques-including-both-backed-up-and-non-backed-up-scenarios/"><u>Retrieving Lost iPhone Data: Effective Techniques Including Both Backed-Up and Non-Backed-Up Scenarios</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-addressing-frequent-halo-infinite-shutdowns-on-windows-machines/"><u>Step-by-Step Solution: Addressing Frequent Halo Infinite Shutdowns on Windows Machines</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-retrieving-iphone-photos-after-an-ipados-upgrade/"><u>Step-by-Step Tutorial on Retrieving iPhone Photos After an iPadOS Upgrade</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-places-for-little-ones-to-engage-in-complimentary-preschool-game-sessions/"><u>The Best Places for Little Ones to Engage in Complimentary Preschool Game Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-premier-selection-the-best-11-soundstreamer-devices/"><u>[Updated] In 2024, Premier Selection The Best 11 Soundstreamer Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-packaging-to-prowess-marketings-unboxed-secrets/"><u>[Updated] Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-simplify-your-audio-life-master-vrecorder-installs-for-2024/"><u>[Updated] Simplify Your Audio Life - Master VRecorder Installs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlining-presentations-captivate-techniques/"><u>[Updated] Streamlining Presentations Captivate Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-virtual-frontiers-the-most-wanted-vr-devices-for-2024/"><u>[Updated] Virtual Frontiers The Most Wanted VR Devices for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-online-spots-4-skype-ringtones-for-2024/"><u>Essential Online Spots 4 Skype Ringtones for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reach-every-corner-global-navigation-with-powertoys-magic/"><u>Reach Every Corner - Global Navigation with PowerToys' Magic</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-ipad-experience-with-just-3-tweaks-from-apple/"><u>Transform Your iPad Experience with Just 3 Tweaks From Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-iphone-experience-top-6-discreet-ios-update-enhancements/"><u>Transform Your iPhone Experience: Top 6 Discreet iOS Update Enhancements</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-face-recognition-top-5-solutions-when-your-iphones-face-id-fails/"><u>Troubleshooting Face Recognition: Top 5 Solutions When Your iPhone's Face ID Fails</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-iphone-13-pro-defenders-ranked/"><u>Ultimate Selection: IPhone 13 Pro Defenders Ranked</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-covert-spy-gear-a-step-by-step-guide-to-identifying-concealed-camera-traps-using-mobile-technology/"><u>Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-exclusive-discounts-save-big-on-updf-editor-and-apple-watch-series-eztrem/"><u>Unlock Exclusive Discounts: Save Big on UPDF Editor & Apple Watch Series ˈēztrēm!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
 

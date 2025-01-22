@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2025-01-13T23:28:42.894Z
-updated: 2025-01-16T00:43:42.040Z
+date: 2025-01-19T05:31:41.964Z
+updated: 2025-01-21T17:08:22.601Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ## Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  To enable Do Not Disturb mode quickly, first, [launch Control Center](https://youtube-blog.techidaily.com/ring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/) on your iPhone or iPad, and then tap the Focus button (which looks like a crescent moon).
 
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
 
@@ -56,24 +52,28 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Settings, tap "Notifications."
 
 ![Tap "Notifications" in the listed options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-notifications.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Notifications, scroll through the list and tap the name of the app that you want to prevent from waking your screen. In this case, we're using Messages as an example, but you could do it for Facebook Messenger, Signal, Twitter, FaceTime, or any other app.
 
 ![We selected the Messages app in the Notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-messages.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the app's notification settings, tap "Lock Screen" to uncheck it.
 
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
 
@@ -94,20 +94,18 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ive-audience-score-keeper-apps-for-2024/"><u>[New] Live Audience Score Keeper Apps for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-effortless-subtitle-extraction-from-zip-archives/"><u>[Updated] Effortless Subtitle Extraction From Zip Archives</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>[Updated] In 2024, Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-in-depth-survey-the-apex-of-screen-recording-technology/"><u>[Updated] In 2024, In-Depth Survey The Apex of Screen Recording Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-quick-guide-instant-access-to-iphones-camera-app/"><u>1. Quick Guide: Instant Access to iPhone's Camera App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/12-hidden-siri-tricks-for-a-supercharged-iphone-experience/"><u>12 Hidden Siri Tricks for a Supercharged iPhone Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/activate-a-mobile-account-today-for-apple-card-iphone-finance-options/"><u>Activate a Mobile Account Today for Apple Card iPhone Finance Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-arcade-a-second-look-top-5-benefits-that-make-it-a-great-choice/"><u>Apple Arcade: A Second Look - Top 5 Benefits That Make It a Great Choice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-6-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic 6 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-s17t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo S17t to iPad | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/testimonial-hard-drive-data-recovery/"><u>Testimonial: Hard Drive Data Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-setting-up-emergency-calls-on-your-iphone/"><u>Ultimate Guide to Setting Up Emergency Calls on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-dual-layer-oled-display-on-apples-latest-ipad-pro-a-comprehensive-guide/"><u>Understanding the Dual-Layer OLED Display on Apple's Latest iPad Pro: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-top-5-must-try-ios-18-accessibility-enhancements-for-an-effortless-user-experience/"><u>Unlock Top 5 Must-Try iOS 18 Accessibility Enhancements for an Effortless User Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-edge-exploiting-youtube-studio-for-global-viewers/"><u>[Updated] In 2024, Earning Edge Exploiting YouTube Studio for Global Viewers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-two-dimensions-techniques-for-3d-text-in-illustrator/"><u>2024 Approved From Two-Dimensions Techniques for 3D Text in Illustrator</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-how-to-perform-a-regular-or-hard-restart-on-iphone-devices/"><u>Comprehensive Troubleshooting: How to Perform a Regular or Hard Restart on iPhone Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-on-transferring-apple-login-details-via-csv-format-for-safekeeping-and-exchange/"><u>Easy Tutorial on Transferring Apple Login Details via CSV Format for Safekeeping and Exchange</u></a></li>
+<li><a href="https://os-tips.techidaily.com/hidden-techniques-for-discreetly-managing-your-whatsapp-connections-a-comprehensive-guide-to-block-and-unblock-anonymously/"><u>Hidden Techniques for Discreetly Managing Your WhatsApp Connections - A Comprehensive Guide to Block and Unblock Anonymously</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-send-and-receive-digital-touches-on-your-iphone-the-ultimate-tutorial/"><u>How To Send and Receive Digital Touches On Your iPhone: The Ultimate Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-105-classic-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia 105 Classic Lock Screen Password?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-13-mini-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 13 mini</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276461-leading-password-management-solutions-for-iphones-unlock-easily-with-the-best-3-options-available-today/"><u>Leading Password Management Solutions for iPhones: Unlock Easily with the Best 3 Options Available Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-techniques-for-overcoming-504-gateway-timeout-failures/"><u>Master the Techniques for Overcoming 504 Gateway Timeout Failures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mini-laptops-and-gimbals-for-mobile-videos/"><u>Mini Laptops & Gimbals for Mobile Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-the-secrets-to-snap-success/"><u>Unveiling the Secrets to Snap Success</u></a></li>
 </ul></div>
 

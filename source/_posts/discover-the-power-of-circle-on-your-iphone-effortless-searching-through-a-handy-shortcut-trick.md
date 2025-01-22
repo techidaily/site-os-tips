@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of Circle on Your iPhone: Effortless Searching Through a Handy Shortcut Trick!"
-date: 2024-12-14T03:56:25.079Z
-updated: 2024-12-15T17:02:54.842Z
+date: 2025-01-14T16:07:59.811Z
+updated: 2025-01-22T03:00:38.952Z
 tags:
   - ios
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Circle to Search?
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -38,10 +38,6 @@ Justin Duino / How-To Geek
  Highlight text with a tap or draw a circle around an image or video, and the search engine brings up all the related results. Although I use an iPhone as my daily driver, I've tried Circle to Search on the Galaxy S23 Ultra, and it's pretty nifty. Unfortunately, the feature is only available on select Android phones, including the [recent Samsung Galaxy S series and Pixel smartphones](https://some-knowledge.techidaily.com/updated-focusing-your-view-a-guide-to-zooming-on-microsoft-teams/).
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Get Circle to Search Functionality on Your iPhone
 
@@ -53,17 +49,21 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap on "Add Action."
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
@@ -83,13 +83,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -120,22 +120,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-from-tweets-to-tomes-the-full-year-in-video/"><u>[New] 2024 Approved From Tweets to Tomes The Full Year in Video</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-free-stock-footage-websites-you-should-know/"><u>[New] In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-chilly-celebrations-beijings-olympic-ice-showcase-2022/"><u>[Updated] Chilly Celebrations Beijing's Olympic Ice Showcase, 2022</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bu-tarafdan-dogru-olan-izmirdeki-sanat-giselerinin-farklilarin-ustesinden-basaricisi-bolumunun-nedeni-deger/"><u>Bu Tarafdan Doğru Olan İzmir'deki Sanat Gişelerinin Farklıların Üstesinden Başarıcısı Bölümünün Nedeni Değer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-solutions-for-retrieving-deleted-iphone-contact-info/"><u>Complete Solutions for Retrieving Deleted iPhone Contact Info</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-list-of-gratis-4k-media-players-on-windows-11-and-macos/"><u>Discover the Ultimate List of Gratis 4K Media Players on Windows 11 and macOS!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-g13-driver-to-fix-g13-gameboard/"><u>Download Logitech G13 Driver to Fix G13 Gameboard</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-removed-ios-apps-and-preserving-user-information-securely/"><u>Expert Tips for Retrieving Removed iOS Apps and Preserving User Information Securely</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-retrieving-lost-phonebook-entries-post-iphone-system-error/"><u>Guide: Retrieving Lost Phonebook Entries Post-iPhone System Error</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-texts-a-step-by-step-guide-to-recovering-deleted-sms/"><u>How to Retrieve Lost Texts: A Step-by-Step Guide to Recovering Deleted SMS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-copyright-demystified-key-principles-and-practices/"><u>In 2024, YouTube Copyright Demystified Key Principles and Practices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recover-lost-sms-on-iphone-methods-for-ios-devices-with-latest-update-support/"><u>Recover Lost SMS on iPhone: Methods for iOS Devices with Latest Update Support</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revisit-vanished-chats-the-ultimate-technique-for-retrieving-deleted-message-threads/"><u>Revisit Vanished Chats: The Ultimate Technique for Retrieving Deleted Message Threads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revive-deleted-phone-numbers-a-complete-tutorial-on-retrieving-contacts-with-itunes-backups/"><u>Revive Deleted Phone Numbers: A Complete Tutorial on Retrieving Contacts with iTunes Backups</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-lost-contact-information-from-your-itunes-backup/"><u>Step-by-Step Guide: Restoring Lost Contact Information From Your iTunes Backup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-creatives-choice-exploring-17-superior-graphics-software-solutions/"><u>The Creatives' Choice: Exploring 17 Superior Graphics Software Solutions</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/troubleshooting-tips-unearth-hidden-facebook-content-for-2024/"><u>Troubleshooting Tips Unearth Hidden Facebook Content for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-multiplatform-iptv-live-streaming/"><u>[New] 2024 Approved Multiplatform IPTV Live Streaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevating-your-4k-entertainment-tvs-vs-projection-technology/"><u>[New] Elevating Your 4K Entertainment TVs vs Projection Technology</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-financial-forecasting-in-the-world-of-youtube-snippet-creation/"><u>[Updated] 2024 Approved Financial Forecasting in the World of YouTube Snippet Creation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-trim-perfect-clearing-thin-lines-on-youtube/"><u>[Updated] 2024 Approved Trim Perfect Clearing Thin Lines on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ranking-8-effective-online-marketing-solutions/"><u>[Updated] Ranking 8 Effective Online Marketing Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-5-methods-to-resolve-stalled-whatsapp-backups-on-android-devices/"><u>Best 5 Methods to Resolve Stalled WhatsApp Backups on Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-transfer-every-image-from-google-photos-across-devices-and-platforms/"><u>Complete Guide: How to Transfer Every Image From Google Photos Across Devices & Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-how-to-retrieve-data-from-iphone-and-android-device-backups/"><u>Comprehensive Tutorial on How to Retrieve Data From iPhone & Android Device Backups</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-methods-to-perform-an-efficient-factory-restore-on-your-htc-handset-with-screen-lock/"><u>Easy Methods to Perform an Efficient Factory Restore on Your HTC Handset with Screen Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-and-usage-tips-on-the-verizon-backup-assistant-tool/"><u>In-Depth Analysis and Usage Tips on the Verizon Backup Assistant Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steer-clear-of-the-google-bard-app-to-prevent-cyber-threats/"><u>Steer Clear of the Google Bard App to Prevent Cyber Threats</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A15 4G</u></a></li>
 </ul></div>
 

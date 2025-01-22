@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2025-01-13T22:11:45.804Z
-updated: 2025-01-15T22:37:05.966Z
+date: 2025-01-15T05:32:03.233Z
+updated: 2025-01-21T16:16:28.410Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,7 +29,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Creating Cutouts is Easy
@@ -41,6 +45,10 @@ Tim Brookes / How-To Geek
  You can also create cutouts using the Files app, isolating subjects in images saved to your iCloud Drive or internal storage. To do this, long-press a photo and use the “Quick Actions” menu to “Remove Background.” In Safari, you can long press on a photo to reveal the context menu and then choose “Copy Subject” to copy the subject to your clipboard.
 
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create Stickers Using Photo Cutouts
 
@@ -64,12 +72,16 @@ Tim Brookes / How-To Geek
 
 ![A Nintendo 64-themed mood board created in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1925.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve copied a subject to your clipboard, paste it into a Freeform document by tapping a blank space and selecting “Paste” in the context menu. You can then move, scale, and arrange your mood board accordingly. If you want to create a mood board with non-Apple users, you’ll need to resort to a third-party tool like [Microsoft Whiteboard](https://screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users-for-2024/) or an [agile note-taking app like OneNote](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) instead.
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create a Visual Log of Outfits and More
@@ -90,10 +102,6 @@ Tim Brookes / How-To Geek
 
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Highlight the Subject in Almost Any App
 
  You can copy these cutouts to your clipboard or tap the “Share” option to use them almost anywhere. Many of these use cases depend on clipboard functionality, and sometimes you have to think outside of the box to see the potential.
@@ -110,10 +118,6 @@ Tim Brookes / How-To Geek
 
 ![Adding a subject to a Google Doc using the iPhone paste functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1929.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Publishing apps like [Apple Pages](https://apps.apple.com/us/app/pages/id361309726) and [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640), in addition to slideshow tools like [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) and [Apple Keynote](https://apps.apple.com/us/app/keynote/id409183694?mt=12) also natively support the feature. Design and layout apps like [Canva](https://apps.apple.com/us/app/canva-design-art-ai-editor/id897446215) and [PicCollage](https://apps.apple.com/au/app/piccollage-ai-photo-editor/id448639966) both support pasting of subjects once they’ve been copied to your clipboard.
@@ -121,10 +125,6 @@ Tim Brookes / How-To Geek
  Using these apps you can make use of templates to design a wide variety of digital and printable materials, from Instagram posts to business cards. In most cases, all you need to do is tap or long-tap and select “Paste.” Sometimes you’ll find this option underneath an ellipsis “...” menu instead.
 
  Many apps support the feature, you just need to experiment. Though you can’t refine what is selected as part of the subject isolation process, the feature makes it much easier to create impressive-looking work on mobile.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Save for Use as a Transparent PNG
 
@@ -153,19 +153,24 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-essential-guide-to-filming-timelapse-on-ios-devices/"><u>[New] 2024 Approved The Essential Guide to Filming Timelapse on iOS Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-your-profile-top-25-high-gainning-instagram-tags/"><u>[New] Boosting Your Profile Top 25 High-Gainning Instagram Tags</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ound-strategies-tailoring-your-microphone-to-align-with-your-youtube-channel-for-2024/"><u>[New] Sound Strategies Tailoring Your Microphone to Align With Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-integrating-audio-into-your-reels/"><u>2024 Approved Step-by-Step Guide Integrating Audio Into Your Reels</u></a></li>
-<li><a href="https://os-tips.techidaily.com/automatic-nsfw-filtering-techniques-for-ios-and-macos-devices/"><u>Automatic NSFW Filtering Techniques for iOS and macOS Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-g2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo G2 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-airpodsairpods-pros-charging-time-with-these-7-essential-tips/"><u>Boost Your AirPods/AirPods Pro's Charging Time with These 7 Essential Tips!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cellular-ipads-are-they-the-game-changer-you-need/"><u>Cellular iPads: Are They the Game Changer You Need?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/choosing-iphone-15-pro-instead-of-pro-max-a-users-perspective/"><u>Choosing iPhone 15 Pro Instead of Pro Max: A User’s Perspective</u></a></li>
-<li><a href="https://os-tips.techidaily.com/christmas-driving-fun-setting-up-santa-and-yule-logos-for-a-yuletide-journey-in-waze/"><u>Christmas Driving Fun: Setting Up Santa & Yule Logos for a Yuletide Journey in Waze</u></a></li>
-<li><a href="https://os-tips.techidaily.com/clear-photos-ahead-expert-tips-for-correcting-unfocused-picture-quality/"><u>Clear Photos Ahead: Expert Tips for Correcting Unfocused Picture Quality</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keep-your-gpu-in-top-shape-with-driver-upgrade/"><u>Keep Your GPU in Top Shape with Driver Upgrade</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mastering-color-selection-using-powertoys-color-picker-tool-insights-from-zdnet/"><u>Mastering Color Selection: Using PowerToys' Color Picker Tool - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-expertly-design-fb-ads-get-help-from-free-video-creation-toolkit/"><u>[Updated] Expertly Design FB Ads – Get Help From Free Video Creation Toolkit</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-first-flight-experience-the-best-beginner-drones/"><u>2024 Approved First Flight Experience The Best Beginner Drones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-resetting-your-computer-with-a-system-restore-in-windows-versions-10-8-and-7/"><u>Complete Tutorial: Resetting Your Computer with a System Restore in Windows Versions 10, 8, and 7</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-the-secrets-of-youtubes-content-hub-for-2024/"><u>Decoding the Secrets of YouTube's Content Hub for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-restore-functionality-to-your-broken-usb-hard-drive/"><u>Effortless Ways to Restore Functionality to Your Broken USB Hard Drive</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-server-cabinets-and-enclosures-expert-picks/"><u>Essential Server Cabinets & Enclosures - Expert Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-strategies-resolve-your-memory-card-issues-with-these-7-techniques/"><u>Essential Strategies: Resolve Your Memory Card Issues with These 7 Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-walkthrough-on-halting-windows-update-schedule-for-good/"><u>Expert Walkthrough on Halting Windows Update Schedule for Good</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fine-tuning-film-views-through-zoom-adjustment/"><u>Fine-Tuning Film Views Through Zoom Adjustment</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-invalid-disk-failures-discover-the-best-3-techniques-for-stable-systems-and-easy-data-retrieval/"><u>Fixing Invalid Disk Failures? Discover the Best 3 Techniques for Stable Systems & Easy Data Retrieval</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-windows-10-random-reboots-effective-solutions-you-can-try/"><u>How to Fix Windows 10 Random Reboots: Effective Solutions You Can Try</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gigglegrid-generate-visual-jokes-in-minutes/"><u>In 2024, GiggleGrid Generate Visual Jokes in Minutes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-navigating-youtube-strikes-understanding-and-resolving-copyright-issues/"><u>In 2024, Navigating YouTube Strikes Understanding and Resolving Copyright Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lol-meme-creator-tool-for-2024/"><u>LOL Meme Creator Tool for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620260208-solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-to-the-newest-sound-blaster-z-driver-on-windows-11/"><u>Step-by-Step Guide to Updating to the Newest Sound Blaster Z Driver on Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-effective-remedies-for-correcting-sd-card-malfunctions/"><u>Top 7 Effective Remedies for Correcting SD Card Malfunctions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor X50i? | Dr.fone</u></a></li>
 </ul></div>
 

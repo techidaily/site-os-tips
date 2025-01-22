@@ -1,7 +1,7 @@
 ---
 title: "Issues with Apple Card & Apple Pay: A Comprehensive Look"
-date: 2025-01-13T16:51:32.162Z
-updated: 2025-01-16T00:01:23.729Z
+date: 2025-01-17T18:16:27.221Z
+updated: 2025-01-22T05:23:48.108Z
 tags:
   - ios
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  The Apple Pay, Apple Card, and Apple Cash services are currently affected by an outage. Some users may have trouble making purchases online or in apps. That said, the outage doesn't seem to affect real-world transactions at brick-and-mortar retail locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/12/20 10:46 EST BY ANDREW HEINZMAN
@@ -54,21 +54,22 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-no-stress-just-peaceful-pc-gaming/"><u>[New] 2024 Approved No Stress, Just Peaceful PC Gaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-live-streaming-basics-tips-and-tricks/"><u>[New] In 2024, Live Streaming Basics Tips and Tricks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapshot-preservation-android-and-mac-techniques-for-2024/"><u>[New] Snapshot Preservation Android & Mac Techniques for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-minuscule-marvels-a-comprehensive-review-of-dji-sparks-capabilities/"><u>2024 Approved Navigating Minuscule Marvels A Comprehensive Review of DJI Spark's Capabilities</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-complete-blueprint-integrating-real-time-video-on-sites/"><u>2024 Approved The Complete Blueprint Integrating Real-Time Video on Sites</u></a></li>
-<li><a href="https://os-tips.techidaily.com/certain-apple-watch-variants-now-lack-blood-oxygen-monitoring-functionality/"><u>Certain Apple Watch Variants Now Lack Blood Oxygen Monitoring Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-cash-app-upgrades-offer-parallel-benefits-to-apple-cards-robust-savings-options/"><u>Discover How Cash App Upgrades Offer Parallel Benefits to Apple Card's Robust Savings Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/embrace-modern-playfulness-why-i-prefer-iphone-games-over-classic-consoles/"><u>Embrace Modern Playfulness: Why I Prefer iPhone Games Over Classic Consoles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-apple-watch-experience-with-chatgpt-setup-tips-and-tricks/"><u>Enhance Your Apple Watch Experience with ChatGPT – Setup Tips and Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-google-drives-new-design-for-mobile-devices-unveiled/"><u>Enhanced User Experience: Google Drive's New Design for Mobile Devices Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-your-favorite-psp-titles-anywhere-using-ppsspp-for-ios-devices/"><u>Experience Your Favorite PSP Titles Anywhere Using PPSSPP for iOS Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-humor-how-chatgpts-joke-crafting-abilities-stack-up-with-human-wit/"><u>Exploring Humor: How ChatGPT's Joke-Crafting Abilities Stack Up with Human Wit</u></a></li>
-<li><a href="https://os-tips.techidaily.com/go-off-the-beaten-path-with-apple-maps-exciting-new-feature-unveiled/"><u>Go Off the Beaten Path with Apple Maps: Exciting New Feature Unveiled!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/solution-preventing-automatic-filling-of-c-drive-on-windows-server-2012-r2/"><u>Solution: Preventing Automatic Filling of C Drive on Windows Server 2012 R2</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-checklist-12-must-have-cameras-for-vlogging-professionals-for-2024/"><u>The Ultimate Checklist 12 Must-Have Cameras for Vlogging Professionals for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-screen-capture-with-1-5-of-the-best-pc-snipers-for-2024/"><u>[New] Mastering Screen Capture with #1-#5 of the Best Pc Snipers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transforming-viewers-into-buyers-20-must-know-tactics-for-fb-video-advertising/"><u>[New] Transforming Viewers Into Buyers 20 Must-Know Tactics for FB Video Advertising</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-microrecorder-assessment-onscreen-snaps/"><u>2024 Approved MicroRecorder Assessment Onscreen Snaps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-setting-your-favorite-images-as-iphone-background-wallpapers/"><u>A Step-by-Step Guide to Setting Your Favorite Images as iPhone Background Wallpapers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-places-to-fix-a-cracked-iphone-display-prices-and-reviews/"><u>Best Places to Fix a Cracked iPhone Display: Prices & Reviews</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-techniques-for-reviving-every-iphones-a-detailed-walkthrough/"><u>Comprehensive Troubleshooting Techniques for Reviving Every iPhones - A Detailed Walkthrough</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-best-features-of-amazons-fire-hd-10-a-versatile-tablet-for-all-family-members/"><u>Exploring the Best Features of Amazon's Fire HD 10 - A Versatile Tablet for All Family Members</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-it-now-effective-strategies-for-resolving-iphone-outlook-issues-fast/"><u>Fix It Now: Effective Strategies for Resolving iPhone Outlook Issues Fast</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-setting-up-a-memorable-social-media-presence-with-covers/"><u>In 2024, Setting Up a Memorable Social Media Presence with Covers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-versus-pc-understanding-their-fundamental-variances/"><u>Mac versus PC: Understanding Their Fundamental Variances</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-iphones-missing-alerts-problem-with-these-8-effective-fixes-for-ios-versions-10-to-12/"><u>Solve Your iPhone's Missing Alerts Problem with These 8 Effective Fixes for iOS Versions 10 to 12</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-ios-16-wifi-connectivity-issues-common-problems-and-fixes/"><u>Troubleshooting IOS 16 WiFi Connectivity Issues: Common Problems & Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-made-easy-resolving-your-iphone-restore-hiccups-quickly-and-effectively/"><u>Troubleshooting Made Easy: Resolving Your iPhone Restore Hiccups Quickly and Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-heroes-and-monsters-iii-pc-instability-issues/"><u>Troubleshooting Steps for Resolving Heroes and Monsters III PC Instability Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-connecting-and-syncing-an-iphone-with-windows-or-mac/"><u>Troubleshooting Steps: Connecting and Syncing an iPhone with Windows or Mac</u></a></li>
+<li><a href="https://solve-help.techidaily.com/user-agreement-discussions-understanding-terms-and-conditions/"><u>User Agreement Discussions: Understanding Terms and Conditions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/xbox-gamers-guide-4-proven-screen-recording-methods-for-2024/"><u>Xbox Gamers' Guide 4 Proven Screen Recording Methods for 2024</u></a></li>
 </ul></div>
 

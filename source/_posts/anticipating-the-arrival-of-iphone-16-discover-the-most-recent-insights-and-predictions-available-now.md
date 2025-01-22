@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-date: 2025-01-14T20:21:07.479Z
-updated: 2025-01-16T00:50:51.356Z
+date: 2025-01-17T16:10:49.399Z
+updated: 2025-01-21T18:49:56.627Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [A Potentially More Expensive Price Tag](https://video-capture.techidaily.com/updated-uncluttered-program-w10-screenshot-maker/)
 * [The iPhone 16 Ultra?](https://extra-skills.techidaily.com/in-2024-instantly-fashion-company-symbols-with-open-source-tools/)
 * [Speculation and Rumor](https://instagram-video-files.techidaily.com/engage-viewers-with-3-innovative-description-styles-on-instagram-vids-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,10 +48,6 @@ Apple
 
  Apple may reserve the highest-performing chips for the more expensive model, with possible “A18 Pro” style branding. This should be a decent upgrade for the base-model iPhones considering the iPhone 15’s use of the older A16 SoC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  No More Mute Switch for the iPhone 16
 
  Apple’s iPhone Pro models often signal changes that will trickle down to the base models in future revisions. Last year’s iPhone 15 Pro ditched the mute switch, instead [replacing it with an “Action” button](https://youtube-lab.techidaily.com/banish-stutter-and-freeze-optimize-your-outriders-gameplay/) like the one found on the Apple Watch Ultra. This year’s iPhone 16 could receive the same treatment.
@@ -59,7 +55,7 @@ Apple
 ![Volume buttons and Action Button on the Apple iPhone 15 Pro Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/volume-buttons-and-action-button-on-the-apple-iphone-15-pro-max.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -67,6 +63,10 @@ Justin Duino / How-To Geek
  So-called dummy iPhone 16 models posted by X (Twitter) user [Sonny Dickson](https://x.com/SonnyDickson/status/1775704247348412559?s=20) depict a full range of iPhone models with an Action button in place of the mute toggle. As per the iPhone 15 Pro, this button can be used in the same way or reprogrammed. This allows you to use the button for other purposes like triggering a Shortcut, recording a voice memo, and turning on your device’s flashlight.
 
  On the iPhone 15 Pro, mute functionality can be accessed via Control Center instead. For those of us whose iPhones are always muted, the loss of a physical toggle in favor of more useful button would be a win.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A New Capture Button
 
@@ -76,10 +76,6 @@ Justin Duino / How-To Geek
 
  An obvious use case would be to control zoom while framing a shot, but Apple could put the feature to use elsewhere in iOS. Best of all it should make launching your iPhone camera and shooting pictures easier than ever.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Better iPhone 16 Pro Camera System
 
  Apple’s pricier Pro models tend to see the latest camera technology first, and 2024 looks set to continue the trend. A [report](https://www.macrumors.com/2023/12/18/iphone-16-pro-rumored-to-feature-48mp-ultra-wide/) on MacRumors sourced to a Weibo leaker suggests that the iPhone 16 Pro will see a 48-megapixel ultra-wide camera sensor, up from the 12-megapixel ultra-wide on the iPhone 15 Pro.
@@ -87,12 +83,16 @@ Justin Duino / How-To Geek
 ![The back of a natural color Apple iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/53214412474_f13385ddbf_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
  If the rumors are true then that would leave only the telephoto camera at 12 megapixels, though The Elec [reports](https://www.thelec.kr/news/articleView.html?idxno=24491) that both iPhone 16 Pro models will see a 5x magnification (not just the Max model).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Larger iPhone 16 Pro Models
 
@@ -112,19 +112,23 @@ Tyler Hayes / How-To Geek
 
 ![Wi-Fi 7 Certified sign by a TP Link router at CES 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53468668835_5a142edd35_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Both upgrades are welcome, with [Wi-Fi 7 bringing speeds of around 30Gbps](https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/) and [Wi-Fi 6E utilizing the 6GHz band](https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/) to top out at around 9.6Gbps. You will of course need a router compatible with these standards, and that router will need to support whatever speeds you hope to achieve.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  8GB of RAM on All Models
 
  According to the same Jeff Pu report, Apple will be bumping the RAM up to 8GB in all models this year. Last year’s iPhone 15 Pro already had 8GB, but the base models only featured 6GB.
 
 ![The final form of Lady Dimitrescu from Resident Evil Village flies overhead on the iPhone 15 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3caf4670-5199-11ee-bf3f-d4673beffea4.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -135,10 +139,6 @@ Apple
  While it’s not exactly the most exciting change, leaked dummy iPhone 16 models suggest that Apple is adopting a vertical camera array in the base model iPhone 16 for 2024\. The refreshed design features a slimmer camera bump, which should make it easier for case manufacturers to design a case that sits fully flat on a table.
 
  The last iPhone to see this style of slim vertical camera array was the iPhone XS, back in 2018.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Potentially More Expensive Price Tag
 
@@ -171,20 +171,19 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unraveling-how-tseries-profits-from-its-popularity-and-subscribers-youtube/"><u>[New] 2024 Approved Unraveling How TSeries Profits From Its Popularity and Subscribers (YouTube)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-expert-reviews-on-top-6-hdmi-21-display-models/"><u>[New] Expert Reviews on Top 6 HDMI 2.1 Display Models</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-creme-de-la-creme-of-fps-games-7-for-2024/"><u>[Updated] The Crème De La Créme of FPS Games (7) for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-x-fold-2-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo X Fold 2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-belkins-magsafe-compatible-iphone-holder-today-special-price-just-23/"><u>Get Your Belkin's MagSafe-Compatible iPhone Holder Today - Special Price: Just $23!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-14-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 14 Pro or iPad?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-scoop-on-apples-new-lineup-the-exclusive-look-at-iphone-16-series-launch-rumors-and-specs/"><u>Inside Scoop on Apple's New Lineup: The Exclusive Look at iPhone 16 Series Launch Rumors and Specs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/integrating-chatgpt-into-your-apple-watch-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Apple Watch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-screen-time-feature-malfunction-upcoming-repair-by-apple/"><u>IPhone Screen Time Feature Malfunction: Upcoming Repair by Apple</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-video-to-audio-conversion-guide-simple-steps-to-isolate-sound/"><u>IPhone Video-to-Audio Conversion Guide: Simple Steps to Isolate Sound</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphoneipadmac-message-recall-techniques-the-ultimate-how-to/"><u>IPhone/iPad/Mac Message Recall Techniques - The Ultimate How-To</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-it-feasible-to-switch-from-icloud-to-google-drive-my-experience/"><u>Is It Feasible to Switch From iCloud to Google Drive? My Experience</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/share-the-moment-effortlessly-push-photos-to-social-networks-for-2024/"><u>Share the Moment Effortlessly Push Photos to Social Networks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamlining-windows-10-resource-use/"><u>Streamlining Windows 10 Resource Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-hugging-face-an-in-depth-look-at-this-cutting-edge-ai-tool/"><u>What's Hugging Face? An In-Depth Look at This Cutting-Edge AI Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-videos-at-full-hd-your-watchful-pathway-for-2024/"><u>[New] Twitter Videos at Full HD - Your Watchful Pathway for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-visual-fidelity-of-hp-graphics-on-pc/"><u>Boost Visual Fidelity of HP Graphics on PC</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/easy-conversion-tips-switch-from-3gp-to-high-quality-mp3-audio-using-audacity-on-your-windows-pc/"><u>Easy Conversion Tips: Switch From 3GP to High-Quality MP3 Audio Using Audacity on Your Windows PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-methods-to-view-battery-status-on-iphones-and-ipads/"><u>Easy Methods to View Battery Status on iPhones and iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/identifying-bogus-virus-alerts-learn-how-plus-discover-essential-tips-for-protection/"><u>Identifying Bogus Virus Alerts? Learn How + Discover Essential Tips for Protection!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-earnings-expansion-on-glamour-channels/"><u>In 2024, Earnings Expansion on Glamour Channels</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-zte-nubia-flip-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on ZTE Nubia Flip 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locate-your-ipad-model-details-through-its-unique-identifiers-an-easy-walkthrough/"><u>Locate Your iPad Model Details Through Its Unique Identifiers – An Easy Walkthrough</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/master-your-soundscape-adjusting-audio-configurations-using-yl-software-solutions/"><u>Master Your Soundscape: Adjusting Audio Configurations Using YL Software Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-wins-top-7-strategies-to-resolve-iphone-wi-fi-connection-problems/"><u>Quick Wins! Top 7 Strategies to Resolve iPhone Wi-Fi Connection Problems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-recommendations-for-ios-maintenance-software-exploring-drfones-system-fix-features-and-superior-substitutes/"><u>Top Recommendations for iOS Maintenance Software: Exploring Dr.Fone's System Fix Features & Superior Substitutes</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/transferring-data-from-bigger-to-smaller-hdds-with-clonezilla-is-it-possible/"><u>Transferring Data From Bigger to Smaller HDDs with Clonezilla - Is It Possible?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-overheating-causes-prevention-and-solutions/"><u>Understanding iPhone Overheating: Causes, Prevention & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-solution-to-safaris-full-screenshot-glitch-tips-and-tricks-inside/"><u>Unlocking the Solution to Safari's Full Screenshot Glitch – Tips and Tricks Inside!</u></a></li>
 </ul></div>
 

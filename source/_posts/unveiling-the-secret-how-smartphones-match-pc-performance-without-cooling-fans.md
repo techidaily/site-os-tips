@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Smartphones Match PC Performance Without Cooling Fans"
-date: 2024-12-01T09:58:22.545Z
-updated: 2024-12-01T23:10:01.915Z
+date: 2025-01-19T23:01:35.742Z
+updated: 2025-01-21T16:44:53.560Z
 tags:
   - ios
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 * [​Mobile Apps Generate Less Heat, to Reduce Need for Cooling](https://hardware-reviews.techidaily.com/849-us-release-of-dasungs-paperlike-color-touchscreen-monitor-12-inch-stylish-design-and-sharp-2560x1600-resolution/)
 * [​Smartphones Use Passive Cooling](https://instagram-video-recordings.techidaily.com/new-2024-approved-storystitcher-compelling-collage-for-instagram-users/)
 * [​More Alternatives to Fans Are In Development](https://some-knowledge.techidaily.com/new-from-basics-to-brilliance-fullscreen-proficiency-in-premiere/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,16 +44,12 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Now imagine carrying a smaller version of your laptop in your pocket. If it didn’t get hot enough to immediately attract your attention, it would probably just shut down at some point. Battery life will surely take a hit. A purse is better, but probably not by much. After all, a laptop gets along well-enough with a messenger bag only because it’s either off or very nearly so.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ​Mobile CPUs Use Less Power and Create Less Heat
 
 ![Snapdragon 8 Gen 3 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-8-gen-3-hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm
@@ -63,7 +63,7 @@ Qualcomm
  How do phone CPUs manage to be both powerful and efficient? If you want to get into the tehnical weeds, check out this report from [Cadence PCB Designs](https://resources.pcb.cadence.com/blog/3-thermal-management-approaches-for-your-smartphone-2). Methods include temperature aware scheduling (slowing down hot processors in favor of cool ones), traffic throttling (directing network traffic through the chip in a way that avoids hotspots), and clock gating (stopping processor logic for a few microseconds at a time). But that's just scratching the surface.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ​Mobile Apps Generate Less Heat, to Reduce Need for Cooling
@@ -72,13 +72,13 @@ Qualcomm
 
  I don’t think it’s offending anyone to say that not all mobile apps are brilliantly written pieces of code. Yet when you’re making a mobile app, an impact on battery life is a factor you're encouraged to care about. If running an app causes a phone to need to charge more often, you’ll hear about it from your users. Energy usage translates to heat. By keeping apps energy efficient, developers reduce the need for active cooling.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ​Smartphones Use Passive Cooling
 
 ![A close-up image of an aluminum heatsink mounted on a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/shutterstock_1704910018.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Kusalodom/Shutterstock](https://www.shutterstock.com/image-photo/aluminum-heatsink-on-electronics-circuit-board-1704910018)
 
@@ -87,7 +87,7 @@ Qualcomm
  Passive cooling works very well for everyday operation, but unlike active cooling, it can’t ramp up how much heat it’s able to remove (again, like opening a window). That’s why some phones get particularly toasty when performing intensive tasks, like gaming. Your CPU’s generating more heat, and the phone lacks the ability to compensate. This is when [thermal throttling kicks in](https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/), reducing performance to buy components time to cool off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ​More Alternatives to Fans Are In Development
@@ -117,18 +117,14 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-lowering-sounds-strength-progressively-with-lumafusion/"><u>[New] Lowering Sounds' Strength Progressively with Lumafusion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-easing-freezes-tips-for-smooth-photobooth-footage-for-2024/"><u>[Updated] Easing Freezes Tips for Smooth Photobooth Footage for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-purging-ios-app-data-keeping-your-phone-clean-and-efficient/"><u>A Comprehensive Guide to Purging iOS App Data – Keeping Your Phone Clean & Efficient</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-step-by-step-manual-how-to-erase-snapchat-photos-from-chats-and-memory/"><u>Complete Step-by-Step Manual: How to Erase Snapchat Photos From Chats and Memory</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-for-eliminating-siris-recommendations-on-ios-devices-including-ipads-and-iphones/"><u>Effective Techniques for Eliminating Siri's Recommendations on iOS Devices, Including iPads and iPhones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellence-on-screen-the-years-best-camcorders-reviewed/"><u>Excellence on Screen The Year's Best Camcorders Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-budget-friendly-apeman-c450-dash-camera-is-it-worth-your-money/"><u>Expert Review of the Budget-Friendly Apeman C450 Dash Camera: Is It Worth Your Money?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/high-quality-capture-the-best-applications-reviewed-for-2024/"><u>High-Quality Capture The Best Applications Reviewed for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Asus ROG Phone 7 Ultimate Device</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-windows-11-experience-for-mac-using-parallels/"><u>Seamless Windows 11 Experience for Mac, Using Parallels</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simplified-instructions-fresh-install-and-update-processes-for-epson-et-3760s-windows-software/"><u>Simplified Instructions: Fresh Install and Update Processes for Epson ET-3760's Windows Software</u></a></li>
-<li><a href="https://os-tips.techidaily.com/two-effective-ways-to-empty-the-browser-cache-in-safari-on-your-ios-devices/"><u>Two Effective Ways to Empty the Browser Cache in Safari on Your iOS Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-successful-youtubing-master-end-credits-and-makers-sources/"><u>[Updated] In 2024, Successful YouTubing Master End Credits and Makers' Sources</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/como-realizar-backups-incrementales-selectivos-por-archivos-cambiados-en-sistema-operativo-windows-7/"><u>Cómo Realizar Backups Incrementales Selectivos Por Archivos Cambiados en Sistema Operativo Windows 지 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-showdown-virtualdub-vs-its-top-competitors/"><u>New Video Editing Showdown Virtualdub Vs. Its Top Competitors</u></a></li>
+<li><a href="https://techidaily.com/sign-xltx-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xltx files Online for Free</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-secure-payment-details-how-to-retrieve-credit-card-info-from-safari-saved-passwords-on-iphoneipad/"><u>Unlocking Your Secure Payment Details: How to Retrieve Credit Card Info From Safari Saved Passwords on iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-features-of-apples-icloud-plus-service/"><u>Unveiling the Features of Apple's iCloud Plus Service</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-mechanics-of-apple-airtags-is-it-a-match-for-your-lifestyle/"><u>Unveiling the Mechanics of Apple AirTags: Is It a Match for Your Lifestyle?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-enhancements-set-to-boost-apple-maps-precision/"><u>Upcoming Enhancements Set to Boost Apple Maps' Precision</u></a></li>
 </ul></div>
 

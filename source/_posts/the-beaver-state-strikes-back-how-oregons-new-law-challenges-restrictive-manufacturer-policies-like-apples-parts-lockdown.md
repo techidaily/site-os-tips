@@ -1,7 +1,7 @@
 ---
 title: "The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown"
-date: 2024-11-25T17:49:41.507Z
-updated: 2024-12-02T08:48:10.921Z
+date: 2025-01-17T18:17:24.714Z
+updated: 2025-01-21T20:29:05.123Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ## The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2024/03/28 10:41 EST BY CORBIN DAVENPORT
@@ -56,17 +56,18 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-achieving-financial-gain-through-youtube-videos/"><u>[Updated] 2024 Approved Achieving Financial Gain Through YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-visibility-in-a-newly-updated-social-platform/"><u>[Updated] Maximizing Visibility in a Newly Updated Social Platform</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-video-guide-from-youtube-to-twitter-for-2024/"><u>[Updated] Ultimate Video Guide From YouTube to Twitter for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/windows-1011uefi-ssd/"><u>最適化された手順：Windows 10/11をUEFI SSDにクローンするコツ</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/achieving-virality-on-youtube-essential-steps-demystified-for-2024/"><u>Achieving Virality on YouTube Essential Steps Demystified for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-reactivating-your-locked-iphone-techniques-for-unlock-and-restore/"><u>Comprehensive Tutorial on Reactivating Your Locked iPhone: Techniques for Unlock and Restore</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ11/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/exploring-the-best-features-of-the-nook-glowlight-3-the-ideal-e-reader-for-late-hours/"><u>Exploring the Best Features of the Nook GlowLight 3: The Ideal E-Reader for Late Hours</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-location-not-detected-on-iphone-swiftly-and-simply-a-step-by-step-guide/"><u>Fix 'Location Not Detected' On iPhone Swiftly and Simply – A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-spectacle-of-speed-simulators-top-5/"><u>In 2024, Spectacle of Speed Simulators (Top 5)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-system-repair-accessing-recovery-modes-across-phones-and-computers/"><u>Mastering System Repair: Accessing Recovery Modes Across Phones and Computers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620256136-trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-disable-instagrams-igtv-for-2024/"><u>[New] How to Disable Instagram's IGTV for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mr-beasts-financial-reach/"><u>[New] In 2024, Mr. Beast's Financial Reach</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>[Updated] Screen Recording on MacOS Ahead with Bandicam or Camtasia?</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlenet-wont-open-a-step-by-step-fix-guide-for-gamers/"><u>Battle.net Won't Open? A Step-by-Step Fix Guide for Gamers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tips-to-retrieve-accidentally-deleted-photos-from-ios-and-android-smartphones/"><u>Easy Tips to Retrieve Accidentally Deleted Photos From iOS and Android Smartphones</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-decoding-the-secrets-to-success-in-spotify-ads/"><u>In 2024, Decoding the Secrets to Success in Spotify Ads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620271210-missing-from-my-phone-recover-vanished-iphone-pictures-fast/"><u>Missing From My Phone: Recover Vanished iPhone Pictures Fast!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-detection-woes-solutions-available/"><u>Nvidia Detection Woes: Solutions Available</u></a></li>
+<li><a href="https://os-tips.techidaily.com/saving-your-iphone-from-water-woes-top-3-techniques/"><u>Saving Your iPhone From Water Woes: Top 3 Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-top-8-messaging-app-restoration-tools-best-free-and-paid-options-for-iphone-and-android/"><u>The Ultimate Top 8 Messaging App Restoration Tools: Best Free and Paid Options for iPhone & Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-resolving-iphones-persistent-headphones-trouble/"><u>Ultimate Guide: Resolving iPhone's Persistent Headphones Trouble</u></a></li>
+<li><a href="https://tools.techidaily.com/wintask/products/"><u>Wintask's Products</u></a></li>
 </ul></div>
 
