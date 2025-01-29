@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your iPhone Usage with These 10 Covert iOS Shortcuts
-date: 2025-01-17T23:58:28.913Z
-updated: 2025-01-21T21:24:29.639Z
+date: 2025-01-26T17:49:05.318Z
+updated: 2025-01-29T18:02:23.024Z
 tags:
   - ios
 categories:
@@ -39,16 +39,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![iPhone's home screen with an arrow next to the Clock app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select Timer from the options at the bottom of the screen.
 
 ![Clock app home screen with an arrow next to the Timer option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-11.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Set the Timer between 10 to 20 minutes or any other duration.
 
@@ -70,15 +66,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Screenshot of a folder with an arrow next to the Calculator app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-13.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With your finger, swipe toward the left or right on the numbers you entered to remove the last digit. Every time you swipe, the app clears one digit from the end.
 
 ![iPhone's calculator app with an arrow indicating the direction to erase input](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-12.png) 
 
  You might also want to check out how to open the [hidden scientific calculator on your iPhone](https://win-solutions.techidaily.com/troubleshooting-guide-how-to-prevent-elex-ii-from-crashing-on-your-windows-machine/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Cast Spells with Siri to Turn on the Flashlight
 
@@ -94,6 +90,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you haven't set up Siri, check out our guide on [enabling and using "Hey Siri" on iPhone](https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/) and iPad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Convert a Picture Into a Fun WhatsApp Sticker
 
  This is one of iOS 16's coolest features that lets you convert someone's picture into a sticker to share on WhatsApp. It's based on the subject picker feature built into the Photos app.
@@ -101,6 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Open a picture with a distinct foreground in the Photos app. Tap on hold on the subject until a wavy white light highlights the selection. Now, hit the Copy button at the top of the image.
 
 ![Photo picker in iOS 16 with an arrow next to the Copy option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/images-to-stickers.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Head to a chat in WhatsApp and select paste. This will turn the image into a sticker that you can share with others.
 
@@ -118,10 +122,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Shortcuts app's home screen with an arrow next to the Automation option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-14.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this is your first time creating an Automation shortcut, select the "Create Personal Automation" option.
 
 ![Automation option in the Shortcuts app highlighting the Create Personal Automation option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3-9.png) 
@@ -130,6 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Personal Automation menu highlighting the battery level option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the following screen, select the battery level at which you intend to receive a notification using the slider. Once done, hit the Next button in the top right corner.
 
 ![Personal Automation options highlighting the battery level](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-6.png) 
@@ -137,10 +141,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  At the bottom of the screen, search for "Notifications" and select "Show Notifications."
 
 ![Personal Automation menu highlighting the Show Notification option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Enter the custom message beside "Show Notification."
 
@@ -160,10 +160,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![iPhone's Settings app with an arrow next to Notes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-17.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap on Password.
 
 ![Notes settings highlighting the Password option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-15.png) 
@@ -173,7 +169,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Use iPhone Passcode option in Notes' settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/use-iphone-passcode-screenshot.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, the menu should look something like this.
@@ -183,10 +179,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Open the Notes app, head to the required file, tap the three-dots icon at the top right, and select Lock. Allow the Notes app to use Face ID and enter the iPhone's passcode.
 
 ![A file in Apple Notes with an arrow next to the Lock icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lock-notes-on-iphone.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can lock this note from the app's menu by hitting the lock beside its name or locking your phone.
 
@@ -212,6 +204,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Lock screen customization screen with an arrow next to Depth Effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, tap Add in the top right corner and select "Set as Wallpaper Pair."
 
 ![Highlighting the Set as Wallpaper Pair option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/5-7.png) 
@@ -224,9 +220,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Settings app with an arrow next to the Notifications option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/1-19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the top of the menu, you'll see three options: Count, Stack, and List. Experiment with these options and see which one you prefer.
 
 ![Notifications settings on an iPhone highlighting the three different options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-17.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While Count only shows the number of notifications, Stack groups the alerts based on apps. The last option, List, views all the notifications as a simple list. You might want to check our detailed [guide about managing notifications on iPhone](https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-x-fold-2-pc-drfone-by-drfone-android/).
 
@@ -242,6 +246,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Touch accessibility options highlighting the Back Tap feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2-18.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose Double Tap and set the action to one of the available options, including App Switcher, Camera, Home, Lock Rotation, Mute, Screenshot, etc. For this example, we're setting double tap to Flashlight.
 
 ![Double Tap menu with an arrow next to the option that turns on Flashlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/double-tap-iphone.png) 
@@ -249,14 +257,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Similarly, select an action for Triple Tap.
 
 ![Triple tap menu with an arrow next to the option that opens camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/4-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Measure a Surface's Slope with the Hidden Spirit Level
 
@@ -291,17 +291,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-fb-video-downloader-seamless-mp4-conversion-for-2024/"><u>[New] FB Video Downloader Seamless MP4 Conversion for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-professional-broadcasting-tools-excluding-obs-for-2024/"><u>[Updated] Professional Broadcasting Tools Excluding OBS for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-cinemas-next-frontier-virtual-reality/"><u>2024 Approved Unlocking Cinema's Next Frontier Virtual Reality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-integrated-webcams-solutions-for-camfrog-and-manycam-users/"><u>Best Integrated Webcams Solutions for CamFrog and ManyCam Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-communication-strategies-for-lifelike-dialogue/"><u>Chatbot Communication Strategies for Lifelike Dialogue</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-canon-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Easy Canon Driver Installation and Updates on Windows – Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/frustrated-with-samsungs-wear-os-now-enjoying-the-apple-watch-alternative-on-iphone/"><u>Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-apple-magsafe-charging-pad-today-for-a-low-price-of-32/"><u>Get Your Apple MagSafe Charging Pad Today for a Low Price of 32$!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-assistive-touch-transforms-iphones-into-essential-communication-devices/"><u>How Assistive Touch Transforms iPhones Into Essential Communication Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-change-your-iphones-default-map-application-to-google-maps-with-ease/"><u>How to Change Your iPhone's Default Map Application to Google Maps with Ease</u></a></li>
-<li><a href="https://os-tips.techidaily.com/investing-in-a-smart-lock-a-cheaper-alternative-to-professional-locksmith-assistance/"><u>Investing in a Smart Lock: A Cheaper Alternative to Professional Locksmith Assistance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-90-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 90 Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cognitive-cornerstones-essential-educational-content-yt-for-2024/"><u>[New] Cognitive Cornerstones Essential Educational Content YT for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-capture-the-moment-iphone-time-lapse-tutorial/"><u>[New] In 2024, Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-freeweb-cams-features-uncovered-in-detail/"><u>[Updated] FreeWeb Cam's Features Uncovered in Detail</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-shocking-news-titles-expert/"><u>[Updated] In 2024, Crafting Shocking News Titles Expert</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-using-apples-facetime-app-on-android-phones/"><u>Complete Guide to Using Apple's FaceTime App on Android Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-iphone-problem-solving-strategies-for-seamless-performance/"><u>Comprehensive iPhone Problem-Solving Strategies for Seamless Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-delay-simplify-retrieving-your-apple-id-in-a-matter-of-minutes/"><u>Don't Delay! Simplify Retrieving Your Apple ID in a Matter of Minutes.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-monitor-your-weight-with-this-revolutionary-iphone-automation-tool/"><u>Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-ipads-capabilities-introducing-orion-seamless-ipad-to-monitor-connectivity-for-enhanced-productivity/"><u>Elevate Your iPad's Capabilities: Introducing Orion - Seamless iPad to Monitor Connectivity for Enhanced Productivity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-m6-pro-4gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco M6 Pro 4Gwith/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-15-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 15 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-terrarias-persistent-crashes-with-these-proven-solutions/"><u>Resolve Terraria's Persistent Crashes with These Proven Solutions</u></a></li>
+<li><a href="https://win-top.techidaily.com/ultimate-guide-crafting-the-perfect-tinder-profile-pic-and-app-advice-latest-trends/"><u>Ultimate Guide: Crafting the Perfect Tinder Profile Pic and App Advice – Latest Trends</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2025-01-19T02:55:59.118Z
-updated: 2025-01-21T23:28:04.385Z
+date: 2025-01-22T18:45:21.581Z
+updated: 2025-01-29T18:54:36.718Z
 tags:
   - ios
 categories:
@@ -13,21 +13,17 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
 iOS 17 is here and, in addition to larger changes like [StandBy view](https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/) and [contact posters](https://facebook-videos.techidaily.com/updated-2023s-top-no-cost-fb-photo-and-video-crafting-for-2024/), there are lots of little changes that can be easy to miss. Here are some of our favorites.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Automatically Clean Up Verification Codes in Messages and Mail
 
  Two-factor authentication works better with an authenticator app (and you can even use iCloud Keychain for this). Not all services support authenticators, in which case you’ll be [dealing with verification code SMS](https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-vimeo-record-features-for-2024/) and email messages instead.
 
 ![Enable "Clean Up Automatically" in password options to delete one-time codes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clean_up_codes.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To cut through the unwanted message build-up, get your iPhone to clean up for you. Head to Settings > Passwords > Password Options and enable “Clean Up Automatically” to have your iPhone automatically trash verification codes once they’ve been used.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Swipe to Reply to Messages
 
@@ -36,10 +32,14 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![Swipe to reply to messages with an in-line reply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reply_swipe.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will see the message you’re replying to in the message window above the compose box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Siri During Phone Calls
 
@@ -52,10 +52,6 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 [Apple Notes is a powerful note-taking app](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) and it costs nothing to use (though you may need more iCloud storage if you have a lot of attachments). One of the last big missing features was the ability to link notes together, and iOS 17 finally changed that.
 
 ![Link notes together in Apple Notes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/link_notes.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can add a link to a note by tapping a blank space to bring up the context menu and tapping “Add Link” then typing the title of a note. Give the link a name (which is what you’ll see when you tap on it) and hit “Done” to add the link.
 
@@ -75,6 +71,10 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Search for an app to see shortcuts to different features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/search_app_features.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
 
 ##  Straightness Level in Camera Viewfinder
@@ -82,10 +82,6 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
  In iOS 17 you’ll see a new level overlay when taking photos that appears when your horizon is _nearly_ straight and disappears when you’re intentionally shooting Dutch angles. This is on by default, but you can turn it off under Settings > Camera > Level.
 
 ![The new level overlay helps you shoot straight when using the Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/camera_level.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Quickly Access and Lock Private Browsing
 
@@ -95,21 +91,17 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  New Shortcuts for Cropping Images in Photos
 
  The Photos app now makes it easier than ever to crop a photo using the Photos app. Simply zoom in on a photo and you’ll see a “Crop” button appear in the top-right corner of the screen. This works in both portrait and landscape views. Tapping it will automatically crop the image to your current view, maintaining the aspect ratio of your screen.
 
 ![Crop photos by zooming and then tap (or tap and hold) the "Crop" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/cropping_photos.jpg) 
 
- For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
 ##  Animated Now Playing Screens in Music
 
@@ -117,7 +109,15 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![now_playing_japanese_breakfast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_japanese_breakfast.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
 
@@ -126,7 +126,7 @@ Close
  Not only do albums now fill the screen and gradually blend into the controls at the bottom, but you’ll also see the animation play out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Upgrade to iOS 17
@@ -150,20 +150,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-instagram-visibility-with-powerful-promotions/"><u>[New] 2024 Approved Enhancing Instagram Visibility with Powerful Promotions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-maximize-impact-tweeting-with-videos-for-2024/"><u>[New] Maximize Impact Tweeting with Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-art-of-earning-money-with-your-facebook-page/"><u>2024 Approved The Art of Earning Money with Your Facebook Page</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-guide-to-unlocking-your-airpods-secret-the-power-of-conversation-aware-technology/"><u>Discover the Ultimate Guide to Unlocking Your AirPods’ Secret: The Power of Conversation Aware Technology</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-unbeatable-value-apples-new-ipad-pro-at-record-affordable-rates-and-exciting-offers/"><u>Discover the Unbeatable Value: Apple's New iPad Pro at Record Affordable Rates and Exciting Offers!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-the-latest-ios-175-update-release-information-and-features-for-iphones/"><u>Download the Latest iOS 17.5 Update: Release Information and Features for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-tip-navigate-with-ease-by-zooming-out-of-google-maps-using-a-single-swipe/"><u>Easy Tip: Navigate with Ease by Zooming Out of Google Maps Using a Single Swipe</u></a></li>
-<li><a href="https://os-tips.techidaily.com/embracing-health-tracking-the-exceptional-value-of-the-oura-ring-beyond-my-aversion-to-subscription-services/"><u>Embracing Health Tracking: The Exceptional Value of the Oura Ring Beyond My Aversion to Subscription Services</u></a></li>
-<li><a href="https://os-tips.techidaily.com/epic-games-launches-mobile-gaming-stores-on-android-and-ios-devices/"><u>Epic Games Launches Mobile Gaming Stores on Android & iOS Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/escalate-unresolved-issues-or-escalated-concerns-promptly-and-effectively-using-the-appropriate-internal-channels-within-our-organization-eg-technical-suppo394/"><u>Escalate Unresolved Issues or Escalated Concerns Promptly and Effectively Using the Appropriate Internal Channels Within Our Organization (E.g., Technical Support Team, Management).</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-tips-how-i-keep-my-iphone-free-of-memory-issues/"><u>Essential Tips: How I Keep My iPhone Free of Memory Issues</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-key-screen-snapping-programs-for-content-sharing/"><u>In 2024, Key Screen-Snapping Programs for Content Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-selections-versatile-and-affordable-macpc-bd-decoders/"><u>Premier Selections Versatile and Affordable Mac/PC BD Decoders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranking-m2-ssds-comprehensive-testing-and-reviews-by-tech-experts-gizmochow/"><u>Top-Ranking M.2 SSDs - Comprehensive Testing & Reviews by Tech Experts | GizmoChow</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-text-animation-apps-for-mobile-video-editing/"><u>Updated In 2024, Top Text Animation Apps for Mobile Video Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sniff-out-recent-unfollowers-on-instagram/"><u>[New] In 2024, Sniff Out Recent Unfollowers on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-iphone-image-editing-learn-to-change-resolution/"><u>[New] IPhone Image Editing Learn to Change Resolution</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-perfecting-the-sync-siri-voice-control-for-tiktok-users/"><u>[Updated] Perfecting the Sync Siri Voice Control for TikTok Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gif-basics-crafting-your-first-animated-image/"><u>2024 Approved GIF Basics Crafting Your First Animated Image</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fast-and-easy-methods-for-downloading-extended-youtube-clip-playlists/"><u>Fast & Easy Methods for Downloading Extended YouTube Clip Playlists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-create-slideshows-on-your-macbook-without-using-keynote-movavi-guide/"><u>How to Create Slideshows on Your MacBook Without Using Keynote - Movavi Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-steps-to-become-a-successful-smm/"><u>In 2024, 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-invisible-player-mastering-xbox-one-screenshots-for-2024/"><u>The Invisible Player Mastering Xbox One Screenshots for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-10th-gen-case-selection-the-ultimate-guide/"><u>Top-Rated iPad 10Th Gen Case Selection - The Ultimate Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-leading-usb-c-power-solutions-for-your-devices/"><u>Ultimate Guide: Leading USB-C Power Solutions for Your Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-top-iphone-15-pro-skins-and-shields/"><u>Ultimate Selection: Top iPhone 15 Pro Skins & Shields</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-shift-how-gemini-superseded-google-assistant/"><u>Understanding the Shift: How Gemini Superseded Google Assistant</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-immediate-savings-exclusive-deals-on-every-apple-airpods-model/"><u>Unlock Immediate Savings: Exclusive Deals on Every Apple AirPods Model</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-iphones-hidden-potential-search-using-circle-with-these-simple-shortcut-steps/"><u>Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-discover-essential-uses-of-your-12-in-one-airpods/"><u>Unlock the Full Potential: Discover Essential Uses of Your 12-In-One AirPods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmatched-convenience-with-magsafe-a-strong-motivation-for-upgrading-your-iphone/"><u>Unmatched Convenience with MagSafe: A Strong Motivation for Upgrading Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-simple-and-understated-phone-designs-are-actually-the-most-effective/"><u>Why Simple and Understated Phone Designs Are Actually the Most Effective</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728469973299-windows-113/"><u>Windows 11でセキュリティが強制的に高められてしまったパソコンのリセット方法【3つ披露】</u></a></li>
 </ul></div>
 

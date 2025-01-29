@@ -1,7 +1,7 @@
 ---
 title: Unlocking Productivity with a Top Secret Markdown/Note Taker That Revolutionizes Your Workflow!
-date: 2025-01-16T18:22:09.527Z
-updated: 2025-01-21T17:54:17.235Z
+date: 2025-01-27T16:45:47.684Z
+updated: 2025-01-29T18:38:58.147Z
 tags:
   - ios
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best writing tool is the one you have on you. For me, that's my smartphone, but it's no good without the right app. After searching high and low, I finally found an app that just about does it all. If you haven't yet heard of Obsidian, it may be the best note taking app for you, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Obsidian?
 
  Obsidian describes itself as your "second brain." It's one of quite a few "personal knowledge base" or "knowledge management apps" that take a different approach to organizing your notes. Obsidian allows internal linking between notes, searching through notes, and an interactive graph that shows the connections between notes.
@@ -37,13 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While I'm focusing on the Android version, Obsidian is available for basically any platform you can think of, whether that's on your PC, tablet, or phone. I use [the Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002537/https://play.google.com/store/apps/details?id=md.obsidian&hl=en%5FUS&gl=US), but the mobile version of Obsidian is largely the same [on the iPhone and iPad](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) as well. Now, let's get into what makes Obsidian so good.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Notes Are Saved As Accessible Plain Text Files
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -72,7 +76,7 @@ Bertel King / How-To Geek
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -83,17 +87,9 @@ Bertel King / How-To Geek
 
  I find that by using gesture typing with my S Pen and bouncing between Obsidian's tabs, I can write faster and longer than I do with a keyboard, with fewer distractions. It's the power of a desktop workflow in an experience that feels like drawing with pen and paper.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  There's a Formatting Bar, and What You See Is What You Get
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -101,12 +97,16 @@ Bertel King / How-To Geek
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -144,19 +144,19 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-navigating-vitas-editing-world-complete-review-and-tutorial/"><u>[New] In 2024, Navigating Vita's Editing World Complete Review & Tutorial</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-hidden-paths-to-pristine-stock-photography/"><u>[New] The Hidden Paths to Pristine Stock Photography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-photo-chronicles-creator-set/"><u>[Updated] Pinnacle Photo Chronicles Creator Set</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-step-up-your-gaming-with-advanced-ps4-capture-techniques/"><u>2024 Approved Step Up Your Gaming with Advanced PS4 Capture Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-text-that-moves-two-fascinating-techniques-revealed/"><u>2024 Approved Text That Moves Two Fascinating Techniques Revealed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversion-facile-et-gratuite-de-m4a-en-format-vob-en-ligne-avec-movavi/"><u>Conversion Facile Et Gratuite De M4A en Format VOB en Ligne Avec Movavi</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-refuses-to-chargers-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Refuses to Chargers: A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-xr21-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia XR21 Without Password?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/say-goodbye-to-disappearing-snapshots-on-imessage-top-fixes-unveiled/"><u>Say Goodbye to Disappearing Snapshots on iMessage - Top Fixes Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-tips-for-dealing-with-iphone-display-flickering-and-lag/"><u>Simple Troubleshooting Tips for Dealing with iPhone Display Flickering & Lag</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-iphone-has-no-service-dilemma-discover-14-effective-fixes/"><u>Solving the 'iPhone Has No Service' Dilemma: Discover 14 Effective Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-streaming-services-a-must-know/"><u>Top 10 Streaming Services - A Must Know</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-tier-vr-engine-software-a-comprehensive-review/"><u>[New] Top-Tier VR Engine Software A Comprehensive Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-vlcs-advanced-webcam-functionality-for-video-archiving-for-2024/"><u>[Updated] VLC's Advanced Webcam Functionality for Video Archiving for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/accessible-steps-to-proficiently-watch-facebook-live-feeds-for-2024/"><u>Accessible Steps to Proficiently Watch Facebook Live Feeds for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-solutions-how-to-resolve-issues-with-non-playable-audio-tracks-on-your-iphone-models-x-8-7-6-and-5/"><u>Best Solutions: How to Resolve Issues with Non-Playable Audio Tracks on Your iPhone (Models X, 8, 7, 6, and 5)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-file-transfer-using-airdrop-from-your-mac-iphone-ipad-and-ipod-comprehensive-tips-and-tricks/"><u>Effortless File Transfer Using AirDrop From Your Mac, iPhone, iPad & iPod - Comprehensive Tips & Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-rename-your-iphone-two-simple-techniques-unveiled/"><u>Effortlessly Rename Your iPhone: Two Simple Techniques Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a24-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy A24 Without Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>In 2024, Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-x7b-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor X7b Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-how-to-fix-ios-17-check-in-feature-malfunctions-on-your-iphone/"><u>Troubleshooting Tips: How to Fix 'iOS 17 Check-In' Feature Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-creative-cinema-for-kids-learn-to-make-your-own-movies/"><u>Updated In 2024, Creative Cinema for Kids Learn to Make Your Own Movies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-surprising-experience-with-the-ring-spotlight-cam-pro-beyond-expectations/"><u>ZDNet's Surprising Experience with The Ring Spotlight Cam Pro: Beyond Expectations</u></a></li>
 </ul></div>
 

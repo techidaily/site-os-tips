@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Covert Spy Gear: A Step-by-Step Guide to Identifying Concealed Camera Traps Using Mobile Technology"
-date: 2025-01-15T20:36:06.068Z
-updated: 2025-01-21T16:53:08.130Z
+date: 2025-01-22T17:56:42.896Z
+updated: 2025-01-29T16:48:43.350Z
 tags:
   - ios
 categories:
@@ -17,16 +17,16 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 * [How to Scan for Networked Cameras](https://fox-http.techidaily.com/eliminating-blur-taming-shutter-vibration/)
 * [How to Spot Night Vision Cameras](https://facebook-video-share.techidaily.com/new-instant-subscription-monitoring-tools/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use an app like Fing to scan the Wi-Fi network for unknown devices, or devices that identify themselves as cameras.
 * You can use your cellphone's camera to find concealed cameras by looking for infrared lights. Infrared lights typically appear purple, but they may also appear white or blue.
 
  A family recently [discovered](https://arstechnica.com/information-technology/2019/04/airbnb-guest-found-hidden-surveillance-camera-by-scanning-wi-fi-network/) a rude surprise at their Airbnb: a hidden camera disguised as a smoke detector in the living room. Here are two ways to check for cameras—in an Airbnb or elsewhere—using only an iPhone or Android phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hidden Cameras Are a Real Danger
 
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  There are two ways to scan for cameras with your phone. First, if you have access, you can scan the Wi-Fi network for devices that look like cameras. But this will only find cameras connected to the network. Second, you can search for night vision cameras using your phone's camera. If a hidden camera isn't connected to the network and doesn't have night-vision capabilities, neither method will spot it—but these tricks should spot most cameras.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Scan for Networked Cameras
 
  Many places you stay give you access to the local network. You can use this to your advantage with an app named Fing. Fing makes both [iPhone](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://itunes.apple.com/us/app/fing-network-scanner/id430921107) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU214007/https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en%5FUS) apps. Better yet, it's free and doesn't have ads. Fing does ask you to sign in for more features, but you won't need to do that for the device and port scanning.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  On Android, tap on the "Refresh" button at the top-right of the app's screen to get started and agree to give the app location permissions. The iPhone app performs this step automatically.
 
 ![Tap the 'Refresh' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/refresh-the-thing-to-scan.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the app to finish scanning, then look through the list of found devices. You're looking at devices on the network the app identified, you'll want to keep an eye out for anything that shows a camera manufacturer (like Nest, Arlo, or Wyze), or lists as "IP Camera." Some devices (including cameras) may show up as "Generic" as well. 
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![Tap 'Tools,' then go to 'Find Open Ports.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/find-open-ports.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type the IP address you wrote earlier and then tap the blue "Find Open Ports" button.
@@ -73,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  The list will show what ports are open, and what services they use. Keep an eye out for RTSP and RTMP; those are common for streaming video. Anything with HTTP or HTTPS as a service you can try to connect to with a browser, which may reveal video streaming. Just type the IP address into your browser, followed by a colon, followed by the port listed (i.e., 192.168.0.15:80).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Spot Night Vision Cameras
 
 ![Wyze camera with infrared lights showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-Infrared-lights-on.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -97,6 +93,10 @@ Josh Hendrickson / How-To Geek
  Once you determine the best camera to use, turn off the lights in the room you want to sweep. Then turn on your smartphone's camera and start looking for any glowing lights. IP cameras don't come in any standard configuration so you might see just one, four, six, or some other combination of lights. They'll typically be purple but sometimes can look white. You won't necessarily need to be near the hidden camera. In the above image, the camera is just a few feet away. But take a look at another picture from the other side of the house:
 
 ![A darkened room with very visible bright purple lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Wyze-lights-off.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Josh Hendrickson / How-To Geek
 
@@ -119,24 +119,20 @@ Josh Hendrickson / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-expert-setup-for-high-quality-video-transmission/"><u>[New] 2024 Approved Expert Setup for High-Quality Video Transmission</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-excellent-screen-grabber-aid-for-youtube-content-creators/"><u>[Updated] In 2024, Excellent Screen Grabber Aid for YouTube Content Creators</u></a></li>
-<li><a href="https://os-tips.techidaily.com/15-effective-ways-to-troubleshoot-and-repair-your-iphones-malfunctioning-gps-featuring-the-latest-iphone-12/"><u>15 Effective Ways to Troubleshoot and Repair Your iPhone's Malfunctioning GPS, Featuring the Latest iPhone 12</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-ssd-remains-discounted-by-36-post-october-prime-deals-insights-for-tech-enthusiasts-on-zdnet/"><u>Amazon's 8TB Samsung T5 SSD Remains Discounted by 36% Post-October Prime Deals - Insights for Tech Enthusiasts on ZDNet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cant-remember-your-ios-device-lock-code-easy-solutions-for-accessing-your-phone/"><u>Can't Remember Your iOS Device Lock Code? Easy Solutions for Accessing Your Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-tips-for-resetting-your-ipod-device-solutions-included/"><u>Comprehensive Troubleshooting Tips for Resetting Your iPod Device - Solutions Included</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-solutions-resolve-iphone-models-15-11-and-x-echo-issues-with-these-4-steps/"><u>Effortless Solutions: Resolve iPhone (Models 15-11 & X) Echo Issues with These 4 Steps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exploring-asuss-mg28uq-a-deep-dive-into-4k-uxga-for-2024/"><u>Exploring ASUS's MG28UQ - A Deep Dive Into 4K UXGA for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-the-issue-iphone-frozen-during-ios-1817-software-upgrade/"><u>Fixing the Issue: IPhone Frozen During iOS 18/17 Software Upgrade</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-rectifying-yellow-screen-disruptions-on-windows/"><u>Mastering the Art of Rectifying Yellow Screen Disruptions on Windows ☠️</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigating-digital-spaces-the-impact-of-cookiebot-on-personalization/"><u>Navigating Digital Spaces: The Impact of Cookiebot on Personalization</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-listing-of-superior-free-lut-downloads/"><u>Premier Listing of Superior Free LUT Downloads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safely-recovering-touch-id-and-settings-icons-on-an-iphone-a-step-by-step-tutorial/"><u>Safely Recovering Touch ID and Settings Icons on an iPhone: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-solution-why-wont-my-iphone-pair-with-itunes-and-how-to-repair-the-link/"><u>Step-by-Step Solution: Why Won’t My iPhone Pair with iTunes & How to Repair the Link</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-itunes-error-2-across-different-windows-versions-including-11-8-7-vista-and-xp/"><u>Troubleshooting iTunes Error 2 Across Different Windows Versions Including 11, 8, 7, Vista, and XP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-infinix-smart-8-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Infinix Smart 8? Fixed | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-framedivider-evaluation-report/"><u>[New] 2024 Approved FrameDivider Evaluation Report</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/behind-the-scenes-of-lol-top-3-broadcast-techniques-for-2024/"><u>Behind the Scenes of LOL - Top 3 Broadcast Techniques for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-unfreezing-your-ipod-or-ipod-touch-a-step-by-step-visual-tutorial/"><u>Complete Guide: Unfreezing Your iPod or iPod Touch - A Step-by-Step Visual Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-checklist-for-preparing-to-sell-your-iphone-successfully/"><u>Comprehensive Checklist for Preparing to Sell Your iPhone Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-for-mpeg4-video-conversion-master-the-technique-of-format-changing/"><u>Easy Steps for MPEG4 Video Conversion - Master the Technique of Format Changing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-guide-secure-your-own-spankbang-content-with-trusted-tools/"><u>Expert Guide: Secure Your Own SpankBang Content with Trusted Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a34-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A34 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-iphones-latest-feature-a-step-by-step-guide-to-using-the-built-in-document-scanner/"><u>Mastering Your iPhone's Latest Feature: A Step-by-Step Guide to Using the Built-In Document Scanner</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-find-someone-elses-iphone-using-only-the-contact-details/"><u>Quick Guide: Find Someone Else's iPhone Using Only the Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stalled-ipads-displaying-apple-symbols-effective-techniques-for-resolution-and-restarting/"><u>Stalled iPads Displaying Apple Symbols: Effective Techniques for Resolution and Restarting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-inaccessible-voicemails-from-an-ios-device/"><u>Step-by-Step Guide: Clearing Inaccessible Voicemails From an iOS Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/thawing-your-macbook-air-a-step-by-step-guide/"><u>Thawing Your MacBook Air: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-augmented-reality-eyewear-featured-on-zdnet/"><u>Top-Ranked Augmented Reality Eyewear - Featured on ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-fixes-for-when-you-cant-access-your-snapchat-account/"><u>Ultimate Fixes for When You Can’t Access Your Snapchat Account</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Smart 7 HD? | Dr.fone</u></a></li>
 </ul></div>
 

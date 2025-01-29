@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2025-01-15T05:32:03.233Z
-updated: 2025-01-21T16:16:28.410Z
+date: 2025-01-24T18:44:34.857Z
+updated: 2025-01-29T19:00:22.781Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Creating Cutouts is Easy
 
  As long as you have an iPhone XS or second-generation iPhone SE or newer, creating a cutout is so easy you’ll probably do it by mistake. You can [isolate subjects in photos](https://extra-support.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/) including people, pets, and inanimate objects like signs or clothing.
@@ -45,10 +41,6 @@ Tim Brookes / How-To Geek
  You can also create cutouts using the Files app, isolating subjects in images saved to your iCloud Drive or internal storage. To do this, long-press a photo and use the “Quick Actions” menu to “Remove Background.” In Safari, you can long press on a photo to reveal the context menu and then choose “Copy Subject” to copy the subject to your clipboard.
 
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Create Stickers Using Photo Cutouts
 
@@ -64,6 +56,10 @@ Tim Brookes / How-To Geek
 
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Mood Board
 
  A mood board is a visual collage of ideas that includes images, text, and other media. Being able to easily cut out subjects from images can make the creation of a mood board fast and easy, removing the need for you to cut out anything by hand. Using the “Copy Subject” option in Safari (after long-pressing an image) means you don’t even need to save an image to your device to use it.
@@ -72,16 +68,12 @@ Tim Brookes / How-To Geek
 
 ![A Nintendo 64-themed mood board created in Apple Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1925.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve copied a subject to your clipboard, paste it into a Freeform document by tapping a blank space and selecting “Paste” in the context menu. You can then move, scale, and arrange your mood board accordingly. If you want to create a mood board with non-Apple users, you’ll need to resort to a third-party tool like [Microsoft Whiteboard](https://screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users-for-2024/) or an [agile note-taking app like OneNote](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) instead.
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create a Visual Log of Outfits and More
@@ -98,6 +90,10 @@ Tim Brookes / How-To Geek
 
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
@@ -109,6 +105,10 @@ Tim Brookes / How-To Geek
  For example, you can paste a subject directly into an email and effectively get rid of the background. This can help emphasize the subject and remove untidy or distracting elements from your image. You can also paste your cutouts into the Notes app, a Slack chat, or anywhere [on your Mac using Universal Clipboard](https://extra-approaches.techidaily.com/new-is-picku-the-pinnacle-of-editing-excellence-on-android-devices/).
 
  On top of this, you can “Share” to Reminders if you want a visual representation of the item, book cover, person, and so on. You can also paste or “Share” into a Messages conversation, skipping the process of turning your image into a sticker before using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Them in Memes, Posters, and Creative Projects
 
@@ -153,24 +153,21 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-expertly-design-fb-ads-get-help-from-free-video-creation-toolkit/"><u>[Updated] Expertly Design FB Ads – Get Help From Free Video Creation Toolkit</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-first-flight-experience-the-best-beginner-drones/"><u>2024 Approved First Flight Experience The Best Beginner Drones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-resetting-your-computer-with-a-system-restore-in-windows-versions-10-8-and-7/"><u>Complete Tutorial: Resetting Your Computer with a System Restore in Windows Versions 10, 8, and 7</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/decoding-the-secrets-of-youtubes-content-hub-for-2024/"><u>Decoding the Secrets of YouTube's Content Hub for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-ways-to-restore-functionality-to-your-broken-usb-hard-drive/"><u>Effortless Ways to Restore Functionality to Your Broken USB Hard Drive</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-server-cabinets-and-enclosures-expert-picks/"><u>Essential Server Cabinets & Enclosures - Expert Picks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-strategies-resolve-your-memory-card-issues-with-these-7-techniques/"><u>Essential Strategies: Resolve Your Memory Card Issues with These 7 Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-walkthrough-on-halting-windows-update-schedule-for-good/"><u>Expert Walkthrough on Halting Windows Update Schedule for Good</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fine-tuning-film-views-through-zoom-adjustment/"><u>Fine-Tuning Film Views Through Zoom Adjustment</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-invalid-disk-failures-discover-the-best-3-techniques-for-stable-systems-and-easy-data-retrieval/"><u>Fixing Invalid Disk Failures? Discover the Best 3 Techniques for Stable Systems & Easy Data Retrieval</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-fix-windows-10-random-reboots-effective-solutions-you-can-try/"><u>How to Fix Windows 10 Random Reboots: Effective Solutions You Can Try</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gigglegrid-generate-visual-jokes-in-minutes/"><u>In 2024, GiggleGrid Generate Visual Jokes in Minutes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-navigating-youtube-strikes-understanding-and-resolving-copyright-issues/"><u>In 2024, Navigating YouTube Strikes Understanding and Resolving Copyright Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lol-meme-creator-tool-for-2024/"><u>LOL Meme Creator Tool for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620260208-solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-to-the-newest-sound-blaster-z-driver-on-windows-11/"><u>Step-by-Step Guide to Updating to the Newest Sound Blaster Z Driver on Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-7-effective-remedies-for-correcting-sd-card-malfunctions/"><u>Top 7 Effective Remedies for Correcting SD Card Malfunctions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-transform-your-editing-master-the-fade-effect/"><u>[New] 2024 Approved Transform Your Editing Master the Fade Effect</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-top-15-timeless-classics-in-stop-motion-cinema-history/"><u>[New] In 2024, Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-essentials-of-choosing-a-drone-vibration-controller/"><u>[Updated] 2024 Approved Essentials of Choosing a Drone Vibration Controller</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-best-digital-voice-change-options-for-vtubers/"><u>[Updated] Exploring Best Digital Voice Change Options for VTubers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728478306931-windows-11/"><u>無損資料保留：Windows 11 下的克隆導向操作指南</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Boost Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cinematic-dialogues-writing-the-movies-soul-for-2024/"><u>Cinematic Dialogues Writing the Movie's Soul for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-repairing-your-micro-sd-card-and-retrieving-lost-files/"><u>Step-by-Step Guide: Repairing Your Micro SD Card & Retrieving Lost Files</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-unbeatable-5-cloud-backup-options-you-need-on-your-radar-now/"><u>The Unbeatable 5 Cloud Backup Options You Need on Your Radar Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-simple-fixes-to-revive-a-nonfunctional-external-storage-device/"><u>Top 10 Simple Fixes to Revive a Nonfunctional External Storage Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-essential-cloud-storage-solutions-dont-skip-these/"><u>Top 5 Essential Cloud Storage Solutions: Don't Skip These</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-when-you-encounter-a-missing-user32dll-file/"><u>Troubleshooting Tips for When You Encounter a Missing User32.dll File</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-3-methods-to-correct-invalid-disk-issues-and-secure-your-data/"><u>Ultimate Guide: Top 3 Methods to Correct Invalid Disk Issues & Secure Your Data</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-reformat-your-secured-sd-card-for-use-on-windows-mac-os-android-phones-and-digital-cameras/"><u>Ultimate Tutorial: How To Reformat Your Secured SD Card for Use on Windows, Mac OS, Android Phones and Digital Cameras</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-secured-sd-cards-a-step-by-step-guide-and-data-recovery-techniques/"><u>Unlocking Secured SD Cards: A Step-by-Step Guide & Data Recovery Techniques</u></a></li>
 </ul></div>
 

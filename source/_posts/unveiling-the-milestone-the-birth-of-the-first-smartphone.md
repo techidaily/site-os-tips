@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2025-01-19T21:41:59.133Z
-updated: 2025-01-21T19:34:57.266Z
+date: 2025-01-24T16:16:55.625Z
+updated: 2025-01-29T16:30:18.093Z
 tags:
   - ios
 categories:
@@ -12,17 +12,13 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
 
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
@@ -88,22 +88,20 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-leading-list-where-to-find-gamers-music-without-costs/"><u>[New] 2024 Approved The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-must-try-titles-for-tranquil-touchscreen-time-for-2024/"><u>[New] Must-Try Titles for Tranquil Touchscreen Time for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-affordable-hardware-excellent-obs-setup/"><u>[Updated] Affordable Hardware Excellent OBS Setup</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-leading-screen-grabbers-top-picks-for-windows-11-for-2024/"><u>[Updated] Leading Screen Grabbers Top Picks for Windows 11 for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-solutions-how-to-resolve-issues-with-non-playable-audio-tracks-on-your-iphone-models-x-8-7-6-and-5/"><u>Best Solutions: How to Resolve Issues with Non-Playable Audio Tracks on Your iPhone (Models X, 8, 7, 6, and 5)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/building-bonds-over-beats-jointly-enjoying-music-with-friends-via-spotify/"><u>Building Bonds Over Beats: Jointly Enjoying Music with Friends via Spotify</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-file-transfer-using-airdrop-from-your-mac-iphone-ipad-and-ipod-comprehensive-tips-and-tricks/"><u>Effortless File Transfer Using AirDrop From Your Mac, iPhone, iPad & iPod - Comprehensive Tips & Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortlessly-rename-your-iphone-two-simple-techniques-unveiled/"><u>Effortlessly Rename Your iPhone: Two Simple Techniques Unveiled</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-corsair-h115i-compatibility-drivers-tips-for-windows-8-10-and-11/"><u>Fixing Corsair H115i Compatibility: Drivers Tips for Windows 8, 10 & 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 15 Pro without Password?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/making-the-right-choice-understanding-iphone-jailbreaking-and-its-implications-for-your-device/"><u>Making the Right Choice: Understanding iPhone Jailbreaking and Its Implications for Your Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-subtitling-with-davinci-resolve-a-comprehensive-tutorial-for-better-videography/"><u>Mastering Subtitling with DaVinci Resolve: A Comprehensive Tutorial for Better Videography</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sim-free-iphone-setup-a-comprehensive-guide-on-how-to-turn-on-your-device/"><u>SIM-Free iPhone Setup: A Comprehensive Guide on How to Turn On Your Device</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/topmate-c302-laptop-cooling-pad-review-cheap-and-effective/"><u>TopMate C302 Laptop Cooling Pad Review: Cheap and Effective</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-how-to-fix-ios-17-check-in-feature-malfunctions-on-your-iphone/"><u>Troubleshooting Tips: How to Fix 'iOS 17 Check-In' Feature Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[New] 2024 Approved Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-capture-and-share-best-social-media-tools-of-the-year-for-2024/"><u>[New] Capture and Share Best Social Media Tools of the Year for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-immaculate-image-freezing-your-desktop-view-for-2024/"><u>[New] Immaculate Image Freezing Your Desktop View for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-5-tips-for-influencer-program-on-instagram-with-examples/"><u>[New] In 2024, 5 Tips for Influencer Program on Instagram with Examples</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-create-insta-highlight-cover-photos-a-complete-guide/"><u>[Updated] 2024 Approved How to Create Insta Highlight Cover Photos A Complete Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-homepod-mini-unveiled-expert-review-on-its-superior-sound-smart-voice-assistant-and-extra-features/"><u>Apple HomePod Mini Unveiled: Expert Review on Its Superior Sound, Smart Voice Assistant, & Extra Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255487-comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gigglegrid-create-social-media-laughs-in-seconds-for-2024/"><u>GiggleGrid Create Social Media Laughs in Seconds for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/glitch-repeat-revolutionize-top-video-editing-apps-for-ios-and-android-for-2024/"><u>Glitch, Repeat, Revolutionize Top Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/immediate-access-to-superior-iphone-care-with-our-premium-stellar-eraser/"><u>Immediate Access to Superior iPhone Care with Our Premium Stellar Eraser</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-troubleshooting-solving-iphones-sound-issues-step-by-step/"><u>IOS 18 Troubleshooting: Solving iPhone's Sound Issues Step-by-Step</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-iphones-personal-hotspot-issues-step-by-step-troubleshooting-guide/"><u>Solving Your iPhone's Personal Hotspot Issues: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-recovery-options-on-ios-android-devices-and-pcs/"><u>Step-by-Step Guide: Activating Recovery Options on iOS, Android Devices & PCs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-24-issues-with-the-iphone-6-comprehensive-troubleshooting-guide/"><u>Top 24 Issues with the iPhone 6: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-troubleshooting-tips-for-repairing-a-persistent-snapchat-error-on-iphones-and-android-devices/"><u>Top 6 Troubleshooting Tips for Repairing a Persistent Snapchat Error on iPhones and Android Devices</u></a></li>
 </ul></div>
 

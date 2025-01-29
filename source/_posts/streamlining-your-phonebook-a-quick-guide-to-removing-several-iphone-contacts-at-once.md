@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Phonebook: A Quick Guide to Removing Several iPhone Contacts at Once"
-date: 2025-01-16T22:02:49.519Z
-updated: 2025-01-21T19:32:18.389Z
+date: 2025-01-27T18:55:49.798Z
+updated: 2025-01-29T17:07:01.727Z
 tags:
   - ios
 categories:
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  The "Contacts" app is often tucked in a folder and forgotten. There's a good chance you have some old contacts and duplicates cluttering it up. We'll show you a few ways to delete multiple contacts on an iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Can You Delete Multiple Contacts at Once on iPhone?
 
  Apple technically has an official method for removing multiple contacts at once on an iPhone. It was added in [iOS 16](https://facebook-video-footage.techidaily.com/2024-approved-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid/), but as we'll show below, it's actually not very practical.
@@ -52,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap and hold a contact with two fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0209.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Drag both fingers down (or up) until you've selected all the contacts you'd like to delete. Release your fingers.
 
 ![Drag down with two fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0210.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap and hold with one finger on any of the selected contacts to bring up the menu. Select "Delete X Contacts."
@@ -72,11 +64,11 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Delete Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0212.png) 
 
- That's all there is to it! This method isn't great if you're looking to select contacts that aren't arranged in order.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's all there is to it! This method isn't great if you're looking to select contacts that aren't arranged in order.
 
 ##  Use an App to Delete Multiple Contacts on iPhone
 
@@ -87,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ![Tap &quot;Continue&quot; and &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0195-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  EasyCleaner has a feature called "Contacts Enrichment" that will label certain contacts automatically. You don't need to enable this for what we're doing.
@@ -97,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  Select "All Contacts" at the top of the screen.
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap and hold one contact to select them, then select other contacts to delete.
 
@@ -140,15 +136,7 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Tap &quot;Delete&quot; to confirm.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0205.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a nice easy method for deleting a bunch of contacts at once. Much more intuitive than Apple's dragging method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Delete Duplicate Contacts on iPhone
 
@@ -162,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0188.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the app has identified duplicates, you'll see a card at the top of the screen saying how many have been found. Tap "View Duplicates."
 
 ![Select &quot;View Duplicates.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0189.png) 
@@ -173,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  Select the contact you'd like to merge, or tap "Merge All" to merge them all at once.
 
 ![Select a contact or &quot;Merge All.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0190a.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you select an individual contact, you'll see where the duplicates are being pulled from. In this case, I have the same contact listed twice [from my synced Google account](https://facebook-record-videos.techidaily.com/updated-in-2024-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts/). It also shows which information will be merged. Tap "Merge" to continue to combine.
 
@@ -184,6 +172,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  Apple's built-in feature is pretty good if you don't have a ton of contacts to sift through. For a more advanced tool, check out our [full guide for deleting duplicate contacts on iPhone](https://smart-video-editing.techidaily.com/new-2024-approved-beyond-windows-10-photos-8-excellent-image-viewing-options/) and [Android devices.](https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Delete All Contacts on iPhone
 
  Just like with deleting a bunch of contacts, there are two methods you can use to delete all contacts. First is the press-and-drag-with-two-fingers method from the "How to Delete Multiple Contacts on iPhone" section above. Simply start at the top of the contacts list and drag all the way to the bottom.
@@ -191,6 +183,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  Once again, there's an easier way to do this if we utilize a third-part app. We'll be using an app called "[Easy Cleaner](https://apps.apple.com/us/app/easy-cleaner/id519077149?at=1010l392g&ct=htg215533)" to get it done quickly. Install the app and give it permission to access your contacts.
 
 ![Tap &quot;Continue&quot; and &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0195-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can skip past the "Contacts Enrichment" feature. It's not necessary for deleting contacts.
 
@@ -200,25 +196,29 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ![Select &quot;All Contacts.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/IMG_0203.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, tap and hold a contact to select it.
 
 ![Tap and hold one contact.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0213.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After one contact is selected, a checkmark button will appear in the top right corner. Tap the button to select all your contacts.
 
 ![Select the checkmark button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0214.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With all the contacts selected, tap the trash icon in the bottom bar.
 
 ![Tap the trash can icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/07/IMG_0215.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Confirm your decision by tapping "Delete" one more time.
 
@@ -245,20 +245,19 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-finding-the-best-replacement-for-magixs-acid-pro-for-2024/"><u>[New] Finding the Best Replacement for Magix's ACID Pro for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-recording-discovering-the-best-5-slow-video-cameras/"><u>[Updated] High-Quality Recording Discovering the Best 5 Slow Video Cameras</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-managing-your-samsung-account-sign-up-login-troubleshooting-password-reset-deletion-process-and-secure-data-recovery/"><u>Complete Guide to Managing Your Samsung Account: Sign Up, Login Troubleshooting, Password Reset, Deletion Process, and Secure Data Recovery</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/detecting-and-fixing-hard-disk-failures-guidance-by-yl-software-experts/"><u>Detecting and Fixing Hard Disk Failures: Guidance by YL Software Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-user-manuals-with-ai-generated-content/"><u>Elevating User Manuals with AI-Generated Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-gpt-4-for-everyone-still-6-benefits-to-staying-with-plus/"><u>Free GPT-4 for Everyone; Still, 6 Benefits to Staying with Plus.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-identifying-common-fb-video-shapes/"><u>In 2024, Identifying Common FB Video Shapes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-your-android-lock-screen-code-easy-steps-to-regain-access/"><u>Lost Your Android Lock Screen Code? Easy Steps to Regain Access!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-firefox-browser-now-produces-audio/"><u>Resolved: Firefox Browser Now Produces Audio</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionary-strategies-for-fixing-recurring-snapchat-failures-across-iphones-and-androids/"><u>Revolutionary Strategies for Fixing Recurring Snapchat Failures Across iPhones and Androids</u></a></li>
-<li><a href="https://os-tips.techidaily.com/save-your-data-and-repair-tips-for-a-damaged-android-device-top-solutions/"><u>Save Your Data & Repair Tips for a Damaged Android Device: Top Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-essential-photographers-toolkit-polarr-edition-for-2024/"><u>The Essential Photographer's Toolkit - Polarr Edition for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-error-4504-on-android-steps-to-recover-missing-messages-quickly/"><u>Troubleshooting Error 4504 on Android: Steps to Recover Missing Messages Quickly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-free-your-android-from-network-restrictions/"><u>Ultimate Guide: How to Free Your Android From Network Restrictions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-io-screen-recorder-user-manual-overview-for-2024/"><u>[New] IO Screen Recorder User Manual Overview for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-mass-effect-legendary-edition-not-launching/"><u>[SOLVED] Mass Effect Legendary Edition Not Launching</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>2024 Approved Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-manage-multilingual-keystrokes-in-windows-11/"><u>Efficiently Manage Multilingual Keystrokes in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-a78-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo A78 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-12plus-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 12+ 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-system-file-specified-not-found-errors-a-comprehve-solutions-guide/"><u>Overcoming System 'File Specified Not Found' Errors: A Comprehve Solutions Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-a-frozen-android-phone-with-our-step-by-step-data-retrieval-solution-for-corrupted-devices/"><u>Revive a Frozen Android Phone with Our Step-by-Step Data Retrieval Solution for Corrupted Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-battery-life-7-proven-strategies-to-get-your-android-phone-charging-again/"><u>Reviving Battery Life: 7 Proven Strategies to Get Your Android Phone Charging Again</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-gain-full-control-over-your-android-device-using-kingroot/"><u>Step-by-Step Guide: Gain Full Control Over Your Android Device Using KingRoot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-smartphone-why-it-wont-power-up-and-effective-solutions-that-work/"><u>Troubleshooting Your Smartphone: Why It Won’t Power Up & Effective Solutions That Work</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-accelerating-android-devices-discover-the-leading-10-boosters-for-peak-performance/"><u>Ultimate Guide to Accelerating Android Devices: Discover the Leading 10 Boosters for Peak Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030133957-iphoneandroid/"><u>ビデオ音声の着信曲変更 - iPhoneとAndroid両方に対応</u></a></li>
 </ul></div>
 

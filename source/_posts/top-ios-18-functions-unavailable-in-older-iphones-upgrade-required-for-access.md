@@ -1,7 +1,7 @@
 ---
 title: Top IOS 18 Functions Unavailable in Older iPhones - Upgrade Required for Access
-date: 2025-01-20T20:57:48.067Z
-updated: 2025-01-22T02:09:41.095Z
+date: 2025-01-22T18:02:14.660Z
+updated: 2025-01-29T18:35:03.006Z
 tags:
   - ios
 categories:
@@ -24,23 +24,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Just because you can install iOS 18 on your dusty old iPhone XS doesn't guarantee your handset has the oomph to run the flashiest new features. Advanced features such as a more powerful Siri with ChatGPT integration won't be available until after launch, some are language and country-restricted, while others need newer hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3 iOS 18 Features Not Launching This Fall
 
  Some features require extended development time to smooth out the rough edges, meaning they're delayed until they're ready for prime time. iOS 18 is no outlier in that regard.
 
 ![A collage of thumbnails, with each promoting a different iOS 18 feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-key-features-wwdc24-slide.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  Several new features in iOS 18 will arrive via subsequent updates released later this year and next. This staggered release strategy has turned the otherwise dull mid-cycle OS updates into feature-packed events, giving Apple fans something to look forward to the whole year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Automatic Mail Categorization
 
@@ -62,13 +58,13 @@ Apple
 
 ![Apple Intelligence in action, with Siri displaying a ChatGPT prompt to create a five-course meal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-intelligence-ios-18-siri-chatgpt-create-five-course-meal.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  Bloomberg's Mark Gurman claims that [Siri's AI superpowers](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/)—like onscreen awareness, controlling apps and devices, answers based on your data, and seamless integration with ChatGPT—will be available when iOS 18.4 launches next spring.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3 iOS 18 Features That Require an iPhone 12 or Later
 
@@ -77,6 +73,10 @@ Apple
 ###  Vision Pro-Like Eye Tracking Navigation
 
  iOS 18 allows you to control your iPhone with your eyes using the [new Eye Tracking assistive feature](https://program-issues.techidaily.com/solutions-for-stable-play-addressing-the-call-of-duty-mobile-warzone-20-pc-edition-freezing-issues/). It requires no extra hardware other than Apple's TrueDepth camera, but you'll need an iPhone 12 or later or the iPhone SE 3.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Music Haptics via the iPhone's Taptic Engine
 
@@ -104,13 +104,13 @@ Apple
 
  On the Mac and iPad, Apple Intelligence requires an Apple Silicon chip like the Apple M1 or newer. This is the minimum hardware to use even the most [basic AI features such as writing tools](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/), Genmoji (custom emoji), and Image Playground (creating AI images from prompts)—let alone advanced ones like a more powerful Siri.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  iOS 18 Features Requiring Extra Accessories
 
  Some iOS 18 features like gaming with spatial audio and lower audio latency require accessories. Others like Messages via satellite need specific iPhone hardware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Gaming With AirPods
 
@@ -122,12 +122,16 @@ Apple
 
  Shaking or nodding your head to decline or accept calls requires the AirPods Pro 2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Voice Isolation on AirPods
 
  iOS 18 brings the Voice Isolation feature to the latest AirPods Pro 2\. With this feature enabled, your earbuds will block external noise for the caller, such as the wind blowing around you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Improved Voice Quality
@@ -135,7 +139,7 @@ Apple
  iOS 18 brings higher resolution to your audio recordings by enabling 16-bit, 48kHz capture exclusively on the AirPods Pro 2\. You'll also notice improved voice quality when chatting with teammates and other players whilst playing a game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Messages via Satellite
@@ -149,6 +153,10 @@ Apple
 ###  Hands-Free Smart Lock Unlocking
 
  Unlocking smart locks wirelessly using iOS 18's Express Mode without taking an iPhone out of your pocket requires [Ultra Wideband](https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-c67-4g-by-drfone-android/) connectivity provided by the U11 chip, found in the Apple Watch Series 6 and later and the iPhone 11 or newer. This leaves the iPhone XR, iPhone XS, iPhone XS Max, and iPhone SE owners locked out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  iOS 18: These 9 Features Are English-Only
 
@@ -165,13 +173,13 @@ Apple
 
  Solving mathematical equations as you're writing them in the Notes app supports common mathematical symbols, but you must write your math using Western Arabic numerals or type it using Arabic (Eastern & Western) or Devanagari numerals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  About Topographic Maps
 
  Topographic maps have hit Maps on iOS 18 after debuting on the Apple Watch a year earlier. If you live in the United States and Japan, you'll be able to access detailed trail networks and hikes for 63 US national parks, as well as create your own hikes and download topographic maps for offline navigation with turn-by-turn voice guidance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  About Safari Highlights and Reader Mode Summaries
 
@@ -204,29 +212,21 @@ Apple
 
 ![The Apple TV app on iPhone showing the InSight screen with names of actors detected in the scene, along with the song title.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-tv-app-dark-matter-show-insight-actors-music.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  The feature works in the TV app on the iPhone, iPad, and Mac devices updated to iOS 18, iPadOS 18, and macOS Sequoia. InSight only works with Apple Originals movies and TV shows, so you'll need an Apple TV+ subscription. The feature will expand to the entire Apple+ catalog over time, but it's unclear if Apple will add support for third-party video apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Tap to Cash Contactless Money Transfers
 
  Tap to Cash enables contactless money transfers between iPhone owners in the United States. Apple reserves the right to lower the limits during the beta phase without notice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Apple Pay Rewards and Installments
 
  Apple Pay on iOS 18 lets you pay in installments or use rewards (subject to eligibility and approval) using cards "from participating banks and card providers in certain markets."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Event Tickets and New Event Guides
 
@@ -257,14 +257,16 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-photo-upload-to-your-social-feeds-tips-and-tricks/"><u>[Updated] In 2024, Quick Photo Upload to Your Social Feeds – Tips & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-smooth-video-trimming-in-photos/"><u>2024 Approved Expert Tips for Smooth Video Trimming in Photos</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/error-404-content-missing-unable-to-retrieve-page/"><u>Error 404: Content Missing – Unable To Retrieve Page</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-strategies-for-repairing-an-ios-devices-damaged-screen/"><u>Essential Strategies for Repairing an iOS Device's Damaged Screen</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-on-the-top-off-road-racing-rc-vehicles-the-best-rock-crawlers-compared/"><u>Expert Analysis on the Top Off-Road Racing RC Vehicles: The Best Rock Crawlers Compared</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-stop-your-iphones-quick-battery-drainage-expert-advice-for-longer-life/"><u>How To Stop Your iPhone's Quick Battery Drainage: Expert Advice for Longer Life</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-solutions-for-bypassing-apples-iphone-activation-lock/"><u>Permanent Solutions for Bypassing Apple's iPhone Activation Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-keeping-your-iphone-jailbroken-after-a-system-restore/"><u>Step-by-Step Guide: Keeping Your iPhone Jailbroken After a System Restore</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-vcompdll-errors-effective-solutions-for-windows-users/"><u>Troubleshooting 'vcomp.dll' Errors: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elite-edits-the-best-video-editors-ranked-for-2024/"><u>[Updated] Elite Edits The Best Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fable-formulators-fellowship-top-7-titans/"><u>[Updated] Fable Formulators Fellowship – Top 7 Titans</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-free-video-template-resources/"><u>[Updated] In 2024, Top Free Video Template Resources</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-and-manage-your-mac-from-anywhere-top-4-mobile-apps-for-ios-users/"><u>Access and Manage Your Mac From Anywhere: Top 4 Mobile Apps for iOS Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-for-performing-a-full-wipe-on-an-encrypted-ios-device-without-access-to-apple-id/"><u>Comprehensive Steps for Performing a Full Wipe on an Encrypted iOS Device without Access to Apple ID</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-warzones-troublesome-memory-error-code-0-1766-on-xbox-and-pc/"><u>Fixing Warzone's Troublesome Memory Error Code 0-1766 on Xbox and PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-delightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems/"><u>In 2024, Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-story-the-reasons-for-assassins-creed-valhallas-delayed-release-explained/"><u>Inside Story: The Reasons for Assassin's Creed Valhalla's Delayed Release Explained</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255552-iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-connection-display-your-ipadiphone-on-the-screen-via-five-unique-techniques/"><u>Mastering the Connection: Display Your iPad/iPhone on the Screen via Five Unique Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255746-overcome-your-iphones-failed-update-dilemma-with-these-four-effective-solutions/"><u>Overcome Your iPhone's Failed Update Dilemma with These Four Effective Solutions!</u></a></li>
 </ul></div>
 

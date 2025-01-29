@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?"
-date: 2025-01-19T02:21:36.832Z
-updated: 2025-01-21T21:52:28.121Z
+date: 2025-01-24T18:24:12.618Z
+updated: 2025-01-29T16:16:38.532Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ---
 
 ## Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  A seemingly useful trick for unlocking your iPhone has been doing the rounds on social media which allows you to unlock your iPhone with a simple voice command. While it might sound handy, it's one tip you should probably avoid if you want to keep your device secure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Unlocking Your iPhone With Your Voice
@@ -40,27 +44,19 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Mark passcode on iPhone lock screen (example)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_passcode-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head back to Settings > Accessibility > Voice Control, tap on "Customize Commands" followed by "Create New Command..." and type (or speak) the phrase you want to use.
 
 ![Enter speakable phrase for Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/enter_phrase.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap on "Action" then select "Run Custom Gesture" and (using the marks you made earlier) tap out the unlock sequence used to enter your passcode. Now tap "Save" and then hit the "New Command" button to go back to the previous screen. Hit "Save" one more time and your gesture will be saved.
 
 ![Run custom gesture using Voice Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/run_custom_gesture.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can now trigger your command on the "Enter Passcode" screen to automatically fill in your passcode. You'll find your new gesture under Settings > Accessibility > Voice Control > Customize Commands > Custom. Tap on it then tap "Edit" followed by "Delete Command" to get rid of it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Voice Unlocking Is a Bad Idea
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.techidaily.com/new-terras-treasures-selecting-the-top-mapping-games/) 
 
  This technique is often touted as a way to unlock your iPhone when your hands are dirty, but if you're unlocking your iPhone you're probably going to touch the screen anyway. Don't forget you can always enable Siri from the lock screen under Settings > Siri & Search > Allow Siri When Locked and enable "Hey Siri" while you're there to use your iPhone hands-free without bypassing your passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Solving Face ID Issues
 
@@ -83,7 +83,7 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
  Once you've done this, Face ID should be a lot more reliable. More importantly, it's tied to your appearance and doesn't involve opening your iPhone up to snoopers who have guessed or overheard your unlock command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Unlock Your iPhone With an Apple Watch, Too
@@ -107,20 +107,18 @@ Related: [How to Use Spotify with Siri on iPhone](https://desktop-recording.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>[New] Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-make-your-own-youtube-opening-and-closing-graphics/"><u>[Updated] 2024 Approved Make Your Own YouTube Opening & Closing Graphics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-5-must-see-facebook-vids-that-delight-us-all/"><u>[Updated] 5 Must-See Facebook Vids That Delight Us All</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-budget-friendly-filmmaking-choose-the-best-6-action-cameras/"><u>[Updated] Budget-Friendly Filmmaking Choose the Best 6 Action Cameras</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-disable-auto-updates-in-windows-permanently/"><u>Comprehensive Guide: How to Disable Auto Updates in Windows Permanently</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/economic-approaches-to-online-educational-broadcasting-for-2024/"><u>Economic Approaches to Online Educational Broadcasting for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-content-creation-crossroads-igtv-vs-youtube-which-one-fits-best/"><u>In 2024, Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-simplifying-remote-work-with-zoom-recording-techniques/"><u>In 2024, Simplifying Remote Work with Zoom Recording Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-your-hotmail-password-easily-even-if-you-cant-use-a-backup-email-or-phone-number/"><u>Resetting Your Hotmail Password Easily – Even if You Can't Use a Backup Email or Phone Number</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safe-laptop-restart-techniques-for-windows-and-mac-users-no-data-lost/"><u>Safe Laptop Restart Techniques for Windows and Mac Users: No Data Lost</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solve-netflix-streaming-issues-no-more-freezing-skipping-or-frame-drops-ultimate-solutions-inside/"><u>Solve Netflix Streaming Issues: No More Freezing, Skipping, or Frame Drops – Ultimate Solutions Inside!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620260555-stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-changing-your-windows-7-pcs-login-credentials/"><u>Top Strategies for Successfully Changing Your Windows 7 PC's Login Credentials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-repairing-the-0x80004005-communication-error-in-software-applications/"><u>Understanding & Repairing the 0X80004005 Communication Error in Software Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unexpected-windows-11-reboots-effective-solutions-and-troubleshooting-tips/"><u>Unexpected Windows 11 Reboots: Effective Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-jolly-jingles-list-of-laugh-out-loud-short-video-suggestions/"><u>[New] 2024 Approved Jolly Jingles List of Laugh Out Loud, Short Video Suggestions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-art-of-crafting-captivating-facebook-stories/"><u>[New] 2024 Approved The Art of Crafting Captivating Facebook Stories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-global-earning-creator/"><u>[New] The Ultimate Global Earning Creator</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-navigating-youtube-setup-a-newbies-complete-guidebook/"><u>2024 Approved Navigating YouTube Setup A Newbie's Complete Guidebook</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-clearing-all-snapchat-messages-and-conversations-from-your-account/"><u>Complete Guide to Clearing All Snapchat Messages and Conversations From Your Account</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafting-captivating-facebook-biographies-a-comprehensive-guide/"><u>Crafting Captivating Facebook Biographies - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-clone-without-third-party-reliance-in-windows/"><u>Crafting Clone Without Third-Party Reliance in Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-leading-replacements-for-clean-master-ultimate-ranking-of-top-10-alternatives/"><u>Discover the Leading Replacements for Clean Master - Ultimate Ranking of Top 10 Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-copywriting-with-ai-wisdom/"><u>Enhancing Copywriting with AI Wisdom</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-silence-to-sound-pc-unlocks-headphone-features/"><u>From Silence to Sound: PC Unlocks Headphone Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-adding-tracks-to-premiere-pro-projects-for-2024/"><u>Step-by-Step Guide Adding Tracks to Premiere Pro Projects for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-internet-activity-logs-from-androids-popular-browsers-chrome-firefox-opera-dolphin/"><u>Step-by-Step Guide: Removing Internet Activity Logs From Android's Popular Browsers (Chrome, Firefox, Opera, Dolphin)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-uninstalling-applications-from-your-iphone-or-android-device/"><u>Ultimate Guide: Uninstalling Applications From Your iPhone or Android Device</u></a></li>
 </ul></div>
 

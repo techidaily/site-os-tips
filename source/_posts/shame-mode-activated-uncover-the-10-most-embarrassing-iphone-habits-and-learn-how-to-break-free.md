@@ -1,7 +1,7 @@
 ---
 title: Shame Mode Activated? Uncover the 10 Most Embarrassing iPhone Habits & Learn How to Break Free!
-date: 2025-01-19T00:09:35.519Z
-updated: 2025-01-21T21:23:39.939Z
+date: 2025-01-27T17:06:25.014Z
+updated: 2025-01-29T16:57:37.079Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Shame Mode Activated? Uncover the 10 Most Embarrassing iPhone Habits & Learn How to Break Free!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,6 +48,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The message read receipts toggle in Messages settings on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-03-41.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the arrival of Rich Communication Services (RCS) support in iOS 18, read receipts work with Android users too (not just iMessage users, as was the case previously).
 
 ## 3  Your Apple Music Listening History 
@@ -52,13 +60,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Apple Music "Listening To" section on a user profile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-04-42.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Not being able to pause your listening history also affects what music suggestions you see. This makes listening to experimental music or letting someone else play music from your device a risky endeavor since there’s always a chance that you could “poison” your recommendations.
 
  Fortunately, there is an answer. [Create a Focus mode with the “Use Listening History” filter disabled](https://some-knowledge.techidaily.com/updated-how-to-create-time-travel-teleportation-effects/), then enable it under Control Center every time you want to pause your Apple Music history.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4  Your Lack of a Decent Contact Poster 
 
@@ -68,6 +76,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iOS 17's Contact Poster on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tim-brookes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can make multiple posters and then switch between them as you like. Make sure to enable “Name & Photo Sharing” and decide whether to share automatically with contacts or not using the “Share Automatically” setting.
 
 ## 5  Forgetting to Hide Photos (and Disable the Hidden Folders) 
@@ -76,19 +88,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Hidden" album in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-05-57.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is all good and well, but you can go a step further and hide the Hidden album altogether. You’ll still be able to hide photos just as you could before, except now accessing the Hidden album requires an extra step. It suggests to snoopers that you don’t actually have any hidden photos on your device in the first place.
 
  To do this, head to Settings > Photos and disable the “Show Hidden Album” toggle. To view items in this folder, you’ll need to come back to this menu and enable the album again.
 
 ![The toggle for disabling the "Hidden" album in the iPhone Photos app settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-06-29.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6  Not Cleaning Your Screen or Ports 
 
@@ -99,7 +107,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Closeup of a smartphone with water droplets on it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/black-iphone-water-droplets.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [blackzheep/Shutterstock.com](https://www.shutterstock.com/image-photo/closeup-phone-be-waterproof-shot-on-674357041)
@@ -132,15 +140,7 @@ Tim Brookes / How-To Geek
 
 ![Unsightly notification badges in iPhone apps on a Home Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-11-55.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Notification badges can also lose all meaning if you never dismiss the outstanding notifications. Head to Settings > Notifications, tap on an app and then disable the notification badge to hide your unread count for good.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9  Not Using Focus Modes 
 
@@ -152,11 +152,11 @@ Tim Brookes / How-To Geek
 
 ![The toggle for enabling the Driving focus automatically in iPhone Focus settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-07-at-14-13-01.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On top of this, contacts will be able to see you’ve silenced notifications when trying to send you messages so they have a heads-up that you’re not necessarily able to get back to them right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10  Bonus: Not Locking and Hiding Apps 
 
@@ -183,22 +183,16 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-scan-for-collective-shared-content-on-messenger/"><u>[New] 2024 Approved Scan for Collective Shared Content on Messenger</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-gopro-faceoff-the-ultimate-camera-showdown-guide/"><u>[Updated] 2024 Approved Gopro Faceoff The Ultimate Camera Showdown Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-showdown-of-streamers-which-platform-rules-obs-or-twitch-studio/"><u>[Updated] 2024 Approved Showdown of Streamers Which Platform Rules, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-tunefab-revolutionizing-the-art-of-video-capture-for-2024/"><u>[Updated] Tunefab Revolutionizing the Art of Video Capture for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-solutions-for-resolving-check-in-issues-with-ios-17-on-iphones/"><u>Comprehensive Solutions for Resolving 'Check In' Issues with iOS 17 on iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-the-iphones-blue-screen-of-death-now-with-ios-18-support/"><u>Effective Solutions: Repairing the iPhone's 'Blue Screen of Death,' Now with iOS 18 Support</u></a></li>
-<li><a href="https://os-tips.techidaily.com/finding-the-perfect-bargain-a-step-by-step-guide-to-purchasing-pre-owned-iphones-models-5-6-7-8-x-on-the-web/"><u>Finding the Perfect Bargain: A Step-by-Step Guide to Purchasing Pre-Owned iPhones (Models 5, 6, 7, 8, X) on the Web</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-swiftly-repair-an-apple-id-that-wont-work-effective-steps-for-immediate-fix/"><u>How to Swiftly Repair an Apple ID That Won't Work: Effective Steps for Immediate Fix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-captivating-presentations-by-adding-tunes/"><u>In 2024, Crafting Captivating Presentations by Adding Tunes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-note-30-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Note 30 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-shorts-demystified-in-30-minutes/"><u>In 2024, YouTube Shorts Demystified in 30 Minutes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-zero-cost-frame-perfection-on-youtube-video-viewing/"><u>In 2024, Zero-Cost Frame Perfection on YouTube Video Viewing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-the-vanished-app-store-on-ios-devices-with-proven-fixes/"><u>Restore the Vanished App Store on iOS Devices with Proven Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-forcing-an-iphone-to-power-off-featuring-techniques-for-iphone-11-pro-models/"><u>Step-by-Step Instructions for Forcing an iPhone to Power Off, Featuring Techniques for iPhone 11 Pro Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/struggling-with-ios-music-downloads-try-these-5-effective-remedies/"><u>Struggling with iOS Music Downloads? Try These 5 Effective Remedies.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-persistent-reboots-top-fixes-for-your-constantly-restarting-iphone/"><u>Troubleshooting Persistent Reboots: Top Fixes for Your Constantly Restarting iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-kinemasters-full-potential-techniques-and-10plus-superior-online-services-for-2024/"><u>Unlock KineMaster's Full Potential Techniques & 10+ Superior Online Services for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-from-tiktok-to-twitter-a-step-by-step-guide/"><u>[New] 2024 Approved From TikTok to Twitter A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>[New] 2024 Approved Unleashing Visual Potential Incorporating New Fonts in AE</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>[New] Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-9-choices-for-video-auto-translate/"><u>2024 Approved Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620252123-how-to-uncover-your-icloud-password-with-just-your-devices-imei-number-expert-secrets-revealed/"><u>How To Uncover Your iCloud Password With Just Your Device's IMEI Number - Expert Secrets Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>In 2024, Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257493-missing-iphone-images-swift-recovery-strategies-inside/"><u>Missing iPhone Images? Swift Recovery Strategies Inside!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/preeminent-6-social-channels-for-commercial-expansion-for-2024/"><u>Preeminent 6 Social Channels for Commercial Expansion for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-and-tricks-overcoming-the-zero-match-challenge-in-bumble-dating-apps/"><u>Tips & Tricks: Overcoming the Zero-Match Challenge in Bumble Dating Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-strategies-to-reclaim-your-iphones-storage-space-post-ios-17-upgrade/"><u>Top 7 Strategies to Reclaim Your iPhone's Storage Space Post-iOS 17 Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-does-my-iphones-safari-keep-freezing-expert-tips-for-a-smooth-browsing-experience/"><u>Why Does My iPhone's Safari Keep Freezing? Expert Tips for a Smooth Browsing Experience</u></a></li>
 </ul></div>
 

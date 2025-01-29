@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Annotate Images with These 5 iPhone Tricks
-date: 2025-01-18T17:18:46.488Z
-updated: 2025-01-22T05:51:58.206Z
+date: 2025-01-27T17:46:50.122Z
+updated: 2025-01-29T16:23:53.159Z
 tags:
   - ios
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Whether you’re annotating a screenshot or making the dankest of memes, there are many ways of adding text to an image on your iPhone. Here are five tried and tested techniques.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Text Using Markup
@@ -35,10 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Next, find the image you want to add text to within the Photos app, then tap “Edit” in the top-right corner of the screen. If you don’t see the “Edit” button, tap on the image once to reveal the Photos interface.
 
 ![Tap "Edit" to edit an image in the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, tap on the “Markup” button in the top-right corner of the screen. This looks like a pen tip, and it’s located alongside the ellipsis “…” icon.
 
@@ -54,17 +50,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Edit the text box in Markup to add your text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  At the bottom of the screen, you can adjust the font, text size, alignment, formatting, and text color. While choosing a color you can also adjust the opacity of your text.
 
 ![Use the text formatting tools to adjust text size, color, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/markup5.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’re done, hit “Done” in the top-right corner of the screen. You can edit your text later by coming back to the Markup menu using the pen icon in the top-right corner of the screen. Share your image as you would normally from the Photos app and the text will be included.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Text Using Freeform
 
@@ -80,6 +80,10 @@ Tim Brookes / How-To Geek
 
 ![Add images to your canvas in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With your image in place, tap on the “Text Box” button at the bottom of the screen. Drag the text box in place then double-tap inside it to edit your text. Use the text formatting tools above the keyboard to customize the size, color, and alignment of your text.
 
 ![Adjust text and formatting in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform3.jpg) 
@@ -90,10 +94,6 @@ Tim Brookes / How-To Geek
 
 ![Export as PDF in Freeform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform4.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, launch the Shortcuts app and create a new Shortcut. Add the “Make Image from PDF Page” action to a new workflow. Change the “PNG Image” variable to whatever you want, and the “PDF” variable to “Shortcut Input.” Add a “Save to Photo Album” action, then hit the “i” button and make sure “Show in Share Sheet” is selected. Give your Shortcut a name, like “PDF Page to Image” and save it.
 
 ![Use a Shortcuts workflow to convert PDF to image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/freeform5.jpg) 
@@ -101,7 +101,7 @@ Tim Brookes / How-To Geek
  Now open the PDF, hit Share, and tap on the “PDF Page to Image” Shortcut you just made. Your image will be in Photos, where you can crop and trim it as necessary.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Text Using Pages
@@ -118,30 +118,30 @@ Tim Brookes / How-To Geek
 
 ![Add media to a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap on your image to select it, then tap on the “Formatting” paintbrush icon to reveal more options. Under “Arrange” choose “More Options” and then set “Text Wrap” to “None.” This instructs Pages not to move text around if it intersects with the image.
 
 ![Adjust text wrapping in a Pages document.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, hit the plus “+” button again and, on the diagrams tab, select “Text” to add a text box. Double-tap within the text box and edit the text as necessary. Finish up and tap the text box to select it, then use the “Formatting” paintbrush icon to edit the font, size, color, and more on the “Text” tab.
 
 ![Adding text using a text box in Pages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages4.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Add more images, diagrams, and whatever else you see fit. Then hit the ellipsis “…” button and choose “Export” followed by “Images” to export as an image. Use the “Save Image” button to add the image to your Photos library.
 
 ![Export a Pages document as an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pages5.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lastly, find the image and hit “Edit” and then crop out the white space. You can now share your image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Text Using Third-Party Apps
@@ -168,11 +168,11 @@ Adding text to an Instagram story.
 
 ![Saving an image to your Camera Roll via Instagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta3.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now open up Photos, find the image, tap “Edit” and crop the image to your liking. You can now share it as you would any other.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Text Using a Web App
 
@@ -182,13 +182,13 @@ Adding text to an Instagram story.
 
 ![Opening an image in the Pixlr editor for web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Use the toolbar at the bottom of the screen to select “Text” then select “Add new text” or choose from one of the stylized text tools.
 
 ![Adding a text box to an image in Pixlr Express.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixlr2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down and change the “Text” box to whatever you want to text to read. You can now adjust other aspects like the size, color, and so on. You can add a curve, warp, background, outline, and shadow to the text if you want.
 
@@ -221,17 +221,14 @@ Adding text to an Instagram story.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-video-focus-in-virtual-collaboration-spaces-google-meet-edition/"><u>[New] In 2024, Optimizing Video Focus in Virtual Collaboration Spaces Google Meet Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-total-review-demystifying-googles-podcast-app-for-2024/"><u>[New] Total Review Demystifying Google's Podcast App for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-proven-techniques-for-effective-video-transfer-ios-to-mac/"><u>[Updated] 2024 Approved Proven Techniques for Effective Video Transfer IOS to MAC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[Updated] Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-10-gopro-cases-insight-for-adventurers/"><u>[Updated] In 2024, Top 10 GoPro Cases Insight for Adventurers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-straightforward-recording-tips-for-2024/"><u>[Updated] Instagram Story Straightforward Recording Tips for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016956572-expert-fixes-for-when-your-steelseries-arctis-pros-microphone-wont-work-anymore/"><u>Expert Fixes for When Your SteelSeries Arctis Pro's Microphone Won't Work Anymore</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-xs-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone XS Max and iPad Securely</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-issues-successful-steps-to-correct-a-failed-icloud-backup-on-iphoneipad/"><u>Resolving Issues: Successful Steps to Correct a Failed iCloud Backup on iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-lost-icloud-and-local-contacts-on-your-iphone-restore-whats-gone/"><u>Solutions for Lost iCloud and Local Contacts on Your iPhone: Restore What's Gone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-an-iphone-that-forgot-its-password/"><u>Step-by-Step Instructions for Resetting an iPhone That Forgot Its Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-voice-memos-and-mic-functionality/"><u>Troubleshooting Tips: Resolving Issues with Voice Memos and Mic Functionality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-threads-of-time-looms-screen-record-mastery/"><u>[New] 2024 Approved Threads of Time Loom's Screen Record Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harmonizing-hues-the-filmmakers-palette-guide/"><u>[New] In 2024, Harmonizing Hues The Filmmaker's Palette Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-what-if-my-tiktok-not-working-on-androidiphonechrome-for-2024/"><u>[Updated] What If My TikTok Not Working on Android/iPhone/Chrome for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boosting-iphone-signal-strength-expert-advice-and-effective-techniques-to-combat-weak-connectivity/"><u>Boosting iPhone Signal Strength: Expert Advice and Effective Techniques to Combat Weak Connectivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-for-iphones-unable-to-complete-ios-1817-update-process/"><u>Effective Solutions for iPhones Unable to Complete iOS 18/17 Update Process</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tutorial-effortless-ways-to-access-or-disconnect-from-ipods-recovery-environment/"><u>Expert Tutorial: Effortless Ways to Access or Disconnect From iPod's Recovery Environment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-your-youtube-video-spectators-tips-and-techniques/"><u>Identifying Your YouTube Video Spectators: Tips and Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620256256-struggling-with-your-iphones-screen-top-solutions-inside/"><u>Struggling With Your iPhone's Screen? Top Solutions Inside!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlock-insta-reels-potential-with-proven-tiktok-methods/"><u>Unlock Insta Reels' Potential with Proven TikTok Methods</u></a></li>
 </ul></div>
 

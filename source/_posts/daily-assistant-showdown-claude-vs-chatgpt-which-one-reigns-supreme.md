@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2025-01-19T03:50:52.500Z
-updated: 2025-01-21T20:36:33.467Z
+date: 2025-01-27T18:02:46.629Z
+updated: 2025-01-29T16:36:15.286Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ## Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  GPT vs. Claude On The Web
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
@@ -58,7 +58,7 @@ Dibakar Ghosh / How-To Geek / Midjourney
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which App Performs Better?
@@ -77,6 +77,10 @@ Close
 
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -84,10 +88,6 @@ Jason Dookeran/How-to-Geek
  I ran both apps through basic algebra tests, US History, Geography, and Science. The questions I asked were simple enough that a tenth-grader would know them, and both engines responded correctly. The only difference here is Claude's response time, which consistently came in between four and five times faster than ChatGPT. Claude once again takes pole position, giving it an unassailable 3–0 lead.
 
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Hallucinations Still Happen On Mobile
 
@@ -112,14 +112,15 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-best-screencasting-apps-free/"><u>[New] 2024 Approved The Ultimate List Best Screencasting Apps (Free)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-10-best-live-tv-streaming-services-with-comparison/"><u>[Updated] 10 Best Live TV Streaming Services - With Comparison</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-achieving-flawless-fb-live-via-zoom-streaming-for-2024/"><u>[Updated] Achieving Flawless FB Live via Zoom Streaming for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-most-effective-long-reach-network-routers-reviewed-and-ranked/"><u>2024’S Most Effective Long-Reach Network Routers Reviewed and Ranked</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-lost-images-from-an-iphoneipad/"><u>Step-by-Step Guide: Retrieving Lost Images From an iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stop-your-iphone-from-being-easily-found-disable-discovery-settings-instantly/"><u>Stop Your iPhone From Being Easily Found: Disable Discovery Settings Instantly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-beaver-state-strikes-back-how-oregons-new-law-challenges-restrictive-manufacturer-policies-like-apples-parts-lockdown/"><u>The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-dawn-of-ubiquitous-smartphone-conformity-across-platforms/"><u>The Dawn of Ubiquitous Smartphone Conformity Across Platforms</u></a></li>
-<li><a href="https://win-web3.techidaily.com/zdnets-top-strategies-for-retrieving-deleted-documents-in-the-latest-windows-versions/"><u>ZDNet's Top Strategies for Retrieving Deleted Documents in the Latest Windows Versions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-strategic-guide-to-unlocking-worlds-secrets-via-vr/"><u>[New] A Strategic Guide to Unlocking World's Secrets via VR</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-combine-sounds-into-powerpoint-narratives/"><u>[New] Combine Sounds Into PowerPoint Narratives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wmvwebm-movavi-convert/"><u>免費網路WMV到WEBM格式傳送 - 使用Movavi Convert</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y17s-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y17s?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/goodbye-to-apples-pay-later-service-embracing-the-change-with-gratitude/"><u>Goodbye to Apple's Pay Later Service – Embracing the Change with Gratitude</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-embracing-sleep-analysis-transformed-my-rest-insights-from-a-skeptic-to-advocate/"><u>How Embracing Sleep Analysis Transformed My Rest: Insights From a Skeptic to Advocate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/identifying-a-blocked-caller-id-via-imessage-a-step-by-step-guide/"><u>Identifying a Blocked Caller ID via iMessage – A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/"><u>In 2024, The Ultimate Guide to Glitch Video Editors Top Picks for Windows, Mac, and Web</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inter-device-clipart-sync-a-comprehensive-guide-to-iphoneipad-and-mac-integration/"><u>Inter-Device Clipart Sync: A Comprehensive Guide to iPhone/iPad & Mac Integration</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-skin-enhancement-a-beginners-guide-to-airbrushed-results/"><u>Updated 2024 Approved FCPX Skin Enhancement A Beginners Guide to Airbrushed Results</u></a></li>
 </ul></div>
 
