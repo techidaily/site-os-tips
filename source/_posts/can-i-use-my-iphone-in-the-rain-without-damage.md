@@ -1,7 +1,7 @@
 ---
 title: Can I Use My iPhone in the Rain Without Damage?
-date: 2025-01-18T02:39:47.663Z
-updated: 2025-01-22T02:57:43.000Z
+date: 2025-02-03T18:54:21.495Z
+updated: 2025-02-09T23:23:52.641Z
 tags:
   - ios
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Want a "Water-Proof" iPhone? Use a Case](https://howto.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Be Careful Submerging Your iPhone in Water](https://extra-information.techidaily.com/frostbound-feats-olympic-ice-innovations/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Recent iPhone models have different IP ratings, including IP68 for the iPhone 15 through to the iPhone XS, though newer models can be submerged for longer.
@@ -34,7 +30,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Modern iPhones are [water-resistant](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/), but the strength of that protection varies from model to model. Performing maintenance and repairs on your iPhone can compromise this protection. Here's what you need to know.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which iPhones Are Water-Resistant?
@@ -42,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The iPhone 15, iPhone 14, iPhone 13, and iPhone 12 families of devices (including all Pro, Pro Max, Plus, and mini models) have an IP68 rating. Apple states that these devices can withstand being submerged up to a depth of 6 meters for 30 minutes (that's almost 20 feet). 
 
 ![Person holding an iPhone 15 Pro Max.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53228140359_7acd288927_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -52,10 +52,6 @@ Justin Duino / How-To Geek
  The iPhone 7, iPhone 8, iPhone X, iPhone XR, iPhone SE (2nd and 3rd generation), and respective Plus models carry an IP67 rating for a depth of 1 meter up to 30 minutes (just over 3 feet).
 
  The iPhone 6s lacks any kind of water or dust-resistant rating but demonstrated a [high level of water resistance](https://www.macrumors.com/2015/09/28/iphone-6s-water-resistance-tests/) when it was first released. It's possible Apple was testing the water-resistant technology that officially made it into the iPhone 7\. Earlier models including the original iPhone SE lack any water resistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Understanding Splash, Water, and Dust Resistance
 
@@ -68,7 +64,7 @@ Justin Duino / How-To Geek
 ![iphone in waterproof pouch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/waterproof-bag.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -86,6 +82,10 @@ Corbin Davenport / How-To Geek
  If you have an [AppleCare+ policy with accidental damage coverage](https://facebook-video-files.techidaily.com/updated-2024-approved-blocking-facebooks-advertising-overload-in-real-time/), you should be able to pay a fixed fee to have your device replaced regardless of what caused the damage.
 
 ![Water pouring onto an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/img_5db9f06fbbec5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [blackzheep/Shutterstock.com](https://www.shutterstock.com/image-photo/closeup-water-drop-on-phone-device-662781931)
 
@@ -143,7 +143,7 @@ Keep most smartphones dry and sand-free with this floating universal cover from 
 [OtterBox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU213226/https://www.otterbox.com/) is another respected brand in the rugged case market. The Frē series now supports MagSafe and allows you to take your iPhone to depths of up to 2 meters (6.6ft) for an hour, with built-in drop protection and an included lanyard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Be Careful Submerging Your iPhone in Water
@@ -167,18 +167,17 @@ Keep most smartphones dry and sand-free with this floating universal cover from 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>[Updated] In 2024, Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007455861-beat-game-bugs-once-and-for-all-learn-about-the-eight-best-solutions-to-fix-multiversus-crashes-today/"><u>Beat Game Bugs Once & For All: Learn About the Eight Best Solutions to Fix MultiVersus Crashes Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-iphones-speed-simple-tips-for-optimizing-the-iphone-15-and-15-pro/"><u>Boost Your iPhone's Speed: Simple Tips for Optimizing the iPhone 15 and 15 Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/clearing-out-itunes-media-files-on-windows-and-macos-proven-methods-for-a-fresh-start/"><u>Clearing Out iTunes Media Files on Windows & macOS: Proven Methods for a Fresh Start</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/d-link-security-access-points-revealed-for-july-2024-models/"><u>D-Link Security Access Points Revealed for July 2024 Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-steps-for-resetting-browsers-autofill-settings/"><u>Effective Steps for Resetting Browser's Autofill Settings</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-making-sense-of-mukbangs-crafting-foodie-streams/"><u>In 2024, Making Sense of Mukbangs Crafting Foodie Streams</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-6s-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 6s from iCloud</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revolutionize-your-film-collection-with-yl-softwares-premium-iconography-suite/"><u>Revolutionize Your Film Collection with YL Software's Premium Iconography Suite</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-techniques-for-removing-ebooks-from-your-apple-ibooks-library/"><u>Top 3 Techniques for Removing eBooks From Your Apple iBooks Library</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/transitioning-vids-from-twitter-to-fb-engagement-zone/"><u>Transitioning Vids From Twitter to FB Engagement Zone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capture-every-click-essential-screen-recorders-for-modern-browsers/"><u>[New] In 2024, Capture Every Click Essential Screen Recorders for Modern Browsers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-confinement-to-comedy-selecting-lighthearted-fb-incarceration-moments/"><u>[New] In 2024, From Confinement to Comedy Selecting Lighthearted FB Incarceration Moments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastering-imovie-content-for-youtube-distribution/"><u>[Updated] 2024 Approved Mastering iMovie Content for YouTube Distribution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-pro-level-hdr-techniques-elevate-your-photography-skills/"><u>[Updated] In 2024, Pro-Level HDR Techniques Elevate Your Photography Skills</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-90-gt-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor 90 GT Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-tiktok-dual-videos-a-step-by-step-guide/"><u>Mastering the Art of TikTok Dual Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/prolonging-snapstreak-excellence-top-10-advice-for-2024/"><u>Prolonging Snapstreak Excellence Top 10 Advice for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hotel-stays-discover-how-apple-airplay-enhances-your-room-experience-with-ease/"><u>Revolutionizing Hotel Stays: Discover How Apple AirPlay Enhances Your Room Experience with Ease!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-enhancements-to-elevate-your-apple-carplay-experience/"><u>Top 7 Enhancements to Elevate Your Apple CarPlay Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-recommended-magsafe-compatible-gadgets-for-your-iphone/"><u>Top Recommended MagSafe Compatible Gadgets for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-ranking-apple-watch-bands-a-comprehensive-selection/"><u>Top-Ranking Apple Watch Bands : A Comprehensive Selection</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-ipad-protectors-a-comprehensive-buyers-guide/"><u>Top-Rated iPad Protectors : A Comprehensive Buyer's Guide</u></a></li>
 </ul></div>
 

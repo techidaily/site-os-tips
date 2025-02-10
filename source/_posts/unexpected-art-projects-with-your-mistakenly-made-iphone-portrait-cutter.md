@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2025-01-24T18:44:34.857Z
-updated: 2025-01-29T19:00:22.781Z
+date: 2025-02-08T19:26:44.255Z
+updated: 2025-02-09T17:26:32.849Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Creating Cutouts is Easy
 
  As long as you have an iPhone XS or second-generation iPhone SE or newer, creating a cutout is so easy you’ll probably do it by mistake. You can [isolate subjects in photos](https://extra-support.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/) including people, pets, and inanimate objects like signs or clothing.
@@ -35,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To do this in the Photos app, tap on a photo to view it and then tap and hold on the subject. If you have Live Photos enabled you might need to try this a few times, since tapping and holding will also play the Live Photo. Once successful you’ll see an outline form around the edge of the subject, and “Copy” and “Share…” appear next to it.
 
 ![Isolating a subject from an image in iPhone Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1922.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -56,10 +60,6 @@ Tim Brookes / How-To Geek
 
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Create a Mood Board
 
  A mood board is a visual collage of ideas that includes images, text, and other media. Being able to easily cut out subjects from images can make the creation of a mood board fast and easy, removing the need for you to cut out anything by hand. Using the “Copy Subject” option in Safari (after long-pressing an image) means you don’t even need to save an image to your device to use it.
@@ -72,10 +72,6 @@ Tim Brookes / How-To Geek
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Create a Visual Log of Outfits and More
 
  This was an idea I saw [shared by TikTok user](https://www.tiktok.com/@macaulay%5Fflower/video/7142962238343630126) macaulay\_flower and it’s a stroke of genius. By taking a full-body selfie, you can create a visual log of outfits that can be easily stored in Apple Notes. Each time you come up with a new look, take another image, copy the subject, and paste it into your note.
@@ -84,6 +80,10 @@ Tim Brookes / How-To Geek
 
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Them in Instagram Stories
 
  Once you’ve copied a subject to your clipboard, using it in an Instagram story is easy if you know how. Once you’ve got your background sorted, you can tap anywhere within the frame to add text. Tap again to reveal the “Paste” option and use it to add a subject from your clipboard to your story.
@@ -91,12 +91,16 @@ Tim Brookes / How-To Geek
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Highlight the Subject in Almost Any App
 
@@ -105,10 +109,6 @@ Tim Brookes / How-To Geek
  For example, you can paste a subject directly into an email and effectively get rid of the background. This can help emphasize the subject and remove untidy or distracting elements from your image. You can also paste your cutouts into the Notes app, a Slack chat, or anywhere [on your Mac using Universal Clipboard](https://extra-approaches.techidaily.com/new-is-picku-the-pinnacle-of-editing-excellence-on-android-devices/).
 
  On top of this, you can “Share” to Reminders if you want a visual representation of the item, book cover, person, and so on. You can also paste or “Share” into a Messages conversation, skipping the process of turning your image into a sticker before using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Them in Memes, Posters, and Creative Projects
 
@@ -153,21 +153,24 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-transform-your-editing-master-the-fade-effect/"><u>[New] 2024 Approved Transform Your Editing Master the Fade Effect</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-15-timeless-classics-in-stop-motion-cinema-history/"><u>[New] In 2024, Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-essentials-of-choosing-a-drone-vibration-controller/"><u>[Updated] 2024 Approved Essentials of Choosing a Drone Vibration Controller</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-exploring-best-digital-voice-change-options-for-vtubers/"><u>[Updated] Exploring Best Digital Voice Change Options for VTubers</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1728478306931-windows-11/"><u>無損資料保留：Windows 11 下的克隆導向操作指南</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Boost Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cinematic-dialogues-writing-the-movies-soul-for-2024/"><u>Cinematic Dialogues Writing the Movie's Soul for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-repairing-your-micro-sd-card-and-retrieving-lost-files/"><u>Step-by-Step Guide: Repairing Your Micro SD Card & Retrieving Lost Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-unbeatable-5-cloud-backup-options-you-need-on-your-radar-now/"><u>The Unbeatable 5 Cloud Backup Options You Need on Your Radar Now</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-simple-fixes-to-revive-a-nonfunctional-external-storage-device/"><u>Top 10 Simple Fixes to Revive a Nonfunctional External Storage Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-essential-cloud-storage-solutions-dont-skip-these/"><u>Top 5 Essential Cloud Storage Solutions: Don't Skip These</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-when-you-encounter-a-missing-user32dll-file/"><u>Troubleshooting Tips for When You Encounter a Missing User32.dll File</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-3-methods-to-correct-invalid-disk-issues-and-secure-your-data/"><u>Ultimate Guide: Top 3 Methods to Correct Invalid Disk Issues & Secure Your Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-reformat-your-secured-sd-card-for-use-on-windows-mac-os-android-phones-and-digital-cameras/"><u>Ultimate Tutorial: How To Reformat Your Secured SD Card for Use on Windows, Mac OS, Android Phones and Digital Cameras</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-secured-sd-cards-a-step-by-step-guide-and-data-recovery-techniques/"><u>Unlocking Secured SD Cards: A Step-by-Step Guide & Data Recovery Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-your-guide-to-flawless-solo-livestreaming-operations-for-2024/"><u>[New] Your Guide to Flawless, Solo Livestreaming Operations for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-decoding-youtubes-revenue-model-for-video-clips/"><u>[Updated] 2024 Approved Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-dissecting-splitcams-stand-in-video-technology/"><u>[Updated] Dissecting SplitCam's Stand in Video Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-with-film-color-grading-these-7/"><u>2024 Approved Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-f23-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo F23 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-12-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus 12 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-x50-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor X50 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>In 2024, Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-common-issues-with-the-cash-app-a-step-by-step-guide-for-quick-recovery/"><u>Resolving Common Issues with the Cash App: A Step-by-Step Guide for Quick Recovery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rethink-your-charge-understanding-the-truth-about-larger-phone-batteries/"><u>Rethink Your Charge: Understanding the Truth About Larger Phone Batteries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/review-of-the-twelve-south-butterfly-dual-function-power-bank-with-magsafe-perfect-for-on-the-go-charging/"><u>Review of the Twelve South Butterfly Dual-Function Power Bank with MagSafe - Perfect for On-the-Go Charging</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-overcoming-limited-access-when-sos-is-displayed-on-the-status-bar/"><u>Reviving Your iPhone: Overcoming Limited Access when SOS Is Displayed on the Status Bar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionary-voice-how-your-iphone-communicates-as-powerfully-as-apples-first-macintosh/"><u>Revolutionary Voice: How Your iPhone Communicates as Powerfully as Apple's First Macintosh</u></a></li>
+<li><a href="https://os-tips.techidaily.com/say-goodbye-to-car-induced-discomfort-with-iphones-latest-ios-18-update-for-a-smoother-ride-experience/"><u>Say Goodbye to Car-Induced Discomfort with iPhone's Latest iOS 18 Update for a Smoother Ride Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-phone-easily-how-to-modify-iphone-password-settings/"><u>Secure Your Phone Easily: How to Modify iPhone Password Settings</u></a></li>
+<li><a href="https://os-tips.techidaily.com/slow-charge-on-your-iphone-discover-why-and-how-to-fix-it/"><u>Slow Charge on Your iPhone? Discover Why and How to Fix It!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-iphones-ios-updating-issues-top-11-solutions/"><u>Solving Your iPhones iOS Updating Issues: Top 11 Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamlining-security-effortless-removal-of-2fa-notifications-from-ios-devices/"><u>Streamlining Security: Effortless Removal of 2FA Notifications From iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-a2plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi A2+ Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

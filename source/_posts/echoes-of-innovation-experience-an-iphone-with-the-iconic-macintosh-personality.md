@@ -1,7 +1,7 @@
 ---
 title: "Echoes of Innovation: Experience an iPhone with the Iconic Macintosh Personality"
-date: 2025-01-14T18:16:53.038Z
-updated: 2025-01-22T02:42:49.760Z
+date: 2025-02-05T02:21:02.015Z
+updated: 2025-02-10T03:04:42.584Z
 tags:
   - ios
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,20 +64,24 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-superior-green-tech-in-video-production-for-2024/"><u>[New] Superior Green Tech in Video Production for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-3-ways-to-record-lectures-on-mac/"><u>[Updated] 3 Ways to Record Lectures on Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-easy-steps-for-logging-vimeo-media-for-2024/"><u>[Updated] Easy Steps for Logging Vimeo Media for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/avoid-losing-important-files-comprehensive-guide-on-android-to-mac-backup/"><u>Avoid Losing Important Files: Comprehensive Guide on Android-to-Mac Backup</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/carousel-of-charms-a-romantic-italian-dialogue/"><u>Carousel of Charms: A Romantic Italian Dialogue</u></a></li>
-<li><a href="https://media-tips.techidaily.com/everything-you-need-to-know-about-tiff-files-explained/"><u>Everything You Need to Know About TIFF Files Explained</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-huawei-p60-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Huawei P60?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-layering-youtube-vibes-on-video-canvases/"><u>In 2024, Layering YouTube Vibes on Video Canvases</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>In 2024, The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/securely-transfer-android-phone-data-to-pc-using-the-helium-application-without-needing-root-access/"><u>Securely Transfer Android Phone Data to PC Using the Helium Application Without Needing Root Access</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-strategies-for-transferring-motorola-information-pc-cloud-and-device-options/"><u>Simple Strategies for Transferring Motorola Information: PC, Cloud & Device Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-moving-pictures-onto-a-computer-using-android-and-ios-devices/"><u>Step-by-Step Guide: Moving Pictures Onto a Computer Using Android and iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-and-securing-your-information-from-a-cracked-android-device/"><u>Step-by-Step Guide: Retrieving and Securing Your Information From a Cracked Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-strategies-for-accessing-information-in-your-ios-and-android-backup-files/"><u>Step-by-Step Strategies for Accessing Information in Your iOS & Android Backup Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-top-10-android-cleaner-apps-to-enhance-your-devices-efficiency/"><u>The Ultimate List of Top 10 Android Cleaner Apps to Enhance Your Device's Efficiency</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-record-audio-from-youtube-for-2024/"><u>[New] How to Record Audio From YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-chromebook-webcam-usage-recording-made-easy/"><u>[Updated] Chromebook Webcam Usage Recording Made Easy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-exploration-of-vsco-image-processing-for-2024/"><u>Comprehensive Exploration of VSCO Image Processing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/critical-update-eliminating-the-launch-error-in-fortnites-latest-patch-ls-0013/"><u>Critical Update: Eliminating the Launch Error in Fortnite's Latest Patch LS-0013</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>In 2024, The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/insider-tips-and-tricks-eliminating-performance-lags-on-naraka-bladestorm-platform/"><u>Insider Tips and Tricks: Eliminating Performance Lags on Naraka Bladestorm Platform</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782576-9781594778629-the-diloggun/"><u>The Diloggún | Free Book</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-solutions-restoring-sound-during-calls-on-your-ios-and-android-devices/"><u>Troubleshooting Solutions: Restoring Sound During Calls on Your iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-tackle-and-prevent-rapid-apple-watch-power-depletion/"><u>Ultimate Guide: How to Tackle and Prevent Rapid Apple Watch Power Depletion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-must-have-magsafe-attachments-for-iphones-2023-edition/"><u>Ultimate Guide: Must-Have MagSafe Attachments for iPhones - 2023 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-elite-iphone-15-skins-and-shells/"><u>Ultimate Selection: Elite iPhone 15 Skins & Shells</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unbeatable-deal-apples-m1-ipad-air-at-its-all-time-low-price/"><u>Unbeatable Deal: Apple's M1 iPad Air at Its All-Time Low Price</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unexpected-art-projects-with-your-mistakenly-made-iphone-portrait-cutter/"><u>Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-iphones-using-voice-recognition-is-it-safe-and-worth-trying/"><u>Unlocking iPhones Using Voice Recognition: Is It Safe and Worth Trying?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-adobes-leap-into-future-with-generative-artificial-intelligence-in-express-app-beta-version/"><u>Unveiling Adobe's Leap Into Future with Generative Artificial Intelligence in Express App Beta Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-windows-system-with-amd-gpu-software/"><u>Upgrade Windows System with AMD GPU Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-dont-movie-villains-ever-utilize-modern-tech-like-iphones-on-screen/"><u>Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?</u></a></li>
 </ul></div>
 

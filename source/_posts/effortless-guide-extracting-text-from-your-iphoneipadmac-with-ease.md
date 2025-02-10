@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease"
-date: 2025-01-15T18:20:32.600Z
-updated: 2025-01-22T03:54:44.907Z
+date: 2025-02-03T23:38:12.303Z
+updated: 2025-02-09T20:10:45.094Z
 tags:
   - ios
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ## Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Copy Any Text on iPhone or iPad](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-c22-drfone-by-drfone-virtual-android/)
@@ -23,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 * [More Useful iPhone Tricks](https://some-approaches.techidaily.com/updated-preserving-audio-broadcasts-a-simple-internet-radio-technique/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 !['Show Text' icon on a screenshot in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show_text_icon.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap on this and the text in the image should immediately be highlighted. You can now select this text as you would any other, by tapping and holding your finger until the text selection tool appears. Drag the start and end points where you want them, or hit “Select All” to grab everything.
 
  You can now use “Copy” to copy that text to the clipboard. Now open Notes, an email or Messages conversation, or a text document of your choice and paste the text by tapping and holding then selecting “Paste” from the context menu.
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  This also works using videos as long as you pause the video on the text that you want to copy. Now repeat the process using the “Show Text” icon and select what you want to copy.
 
  This trick also works in Safari, just tap and hold an image then choose “Show Text” first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Copy Any Text on Mac
 
@@ -65,10 +61,14 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ![Selectable text on a sign in Safari browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-06-at-15-39-00.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why This Is So Useful
 
@@ -78,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 ![Selecting the text on a keyring using a photo in Apple Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select_text_photo.png) 
 
- If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
 
 ##  More Useful iPhone Tricks
 
@@ -105,20 +105,14 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-capture-calls-iphones-vision/"><u>[New] Capture Calls IPhone's Vision</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-photoshop-path-to-painting-perfect-colors/"><u>[New] Photoshop Path to Painting-Perfect Colors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-crafting-unique-content-to-differentiate-your-channel/"><u>[Updated] Crafting Unique Content to Differentiate Your Channel</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-ultimate-compilation-best-6-fb-lite-extractors/"><u>[Updated] In 2024, Ultimate Compilation Best 6 FB Lite Extractors</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-navigating-windows-10s-audio-settings-for-2024/"><u>[Updated] Navigating Windows 10'S Audio Settings for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-a-content-schedule-the-path-to-gaining-traction-on-youtube/"><u>Crafting a Content Schedule The Path to Gaining Traction on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-access-controls-for-standard-windows-users/"><u>Customizing Access Controls for Standard Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/from-lost-to-found-reinstating-deleted-files-on-pcs/"><u>From Lost to Found: Reinstating Deleted Files on PCs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-retrieving-your-location-history-from-an-iphone-or-ipad/"><u>Guide: Retrieving Your Location History From an iPhone or iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-use-your-airpods-pro-a-detailed-walkthrough-of-device-management-innovative-capabilities-and-intuitive-hand-gestures/"><u>How To Use Your AirPods Pro: A Detailed Walkthrough of Device Management, Innovative Capabilities, and Intuitive Hand Gestures</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ideal-iphone-workout-tools-achieve-peak-physical-form-by-summers-end/"><u>Ideal iPhone Workout Tools - Achieve Peak Physical Form by Summer's End</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-the-latest-apple-programs-seamless-replacement-for-itunes-on-windows-systems/"><u>Introducing the Latest Apple Programs: Seamless Replacement for iTunes on Windows Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/leading-iphone-weather-tools-the-ultimate-selection-for-mobile-forecast-enthusiasts/"><u>Leading iPhone Weather Tools: The Ultimate Selection for Mobile Forecast Enthusiasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-mindfulness-bid-farewell-to-incessant-notifications-with-these-4-strategies/"><u>Mastering Mobile Mindfulness: Bid Farewell to Incessant Notifications with These 4 Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-your-health-top-6-strategies-for-leveraging-a-fitness-tracker/"><u>Maximize Your Health: Top 6 Strategies for Leveraging a Fitness Tracker</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-tools-top-8-mirrorless-cams-for-professional-filmmakers-for-2024/"><u>[New] Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-building-a-brand-through-youtube-a-strategic-guide/"><u>2024 Approved Building a Brand Through YouTube A Strategic Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-mobvoi-ticwatch-pro-with-4g-connectivity-your-go-to-smartwatch-alternative/"><u>Comprehensive Evaluation of Mobvoi Ticwatch Pro with 4G Connectivity – Your Go-To Smartwatch Alternative</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-disable-auto-updates-in-windows-permanently/"><u>Comprehensive Guide: How to Disable Auto Updates in Windows Permanently</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-to-securely-rebooting-windows-and-macos-computers-without-losing-information/"><u>Guide to Securely Rebooting Windows & macOS Computers Without Losing Information</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-access-encrypted-sd-memory-cards-and-retrieve-your-lost-data-successfully/"><u>How To Access Encrypted SD Memory Cards & Retrieve Your Lost Data Successfully</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-xiaomi-redmi-13c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi 13C Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620260555-stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside</u></a></li>
 </ul></div>
 

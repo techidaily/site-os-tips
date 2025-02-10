@@ -1,7 +1,7 @@
 ---
 title: "How to Mount Your iPhone or iPad as External Storage on Mac: A Step-by-Step Guide"
-date: 2025-01-24T18:38:02.603Z
-updated: 2025-01-29T18:17:58.014Z
+date: 2025-02-08T22:33:16.522Z
+updated: 2025-02-09T16:00:53.145Z
 tags:
   - iphone-manager
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 Different from most mobile backup apps for Mac, [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/) can turn your iPhone/iPad into a USB flash drive. Thus, with your iOS device as the go-between, you can transfer all types of documents in any formats, including PPTs, PDFs, Excels, Words and folders from your Mac to another computer later, without the need of iTunes, Wi-Fi or any related apps to access the files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Store Files from a Computer to iPad/iPad Flash Drive
 
 In DearMob iPhone Manager,In DearMob, your iPhone or iPad can become a USB drive. Any types of files, including PPT, PDF, HTML, DOC, Word, Page can be stored to your iOS device. iPhone 5S - iPhone 14 (Pro Max), iPad Pro, iPad Air and iPad mini are supported.
@@ -31,26 +35,22 @@ In DearMob iPhone Manager,In DearMob, your iPhone or iPad can become a USB drive
 ![Open DearmMob Flash Drive module](https://www.5kplayer.com/user-guide/images/userguide-how/flash-drive-dearmob.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Add any files from your computer by browsing and opening or directly dragging. 
 
 ![Add Any Files to iPhone Hard Drive](https://www.5kplayer.com/user-guide/images/userguide-how/add-files-from-mac-to-iphone.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * You can add folders by clicking **Add Folder** on the drop-down list of +Add File.
 * You can drag the file or folder directly to add.
 * You can create a new folder by clicking **+New Folder**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Export Files from iPhone/iPad Flash Drive to Computer
 
@@ -64,15 +64,11 @@ In DearMob, the files you've stored on your iOS device through the Flash Drive f
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * In this section, you can export files that were added to your iPhone via the Flash Drive feature in DearMob iPhone Manager.
 * While for other files stored in iPhone storage, you can find them in other features in the main UI, such as Photo Transfer, Music Manager, Video & Video, Files, Podcast, Book, etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify or Delete Files on iPhone/iPad Flash Drive
@@ -88,6 +84,10 @@ Through DearMob, the added files can be renamed or deleted.
 ![Export Files from iPhone USB Drive to Mac](https://www.5kplayer.com/user-guide/images/userguide-how/edit-file-name-usb-device-mac.jpg) 
 
 ## Frequently Asked Questions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How can I use my iPhone as a USB without iTunes?
 
@@ -112,18 +112,21 @@ After connecting your iPhone to your Mac, you can see your iPhone on Finder. Dif
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-the-secrets-of-flawless-video-calls-screen-sharing/"><u>[New] In 2024, Unlocking the Secrets of Flawless Video Calls (Screen Sharing)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastering-twitter-videos-adhere-to-aspect-ratio-rules-for-2024/"><u>[New] Mastering Twitter Videos Adhere to Aspect Ratio Rules for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unravel-the-mystery-of-the-overly-green-hue-in-mac-recordings-for-2024/"><u>[Updated] Unravel the Mystery of the Overly Green Hue in Mac Recordings for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-restoring-your-apple-airpods-pros-max-pair/"><u>A Step-by-Step Guide to Restoring Your Apple AirPods / Pros / Max Pair</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ai-mastery-crafting-innovative-background-scenes-for-instagram-narratives-using-machine-learning-techniques/"><u>AI Mastery: Crafting Innovative Background Scenes for Instagram Narratives Using Machine Learning Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-latest-innovation-the-significant-improvements-of-the-apple-pencil-pro/"><u>Apple's Latest Innovation: The Significant Improvements of the Apple Pencil Pro</u></a></li>
-<li><a href="https://os-tips.techidaily.com/are-digital-wallets-like-apple-pay-or-google-pay-a-greater-security-upgrade-over-standard-credit-cards/"><u>Are Digital Wallets Like Apple Pay or Google Pay a Greater Security Upgrade over Standard Credit Cards?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/assessing-the-apple-iphone-15-perfectly-adequate/"><u>Assessing the Apple iPhone 15: Perfectly Adequate</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decode-408-timeout-a-guide-to-recognizing-and-resolving-this-http-status-code/"><u>Decode '408 Timeout': A Guide to Recognizing & Resolving This HTTP Status Code</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-overcome-iphone-synchronization-issues-with-itunes-error-code-54-after-upgrading-to-windows-10/"><u>How to Overcome iPhone Synchronization Issues with iTunes Error Code '-54' After Upgrading to Windows 10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-best-software-bundles-for-animation-modelers/"><u>In 2024, Best Software Bundles for Animation Modelers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/peakpixel-optimizer-windows-mac-and-online-for-2024/"><u>PeakPixel Optimizer Windows, Mac & Online for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-updated-dell-v3ebit-inc-xps-305-all-in-one-printer-driver-for-windows-7-operating-system/"><u>Step-by-Step Guide: Installing Updated Dell V3ebit, Inc. XPS 305 All-in-One Printer Driver for Windows 7 Operating System</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unmatched-melodies-selector-android-companion/"><u>[New] In 2024, Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-selecting-the-best-ten-spotify-recording-software/"><u>[Updated] In 2024, Selecting the Best Ten Spotify Recording Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-diversifying-audience-across-30plus-online-venues/"><u>2024 Approved Diversifying Audience Across 30+ Online Venues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-pro-industry-impact-and-distinct-advantages/"><u>ChatGPT Pro: Industry Impact & Distinct Advantages</u></a></li>
+<li><a href="https://win-latest.techidaily.com/complete-step-by-step-process-on-moving-your-favorite-spotify-tunes-to-apple-music/"><u>Complete Step-by-Step Process on Moving Your Favorite Spotify Tunes to Apple Music</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11s-undisclosed-interface-features/"><u>Decoding Windows 11'S Undisclosed Interface Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-remove-whatsapp-cache-from-your-iphone-with-these-3-quick-tips/"><u>Effortlessly Remove WhatsApp Cache From Your iPhone with These 3 Quick Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/erase-or-hide-a-skype-contact-forever-a-fast-2-step-guide-for-iphone-users/"><u>Erase or Hide a Skype Contact Forever: A Fast 2-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-boost-your-ipads-speed-diagnosing-issues-and-implementing-effective-remedies/"><u>How to Boost Your iPad's Speed: Diagnosing Issues & Implementing Effective Remedies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-completeblock-instagram-search-records-from-iphone-devices-forever/"><u>How to Completeblock Instagram Search Records From iPhone Devices Forever</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-completely-erase-your-apple-map-activity-from-iphone/"><u>How to Completely Erase Your Apple Map Activity From iPhone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-guide-to-choosing-your-mp4-player-for-2024/"><u>Master Guide to Choosing Your MP4 Player for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/nahravani-foto-aplikace-s-pozivatelnou-podporou-ve-windows-10/"><u>Nahrávání Foto Aplikace S Poživatelnou Podporou Ve Windows 10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-iphone-and-ipad-downloading-messages-issue/"><u>Solve iPhone & iPad Downloading Messages Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-freeing-your-device-from-the-icloud-activation-restriction/"><u>Step-by-Step Guide: Freeing Your Device From the iCloud Activation Restriction</u></a></li>
 </ul></div>
 

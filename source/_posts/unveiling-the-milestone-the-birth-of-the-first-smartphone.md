@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Milestone: The Birth of the First Smartphone"
-date: 2025-01-24T16:16:55.625Z
-updated: 2025-01-29T16:30:18.093Z
+date: 2025-02-02T18:43:55.727Z
+updated: 2025-02-10T03:53:25.396Z
 tags:
   - ios
 categories:
@@ -12,13 +12,17 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ## Unveiling the Milestone: The Birth of the First Smartphone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [The First Mobile Phone](https://mondly-stories.techidaily.com/from-monday-to-sunday-in-korea-your-simplified-guide/)
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
@@ -48,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/ibm-simon)
 
@@ -88,20 +88,17 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[New] 2024 Approved Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-capture-and-share-best-social-media-tools-of-the-year-for-2024/"><u>[New] Capture and Share Best Social Media Tools of the Year for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-immaculate-image-freezing-your-desktop-view-for-2024/"><u>[New] Immaculate Image Freezing Your Desktop View for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-5-tips-for-influencer-program-on-instagram-with-examples/"><u>[New] In 2024, 5 Tips for Influencer Program on Instagram with Examples</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-create-insta-highlight-cover-photos-a-complete-guide/"><u>[Updated] 2024 Approved How to Create Insta Highlight Cover Photos A Complete Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/apple-homepod-mini-unveiled-expert-review-on-its-superior-sound-smart-voice-assistant-and-extra-features/"><u>Apple HomePod Mini Unveiled: Expert Review on Its Superior Sound, Smart Voice Assistant, & Extra Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620255487-comprehensive-tutorial-on-jailbreaking-various-sprint-iphones-from-se-to-7-enhance-your-phones-capabilities/"><u>Comprehensive Tutorial on Jailbreaking Various Sprint iPhones From SE to 7 - Enhance Your Phone's Capabilities</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gigglegrid-create-social-media-laughs-in-seconds-for-2024/"><u>GiggleGrid Create Social Media Laughs in Seconds for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/glitch-repeat-revolutionize-top-video-editing-apps-for-ios-and-android-for-2024/"><u>Glitch, Repeat, Revolutionize Top Video Editing Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/immediate-access-to-superior-iphone-care-with-our-premium-stellar-eraser/"><u>Immediate Access to Superior iPhone Care with Our Premium Stellar Eraser</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-18-troubleshooting-solving-iphones-sound-issues-step-by-step/"><u>IOS 18 Troubleshooting: Solving iPhone's Sound Issues Step-by-Step</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-your-iphones-personal-hotspot-issues-step-by-step-troubleshooting-guide/"><u>Solving Your iPhone's Personal Hotspot Issues: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-activating-recovery-options-on-ios-android-devices-and-pcs/"><u>Step-by-Step Guide: Activating Recovery Options on iOS, Android Devices & PCs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-24-issues-with-the-iphone-6-comprehensive-troubleshooting-guide/"><u>Top 24 Issues with the iPhone 6: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-troubleshooting-tips-for-repairing-a-persistent-snapchat-error-on-iphones-and-android-devices/"><u>Top 6 Troubleshooting Tips for Repairing a Persistent Snapchat Error on iPhones and Android Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-macos-converters-top-5-picklist/"><u>[New] Excellent macOS Converters Top 5 Picklist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-your-desktop-on-windows-3-ways-free-for-2024/"><u>[Updated] Capture Your Desktop on Windows, 3 Ways, Free for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-customizing-your-apple-watchs-activity-log-with-offline-workouts/"><u>Expert Tips: Customizing Your Apple Watch's Activity Log with Offline Workouts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-enhanced-privacy-features-in-the-latest-update-of-google-maps-for-ios-and-android-devices/"><u>Explore Enhanced Privacy Features in the Latest Update of Google Maps for iOS & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-access-to-apple-developer-beta-versions-risky-move-or-great-opportunity/"><u>Free Access to Apple Developer Beta Versions: Risky Move or Great Opportunity?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-upcoming-iphone-tap-to-pay-functionality-through-external-app-developers/"><u>Get Ready! Upcoming iPhone Tap-to-Pay Functionality Through External App Developers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-does-the-iphone-handle-urgent-alerts-and-reminders/"><u>How Does the iPhone Handle Urgent Alerts and Reminders?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-vivo-y17s-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y17s Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-ig-upgrade-starts-here-top-tools-for-follower-growth/"><u>In 2024, IG Upgrade Starts Here Top Tools for Follower Growth</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722989501539-quick-fixes-resolve-your-league-of-legends-crash-issues-instantly/"><u>Quick Fixes: Resolve Your League of Legends Crash Issues Instantly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/secrets-to-successful-mov-file-recording-in-windows-10/"><u>Secrets to Successful MOV File Recording in Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-features-and-reviews/"><u>Top Rated Portable Solar Power Banks - Features and Reviews</u></a></li>
 </ul></div>
 

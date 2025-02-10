@@ -1,7 +1,7 @@
 ---
 title: Guide to Creating and Adding Interactive Buttons on iOS Devices
-date: 2025-01-16T16:34:14.223Z
-updated: 2025-01-22T00:13:37.716Z
+date: 2025-02-06T02:53:04.638Z
+updated: 2025-02-09T19:39:07.356Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Guide to Creating and Adding Interactive Buttons on iOS Devices
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  There are two Accessibility features we can take advantage of to add an extra "button" to your iPhone. The first method requires the screen to be on, but the second method does not. Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Make a Virtual "Action Button"
 
  Using the iPhone's "[AssitiveTouch](https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/)" feature, we can create a virtual floating button that you can move around the screen. First, open the "Settings" app.
@@ -32,19 +32,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Open the "Settings" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0369.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, go to the "Accessibility" settings and select "Touch."
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go to "Assistive Touch" and toggle it on at the top of the screen.
 
 ![Toggle on "Assistive Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-21_16-49-36.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A floating button will appear on the screen. By default, this button opens a menu that can contain up to eight different shortcuts. Tap "Customize Top Level Menu."
@@ -54,10 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Select one of the shortcuts and replace it with one of the available actions. Do this for as many of the slots as you'd like.
 
 ![Select a shortcut and an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0375.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, when you open the menu, you'll have quick access to the actions you selected.
 
@@ -75,6 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down to "Back Tap."
 
 ![Select "Back Tap."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0379.PNG) 
@@ -88,7 +92,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Choose an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0381.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all there is to it! This is the best way to get a "physical" Action Button on an iPhone that doesn't have one. You still can launch the actions without the screen needing to be on.
@@ -96,10 +100,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ##  Dimple Buttons
 
 ![dimple.io buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/dimpleio.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Unbox Therapy](https://youtu.be/6Mp01eg0-ZM)
 
@@ -124,18 +124,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-methods-to-convert-instagram-video-to-mp3-for-2024/"><u>[Updated] Methods to Convert Instagram Video to Mp3 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-novice-necessities-the-ultimate-beginners-video-editor/"><u>2024 Approved Novice Necessities The Ultimate Beginner's Video Editor</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-best-8-text-retrieval-solutions-leading-apps-to-recover-deleted-messages-on-ios-and-android-systems/"><u>Discover the Best 8 Text Retrieval Solutions: Leading Apps to Recover Deleted Messages on iOS & Android Systems</u></a></li>
-<li><a href="https://win-web.techidaily.com/guidelines-on-how-to-save-sys-speaker-volume-without-spending-a-penny/"><u>Guidelines on How to Save Sys Speaker Volume without Spending a Penny</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-deleted-images-post-ios-update-a-guide-for-iphone-users/"><u>Recovering Deleted Images Post-iOS Update: A Guide for iPhone Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rediscover-your-digital-footprints-expert-techniques-for-retrieving-erased-ipad-records/"><u>Rediscover Your Digital Footprints: Expert Techniques for Retrieving Erased iPad Records</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-deleted-iphone-notes-a-step-by-step-guide/"><u>Restore Deleted iPhone Notes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-lost-applications-a-guide-to-using-icloud-for-restoration/"><u>Reviving Lost Applications: A Guide to Using iCloud for Restoration</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-c53-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme C53 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-iphone-guide-for-shooting-hdr-photos/"><u>The Ultimate iPhone Guide for Shooting HDR Photos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-5-best-free-wmv-video-splitters/"><u>Updated In 2024, Top 5 Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-video-mastery-seizing-the-seo-opportunity-for-2024/"><u>[New] YouTube Video Mastery Seizing the SEO Opportunity for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-turn-your-youtube-tracks-into-mp3-with-macos/"><u>[Updated] In 2024, Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-star-studded-stories-the-ultimate-guide-to-3-instagram-highlights/"><u>[Updated] Star-Studded Stories The Ultimate Guide to 3 Instagram Highlights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-how-to-move-images-from-an-iphone-to-a-windows-pc-a-step-by-step-deermoon-tutorial/"><u>1. How to Move Images From an iPhone to a Windows PC: A Step-by-Step DeerMoon Tutorial</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-videography-with-top-seo-gadgets/"><u>2024 Approved Elevate Your Videography with Top SEO Gadgets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-review-magix-editing-suite/"><u>2024 Approved Review MAGIX Editing Suite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-lag-expert-tips-for-smooth-play-in-outriders-on-your-computer/"><u>Banish Lag: Expert Tips for Smooth Play in Outriders on Your Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypass-drm-restrictions-for-itunes-purchases-with-dearmobs-comprehensive-guide/"><u>Bypass DRM Restrictions for iTunes Purchases with DearMob's Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-transferring-e-books-seamlessly-from-iphone-to-mac-with-dearmob/"><u>Comprehensive Guide: Transferring E-Books Seamlessly From iPhone to Mac with DearMob</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-step-by-step-tutorial-on-shifting-library-content-between-iphone-and-mac-using-dearmob-app/"><u>Easy Step-by-Step Tutorial on Shifting Library Content Between iPhone & Mac Using DearMob App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficiently-utilizing-swift-transfer-options-in-your-dearmob-iphone-app-a-comprehensive-guide/"><u>Efficiently Utilizing Swift Transfer Options in Your DearMob iPhone App: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-image-transfer-for-iphone-and-mac-users-comprehensive-tutorial-by-dearmob-experts/"><u>Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor 90 Lite?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-move-your-tunes-iphone-and-mac-transfer-guide-by-dearmob/"><u>How to Seamlessly Move Your Tunes: IPhone & Mac Transfer Guide by DearMob</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-sync-images-from-your-iphone-to-a-mac-a-step-by-step-dearmob-guide/"><u>How to Seamlessly Sync Images From Your iPhone to a Mac: A Step-by-Step DearMob Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-the-gap-understanding-and-using-slug-lines/"><u>In 2024, Bridging the Gap Understanding & Using Slug Lines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-x7b-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor X7b To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-management-with-dearmob-effortless-transfer-of-your-icloud-photos-and-videos-to-computer-or-mac/"><u>IPhone Management with DearMob: Effortless Transfer of Your iCloud Photos and Videos to Computer or Mac</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/your-roadmap-to-earning-on-tiktok-discover-these-top-8-approaches/"><u>Your Roadmap to Earning on TikTok Discover These Top 8 Approaches</u></a></li>
 </ul></div>
 

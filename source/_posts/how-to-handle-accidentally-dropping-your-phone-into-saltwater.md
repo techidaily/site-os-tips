@@ -1,7 +1,7 @@
 ---
 title: How to Handle Accidentally Dropping Your Phone Into Saltwater
-date: 2025-01-19T02:07:30.771Z
-updated: 2025-01-21T16:53:16.989Z
+date: 2025-02-05T19:36:43.849Z
+updated: 2025-02-09T19:53:31.548Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## How to Handle Accidentally Dropping Your Phone Into Saltwater
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  You're having a great day at the beach or on the ocean, but your fingers slip, and splash! Down goes your smartphone into the briny deep---or hopefully, just into a few inches of salt water. Either scenario can be devastating, so here's what you should do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  First, Try to Find It
@@ -39,6 +35,10 @@ Related: [What To Do If You Lose Your Two-Factor Phone](https://hardware-reviews
 
  If you have [AppleCare+ with Theft and Loss](https://support.apple.com/iphone/theft-loss-claims), you can file a claim for a lost iPhone---as long as you had "Find My" enabled on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Turn It Off, Dry Phone as Much as You Can
 
  Once your phone is out of the water, [power it off](https://facebook-videos.techidaily.com/new-elevate-engagement-escalate-ranks-on-fb-pages/) completely. Use a clean towel to dry the phone off as much as possible. If possible, remove the SIM card tray, any memory card trays, and the battery if it is not built into the phone. If it's in a case that is not waterproof, remove the case as well.
@@ -50,7 +50,7 @@ Related: [Stop Putting Your Phone in Rice](https://sim-unlock.techidaily.com/eas
  If your phone isn't water resistant, you may have heard that placing your smartphone in rice will help dry it out, but that's [just a myth](https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/). Rice will do nothing, and leaving it sitting there will give the saltwater stuck inside the phone body extra time to corrode the electronics. If you ever want to use the phone again, you're in a [race against time](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) to disassemble the phone and clean it out before corrosion permanently damages the internal circuitry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If Possible, Take the Phone Apart
@@ -64,7 +64,7 @@ Related: [How Water Damages Electronics](https://blog-min.techidaily.com/5-ways-
 Related: [How to Back Up Your iPhone With iTunes (and When You Should)](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Otherwise, Take it to a Professional
@@ -75,10 +75,6 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
 
  If they aren't willing to work on it right away and the phone is very important, take the phone somewhere else. If you have an iPhone, you could consider [getting an appointment](https://facebook-clips.techidaily.com/new-2024-approved-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/) at an Apple store, for example.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  An Ounce of Prevention
 
  Supposedly, Benjamin Franklin once [said](https://www.dictionary.com/browse/an-ounce-of-prevention-is-worth-a-pound-of-cure), "An ounce of prevention is worth a pound of cure." That means if you take small steps to prevent trouble before it happens, you can save yourself from a much bigger crisis later.
@@ -86,6 +82,10 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
  In this case, your ounce of prevention might be leaving your smartphone on dry land when you're near the water. But barring that, you could also place your smartphone in a waterproof case or [dry bag](https://www.amazon.com/MARCHWAY-Floating-Waterproof-Kayaking-Swimming/dp/B07SR1MDJM?tag=hotoge-20&ascsubtag=UUhtgUeUpU205513&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F813097%2Fwhat-to-do-if-you-drop-your-smartphone-in-the-ocean%2F&asc%5Fcampaign=Short-Term) before going anywhere near the ocean.
 
 ![41uKdhSztZL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41ukdhsztzl-_sl500_-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  JOTO Universal Waterproof Phone Pouch 
 
@@ -112,17 +112,18 @@ Inexpensive insurance against water exposure for a smartphone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-elite-sound-collection-top-10-for-spotify-audiophiles-for-2024/"><u>[Updated] Elite Sound Collection Top 10 for Spotify Audiophiles for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-techniques-for-google-meet-coordination/"><u>[Updated] Step-by-Step Techniques for Google Meet Coordination</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-art-of-perfect-thumbnails-sizing-and-proportions-mastered/"><u>2024 Approved The Art of Perfect Thumbnails Sizing & Proportions Mastered</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-common-pitfalls-in-game-console-reimbursements/"><u>Avoiding Common Pitfalls in Game Console Reimbursements</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/creative-tims-advanced-horizon-ai-integrating-chakra-ui-and-nextjs-for-professionals/"><u>Creative Tim's Advanced Horizon AI: Integrating Chakra UI & NextJS for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-explainer-leveraging-google-docs-for-audio-to-text-conversion-for-2024/"><u>Full Explainer Leveraging Google Docs for Audio to Text Conversion for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mirroring-ios-devices-and-macs-to-an-apple-tv-a-step-by-step-guide/"><u>Mirroring iOS Devices and Macs to an Apple TV - A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/multi-app-transfer-made-easy-swiftly-moving-various-applications-simultaneously-on-your-ios-device/"><u>Multi-App Transfer Made Easy: Swiftly Moving Various Applications Simultaneously on Your iOS Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/navigating-the-murky-waters-of-game-emulation-is-it-risk-free-today-but-at-risk-tomorrow/"><u>Navigating the Murky Waters of Game Emulation: Is It Risk-Free Today but at Risk Tomorrow?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/"><u>Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-tips-insert-text-into-photos-using-your-iphone/"><u>Quick Tips: Insert Text Into Photos Using Your iPhone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-make-music-without-spending-a-dime-10-best-free-recording-software-for-2024/"><u>Updated Make Music Without Spending a Dime 10 Best Free Recording Software for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>[New] 2024 Approved Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-capture-fb-hd-footage-easily/"><u>[New] 2024 Approved Capture FB HD Footage Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>[New] 2024 Approved Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-engagement-with-dynamic-360-videos-on-facebook/"><u>[Updated] Enhancing Engagement with Dynamic 360 Videos on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-hassle-free-techniques-for-igtv-on-stories/"><u>2024 Approved Hassle-Free Techniques for IGTV on Stories</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-achieve-and-share-your-most-lengthy-instagram-videos/"><u>2024 Approved How to Achieve and Share Your Most Lengthy Instagram Videos</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comprehensive-guide-to-various-virtualization-implementation-models/"><u>Comprehensive Guide to Various Virtualization Implementation Models</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-introduction-to-basic-storytelling-constructs/"><u>In 2024, Introduction to Basic Storytelling Constructs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/minipic-snapshot-scrutiny-plus-diverse-apps/"><u>MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sim-free-iphone-setup-a-comprehensive-guide-on-how-to-turn-on-your-device/"><u>SIM-Free iPhone Setup: A Comprehensive Guide on How to Turn On Your Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-12-iphone-gimbals-and-apps-ultimate-guide-to-smooth-video-capturing/"><u>Top 12 iPhone Gimbals and Apps: Ultimate Guide to Smooth Video Capturing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-effective-methods-to-track-your-iphone-from-computer-or-mac/"><u>Top 5 Effective Methods to Track Your iPhone From Computer or Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-verizon-device-2-proven-strategies-for-any-scenario/"><u>Unlocking Your Verizon Device: 2 Proven Strategies for Any Scenario</u></a></li>
 </ul></div>
 

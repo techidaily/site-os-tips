@@ -1,7 +1,7 @@
 ---
 title: "Extracting Audio From iPhone Videos: A Step-by-Step Tutorial"
-date: 2025-01-20T01:26:42.165Z
-updated: 2025-01-21T23:25:05.348Z
+date: 2025-02-04T19:41:12.872Z
+updated: 2025-02-09T22:16:44.912Z
 tags:
   - ios
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 * [Use the Shortcut to Extract Audio From a Video File](https://extra-lessons.techidaily.com/ace-gaming-the-top-4k-tvs-on-market/)
 * [Is the Shortcut Not Visible in the Share Sheet Options?](https://win-howtos.techidaily.com/dell-laptop-keyboard-malfunction-heres-what-you-can-do/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Open the Shortcuts app, tap the "+" sign, tap on the "i" symbol, and enable "Show in Share Sheet." After that, tap on "Images and 18 more" and toggle off all options except "Media." Then, add the "Encode Media" action, make sure that "Audio Only" is enabled, and finish by adding a "Save File" action to select where to save the file.
@@ -28,15 +24,15 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  Looking to extract audio from a video file on your iPhone? You don't need to download third-party apps; the built-in Shortcuts app is all you need. Here's a quick guide on using Shortcuts to extract audio from a video file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Create a Shortcut to Extract Audio From a Video File
 
  Since we'll [use the Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to extract audio, first ensure it's installed on your iPhone. If you don't find the app on your phone, you may have deleted it. If that's the case, all you need to do is reinstall [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) from the App Store.
 
 ![Downloading the Shortcuts app from Apple Store on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-downloading-the-shortcuts-app-from-apple-store-on-iphone.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now open the app and tap the "+" icon in the top-right corner to start creating your shortcut.
 
@@ -47,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 ![Tapping on rename to rename a new shortcut in the Shortcuts app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-tapping-on-rename-to-rename-a-new-shortcut-in-the-shortcuts-app-on-an-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap on the information symbol "i" at the bottom and make sure that "Show in Share Sheet" is enabled, then tap "Done." This will cause the shortcut to appear in the Share Sheet options for easy access.
 
 ![Enabling the 'Show in Share Sheet' option for a shortcut in the Shortcuts app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-enabling-the-show-in-share-sheet-option-for-a-shortcut-in-the-shortcuts-app-on-an-iphone.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now tap on "Images and 18 more" next to "Receive" and toggle off all options except "Media," and then tap "Done." These steps will guide the shortcut to accept media as input so it won't show up in irrelevant places.
 
@@ -66,23 +66,19 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![Customizing the action created for a shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-customizing-the-action-created-for-a-shortcut-on-iphone.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, add one more action to save the extracted audio output. Tap on the search bar at the bottom, type "Save File" and select the "Save File" option that appears. After that, tap "Done" and your shortcut will be successfully created.
 
 ![Adding a 'Save File' action in the shortcut on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-adding-a-save-file-action-in-the-shortcut-on-iphone.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Shortcut to Extract Audio From a Video File
 
  Now play a video from which you want to extract audio. Tap on the share icon in the bottom-right corner of the screen and select the shortcut that you previously created from the Share Sheet options.
 
 ![Shortcut appearing in the Share Sheet options on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-shortcut-appearing-the-share-sheet-options-on-iphone.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, choose a location where you'd like to save the extracted audio and tap "Open."
 
@@ -103,11 +99,15 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 * Ensure the video file is in a format supported by the iPhone. To check that, attempt to extract audio from a different video having the same format. If the issue persists, it indicates a format problem. In that case, you should convert the video file to a format the iPhone supports before extracting audio from it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Delete the shortcut and recreate it from scratch. Open the Shortcuts app, long-tap the shortcut, and tap "Delete."  
 ![Deleting a shortcut in the Shortcuts app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-deleting-a-shortcut-in-the-shortcuts-app-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,22 +124,16 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-add-video-filters-in-zoom-for-2024/"><u>[Updated] How To Add Video Filters In Zoom for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-crafty-impostors-exposed-spotting-fabricated-followers/"><u>[Updated] In 2024, Crafty Impostors Exposed Spotting Fabricated Followers</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/analyzing-the-consequences-a-deep-dive-into-the-impact-of-the-sino-japanese-conflict-by-yl-computing/"><u>Analyzing the Consequences: A Deep Dive Into the Impact of the Sino-Japanese Conflict by YL Computing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/compatibility-guide-can-the-nintendo-switch-play-netflix-movies-and-shows/"><u>Compatibility Guide: Can the Nintendo Switch Play Netflix Movies & Shows?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-15-plus-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 15 Plus without App | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-giggle-galore-twitters-top-10-joke-threads/"><u>In 2024, Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-tricks-how-chatgpt-simplifies-daily-tasks/"><u>Top 9 Tricks: How ChatGPT Simplifies Daily Tasks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-false-identifications-in-apple-photos-for-easy-management/"><u>Troubleshoot False Identifications in Apple Photos for Easy Management</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-free-access-to-apple-devices-through-targets-exclusive-promotion/"><u>Unlock Free Access to Apple Devices Through Target's Exclusive Promotion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secret-of-eternal-iphone-charges-exclusive-tips-for-constant-low-power-usage/"><u>Unlock the Secret of Eternal iPhone Charges: Exclusive Tips for Constant Low Power Usage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-simplicity-using-assistive-features-to-convert-modern-iphones-into-fundamental-phones/"><u>Unlocking Simplicity: Using Assistive Features to Convert Modern iPhones Into Fundamental Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unmatched-value-why-you-should-consider-the-iphone-13-as-your-next-phone/"><u>Unmatched Value: Why You Should Consider the iPhone 13 as Your Next Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-top-choice-in-support-stands-a-comprehensive-review-of-kuxius-x3nova-pro-max-for-ipads/"><u>Unveiling the Top Choice in Support Stands: A Comprehensive Review of Kuxiu's X3nova Pro Max for iPads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/vision-pros-uncertain-horizon-my-apprehensions-about-the-impact-of-introducing-visionos-2/"><u>Vision Pro’s Uncertain Horizon: My Apprehensions About the Impact of Introducing visionOS 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-the-yearly-update-plan-means-for-your-windows-11-experience/"><u>What The Yearly Update Plan Means for Your Windows 11 Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-samsungs-device-network-rivalries-apple-exploring-the-strength-of-their-unique-ecosystem/"><u>Why Samsung's Device Network Rivalries Apple: Exploring the Strength of Their Unique Ecosystem</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>[Updated] 2024 Approved The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings-for-2024/"><u>[Updated] Seamless Integration of Phone & PC Timelines with Zoom Meetings for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/easy-steps-to-determine-windows-computer-memory-consumption-with-yl-software-insights/"><u>Easy Steps to Determine Windows Computer Memory Consumption with YL Software Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-iphones-latest-feature-a-step-by-step-guide-to-using-the-built-in-document-scanner/"><u>Mastering Your iPhone's Latest Feature: A Step-by-Step Guide to Using the Built-In Document Scanner</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-find-someone-elses-iphone-using-only-the-contact-details/"><u>Quick Guide: Find Someone Else's iPhone Using Only the Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stalled-ipads-displaying-apple-symbols-effective-techniques-for-resolution-and-restarting/"><u>Stalled iPads Displaying Apple Symbols: Effective Techniques for Resolution and Restarting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-inaccessible-voicemails-from-an-ios-device/"><u>Step-by-Step Guide: Clearing Inaccessible Voicemails From an iOS Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-on-configuring-and-implementing-the-android-debug-bridge-utility-adb/"><u>Step-by-Step Tutorial on Configuring & Implementing the Android Debug Bridge Utility (ADB)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-fixes-for-when-you-cant-access-your-snapchat-account/"><u>Ultimate Fixes for When You Can’t Access Your Snapchat Account</u></a></li>
 </ul></div>
 

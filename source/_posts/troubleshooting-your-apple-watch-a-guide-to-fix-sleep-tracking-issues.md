@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues"
-date: 2025-01-20T00:39:51.212Z
-updated: 2025-01-22T00:56:20.669Z
+date: 2025-02-08T21:50:36.886Z
+updated: 2025-02-09T23:46:20.611Z
 tags:
   - ios
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
  You might also want to have a look under Health > Sleep > Data Sources & Access to make sure your Apple Watch is listed as a data source. If it’s not, keep reading for a fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Set Up a Sleep Schedule
 
  In theory, all you need to track sleep with your Apple Watch is to turn the feature on and set up a sleep schedule. This effectively tells your Apple Watch when you’re going to be in bed so it can monitor your vitals and detect sleep stages.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
  On your iPhone, navigate to Health > Sleep and tap “Full Schedule & Options” under the “Your Schedule” section. Set the “Bedtime” and “Wake Up” times, and select the days of the week you want to keep that schedule. Decide if you want an alarm or not.
 
 ![Select the days of the week and time to set up a sleep schedule.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sleep_set_day.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ensure you set a sleep schedule that covers every day of the week. So if you normally wake up at 7 am with an alarm on a weekday and like to sleep in on the weekends, make a separate schedule that applies only to the weekends _without_ an alarm.
 
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
  This could help, but you should also…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Make Sure You’re Using Sleep Focus
 
  When I turned Sleep Focus off one night, my Watch randomly didn’t record my sleep. Apple’s own [support document](https://support.apple.com/en-au/guide/watch/apd830528336/watchos) states that: “Apple Watch tracks your sleep based on the sleep schedule you create,” but also goes on to note that “Apple Watch can also track your sleep when your Sleep Focus starts.”
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 ![Make your sleep schedule mirror your Sleep Focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-11.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can go to Settings > Focus > Sleep and tap “Schedule” to set your own time. When your alarm goes off in the morning, the Sleep Focus will be disabled. If you have no alarm set, you’ll need to disable Sleep Focus on your Apple Watch using Control Center (tap the Side button once, then tap the “Bed” icon).
@@ -87,18 +91,18 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Setting sleep data source priority in the Apple Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/data_sources.png) 
 
- To make changes, you’ll need to tap “Edit” at the top of the “Data Sources & Access” screen. You can then tap a source to disable it, or tap and drag (using the horizontal lines) to reorder. Place your Apple Watch at the top of the stack, then hit “Done.”
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To make changes, you’ll need to tap “Edit” at the top of the “Data Sources & Access” screen. You can then tap a source to disable it, or tap and drag (using the horizontal lines) to reorder. Place your Apple Watch at the top of the stack, then hit “Done.”
 
 ##  Make Sure You Sleep for at Least Four Hours
 
  You don’t need me to tell you to get more than four hours of sleep per night, but the same goes for your Apple Watch. The wearable needs to record at least four hours of sleep each night to track your sleep and have it appear in the Health app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Sure You Have Enough Battery to Last the Night
@@ -117,10 +121,6 @@ Hannah Stryker / How-To Geek
 
 ![Option to restart an iPhone with Siri.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/siri_restart.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Press and hold the Side button on your Watch until you see the power icon in the top-right corner. Tap it, then use the “Power Off” slider to turn your Watch off. Press and hold the Side button again to turn your Watch on.
 
  You can [ask Siri to restart your iPhone](https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/) for you, or you can press and hold the Side and Volume Up or Volume Down button until you see the “Slide to power off” slider (then press and hold the Side button to turn it back on). Once both devices are back on, unlock both of them.
@@ -134,7 +134,7 @@ Hannah Stryker / How-To Geek
 ![Unpairing an Apple Watch using the iPhone Watch app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/unpair_watch.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll need to set the Watch up again by tapping “Add Watch” on the same screen, then pointing the camera at the pairing pattern that displays on your Apple Watch.
@@ -158,19 +158,17 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transform-your-note-habits-with-mematics-tools/"><u>[Updated] In 2024, Transform Your Note Habits with Mematic's Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-android-optimization-tools-top-10-apps-to-enhance-your-phones-speed-and-efficiency/"><u>Best Android Optimization Tools: Top 10 Apps to Enhance Your Phone's Speed and Efficiency</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-your-devices-screen-and-speaker-after-water-exposure/"><u>Effective Solutions: Repairing Your Device's Screen and Speaker After Water Exposure</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-android-can-step-up-its-game-against-ios-a-deep-dive-into-key-improvements-for-greater-compatibility-suggested/"><u>How Android Can Step Up Its Game Against iOS: A Deep Dive Into Key Improvements for Greater Compatibility, Suggested</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-alternative-recreation-in-the-firstrow-rankings/"><u>In 2024, Alternative Recreation in the Firstrow Rankings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/masterful-mobile-and-desktop-sound-alteration-tools-for-2024/"><u>Masterful Mobile & Desktop Sound Alteration Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pc-youtube/"><u>PC用ガイド: YouTubeの動画連携に最適化します!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/premiere-scenarios-in-eight-movie-types/"><u>Premiere Scenarios in Eight Movie Types</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/safeguard-sensitive-data-with-stellar-file-eraser-5-schedule-enabled-cleaner-for-windows-systems/"><u>Safeguard Sensitive Data with Stellar File Eraser 5 - Schedule-Enabled Cleaner for Windows Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-rooting-your-htc-one-m8-using-free-tools-a-beginners-guide/"><u>Step-by-Step Tutorial: Rooting Your HTC One (M8) Using Free Tools - A Beginner's Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/309380-9781741762709-the-face-reader/"><u>The Face Reader | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-android-location-services-discover-the-top-10-best-options/"><u>The Ultimate Guide to Android Location Services - Discover the Top 10 Best Options</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshoot-your-message-send-failures-fast-solutions-for-persistent-issues/"><u>Troubleshoot Your Message Send Failures: Fast Solutions for Persistent Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-the-smart-lock-feature-on-your-android-phone/"><u>Ultimate Guide: Mastering the Smart Lock Feature on Your Android Phone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mini-magnate-ryan-kajis-staggering-income-from-video-platform-for-2024/"><u>[Updated] Mini Magnate Ryan Kaji’s Staggering Income From Video Platform for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-from-game-to-giga-full-ps4-capture-using-obs/"><u>2024 Approved From Game to Giga Full PS4 Capture Using OBS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-the-meaning-of-a-503-error-and-learn-quick-fix-steps/"><u>Decode the Meaning of a 503 Error & Learn Quick Fix Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-photography-with-photoshops-motion-blur-effect/"><u>Enhance Your Photography with Photoshop's Motion Blur Effect</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhancing-siris-smarts-how-apples-ai-boosts-app-intelligence/"><u>Enhancing Siri's Smarts: How Apple's AI Boosts App Intelligence</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-retro-game-experience-on-your-iphone-for-free-without-needing-to-jailbreak/"><u>Enjoy Retro Game Experience on Your iPhone for FREE Without Needing to Jailbreak</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-upgrades-needed-for-apples-next-big-thing-the-new-iphone/"><u>Essential Upgrades Needed for Apple's Next Big Thing - The New iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-projecting-iphone-visuals-on-your-mac-monitor/"><u>Expert Tips for Projecting iPhone Visuals on Your Mac Monitor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xiaomi .</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/master-the-art-of-downloading-gifs-from-facebook-on-multiple-devices-effortlessly/"><u>Master the Art of Downloading GIFs From Facebook on Multiple Devices Effortlessly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-10-engaging-video-games-to-beat-boredom/"><u>Top 10 Engaging Video Games to Beat Boredom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-performance-issues-steady-frames-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Performance Issues: Steady Frames in Call of Duty Modern Warfare ^2 on PC</u></a></li>
 </ul></div>
 

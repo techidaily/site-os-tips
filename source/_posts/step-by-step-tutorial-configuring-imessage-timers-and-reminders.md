@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Configuring iMessage Timers & Reminders"
-date: 2025-01-14T20:00:17.128Z
-updated: 2025-01-21T22:10:17.628Z
+date: 2025-02-08T02:08:09.516Z
+updated: 2025-02-10T03:24:07.076Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ---
 
 ## Step-by-Step Tutorial: Configuring iMessage Timers & Reminders
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Sometimes it's best to create a text message while you're thinking of it. But what if you don't want to actually send it until later? Here, we'll show you how to send a scheduled text message on iPhone at whatever time you prefer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Can You Schedule a Text on iPhone?
 
  Yes, but it requires a workaround. As of November 2023, there is no built-in feature to schedule a text message. That doesn't mean it isn't possible, however — it just requires a bit of tinkering first.
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  One simple solution is to [set a reminder](https://win-answers.techidaily.com/troubleshoot-rogue-platform-resolve-constant-pc-collapses-and-play-smoothly/) using the Reminders app on iPhone. Then, when you receive the reminder, simply type and send your message at that time. However, that requires you to have access to your phone at the time you planned, which may not be the case.
 
  To schedule a prewritten text message that sends automatically, you'll need to [set up an automation](https://tech-savvy.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/) using the Shortcuts app. It may not be the ideal solution because it does take a few minutes to set up. Plus, you must remember to remove the automation if you don't want the message to repeat. But it's the delayed message solution closest to what you probably want, though, and below are the steps for this method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Schedule a Text Message on iPhone
 
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![The timing settings for the message Shortcut we're creating.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-imemdiately.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although you may not want your text message to send continually, the repeat setting is required. If you want to schedule a one-time message, you'll simply remove the automation after it finishes, which we'll explain in the [next section](https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/).
 
  On the Actions screen, expand the Next Action Suggestions section and pick "Send Message." If it isn't visible, enter "message" in the search bar at the top to find it.
@@ -71,23 +71,23 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![The template for a "Send Message" Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-send-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap "Message" in blue and type your text. Then, tap "Recipients" in blue, select or [enter a contact](https://video-ai-editor.techidaily.com/updated-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-now/), and choose "Done."
 
 ![Text for the message and contact](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MessageRecipient-iPhoneScheduleText.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll then see the text message and recipient in the box. If you're happy with it, tap "Done" to finish.
 
 ![An example Shortcut sending "Happy Birthday" to Sandy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-happpy-bday-sandy.png) 
 
- You'll then return to the Automation screen in the Shortcuts app. You can schedule another text message the same way or simply close the app.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll then return to the Automation screen in the Shortcuts app. You can schedule another text message the same way or simply close the app.
 
 ##  Delete or Disable Delayed Text Messages on iPhone
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ![Swipe left on a Shortcut to delete it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To disable the automation, select it, tap "Automation," then select "Don't Run."
@@ -124,22 +124,17 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-essential-ae-plugin-selection-for-superior-results/"><u>[New] Essential AE Plugin Selection for Superior Results</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-saving-google-meet-interactions/"><u>[Updated] In 2024, Step-by-Step Guide to Saving Google Meet Interactions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-your-social-media-uploading-on-twitter/"><u>2024 Approved Streamline Your Social Media Uploading on Twitter</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/expertise-in-visual-communication-a-guide-to-gif-creation/"><u>Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ios-version-171-release-advanced-airdrop-features-reworked-music-functionality-and-elevated-standby-mode-performance-upgrades-unveiled/"><u>IOS Version 17.1 Release: Advanced AirDrop Features, Reworked Music Functionality, and Elevated Standby Mode Performance Upgrades Unveiled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-photography-tips-mastering-the-art-of-editing-with-the-built-in-photos-app/"><u>IPhone Photography Tips: Mastering the Art of Editing with the Built-In Photos App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/kid-friendly-tunes-repurposing-older-cellphones-as-fun-music-and-podcast-hubs/"><u>Kid-Friendly Tunes: Repurposing Older Cellphones as Fun Music & Podcast Hubs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lower-cost-repairs-await-apples-newest-iphone-the-15-pro/"><u>Lower Cost Repairs Await Apple's Newest iPhone: The 15 Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-the-conversion-top-13-tips-to-switch-from-vob-to-mp4-format-in-windows-10-11-and-macos/"><u>Master the Conversion: Top 13 Tips to Switch From VOB to MP4 Format in Windows 10, 11 & macOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/meet-the-latest-addition-to-apples-lineup-the-vibrant-iphone-14-in-sunny-yellow/"><u>Meet the Latest Addition to Apple's Lineup: The Vibrant iPhone 14 in Sunny Yellow</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-ipad-feature-introducing-the-built-in-calculator-with-ipados-18-upgrade/"><u>New iPad Feature: Introducing the Built-In Calculator with iPadOS 18 Upgrade</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-iphone-enhancements-and-journaling-with-apples-latest-ios-172-software-upgrade/"><u>New iPhone Enhancements & Journaling with Apple's Latest iOS 17.2 Software Upgrade</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-issue-code-b200/"><u>Resolved Issue Code B200</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993060502-resolved-fixing-the-notorious-black-screen-issue-in-cyberpunk-2077/"><u>Resolved: Fixing the Notorious Black Screen Issue in Cyberpunk 2077</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionary-kitchen-companion-plugable-pt-stand1-a-dynamic-rotating-ipad-stand/"><u>Revolutionary Kitchen Companion: Plugable PT-STAND1 - A Dynamic, Rotating iPad Stand</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-platforms-enhance-your-youtube-presence-for-2024/"><u>Top Platforms Enhance Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-easy-iphonesideways-capturing-the-moment/"><u>[New] Easy iPhonesideways Capturing the Moment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aster-the-skill-of-trimming-youtube-videos-for-perfect-bites/"><u>[New] Master the Skill of Trimming YouTube Videos for Perfect Bites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ecoflow-portable-generator-the-ultimate-solution-for-home-power-during-blackouts/"><u>EcoFlow Portable Generator: The Ultimate Solution for Home Power During Blackouts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/foolproof-fixes-for-the-iphone-camera-icon-not-showing-problem/"><u>Foolproof Fixes for the 'iPhone Camera Icon Not Showing' Problem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/intense-meetings-perfect-your-screen-focus-in-msteams/"><u>Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/robert-youngjohns-steering-vision-as-abbyys-esteemed-board-chair/"><u>Robert Youngjohns: Steering Vision as ABBYY's Esteemed Board Chair</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphones-sluggish-charge-expert-advice-and-effective-fixes/"><u>Solving iPhone's Sluggish Charge: Expert Advice and Effective Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/special-needs-evacuation-procedures-must-be-in-place-for-individuals-with-disabilities/"><u>Special Needs Evacuation Procedures Must Be in Place for Individuals with Disabilities.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-effective-solutions-for-resolving-imessage-activation-issues/"><u>Top 8 Effective Solutions for Resolving iMessage Activation Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-faqs-understanding-how-your-iphone-handles-voice-messages/"><u>Top FAQs: Understanding How Your iPhone Handles Voice Messages</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-wi-fi-issues-fixing-connectivity-problems-on-your-iphone/"><u>Troubleshooting Wi-Fi Issues: Fixing Connectivity Problems on Your iPhone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results/"><u>Updated The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results</u></a></li>
 </ul></div>
 
