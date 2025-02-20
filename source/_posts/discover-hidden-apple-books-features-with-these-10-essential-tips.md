@@ -1,7 +1,7 @@
 ---
 title: Discover Hidden Apple Books Features with These 10 Essential Tips
-date: 2025-02-09T01:03:34.936Z
-updated: 2025-02-09T18:37:02.958Z
+date: 2025-02-13T01:10:26.433Z
+updated: 2025-02-20T06:00:30.466Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Discover Hidden Apple Books Features with These 10 Essential Tips
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,6 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the number of pages read in a book in the Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Set Reading Goals 
 
  If you haven't been reading much lately, the Reading Goals feature can help you get back on track. Once enabled, it tells you how many minutes you spend reading each day and the number of books and audiobooks you finish each year.
@@ -51,10 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To turn on Reading Goals, open "Settings" on your iPhone or iPad and select "Books."
 
 ![The "Books" option in the iPhone Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-3.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down to the "Reading Goals" section and toggle on the switch next to "Reading Goals."
 
@@ -65,7 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enabling the Reading Goals feature for PDFs in Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-4.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you resume reading regularly and want to check your progress, open the Books app and go to the "Home" tab. Scroll to the bottom of the page, and you'll see a section called "Reading Goals" with all your reading stats.
@@ -77,20 +73,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Adjust Goal option for settings a reading goal in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-7.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Set the time you want to spend reading books each day on the overlay screen. Hit "Done" to save.
 
 ![Setting a daily reading goal in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-8.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Similarly, you can scroll down further to the "Books Read This Year" section to see how many books you've finished this year.
 
 ![Books Read This Year section in the Apple Books app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-9.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To modify the goal, hit the "Adjust Goal" button. Then, set the number of books you want to read each year and hit "Done" to set this as your new yearly reading goal.
 
@@ -106,9 +102,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Themes & Settings option in Apple Books menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-13.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can change a bunch of things from the "Themes & Settings" overlay screen, including the font size, font type, theme, and page turn animations.
 
 ![Themes & Settings overlay screen on the Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-14.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition, you can tap on "Customize" at the bottom of the page to open the theme customizer. From here, you can adjust other aspects of the page, such as line spacing, character spacing, and word spacing, among other things, as per your preference.
 
@@ -140,6 +144,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking Bookmarks & Highlights in the Books app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-31.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you want to remove a bookmark, it's easy. Tap the bookmark icon to bring up the menu, and then hit the bookmark button again.
 
 ## 6  Highlight Text and Take Notes 
@@ -166,16 +174,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Square box in Books app indicating a highlight with a note.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-24.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, if you have multiple notes on a page, you can view them in one place. Tap the menu button in the bottom-right corner of the page and select "Bookmarks & Highlights." Switch to the "Highlights" tab, and you'll see all your highlights and notes for that book on this page.
 
 ![Checking all the higlights in a book in Apple Books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-27.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Keep Your Books Synced Across All Your Devices 
@@ -191,10 +199,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Select "iCloud."
 
 ![Selecting iCloud under Apple account settings on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-54.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Under "Apps Using iCloud," tap on "Show All."
 
@@ -216,21 +220,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Share button in the Files app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-39.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, select "Books" from the Share Sheet.
 
 ![Selecting Books in Share Sheet to import a PDF into it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-40.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will open the PDF in the Apple Books app. You can now read the PDF or annotate it using the Markup tools.
 
 ![Markup option on a PDF in Apple Books app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/apple-books-tips-41.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9  Create a Wish List of Books You Want to Read 
 
@@ -269,22 +269,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-15-open-world-games-to-beat-the-climb/"><u>[New] In 2024, Top 15 Open World Games to Beat the Climb</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-master-your-movie-recording-pc-mac-and-mobile-devices-for-2024/"><u>[New] Master Your Movie Recording PC, Mac & Mobile Devices for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smilesphere-endless-possibrancies-in-meme-land/"><u>[New] SmileSphere Endless Possibrancies in Meme Land</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-10plus-top-free-youtube-image-extractors/"><u>2024 Approved 10+ Top FREE YouTube Image Extractors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/catch-the-game-anywhere-with-apples-newly-launched-free-sports-application/"><u>Catch the Game Anywhere with Apple's Newly Launched Free Sports Application!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/connect-effortlessly-with-the-newly-updated-airpods-pro-featuring-usb-c-ports/"><u>Connect Effortlessly with the Newly Updated AirPods Pro Featuring USB C Ports</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-the-best-no-cost-iphone-selfie-applications/"><u>Discover the Best No-Cost iPhone Selfie Applications</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-timeless-harmonies-on-apple-music-unlimited-selection-with-remarkable-savings/"><u>Discovering Timeless Harmonies on Apple Music: Unlimited Selection with Remarkable Savings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-your-wi-fi-network-password-a-guide-for-android-and-iphone-users/"><u>Discovering Your Wi-Fi Network Password: A Guide for Android & iPhone Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/diy-guide-crafting-personalized-contact-cards-using-your-iphone/"><u>DIY Guide: Crafting Personalized Contact Cards Using Your iPhone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-hindi-songs-in-4k-quality-free/"><u>Download Hindi Songs in 4K Quality - Free</u></a></li>
-<li><a href="https://os-tips.techidaily.com/embracing-limitations-iphone-enthusiasts-adore-apples-stringent-policies/"><u>Embracing Limitations: IPhone Enthusiasts Adore Apple’s Stringent Policies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enjoy-playstation-portable-games-on-iphone-with-the-latest-ppsspp-mobile-emulator/"><u>Enjoy PlayStation Portable Games on iPhone with the Latest PPSSPP Mobile Emulator</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expanding-apples-appeal-why-adding-vibrant-hues-to-professional-gadgets-matters/"><u>Expanding Apple's Appeal: Why Adding Vibrant Hues to Professional Gadgets Matters</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/fast-and-easy-guide-how-to-perform-a-quick-hard-drive-image-recovery-on-windows-11-and-10/"><u>Fast & Easy Guide: How to Perform a Quick Hard Drive Image Recovery on Windows 11 and 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guida-passo-passo-a-convertire-video-mkv-gratuitamente-in-webm-utilizzando-il-convertitore-video-di-movavi-online/"><u>Guida Passo-Passo a Convertire Video MKV Gratuitamente in WEBM Utilizzando Il Convertitore Video Di Movavi Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-mxf-in-mp3-senza-costi-con-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma I File MXF in MP3 Senza Costi Con Il Servizio Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-tips-for-organizing-online-gatherings-google-meet/"><u>[New] In 2024, Essential Tips for Organizing Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unseen-snaps-and-silence-could-be-a-block/"><u>[New] In 2024, Unseen Snaps and Silence Could Be a Block</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-webp-mastery-converting-to-jpeg-for-2024/"><u>[New] WebP Mastery Converting to JPEG for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-creative-potential-with-new-iphone-x-camera/"><u>[Updated] 2024 Approved Unlocking Creative Potential with New iPhone X Camera</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-craft-perfect-openings-anywhere-and-anytime-for-2024/"><u>[Updated] Craft Perfect Openings, Anywhere and Anytime for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-transform-chaos-into-order-top-apps-for-an-ultra-productive-year/"><u>1. Transform Chaos Into Order: Top Apps for an Ultra-Productive Year</u></a></li>
+<li><a href="https://os-tips.techidaily.com/10-pro-tips-for-capturing-stunning-iphone-video-footage/"><u>10 Pro Tips for Capturing Stunning iPhone Video Footage</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728464657863-ssd/"><u>廃棄前にSSDから完全データ消去を行うためのガイドブック</u></a></li>
+<li><a href="https://os-tips.techidaily.com/animating-memories-crafting-sticker-gifs-from-live-photos-using-your-iphone/"><u>Animating Memories: Crafting Sticker GIFs From Live Photos Using Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-solution-to-iphone-15-pro-excessive-heat-issues/"><u>Apple's Solution to iPhone 15 Pro Excessive Heat Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung support MOV videos ?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-fortnite-on-pc-solved/"><u>How to Download Fortnite on PC [SOLVED]</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-filmora-hacks-streamline-your-reaction-video-creation-process-for-2024/"><u>New Filmora Hacks Streamline Your Reaction Video Creation Process for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-instructions-to-access-and-adjust-network-settings-in-windows-control-panel-expert-tips-from-yl-software-suite/"><u>Step-by-Step Instructions to Access and Adjust Network Settings in Windows Control Panel – Expert Tips From YL Software Suite</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-how-governments-could-be-using-push-alerts-as-a-surveillance-tool/"><u>Unveiling the Truth: How Governments Could Be Using Push Alerts as a Surveillance Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-tech-delights-unveiling-the-latest-from-google-and-samsung/"><u>Upcoming Tech Delights: Unveiling the Latest From Google & Samsung</u></a></li>
+<li><a href="https://os-tips.techidaily.com/usb-type-c-connectivity-discover-apples-airpods-pro-latest-upgrade/"><u>USB Type-C Connectivity: Discover Apple's AirPods Pro Latest Upgrade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/weekly-digest-of-iphone-software-enhancements-and-product-recalls/"><u>Weekly Digest of iPhone Software Enhancements & Product Recalls</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-the-nsa-recommends-weekly-mobile-device-reboots-uncovering-essential-security-measures/"><u>Why the NSA Recommends Weekly Mobile Device Reboots - Uncovering Essential Security Measures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!"
-date: 2025-02-04T21:30:18.440Z
-updated: 2025-02-10T00:42:51.325Z
+date: 2025-02-18T05:14:52.098Z
+updated: 2025-02-19T16:25:40.421Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 ---
 
 ## Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,10 +31,6 @@ Justin Duino / How-To Geek
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Get Circle to Search Functionality on Your iPhone
 
  To set up the workaround, you must have the [Google app on your iPhone](https://ai-video-tools.techidaily.com/updated-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/). If you don't already have it, download it from the App Store. Once you've installed the Google app, it's time to create a shortcut.
@@ -53,6 +45,10 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
@@ -62,12 +58,16 @@ Justin Duino / How-To Geek
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
@@ -75,21 +75,21 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -120,24 +120,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-dungeon-dynamics-the-leading-10-rogue-experiences/"><u>[Updated] 2024 Approved Dungeon Dynamics The Leading 10 Rogue Experiences</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210762149-9781787836181-365-ways-to-be-happy/"><u>365 Ways to Be Happy | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/alpaca-anthem-clashes-with-bards-gpts-woolly-counterpart/"><u>Alpaca Anthem Clashes with Bards, GPT's Woolly Counterpart</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-online-indecision-an-insight-into-vague-blogging/"><u>Decoding Online Indecision: An Insight Into Vague Blogging</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-sonys-top-games-at-a-bargain-price/"><u>Discover Sony’s Top Games at a Bargain Price</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-expansion-master-the-art-of-unzipping-archives-on-iphone-and-ipad/"><u>Effortless Expansion: Master the Art of Unzipping Archives on iPhone & iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-new-bottom-navigation-bar-in-google-chrome-for-iphones/"><u>Enhanced User Experience: New Bottom Navigation Bar in Google Chrome for iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/evaluating-the-new-apple-watch-ultra-model-2-impactful-yet-not-revolutionary-in-todays-tech-waves/"><u>Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-essential-functionality-in-leading-iphone-image-editors-discover-the-top-10-features/"><u>Expert Tips: Essential Functionality in Leading iPhone Image Editors – Discover the Top 10 Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fix-your-airpods-now-unravel-the-mystery-of-persistent-connectivity-breakdowns-with-our-top-8-quick-solutions/"><u>Fix Your AirPods Now! Unravel the Mystery of Persistent Connectivity Breakdowns with Our Top 8 Quick Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/frustrated-with-samsungs-wear-os-now-enjoying-the-apple-watch-alternative-on-iphone/"><u>Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/get-your-apple-magsafe-charging-pad-today-for-a-low-price-of-32/"><u>Get Your Apple MagSafe Charging Pad Today for a Low Price of 32$!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-assistive-touch-transforms-iphones-into-essential-communication-devices/"><u>How Assistive Touch Transforms iPhones Into Essential Communication Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-change-your-iphones-default-map-application-to-google-maps-with-ease/"><u>How to Change Your iPhone's Default Map Application to Google Maps with Ease</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-realme-gt-5-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Realme GT 5 Pro.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-solving-sync-issues-between-cameras-and-obs/"><u>In 2024, Solving Sync Issues Between Cameras and OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-tips-resolving-hulu-streaming-issues-on-apple-tv-firestick-roku-and-samsung-devices/"><u>Troubleshooting Tips: Resolving Hulu Streaming Issues on Apple TV, Firestick, Roku & Samsung Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tutorial-como-convertir-un-archivo-ts-a-formato-flv-de-manera-gratuita-guia-paso-a-paso-con-movavi/"><u>Tutorial: Cómo Convertir Un Archivo .TS a Formato FLV De Manera Gratuita – Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-scene-stealer-snapshot-study/"><u>[Updated] 2024 Approved Scene-Stealer Snapshot Study</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-face-flaunting-visual-guidebook/"><u>[Updated] Face Flaunting Visual Guidebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design-for-2024/"><u>[Updated] From Idea to Execution An Essential Guide to YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-gb-games-selecting-pc-emulators-to-simulate-gba-perfectly/"><u>[Updated] In 2024, Essential GB Games Selecting PC Emulators to Simulate GBA Perfectly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-self-repair-your-iphone-15-and-m2-mac-mini-ultimate-step-by-step-tutorials-for-tech-enthusiasts/"><u>How To Self-Repair Your iPhone 15 & M2 Mac Mini - Ultimate Step-by-Step Tutorials for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-hps-vivid-spectrum-with-the-z32x-4k-monitor/"><u>In 2024, Exploring HP's Vivid Spectrum with the Z32X 4K Monitor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/innovative-repurposing-how-a-defective-apple-watch-became-a-classic-hand-wound-watch/"><u>Innovative Repurposing: How a Defective Apple Watch Became a Classic Hand-Wound Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracking-device-in-compact-form/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracking Device in Compact Form</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-spotlights-unveiling-the-android-inspired-additions-to-apples-operating-system/"><u>IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-15-and-liquid-is-it-built-to-withstand-wet-conditions/"><u>IPhone 15 and Liquid: Is It Built to Withstand Wet Conditions?</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-facebook-interaction-maximizing-impact-responsibly/"><u>The Art of Facebook Interaction: Maximizing Impact Responsibly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-full-potential-expert-advice-on-using-the-meta-quest-audio-input/"><u>Unlocking Full Potential: Expert Advice on Using the Meta Quest Audio Input</u></a></li>
 </ul></div>
 

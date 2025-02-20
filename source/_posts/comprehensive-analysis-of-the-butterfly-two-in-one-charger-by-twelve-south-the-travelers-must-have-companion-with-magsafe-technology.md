@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the ButterFly Two-in-One Charger by Twelve South: The Traveler's Must-Have Companion with MagSafe Technology"
-date: 2025-02-07T18:26:11.187Z
-updated: 2025-02-10T02:24:58.371Z
+date: 2025-02-18T22:26:48.773Z
+updated: 2025-02-19T17:55:10.604Z
 tags:
   - ios
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b07f8aafe5ebbf14ba4a69b2b5bb7f9ec0a78d9ab
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
@@ -58,13 +58,13 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 [$129.95 at Twelve South](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) [$129.95 at Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The ButterFly 2-in-1 Charger Is Perfectly Small
 
 ![Twelve South Butterfly charger next to iPhone for thickness comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-thickness-comparison.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -82,12 +82,16 @@ Hannah Stryker / How-To Geek
 
  To help offset some of the cost, the ButterFly charger comes with a 30W USB-C charger, a braided USB-C cable, and international wall adapters. It’s certainly a nice touch, but I’ll only be adding the cable to my collection. The power adapter isn’t huge, but it is still nearly the same volume as the ButterFly itself. And the international adapters seem like a waste all around. (Anyone willing to buy a $130 charger _probably_ already has an international plug solution.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Practical For Packing Compared to Other Products
 
 ![Twelve South Butterfly charger with accessories laid out on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-with-accessories.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -104,23 +108,19 @@ Hannah Stryker / How-To Geek
 
 ![iPhone horizontal on the Twelve South ButterFly 2-in-1 charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/iphone-twelve-south-stand.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  When each device is charging by itself, the other side is folded underneath, facedown. I can’t think of times when I would only want to charge my watch, but using it for an iPhone without having the watch portion spread out is a nice touch.
 
  Using the ButterFly horizontally for StandBy mode felt like a little bit of a hack, especially because the watch charger on the back is much less ideal. Still, I like that it’s even a possibility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Price and Availability
 
  The ButterFly 2-in-1 MagSafe Charger is available now, directly from Twelve South and Apple. It has been back ordered at [Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) until early February, but more supply should be available in 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Twelve South ButterFly 2-in-1 MagSafe Charger?
 
@@ -175,24 +175,22 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>[New] 2024 Approved Earn Big on YouTube Shorts Tips for Profitable Content Creation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-to-a-custom-hashtag-mastery-on-tiktok/"><u>[Updated] Elevate to a Custom Hashtag Mastery on TikTok</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-immersive-worlds-shaping-future-cinematic-experiences/"><u>[Updated] In 2024, Immersive Worlds Shaping Future Cinematic Experiences</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-peculiar-picasso-creating-quirky-quick-memes/"><u>[Updated] In 2024, Peculiar Picasso Creating Quirky, Quick Memes</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/11-hard-drive-duplication-explained-the-simplest-methods-to-follow/"><u>11 Hard Drive Duplication Explained: The Simplest Methods to Follow</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-precision-recording-advanced-screenrec-for-laptops/"><u>2024 Approved Precision Recording Advanced ScreenRec for Laptops</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-for-thoroughly-disinfecting-iphone-screens-with-alcohol-wipes/"><u>Effective Techniques for Thoroughly Disinfecting iPhone Screens with Alcohol Wipes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-bypassing-mobile-network-locks-for-iphones-on-verizon-atandt-sprint-and-t-mobile/"><u>Guide: Bypassing Mobile Network Locks for iPhones on Verizon, AT&T, Sprint & T-Mobile</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-solve-iphone-call-drop-issues-a-step-by-step-guide/"><u>How to Solve iPhone Call Drop Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-brisksnatch-slowframe-capture/"><u>In 2024, BriskSnatch SlowFrame Capture</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-12-hurdles-a-guide-to-identifying-and-resolving-key-issues/"><u>Overcoming iPhone 12 Hurdles: A Guide to Identifying and Resolving Key Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resetting-apple-id-passwords-made-easy-no-email-no-contact-info-required/"><u>Resetting Apple ID Passwords Made Easy – No Email, No Contact Info Required!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-fixing-yahoo-email-issues-on-ios-devices/"><u>Solutions for Fixing Yahoo Email Issues on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-puzzle-of-itunes-error-17-explore-8-proven-strategies-in-our-comprehensive-tutorial/"><u>Solving the Puzzle of iTunes Error 17 - Explore 8 Proven Strategies in Our Comprehensive Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-techniques-from-ipod-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry and Exit Techniques From iPod Recovery Mode</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620253863-unable-to-send-messages-identify-the-issue-and-resolve-it-instantly/"><u>Unable to Send Messages? Identify the Issue and Resolve It Instantly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unstick-your-idevice-from-update-process-with-easy-troubleshooting-techniques/"><u>Unstick Your iDevice From Update Process with Easy Troubleshooting Techniques</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-expert-tips-for-reducing-ambient-sound-in-imovie-using-mac-devices/"><u>Updated 2024 Approved Expert Tips for Reducing Ambient Sound in iMovie Using Mac Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-elevating-your-presence-on-tiktok-essential-7-must-haves/"><u>[New] 2024 Approved Elevating Your Presence on TikTok Essential 7 Must-Haves</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-selecting-your-digital-stage-the-comparative-analysis-of-igtv-and-youtube/"><u>[New] 2024 Approved Selecting Your Digital Stage The Comparative Analysis of IGTV & YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-essential-guide-to-affordable-cross-platform-streamers/"><u>[New] In 2024, Essential Guide to Affordable, Cross-Platform Streamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-joke-jigsaw-puzzles-build-with-kapwingenasian-memes/"><u>[Updated] Joke Jigsaw Puzzles Build with Kapwing’enasian Memes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comparing-gphone-and-iphone-top-8-criteria-determining-the-clear-winner/"><u>Comparing Gphone and iPhone: Top 8 Criteria Determining the Clear Winner</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dealing-with-unwanted-thread-accolades-on-ig-effective-disguise-strategies/"><u>Dealing with Unwanted Thread Accolades on IG - Effective Disguise Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2-launch-issue-how-to-fix-the-initializing-hang-up/"><u>Destiny 2 Launch Issue: How to Fix the 'Initializing' Hang-Up</u></a></li>
+<li><a href="https://os-tips.techidaily.com/for-every-mention-of-a-natural-remedy-exercise-sunlight-exposure-mindful-meditation-light-therapy-and-omega-3-fatty-acids-associate-it-with-a-corresponding-14/"><u>For Every Mention of a Natural Remedy (Exercise, Sunlight Exposure, Mindful Meditation, Light Therapy, and Omega-3 Fatty Acids), Associate It with a Corresponding Mythical Creature that Would Benefit Most From This Remedy in Terms of Their Legendary Lore</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 5G</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-tailoring-trailers-for-virtual-broadcasts/"><u>In 2024, Tailoring Trailers for Virtual Broadcasts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-your-apple-id-login-problems-a-comprehensive-guide/"><u>Solving Your Apple ID Login Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sudden-iphone-photo-loss-effective-fixes-and-tips/"><u>Sudden iPhone Photo Loss: Effective Fixes and Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-setting-up-an-emoji-keyboard-on-your-iphone/"><u>The Ultimate Guide to Setting Up an Emoji Keyboard on Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-lgbtqplus-series-streaming-on-netflix-in-july-2024-our-picks/"><u>Top LGBTQ+ Series Streaming on Netflix in July 2024: Our Picks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-icloud-unlocking-tools-for-removing-cloud-locks-on-ios-devices/"><u>Top Rated iCloud Unlocking Tools for Removing Cloud Locks on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-tips-ultimate-guide-to-troubleshooting-your-non-responsive-ipad-keyboard/"><u>Top Tips: Ultimate Guide to Troubleshooting Your Non-Responsive iPad Keyboard</u></a></li>
 </ul></div>
 

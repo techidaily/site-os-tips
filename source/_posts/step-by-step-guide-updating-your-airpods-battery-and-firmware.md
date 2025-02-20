@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your AirPods Battery & Firmware"
-date: 2025-02-02T19:23:26.124Z
-updated: 2025-02-09T22:23:07.388Z
+date: 2025-02-19T00:32:30.742Z
+updated: 2025-02-20T04:12:45.421Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 ---
 
 ## Step-by-Step Guide: Updating Your AirPods Battery & Firmware
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  AirPods Typically Update the Firmware Automatically
@@ -48,19 +44,23 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  However, there are some times you may wish to kick an update off manually. First, let's check which version of software the AirPods are running currently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Check Which Firmware Your AirPods Are Running
 
  With your AirPods in their Charging Case, open the lid near your iPhone. Dismiss the on-screen battery indicator that appears and then open the Settings app.
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, tap "About" to progress.
 
@@ -70,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This screen will show you the current version of the firmware installed on your AirPods. You can compare this to the list of [current AirPods firmware versions](https://support.apple.com/en-us/106340) on Apple's website.
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Force an AirPods Firmware Update
 
@@ -86,13 +86,13 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -115,19 +115,17 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-pros-playbook-blurring-the-boundary-between-work-and-home-spaces/"><u>[New] 2024 Approved The Pro's Playbook Blurring the Boundary Between Work and Home Spaces</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-perfecting-video-conferencing-the-ultimate-screen-recorder-list-for-2024/"><u>[New] Perfecting Video Conferencing The Ultimate Screen Recorder List for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-youtube-video-edits-via-wm-maker/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for YouTube Video Edits via WM Maker</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unveiling-the-best-practices-for-instagram-story-screenshots/"><u>[Updated] In 2024, Unveiling the Best Practices for Instagram Story Screenshots</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-crafting-colours-with-care-top-5-displays-reviewed/"><u>2024 Approved Crafting Colours with Care Top 5 Displays Reviewed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-direct-encouraging-content-for-daily-living-vids/"><u>2024 Approved How to Direct Encouraging Content for Daily Living Vids</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2024s-ultimate-selection-of-miniature-mobile-devices-for-tech-enthusiasts/"><u>2024'S Ultimate Selection of Miniature Mobile Devices for Tech Enthusiasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-apple-watch-series-8-high-performance-on-a-modest-spending-plan/"><u>Affordable Apple Watch Series 8: High Performance on a Modest Spending Plan</u></a></li>
-<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-can-now-access-the-epic-games-marketplace/"><u>Android & iPhone Users Can Now Access the Epic Games Marketplace!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-curb-microsoft-telemetrys-intensive-disk-use-on-your-windows-11-device-for-better-efficiency/"><u>How to Curb Microsoft Telemetry's Intensive Disk Use on Your Windows 11 Device for Better Efficiency</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-note-30i-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Note 30i</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-efficiency-with-copilot-the-ultimate-guide-to-leveraging-free-gpt-4-power/"><u>Maximize Your Efficiency with Copilot: The Ultimate Guide to Leveraging Free GPT-4 Power</u></a></li>
-<li><a href="https://os-tips.techidaily.com/usb-type-c-port-on-iphone-15-features-enhanced-connectivity/"><u>USB Type-C Port on iPhone 15 Features Enhanced Connectivity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-tracking-devices-like-airtags-are-essential-in-modern-vehicles/"><u>Why Tracking Devices Like AirTags Are Essential in Modern Vehicles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-bridging-communication-gaps-effective-use-of-slack-and-filmora/"><u>[New] 2024 Approved Bridging Communication Gaps Effective Use of Slack and Filmora</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-expert-websites-directory-personalized-ringtone-source/"><u>[New] In 2024, Expert Websites Directory Personalized Ringtone Source</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-microvid-recorder-critique-with-alternatives/"><u>[Updated] In 2024, MicroVid Recorder Critique with Alternatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-deeper-dive-into-vsdc-plus-its-top-alternatives/"><u>A Deeper Dive Into VSDC, Plus Its Top Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eu-customers-can-enjoy-the-full-altstore-experience-with-newly-provided-complimentary-access-to-pal-region-software/"><u>EU Customers Can Enjoy the Full AltStore Experience with Newly Provided Complimentary Access to PAL Region Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exclusive-features-of-ios-18-limited-by-phone-model-ensure-iphone-12-or-newer-to-enjoy-them-all/"><u>Exclusive Features of iOS 18 Limited by Phone Model – Ensure iPhone 12 or Newer to Enjoy Them All</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expect-the-unexpected-apples-highly-awaited-surprises-set-to-shine-at-may-7th-ipad-launch-event/"><u>Expect the Unexpected: Apple's Highly-Awaited Surprises Set to Shine at May 7Th iPad Launch Event</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-a-leap-forward-with-the-latest-upgrades-to-protonmail-and-protoncalendar-now-with-38-new-features/"><u>Experience a Leap Forward with the Latest Upgrades to ProtonMail and ProtonCalendar - Now with 38 New Features!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-classic-games-anew-with-delta-retro-emulator-just-launched-on-ios/"><u>Experience Classic Games Anew with Delta Retro Emulator, Just Launched on iOS!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-viral-videos-to-goodbye-closing-your-tiktok-account-securely/"><u>From Viral Videos to Goodbye: Closing Your TikTok Account Securely</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-ps3-emulators-your-gateway-to-classic-games/"><u>In 2024, Top Ps3 Emulators Your Gateway to Classic Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unfolding-the-future-samsung-galaxy-z-fold6-launch-details-and-key-features/"><u>Unfolding the Future: Samsung Galaxy Z Fold6 - Launch Details & Key Features</u></a></li>
 </ul></div>
 

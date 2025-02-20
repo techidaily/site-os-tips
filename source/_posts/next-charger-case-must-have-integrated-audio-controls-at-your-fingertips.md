@@ -1,7 +1,7 @@
 ---
 title: "Next Charger Case Must-Have: Integrated Audio Controls at Your Fingertips"
-date: 2025-02-07T01:28:33.900Z
-updated: 2025-02-10T02:37:47.970Z
+date: 2025-02-14T16:16:23.854Z
+updated: 2025-02-20T00:46:44.873Z
 tags:
   - ios
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 ## Next Charger Case Must-Have: Integrated Audio Controls at Your Fingertips
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Built-in volume controls on earbud charging cases could enhance usability and eliminate the need for manual adjustments via a phone.
@@ -19,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
  The CMF Phone 1 looks like a solid budget phone that features a swappable back cover schtick reminiscent of the ancient HTC Tattoo. What caught my eye, though, are the CMF earbuds and their case, which rocks a volume wheel. Now I want my next earbud charging case to have one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on a Charging Case Could Actually Be Useful
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 ![CMF Buds charging case in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-buds.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nothing/CMF
@@ -52,10 +56,6 @@ Nothing/CMF
 
 ![ASUS ROG Falchion Volume Touch bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/asus-rog-falchion-volume-touch-bar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ASUS
 
  Or what about an iPod-like jog dial Apple could slap on the AirPods Pro Gen3 charging case? Imagine an AirPods Pro Gen3 charging case equipped with a touch-based or mechanical jog wheel you can use to adjust the volume and control playback. Something similar to the TinyPod Apple Watch case below, just without the screen.
@@ -63,7 +63,7 @@ ASUS
 ![Three sizes of the TinyPod Apple Watch silicone case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tinypod-apple-watch-silicone-case-all-sizes.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek / TinyPod
@@ -71,7 +71,7 @@ Christian Zibreg / How-To Geek / TinyPod
  In the case of the mechanical variant, the wheel could fit flush with the surface of the charging case and feature a nice and robust tactile feedback that would kick in when you rotate it clockwise and anticlockwise to adjust the sound volume. Tactile volume dials would not only inject a breath of originality and utility into the world of earbud charging cases; they would also bring back a dose of physicality and tactility to the otherwise bland, sterile, and [touch-only smartphone experience](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on My Earbuds’ Charging Case Would Be a Great Fidget Toy
@@ -97,22 +97,22 @@ Christian Zibreg / How-To Geek / TinyPod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-guide-to-enhancing-footage-in-gopro-studio/"><u>[New] Comprehensive Guide to Enhancing Footage in GoPro Studio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creating-captivating-visuals-with-diy-filming-methods/"><u>[New] In 2024, Creating Captivating Visuals with DIY Filming Methods</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-step-formula-how-to-check-youtube-income-for-2024/"><u>[New][3-Step Formula] How To Check YouTube Income for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-optimal-video-chat-on-windows-1-8/"><u>[Updated] In 2024, Optimal Video Chat on Windows #1-8</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1-how-to-fix-an-unreliable-zoom-connection-a-comprehensive-guide/"><u>1. How to Fix an Unreliable Zoom Connection: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4/"><u>2024 Approved Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4</u></a></li>
-<li><a href="https://os-tips.techidaily.com/eliminating-persistent-thread-stickers-on-insta-concealment-tips-and-tricks/"><u>Eliminating Persistent Thread Stickers on Insta: Concealment Tips & Tricks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-hotspot-connection-failures-on-ios-devices-iphone-181716-top-causes-and-remedies/"><u>Fixing Hotspot Connection Failures on iOS Devices (iPhone 18/17/16): Top Causes and Remedies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-creating-stunning-time-lapse-videos-with-your-iphone/"><u>Guide: Creating Stunning Time-Lapse Videos with Your iPhone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>In 2024, Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-11-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 11 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-issues-successful-steps-to-correct-a-failed-icloud-backup-on-iphoneipad/"><u>Resolving Issues: Successful Steps to Correct a Failed iCloud Backup on iPhone/iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-lost-icloud-and-local-contacts-on-your-iphone-restore-whats-gone/"><u>Solutions for Lost iCloud and Local Contacts on Your iPhone: Restore What's Gone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-an-iphone-that-forgot-its-password/"><u>Step-by-Step Instructions for Resetting an iPhone That Forgot Its Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-voice-memos-and-mic-functionality/"><u>Troubleshooting Tips: Resolving Issues with Voice Memos and Mic Functionality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-downloading-and-updating-your-epson-et-3760-driver-for-optimal-performance-in-windows-os/"><u>Ultimate Guide to Downloading & Updating Your Epson ET-3760 Driver for Optimal Performance in Windows OS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-connection-failures-why-cant-my-airplay-stream-to-apple-tv/"><u>Understanding Connection Failures: Why Can't My AirPlay Stream to Apple TV?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-legality-query-personal-savings-of-youtube-videos/"><u>[New] 2024 Approved Legality Query Personal Savings of YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-high-resolution-revelations-top-15-cameras-of-2024/"><u>[New] High-Resolution Revelations – Top 15 Cameras of 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-no-price-point-digital-video-recorder/"><u>[Updated] No-Price Point Digital Video Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android-for-2024/"><u>[Updated] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diagnosing-and-fixing-integration-glitches-between-chatgpt-and-plugin-systems/"><u>Diagnosing and Fixing Integration Glitches Between ChatGPT and Plugin Systems</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/echtzeit-synchronisation-von-dokumenten-und-verzeichnissen-fur-windows-betriebssysteme-10-8-7/"><u>Echtzeit-Synchronisation Von Dokumenten Und Verzeichnissen Für Windows-Betriebssysteme (10, 8, 7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-limited-offer-grab-the-powerful-wonderfox-dvd-ripper-pro-at-unbeatable-prices/"><u>Exclusive Limited Offer: Grab the Powerful WonderFox DVD Ripper Pro at Unbeatable Prices!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-how-to-use-telegram-web-step-by-step-guide/"><u>In 2024, How To Use Telegram Web Step-By-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255552-iphone-users-beware-combat-anonymous-calls-with-these-proven-5-techniques/"><u>IPhone Users Beware: Combat Anonymous Calls with These Proven 5 Techniques!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-device-resetting-initiating-recovery-mode-for-iphones-and-ipads/"><u>Mastering Device Resetting: Initiating Recovery Mode for iPhones and iPads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcome-common-iphone-malfunctions-top-diagnosis-and-repair-techniques-for-smooth-performance/"><u>Overcome Common iPhone Malfunctions: Top Diagnosis and Repair Techniques for Smooth Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255746-overcome-your-iphones-failed-update-dilemma-with-these-four-effective-solutions/"><u>Overcome Your iPhone's Failed Update Dilemma with These Four Effective Solutions!</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-boards-recommended-for-next-gen-gaming-systems/"><u>Power Boards Recommended for Next Gen Gaming Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/proven-methods-for-swift-iphone-call-failure-repairs/"><u>Proven Methods for Swift iPhone Call Failure Repairs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-your-drenched-device-top-strategies-for-repairing-a-waterlogged-iphone/"><u>Revive Your Drenched Device: Top Strategies for Repairing a Waterlogged iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-issue-how-to-fix-iphone-contacts-failure-in-sync-with-icloud/"><u>Solving the Issue: How to Fix iPhone Contacts Failure in Sync with iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-auto-play-feature-why-is-apple-music-always-ready-to-go-on-your-iphone/"><u>Understanding the Auto-Play Feature: Why Is Apple Music Always Ready to Go on Your iPhone?</u></a></li>
 </ul></div>
 

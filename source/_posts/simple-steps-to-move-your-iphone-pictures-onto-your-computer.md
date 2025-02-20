@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Move Your iPhone Pictures Onto Your Computer
-date: 2025-02-03T00:01:24.593Z
-updated: 2025-02-09T23:20:41.746Z
+date: 2025-02-13T20:44:38.186Z
+updated: 2025-02-19T22:49:26.494Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Simple Steps to Move Your iPhone Pictures Onto Your Computer
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,25 +33,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Tap "Trust."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/trust-this-pc.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your iPhone appears as a new device under "This PC" in File Explorer on Windows 10 or Windows 11\. Head here and double-click it.
 
  If you don't see the iPhone under This PC or Computer, unplug the iPhone, plug it back in, and ensure it's unlocked.
 
 ![Make sure you're in "This PC," then double-click "Apple iPhone."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/this-pc-open-iphone.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On modern versions of iOS you'll see a number of folders with numerical names that contain your photos.
 
  On older versions of iOS you'll see a folder named DCIM, and your photos and videos will be stored in a 100APPLE folder. If you have lots of photos and videos, you'll see additional folders named 101APPLE, 102APPLE, and so on. If you use iCloud to store photos, you'll also see folders named 100Cloud, 101Cloud, and so on.
 
 ![Image folders on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folders-on-iphone.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see your photos as .JPG files or .HEIC files, videos as .MOV files, and screenshots as .PNG files. You can double-click them to view them right from your iPhone. You can also copy them to your PC using either drag-and-drop or copy-and-paste.
 
@@ -64,7 +56,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Right-click photos, videos, or other media files on your iPhone to delete them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/delete-files.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To import everything from your iPhone, you could just copy-and-paste or drag-and-drop the 100APPLE folder (and any other folders) inside the DCIM folder. Or, you could just grab the whole DCIM folder if you want. Just make sure to copy instead of move the items, if you want them to remain on your phone.
@@ -79,6 +71,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select the "Automatic" option to enable automatic conversion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/automatic-transfer.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Import Photos With Windows Photos (or Other Applications)
 
  Any application that can import photos from a digital camera or USB device can also import photos from an iPhone or iPad. The iPhone exposes media folders, so it looks just like any other digital camera to software on your PC. As when using the Windows file manager, you just have to connect it via a Lightning-to-USB or USB-C cable (depending on your iPhone model) and tap "Trust" on your phone.
@@ -88,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Any other application that offers an "Import From Camera" or "Import From USB" function should work with your iPhone, too. Many other image management and photography programs offer this feature.
 
 ![Importing photos and videos from the iPhone with the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/importing-files-from-iphone.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Sync Your Photos With iCloud Photo Library (or Other Services)
 
@@ -104,7 +104,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The iCloud app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5aa313bad9270.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This isn't the only application you can use for synchronizing photos to your PC. The [Dropbox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/dropbox/id327630330?mt=8), [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/google-photos/id962194608?mt=8), and [Microsoft OneDrive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU215676/https://itunes.apple.com/us/app/microsoft-onedrive/id477537958?mt=8) apps for iPhone all offer automatic photo-upload features, and you can use the [Dropbox](https://www.dropbox.com/), [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/), and [OneDrive](https://onedrive.live.com/) tools for Windows to automatically download those photos to your PC.
@@ -128,19 +128,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-captivate-and-conquer-with-customized-content-shorts/"><u>[Updated] 2024 Approved Captivate and Conquer with Customized Content Shorts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-pioneering-the-future-of-video-conferencing-with-google-meet-to-youtube/"><u>[Updated] In 2024, Pioneering the Future of Video Conferencing with Google Meet to YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>[Updated] Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>2024 Approved Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-selection-of-55-inch-televisions-insights-from-zdnet/"><u>Expert Picks: The Ultimate Selection of 55-Inch Televisions - Insights From ZDNET</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-gpu-selection-for-4k-titles-for-2024/"><u>Optimal GPU Selection for 4K Titles for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-s23-vs-iphone-14-faceoff-expert-analysis-and-buyers-guide-on-which-device-reigns-supreme/"><u>Samsung Galaxy S23 Vs. IPhone 14 Faceoff: Expert Analysis and Buyer's Guide on Which Device Reigns Supreme</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-leading-usb-c-power-solutions-for-your-devices/"><u>Ultimate Guide: Leading USB-C Power Solutions for Your Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-top-iphone-15-pro-skins-and-shields/"><u>Ultimate Selection: Top iPhone 15 Pro Skins & Shields</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-shift-how-gemini-superseded-google-assistant/"><u>Understanding the Shift: How Gemini Superseded Google Assistant</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-immediate-savings-exclusive-deals-on-every-apple-airpods-model/"><u>Unlock Immediate Savings: Exclusive Deals on Every Apple AirPods Model</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-iphones-hidden-potential-search-using-circle-with-these-simple-shortcut-steps/"><u>Unlock iPhone's Hidden Potential: Search Using Circle with These Simple Shortcut Steps!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-discover-essential-uses-of-your-12-in-one-airpods/"><u>Unlock the Full Potential: Discover Essential Uses of Your 12-In-One AirPods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/z7-review-achieving-photographic-perfection-in-a-single-camera/"><u>Z7 Review: Achieving Photographic Perfection in a Single Camera</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-essentials-of-firefoxs-pip-functionality/"><u>[Updated] The Essentials of Firefox's PIP Functionality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-portable-audio-choices-decoded/"><u>[Updated] Top Portable Audio Choices Decoded</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728489320955-windows-11/"><u>進行成功的 Windows 11 安裝: 常見問題及解決之道</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-camcorder-tech-for-shooting-sports/"><u>Best Camcorder Tech for Shooting Sports</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-the-best-13-free-dvd-players-for-windows-11-users-complete-review-and-comparisons/"><u>Discover the Best 13 Free DVD Players for Windows 11 Users - Complete Review and Comparisons</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-on-purging-your-iphone-efficient-strategies-from-stellar-professionals/"><u>Expert Advice on Purging Your iPhone: Efficient Strategies From Stellar Professionals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/step-by-step-for-beginner-3d-lut-masters/"><u>Step-by-Step for Beginner 3D LUT Masters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-and-resolving-quieter-than-usual-airpod-performance-expert-tips-and-tricks/"><u>Troubleshooting and Resolving Quieter Than Usual AirPod Performance: Expert Tips & Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-compact-power-solution-reviewed-affordable-apple-road-warrior-essentials-with-the-mophie-multi-charger/"><u>Ultimate Compact Power Solution Reviewed: Affordable Apple Road Warrior Essentials with the Mophie Multi-Charger</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-shrinking-video-files-on-iphone-for-easy-sharing/"><u>Ultimate Guide: Shrinking Video Files on iPhone for Easy Sharing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-premium-ipad-supports-enhance-your-tablet-experience/"><u>Ultimate Selection of Premium iPad Supports : Enhance Your Tablet Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-the-finest-iphone-se-shields-for-2/"><u>Ultimate Selection: The Finest iPhone SE Shields for 2지날년</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-iphones-message-colors-why-do-some-imessages-appear-as-green-while-others-are-blue/"><u>Understanding Your iPhone's Message Colors: Why Do Some iMessages Appear as Green While Others Are Blue?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro | Dr.fone</u></a></li>
 </ul></div>
 

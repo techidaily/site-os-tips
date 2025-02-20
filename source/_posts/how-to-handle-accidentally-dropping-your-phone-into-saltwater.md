@@ -1,7 +1,7 @@
 ---
 title: How to Handle Accidentally Dropping Your Phone Into Saltwater
-date: 2025-02-05T19:36:43.849Z
-updated: 2025-02-09T19:53:31.548Z
+date: 2025-02-13T16:38:00.039Z
+updated: 2025-02-20T04:20:35.685Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## How to Handle Accidentally Dropping Your Phone Into Saltwater
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  You're having a great day at the beach or on the ocean, but your fingers slip, and splash! Down goes your smartphone into the briny deep---or hopefully, just into a few inches of salt water. Either scenario can be devastating, so here's what you should do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  First, Try to Find It
@@ -36,7 +40,7 @@ Related: [What To Do If You Lose Your Two-Factor Phone](https://hardware-reviews
  If you have [AppleCare+ with Theft and Loss](https://support.apple.com/iphone/theft-loss-claims), you can file a claim for a lost iPhone---as long as you had "Find My" enabled on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn It Off, Dry Phone as Much as You Can
@@ -50,7 +54,7 @@ Related: [Stop Putting Your Phone in Rice](https://sim-unlock.techidaily.com/eas
  If your phone isn't water resistant, you may have heard that placing your smartphone in rice will help dry it out, but that's [just a myth](https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/). Rice will do nothing, and leaving it sitting there will give the saltwater stuck inside the phone body extra time to corrode the electronics. If you ever want to use the phone again, you're in a [race against time](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-12-proplus-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) to disassemble the phone and clean it out before corrosion permanently damages the internal circuitry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If Possible, Take the Phone Apart
@@ -62,10 +66,6 @@ Related: [How Water Damages Electronics](https://blog-min.techidaily.com/5-ways-
  Once the phone is open, rinse out the inside thoroughly with distilled water, gently [brush away](https://www.ifixit.com/Answers/View/480191/I+dropped+my+phone+in+water+and+it+wont+turn+on...) any corrosion with a soft brush, then let the phone sit in a bath of 90% rubbing alcohol for an hour, swishing it around a bit to displace any trapped water. After that, let all the parts air dry for at least 24 hours, then re-assemble them and see if the device works. If it works, you're probably all set. [Back up the device](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) while it is still working in case there is a failure again from uncorrected water damage.
 
 Related: [How to Back Up Your iPhone With iTunes (and When You Should)](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Otherwise, Take it to a Professional
 
@@ -84,7 +84,7 @@ Related: [How to Make an Apple Store or Genius Bar Appointment](https://facebook
 ![41uKdhSztZL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41ukdhsztzl-_sl500_-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  JOTO Universal Waterproof Phone Pouch 
@@ -112,18 +112,24 @@ Inexpensive insurance against water exposure for a smartphone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>[New] 2024 Approved Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-capture-fb-hd-footage-easily/"><u>[New] 2024 Approved Capture FB HD Footage Easily</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>[New] 2024 Approved Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-engagement-with-dynamic-360-videos-on-facebook/"><u>[Updated] Enhancing Engagement with Dynamic 360 Videos on Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-hassle-free-techniques-for-igtv-on-stories/"><u>2024 Approved Hassle-Free Techniques for IGTV on Stories</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-achieve-and-share-your-most-lengthy-instagram-videos/"><u>2024 Approved How to Achieve and Share Your Most Lengthy Instagram Videos</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprehensive-guide-to-various-virtualization-implementation-models/"><u>Comprehensive Guide to Various Virtualization Implementation Models</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-introduction-to-basic-storytelling-constructs/"><u>In 2024, Introduction to Basic Storytelling Constructs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/minipic-snapshot-scrutiny-plus-diverse-apps/"><u>MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sim-free-iphone-setup-a-comprehensive-guide-on-how-to-turn-on-your-device/"><u>SIM-Free iPhone Setup: A Comprehensive Guide on How to Turn On Your Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-12-iphone-gimbals-and-apps-ultimate-guide-to-smooth-video-capturing/"><u>Top 12 iPhone Gimbals and Apps: Ultimate Guide to Smooth Video Capturing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-effective-methods-to-track-your-iphone-from-computer-or-mac/"><u>Top 5 Effective Methods to Track Your iPhone From Computer or Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-your-verizon-device-2-proven-strategies-for-any-scenario/"><u>Unlocking Your Verizon Device: 2 Proven Strategies for Any Scenario</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-effortless-lenovo-screen-casting/"><u>[New] In 2024, Effortless Lenovo Screen Casting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-transferring-facebook-videos-seamlessly-across-oses/"><u>[New] In 2024, Transferring Facebook Videos Seamlessly Across OSes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-perfecting-online-presentations-with-googles-whiteboard-tools-on-multiple-platforms-for-2024/"><u>[New] Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-shutterbugs-tips-for-better-images/"><u>[Updated] IPhone Shutterbugs Tips for Better Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-4k-unveiled-hp-dreamcolors-technological-leap/"><u>2024 Approved 4K Unveiled HP DreamColor's Technological Leap</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-of-updated-videoshow-app-for-24-users/"><u>2024 Approved In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-fix-when-your-ipad-wont-connect-with-laptopdesktop-computers/"><u>A Comprehensive Guide to Fix When Your iPad Won't Connect with Laptop/Desktop Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-fixing-windows-10-update-issue-with-error-0x80070541/"><u>Comprehensive Guide: Fixing Windows 10 Update Issue with Error 0X80070541</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/create-stunning-visuals-in-minutes-top-7-ai-driven-presentation-tools-revealed/"><u>Create Stunning Visuals in Minutes: Top 7 AI-Driven Presentation Tools Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-ipad-display-fixes-quick-and-trustworthy-professional-repairs/"><u>Expert iPad Display Fixes: Quick and Trustworthy Professional Repairs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-benefits-of-an-iphone-jailbreak-a-comprehensive-guide/"><u>Exploring the Benefits of an iPhone Jailbreak: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphone-frozen-on-recovery-screen-effective-solutions-and-tips/"><u>How to Resolve iPhone Frozen on Recovery Screen: Effective Solutions & Tips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-mov-video-orientation-changers-top-5-list/"><u>In 2024, Free MOV Video Orientation Changers Top 5 List</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quickly-restore-touch-id-functionality-essential-tips-for-iphone-and-ipad-users/"><u>Quickly Restore Touch ID Functionality: Essential Tips for iPhone & iPad Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-iphone-wont-turn-off-issues-without-damage/"><u>Simple Troubleshooting Steps to Resolve 'iPhone Won't Turn Off' Issues Without Damage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-iphones-bluetooth-problem-a-step-by-step-guide-with-10-proven-fixes/"><u>Solve Your iPhone's Bluetooth Problem: A Step-by-Step Guide with 10 Proven Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-snapchat-struggles-in-5-easy-steps-quick-fixes-for-usability-issues/"><u>Solve Your Snapchat Struggles in 5 Easy Steps - Quick Fixes for Usability Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-fix-your-unresponsive-facetime-connection-with-these-simple-6-steps/"><u>The Ultimate Guide: Fix Your Unresponsive FaceTime Connection with These Simple 6 Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-new-functionalities-in-chatgpt-top-updates-for-users/"><u>Unveiling New Functionalities in ChatGPT – Top Updates for Users</u></a></li>
 </ul></div>
 

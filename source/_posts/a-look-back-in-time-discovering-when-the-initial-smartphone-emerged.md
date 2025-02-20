@@ -1,7 +1,7 @@
 ---
 title: "A Look Back in Time: Discovering When the Initial Smartphone Emerged"
-date: 2025-02-02T20:33:02.389Z
-updated: 2025-02-09T20:30:07.315Z
+date: 2025-02-12T16:04:35.826Z
+updated: 2025-02-19T21:02:44.426Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ## A Look Back in Time: Discovering When the Initial Smartphone Emerged
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 * [The First Smartphone](https://some-guidance.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  Apple is largely credited with kicking off the smartphone boom in 2007 with the original iPhone. Of course, the iPhone was not the first smartphone—that came many years earlier, and it surprisingly didn't bear the name of BlackBerry or Nokia. Let's hop in the Wayback Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Mobile Phone
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 ![Motorola DynaTac 800X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/motorola-dynatac-800x.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mobile Phone Museum](https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x)
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
  All of that fancy technology was not cheap. It cost $3,995 in 1984, the equivalent of a cool $12K nowadays. Motorola followed up the original DynaTAC with several iterations throughout the late 80s and early 90s. The phones got far more mobile, culminating with the [StarTAC in 1996](https://en.wikipedia.org/wiki/Motorola%5FStarTAC), but they were never _smart_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The First Smartphone
@@ -88,18 +88,18 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-charting-new-heights-with-popular-youtube-content-for-2024/"><u>[New] Charting New Heights with Popular YouTube Content for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-complete-guide-to-screen-capturing-in-minecraft-for-2024/"><u>[New] Complete Guide to Screen Capturing in Minecraft for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-secure-your-remote-sessions-with-these-tools-for-2024/"><u>[Updated] Secure Your Remote Sessions with These Tools for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-ultimate-guide-to-cutting-edge-smart-glasses/"><u>2024'S Ultimate Guide to Cutting-Edge Smart Glasses</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-70-lite-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 70 Lite 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/double-tap-feature-added-to-apple-watch-series/"><u>Double Tap Feature Added to Apple Watch Series</u></a></li>
-<li><a href="https://os-tips.techidaily.com/download-altstore-pal-version-completely-gratis-exclusive-offer-for-european-audiences/"><u>Download AltStore PAL Version Completely Gratis: Exclusive Offer for European Audiences</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-to-prevent-auto-lock-on-your-iphone-display/"><u>Effective Techniques to Prevent Auto-Lock on Your iPhone Display</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-next-level-nintendo-ds-gaming-on-your-ipad-with-our-newly-released-screen-controlled-emulator-feature/"><u>Experience Next-Level Nintendo DS Gaming on Your iPad with Our Newly Released Screen-Controlled Emulator Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-for-enhancing-productivity-with-apple-mail-on-ios-devices/"><u>Expert Strategies for Enhancing Productivity with Apple Mail on iOS Devices</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/expert-tips-on-salvaging-files-from-a-vintage-sony-ps4-hdd/"><u>Expert Tips on Salvaging Files From a Vintage Sony PS4 HDD</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-cons-critical-weaknesses-in-apples-latest-vision-pro-worth-considering/"><u>Exploring the Cons: Critical Weaknesses in Apple's Latest Vision Pro Worth Considering</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-filmora-fusion-a-comprehensible-comparative-guide/"><u>[New] Filmora Fusion A Comprehensible Comparative Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-hit-the-high-notes-in-capturing-twitch-live-events-for-2024/"><u>[New] How to Hit the High Notes in Capturing Twitch Live Events for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-settings-fast-entry-pathways-on-windows/"><u>Control Settings: Fast Entry Pathways on Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-duplicate-deletion-for-windows-users-with-yls-expert-tips/"><u>Effortless Duplicate Deletion for Windows Users with YL's Expert Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhanced-landscaping-with-lidar-paving-the-way-to-improved-utility-services-discover-how-on-zdnet/"><u>Enhanced Landscaping with Lidar: Paving the Way to Improved Utility Services - Discover How on ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-xs-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone XS Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-apple-pencil-substitutes-enhance-your-ipad-experience/"><u>Top Apple Pencil Substitutes: Enhance Your iPad Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-ios-18-update-perks-every-android-fan-should-know/"><u>Top iOS 18 Update Perks Every Android Fan Should Know!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-fitness-applications-for-iphones-transform-your-body-this-summer/"><u>Top Rated Fitness Applications for iPhones: Transform Your Body This Summer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/turning-off-your-iphones-vibration-alerts-easy-tutorial/"><u>Turning Off Your iPhone's Vibration Alerts – Easy Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-steps-to-reboot-your-apple-watch/"><u>Ultimate Guide: Steps to Reboot Your Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-syncing-and-securing-your-iphone-data-with-icloud/"><u>Ultimate Guide: Syncing and Securing Your iPhone Data with iCloud</u></a></li>
 </ul></div>
 

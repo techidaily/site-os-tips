@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your iCloud: Effective Strategies for Clearing Out Space"
-date: 2025-02-03T19:29:00.687Z
-updated: 2025-02-10T02:29:10.741Z
+date: 2025-02-19T05:47:54.794Z
+updated: 2025-02-20T01:15:49.761Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 ---
 
 ## Maximizing Your iCloud: Effective Strategies for Clearing Out Space
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/dd50570496ecd6117c25174ee2bd7c391f8d8aee1
 
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Identify the Biggest Storage Hogs
 
  Before you start removing iCloud files, you can find out what's taking up the most space to determine what to delete. Open the Settings (iOS/iPadOS) or System Settings app (Mac), select your Apple ID at the top, and choose "iCloud."
@@ -44,12 +44,16 @@ Close
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -83,13 +87,13 @@ Close
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
 
@@ -98,10 +102,6 @@ Close
 Close 
 
  You can safely disable iCloud for apps that sync data online anyway, like Pocket or Facebook.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Back Up Your Photos to a Different Cloud Service
 
@@ -112,6 +112,10 @@ Close
 Close 
 
  With iCloud Photos disabled, you're wholeheartedly recommended to try [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU220865/https://itunes.apple.com/us/app/google-photos-free-photo-video/id962194608?mt=8), [Dropbox](https://geo.itunes.apple.com/en/app/dropbox/id327630330?at=1010loXs&ct=191340), or [Flickr](https://apps.apple.com/gb/app/flickr/id328407587), which can automatically back up your photos to a separate pool of cloud storage that's often bigger than iCloud. That way, you'll have a backup copy of your photos and videos stored online and retain your precious iCloud storage for other functions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Delete App Documents and Data From iCloud
 
@@ -126,10 +130,6 @@ Close
 Close 
 
  Be careful when doing this, though, as you could delete essential documents and files you might want to keep.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Triage Your iCloud Mail Inbox
 
@@ -147,6 +147,10 @@ Close
 
 ![iCloud Mail in a web browser with the Empty Trash option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-icloud-mail-app-inbox-view-empty-trash-selected.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you delete emails, remember to empty the trash afterward to have them removed permanently and free up storage space.
 
  You don't need to delete your emails from Gmail, Outlook, or Yahoo as those services don't store inboxes in iCloud but rather within their own cloud space.
@@ -162,10 +166,6 @@ Close
  The selected attachments will be removed from all your Apple devices.
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Consider Upgrading Your iCloud Storage
 
@@ -210,17 +210,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-screenshot-or-record-of-whats-showing-on-your-mac/"><u>[New] In 2024, How to Screenshot or Record of What's Showing On Your Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-guide-mastering-quick-screen-recording-on-mac-via-keys/"><u>[New] Ultimate Guide Mastering Quick Screen Recording on Mac via Keys</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-infusing-emotion-into-documentary-narratives/"><u>[Updated] 2024 Approved Infusing Emotion Into Documentary Narratives</u></a></li>
-<li><a href="https://os-tips.techidaily.com/best-methods-for-retrieving-lost-call-history-from-iphoneandroid-devices-successfully/"><u>Best Methods for Retrieving Lost Call History From iPhone/Android Devices Successfully</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-to-restoring-deleted-items-from-itunes-backup-efficient-data-recovery-solutions/"><u>Complete Guide to Restoring Deleted Items From iTunes Backup: Efficient Data Recovery Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-strategies-regain-full-control-of-your-gmail-with-these-proven-forgotten-password-solutions/"><u>Expert Strategies: Regain Full Control of Your Gmail with These Proven Forgotten Password Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-x50-gt-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor X50 GT to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-convert-your-videos-into-cash-streams-youtubes-2024-strategy/"><u>How to Convert Your Videos Into Cash Streams - Youtube's 2024 Strategy</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-places-to-get-your-cracked-iphone-display-fixed-prices-and-reviews/"><u>Top Places to Get Your Cracked iPhone Display Fixed: Prices & Reviews</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-substitutes-for-imobie-phonerescue-professional-data-restoration-solutions/"><u>Top Substitutes for iMobie PhoneRescue: Professional Data Restoration Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-to-fixing-common-iphone-photo-storage-problems-with-these-8-essential-tricks/"><u>Unlock the Secrets to Fixing Common iPhone Photo Storage Problems with These 8 Essential Tricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-precision-techniques-in-spinning-and-fusing-android-videography/"><u>[New] In 2024, Precision Techniques in Spinning & Fusing Android Videography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aster-the-art-of-youtube-outros-with-pros-and-resources-for-2024/"><u>[New] Master the Art of YouTube Outros with Pros and Resources for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-basic-to-brilliant-a-complete-insta-cover-photo-course/"><u>[Updated] In 2024, From Basic to Brilliant A Complete Insta Cover Photo Course</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-learn-to-tweak-the-speed-of-your-stories-videos/"><u>[Updated] In 2024, Learn to Tweak the Speed of Your Stories' Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-light-on-shadows-techniques-for-depth-in-illustrator/"><u>2024 Approved Light on Shadows Techniques for Depth in Illustrator</u></a></li>
+<li><a href="https://os-tips.techidaily.com/avoiding-unnecessary-storage-use-halting-whatsapp-sync-on-mobile-phones/"><u>Avoiding Unnecessary Storage Use: Halting WhatsApp Sync on Mobile Phones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-to-safeguard-phone-information-iphones-and-androids/"><u>Comprehensive Steps to Safeguard Phone Information: IPhones and Androids</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-save-your-iphones-information-using-icloud-itunes-or-pc-a-complete-guide/"><u>Easy Steps: Save Your iPhone's Information Using iCloud, iTunes or PC - A Complete Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-photo-preservation-for-smartphone-users-securely-saving-images-on-android-and-iphone/"><u>Effortless Photo Preservation for Smartphone Users: Securely Saving Images on Android & iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-insight-unveiling-the-persistent-80-discount-on-apples-2nd-generation-watchse-after-prime-day-hype-tech-analysis/"><u>Exclusive Insight: Unveiling the Persistent $80 Discount on Apple's 2Nd Generation WatchSE After Prime Day Hype | Tech Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620204212-expert-tips-for-overcoming-iphone-backup-restoration-problems-on-models-7-8-and-8plus/"><u>Expert Tips for Overcoming iPhone Backup Restoration Problems on Models 7, 8 & 8+!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experts-complete-handbook-for-iphone-and-android-backup-data-recovery-techniques/"><u>Expert's Complete Handbook for iPhone and Android Backup Data Recovery Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitness-meets-savings-with-the-fitbit-versa-an-expert-review-on-a-cost-conscious-device/"><u>Fitness Meets Savings with the Fitbit Versa – An Expert Review on a Cost-Conscious Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-preserving-your-tunes-ultimate-strategies-for-securing-your-songs-on-all-iphones-model-15-14-13-and-earlier/"><u>Guide: Preserving Your Tunes - Ultimate Strategies for Securing Your Songs on All iPhones (Model 15, 14, 13, and Earlier)</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-a-corrupted-iphone-backup-with-two-reliable-techniques/"><u>How to Fix a Corrupted iPhone Backup with Two Reliable Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-rescue-mission-retrieving-your-valuable-information-beyond-itunes-and-icloud-boundaries/"><u>IPhone Rescue Mission: Retrieving Your Valuable Information Beyond iTunes and iCloud Boundaries</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-g2-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo G2 Users</u></a></li>
 </ul></div>
 

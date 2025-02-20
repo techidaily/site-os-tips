@@ -1,7 +1,7 @@
 ---
 title: "Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?"
-date: 2025-02-09T00:52:57.558Z
-updated: 2025-02-09T17:34:35.164Z
+date: 2025-02-18T22:02:58.264Z
+updated: 2025-02-19T22:42:57.774Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ---
 
 ## Daily Assistant Showdown: Claude Vs. ChatGPT - Which One Reigns Supreme?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Anthropic and ChatGPT are two of the biggest names in AI that the public can use. With both of these companies releasing mobile apps, the big question is which of their apps is better for you to use in your everyday life. Let's see what each has to offer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  GPT vs. Claude On The Web
@@ -39,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek / Midjourney
@@ -74,7 +74,7 @@ Close
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Dookeran/How-to-Geek
@@ -86,7 +86,7 @@ Jason Dookeran/How-to-Geek
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hallucinations Still Happen On Mobile
@@ -112,14 +112,19 @@ Jason Dookeran/How-to-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-art-and-science-of-screen-excellence-sony-xperia-xz-review/"><u>[Updated] 2024 Approved The Art and Science of Screen Excellence - Sony Xperia XZ Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tricks-to-enhance-your-ppt-impact-on-google-meet-any-device/"><u>[Updated] Tricks to Enhance Your PPT Impact on Google Meet, Any Device</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-visual-storytelling-through-youtube-split-screens/"><u>2024 Approved Visual Storytelling Through YouTube Split-Screens</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620202417-effortlessly-upload-photos-from-your-android-device-to-computer-or-google-photos-detailed-instructions-inside/"><u>Effortlessly Upload Photos From Your Android Device to Computer or Google Photos - Detailed Instructions Inside</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-premium-1900-robovac-and-mop-worth-your-investment-my-one-month-hands-on-experience-smarthomeguide/"><u>Is the Premium $1,900 RoboVac and Mop Worth Your Investment? My One-Month Hands-On Experience | SmartHomeGuide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-saving-android-text-chats-onto-your-desktop-system/"><u>Step-by-Step Tutorial on Saving Android Text Chats Onto Your Desktop System</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-5-fixes-for-paused-whatsapp-backup-issues-on-android-phones/"><u>Ultimate Guide: Top 5 Fixes for Paused WhatsApp Backup Issues on Android Phones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-tailoring-recording-techniques-in-audacity-for-professionals/"><u>[Updated] In 2024, Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-analyzing-the-goofy-journey-vhs-review-insights/"><u>2024 Approved Analyzing 'The Goofy Journey' VHS Review Insights</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/efficient-techniques-for-removing-junk-event-invitations-from-your-iphone-calendar/"><u>Efficient Techniques for Removing Junk Event Invitations From Your iPhone Calendar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-amd-rx-6700-xt-drivers-now-compatible-with-windows-11107/"><u>Get the Newest AMD RX 6700 XT Drivers Now - Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-a-step-by-step-guide-share-youtube-vids-with-fb-friends/"><u>In 2024, A Step-by-Step Guide Share YouTube Vids with FB Friends</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-comprehensive-guide-to-embedding-youtube-playlists-online/"><u>In 2024, Comprehensive Guide to Embedding YouTube Playlists Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximizing-your-sightline-in-roblox-playground/"><u>Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-startup-stalls-on-macos-how-to-get-your-apps-running-again/"><u>Overcoming Startup Stalls on macOS: How to Get Your Apps Running Again</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-removal-a-step-by-step-guide-to-completely-uninstalling-iphone-and-ipad-applications/"><u>Permanent Removal: A Step-by-Step Guide to Completely Uninstalling iPhone and iPad Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/snapchat-cleanup-guide-a-simple-way-to-erase-conversations-and-texts/"><u>Snapchat Cleanup Guide - A Simple Way to Erase Conversations and Texts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-free-up-space-by-cleaning-your-ios-devices-instagram-app-data-2024-edition/"><u>Step-by-Step Tutorial: Free Up Space by Cleaning Your iOS Device's Instagram App Data, 2024 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/steps-not-to-overlook-when-quitting-social-sites/"><u>Steps Not To Overlook When Quitting Social Sites</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-free-up-space-on-your-ipad-to-enhance-speed-and-responsiveness/"><u>The Ultimate Guide: Free Up Space on Your iPad to Enhance Speed and Responsiveness</u></a></li>
 </ul></div>
 

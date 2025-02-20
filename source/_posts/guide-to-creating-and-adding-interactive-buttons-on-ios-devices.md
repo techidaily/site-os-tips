@@ -1,7 +1,7 @@
 ---
 title: Guide to Creating and Adding Interactive Buttons on iOS Devices
-date: 2025-02-06T02:53:04.638Z
-updated: 2025-02-09T19:39:07.356Z
+date: 2025-02-19T06:05:49.528Z
+updated: 2025-02-19T20:31:31.818Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Guide to Creating and Adding Interactive Buttons on iOS Devices
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,24 +28,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Open the "Settings" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0369.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, go to the "Accessibility" settings and select "Touch."
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Go to "Assistive Touch" and toggle it on at the top of the screen.
 
 ![Toggle on "Assistive Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-21_16-49-36.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A floating button will appear on the screen. By default, this button opens a menu that can contain up to eight different shortcuts. Tap "Customize Top Level Menu."
 
@@ -67,17 +55,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Custom Actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0378.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, a virtual button on the screen is not as convenient as a physical button, but it does have the added benefit of having more than one action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Back of the iPhone as an "Action Button"
 
  What if you could [launch actions by tapping the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/)? Thanks to Accessibility, you can. Again, let's head to Settings > Accessibility > Touch.
 
 ![Go to "Accessibility" and "Touch."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0370.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down to "Back Tap."
 
@@ -87,19 +79,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Choose a gesture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0380.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose from the list of actions.
 
 ![Choose an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/img_0381.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's all there is to it! This is the best way to get a "physical" Action Button on an iPhone that doesn't have one. You still can launch the actions without the screen needing to be on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Dimple Buttons
 
 ![dimple.io buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/dimpleio.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Unbox Therapy](https://youtu.be/6Mp01eg0-ZM)
 
@@ -124,24 +124,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/outube-video-mastery-seizing-the-seo-opportunity-for-2024/"><u>[New] YouTube Video Mastery Seizing the SEO Opportunity for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-turn-your-youtube-tracks-into-mp3-with-macos/"><u>[Updated] In 2024, Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-star-studded-stories-the-ultimate-guide-to-3-instagram-highlights/"><u>[Updated] Star-Studded Stories The Ultimate Guide to 3 Instagram Highlights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-how-to-move-images-from-an-iphone-to-a-windows-pc-a-step-by-step-deermoon-tutorial/"><u>1. How to Move Images From an iPhone to a Windows PC: A Step-by-Step DeerMoon Tutorial</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-videography-with-top-seo-gadgets/"><u>2024 Approved Elevate Your Videography with Top SEO Gadgets</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-review-magix-editing-suite/"><u>2024 Approved Review MAGIX Editing Suite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-lag-expert-tips-for-smooth-play-in-outriders-on-your-computer/"><u>Banish Lag: Expert Tips for Smooth Play in Outriders on Your Computer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/bypass-drm-restrictions-for-itunes-purchases-with-dearmobs-comprehensive-guide/"><u>Bypass DRM Restrictions for iTunes Purchases with DearMob's Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-transferring-e-books-seamlessly-from-iphone-to-mac-with-dearmob/"><u>Comprehensive Guide: Transferring E-Books Seamlessly From iPhone to Mac with DearMob</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-step-by-step-tutorial-on-shifting-library-content-between-iphone-and-mac-using-dearmob-app/"><u>Easy Step-by-Step Tutorial on Shifting Library Content Between iPhone & Mac Using DearMob App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficiently-utilizing-swift-transfer-options-in-your-dearmob-iphone-app-a-comprehensive-guide/"><u>Efficiently Utilizing Swift Transfer Options in Your DearMob iPhone App: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-image-transfer-for-iphone-and-mac-users-comprehensive-tutorial-by-dearmob-experts/"><u>Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor 90 Lite?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-move-your-tunes-iphone-and-mac-transfer-guide-by-dearmob/"><u>How to Seamlessly Move Your Tunes: IPhone & Mac Transfer Guide by DearMob</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-seamlessly-sync-images-from-your-iphone-to-a-mac-a-step-by-step-dearmob-guide/"><u>How to Seamlessly Sync Images From Your iPhone to a Mac: A Step-by-Step DearMob Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-the-gap-understanding-and-using-slug-lines/"><u>In 2024, Bridging the Gap Understanding & Using Slug Lines</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-x7b-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor X7b To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-management-with-dearmob-effortless-transfer-of-your-icloud-photos-and-videos-to-computer-or-mac/"><u>IPhone Management with DearMob: Effortless Transfer of Your iCloud Photos and Videos to Computer or Mac</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/your-roadmap-to-earning-on-tiktok-discover-these-top-8-approaches/"><u>Your Roadmap to Earning on TikTok Discover These Top 8 Approaches</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>[New] Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-learn-ipads-screen-sharing-basics-for-2024/"><u>[Updated] Learn iPad's Screen Sharing Basics for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/4-ways-to-watch-facebook-live-on-tv/"><u>4 Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-vanguard-of-virtual-storage-top-choices/"><u>In 2024, The Vanguard of Virtual Storage Top Choices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-height-tracking-the-ultimate-tutorial-for-using-iphones-elevation-features/"><u>Mastering Height Tracking: The Ultimate Tutorial for Using iPhone's Elevation Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-productivity-with-iphone-sticker-applications/"><u>Maximize Productivity with iPhone Sticker Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigate-safely-using-waze-get-immediate-updates-on-traffic-lights-sharp-turns-and-more/"><u>Navigate Safely Using Waze - Get Immediate Updates on Traffic Lights, Sharp Turns & More!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcoming-siri-limitations-expert-tips-and-techniques-for-enhanced-voice-command-performance/"><u>Overcoming Siri Limitations: Expert Tips and Techniques for Enhanced Voice Command Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rugged-elegance-peak-design-collaborates-with-the-nomad-collective-on-an-exclusive-iphone-15-pro-protector/"><u>Rugged Elegance: Peak Design Collaborates with the Nomad Collective on an Exclusive iPhone 15 Pro Protector</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-on-reinitializing-your-iphone-device/"><u>Simple Guide on Reinitializing Your iPhone Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-to-move-your-iphone-pictures-onto-your-computer/"><u>Simple Steps to Move Your iPhone Pictures Onto Your Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toshiba-multifunction-printer-driver-software-for-windows-operating-systems/"><u>Toshiba Multifunction Printer Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-patient-care-through-conversational-ai-insights-into-chatgpt/"><u>Transforming Patient Care Through Conversational AI: Insights Into ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-series-s-ignores-traditional-game-formats/"><u>Why Xbox Series S Ignores Traditional Game Formats</u></a></li>
 </ul></div>
 

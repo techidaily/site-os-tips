@@ -1,7 +1,7 @@
 ---
 title: "Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!"
-date: 2025-02-04T17:54:23.155Z
-updated: 2025-02-09T22:31:56.391Z
+date: 2025-02-13T01:32:29.247Z
+updated: 2025-02-19T19:24:27.566Z
 tags:
   - ios
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ## Switching From the Apple Watch Ultra: Discover Why My Wife Prefers Casio!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Apple Watch Ultra is overkill for most people, with unnecessary features and limited practical use.
@@ -19,35 +23,31 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  My wife's as much a tech geek as I am, and she was instantly sold on the Apple Watch Ultra when she first laid eyes on it. However, just over a year later, she ditched the Ultra (and all smartwatches) for a classic Casio watch instead. I tried to understand why, and she had some pretty interesting reasoning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Ultra Is True Overkill
 
  At the time she decided she wanted the [Watch Ultra](https://video-capture.techidaily.com/new-bandicam-in-depth-review-for-the-modern-user/), we were both rocking Apple Watch 6 models, but Apple's marketing was pretty convincing. While I decided that I had no use for the Ultra's over-engineered design, my wife is something of an outdoors(wo)man and actually does stuff like hiking, scuba diving, snorkeling, and so on. The Ultra seemed perfect for that sort of thing and her Series 6 had a little bit of wear and tear, so the appeal of the smartwatch equivalent of a tank seemed great.
 
 ![Apple Watch Ultra underwater](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/11c676ed.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Apple_
 
  In the end, it turns out that even the humble mainstream Apple Watch would have been good enough, and the Watch Ultra was never really put to the test. While I'm sure that there are plenty of extreme athletes out there who really need an Ultra, for most people it's probably like having an SUV in the suburbs, never seeing anything steeper than a curb.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fitness Features Don’t Need a Smartwatch Anymore
 
  One of the main reasons we started using smartwatches in the first place was to track our daily steps and ensure that we were getting enough exercise. The thing is, you don't actually need a "smart" watch to do that anymore. At least when it comes to tracking steps. Watchmakers like Casio now offer regular [watches with Bluetooth](https://www.amazon.com/Casio-G-Shock-Step-Tracker-Bluetooth-GBA-800UC-5ACR/dp/B07PLT244R?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003048&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmy-wife-ditched-her-apple-watch-ultra-for-a-casio-and-you-might-too%2F&asc%5Fcampaign=Evergreen) that still lets you connect to an app and collect basic fitness data. Likely enough for the average person who isn't specifically a fitness nut, but just wants to know if they got their 10K steps in for the day.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Constant Charging Is an Utter Pain
 
 ![Apple Watch Ultra box contents spread out on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/070ea52d.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Bill Loguidice / Review Geek_
 
@@ -62,7 +62,7 @@ Tyler Hayes / How-To Geek
  While this has more to do with overall smartwatch fatigue than the Ultra in particular, one major reason for my significant other reaching the end of her rope and changing to a Casio "dumb" watch is that there's no hiding from your phone notifications. This wouldn't be so bad if you could deal with those notifications on the watch itself. However, in most cases she'd have to pull out her iPhone anyway to reply, see a picture, watch a video, or whatever else the notification was about. So the watch wasn't even cutting down on her phone time, it was just putting a superfluous step in front of pulling the phone out one way or another.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Ultra Keeps Waking Her Up at Night
@@ -70,7 +70,7 @@ Tyler Hayes / How-To Geek
  Since that longer battery life doesn't mean she didn't have to charge the watch overnight anyway, it brought up another annoying issue. We invested in one of those triple-charger stands that holds an iPhone, Apple Watch, and AirPods at the same time. However, the Watch Ultra would light up randomly during the night, waking her up. She even tried turning the watch off completely before putting it on charge, but it would eventually turn itself on while charging. Sure, you could just shove it in a drawer, but that defeats the
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Obvious Features Are Still Missing From the Ultra
@@ -94,18 +94,20 @@ Tyler Hayes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-channel-identity-made-simple-with-these-top-11-zero-cost-tools-for-2024/"><u>[New] Channel Identity Made Simple with These Top 11 Zero-Cost Tools for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-exclusive-windows-11s-media-importers-for-2024/"><u>[New] The Ultimate Exclusive Windows 11'S Media Importers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-instagram-post-replicas/"><u>[Updated] 2024 Approved Unlocking the Secrets to Instagram Post Replicas</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ideal-video-capturer-for-engaging-youtube-audiences/"><u>[Updated] Ideal Video Capturer for Engaging YouTube Audiences</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-content-with-purpose-balancing-job-and-youtube/"><u>[Updated] In 2024, Creating Content with Purpose Balancing Job & YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-redefined-artistry-with-new-microsoft-paint-tools/"><u>Discover Redefined Artistry with New Microsoft Paint Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficiently-managing-your-iphone-deleting-multiple-contacts-in-a-single-step/"><u>Efficiently Managing Your iPhone: Deleting Multiple Contacts in a Single Step</u></a></li>
-<li><a href="https://os-tips.techidaily.com/embracing-the-era-of-mobile-device-standardization/"><u>Embracing the Era of Mobile Device Standardization</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-security-discover-expressvpns-latest-addition-a-password-management-tool/"><u>Enhance Your Security: Discover ExpressVPN's Latest Addition - A Password Management Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-vivaldis-new-features-include-vibrant-themes-and-dark-mode-on-ios/"><u>Enhanced User Experience: Vivaldi's New Features Include Vibrant Themes & Dark Mode on iOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exclusive-preview-anticipating-ios-18-updates-breakthrough-in-apple-artificial-intelligence-and-siris-next-generation-wwdc24-highlights-and-new-tech-innovat21/"><u>Exclusive Preview: Anticipating iOS 18 Updates, Breakthrough in Apple Artificial Intelligence, and Siri's Next Generation - WWDC24 Highlights & New Tech Innovations!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expanding-storage-options-using-an-ipad-to-format-external-usb-devices-effortlessly/"><u>Expanding Storage Options: Using an iPad to Format External USB Devices Effortlessly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unpublished-photography-scrutiny-and-complementary-selections-for-2024/"><u>Unpublished Photography Scrutiny & Complementary Selections for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-most-popular-firefox-visual-recorders/"><u>[New] In 2024, Most Popular Firefox Visual Recorders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-iphone-lens-exploration-key-angles-to-elevate-your-photo-game-for-2024/"><u>[New] IPhone Lens Exploration Key Angles to Elevate Your Photo Game for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unified-platforms-for-sharing-videos/"><u>[Updated] In 2024, Unified Platforms for Sharing Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-explore-and-understand-what-does-pfp-mean-on-tiktok/"><u>2024 Approved Explore and Understand What Does PFP Mean on TikTok?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/a-comprehensive-walkthrough-of-setting-up-drs-in-vmware-systems/"><u>A Comprehensive Walkthrough of Setting Up DRS in VMware Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-guide-preparing-to-embrace-the-apple-world/"><u>Critical Guide: Preparing to Embrace the Apple World</u></a></li>
+<li><a href="https://os-tips.techidaily.com/disappointing-wearos-experience-leads-me-to-switch-to-apples-smartwatch/"><u>Disappointing WearOS Experience Leads Me to Switch to Apple's Smartwatch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discontinuation-announcement-apple-ends-sales-of-watch-series-9-and-ultra-models/"><u>Discontinuation Announcement: Apple Ends Sales of Watch Series 9 & Ultra Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-ipados-18-upgrades-are-redefining-interaction-on-your-ipad-with-these-8-key-features/"><u>Discover How iPadOS 18 Upgrades Are Redefining Interaction on Your iPad with These 8 Key Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-the-brilliance-of-ios-16s-flashlight-function-a-testament-to-apples-dedication-to-user-experience/"><u>Discovering the Brilliance of iOS 16'S Flashlight Function – A Testament to Apple's Dedication to User Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/do-you-absolutely-need-a-phone-screen-guard-for-your-mobile-device/"><u>Do You Absolutely Need a Phone Screen Guard for Your Mobile Device?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-retrieving-missing-apple-airpod-pairs-successfully/"><u>Easy Guide: Retrieving Missing Apple AirPod Pairs Successfully</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-dominating-viewership-tips-for-your-video-to-be-a-staff-choice/"><u>In 2024, Dominating Viewership Tips for Your Video to Be a Staff Choice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-exceptional-economically-priced-asmr-gear/"><u>In 2024, Explore Exceptional, Economically-Priced ASMR Gear</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x7b-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X7b</u></a></li>
 </ul></div>
 

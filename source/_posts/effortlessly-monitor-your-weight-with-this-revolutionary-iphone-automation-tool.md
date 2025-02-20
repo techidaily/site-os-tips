@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
-date: 2025-02-09T01:16:37.875Z
-updated: 2025-02-10T01:59:42.230Z
+date: 2025-02-18T18:46:08.464Z
+updated: 2025-02-19T22:52:49.638Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Create new shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-17-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, tap “Add Action” and use the search bar to find the “Log Health Sample” action. Tap on it to add it to your Shortcuts workflow.
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
@@ -43,15 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To save, hit “Done” in the top-right corner of the screen. That’s it!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using Your New Shortcut
 
@@ -62,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The "Edit" button on the iPhone widgets screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-22.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now tap on the widget you just added, and next to the “Shortcut” field choose the “Record weight” shortcut you just created. The widget will be added, drag it into place and you’re done. You can also [place these widgets on a regular Home screen](https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/) if you’d rather.
@@ -71,17 +67,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Seeing Results
 
  Head to Health > Body Measurements > Weight to see your numbers plotted on a chart. Use the “Add to Favorites” button at the bottom of the screen to pin this section to the “Summary” tab.
 
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Getting the Most Out of Apple Health
 
@@ -104,18 +104,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-comprezyme-of-creativity-and-technique-dominating-instagram-interactions-for-2024/"><u>A Comprezyme of Creativity and Technique Dominating Instagram Interactions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-guide-to-vscos-camera-app-for-2024/"><u>Full Guide to VSCO's Camera App for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reclaim-your-memories-effective-strategies-for-finding-and-restoring-missing-videos-on-ios-devices/"><u>Reclaim Your Memories: Effective Strategies for Finding and Restoring Missing Videos on iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resurrecting-missed-contacts-expert-strategies-for-retrieving-deleted-data-in-your-itunes-backup-archive/"><u>Resurrecting Missed Contacts: Expert Strategies for Retrieving Deleted Data in Your iTunes Backup Archive</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-memories-step-by-step-guide-to-retrieving-iphoneipad-images-from-an-itunes-backup/"><u>Reviving Your Memories: Step-by-Step Guide to Retrieving iPhone/iPad Images From an iTunes Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-iphone-apps-for-effective-data-recovery-and-restoration-of-lost-files/"><u>Top 5 iPhone Apps for Effective Data Recovery & Restoration of Lost Files</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-retrieving-your-files-from-icloud-effortlessly/"><u>Ultimate Step-by-Step Tutorial: Retrieving Your Files From iCloud Effortlessly</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/bes-secrets-integrating-text-overlays-in-your-clips/"><u>YouTube's Secrets Integrating Text Overlays in Your Clips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-enhance-audibility-with-adjusted-obs-settings/"><u>[New] In 2024, How to Enhance Audibility with Adjusted OBS Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-download-and-installation-made-easy-for-ez-grabber-users-for-2024/"><u>[Updated] Download and Installation Made Easy for EZ Grabber Users for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlining-your-live-events-merging-obs-and-zoom/"><u>2024 Approved Streamlining Your Live Events Merging OBS and Zoom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-you-restore-lost-imessages-from-ios-devices-explore-the-methods-using-a-mac-computer/"><u>Can You Restore Lost iMessages From iOS Devices? Explore the Methods Using a Mac Computer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/delving-into-magix-photo-editors-features-for-2024/"><u>Delving Into MAGIX Photo Editor's Features for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-boost-your-instagram-with-easily-shareable-gifs-step-by-step/"><u>In 2024, Boost Your Instagram with Easily Shareable GIFs (Step-by-Step)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-deleted-contacts-on-icloud-using-these-3-simple-techniques/"><u>Recover Deleted Contacts on iCloud Using These 3 Simple Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-tracks-on-your-ios-device-even-if-you-lack-a-backup/"><u>Retrieve Accidentally Deleted Tracks on Your iOS Device Even If You Lack a Backup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-deleted-imagery-on-kik-chat-expert-tips-for-retrieval-success/"><u>Revive Deleted Imagery on Kik Chat - Expert Tips for Retrieval Success</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-retrieving-iphone-photos-after-an-ipados-upgrade/"><u>Step-by-Step Tutorial on Retrieving iPhone Photos After an iPadOS Upgrade</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nokia-g42-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nokia G42 5G</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 

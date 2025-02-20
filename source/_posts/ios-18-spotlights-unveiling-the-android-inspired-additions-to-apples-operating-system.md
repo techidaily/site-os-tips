@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Spotlights: Unveiling the Android-Inspired Additions to Apple's Operating System"
-date: 2025-02-02T19:18:11.525Z
-updated: 2025-02-10T01:08:48.792Z
+date: 2025-02-18T22:41:56.987Z
+updated: 2025-02-19T17:41:23.418Z
 tags:
   - ios
 categories:
@@ -17,15 +17,15 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 ![iPhone iOS 18 home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-home-screen.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iPhone users can finally freely move icons around on the home screen. While your icons still have to conform to the invisible grid, you can place them wherever you wish to free up space and see your wallpaper. This has been a thing on Android (and other operating systems) since the beginning, and I'm surprised that Apple didn't add it when they added [widgets to iOS](https://tech-haven.techidaily.com/chatgpt-now-on-ios-download-the-cutting-edge-ai-assistant-today/).
 
 ##  Custom App Icon Colors
 
 ![iPhone app icon colors](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-app-icon-colors.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A slightly more exciting icon-related feature is custom icons. You can now make the icons larger, which is incidentally a great [accessibility feature](https://program-issues.techidaily.com/solutions-for-stable-play-addressing-the-call-of-duty-mobile-warzone-20-pc-edition-freezing-issues/) for individuals who suffer from poor eyesight.
 
@@ -37,15 +37,15 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Game Mode made its way from [macOS](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/) to iOS, a feature that the first wave of Android gaming phones pioneered before it got baked into [Android 12](https://developer.android.com/games/optimize/adpf/gamemode/about-API-and-interventions) in 2021\. Game mode minimizes background activity and focuses processing power on your game to achieve better in-game performance and lower latency for accessories like AirPods and wireless controllers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  RCS Messaging
 
 ![iPhone Messages RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-messages-rcs.png) 
 
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (Rich Communication Service) is a mobile communication protocol that significantly improves upon traditional SMS messaging by offering richer chat functionalities like file and media sharing. RCS has been available since Android 5 (2014), and it's finally coming to iPhones with iOS 18\. RCS support means you'll finally be able to chat properly and share stickers and high-res images with your Android friends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  App Lock
 
@@ -54,43 +54,39 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  App locking is a new privacy feature that lets you lock any app you wish so that others can't access it, even if your phone is unlocked. When you want to open a locked app, you'll be required to use Face ID, Touch ID, or your passcode to unlock it. Previously, only authenticators and bank apps required authorization before you could access them. My [2019 Android 11 phone](https://fox-glue.techidaily.com/new-advanced-data-analytics-methods-for-market-research-analysis-for-2024/) has this feature, and I wouldn't be surprised to learn that it's available on Android devices that are even older.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hiding Apps
 
  Another feature that's been around for years on Android phones is hidden apps. Similar to app lock, it's a privacy feature that ensures your friends don't see your most embarrassing apps on your home screen. When you hide an app on iOS 18, it goes into a locked "Hidden" folder that you can access just like any other locked app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Custom Lock Screen Shortcuts
 
 ![Custom lock screen shortcuts in iOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/newvoideop-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/mt/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/)
 
  The default lock screen shortcuts on iPhone are the camera on the right and the flashlight on the left. These shortcuts are nothing new, but what _is_ new is that you can now customize or even fully remove them. I'm surprised to see that Apple will let people launch third-party apps; Snapchat was shown as a shortcut example. Again, custom lock screen shortcuts are old news for Android users, as they've had this feature since Android 14.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Password Manager
 
 ![iPhone Passwords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-passwords.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) are useful utility tools that keep all of your passwords stored in one safe location. They suggest and load highly complex and unique passwords for each app and website you log in to. Android phones and Google Chrome share the Google Password Manager, and I've been using it for as long as I can remember.
 
  You can actually use Google Password Manager on iOS as well, but it's great to see that Apple is now adding a first-party Passwords app. It'll store your Wi-Fi passwords, passcodes, and verification codes as well, so it'll be a real log-in one-stop shop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Customization in the Control Center
@@ -98,7 +94,7 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 ![iOS 18 control center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-control-center.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apple's Control Center is getting a customization overhaul with iOS 18\. You can change the layout completely by adding custom groups and resizing individual settings. The most exciting part is that you'll now be able to add third-party features directly from the Control Center, such as remote car unlock. [Quick settings customization](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) and third-party options have always been available on custom Android skins, but they were added to the OS with Android 6 in 2015.
@@ -106,6 +102,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 ##  Apple Mail Categories
 
 ![iOS 18 Mail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-mail.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Email categorization that's coming soon to the built-in Mail app looks a lot like Gmail labels. The app will now sort emails into Primary, Transactions, Updates, and Promotions, based on what type of email it is. Gmail has Primary, Promotions, Social, Updates, and Forums. Sounds familiar, right?
 
@@ -152,20 +152,22 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-core-components-for-transformative-facebook-advertisements/"><u>[New] 2024 Approved Core Components for Transformative Facebook Advertisements</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-iphone-guide-engage-with-audio-content-seamlessly/"><u>[New] IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-next-generation-virtual-collaboration-tools-post-zoom-era-for-2024/"><u>[New] Next Generation Virtual Collaboration Tools, Post-Zoom Era for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-frame-rate-showdown-evaluating-30fps-and-60fps-in-videography/"><u>[Updated] Frame Rate Showdown Evaluating 30Fps and 60Fps in Videography</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-unveiling-the-top-30-keyboard-shortcuts-for-googles-gmail-service/"><u>Boost Your Productivity: Unveiling the Top 30 Keyboard Shortcuts for Google's Gmail Service</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-strategies-to-protect-your-processor-from-defects-insights-by-yl-computing/"><u>Effective Strategies to Protect Your Processor From Defects: Insights by YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/evaluating-the-monetary-aspects-of-podcasting/"><u>Evaluating the Monetary Aspects of Podcasting</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-itunes-error-code-2-on-windows-11-8-7-vista-and-xp/"><u>How to Resolve iTunes Error Code 2 on Windows 11, 8, 7, Vista & XP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-secrets-to-more-likes-on-your-tiktok-unpacks/"><u>In 2024, Secrets to More Likes on Your TikTok Unpacks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-iphone-restarts-an-in-depth-look-at-both-soft-and-factory-reset-procedures/"><u>Mastering iPhone Restarts: An In-Depth Look at Both Soft and Factory Reset Procedures</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reliable-methods-to-resolve-iphoneipad-video-playback-errors/"><u>Reliable Methods to Resolve iPhone/iPad Video Playback Errors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-rapid-iphone-battery-depletion-solutions-and-tips/"><u>Understanding Rapid iPhone Battery Depletion: Solutions & Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-iphones-parental-controls-no-password-needed/"><u>Unlock Your iPhone's Parental Controls: No Password Needed</u></a></li>
-<li><a href="https://discover-best.techidaily.com/winxvideo-ai-aiand-and/"><u>WinxVideo AI: 最先端AIによるビデオ&写真アップグレード - 高解像度・修復機能付き & 動画変換ソフトウェアを無料試用！</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/weep-up-viewers-the-science-behind-successful-youtube-shorts/"><u>[New] Sweep Up Viewers The Science Behind Successful YouTube Shorts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastery-over-cloud-expenses-cheapest-options-showcased-for-2024/"><u>[Updated] Mastery Over Cloud Expenses Cheapest Options Showcased for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-poco-x6-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Poco X6 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-corporate-mobility-manage-devices-seamlessly-using-verizon-wireless-mdm-technology/"><u>Enhance Corporate Mobility: Manage Devices Seamlessly Using Verizon Wireless MDM Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-monster-hunter-stories-2-wings-of-ruin-when-it-refuses-to-launch-correctly/"><u>How to Fix Monster Hunter Stories 2: Wings of Ruin When It Refuses to Launch Correctly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y100 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 15 Pro without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-chatgpts-style-essential-tips-for-authenticity/"><u>Perfecting ChatGPT's Style: Essential Tips for Authenticity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/preventing-heic-photos-in-airdrop-tips-for-converting-images-on-ios-and-macos-devices/"><u>Preventing HEIC Photos in Airdrop: Tips for Converting Images on iOS and macOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphone-charging-problems-effective-strategies-for-a-better-battery-life/"><u>Solving iPhone Charging Problems: Effective Strategies for a Better Battery Life</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-or-removing-your-facebook-profile-from-an-iphone-device/"><u>Step-by-Step Guide: Disabling or Removing Your Facebook Profile From an iPhone Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unlocking-the-potential-of-your-iphones-wifi-sharing-abilities/"><u>Step-by-Step Instructions: Unlocking the Potential of Your iPhone's WiFi Sharing Abilities</u></a></li>
+<li><a href="https://article-tips.techidaily.com/strategies-for-creating-hit-memes/"><u>Strategies for Creating Hit Memes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-fixing-conflicts-between-multiple-apps-and-pc-audio/"><u>Tips on Fixing Conflicts Between Multiple Apps & PC Audio</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-auto-play-features-why-your-iphone-chooses-songs-on-apple-music/"><u>Understanding Auto-Play Features: Why Your iPhone Chooses Songs on Apple Music</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-iphone-screen-time-functions-and-steps-to-deactivate/"><u>Understanding iPhone Screen Time: Functions & Steps to Deactivate</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-your-android-phones-address-book-guide-a-beginners-tutorial/"><u>Unlocking Your Android Phone's Address Book Guide: A Beginner's Tutorial</u></a></li>
 </ul></div>
 

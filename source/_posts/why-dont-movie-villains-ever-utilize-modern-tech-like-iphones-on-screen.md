@@ -1,7 +1,7 @@
 ---
 title: Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
-date: 2025-02-06T19:39:46.027Z
-updated: 2025-02-09T20:53:27.233Z
+date: 2025-02-19T05:39:33.971Z
+updated: 2025-02-20T04:46:09.301Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## Why Don't Movie Villains Ever Utilize Modern Tech Like iPhones on Screen?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Apple products are extremely prevalent in TV shows and movies, but the company doesn't pay for product placement. Apple is more than happy to provide MacBooks, iPads, and iPhones to studios, but there's one unique stipulation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Does Product Placement Work?
@@ -35,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  According to [Bloomberg](https://www.bloomberg.com/news/articles/2012-05-10/apple-the-other-cult-in-hollywood), Apple does not pay for product placement, at least not with money. Instead, it provides its devices to studios for free as props. Apple even [provided Modern Family](https://www.hollywoodreporter.com/tv/tv-news/modern-family-creator-explains-ipad-53367/) with the first iPad before it was available. It appeared in an episode two days before people could buy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple's Product Placement Rules
@@ -69,16 +69,19 @@ Related: [Why Do TV Shows and Movies Cover Up Logos?](https://driver-download.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unleashing-creativity-the-ultimate-guide-to-crafting-compelling-tiktok-captions/"><u>[Updated] Unleashing Creativity The Ultimate Guide to Crafting Compelling TikTok Captions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-storytelling-vrs-entertainment-potential/"><u>2024 Approved Interactive Storytelling VR's Entertainment Potential</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-m14-4g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy M14 4G Easily?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-briefvideo-creator/"><u>In 2024, BriefVideo Creator</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies/"><u>In 2024, Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-v27e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo V27e Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-tip-accessing-windows-11-sticky-notes-easily/"><u>Tech Tip: Accessing Windows 11 Sticky Notes Easily</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unprecedented-low-pricing-on-apples-latest-ipad-pro-incredible-deals-await/"><u>Unprecedented Low Pricing on Apple's Latest iPad Pro - Incredible Deals Await!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-watchos-10-enhanced-features-with-the-revolutionary-smart-stack-and-upgraded-apps/"><u>Unveiling WatchOS 10: Enhanced Features with the Revolutionary Smart Stack & Upgraded Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/using-your-iphone-to-monitor-and-elevate-emotional-well-being/"><u>Using Your iPhone to Monitor & Elevate Emotional Well-Being</u></a></li>
-<li><a href="https://os-tips.techidaily.com/vivaldi-for-ios-now-streamline-your-browsing-experience-with-latest-additions-tab-pinning-and-direct-to-search-functionality/"><u>Vivaldi for iOS Now: Streamline Your Browsing Experience with Latest Additions - Tab Pinning and Direct-to-Search Functionality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-innovative-screencapping-a-practical-sequential-handbook/"><u>[New] In 2024, Innovative Screencapping A Practical, Sequential Handbook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>[New] In 2024, Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instantaneous-change-from-srt-to-txt-with-our-proven-methods/"><u>[New] Instantaneous Change From SRT to TXT with Our Proven Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-harmony-in-transition-crafting-crossfade-effects/"><u>[Updated] 2024 Approved Harmony in Transition Crafting Crossfade Effects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/breaking-through-with-stunning-hdr-portrait-shots/"><u>Breaking Through with Stunning HDR Portrait Shots</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-v29-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo V29 Pro Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/processor-powerhouses-of-2024-an-authoritative-hierarchical-review-and-assessment/"><u>Processor Powerhouses of 2024: An Authoritative Hierarchical Review and Assessment</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-tdr-failure-and-nvlddmkmssys-crashes-on-your-pc/"><u>Resolve TDR Failure and NVLDDMKMS.SYS Crashes on Your PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-the-persistent-unread-badge-on-your-iphone-messages-icon/"><u>Resolving the Persistent 'Unread' Badge on Your iPhone Messages Icon</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-apple-device-use-with-these-barely-noticed-ios-18-updates/"><u>Revolutionize Your Apple Device Use with These Barely-Noticed iOS 18 Updates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/surviving-the-chaos-fixing-issues-in-the-ios-18-photos-app-a-guide-for-apple/"><u>Surviving the Chaos: Fixing Issues in the iOS 18 Photos App - A Guide for Apple</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-apple-airpods-pro-peripherals-the-ultimate-guide/"><u>Top-Rated Apple AirPods Pro Peripherals: The Ultimate Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-setting-up-emergency-calls-on-your-iphone/"><u>Ultimate Guide to Setting Up Emergency Calls on Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-dual-layer-oled-display-on-apples-latest-ipad-pro-a-comprehensive-guide/"><u>Understanding the Dual-Layer OLED Display on Apple's Latest iPad Pro: A Comprehensive Guide</u></a></li>
 </ul></div>
 

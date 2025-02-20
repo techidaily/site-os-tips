@@ -1,7 +1,7 @@
 ---
 title: From iPhones to Pixel Phones - Embracing Apple and Cherishing Android Devices
-date: 2025-02-04T21:03:52.767Z
-updated: 2025-02-09T23:52:06.564Z
+date: 2025-02-18T04:27:40.964Z
+updated: 2025-02-19T16:56:04.321Z
 tags:
   - ios
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I'm so deep in the Apple ecosystem that you can only see the top of my head, but the one Apple product I just can't learn to love is its most popular—the iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I’m 99% Apple Now
@@ -37,10 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Finally, while I have now finally decided that smartwatches are more trouble than they are worth on the whole, I can't deny that Apple's Watch product line is simply head and shoulders above anything else I've used. That's after a string of Garmin, FitBit, and Samsung Galaxy watches, which all had one or another major flaw.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  I’ve Tried the iPhone Twice
 
  It's that dalliance with Apple Watches that had me butting heads with iPhone. You see, while I was getting along more or less with my Galaxy Watch, my wife convinced me that I should try an Apple Watch, as she loves hers. That's fine, but since Apple has decided that the Watch is strictly an iPhone accessory, I couldn't use my iPad or Mac with it. She had an old iPhone 11 Pro lying around, so we could use that.
@@ -50,6 +46,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Which meant I had to daily drive the 11 Pro until I could get my next phone upgrade. Suffice it to say that I absolutely hated that phone within a week of using it, but kept at it because I was in line to get an iPhone 14 Pro, which was surely going to solve the issues I had with the 11.
 
  I picked up a 1TB iPhone 14 Pro, and sure enough, it was a much better phone, but Apple had addressed pretty much none of the things that made it impossible to get along with the device, and honestly, I don't think they could, because most of it might be in the DNA of the iPhone itself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My Phone Can’t Be This Locked Down
 
@@ -64,12 +64,16 @@ Sydney Louw Butler / How-To Geek / MidJourney
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The iPhone Form Factor Isn’t Great
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -77,25 +81,21 @@ Corbin Davenport / How-To Geek
 
  Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  I Just Don’t Like iPhone Photos (the Video Is Great)
 
  For [flagship phones](https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/) in particular, photos matter. By all accounts, iPhones offer some of the best camera equipment and photos money can buy. However, smartphone photography is just as much about [software post-processing](https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/) as it is about the hardware, and I just can't stand the look of iPhone photos. It's quite hard to pin down why exactly, and this is clearly subjective, but iPhone photos feel a little soulless to me. Maybe the word is "overprocessed", but I have no doubt that the photos from my S22 Ultra are no less processed, just differently.
 
  Nonetheless, photos taken on iPhone do nothing for me. In particular I like taking [macro photos](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/) as well as portrait photos, and while the macro camera mode on my iPhone 14 Pro was plenty capable, I just couldn't get the same sorts of shots that my S21 Ultra or S22 Ultra can manage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is the Battery Life So Awful?
 
  I can live with the esthetics and photos that aren't to my taste, but going from having a day and a half of battery power on my S22 Ultra to a phone that barely ekes out a full day of normal use is not fun. I have zero battery anxiety with my Samsung phone, but felt it return with a vengeance with my last iPhone.
 
  This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I’m Willing to Try Again
 
@@ -118,14 +118,21 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://os-tips.techidaily.com/comprehensive-dearmob-windows-security-the-ultimate-user-manual/"><u>Comprehensive DearMob Windows Security: The Ultimate User Manual</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dearmob-app-a-step-by-step-tutorial-on-shifting-your-iphones-footage-to-a-windows-laptop/"><u>DearMob App: A Step-by-Step Tutorial on Shifting Your iPhone's Footage to a Windows Laptop</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-move-data-from-an-iphone-to-a-windows-computer-a-step-by-step-guide-using-deedroid/"><u>How to Move Data From an iPhone to a Windows Computer: A Step-by-Step Guide Using DeeDroid</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-note-30i-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Note 30i Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-markets-top-picks-premier-drone-gimbals/"><u>In 2024, Market's Top Picks Premier Drone Gimbals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-hidden-potential-how-to-use-video-filters-on-zoom/"><u>In 2024, Unlocking Hidden Potential How To Use Video Filters on Zoom</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-payments-on-windows-with-the-official-dearmob-security-guide/"><u>Mastering Mobile Payments on Windows with the Official DearMob Security Guide</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone/"><u>New Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/king-potential-in-5-second-videos-for-2024/"><u>Unlocking Potential in 5-Second Videos for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-language-barriers-with-love-this-february/"><u>Break Language Barriers with Love This February</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-to-address-the-python24dll-file-not-found-problem/"><u>Comprehensive Fixes to Address the 'python24.dll' File Not Found Problem</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-test-drive-analysis-of-the-maisto-rc-rock-crawler-perfect-toy-for-kids-and-adults/"><u>Comprehensive Test Drive Analysis of the Maisto RC Rock Crawler - Perfect Toy for Kids and Adults!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580308786-earn-96-off-get-lifetime-mondly-premium-access-for-free/"><u>Earn 96% Off, Get Lifetime Mondly Premium Access for Free!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-conversion-techniques-from-docx-to-pdf-on-windows-11/"><u>Efficient Conversion Techniques From Docx to PDF on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-proprietary-drivers-for-lenovo-legion-5-pro-16ach6h-laptop/"><u>Installing Proprietary Drivers for Lenovo Legion 5 Pro (16ACH6H) Laptop</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-15-pro-unveiling-the-new-features-including-action-buttons-and-usb-type-c/"><u>IPhone 15 Pro: Unveiling the New Features - Including Action Buttons & USB Type-C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-the-iphone-15-pro-a-game-changer-for-mobile-gamers/"><u>Is the iPhone 15 Pro a Game Changer for Mobile Gamers?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/kuxiu-x36-pro-max-ultimate-guide-to-the-premier-free-standing-tablet-holder/"><u>Kuxiu X36 Pro Max - Ultimate Guide to the Premier Free-Standing Tablet Holder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-mini-itx-computer-chassis-of-2024-a-comprehensive-ranking-guide/"><u>Leading Mini-ITX Computer Chassis of 2024: A Comprehensive Ranking Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/legacy-netflix-subscribers-affected-as-apple-removes-streaming-services-payment-option/"><u>Legacy Netflix Subscribers Affected as Apple Removes Streaming Service's Payment Option</u></a></li>
+<li><a href="https://os-tips.techidaily.com/looking-ahead-how-i-anticipate-the-features-of-apples-upcoming-iphone-15-pro-based-on-my-experience-with-the-iphone-14-pro/"><u>Looking Ahead: How I Anticipate The Features of Apple's Upcoming iPhone 15 Pro Based on My Experience with the iPhone 14 Pro</u></a></li>
+<li><a href="https://os-tips.techidaily.com/massive-enhancements-in-apples-latest-sports-app-update/"><u>Massive Enhancements in Apple's Latest Sports App Update!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/set-up-printer-canon-inkjet-os-versions/"><u>Set up Printer: Canon Inkjet, OS Versions</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-90-gt-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor 90 GT Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

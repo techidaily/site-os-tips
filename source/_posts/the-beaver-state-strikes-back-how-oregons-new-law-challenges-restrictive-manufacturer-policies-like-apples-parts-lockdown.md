@@ -1,7 +1,7 @@
 ---
 title: "The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown"
-date: 2025-02-02T23:14:27.331Z
-updated: 2025-02-09T16:50:05.396Z
+date: 2025-02-14T23:15:27.953Z
+updated: 2025-02-19T20:22:31.185Z
 tags:
   - ios
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ## The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2024/03/28 10:41 EST BY CORBIN DAVENPORT
@@ -56,18 +56,15 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-chuckling-chronicles-your-essential-meme-tools-list-for-2024/"><u>[Updated] Chuckling Chronicles Your Essential Meme Tools List for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-tips-for-hitting-the-jackpot-in-pexels/"><u>2024 Approved Quick Tips for Hitting the Jackpot in Pexels</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-strategies-for-livestream-and-archiving-sports-action/"><u>2024 Approved Top Strategies for Livestream & Archiving Sports Action</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-videos-must-see-family-movies-lineup-for-july-start-watching-today/"><u>Amazon Prime Video's Must-See Family Movies Lineup for July - Start Watching Today!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620273595-free-ios-device-superuser-access-create-passwords-and-usernames-on-the-go/"><u>Free iOS Device Superuser Access: Create Passwords & Usernames on the Go!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovation-in-visuals-a-guide-to-the-leading-5-monitors-for-2024/"><u>Innovation in Visuals A Guide to the Leading 5 Monitors for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-icraft-b760m-motherboard-where-intel-meets-anime-aesthetics-in-a-pastel-package/"><u>Introducing the iCraft B760M Motherboard – Where Intel Meets Anime Aesthetics in a Pastel Package!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premier-pro-templates-of-the-year-free-version-for-2024/"><u>Premier Pro Templates of the Year - Free Version for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-effective-techniques-projecting-iphone-visuals-on-mac-without-hassle/"><u>Quick & Effective Techniques: Projecting iPhone Visuals on Mac Without Hassle</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-straightforward-techniques-for-mirroring-your-ipad-display-onto-a-pc-mac-or-television/"><u>Quick and Straightforward Techniques for Mirroring Your iPad Display Onto a PC, Mac or Television</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-shadows-behind-tropico-n-gameplay-ruling-over-a-utopias-undoing/"><u>Reviewing the Shadows Behind Tropico N Gameplay: Ruling Over a Utopia's Undoing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/turning-up-the-focus-crafting-astonishing-slow-motion-videos-for-ig-reels-for-2024/"><u>Turning Up the Focus Crafting Astonishing Slow Motion Videos for IG Reels for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-charging-your-iphone-wirelessly-no-cable-needed/"><u>Ultimate Guide: Charging Your iPhone Wirelessly - No Cable Needed!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-financial-race-between-dailymovement-and-youtube-channels/"><u>[Updated] The Financial Race Between DailyMovement and YouTube Channels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-tips-for-3d-color-grading/"><u>Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-monitor-your-weight-with-this-revolutionary-iphone-automation-tool/"><u>Effortlessly Monitor Your Weight with This Revolutionary iPhone Automation Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-ipads-capabilities-introducing-orion-seamless-ipad-to-monitor-connectivity-for-enhanced-productivity/"><u>Elevate Your iPad's Capabilities: Introducing Orion - Seamless iPad to Monitor Connectivity for Enhanced Productivity</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ensure-your-ipads-safety-with-esr-comprehensive-solutions/"><u>Ensure Your iPad's Safety with ESR: Comprehensive Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/erreur-de-mis-a-jour-windows-reservation-despace-supplementaire-necessaire-pour-6-correctifs/"><u>Erreur De Mis À Jour Windows : Réservation D'espace Supplémentaire Nécessaire Pour 6 Correctifs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expanded-free-editing-features-unveiled-in-google-photos/"><u>Expanded Free Editing Features Unveiled in Google Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-3-facons-faciles-de-changer-des-fichiers-mts-en-mp4/"><u>Gratuit: 3 Façons Faciles De Changer Des Fichiers MTS en MP4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-and-install-amd-radeon-r9-gpu-drivers-on-windows-pcs/"><u>How to Update and Install AMD Radeon R9 GPU Drivers on Windows PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-relapse-prevention/"><u>In 2024, Relapse Prevention</u></a></li>
 </ul></div>
 

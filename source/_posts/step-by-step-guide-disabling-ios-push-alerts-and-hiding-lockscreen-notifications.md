@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications"
-date: 2025-02-08T17:27:16.661Z
-updated: 2025-02-09T16:43:24.050Z
+date: 2025-02-17T20:39:49.973Z
+updated: 2025-02-19T17:00:57.851Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ---
 
 ## Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  Are you tired of notifications waking your iPhone or iPad and making your screen light up? By using [Do Not Disturb mode](https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/) or changing your notification settings, you can stay in the dark. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Quick Fix: Turn on "Do Not Disturb" Mode
@@ -39,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![The "Focus" button on an iPhone, which toggles Do Not Disturb or other Focus modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With Do Not Disturb (or another Focus mode) is enabled and your iPhone or iPad locked, incoming messages and notifications won't wake your device's display. To turn off Do Not Disturb, launch Control Center again and tap the Do Not Disturb button until it's no longer highlighted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Deeper Fix: Disable Notifications on Lock Screen
@@ -59,9 +51,17 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 ![Tap the "Settings" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Settings, tap "Notifications."
 
 ![Tap "Notifications" in the listed options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-notifications.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Notifications, scroll through the list and tap the name of the app that you want to prevent from waking your screen. In this case, we're using Messages as an example, but you could do it for Facebook Messenger, Signal, Twitter, FaceTime, or any other app.
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 ![Disable Lock Screen notifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-disable-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, go back one screen and repeat this process for any other apps that you want to silence on the lock screen.
@@ -94,20 +94,16 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-future-of-game-logging-exciting-alternatives-to-fbx-centric-apps/"><u>[New] In 2024, The Future of Game Logging Exciting Alternatives to FBX-Centric Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm44kk44oz44k44o844on44od44oi44gr44gc44kl5yuv55qe44kq44o844oh44kj44kq6kab57sg44ks5oq95ye644o75lplusd5a2y44gz44kl5yw35l2t55qe5pa55rov44cn/"><u>「インターネットにある動的オーディオ要素を抽出・保存する具体的方法」</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-oneplus-11-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on OnePlus 11 5G?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-joke-generation-made-simple-kapwing-app-guide/"><u>In 2024, Joke Generation Made Simple – Kapwing App Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-fords-latest-in-vehicle-system-not-a-direct-rival-to-android-autoapple-carplay/"><u>Introducing Ford's Latest In-Vehicle System: Not a Direct Rival to Android Auto/Apple CarPlay</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-users-ultimate-tutorial-converting-stills-to-movies-and-animations/"><u>IPhone Users' Ultimate Tutorial: Converting Stills to Movies & Animations</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-it-worth-upgrading-from-the-m2-ipad-pro-to-the-new-m4-model/"><u>Is It Worth Upgrading From the M2 iPad Pro to the New M4 Model?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/learn-how-your-ipad-can-format-and-manage-external-hardware-a-comprehensive-guide/"><u>Learn How Your iPad Can Format and Manage External Hardware: A Comprehensive Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-airpods-at-unbeatable-prices-special-offer-today/"><u>Secure Your Apple AirPods at Unbeatable Prices - Special Offer Today!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/should-you-invest-in-additional-icloud-space-a-cost-benefit-analysis/"><u>Should You Invest in Additional iCloud Space? A Cost-Benefit Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/speedy-steps-immediate-launch-of-camera-function-on-iphone/"><u>Speedy Steps: Immediate Launch of Camera Function on iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionaryedit-ai-painting-with-digital-brushes/"><u>VisionaryEdit AI Painting with Digital Brushes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>[New] 2024 Approved Expert Insights Where to Invest in YouTube Creator Revenue</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-hidden-harmony-harvesters-ios-and-android-secret-audio-apps/"><u>[New] Hidden Harmony Harvesters IOS & Android Secret Audio Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-the-efficiency-of-modern-tunefab-recorders/"><u>[New] In 2024, Exploring the Efficiency of Modern Tunefab Recorders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-path-to-mastering-the-art-of-asmr-filmmaking/"><u>[New] The Path to Mastering the Art of ASMR Filmmaking</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[New] WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-restore-lost-or-deleted-applications-and-their-data-on-your-iphoneipad/"><u>Complete Guide: How to Restore Lost or Deleted Applications & Their Data on Your iPhone/iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortlessly-restore-from-backup-discover-these-3-key-techniques-for-your-iphone/"><u>Effortlessly Restore From Backup: Discover These 3 Key Techniques for Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-retrieving-deleted-drafts-on-tiktok-with-a-recovery-tool/"><u>Guide: Retrieving Deleted Drafts on TikTok with a Recovery Tool</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-8-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 8 and iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-lost-messages-a-guide-on-retrieving-texts-post-ios-update/"><u>Reviving Your Lost Messages: A Guide on Retrieving Texts Post-iOS Update</u></a></li>
+<li><a href="https://os-tips.techidaily.com/what-to-do-when-your-texts-vanish-expert-tips-and-tricks/"><u>What to Do When Your Texts Vanish: Expert Tips & Tricks</u></a></li>
 </ul></div>
 

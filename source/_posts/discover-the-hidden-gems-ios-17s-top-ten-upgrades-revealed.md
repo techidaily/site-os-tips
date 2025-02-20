@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed"
-date: 2025-02-08T01:34:40.131Z
-updated: 2025-02-10T01:49:24.607Z
+date: 2025-02-14T17:14:15.844Z
+updated: 2025-02-20T03:10:53.854Z
 tags:
   - ios
 categories:
@@ -13,21 +13,17 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
 iOS 17 is here and, in addition to larger changes like [StandBy view](https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/) and [contact posters](https://facebook-videos.techidaily.com/updated-2023s-top-no-cost-fb-photo-and-video-crafting-for-2024/), there are lots of little changes that can be easy to miss. Here are some of our favorites.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Automatically Clean Up Verification Codes in Messages and Mail
 
  Two-factor authentication works better with an authenticator app (and you can even use iCloud Keychain for this). Not all services support authenticators, in which case you’ll be [dealing with verification code SMS](https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-vimeo-record-features-for-2024/) and email messages instead.
 
 ![Enable "Clean Up Automatically" in password options to delete one-time codes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clean_up_codes.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To cut through the unwanted message build-up, get your iPhone to clean up for you. Head to Settings > Passwords > Password Options and enable “Clean Up Automatically” to have your iPhone automatically trash verification codes once they’ve been used.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Swipe to Reply to Messages
 
@@ -36,10 +32,14 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 ![Swipe to reply to messages with an in-line reply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/reply_swipe.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will see the message you’re replying to in the message window above the compose box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Siri During Phone Calls
 
@@ -57,27 +57,27 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  You can also add links to existing text by highlighting the text and then using the “Add Link” option in the context menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Reminders Now Auto-Suggests Items
 
  If you’re into manually adding reminders to [Apple’s Reminders app](https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-5frp-lock-by-drfone-android/) (rather than simply asking Siri to do it), you’ll likely appreciate auto-suggestions while typing. As you add a shortcut, you’ll now see suggestions appear as you type, based on other reminders you have added in the past. Action the reminder by tapping on it.
 
 ![Get item suggestions in Apple Reminders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/autocomplete_reminders.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There’s also a new “Siri Suggestions” option beneath your pinned lists in the Reminders apps that finds to-do list items that you might have forgotten about. Tap on an item to add it to Reminders.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  App Shortcuts Within Spotlight
 
  You should already be [using Spotlight](https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/) for everything on your iPhone, iPad, and Mac. The search feature lets you access apps and settings panels with ease simply by typing, and now it’s getting even smarter.
 
 ![Search for an app to see shortcuts to different features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/search_app_features.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now jump to sections of an app by searching for that app’s name. So, for example, searching for “Reminders” will bring up shortcuts to lists like “Today” and “Scheduled,” which removes a tap or two to get where you want. Searching “Notes” brings up a “New Note” shortcut, while “Clock” reveals “Set Timer” and “Add Alarm” shortcuts.
 
@@ -93,10 +93,6 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
 ![Use Face ID to lock your private browsing session](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/face_id_private_browsing.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you miss the notification or would like to change the setting after the fact you can do so using the “Require Face ID to Unlock Private Browsing” toggle in Settings > Safari. If your Face ID scan fails enough times your iPhone will instead ask for your passcode to unlock the browsing session.
 
 ##  New Shortcuts for Cropping Images in Photos
@@ -107,22 +103,26 @@ iOS 17 is here and, in addition to larger changes like [StandBy view](https://io
 
  For even more control you can tap and hold the “Crop” button to select another aspect ratio such as Original, Widescreen, and Square.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Animated Now Playing Screens in Music
 
  It’s not useful, and it’s not even universal, but Now Playing screens in the Music app now look a whole lot nicer as long as the album you’re listening to has animated album art.
 
 ![now_playing_japanese_breakfast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_japanese_breakfast.PNG) 
 
-![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![now_playing_iron_maiden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_iron_maiden.PNG) 
 
 ![now_playing_jack_white](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/now_playing_jack_white.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close 
@@ -150,22 +150,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-giggle-galore-exploring-the-best-tweets-on-social-media/"><u>[New] 2024 Approved Giggle Galore Exploring the Best Tweets on Social Media</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-vocalizing-video-content-on-tiktok/"><u>[New] In 2024, Vocalizing Video Content on TikTok</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-process-for-free-youtube-educational-events/"><u>[New] Step-by-Step Process for Free Youtube Educational Events</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-battery-selection-guide-for-uavs/"><u>[New] The Ultimate Battery Selection Guide for UAVs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mastering-sound-on-sony-ps-console-games/"><u>[Updated] Mastering Sound on Sony PS Console Games</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-3dr-the-soloists-voyage-in-3d-printing-tech/"><u>2024 Approved '3DR' The Soloist’s Voyage in 3D Printing Tech</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-protecting-your-whatsapp-data-step-by-step-backup-processes-for-samsung-smartphones/"><u>Expert Tips for Protecting Your WhatsApp Data: Step-by-Step Backup Processes for Samsung Smartphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-misaligned-stickies-on-windows-11/"><u>How to Rectify Misaligned Stickies on Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-build-successful-youtube-advertisements-for-free/"><u>In 2024, How to Build Successful YouTube Advertisements for Free?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-instructions-turn-on-windows-11s-adaptive-hdr/"><u>In 2024, Instructions Turn on Windows 11'S Adaptive HDR</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-data-transfer-on-your-lg-smartphone-using-cloud-pc-or-other-phones-for-backup-restore/"><u>Mastering Data Transfer on Your LG Smartphone - Using Cloud, PC, or Other Phones for Backup Restore</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-android-device-a-step-by-step-guide-using-google-backup/"><u>Reviving Your Android Device: A Step-by-Step Guide Using Google Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-data-with-ease-transferring-galaxy-s-phones-to-the-cloud/"><u>Secure Your Data with Ease: Transferring Galaxy S Phones to the Cloud</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-guide-how-to-seamlessly-backup-phone-numbers-and-emails-from-your-androidiphone-device/"><u>Simple Guide: How to Seamlessly Backup Phone Numbers and Emails From Your Android/iPhone Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-ultimate-guide-to-quick-and-easy-smartphone-data-backup/"><u>Simple Steps: Ultimate Guide to Quick and Easy Smartphone Data Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-saving-and-retrieving-calls-from-your-android-device/"><u>Step-by-Step Guide: Saving and Retrieving Calls From Your Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-2023-how-to-for-preserving-your-whatsapp-conversations-expert-tips-for-reliable-android-backups/"><u>The Ultimate 2023 How-To for Preserving Your WhatsApp Conversations: Expert Tips for Reliable Android Backups</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-easier-than-ever-2023s-fire-browser-addons-for-capturing-your-fb-videos/"><u>[New] 2024 Approved Easier Than Ever 2023'S Fire-Browser Addons for Capturing Your FB Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ew-vloggers-guide-to-top-10-youtube-editing-techniques/"><u>[New] New Vloggers' Guide to Top 10 YouTube Editing Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-antique-themed-cinematography/"><u>[New] The Ultimate Guide to Antique-Themed Cinematography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamline-watching-facebook-videos-on-your-apple-tv-device/"><u>[Updated] In 2024, Streamline Watching Facebook Videos on Your Apple TV Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-complexities-of-gaming-recordings-with-obs-for-2024/"><u>[Updated] Navigating the Complexities of Gaming Recordings with OBS for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maximize-impact-priority-list-of-highlight-tweaks/"><u>2024 Approved Maximize Impact Priority List of Highlight Tweaks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-iphones-web-speeds-by-deleting-cache-and-cookies-history/"><u>Boost Your iPhone's Web Speeds by Deleting Cache and Cookies History</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-instructions-for-thoroughly-formatting-your-ipod-prior-to-resale/"><u>Comprehensive Instructions for Thoroughly Formatting Your iPod Prior to Resale</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-the-ultimate-method-to-remove-browsing-data-like-search-history-and-cookies-on-your-ipad/"><u>Comprehensive Tutorial: The Ultimate Method to Remove Browsing Data Like Search History and Cookies on Your iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-designs-top-windows-notebooks-for-future-tech/"><u>Cutting-Edge Designs: Top Windows Notebooks for Future Tech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/"><u>How to Reset Waze Location Memory on iOS Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-transform-videos-with-easy-to-use-sound-effects/"><u>In 2024, Transform Videos with Easy-to-Use Sound Effects!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-eliminate-pops-and-noise-from-your-computers-speakers-windows/"><u>Step-by-Step Guide to Eliminate Pops and Noise From Your Computer's Speakers (Windows)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-erase-your-search-history-and-cookies-efficiently-from-your-ipad/"><u>Step-by-Step Guide: Erase Your Search History and Cookies Efficiently From Your iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-erasing-your-whatsapp-presence-on-ios-devices/"><u>Step-by-Step Guide: Erasing Your WhatsApp Presence on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-removing-videos-and-movies-from-your-ios-device/"><u>Step-by-Step Guide: Removing Videos & Movies From Your iOS Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-definitive-method-for-erasing-all-of-your-skype-chats-forever/"><u>The Definitive Method for Erasing All of Your Skype Chats Forever</u></a></li>
 </ul></div>
 

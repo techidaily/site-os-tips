@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Shift: How Gemini Superseded Google Assistant"
-date: 2025-02-06T21:19:22.518Z
-updated: 2025-02-10T00:28:42.906Z
+date: 2025-02-15T03:42:01.463Z
+updated: 2025-02-20T05:42:17.885Z
 tags:
   - ios
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 * [How to Use Google Gemini AI](https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-z-fold-5-bootloader-easily-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
  Google was late to the AI game. The company released Bard in early 2023, behind ChatGPT and what would eventually become Microsoft Copilot. Bard was lackluster at first, but it has since had a major glow up to become "Gemini"—and Google Assistant is in its sights.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Google Gemini? Is It Different From Bard?
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
  There's also a premium version called Gemini Advanced, which unlocks additional features of Ultra. We're talking about expanded abilities with multimodal inputs, more interactive coding tools, deeper data analysis, and more. You can access Gemini Advanced for $20/month after a free two-month trial as part of Google One's new AI Premium Plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Can Google Gemini Do As Google Assistant Replacement?
 
  When you install the Gemini Android app, you will be prompted to replace Google Assistant with Gemini. This will be a complete replacement. In other words, if you opt-in when you install the app and then say "Hey Google" to your phone, hold down the power button, swipe in from the lower corner of the display, or otherwise perform a trigger that would usually launch Assistant, you'll get the Gemini overlay instead. Once you install the Gemini app, it serves as your personal AI assistant. You can chat with it to get help on several kinds of everyday tasks:
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 * **Launch Apps**: You can ask Gemini to open any app on your phone, such as WhatsApp, Spotify, or Instagram. Just say something like "Open WhatsApp" or "Launch Spotify," and Gemini will do it for you.
 
 ![Using Google Gemini to launch Whatsapp on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-101242_google.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Send Messages**: You can also use Gemini to send messages to your contacts by voice or typing. For example, you can say, "Send a message to John" or "Text Lisa," and Gemini will ask you what you want to say.
 
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Add this screen prompt on Google Gemini app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103025_google.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, you can ask it to generate text or answers based on what's visible on your screen. For instance, if you're reading an article, you can ask Gemini to summarize it or ask questions about the article.
 
 ![Using Google Gemini to summarize an article on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103121_google.jpg) 
@@ -84,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
 ![Playing tic-tac-toe with Google Gemini on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103154_google.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Make Jokes**: Gemini can also make you laugh with some funny jokes, puns, or memes. You can say, "Tell me a joke" or "Show me a random meme," and Gemini will surprise you with some hilarious content.
 
 ![Google Gemini showing a random meme on prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103310_google.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gemini is always learning and improving, so you can expect new features and updates in the future.
 
@@ -105,16 +109,12 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 ![Google Assistant helping Gemini.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-094859.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The good news is Google Assistant can "help" Gemini with some of these tasks still. If you're using Gemini as the default digital assistant on Android, it will essentially fall back to Assistant for timers and alarms, controlling smart home devices, on-device actions like turning on Bluetooth, broadcasting to smart speakers, and reading pages out loud.
 
  While these limitations may be frustrating if you are a longtime Google Assistant user, they stem from the fact that Gemini represents an entirely different, more advanced AI architecture. As Gemini matures, hopefully, its capabilities will expand to close the gaps with Assistant and combine conversational intelligence with Google's services. But for now, you may need to switch between the two for certain tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use Google Gemini AI
 
@@ -143,18 +143,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leading-7-video-streaming-apps-to-enhance-your-youtube-mobile-experience/"><u>[New] Leading 7 Video Streaming Apps to Enhance Your YouTube Mobile Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/napshots-of-success-jake-pauls-youtube-milestones-for-2024/"><u>[New] Snapshots of Success Jake Paul’s YouTube Milestones for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-step-by-step-techniques-for-clear-screen-captures-on-imac/"><u>[Updated] In 2024, Step-by-Step Techniques for Clear Screen Captures on iMac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learning-the-ins-and-outs-of-firefox-pip/"><u>[Updated] Learning the Ins and Outs of Firefox PIP</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-experience-the-power-of-windows-on-your-iphone-with-seamless-simulation/"><u>1. Experience the Power of Windows on Your iPhone with Seamless Simulation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-free-language-educational-applications-of-2024/"><u>Discover the Leading Free Language Educational Applications of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-system-speed-strategies-for-virtual-memory-upgradation-in-windows-11/"><u>Elevating System Speed: Strategies for Virtual Memory Upgradation in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-a25-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy A25 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-your-apple-watch-a-guide-to-fix-sleep-tracking-issues/"><u>Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unleash-the-power-top-10-remarkable-ipad-capabilities-waiting-to-transform-your-digital-life/"><u>Unleash the Power: Top 10 Remarkable iPad Capabilities Waiting to Transform Your Digital Life</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-secret-easily-locate-and-verify-your-phone-number-on-any-smartphone/"><u>Unlock the Secret: Easily Locate and Verify Your Phone Number on Any Smartphone!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcoming-iphone-models-iphone-16-series-unveiled-leaked-specs-and-rumors/"><u>Upcoming iPhone Models: IPhone 16 Series Unveiled - Leaked Specs and Rumors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upgrade-your-chat-game-master-these-10-indispensable-imessage-tricks-for-immediate-use/"><u>Upgrade Your Chat Game: Master These 10 Indispensable iMessage Tricks for Immediate Use</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/"><u>[New] 2024 Approved High-End Downloads Best 10 Apps for Extracting Vimeo Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-obspluszoom-creating-a-flawless-production-workflow-for-2024/"><u>[New] OBS+Zoom Creating a Flawless Production Workflow for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-selection-top-hdr-camera-picks/"><u>[New] Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unleash-creative-potential-with-green-screen-tips/"><u>[Updated] 2024 Approved Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-real-time-photo-editing-on-the-go-cropping-techniques/"><u>[Updated] Real-Time Photo Editing On-the-Go Cropping Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-look-back-the-evolution-of-apple-watch-ultra-after-its-first-year-in-the-market/"><u>A Look Back: The Evolution of Apple Watch Ultra After Its First Year in the Market</u></a></li>
+<li><a href="https://os-tips.techidaily.com/activating-your-iphones-flashlight-with-a-simple-tap-on-the-back-a-comprehensive-guide/"><u>Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-solutions-win-discover-why-a-cost-effective-phone-stand-should-be-on-your-radar/"><u>Affordable Solutions Win: Discover Why a Cost-Effective Phone Stand Should Be on Your Radar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breaking-barriers-how-the-iphone-is-expanding-globally-while-maintaining-its-presence-in-the-us/"><u>Breaking Barriers: How the iPhone Is Expanding Globally While Maintaining Its Presence in the U.S.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/choosing-between-mid-tier-android-and-aged-iphone-models-why-opting-for-the-iphone-could-be-wiser/"><u>Choosing Between Mid-Tier Android and Aged iPhone Models: Why Opting for the iPhone Could Be Wiser</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-analysis-of-apples-nomad-base-one-max-the-ultimate-3-in-1-magsafe-charging-solution-review/"><u>Comprehensive Analysis of Apple's Nomad Base One Max: The Ultimate 3-in-1 MagSafe Charging Solution Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/critical-security-update-available-for-iphone-ipad-and-mac-install-now-to-protect-your-device/"><u>Critical Security Update Available for iPhone, iPad, and Mac - Install Now to Protect Your Device!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-lava-blaze-2-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Lava Blaze 2 Phone Screen?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-make-your-facebook-video-stand-out-for-2024/"><u>How to Make Your Facebook Video Stand Out for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-hp-laserjet-p1link-1006-printer-drivers-quick-and-secure-download-options/"><u>Latest HP LaserJet P1([link]) 1006 Printer Drivers - Quick and Secure Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-4-cost-free-android-keyboard-apps-that-prioritize-user-privacy/"><u>Top 4 Cost-Free Android Keyboard Apps That Prioritize User Privacy</u></a></li>
+<li><a href="https://os-tips.techidaily.com/your-iphone-will-host-contacts-list-in-new-app-soon-heres-why-it-matters/"><u>Your iPhone Will Host Contacts List in New App Soon - Here's Why It Matters</u></a></li>
 </ul></div>
 

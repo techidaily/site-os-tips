@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Productivity: A Step-by-Step Guide on Setting Up Your iPad as a Secondary Display for Windows and macOS Computers"
-date: 2025-02-04T20:13:42.361Z
-updated: 2025-02-09T19:20:14.641Z
+date: 2025-02-17T21:13:09.952Z
+updated: 2025-02-19T17:13:01.421Z
 tags:
   - ios
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
  An iPad can't compete with a [real monitor](https://facebook-video-recording.techidaily.com/in-2024-unlocking-top-five-transformative-facebook-traits/) in terms of size or price, of course. But if you already have an iPad, it can pull double duty as a second monitor at your desk, or even with your laptop when you're out and about. A [simple iPad stand](https://amazon.com/dp/B01IJ5A2UA?tag=htg-v2-4p2k1g2-20&ascsubtag=UUhtgUeUpU222981&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F100886%2Fhow-to-use-your-ipad-as-a-second-monitor-for-your-pc-or-mac%2F&asc%5Fcampaign=Short-Term) or a [case with a built-in stand](https://www.amazon.com/s?tag=htg-v2-4p2k1g2-20&ascsubtag=UUhtgUeUpU222981&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F100886%2Fhow-to-use-your-ipad-as-a-second-monitor-for-your-pc-or-mac%2F&asc%5Fcampaign=Short-Term) completes the experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Use iPad as a Second Monitor For Windows
 
  For Windows, we recommend an app called "Duet Display." It's not a free app, but it can work with a wired or wireless connection between the PC and iPad. You can get Duet Display for $4 per month ($48 annually).
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 ![Download "Duet Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-16-34.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After installing the apps, you'll need to sign in to both with the same account.
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Duet Display extending displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/PXL_20230518_192447239.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  You'll probably notice that Windows has no idea where the iPad display is in relation to your PC. To fix that, right-click on the desktop and select "Display Settings."
@@ -57,7 +57,7 @@ Joe Fedewa / How-To Geek
 ![Select "Display Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-45.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should see two screens--one representing your main computer monitor (1), and the other representing your iPad (2). Click and drag the iPad screen to position it as it's positioned in real life, then click "Apply."
@@ -65,7 +65,7 @@ Joe Fedewa / How-To Geek
 ![Move display and click "Apply."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-27-21.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is also where you can choose to "Extend These Displays" or "Duplicate These Displays," which is screen mirroring.
@@ -75,6 +75,10 @@ Joe Fedewa / How-To Geek
  Next, let's take a look at Duet Display's settings. Open the Windows app and switch to the "Settings" tab.
 
 ![Select the "Settings" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/2023-05-18_15-28-38.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are a number of settings you may be interested in here. The one we're interested in is "Enable Duet Air." This will allow you to connect to your iPad wirelessly from this point on.
 
@@ -102,21 +106,17 @@ Joe Fedewa / How-To Geek
 
 ![Go to "Screen Mirroring" in the Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now select your iPad from the "Mirror or Extend To" section.
 
 ![Select your iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To customize how the iPad is oriented and used as an external display, open Settings on your Mac and go to the "Displays" section. The iPad will be listed just like any other secondary monitor.
 
 ![iPad in the Mac display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/image-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the iPad itself, you'll see a sidebar with commonly used Mac controls.
 
@@ -145,22 +145,18 @@ Related: [How to Use Your iPad as an External Mac Display With Sidecar](https://
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-elite-lockpicking-games-for-thrill-seekers-for-2024/"><u>[New] Elite Lockpicking Games for Thrill Seekers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bend-the-light-homegrown-animated-innovations/"><u>[Updated] In 2024, Bend the Light Homegrown Animated Innovations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smart-shelfings-leading-frame-apps-of-the-future/"><u>[Updated] Smart Shelfings Leading Frame Apps of the Future</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/60hzyoutube/"><u>高精度な60HzのYouTubeビデオダウンロード手順を学ぶ - ストリーミング技術強化</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-to-troubleshoot-swipe-to-secure-failures-in-apple-devices/"><u>Effective Techniques to Troubleshoot 'Swipe To Secure' Failures in Apple Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-fixing-invisible-comments-on-youtube-posts/"><u>Expert Tips for Fixing Invisible Comments on YouTube Posts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-use-gopro-time-lapse/"><u>How to Use GoPro Time Lapse</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone SE (2020)?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 2023 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/remote-control-of-mac-via-iphone-discover-the-best-4-applications-for-seamless-integration/"><u>Remote Control of Mac via iPhone: Discover the Best 4 Applications for Seamless Integration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/speedy-and-dependable-technician-solutions-for-ipad-screen-damage-restoration/"><u>Speedy and Dependable Technician Solutions for iPad Screen Damage Restoration</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stay-updated-with-your-ipad-easy-steps-for-installing-the-newest-ios-version/"><u>Stay Updated with Your iPad: Easy Steps for Installing the Newest iOS Version</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-sanitizing-your-iphone-display-using-isopropyl-alcohol/"><u>Step-by-Step Guide: Sanitizing Your iPhone Display Using Isopropyl Alcohol</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-for-iphone-backup-recovery-and-restoration-from-itunes-and-icloud-archives/"><u>Step-by-Step Tutorial for iPhone Backup Recovery and Restoration From iTunes & iCloud Archives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-g2000-mic-on-your-kotion-system-a-step-by-step-guide/"><u>Troubleshooting the G2000 Mic on Your Kotion System: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-solve-your-smartphones-silent-crisis-top-techniques-to-restore-ringtone-functionality/"><u>Ultimate Guide: Solve Your Smartphone's Silent Crisis – Top Techniques to Restore Ringtone Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-methods-discovering-your-icloud-account-using-the-imei-code-a-comprehensive-manual/"><u>Ultimate Methods: Discovering Your iCloud Account Using the IMEI Code - A Comprehensive Manual</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate-for-2024/"><u>[Updated] Maximizing Your Visuals The UltraWide vs UHD 4K Debate for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-fcp-on-the-house-simple-steps/"><u>2024 Approved Getting FCP on the House - Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/civilization-6-not-opening-winning-the-battle-against-windows-10-glitches/"><u>Civilization 6 Not Opening? Winning the Battle Against Windows 10 Glitches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-premium-white-hd-backgrounds-for-iphones-at-no-cost/"><u>Download Premium White HD Backgrounds for iPhones at No Cost</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>In 2024, Broadcast Perfection Recommended Tech and Apps for YouTubers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Zero 5G 2023 Turbo?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/innovative-tricks-for-powering-up-your-iphone-without-traditional-methods/"><u>Innovative Tricks for Powering Up Your iPhone without Traditional Methods</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keeping-private-how-to-set-a-password-on-your-iphones-note-app-for-added-security/"><u>Keeping Private: How to Set a Password on Your iPhone's Note App for Added Security</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quickconvert-for-windows-10-seamless-hassle-free-dvd-to-mp4-conversion-with-winx-technology/"><u>QuickConvert for Windows 10: Seamless, Hassle-Free DVD to MP4 Conversion with WinX Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simplified-group-communication-the-ultimate-guide-for-sending-group-texts-on-ios-and-android/"><u>Simplified Group Communication: The Ultimate Guide for Sending Group Texts on iOS & Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-mirroring-ipads-on-chromecast-plus-the-ideal-substitutes/"><u>The Ultimate Guide to Mirroring iPads on Chromecast – Plus the Ideal Substitutes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-best-photo-watermarking-software-you-should-try-for-2024/"><u>Top 10 Best Photo Watermarking Software You Should Try for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-ios-17-release-will-your-iphone-8-be-upgradable/"><u>Upcoming iOS 17 Release: Will Your iPhone 8 Be Upgradable?</u></a></li>
 </ul></div>
 

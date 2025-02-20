@@ -1,7 +1,7 @@
 ---
 title: IPhone Adopts USB-C, Bids Farewell to Proprietary Chargers
-date: 2025-02-08T01:36:52.282Z
-updated: 2025-02-10T00:22:11.507Z
+date: 2025-02-12T21:40:02.450Z
+updated: 2025-02-19T19:54:37.170Z
 tags:
   - ios
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 The iPhone 15 will be the first iPhone to include USB-C functionality, following on from a change Apple made to higher-end iPad models. Though Apple didn’t come up with this great idea on its own, the change is still something to celebrate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple Drops the Lightning Connector
@@ -35,10 +35,6 @@ Apple
 
 ![iPhone 15 Pro recording video via USB-C to an external drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_pro_video_record.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  The iPhone is well overdue for the switch to USB-C, particularly compared to Android devices which have been using the standard for years. Nintendo embraced USB-C for the Switch in 2017, and both Microsoft and Sony use USB-C ports on their Xbox Series and PlayStation 5 consoles.
@@ -54,7 +50,7 @@ Apple
 ![iPhone 15 charging via USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_usb-c.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -72,7 +68,7 @@ Apple
 ![AirPods Pro charging via iPhone 15 over USB-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone_15_airpods.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -80,6 +76,10 @@ Apple
  Apple could have put the change off for a year, since “Autumn 2024” is right around the time when the iPhone 16 is due for release, but the company clearly thought that there was little point in waiting to make an inevitable change.
 
  The company previously made [comments](https://www.zdnet.com/article/eu-wants-usb-c-to-become-standard-charging-port-for-all-smartphones-to-cut-down-e-waste/) that suggested the mandate would “stifle” innovation and “harm consumers in Europe and around the world” though it’s not clear _how_ the company came to that conclusion. It’s fair to say that companies like Apple generally prefer to set trends rather than be forced to follow them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Use Any Old USB-C Cable?
 
@@ -102,7 +102,7 @@ Hannah Stryker / How-To Geek
  You can even pick up [Lightning to USB-C adapters](https://www.amazon.com/Lightning-Adapter-Compatible-Charging-Connector/dp/B08X4SXDQX/?tag=htg-v2-6gl43v1-20&ascsubtag=UUhtgUeUpU2000319&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fiphone-adopts-usb-c%2F&asc%5Fcampaign=Short-Term) that turn your Lightning cables into USB-C cables, a far cheaper investment than buying a whole new set of cables.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Probably Not Worth Upgrading For
@@ -130,20 +130,20 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cultivating-a-unique-vibe-in-your-own-mukbang-content/"><u>[New] 2024 Approved Cultivating a Unique Vibe in Your Own Mukbang Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-sound-excellence-for-podcasters-ultimate-audio-interface-guide/"><u>[New] Sound Excellence for Podcasters Ultimate Audio Interface Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-aerial-cameras-top-picks-under-100/"><u>2024 Approved Affordable Aerial Cameras Top Picks Under $100</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-dissecting-reversed-photo-searches-in-the-virtual-cosmos-fb/"><u>2024 Approved Dissecting Reversed Photo Searches in the Virtual Cosmos (FB)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breaking-free-from-silent-a-guide-to-restore-your-iphones-sound/"><u>Breaking Free From Silent: A Guide to Restore Your iPhone's Sound</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-methods-to-view-battery-status-on-iphones-and-ipads/"><u>Easy Methods to View Battery Status on iPhones and iPads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/four-proven-methods-to-fix-iphone-software-update-issues-averting-the-update-unsuccessful-message/"><u>Four Proven Methods to Fix iPhone Software Update Issues: Averting the 'Update Unsuccessful' Message</u></a></li>
-<li><a href="https://os-tips.techidaily.com/garuda/"><u>Garuda -</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-realme-c51-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme C51 FRP Bypass</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastery-in-gameye-advanced-recording-tips/"><u>Mastery in GamEye Advanced Recording Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211130950-9782355992728-n-73-le-cantique-des-cantiques-rituel-initiatique/"><u>N. 73 Le cantique des cantiques, rituel initiatique | Free Book</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-the-mystery-missing-emails-on-your-iphone-and-easy-fixes/"><u>Solving the Mystery: Missing Emails on Your iPhone and Easy Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-optimal-ios-health-apps-comparing-drfone-repair-tools-with-exceptional-alternatives/"><u>Ultimate Guide to Optimal iOS Health Apps - Comparing Dr.Fone Repair Tools with Exceptional Alternatives</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-ios-13-update-enhancements-mastering-the-new-functionality-of-the-journal-application/"><u>Unveiling iOS 13 Update Enhancements: Mastering the New Functionality of the Journal Application</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-crafting-text-memes-quickly/"><u>[New] The Art of Crafting Text Memes Quickly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-creative-vanguard-top-6-redefining-digital-arts-for-2024/"><u>[New] The Creative Vanguard Top 6 Redefining Digital Arts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-harness-freedom-with-top-rated-android-editing-apps/"><u>[Updated] Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-your-watchlist-with-controlled-netflix-frame-rate/"><u>[Updated] Perfect Your Watchlist with Controlled Netflix Frame Rate</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-your-presence-best-free-tools-for-intriguing-openings-for-2024/"><u>Enhance Your Presence Best Free Tools for Intriguing Openings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eyemosaic-the-essential-photo-patcher-for-2024/"><u>EyeMosaic The Essential Photo Patcher for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-top-3-methods-for-enforcing-parental-control-on-your-childs-snapchat-app-on-ios-devices/"><u>Guide: Top 3 Methods for Enforcing Parental Control on Your Child's Snapchat App on iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-uncover-your-icloud-password-with-just-your-devices-imei-number-expert-secrets-revealed/"><u>How To Uncover Your iCloud Password With Just Your Device's IMEI Number - Expert Secrets Revealed!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ringtones-gone-rogue-discover-10plus-methods-for-reviving-the-sound-on-iphone-ipad-and-android-devices/"><u>Ringtones Gone Rogue? Discover 10+ Methods for Reviving the Sound on iPhone, iPad & Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/siri-stuck-top-10-fixes-to-reactivate-siri-on-your-iphone-comprehensive-tutorial/"><u>Siri Stuck? Top 10 Fixes to Reactivate Siri on Your iPhone – Comprehensive Tutorial</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-definitive-strategy-for-reviving-a-blocked-iphone-secrets-to-access-unlock-and-data-retrieval/"><u>The Definitive Strategy for Reviving a Blocked iPhone: Secrets to Access, Unlock, and Data Retrieval</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-life-of-the-greek-gods/"><u>The Life of the Greek Gods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-motherboards-of-2024-comprehensive-guide-by-socket-type-and-cpu-chipset/"><u>Top Rated Gaming Motherboards of 2024: Comprehensive Guide by Socket Type & CPU Chipset</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-monitor-error-messages-insights-from-yl-computing-and-their-software-solutions/"><u>Understanding Monitor Error Messages: Insights From YL Computing and Their Software Solutions</u></a></li>
 </ul></div>
 

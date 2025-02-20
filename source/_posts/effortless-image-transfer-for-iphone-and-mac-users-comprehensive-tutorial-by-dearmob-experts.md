@@ -1,7 +1,7 @@
 ---
 title: Effortless Image Transfer for iPhone & Mac Users - Comprehensive Tutorial by DearMob Experts
-date: 2025-02-03T21:48:24.058Z
-updated: 2025-02-09T20:18:41.989Z
+date: 2025-02-13T03:20:49.845Z
+updated: 2025-02-20T01:52:54.133Z
 tags:
   - iphone-manager
 categories:
@@ -33,10 +33,6 @@ In DearMob,
  2\. Hit **Photo Transfer** and select the photo(s) you want to transfer to Mac. Click **Export** and then you can find the photos on the local drive of your computer.
 
 ![export photos to mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-export.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
@@ -73,14 +69,10 @@ In DearMob,
 ![add photos from mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-add.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Name the album as you like.
 * As per iOS/iPadOS system design, you need to add photos to custom albums when importing photos from PC/Mac to iDevice. System-generated albums like Camera Roll, Favorites, and Screenshots are locked in this scenario.
@@ -100,15 +92,15 @@ In DearMob,
 
 ![add photos from mac](https://www.5kplayer.com/user-guide/images/userguide-how/photo-mac-add.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**Tips:**
 
 * Hit Select All to select all photos in an album.
 * To select multiple adjacent photos in an album, click the first photo, press and hold down the Shift key on the keyboard, and then click the last photo.
 * All photos between the first and last photo will be selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gaotags: Keep or Remove Photo Location Data
 
@@ -119,12 +111,16 @@ Note: It only works for macOS 10.13 (macOS High Sierra) and higher versions to r
 ![Remove Photo Location Data](https://www.5kplayer.com/user-guide/images/userguide-how/remove-photo-location-data-mac.jpg) 
 * By default, the option is turned off. When you export photos, the embedded location data in the photos will be kept.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * When toggled on, DearMob iPhone Manager will remove photo location data when exporting photos from iPhone to computer.
 
 ![](https://www.5kplayer.com/user-guide/images/userguide-how/tips-icon.png)**What is the photo location data?**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Location data stores the geographical information about where your photo is taken. It is also known as GPS data, geolocation data, or geotags. It is stored in the EXIF metadata of the photo file.
@@ -140,12 +136,16 @@ On iPhone: Settings > Privacy > Location Services > Camera.
 ## Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Check Your iPhone Photos in Large Icons on a PC?
 
 To display your iPhone photos in the large icons view, simply click the 4-square icon located in the top right of the Photo Transfer panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can It Retain the Actual Capture Date When Exporting iPhone Photos?
 
@@ -166,20 +166,16 @@ Yes. The Windows version of DearMob iPhone Manager won't change the original cre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-vloggers-dream-exploring-the-best-12-video-capture-devices/"><u>[New] 2024 Approved A Vlogger's Dream Exploring the Best 12 Video Capture Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-effortless-visual-transitions-using-instagram-chroma-keying-for-2024/"><u>[New] Effortless Visual Transitions Using Instagram Chroma Keying for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-youtube-file-extraction/"><u>[New] In 2024, Effortless YouTube File Extraction</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-beat-your-song-into-success-with-fb-top-vids-guide/"><u>[Updated] Beat Your Song Into Success with FB Top Vids Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-10-accessory-hits-for-sj-series-drivers/"><u>[Updated] In 2024, Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-check-your-videos-legal-status-before-tiktok-upload/"><u>2024 Approved How to Check Your Video's Legal Status Before TikTok Upload</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-7-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 7 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-iphones-web-speeds-by-deleting-cache-and-cookies-history/"><u>Boost Your iPhone's Web Speeds by Deleting Cache and Cookies History</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-instructions-for-thoroughly-formatting-your-ipod-prior-to-resale/"><u>Comprehensive Instructions for Thoroughly Formatting Your iPod Prior to Resale</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-the-ultimate-method-to-remove-browsing-data-like-search-history-and-cookies-on-your-ipad/"><u>Comprehensive Tutorial: The Ultimate Method to Remove Browsing Data Like Search History and Cookies on Your iPad</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-latest-drivers-on-your-intel-centrino-advanced-n-6250-chip-set-card/"><u>How to Install Latest Drivers on Your Intel Centrino Advanced-N 6250 Chip Set Card</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/"><u>How to Reset Waze Location Memory on iOS Devices: A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-to-delete-music-tracks-from-your-iphone-device/"><u>Simple Steps to Delete Music Tracks From Your iPhone Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-complete-deletion-of-texts-from-your-iphone/"><u>Step-by-Step Guide: Complete Deletion of Texts From Your iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-definitive-method-for-erasing-all-of-your-skype-chats-forever/"><u>The Definitive Method for Erasing All of Your Skype Chats Forever</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-groundbreiting-recording-solutions-for-environmental-films/"><u>[Updated] 2024 Approved Groundbreiting Recording Solutions for Environmental Films</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhance-engagement-with-squared-up-social-media-content/"><u>[Updated] In 2024, Enhance Engagement with Squared-Up Social Media Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transform-your-content-to-stardom-studio-guide/"><u>[Updated] In 2024, Transform Your Content to Stardom Studio Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-to-follow-instructions-for-downloading-lenovo-x1-carbon-drivers-on-windows-10-and-7/"><u>Easy-to-Follow Instructions for Downloading Lenovo X1 Carbon Drivers on Windows 10 and 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-lava-agni-2-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Lava Agni 2 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/initiate-your-journey-a-straightforward-nft-blueprint/"><u>Initiate Your Journey A Straightforward NFT Blueprint</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-clearing-your-shopping-records-from-iphone/"><u>Step-by-Step Guide: Clearing Your Shopping Records From iPhone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-phantom-v-fold-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Phantom V Fold Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-secure-methods-for-completely-erasing-your-iphones-sms-history/"><u>Top 3 Secure Methods for Completely Erasing Your iPhone's SMS History</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-deletion-of-your-icloud-email-address/"><u>Ultimate Guide: Mastering Deletion of Your iCloud Email Address</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-how-to-erase-music-files-in-itunes-for-desktop-users/"><u>Ultimate Tutorial: How to Erase Music Files in iTunes for Desktop Users</u></a></li>
 </ul></div>
 

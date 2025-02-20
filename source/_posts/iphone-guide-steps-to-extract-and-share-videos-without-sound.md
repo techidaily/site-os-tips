@@ -1,7 +1,7 @@
 ---
 title: "IPhone Guide: Steps to Extract and Share Videos without Sound"
-date: 2025-02-07T20:20:40.919Z
-updated: 2025-02-09T21:14:03.247Z
+date: 2025-02-17T17:25:34.035Z
+updated: 2025-02-20T00:16:33.548Z
 tags:
   - ios
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ## IPhone Guide: Steps to Extract and Share Videos without Sound
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Remove Audio from a Video](https://ai-video-tools.techidaily.com/updated-the-ultimate-bokeh-experience-top-apps-for-iphone-and-android-users-for-2024/)
 * [How to Restore the Sound You Just Removed](https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-x-by-drfone-ios/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
  Sometimes, you'd like to share a video with others, but the accompanying audio track is distracting or perhaps introduces privacy concerns. Luckily, there's a quick way to silence a video using Photos on iPhone and iPad. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Remove Audio from a Video 
 
  First, open the "Photos" app on your iPhone or iPad. In Photos, locate the video you'd like to silence and tap its thumbnail.
@@ -35,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![Tap the video you want to open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-tap-video.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the video open, tap "Edit" in the upper-right corner of the screen. Note that there is a speaker icon at the bottom of the window that is blue. 
 
 ![Tap the edit button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-tap-edit-note-audio-icon.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With audio enabled, a speaker icon will appear in the upper-left corner of the edit screen. Unlike other speaker icons in iOS and iPadOS, this is not simply a mute button—it actually controls whether or not there is audio attached to a video file. With the audio for the video removed, the speaker icon will change to a speaker icon with a diagonal strike mark through it.
 
@@ -52,21 +52,21 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ![Tap the speaker icon to remove sound.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-audio-disable-click-done.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the audio is disabled on a particular video, you will see a grayed-out speaker icon on the toolbar in Photos when you are examining the video. This means that the video has no audio component to it.
 
 ![The grey icon indicates that there is no audio attached to a video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-audio-icon-grey.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the icon looks like a crossed-out speaker in this spot, it could mean that you phone is merely silenced. Turn the sound back on and make sure the speaker icon is fully grayed out before sharing.
 
  Now you're free to share the video however you wish, and no one will hear any sound when the video plays.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Restore the Sound You Just Removed
 
@@ -89,20 +89,20 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-meme-creation-at-its-peak-10-templates-unveiled/"><u>[New] In 2024, Meme Creation at Its Peak #10 Templates Unveiled</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-breaking-down-youtube-revenue-per-million-views/"><u>[Updated] 2024 Approved Breaking Down YouTube Revenue per Million Views</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo/"><u>[Updated] 2024 Approved The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-gaming-masterpiece-samsungs-ue590-in-depth-review/"><u>[Updated] In 2024, Gaming Masterpiece - Samsung's UE590 In-Depth Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/analysis-of-sea-techs-exterior-usb-blu-ray-burner-reviewing-the-fluctuating-performance-levels/"><u>Analysis of Sea Tech's Exterior USB Blu-Ray Burner: Reviewing the Fluctuating Performance Levels</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comparing-gphone-and-iphone-top-8-criteria-determining-the-clear-winner/"><u>Comparing Gphone and iPhone: Top 8 Criteria Determining the Clear Winner</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-8-chatgpt-extensions-for-your-fitness-journey/"><u>Discover the Best 8 ChatGPT Extensions for Your Fitness Journey</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Samsung Galaxy A05s?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-smartphone-lifespan-expert-tips-for-fixing-swift-iphone-battery-percentage-changes/"><u>Secure Your Smartphone Lifespan: Expert Tips for Fixing Swift iPhone Battery Percentage Changes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/setting-up-an-iphone-without-a-sim-card-essential-steps-and-tips/"><u>Setting Up an iPhone Without a SIM Card: Essential Steps and Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-regaining-access-to-your-locked-iphone-without-the-old-password/"><u>Step-by-Step Guide: Regaining Access to Your Locked iPhone Without the Old Password</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-smartwatch-review-how-garmin-forerunner/"><u>The Ultimate Smartwatch Review: How Garmin Forerunner</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620253206-troubleshooting-guide-for-when-find-my-iphone-fails-to-update-or-display-location-easy-solutions-inside/"><u>Troubleshooting Guide for When 'Find My iPhone' Fails to Update or Display Location - Easy Solutions Inside</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-restoring-a-locked-iphone-via-hardware-key-or-itunes-backup/"><u>Ultimate Guide: Restoring a Locked iPhone via Hardware Key or iTunes Backup</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-reasons-behind-a-laggy-ipad-top-strategies-for-speed-restoration/"><u>Unveiling the Reasons Behind a Laggy iPad: Top Strategies for Speed Restoration</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ishowu-audio-capture-download-and-review-for-2024/"><u>[Updated] IShowU Audio Capture Download and Review for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-periscope-detailed-instruction-manual-for-2024/"><u>[Updated] Navigating Periscope Detailed Instruction Manual for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-zoom-on-a-chromebook-key-techniques/"><u>2024 Approved Mastering Zoom on a Chromebook Key Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620277081-easily-stream-from-apple-to-microsoft-connect-your-iphone-to-xbox-one/"><u>Easily Stream From Apple to Microsoft: Connect Your iPhone to Xbox One!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-switching-from-heic-to-jpg-transfer-between-your-iphone-ipad-and-mac/"><u>Easy Steps: Switching From HEIC to JPG Transfer Between Your iPhone, iPad & Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-the-excitement-of-new-samsung-innovations-through-online-broadcasts/"><u>Enjoy the Excitement of New Samsung Innovations Through Online Broadcasts</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-software-to-design-personalized-ringtones-for-your-iphone-4s/"><u>Free Software to Design Personalized Ringtones for Your iPhone 4S</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620276293-free-software-to-design-personalized-ringtones-for-your-iphone-4s/"><u>Free Software to Design Personalized Ringtones for Your iPhone 4S!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lava-yuva-3-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lava Yuva 3</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-navigating-the-rules-of-youtube-video-documentation/"><u>In 2024, Navigating the Rules of YouTube Video Documentation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-strategies-to-utilize-autofill-password-capability-in-iphones/"><u>In-Depth Strategies to Utilize Autofill Password Capability in iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-history-a-comprehensive-tutorial-for-restoring-previous-whatsapp-chats-across-smartphones/"><u>Unlocking History: A Comprehensive Tutorial for Restoring Previous WhatsApp Chats Across Smartphones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-wonders-of-phantoms-chrono-inversion-for-2024/"><u>Unveiling the Wonders of Phantom’s Chrono Inversion for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/wireless-sync-mirroring-your-iphone-display-on-a-roku-tv-without-using-wi-fi/"><u>Wireless Sync: Mirroring Your iPhone Display on a Roku TV without Using Wi-Fi</u></a></li>
 </ul></div>
 

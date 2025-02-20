@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings"
-date: 2025-02-04T20:29:22.363Z
-updated: 2025-02-10T00:59:38.130Z
+date: 2025-02-13T21:40:50.231Z
+updated: 2025-02-20T00:27:17.655Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ---
 
 ## Step-by-Step Guide: Personalizing Your iPhone/iPad Lock Screen Settings
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 * [Your Lock Screen Is the Point of First Contact](https://facebook-video-files.techidaily.com/new-unraveling-the-enigma-how-to-download-messages-from-facebook/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Accessing iOS wallpaper settings in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/settings-page-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then tap on "Add New Wallpaper."
 
 ![Selecting the 'Add New Wallpaper' option under Wallpaper settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-add-new-wallpaper-in-wallpaper-settings-1.jpg) 
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Deleting a Lock Screen on your iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-wallpaper-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Change Your Wallpaper
 
  The wallpaper is the central theme of your Lock Screen and forms the basis of its aesthetic. The wallpaper is the first thing you'll select when creating a new Lock Screen.
@@ -61,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
  On the wallpaper menu, you can choose between a photo, emoji, color, or even weather and astronomy. Once selected, you can apply various edits to the wallpaper, such as filters, depth effects, and zoom.
 
 ![Browsing the available wallpaper options on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wallpaper-settings.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Filters can help you enhance the appearance of the wallpaper, while the [depth effect allows you to control the dimensional arrangement of your Lock Screen](https://android-frp.techidaily.com/about-motorola-moto-g13-frp-bypass-by-drfone-android/), bringing images to the foreground or background of the clock and other widgets.
 
@@ -76,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Using the customize wallpaper toggle to modify an emoji wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/customize-wallpaper-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You must create a new Lock Screen if you want to change your wallpaper from one form to another. For instance, If you want to change your wallpaper from an emoji to a photo, you cannot do this by customizing an existing Lock Screen.
 
  Once your lock screen wallpaper is set, you have to decide if you want a matching Home Screen, as you can choose[separate Lock Screen and home screen wallpapers](https://easy-unlock-android.techidaily.com/introducing-the-asus-nuc-14-proplus-meteor-lake-cpus-and-advanced-features-at-only-860/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Change Your Preferred Clock Style
 
@@ -96,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Changing the font and color of the clock on your iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-font-color.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Furthermore, you can click the Globe icon to select from the numeral options of Arabic, Arabic Indic, Devanagari, Khmer, and Burmese. Depending on your chosen wallpaper, you can also set the depth effect (as mentioned earlier).
 
 ![Selecting different numeral styles for the clock on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-numerical-option-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Some Widgets
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Selecting one of the three notification display styles on an iPhone Lock Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/notification-display-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also [disable certain apps from sending lock screen notifications](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-without-previous-owner-by-drfone-ios/) to prevent them from waking your iPhone or iPad by lighting your screen up. To do this, go to "Settings," tap on "Notifications," and select the app you want to stop from sending lock screen notifications. Once selected, disable the Lock Screen under Alerts.
@@ -140,11 +140,11 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 ![Linking your iPhone Lock Screen to a Focus mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/customize-lock-screen-for-focus-mode.jpg) 
 
- Then, choose the focus mode you want to customize and select a lock screen to link to it. You can create a new Lock Screen, choose an existing one, or select multiple Lock Screens to connect to this Focus.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Then, choose the focus mode you want to customize and select a lock screen to link to it. You can create a new Lock Screen, choose an existing one, or select multiple Lock Screens to connect to this Focus.
 
 ##  Choose What's Available While Your Phone Is Locked
 
@@ -155,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 ![Choosing which functions to allow when your iPhone is locked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/allow-accessories-when-iphone-is-locked.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Furthermore, you can enable or disable notification previews on your lock screen. To do this, go to "Settings" and tap "Notifications."
@@ -193,18 +193,20 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-achieve-financial-success-on-tiktok-with-these-8-strategies-for-2024/"><u>[New] Achieve Financial Success on TikTok with These 8 Strategies for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-decibels-the-leading-youtube-voices/"><u>[Updated] 2024 Approved Digital Decibels The Leading YouTube Voices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-tips-for-shooting-high-quality-youtube-videos/"><u>[Updated] In 2024, Top Tips for Shooting High-Quality YouTube Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enabling-screenshots-and-recordings-of-snaps/"><u>2024 Approved Enabling Screenshots and Recordings of Snaps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-fix-when-your-ipad-wont-connect-with-laptopdesktop-computers/"><u>A Comprehensive Guide to Fix When Your iPad Won't Connect with Laptop/Desktop Computers</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effortless-conversion-of-mts-files-to-avi-for-users-on-macoswindows-systems-a-comprehensive-guide/"><u>Effortless Conversion of MTS Files to AVI for Users on macOS/Windows Systems - A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-ipad-display-fixes-quick-and-trustworthy-professional-repairs/"><u>Expert iPad Display Fixes: Quick and Trustworthy Professional Repairs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-benefits-of-an-iphone-jailbreak-a-comprehensive-guide/"><u>Exploring the Benefits of an iPhone Jailbreak: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphone-frozen-on-recovery-screen-effective-solutions-and-tips/"><u>How to Resolve iPhone Frozen on Recovery Screen: Effective Solutions & Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>In 2024, GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-xs-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone XS? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restart-tactics-for-fixing-microsoft-store-errors/"><u>Restart Tactics for Fixing Microsoft Store Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-for-direct-iphone-restoration/"><u>Step-by-Step Instructions for Direct iPhone Restoration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-squaring-the-circle-your-imovie-path-to-perfect-instagram-videos-for-2024/"><u>[Updated] Squaring the Circle Your iMovie Path to Perfect Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-zooming-into-facebook-live-with-ease-using-zoom-for-2024/"><u>[Updated] Zooming Into Facebook Live with Ease Using Zoom for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-vs-dailymention-identifying-key-variations/"><u>2024 Approved YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/analyzing-multi-angle-video-technology-trends-today/"><u>Analyzing Multi-Angle Video Technology Trends Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-activating-recovery-mode-on-your-ipad-a-must-read-for-newbies-and-experts/"><u>Complete Guide To Activating Recovery Mode On Your iPad - A Must Read For Newbies And Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-insights-into-polarr-photo-enhancer/"><u>Comprehensive Insights Into Polarr Photo Enhancer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/create-your-own-custom-iphone-ringtones-with-our-free-m4r-editor/"><u>Create Your Own Custom iPhone Ringtones with Our Free M4R Editor</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-tutorial-mirror-your-ipad-on-smart-tvs-using-three-effective-techniques/"><u>Easy Tutorial: Mirror Your iPad on Smart TVs Using Three Effective Techniques</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effiziente-methoden-zur-verbindung-von-synology-nas-mit-google-drive-zwei-bewahrte-losungen/"><u>Effiziente Methoden Zur Verbindung Von Synology NAS Mit Google-Drive: Zwei Bewährte Lösungen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-sim-management-for-iphones-essential-guidelines-to-insertremove-sim-cards-successfully/"><u>Effortless SIM Management for iPhones: Essential Guidelines to Insert/Remove Sim Cards Successfully!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-merge-and-clean-up-your-iphones-address-book-by-removing-duplicates/"><u>How to Merge and Clean Up Your iPhone's Address Book by Removing Duplicates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improve-your-ios-user-experience-a-guide-to-customizing-iphone-home-and-lock-screens/"><u>Improve Your iOS User Experience: A Guide to Customizing iPhone Home and Lock Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>In 2024, Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-concept-of-screen-time-on-iphones-a-guide-to-disabling-it/"><u>Unraveling the Concept of Screen Time on iPhones – A Guide to Disabling It</u></a></li>
 </ul></div>
 

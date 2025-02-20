@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Background Elimination in Photos Using Your iPhone and MacBook
-date: 2025-02-04T02:27:50.613Z
-updated: 2025-02-09T22:08:23.628Z
+date: 2025-02-18T02:50:57.837Z
+updated: 2025-02-20T02:46:13.028Z
 tags:
   - ios
 categories:
@@ -34,16 +34,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Select button in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap the Share icon in the bottom-left corner and select "Save to Files" from the Share menu.
 
 ![Save to Files option in iPhone Photos app's Share menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-3.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, choose a folder to save the images and tap "Save."
 
@@ -52,10 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you want to move the images to a separate folder, you'll need to create one first. Tap the three-dot icon to the left of Save in the top-right corner of the app and select "New Folder."
 
 ![Creating a new folder in Files app to move Photos images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-5.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then, give the folder a name and hit "Save" to save the selected images.
 
@@ -67,22 +59,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Using the Remove Background Quick Action on an image in iPhone's Files app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-8.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will remove the image's background and save it as a new file (in the PNG format) in the same folder. You can now export the image to your favorite [photo editing app](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) for further editing. Or save it back in the Photos app.
 
  If you want to remove backgrounds from multiple images, it's possible to do so with the Remove Background Quick Action. In the folder containing the images, hit the three-dot menu button in the top-right corner and tap "Select."
 
 ![Select option in Files app to choose multiple images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-10.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, select all the photos whose backgrounds you want to remove. Finally, tap the three-dot button in the bottom-right corner and select the "Remove Background" Quick Action to remove their backgrounds.
 
 ![Accessing the Remove Background Quick Action in Files app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-iphone-12.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Remove the Background From an Image on a Mac
@@ -95,19 +91,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Accessing context menu on an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, click on "Quick Actions" and select "Remove Background."
 
 ![Using the Remove Background Quick Action to remove an image's background in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finder will remove the background from your selected image and save it with a transparent background as a PNG file in the same folder.
 
  To remove backgrounds from more than one image in one go, first select all the images while holding the Command key. Then, Control-click on your selection (or tap with two fingers on your trackpad) to access the context menu and choose Quick Actions > Remove Background.
 
 ![Using the Remove Background Quick Action to remove backgrounds of multiple images at once in Finder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/remove-background-from-image-on-mac-2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Remove Background Gets the Job Done Most of the Time
 
@@ -130,22 +130,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-enlightenment-in-education-top-10-history-youtube-channels/"><u>[New] 2024 Approved Enlightenment in Education Top 10 History YouTube Channels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-fabricate-comical-artwork-adobe-style/"><u>[New] In 2024, Fabricate Comical Artwork, Adobe Style</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[Updated] Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/beginners-essential-strategies-for-password-management-on-your-ios-devices/"><u>Beginner's Essential Strategies for Password Management on Your iOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-saving-and-sharing-your-icloud-keychain-with-csv-file-conversion/"><u>Complete Guide: Saving and Sharing Your iCloud Keychain with CSV File Conversion</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-instructions-to-acquire-custom-ringtone-apps-on-apple-iphones-and-android-phones/"><u>Easy Instructions to Acquire Custom Ringtone Apps on Apple iPhones and Android Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-cast-your-ipad-onto-a-chromecast-top-3-techniques/"><u>How to Cast Your iPad Onto a Chromecast: Top 3 Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-edge-40-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola Edge 40 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme 12 Pro 5G Device</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-ideapad-100-find-and-install-the-latest-drivers-for-windows-10-systems-easily/"><u>Lenovo IdeaPad 100 - Find and Install the Latest Drivers for Windows 10 Systems Easily!</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/mastering-conversion-effective-ways-to-transform-rm-rmvb-videos-when-handbrake-falls-short/"><u>Mastering Conversion: Effective Ways to Transform RM RMVB Videos When HandBrake Falls Short</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-for-casting-your-iphone-display-on-a-tv-screen-even-without-using-apples-device/"><u>Simple Steps for Casting Your iPhone Display on a TV Screen, Even Without Using Apple's Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-techniques-to-restart-your-apple-timepiece-no-phone-necessary/"><u>Simple Techniques to Restart Your Apple Timepiece: No Phone Necessary</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-adjusting-your-windows-defense-tools-through-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Windows Defense Tools Through Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-solution-restoring-functionality-to-your-nonfunctional-iphone-alarm/"><u>Step-by-Step Solution: Restoring Functionality to Your Nonfunctional iPhone Alarm</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stunning-2024-holiday-mobile-backgrounds-compatible-with-ios-devices-iphone-6-7-8-se-x-xs-xr-11-12-13/"><u>Stunning 2024 Holiday Mobile Backgrounds Compatible with iOS Devices (iPhone 6, 7, 8, SE, X, XS, XR, 11, 12, 13)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-chromebooks-premium-free-video-capture-extensions/"><u>[New] 2024 Approved Chromebook's Premium Free Video Capture Extensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>[New] 2024 Approved Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-basic-concepts-of-plotting-and-characterizing/"><u>[New] Basic Concepts of Plotting and Characterizing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-expert-endorsed-srs-conversions-for-macwin-users-for-2024/"><u>[New] Expert-Endorsed SRS Conversions for Mac/Win Users for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-full-picture-editpro-suite-review-of-2023/"><u>[New] The Full Picture EditPro Suite Review of 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-battlebuddies-channel-over-a-hundred-friends-in-games-for-2024/"><u>[Updated] BattleBuddies Channel Over a Hundred Friends in Games for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/editing-and-deleting-messages-a-comprehensive-guide-for-ios-devices/"><u>Editing & Deleting Messages: A Comprehensive Guide for iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-expansion-master-the-art-of-unzipping-archives-on-iphone-and-ipad/"><u>Effortless Expansion: Master the Art of Unzipping Archives on iPhone & iPad</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-new-bottom-navigation-bar-in-google-chrome-for-iphones/"><u>Enhanced User Experience: New Bottom Navigation Bar in Google Chrome for iPhones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/evaluating-the-new-apple-watch-ultra-model-2-impactful-yet-not-revolutionary-in-todays-tech-waves/"><u>Evaluating the New Apple Watch Ultra Model 2: Impactful Yet Not Revolutionary in Today's Tech Waves</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-essential-functionality-in-leading-iphone-image-editors-discover-the-top-10-features/"><u>Expert Tips: Essential Functionality in Leading iPhone Image Editors – Discover the Top 10 Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-airpods-now-unravel-the-mystery-of-persistent-connectivity-breakdowns-with-our-top-8-quick-solutions/"><u>Fix Your AirPods Now! Unravel the Mystery of Persistent Connectivity Breakdowns with Our Top 8 Quick Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/frustrated-with-samsungs-wear-os-now-enjoying-the-apple-watch-alternative-on-iphone/"><u>Frustrated with Samsung's Wear OS, Now Enjoying the Apple Watch Alternative on iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-your-apple-magsafe-charging-pad-today-for-a-low-price-of-32/"><u>Get Your Apple MagSafe Charging Pad Today for a Low Price of 32$!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-online-converter-vob-naar-wma-mobavivi/"><u>Gratis Online Converter VOB Naar WMA - Mobavivi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-assistive-touch-transforms-iphones-into-essential-communication-devices/"><u>How Assistive Touch Transforms iPhones Into Essential Communication Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nokia-c12-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nokia C12 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-express-individuality-with-youtube-backgrounds/"><u>In 2024, Express Individuality with YouTube Backgrounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-the-art-of-tiktok-visual-enhancements/"><u>Mastering the Art of TikTok Visual Enhancements</u></a></li>
 </ul></div>
 

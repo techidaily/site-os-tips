@@ -1,7 +1,7 @@
 ---
 title: "Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide"
-date: 2025-02-03T17:05:50.247Z
-updated: 2025-02-10T02:36:11.429Z
+date: 2025-02-16T18:42:50.871Z
+updated: 2025-02-19T19:53:29.365Z
 tags:
   - ios
 categories:
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 * [Capture GIFs with Your Camera using GIPHY](https://ai-vdieo-software.techidaily.com/full-guide-how-to-add-a-skin-smoother-effect-with-final-cut-pro/)
 * [GIFs that Keep on Giving](https://easy-unlock-android.techidaily.com/unlock-your-realme-12-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Share Live Photos that have been looped or bounced directly to apps or construct a workflow using iOS Shortcuts to export a GIF. Alternatively, download a third-party app like GIPHY and shoot, convert, and dress-up GIFs ready for export.
 
  Looping animated GIFs became popular during the early days of the internet when slow connection speeds made streaming video prohibitive. The format never really went away, so it's handy to know how to produce GIFs right on your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Share Live Photos as GIFs
 
@@ -31,34 +39,26 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ![Find the Live Photos album in the Photos app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photos_album.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you're capturing a Live Photo when you take a picture, look for the Live Photos icon above or to the side of the viewfinder. It looks like three circles. If you see a line through the middle of it, that means the feature is off. Tap it to turn it on.
 
 ![Enable Live Photos in Camera app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photo_camera.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Live Photos will be converted into GIFs automatically, depending on where you share them. The first thing you need to do is locate a Live Photo within the Photos app. Open it and you should see a "Live" button appear in the top-left corner of the image with a drop-down arrow.
 
 ![Live Photo drop-down selector](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_photo_button.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tap on the arrow and choose "Loop" or "Bounce" from the menu that appears. Loop will attempt to seamlessly loop your Live Photo, with varying degrees of success. Loop works best for repetitive motions that blend well, shot from a relatively static perspective. Bounce simply plays then reverses the whole Live Photo.
 
 ![Choose between Live, Loop, and Bounce](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/live_loop_bounce.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Pick one and preview the effect, then when you're ready to share hit the "Share" button (which looks like a box with an arrow pointing upwards). Now pick a destination app, like WhatsApp, and your Live Photo should send as a GIF. In some apps, the loop will be sent as a video, in which case you might want to use Shortcuts instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Turn Live Photos or Videos into GIFs with Shortcuts
 
@@ -80,25 +80,17 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 
 ![Add Action to iPhone shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/add_action.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Search for "GIF" and choose "Make GIF" from the results that appear.
 
 ![Add the "Make GIF" action to your shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/search_gif.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The action will be added to your workflow. Next, tap on the "Content" button that appears and choose "Shortcut Input" from the list. We're doing this so that the shortcut targets the video or Live Photo you have open whenever it is triggered.
 
 ![Make GIF from "Shortcut Input" in Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shortcut_input.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tap the arrow that appears within the action to reveal some options, including timing under "Seconds per Photo" and an "Auto Size" toggle. Be aware that turning off auto-sizing will cause your GIFs to be massive. You can always edit these settings later if you're unhappy with the results.
 
@@ -131,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 ![Live Photo converted to GIF using Shortcuts on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/IMG_0076.gif) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Tim Brookes / How-To Geek_
@@ -144,7 +136,15 @@ _Tim Brookes / How-To Geek_
 
 ![Create GIFs with GIPHY's "Create" feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/giphy_create.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GIPHY lets you save videos and GIFs, and there's no need to upload your files to the internet either. Best of all there are no watermarks to contend with. It's a solid choice if you're not getting on with built-in apps like Photos and Shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  GIFs that Keep on Giving
 
@@ -167,24 +167,17 @@ _Tim Brookes / How-To Geek_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-the-art-of-capturing-live-hulu-content-across-platforms-for-2024/"><u>[New] Mastering the Art of Capturing Live Hulu Content Across Platforms for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-virtual-realm-giggles-top-metaverse-memes-made-easy-for-2024/"><u>[New] Virtual Realm Giggles Top Metaverse Memes Made Easy for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-skype-meetings-on-modern-operating-systems/"><u>[Updated] Recording Skype Meetings on Modern Operating Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-causes-of-your-sluggish-ipad-and-effective-ways-to-boost-its-performance/"><u>Discover the Causes of Your Sluggish iPad & Effective Ways to Boost Its Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620258067-full-iphone-storage-discover-14-immediate-fixes/"><u>Full iPhone Storage? Discover 14 Immediate Fixes!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 12 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/identifying-and-resolving-ram-issues-a-step-by-step-guide-by-yl-computing/"><u>Identifying & Resolving RAM Issues: A Step-by-Step Guide - By YL Computing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/imessage-image-vanishing-issue-heres-the-ultimate-guide-to-resolving-it/"><u>IMessage Image Vanishing Issue? Here's the Ultimate Guide to Resolving It !</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-poetic-creation-a-guide-to-writing-with-chatgpt/"><u>Mastering Poetic Creation: A Guide to Writing with ChatGPT</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-ipad-connectivity-essential-steps-for-reactivating-the-usb-driver/"><u>Reviving iPad Connectivity: Essential Steps for Reactivating the USB Driver</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-fixing-a-mac-frozen-on-the-startup-with-an-apple-icon-displayed/"><u>Step-by-Step Guide: Fixing a Mac Frozen on the Startup with an Apple Icon Displayed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tale-weavers-hub-hall-of-fame-picks/"><u>Tale Weavers Hub - Hall of Fame Picks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-easy-fixes-for-overcoming-iphones-passcode-demand/"><u>Top 5 Easy Fixes for Overcoming iPhone's Passcode Demand</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-vpn-providers-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Ranked VPN Providers : Comprehensive Testing & Reviews by Tech Experts</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-12-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 12 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620255570-troubled-by-a-glitchy-smartphone-discover-5-simple-fixes/"><u>Troubled by a Glitchy Smartphone? Discover 5 Simple Fixes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-when-your-iphone-contacts-wont-update-on-icloud/"><u>Troubleshooting Steps When Your iPhone Contacts Won't Update on iCloud</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620250948-unable-to-add-songs-to-your-iphone-discover-the-top-5-fixes/"><u>Unable to Add Songs to Your iPhone? Discover the Top 5 Fixes!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-capturing-excellence-the-best-camera-lenses/"><u>[New] 2024 Approved Capturing Excellence The Best Camera Lenses</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quickening-vimeo-video-watch-time/"><u>[Updated] In 2024, Quickening Vimeo Video Watch Time</u></a></li>
+<li><a href="https://os-tips.techidaily.com/14-proven-strategies-resolve-your-no-service-issue-on-an-iphone/"><u>14 Proven Strategies: Resolve Your 'No Service' Issue on an iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>2024 Approved Metaverse Versus Multimeva Defining Their Differences Clearly</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/download-our-free-tool-for-instant-amr-to-mp3-conversion-save-time-upgrade-sound-quality/"><u>Download Our FREE Tool for Instant AMR to MP3 Conversion – Save Time, Upgrade Sound Quality!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-from-avi-to-gif-your-fast-free-online-solution/"><u>Effortless Conversion From AVI to Gif - Your Fast, Free Online Solution!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-key-points-to-consider-when-selling-your-iphone/"><u>Essential Guide: Key Points to Consider When Selling Your iPhone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-guide-understanding-iphone-high-dynamic-range-hdr-technology/"><u>Essential Guide: Understanding iPhone High Dynamic Range (HDR) Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-free-your-tracfone-locked-iphone-discover-the-most-effective-unlock-websites-ranked-1-to-5/"><u>How To Free Your TracFone-Locked iPhone : Discover the Most Effective Unlock Websites Ranked #1 to #5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/independent-android-adventures-the-ultimate-list-of-unplugged-titles-for-2024/"><u>Independent Android Adventures - The Ultimate List of Unplugged Titles for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-launch-issues-playing-forza-horizon-4-smoothly-in-the-year-2024/"><u>Overcome Launch Issues: Playing Forza Horizon 4 Smoothly in the Year 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-iphone-cant-sync-songs-playlists-or-photos-with-itunes-or-mac/"><u>Troubleshooting Guide: How to Resolve Issues When Your iPhone Can't Sync Songs, Playlists or Photos with iTunes or Mac</u></a></li>
 </ul></div>
 

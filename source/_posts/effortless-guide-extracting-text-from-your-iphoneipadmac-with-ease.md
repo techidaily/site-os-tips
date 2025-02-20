@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease"
-date: 2025-02-03T23:38:12.303Z
-updated: 2025-02-09T20:10:45.094Z
+date: 2025-02-15T21:14:19.351Z
+updated: 2025-02-20T03:25:06.489Z
 tags:
   - ios
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 * [How to Copy Any Text on Mac](https://article-knowledge.techidaily.com/updated-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry-for-2024/)
 * [Why This Is So Useful](https://android-frp.techidaily.com/about-oppo-reno-9a-frp-bypass-by-drfone-android/)
 * [More Useful iPhone Tricks](https://some-approaches.techidaily.com/updated-preserving-audio-broadcasts-a-simple-internet-radio-technique/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 !['Show Text' icon on a screenshot in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show_text_icon.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap on this and the text in the image should immediately be highlighted. You can now select this text as you would any other, by tapping and holding your finger until the text selection tool appears. Drag the start and end points where you want them, or hit “Select All” to grab everything.
 
  You can now use “Copy” to copy that text to the clipboard. Now open Notes, an email or Messages conversation, or a text document of your choice and paste the text by tapping and holding then selecting “Paste” from the context menu.
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  This trick also works in Safari, just tap and hold an image then choose “Show Text” first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Copy Any Text on Mac
@@ -61,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ![Selectable text on a sign in Safari browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-06-at-15-39-00.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click and drag to select text as you would anywhere else on your Mac, then copy using the Command-click menu or Command+C keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why This Is So Useful
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ![Selecting the text on a keyring using a photo in Apple Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select_text_photo.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you go this route, you might end up with a lot of junk screenshots clogging up your Camera Roll (or Mac desktop). You can [delete screenshots on an iPhone or iPad](https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/) by locating them under the “Media Types” section of the Albums tab in Apple Photos.
@@ -105,14 +105,20 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ssential-tools-top-8-mirrorless-cams-for-professional-filmmakers-for-2024/"><u>[New] Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-building-a-brand-through-youtube-a-strategic-guide/"><u>2024 Approved Building a Brand Through YouTube A Strategic Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-mobvoi-ticwatch-pro-with-4g-connectivity-your-go-to-smartwatch-alternative/"><u>Comprehensive Evaluation of Mobvoi Ticwatch Pro with 4G Connectivity – Your Go-To Smartwatch Alternative</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-how-to-disable-auto-updates-in-windows-permanently/"><u>Comprehensive Guide: How to Disable Auto Updates in Windows Permanently</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-to-securely-rebooting-windows-and-macos-computers-without-losing-information/"><u>Guide to Securely Rebooting Windows & macOS Computers Without Losing Information</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-access-encrypted-sd-memory-cards-and-retrieve-your-lost-data-successfully/"><u>How To Access Encrypted SD Memory Cards & Retrieve Your Lost Data Successfully</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-xiaomi-redmi-13c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi 13C Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620260555-stop-unexpected-reboots-on-your-windows-groove-proven-troubleshooting-steps-inside/"><u>Stop Unexpected Reboots on Your Windows Groove – Proven Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-breaking-down-the-animation-process-a-movie-maker-approach/"><u>[New] Breaking Down the Animation Process A Movie Maker Approach</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-ranked-motors-the-quintessential-guide-to-flight-mastery-for-2024/"><u>[Updated] Top-Ranked Motors The Quintessential Guide to Flight Mastery for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beginners-essential-strategies-for-password-management-on-your-ios-devices/"><u>Beginner's Essential Strategies for Password Management on Your iOS Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-saving-and-sharing-your-icloud-keychain-with-csv-file-conversion/"><u>Complete Guide: Saving and Sharing Your iCloud Keychain with CSV File Conversion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-instructions-to-acquire-custom-ringtone-apps-on-apple-iphones-and-android-phones/"><u>Easy Instructions to Acquire Custom Ringtone Apps on Apple iPhones and Android Phones</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhance-your-shorts-appeal-with-personalized-thumbnails-for-2024/"><u>Enhance Your Shorts' Appeal with Personalized Thumbnails for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/frame-perfection-ultimate-picks-for-photographic-lenses-for-2024/"><u>Frame Perfection Ultimate Picks for Photographic Lenses for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-zoom-on-apple-tv-with-airplay-a-step-by-step-guide-for-seamless-video-conferencing/"><u>How To Fix Zoom on Apple TV with AirPlay: A Step-By-Step Guide for Seamless Video Conferencing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-essential-choice-top-11-beginner-friendly-kids-camera-options/"><u>In 2024, Essential Choice Top 11 Beginner-Friendly Kids' Camera Options</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/shifting-algorithms-for-enhanced-social-media-interaction/"><u>Shifting Algorithms for Enhanced Social Media Interaction</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-for-casting-your-iphone-display-on-a-tv-screen-even-without-using-apples-device/"><u>Simple Steps for Casting Your iPhone Display on a TV Screen, Even Without Using Apple's Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-restoring-functionality-to-your-nonfunctional-iphone-alarm/"><u>Step-by-Step Solution: Restoring Functionality to Your Nonfunctional iPhone Alarm</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-narzo-n53-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme Narzo N53 Phone Hassle-Free</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-zte-axon-40-lite-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to ZTE Axon 40 Lite FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Mood Tracking on Apple Health Platform
-date: 2025-02-03T23:32:07.114Z
-updated: 2025-02-09T17:10:53.784Z
+date: 2025-02-17T00:15:02.761Z
+updated: 2025-02-20T02:32:58.739Z
 tags:
   - ios
 categories:
@@ -25,12 +25,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Apple's Health app lets you log your emotions and moods and informs you about factors affecting your mental wellbeing. Here's how the mood logging feature works on your Apple devices and how to enable it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Log an Emotion or Mood
 
  Emotion and mood logging is available on an iPhone and iPad running iOS 17 or later and on an Apple Watch running watchOS 10 or later. Let's walk through the steps for enabling this feature on an iPhone (the same steps are also applicable to enabling the feature on an iPad).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  On Your iPhone
@@ -43,17 +47,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone screen highlighting the mental wellbeing option inside the Health app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_7c6e5cd9d309-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, scroll down to select "State of Mind."
 
 ![An iPhone highlighting the State of Mind option in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_6012.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you've already set up this feature, tap "Log" in the top-right corner. Otherwise, Apple will greet you with information about the feature, and you can select "Get Started" to set it up.
 
@@ -62,6 +58,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  When you set up the feature, Apple provides highlights about it and explains the meanings of mood and emotion in the context of Apple Health. Tap on "Begin" to log an emotion.
 
 ![An iPhone screen explaining the difference between emotion and mood.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_c75546c5817c-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Emotion" if you want to log what you are feeling at a given moment, or select "Mood" if you would like to log how you have felt for an entire day.
 
@@ -75,10 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone showing words to be selected by user for logging mood.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_230212c636de-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you've done this, your iPhone will log your emotion and associated words in the Health app.
 
 ###  On Your Apple Watch
@@ -88,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Open the Mindfulness app.
 
 ![An Apple Watch highlighting the Mindfulness app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-14ad869e-33e6-426a-92eb-c5d4ea80eb79.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, scroll down and select "State of Mind."
 
@@ -101,31 +101,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An Apple Watch screen showing mood selection for logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-4e5b1948-5c22-43af-b6d7-45e11f52761e.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, you will be shown a list of words to better describe your selected emotion. Select any optional words, then tap the checkmark in the upper right corner of the screen.
 
 ![An Apple Watch showing a list of words to describe a mood or emotion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-930ed9a0-8f36-4534-bb4b-d630f08589dd.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, select any optional words for what has had the biggest impact on you concerning the emotion selected above, then tap the checkmark in the upper right.
 
 ![An Apple Watch asking user to choose one prominent mood or emotion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/incoming-87366e68-3b81-438e-8681-258c2ca063d7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your mood and emotion logging is now complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Enable Reminders for Logging Your Mood and Emotion
 
@@ -141,10 +129,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone showing reminder options for emotion and mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5f41be10759f-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also tap "Manage Mindfulness in Apple Watch App" to set reminders for your Apple Watch. The same options for setting up a reminder during the day, at the end of the day, or at a custom-selected time are provided for the Apple Watch, too.
 
 ##  View Insights into Your Mental Wellbeing
@@ -152,6 +136,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Apple allows users to view insights from emotion and mood logging. To view insights from Mental Wellbeing on your iPhone, go to Health > Browse > Mental Wellbeing > State of Mind and tap on Show in Charts.
 
 ![An iPhone highlighting how to view charts for emotion and mood logging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img_1cccd147f139-1-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here, tap on States to view your previous logs.
 
@@ -162,12 +150,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An iPhone showing Associations in the Mental Wellbeing feature of Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6066.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Life Factors will show you factors such as Exercise Minutes, Mindful Minutes, Sleep, or Time in Daylight that might impact your mental well-being.
 
 ![An iPhone highlighting the life factors of the Mental Wellbeing feature in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6067.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Delete a Mood or Emotion Log
 
@@ -179,7 +171,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An iPhone highlighting how to delete health logs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_6071.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Secure Is Your Mental Health Data?
 
@@ -202,22 +202,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-enhanced-exhilaration-curated-list-of-best-srt-upgrades-for-pc-and-mac/"><u>[New] 2024 Approved Enhanced Exhilaration Curated List of Best SRT Upgrades for PC & Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-achieving-high-res-on-twitter-vids-for-2024/"><u>[New] Achieving High-Res on Twitter Vids for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonize-with-inshots-music-load-functionality/"><u>2024 Approved Harmonize with InShot's Music Load Functionality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-ios-applications-bringing-your-podcast-to-life/"><u>2024 Approved Top 5 iOS Applications Bringing Your Podcast to Life</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/6-at-just-599-over-30-hours-of-battery/"><u>6 at Just $599 - Over 30 Hours of Battery</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-tech-line-up-cards-for-4k-videography/"><u>Elite Tech Line-Up Cards for 4K Videography</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-guide-mastering-zipping-and-unzipping-filesfolders-on-your-mac/"><u>Essential Guide: Mastering Zipping & Unzipping Files/Folders on Your Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-non-responsive-quicktime-playback-on-macos-devices/"><u>Fixing Non-Responsive QuickTime Playback on macOS Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-color-expert-tips-for-troubleshooting-a-black-screened-mac/"><u>How to Restore Color: Expert Tips for Troubleshooting a Black-Screened Mac</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/revolutionizing-video-sharing-alternatives-to-youtube-for-2024/"><u>Revolutionizing Video Sharing Alternatives to YouTube for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-resolving-non-responsive-imovie-issues/"><u>Solutions for Resolving Non-Responsive iMovie Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/speeding-up-safari-how-to-restore-swift-browsing-speeds-on-your-mac/"><u>Speeding Up Safari: How to Restore Swift Browsing Speeds on Your Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-7-proven-methods-to-resolve-your-macs-sudden-black-screen-problem/"><u>Top 7 Proven Methods to Resolve Your Mac's Sudden Black Screen Problem</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-human-resources-with-ai-how-oracle-integrates-generative-technology-into-their-systems/"><u>Transforming Human Resources with AI: How Oracle Integrates Generative Technology Into Their Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-quicktime-issues-solutions-for-mac-users/"><u>Troubleshooting QuickTime Issues: Solutions for Mac Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-preserve-your-memories-secure-mac-photo-storage-techniques/"><u>Ultimate Guide: Preserve Your Memories - Secure Mac Photo Storage Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go-for-2024/"><u>Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-become-a-gif-whisperer-crafting-images-from-vimeo-videos-for-2024/"><u>[New] Become a GIF Whisperer Crafting Images From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-diary-documenting-windows-desktop/"><u>[New] In 2024, Digital Diary Documenting Windows Desktop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-seamless-integration-of-skype-meetings-into-zoom-platform-for-2024/"><u>[New] Seamless Integration of Skype Meetings Into Zoom Platform for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-viewer-interest-6-video-styles-explored/"><u>[Updated] Mastering Viewer Interest 6 Video Styles Explored</u></a></li>
+<li><a href="https://os-tips.techidaily.com/15-effective-ways-to-troubleshoot-and-repair-your-iphones-malfunctioning-gps-featuring-the-latest-iphone-12/"><u>15 Effective Ways to Troubleshoot and Repair Your iPhone's Malfunctioning GPS, Featuring the Latest iPhone 12</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos/"><u>2024 Approved Capturing the Moment Expert Tips for Amazing Android Slow Mo Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-14-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi 14 Pro FRP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/captivating-video-characters-through-free-animation/"><u>Captivating Video Characters Through Free Animation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-tips-for-resetting-your-ipod-device-solutions-included/"><u>Comprehensive Troubleshooting Tips for Resetting Your iPod Device - Solutions Included</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/designing-engrossing-videography-storylines/"><u>Designing Engrossing Videography Storylines</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-resolve-iphone-models-15-11-and-x-echo-issues-with-these-4-steps/"><u>Effortless Solutions: Resolve iPhone (Models 15-11 & X) Echo Issues with These 4 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides"
-date: 2025-02-04T00:05:52.645Z
-updated: 2025-02-09T22:57:21.187Z
+date: 2025-02-17T16:37:32.506Z
+updated: 2025-02-19T16:29:36.703Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 ---
 
 ## Unveiling IOS 17.5: Discover a Spectrum of New iPhone Features with Easy-to-Follow Usage Guides
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 ![Warning screens when downloading an app in Safari for iPhone](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-web-distribution-safari-iphone-example-app.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Developers must meet [Apple’s stringent notarization guidelines](https://developer.apple.com/support/web-distribution-eu/) to implement this feature, called Web Distribution. This includes having been a member of the Apple Developer Program for at least two years and having at least one million app installs in the previous year.
@@ -56,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Find My Device on Android phone showing personal item trackers](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/google-android-find-my-device-personal-item-trackers.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Companies that have pledged support for Apple’s and Google’s Find My networks include Samsung, Tile, Chipolo, eufy Security, and Pebblebee. Sony and JBl have confirmed they’ll release new firmware updates to make some of their headphones trackable via Find My.
 
 ![Sony's over-ear headphones set against a colorful gradient background.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/sony-wh-1000xm5-headphones-three-quarters-view.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  The New Quartiles Word Game
 
@@ -74,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7
 
 ![Apple iOS 17.5 News App Quartiles Game Three Word Tiles Selected](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-three-word-tiles-selected.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Apple iOS 17.5 News App Quartiles Game Word Completed](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-completed.png) 
 
 ![Apple iOS 17.5 News App Quartiles Game Word Tiles](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-game-word-tiles.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -89,6 +85,10 @@ Close
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Second Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-second-splash-screen.png) 
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Third Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-third-splash-screen.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Apple iOS 17.5 News App Quartiles Word Game Instructions Fourth Splash Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-quartiles-word-game-instructions-fourth-splash-screen.png) 
 
@@ -109,6 +109,10 @@ Close
  To compare your daily score and solve time against friends or global leaderboards, go to Following > Puzzles and hit an icon resembling a star atop an ordered list.
 
 ![The Puzzles section in the iPhone's News app, with the Game Center icon highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-following-tab-puzzles-section.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Game Center on iPhone with the Apple News section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-game-center-apple-news-leaderboards-selected.png) 
 
@@ -144,6 +148,10 @@ Close
 
 ![Apple News app setting on iPhone in iOS 17.4, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-4-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Apple News app setting on iPhone in iOS 17.5, with the Restrict Stories in Today option highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-news-iphone-settings-restrict-stories-in-today-highlighted.png) 
 
 Close 
@@ -152,7 +160,15 @@ Close
 
 ![Apple News app settings on iPhone in iOS 17.4, with the Automatic Downloads section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-4-news-app-iphone-settings-automatic-downloads-highlighted.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Apple News app settings on iPhone in iOS 17.5, with the News+ Offline Mode section highlighted.](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/apple-ios-17-5-news-app-iphone-settings-news-plus-offline-mode-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -192,29 +208,17 @@ Close
 
 [Apple announced](https://www.apple.com/newsroom/2024/04/apple-to-expand-repair-options-with-support-for-used-genuine-parts/) that iOS 18’s parts and service history in Settings > General > About will show if the device has a new or used genuine Apple component, making it even easier to [check whether a used iPhone has been repaired](https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/) with aftermarket parts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  MDMs Can Enforce iOS Beta Versions
 
 [Aaron Perris noted on X](https://twitter.com/aaronp613/status/1775273274039259349) that Apple has improved mobile device management (MDM) solutions for installing enterprise apps, giving businesses more control over devices.
 
  If your company-issued device uses a remotely updated MDM profile, your IT administrator can now enforce an iOS, iPadOS, or macOS beta during automated device enrollment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  The New “Pride Radiance” Dynamic Wallpapers
 
  iOS 17.5 brings the new Pride Radiance wallpapers which rock a fluorescent design inspired by multiple pride flags. To celebrate Pride 2024 on your Home and Lock Screens in style, go to Settings > Wallpaper, choose "Add New Wallpaper" and select a wallpaper underneath "Pride," then swipe horizontally to change the colors.
 
 ![Browsing wallpaper collections in Settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-settings-app-add-new-wallpaper-pride-collection.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Swiping to change wallpaper color in Settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-settings-app-add-new-wallpaper-pride-radiance-swipe-change-color.jpg) 
 
@@ -233,7 +237,7 @@ Close
 ![The iPhone's Find My app with the Remove This Device option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-remove-iphone.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Find My on iPhone displaying a Repair State confirmation prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-ios-17-5-find-my-app-remove-iphone-confimration-prompt.png) 
@@ -264,11 +268,11 @@ Close
 
 ![iOS 17.5 Apple Podcasts Widget Brown Color Home Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ios-17-5-apple-podcasts-widget-brown-color-home-screen.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Passkeys Access Privacy Glyph
 
@@ -302,10 +306,6 @@ Close
 
  iPadOS 17.5 brings support for four new iPad models, including two sizes of iPad Air and two iPad Pro tablets with the M4 chip. The new iPad Pro models are [more powerful than many MacBooks](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/), and the [iPad Air gets a new 13-inch screen option](https://win-answers.techidaily.com/optimizing-fallout-4-performance-for-lightning-fast-loads/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Battery Health Menu Coming to (Some) iPads
 
  A Battery Health menu might surface crucial battery stats such as cycle count and maximum remaining capacity for the first time on an iPad. This feature was unavailable in the iOS 17.5 beta as it seems to be restricted to the new iPads and their new battery technology.
@@ -333,19 +333,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-video-chatcall-on-snapchat-with-3-steps-for-2024/"><u>[New] How to Video Chat/Call on Snapchat with 3 Steps for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/onetizing-video-how-much-does-a-single-streamer-earn/"><u>[New] Monetizing Video How Much Does a Single Streamer Earn?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-rapid-video-grabber-your-gateway-to-all-online-videos/"><u>[Updated] 2024 Approved Rapid Video Grabber - Your Gateway to All Online Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-sharing-your-creations-with-ease-a-step-by-step-instagram-posting-tutorial/"><u>Complete Guide: Sharing Your Creations with Ease - A Step-by-Step Instagram Posting Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-secure-your-data-by-moving-old-phone-passwords-to-your-new-iphone/"><u>Easy Steps: Secure Your Data by Moving Old Phone Passwords to Your New iPhone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-seamless-sound-with-ion-audio-tailgater-plus-instant-powerful-bass-and-endless-music/"><u>Experience Seamless Sound with Ion Audio Tailgater Plus - Instant Powerful Bass and Endless Music!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-youtube-captions-3-effective-methods-to-download-srt-files-for-2024/"><u>Mastering YouTube Captions 3 Effective Methods to Download SRT Files for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-guide-how-beginners-can-reset-their-iphones-email-password-swiftly/"><u>Simple Guide: How Beginners Can Reset Their iPhone's Email Password Swiftly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-significance-of-heic-image-encoding-for-iphone-photography-key-facts-you-need-to-know/"><u>The Significance of HEIC Image Encoding for iPhone Photography: Key Facts You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-4-strategies-for-finding-your-lost-iphone-or-ipad/"><u>Top 4 Strategies for Finding Your Lost iPhone or iPad</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-digital-touch-messaging-a-comprehensive-guide-for-iphone-users/"><u>Understanding Digital Touch Messaging: A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://win-best.techidaily.com/wat-doe-je-als-je-data-vergeten-bent-van-de-usb-schijf-een-uitgebreide-herinneringspunt/"><u>Wat Doe Je Als Je Data Vergeten Bent Van De USB-Schijf: Een Uitgebreide Herinneringspunt</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/your-path-to-youtube-prominence-effective-tactics-unveiled-for-2024/"><u>Your Path to YouTube Prominence Effective Tactics Unveiled for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-pioneering-success-with-real-time-twitter-videos-for-2024/"><u>[New] Pioneering Success with Real-Time Twitter Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-pinpointing-the-10-most-discreet-story-advocates/"><u>[Updated] In 2024, Pinpointing the 10 Most Discreet Story Advocates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-techniques-for-incorporating-hyperlinks-into-tiktok-profiles-for-2024/"><u>[Updated] Top Techniques for Incorporating Hyperlinks Into TikTok Profiles for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-and-convert-your-itunes-content-without-drm-using-the-dearmob-tutorial/"><u>Access & Convert Your iTunes Content without DRM Using the DearMob Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-errors-caused-by-organization-managed-features-on-windows-11/"><u>Addressing Errors Caused by Organization-Managed Features on Windows 11</u></a></li>
+<li><a href="https://win-online.techidaily.com/convert-mpeg-files-to-mp4-for-free-with-movavis-easy-web-tool-quick-and-secure-upload/"><u>Convert MPEG Files to MP4 for Free with Movavi's Easy Web Tool - Quick & Secure Upload</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-day-to-day-with-these-9-chatgpt-strategies/"><u>Effortless Day-to-Day with These 9 ChatGPT Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-access-and-manipulate-icalendar-files-from-an-iosipados-device-using-dearmob-app-on-a-pc/"><u>How to Access and Manipulate iCalendar Files From an iOS/iPadOS Device Using DearMob App on a PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808092884-quick-fix-speeding-up-your-slow-windows-10-updates/"><u>Quick Fix: Speeding Up Your Slow Windows 10 Updates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamlessly-sync-your-ios-camera-captures-with-windows-using-deermobs-comprehensive-guide/"><u>Seamlessly Sync Your iOS Camera Captures with Windows Using DeerMob's Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sync-your-iphone-with-windows-pc-comprehensive-transfer-instructions-for-deedroid-users/"><u>Sync Your iPhone with Windows PC - Comprehensive Transfer Instructions for DeeDroid Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-power-of-words-in-podcast-summaries/"><u>The Power of Words in Podcast Summaries</u></a></li>
 </ul></div>
 

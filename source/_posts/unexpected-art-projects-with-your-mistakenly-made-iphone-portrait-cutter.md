@@ -1,7 +1,7 @@
 ---
 title: Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
-date: 2025-02-08T19:26:44.255Z
-updated: 2025-02-09T17:26:32.849Z
+date: 2025-02-17T18:55:35.415Z
+updated: 2025-02-20T06:00:04.494Z
 tags:
   - ios
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unexpected Art Projects with Your Mistakenly Made iPhone Portrait Cutter
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It’s surprisingly easy to accidentally create a cutout of a subject while browsing your Photos library on an iPhone (or an iPad and Mac, for that matter). So what can you _actually_ do with them?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Creating Cutouts is Easy
 
  As long as you have an iPhone XS or second-generation iPhone SE or newer, creating a cutout is so easy you’ll probably do it by mistake. You can [isolate subjects in photos](https://extra-support.techidaily.com/in-2024-navigating-the-complexities-of-gesture-recognition/) including people, pets, and inanimate objects like signs or clothing.
@@ -36,15 +36,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Isolating a subject from an image in iPhone Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1922.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  You can also create cutouts using the Files app, isolating subjects in images saved to your iCloud Drive or internal storage. To do this, long-press a photo and use the “Quick Actions” menu to “Remove Background.” In Safari, you can long press on a photo to reveal the context menu and then choose “Copy Subject” to copy the subject to your clipboard.
 
  Some of the uses below require that you save the image to your Photos library, while others work solely using your device’s clipboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create Stickers Using Photo Cutouts
 
@@ -60,6 +60,10 @@ Tim Brookes / How-To Geek
 
  To remove a sticker, tap and hold it and choose “Delete.” Your stickers will sync between devices thanks to the wonders of iCloud. You’ll be able to access them in the Messages app on a Mac, though you can’t (currently) create them on a Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Mood Board
 
  A mood board is a visual collage of ideas that includes images, text, and other media. Being able to easily cut out subjects from images can make the creation of a mood board fast and easy, removing the need for you to cut out anything by hand. Using the “Copy Subject” option in Safari (after long-pressing an image) means you don’t even need to save an image to your device to use it.
@@ -72,6 +76,10 @@ Tim Brookes / How-To Geek
 
  Mood boards can be fun and functional. You can use them to create lookbooks for home design, hair and beauty, fashion, art and design, and much more. If you’re into this sort of thing, subject isolation can be a valuable tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Visual Log of Outfits and More
 
  This was an idea I saw [shared by TikTok user](https://www.tiktok.com/@macaulay%5Fflower/video/7142962238343630126) macaulay\_flower and it’s a stroke of genius. By taking a full-body selfie, you can create a visual log of outfits that can be easily stored in Apple Notes. Each time you come up with a new look, take another image, copy the subject, and paste it into your note.
@@ -80,10 +88,6 @@ Tim Brookes / How-To Geek
 
  For best results, keep your lighting, posing, and orientation consistent between images. For outfits or makeup, this is relatively easy if you take your selfies in the same mirror every day. For more obscure visual logs, this could require a little more care.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use Them in Instagram Stories
 
  Once you’ve copied a subject to your clipboard, using it in an Instagram story is easy if you know how. Once you’ve got your background sorted, you can tap anywhere within the frame to add text. Tap again to reveal the “Paste” option and use it to add a subject from your clipboard to your story.
@@ -91,16 +95,12 @@ Tim Brookes / How-To Geek
 ![Place subjects on a background for use in Instagram stories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_1928.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
  You can then move it around the frame, scale it, and do it all over again. Instagram seems to be the only social network that can take advantage of this trick.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Highlight the Subject in Almost Any App
 
@@ -153,24 +153,24 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-your-guide-to-flawless-solo-livestreaming-operations-for-2024/"><u>[New] Your Guide to Flawless, Solo Livestreaming Operations for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-decoding-youtubes-revenue-model-for-video-clips/"><u>[Updated] 2024 Approved Decoding YouTube's Revenue Model for Video Clips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-dissecting-splitcams-stand-in-video-technology/"><u>[Updated] Dissecting SplitCam's Stand in Video Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-with-film-color-grading-these-7/"><u>2024 Approved Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-f23-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo F23 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-12-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus 12 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-x50-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor X50 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>In 2024, Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-common-issues-with-the-cash-app-a-step-by-step-guide-for-quick-recovery/"><u>Resolving Common Issues with the Cash App: A Step-by-Step Guide for Quick Recovery</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rethink-your-charge-understanding-the-truth-about-larger-phone-batteries/"><u>Rethink Your Charge: Understanding the Truth About Larger Phone Batteries</u></a></li>
-<li><a href="https://os-tips.techidaily.com/review-of-the-twelve-south-butterfly-dual-function-power-bank-with-magsafe-perfect-for-on-the-go-charging/"><u>Review of the Twelve South Butterfly Dual-Function Power Bank with MagSafe - Perfect for On-the-Go Charging</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-overcoming-limited-access-when-sos-is-displayed-on-the-status-bar/"><u>Reviving Your iPhone: Overcoming Limited Access when SOS Is Displayed on the Status Bar</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revolutionary-voice-how-your-iphone-communicates-as-powerfully-as-apples-first-macintosh/"><u>Revolutionary Voice: How Your iPhone Communicates as Powerfully as Apple's First Macintosh</u></a></li>
-<li><a href="https://os-tips.techidaily.com/say-goodbye-to-car-induced-discomfort-with-iphones-latest-ios-18-update-for-a-smoother-ride-experience/"><u>Say Goodbye to Car-Induced Discomfort with iPhone's Latest iOS 18 Update for a Smoother Ride Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-phone-easily-how-to-modify-iphone-password-settings/"><u>Secure Your Phone Easily: How to Modify iPhone Password Settings</u></a></li>
-<li><a href="https://os-tips.techidaily.com/slow-charge-on-your-iphone-discover-why-and-how-to-fix-it/"><u>Slow Charge on Your iPhone? Discover Why and How to Fix It!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-your-iphones-ios-updating-issues-top-11-solutions/"><u>Solving Your iPhones iOS Updating Issues: Top 11 Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/streamlining-security-effortless-removal-of-2fa-notifications-from-ios-devices/"><u>Streamlining Security: Effortless Removal of 2FA Notifications From iOS Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-a2plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi A2+ Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-picks-essential-tools-to-play-ps1-games-on-your-computer/"><u>[New] 2024 Approved Top Picks - Essential Tools to Play PS1 Games on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-battlefield-5-crashing-on-pc/"><u>[SOLVED] Battlefield 5 Crashing on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-humorhub-easy-login-easy-signup/"><u>[Updated] 2024 Approved HumorHub Easy Login, Easy Signup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplifying-remote-work-with-zoom-recording-techniques-for-2024/"><u>[Updated] Simplifying Remote Work with Zoom Recording Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-strategies-for-penning-persuasive-vlogger-content/"><u>[Updated] Strategies for Penning Persuasive Vlogger Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-the-five-essential-benefits-of-restoring-deleted-information-from-iphones-via-desktop-or-laptop-systems/"><u>Discover the Five Essential Benefits of Restoring Deleted Information From iPhones via Desktop or Laptop Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-accidentally-erased-files-on-ios-devices-through-specialized-recovery-applications/"><u>Expert Tips for Retrieving Accidentally Erased Files on iOS Devices Through Specialized Recovery Applications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-get-back-your-deleted-texts-tips-and-techniques-for-message-restoration/"><u>How to Get Back Your Deleted Texts: Tips and Techniques for Message Restoration</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-safely-remove-specific-keys-from-your-pcs-registry-a-step-by-step-guide/"><u>How to Safely Remove Specific Keys From Your PC's Registry: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-google-pixel-8-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Google Pixel 8 by Name | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/samsung-t7-versus-sandisk-extreme-an-in-depth-analysis-of-superior-speed-and-durability-in-ssds/"><u>Samsung T7 Versus SanDisk Extreme: An In-Depth Analysis of Superior Speed and Durability in SSDs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-to-retrieve-deleted-snaps-on-iphone-and-android-devices/"><u>Simple Guide: How to Retrieve Deleted Snaps on iPhone and Android Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mastering-iphone-backup-password-restoration/"><u>Step-by-Step Tutorial on Mastering iPhone Backup Password Restoration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-returning-ios-device-to-original-state-and-recovering-data-via-itunes-or-finder/"><u>Step-by-Step Tutorial: Returning iOS Device to Original State & Recovering Data via iTunes or Finder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-the-top-5-iphone-image-restoration-apps-on-windowsmac-2024-edition/"><u>The Ultimate Guide to the Top 5 iPhone Image Restoration Apps on Windows/Mac, 2024 Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-essential-ios-applications-for-effortlessly-retrieving-lost-iphone-contact-details/"><u>Top 6 Essential iOS Applications for Effortlessly Retrieving Lost iPhone Contact Details</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-troubleshooting-for-restoring-lost-notes-on-any-iphone-version-models-from-iphone-4-to-iphone-12/"><u>Ultimate Troubleshooting for Restoring Lost Notes on Any iPhone Version (Models From iPhone 4 to iPhone 12)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Configuring iMessage Timers & Reminders"
-date: 2025-02-08T02:08:09.516Z
-updated: 2025-02-10T03:24:07.076Z
+date: 2025-02-15T17:08:41.866Z
+updated: 2025-02-19T20:14:13.532Z
 tags:
   - ios
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ---
 
 ## Step-by-Step Tutorial: Configuring iMessage Timers & Reminders
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Plus sign on the Automation tab and Create a Personal Automation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PersonalAutomation-iPhoneScheduleText.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the top of the next screen, pick "Time of Day." On the subsequent When screen, choose "Time of Day" and pick the time in the box that appears.
 
 ![Automation for a Time of Day and time](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/TimeOfDay-iPhoneScheduleText.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can pick Sunrise or Sunset and choose an offset. For example, if you're recipient is an early bird, you can select a time around sunrise.
 
@@ -57,35 +61,31 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![The timing settings for the message Shortcut we're creating.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-imemdiately.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although you may not want your text message to send continually, the repeat setting is required. If you want to schedule a one-time message, you'll simply remove the automation after it finishes, which we'll explain in the [next section](https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/).
 
  On the Actions screen, expand the Next Action Suggestions section and pick "Send Message." If it isn't visible, enter "message" in the search bar at the top to find it.
 
 ![Tap or search for the "Send Message" function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-send-message.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, on the subsequent screen, you'll use the top box to set up your text.
 
 ![The template for a "Send Message" Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-send-settings.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tap "Message" in blue and type your text. Then, tap "Recipients" in blue, select or [enter a contact](https://video-ai-editor.techidaily.com/updated-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-now/), and choose "Done."
 
 ![Text for the message and contact](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MessageRecipient-iPhoneScheduleText.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll then see the text message and recipient in the box. If you're happy with it, tap "Done" to finish.
 
 ![An example Shortcut sending "Happy Birthday" to Sandy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-happpy-bday-sandy.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll then return to the Automation screen in the Shortcuts app. You can schedule another text message the same way or simply close the app.
 
@@ -99,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Swipe left on a Shortcut to delete it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To disable the automation, select it, tap "Automation," then select "Don't Run."
 
 ![Set the automation to "Don't Run."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-don-t-run.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apple offers a feature to [schedule an email in the Mail app](https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-f14-5g-try-these-fixes-by-drfone-android/), so hopefully down the road, we'll see a feature to schedule a text in Messages as well. In the meantime, at least you can schedule a text message on iPhone using Shortcuts.
 
@@ -124,17 +124,19 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-easy-iphonesideways-capturing-the-moment/"><u>[New] Easy iPhonesideways Capturing the Moment</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aster-the-skill-of-trimming-youtube-videos-for-perfect-bites/"><u>[New] Master the Skill of Trimming YouTube Videos for Perfect Bites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ecoflow-portable-generator-the-ultimate-solution-for-home-power-during-blackouts/"><u>EcoFlow Portable Generator: The Ultimate Solution for Home Power During Blackouts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/foolproof-fixes-for-the-iphone-camera-icon-not-showing-problem/"><u>Foolproof Fixes for the 'iPhone Camera Icon Not Showing' Problem</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/intense-meetings-perfect-your-screen-focus-in-msteams/"><u>Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/robert-youngjohns-steering-vision-as-abbyys-esteemed-board-chair/"><u>Robert Youngjohns: Steering Vision as ABBYY's Esteemed Board Chair</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solving-iphones-sluggish-charge-expert-advice-and-effective-fixes/"><u>Solving iPhone's Sluggish Charge: Expert Advice and Effective Fixes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/special-needs-evacuation-procedures-must-be-in-place-for-individuals-with-disabilities/"><u>Special Needs Evacuation Procedures Must Be in Place for Individuals with Disabilities.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-8-effective-solutions-for-resolving-imessage-activation-issues/"><u>Top 8 Effective Solutions for Resolving iMessage Activation Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-faqs-understanding-how-your-iphone-handles-voice-messages/"><u>Top FAQs: Understanding How Your iPhone Handles Voice Messages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-wi-fi-issues-fixing-connectivity-problems-on-your-iphone/"><u>Troubleshooting Wi-Fi Issues: Fixing Connectivity Problems on Your iPhone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results/"><u>Updated The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-leading-small-drones-2021-a-buyers-guide-for-2024/"><u>[New] Leading Small Drones 2021 A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-video-visibility-barriers-in-social-networking/"><u>[New] Navigating Video Visibility Barriers in Social Networking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-panning-for-priceless-pieces-in-open-source-archives/"><u>[New] Panning for Priceless Pieces in Open-Source Archives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ipads-artistic-haven-top-8-sketch-innovators/"><u>2024 Approved IPad's Artistic Haven Top 8 Sketch Innovators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eat-healthy-foods-rich-in-omega-3-fatty-acids-foods-high-in-omega-3s-have-shown-promising-results-when-it-comes-to-reducing-depressive-symptoms-these-includ19/"><u>Eat Healthy Foods Rich in Omega-3 Fatty Acids: Foods High in Omega 3’S Have Shown Promising Results when It Comes to Reducing Depressive Symptoms. These Include Fish Oils (Salmon or Tuna), Flaxseed Oil Capsules, Walnuts & Soybeans Amongst Other Sources</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-tricks-for-clearing-up-iphone-storage-issues-following-the-ios-n-version-release/"><u>Essential Tricks for Clearing Up iPhone Storage Issues Following the iOS N Version Release</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-your-iphone-navigating-out-of-sticky-zoom-with-these-5-guaranteed-fixes/"><u>Get Your iPhone Navigating Out of Sticky Zoom with These 5 Guaranteed Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-repair-your-iphones-alarm-function-a-step-by-step-troubleshooting-guide/"><u>How to Repair Your iPhone's Alarm Function: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-final-step-delete-your-youtube-shorts-link/"><u>In 2024, The Final Step Delete Your YouTube Shorts Link</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unhindered-video-capture-app/"><u>In 2024, Unhindered Video Capture App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-hps-latest-innovation-ai-enhanced-spectre-series-unveiled-at-ces-complemented-by-dazzling-accessories/"><u>Introducing HP's Latest Innovation: AI-Enhanced Spectre Series Unveiled at CES, Complemented by Dazzling Accessories</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-for-eliminating-audio-echo-on-your-iphone-series-13-11-x/"><u>Quick Fixes for Eliminating Audio Echo on Your iPhone (Series 13-11, X)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-handbook-of-gopro-time-lapse-photography-excellence-for-2024/"><u>The Complete Handbook of GoPro Time-Lapse Photography Excellence for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-an-unresponsive-display-repairing-apples-iphone-touch-issues/"><u>Troubleshooting an Unresponsive Display: Repairing Apple's iPhone Touch Issues</u></a></li>
 </ul></div>
 
